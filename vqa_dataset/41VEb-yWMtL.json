@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f5fd1164.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted tortilla chips, as shown in the product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the shape of the individual tortilla chips showcased in the bag's transparent section?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Based on the image, what kind of chips are presented within the packaging?",
+        "answer": "Tortilla"
+      },
+      {
+        "question": "What is the dominant color used in the branding on the chip bag's label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the main material that constitutes the flexible packaging of this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the texture of the chips visible through the bag's transparent area, based on the visual cues?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What is the text prominently displayed on the bag's label, denoting the product type?",
+        "answer": "Restaurant"
+      },
+      {
+        "question": "What word, besides 'Chips', appears on the package, describing the food's style?",
+        "answer": "Tortilla"
+      },
+      {
+        "question": "What word, displayed prominently on the label, acts as a brand name?",
+        "answer": "Happy"
+      },
+      {
+        "question": "What supplementary term is used on the product label to describe its origin or style?",
+        "answer": "Belly"
+      },
+      {
+        "question": "Considering the visual presentation, what seems to be the size of the product packaging, as shown in the image?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What is the apparent overall style of the product's branding on the bag?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the visual presentation, what is the apparent weight of the product bag, as shown in the image?",
+        "answer": "10oz"
+      },
+      {
+        "question": "What is the appearance of the surface of the chips shown through the packaging?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the image show a sealed or opened bag of chips?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

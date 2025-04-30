@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0b6ba6c2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material visibly composing the majority of this rectangular container?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "Considering the overall form, what geometric descriptor best defines this item's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what is the dominant color of the presented food tray?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe the visible texture of the container's surface, apparent in the provided close-up image?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Examining the edges, what design feature is present along the perimeter of the container?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "Judging by the image, is the container's surface glossy or matte in appearance?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the apparent depth of the container relative to its length and width, based on the angle shown?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Given the image, does the container appear to be disposable or reusable in nature?",
+        "answer": "Disposable"
+      },
+      {
+        "question": "Observing the structure, does the tray show visible signs of any added handles or grips?",
+        "answer": "No"
+      },
+      {
+        "question": "From the provided perspective, is the container completely sealed or does it have openings?",
+        "answer": "Open"
+      },
+      {
+        "question": "Considering the visible details, what is the apparent thickness of the container's walls?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the image suggest any form of internal liner or coating within the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual clarity of the container; is it opaque, translucent, or transparent?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What kind of manufacturing process appears to be employed for this tray's ribbed texture?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "Considering the overall look, is this item likely designed for domestic or commercial usage?",
+        "answer": "Commercial"
+      }
+    ]
+  }
+]

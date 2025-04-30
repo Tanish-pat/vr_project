@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0be09374.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted shoe storage bag, as observed in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary material appears to constitute the exterior of this shoe storage bag, based solely on visual inspection?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "Considering the visible seams and stitching, what assessment can be made regarding the overall construction quality?",
+        "answer": "Precise"
+      },
+      {
+        "question": "What is the overarching shape of the shown shoe storage container, disregarding any minor design details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the visible image, what type of closure mechanism is used on this shoe bag?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Based on the image, what kind of handle or carrying mechanism is integrated into the shoe bag's design?",
+        "answer": "Loop"
+      },
+      {
+        "question": "Does the image suggest a particular texture for the outer material of the shoe storage bag?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the bag's structure, how many main compartments or sections are visibly present?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent function of this item, as it is depicted in the image?",
+        "answer": "Storage"
+      },
+      {
+        "question": "From the provided image, can any branding or labeling elements be identified on the product itself?",
+        "answer": "Tag"
+      },
+      {
+        "question": "Does the image offer any clues regarding the bag's water resistance or protection against moisture?",
+        "answer": "Waterproof"
+      },
+      {
+        "question": "What is the apparent overall size of the shoe storage bag relative to a typical adult hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "In the image, are there any visible reinforcement details or features enhancing durability?",
+        "answer": "Stitching"
+      },
+      {
+        "question": "What is the apparent orientation or position of the shoe storage bag in the supplied photograph?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the image, does the shoe bag appear to be designed for hanging or stand-alone use?",
+        "answer": "Hanging"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b21d3d78.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual layout, what is the overall shape of the presented information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color used for the text within the labeled section?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the primary information block presented?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the text style predominantly used throughout the given information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding any numerical values, what is the formatting style for the active ingredient names?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the visible text, what is the stated purpose of the product being described?",
+        "answer": "Sunscreen"
+      },
+      {
+        "question": "What is the format of the concentration values next to each active ingredient?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the label heading that precedes the active ingredient list?",
+        "answer": "Active"
+      },
+      {
+        "question": "What single word precedes the list of active ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the design element separating the active ingredients from the product purpose?",
+        "answer": "Brace"
+      },
+      {
+        "question": "What word is placed at the top of the information panel?",
+        "answer": "Drug"
+      },
+      {
+        "question": "What is the second word at the very top of the provided information?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What word describes the primary role of the displayed information?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the case of the lettering for 'Drug Facts' heading?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the general visual texture of the presented information block?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

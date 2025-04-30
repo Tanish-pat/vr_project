@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a3606034.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's label, showcasing the product name?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of the supplement?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What specific type of enzyme is prominently featured on the label's central text?",
+        "answer": "Papaya"
+      },
+      {
+        "question": "Based on the label's text, what is the primary functional attribute of this product?",
+        "answer": "Digestive"
+      },
+      {
+        "question": "What is the color of the small graphic of the fruit featured on the label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the visible texture of the bottle's surface, excluding the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the type of closure visible at the top of the container?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What word describes the form of the papaya enzyme supplement inside?",
+        "answer": "Tablets"
+      },
+      {
+        "question": "What is indicated by the seal across the bottle's top?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the primary brand name shown on the label?",
+        "answer": "365"
+      },
+      {
+        "question": "Describe the overall style of the label's design and typography?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Observing the label's lower portion, what quantity is specified for the tablets?",
+        "answer": "500"
+      },
+      {
+        "question": "What descriptor is used to clarify the form of the tablets?",
+        "answer": "Chewable"
+      },
+      {
+        "question": "What is the visible word indicating a dietary constraint compliance?",
+        "answer": "Vegan"
+      }
+    ]
+  }
+]
