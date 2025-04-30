@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c7/c7a1de1c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible upholstery?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of the sofa's covering?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the apparent texture of the sofa's surface material.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the visible armrest section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible stitching, what kind of seams are predominantly used?",
+        "answer": "Straight"
+      },
+      {
+        "question": "How would you describe the visible armrest's profile; is it flat or curved?",
+        "answer": "Squared"
+      },
+      {
+        "question": "What is the apparent finish of the leather; is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what is the visible style of the sofa?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the predominant visual pattern or design on the visible upholstery?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the visible elements, is the design of the sofa ornate or simple?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent thickness of the visible upholstery?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Are there any visible decorative elements or embellishments on the sofa?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general condition of the visible sofa upholstery?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the visible construction method of the armrest?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Based on the visible detail, is the furniture piece likely high-end or budget?",
+        "answer": "Mid-range"
+      }
+    ]
+  }
+]

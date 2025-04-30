@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cc/cc78afb8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the wire grid's metal?",
+        "answer": "Black"
+      },
+      {
+        "question": "What geometric shape best describes the overall form of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible construction, what material is primarily used?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the pattern formed by the intersecting wires in the grid?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What is the apparent thickness of the individual wires composing the grid?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the image, does the grid appear to be rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Is the surface of the wire grid smooth or does it possess any texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many individual wires run horizontally across the grid's length?",
+        "answer": "Ten"
+      },
+      {
+        "question": "Approximately how many wires run vertically along the grid's width?",
+        "answer": "Six"
+      },
+      {
+        "question": "Considering the grid's structure, what is its likely primary function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Do the wires appear to be uniformly spaced or irregularly arranged?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Are there any noticeable bends or distortions in the grid's wires?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent finish of the metal used to make the grid?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the grid show any signs of welding or other joining techniques?",
+        "answer": "Welded"
+      },
+      {
+        "question": "Does the product appear to have any additional components beyond the wire grid itself?",
+        "answer": "None"
+      }
+    ]
+  }
+]
