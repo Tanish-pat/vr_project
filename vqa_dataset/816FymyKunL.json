@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c9/c960ea0d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme visibly present on the phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What artistic style is predominantly depicted in the phone case's design?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What kind of design element is most prominent across the phone case's surface?",
+        "answer": "Brushstrokes"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the phone case's design include any noticeable geometric patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied protection level offered to the phone by the case?",
+        "answer": "Basic"
+      },
+      {
+        "question": "Are there any clearly visible brand logos or markings on the phone case?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the hues, are there any secondary colors supporting the primary blue?",
+        "answer": "White"
+      },
+      {
+        "question": "From the image, what level of detail is observed in the brushstroke design?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the image, what is the general feel of the case's surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any noticeable variations in the thickness of the phone case?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of transparency or opacity offered by the case?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging by the visual evidence, is the phone case design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      }
+    ]
+  }
+]

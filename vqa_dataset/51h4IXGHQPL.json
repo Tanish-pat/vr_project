@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f31e652f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rectangular trash can shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this waste receptacle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes the presented trash can?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the vertical aspects, how many noticeable, raised, parallel lines are present on the can's surface?",
+        "answer": "Four"
+      },
+      {
+        "question": "Describe the apparent texture of the outer surface of the depicted trash container, based solely on visual observation.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the main function of this object, as visually depicted in the product image?",
+        "answer": "Disposal"
+      },
+      {
+        "question": "Observing the top edge, what is the shape of the container's opening?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the image suggest the presence of any visible handles or carrying mechanisms on the trash can?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent overall design style of this rectangular waste container, judging by the provided image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the visual details, what seems to be the overall condition of this trash can, as shown in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Are there any noticeable logos, brand markings, or labels visible on the trash can's exterior?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the picture, what is the approximate height-to-width ratio of this waste bin?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Based on the image, does the trash can appear to have any noticeable curves or rounded edges?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual details, does the bin's construction appear to be solid or hollow?",
+        "answer": "Hollow"
+      },
+      {
+        "question": "Given its appearance, is this trash receptacle likely intended for indoor or outdoor use?",
+        "answer": "Either"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/97/97b7953b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary color of the cartoon design on the case?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of creature is depicted in the phone case's illustration?",
+        "answer": "Monster"
+      },
+      {
+        "question": "Describe the expression of the illustrated creature on the phone case?",
+        "answer": "Grinning"
+      },
+      {
+        "question": "What appears to be the texture of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What style is the cartoon design on the phone case?",
+        "answer": "Sketchy"
+      },
+      {
+        "question": "Is the cartoon character depicted in a standing or sitting position?",
+        "answer": "Standing"
+      },
+      {
+        "question": "What is the position of the creature's tongue in the illustration?",
+        "answer": "Out"
+      },
+      {
+        "question": "How many legs does the creature seem to have?",
+        "answer": "Zero"
+      },
+      {
+        "question": "Does the phone case have any noticeable camera cutouts?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the style of the artwork design of the creature?",
+        "answer": "Cartoon"
+      },
+      {
+        "question": "What is the overall design theme of the phone case?",
+        "answer": "Humorous"
+      },
+      {
+        "question": "Does the design appear to be printed or embossed?",
+        "answer": "Printed"
+      }
+    ]
+  }
+]

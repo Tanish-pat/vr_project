@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/840a730e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the laser distance meter's casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the device, considering its form factor?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of display is integrated into the device for readings?",
+        "answer": "LCD"
+      },
+      {
+        "question": "What material appears to constitute the majority of the external body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the texturing, what is the tactile feel of the sides?",
+        "answer": "Grippable"
+      },
+      {
+        "question": "What is the apparent purpose of the circular component at one end?",
+        "answer": "Sensor"
+      },
+      {
+        "question": "What is the primary method of user input on this device?",
+        "answer": "Buttons"
+      },
+      {
+        "question": "What is the general condition of the item in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on visual inspection, how many buttons are clearly visible on the device?",
+        "answer": "Ten"
+      },
+      {
+        "question": "What is the color of the prominent button located at the center?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent quality of the device's construction?",
+        "answer": "Durable"
+      },
+      {
+        "question": "What is the overall size of the device relative to a hand?",
+        "answer": "Portable"
+      },
+      {
+        "question": "What kind of markings are visible on the laser emitter end?",
+        "answer": "None"
+      },
+      {
+        "question": "Excluding buttons, what other elements are visible on the device surface?",
+        "answer": "Screen"
+      },
+      {
+        "question": "Describe the surface texture of the main body of the device.",
+        "answer": "Textured"
+      }
+    ]
+  }
+]

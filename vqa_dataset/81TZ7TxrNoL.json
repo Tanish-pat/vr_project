@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/61/6144708d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the computer mouse shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the main body of the computer mouse?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing the mouse?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible texture, what is the feel of the mouse's upper surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of sensor is visually identifiable on the underside of the mouse?",
+        "answer": "Optical"
+      },
+      {
+        "question": "What is the shape of the small accessory included with the mouse shown at the bottom?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the function of the small, separate component, shown below the mouse?",
+        "answer": "Receiver"
+      },
+      {
+        "question": "What is the apparent texture of the bottom surface of the main mouse body?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What seems to be the purpose of the visible compartment on the mouse's underside?",
+        "answer": "Battery"
+      },
+      {
+        "question": "Considering the image, what design element is apparent on the mouse's sides?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the visual details, is there any visible indication of a scroll wheel?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the mouse's surface, considering its shine or matte appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of connection method is suggested by the tiny separate component?",
+        "answer": "Wireless"
+      },
+      {
+        "question": "What is the apparent number of buttons visible on the top surface of the mouse?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the visible material of the tiny, separate USB receiver component?",
+        "answer": "Plastic"
+      }
+    ]
+  }
+]

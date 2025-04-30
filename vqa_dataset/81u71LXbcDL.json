@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b8505e86.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall structure, what is the primary shape of this camping tent?",
+        "answer": "Dome"
+      },
+      {
+        "question": "What is the dominant color of the tent's flysheet, the outer layer providing weather protection?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Describe the color of the tent's main body, the inner walls providing shelter?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this tent?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the visible seams and stitching, what is the apparent construction technique of this tent?",
+        "answer": "Sewn"
+      },
+      {
+        "question": "What color is the trim along the base of the tent, visible at the bottom edge?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the flysheet's texture, is it smooth, rough or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does this tent exhibit any discernible patterns or logos printed on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "How many visible poles are suggested by the shape and structure of the tent?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the open doorway, what is the access style of this portable shelter?",
+        "answer": "Single"
+      },
+      {
+        "question": "Examining the images, are there visible zippers or other fastening elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what is the apparent overall condition of the tent?",
+        "answer": "New"
+      },
+      {
+        "question": "Does this tent seem to have any obvious tears, holes, or significant wear?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent number of sections or compartments within this shelter?",
+        "answer": "One"
+      },
+      {
+        "question": "Judging by the visible features, is this a single-person or multi-person tent?",
+        "answer": "Multi"
+      }
+    ]
+  }
+]

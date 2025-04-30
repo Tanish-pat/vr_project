@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d05586ed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the microphone body?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the microphone's cylindrical casing?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What type of connector is visible at the microphone's end?",
+        "answer": "Miniature"
+      },
+      {
+        "question": "Describe the pattern etched into the microphone's cylindrical body.",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the shape of the microphone's main body?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent material of the base mount?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the base mount?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What type of attachment mechanism is present near the microphone?",
+        "answer": "Ring"
+      },
+      {
+        "question": "What is the shape of the mounting ring surrounding the microphone?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Describe the texture of the cylindrical microphone body.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the function of the threaded section on the base?",
+        "answer": "Mounting"
+      },
+      {
+        "question": "Is the microphone design predominantly angular or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the overall visual impression of the microphone's form?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What brand name is subtly printed on the microphone?",
+        "answer": "Rode"
+      },
+      {
+        "question": "What is the general shape of the base attachment?",
+        "answer": "Circular"
+      }
+    ]
+  }
+]

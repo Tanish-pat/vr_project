@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c4/c493c885.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted bird on the phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What type of bird is prominently featured in the phone case's design?",
+        "answer": "Macaw"
+      },
+      {
+        "question": "What is the apparent background setting depicted behind the bird?",
+        "answer": "Forest"
+      },
+      {
+        "question": "What is the primary material that appears to constitute this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of this product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the surface texture of the depicted phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the thin line visible at the bottom of the phone case?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Judging from the visual, what seems to be the phone model this case fits?",
+        "answer": "Xiaomi"
+      },
+      {
+        "question": "What kind of natural element is the bird perched on in the design?",
+        "answer": "Branch"
+      },
+      {
+        "question": "What is the general lighting condition depicted in the background scene?",
+        "answer": "Bright"
+      },
+      {
+        "question": "Describe the visual style of the photograph used in the phone case design.",
+        "answer": "Photorealistic"
+      },
+      {
+        "question": "What is the apparent overall color scheme of the phone case's design?",
+        "answer": "Green"
+      },
+      {
+        "question": "Is there any noticeable text or logo visible on the phone case itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the visuals, what is the apparent condition of this phone case?",
+        "answer": "New"
+      },
+      {
+        "question": "Describe the overall visual style of the phone case's design aesthetic.",
+        "answer": "Nature"
+      }
+    ]
+  }
+]

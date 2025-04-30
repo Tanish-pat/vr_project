@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4c828b4d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's main design element?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What color is the cat depicted on the phone case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent surface finish of the phone case?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for the phone case's border?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the style of the cat illustration on the phone case?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary design element featured on the phone case?",
+        "answer": "Cat"
+      },
+      {
+        "question": "Considering the image, what is the phone case's texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the phone case's primary surface?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Judging by the image, what is the phone case's protective function?",
+        "answer": "Cover"
+      },
+      {
+        "question": "Based on the image, what is the general design aesthetic of the phone case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What appears to be the color of the underlying phone?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is the cat design on the case a realistic depiction?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the position of the cat's face within the design?",
+        "answer": "Bottom"
+      },
+      {
+        "question": "Considering the image, how many cameras are visible on the phone?",
+        "answer": "Two"
+      }
+    ]
+  }
+]
