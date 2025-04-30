@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/84911910.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant pattern visually present on the bedding?",
+        "answer": "Plaid"
+      },
+      {
+        "question": "What color best describes the primary shade of the duvet cover?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image, what appears to be the material of the bedding?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall texture of the fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the most prominent geometric form present in the bedding's design?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "Disregarding the background, what is the main color family of the bedding set?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Describe the apparent construction of the pillowcases, based solely on the visual evidence.",
+        "answer": "Standard"
+      },
+      {
+        "question": "Judging from the image, how many pillowcases are visibly included in the set?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent construction of the duvet cover, judging solely from what's shown?",
+        "answer": "Duvet"
+      },
+      {
+        "question": "What is the primary visual characteristic of the lines within the diamond pattern?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Describe the visual lightness or darkness of the secondary color in the plaid pattern.",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the image alone, what is the overall style of the bedding set?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Judging by its visual appearance, what is the apparent weight or thickness of the bedding?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Based purely on visual cues, what is the overall visual feel or aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the visible seams, what is the general sewing quality of the bedding?",
+        "answer": "Neat"
+      }
+    ]
+  }
+]

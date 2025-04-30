@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8dffe4a4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant pattern woven into the fabric of the blanket?",
+        "answer": "Chevron"
+      },
+      {
+        "question": "What color best describes the overall hue of the textile?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What natural fiber is explicitly stated on the attached label as the blanket's composition?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Considering the texture, would you describe the blanket's surface as smooth or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on its visual appearance, what is the likely intended use of this textile?",
+        "answer": "Blanket"
+      },
+      {
+        "question": "Does the fabric show a high sheen or a more matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the weave, is the fabric loosely or tightly woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Judging by its appearance, is this blanket lightweight or heavy?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What shape does the whole textile take, considering its full extent in the picture?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the label show any certifications or manufacturing information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of care instructions are visible on the attached tag?",
+        "answer": "Washing"
+      },
+      {
+        "question": "Considering the textile's construction, would you describe its weave as dense or sparse?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What brand is printed on the care label attached to the blanket?",
+        "answer": "Pinzon"
+      },
+      {
+        "question": "Does the image show any visible seams or stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual, is the blanket's texture rough or soft?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

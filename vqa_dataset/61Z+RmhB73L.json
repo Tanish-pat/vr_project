@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c31f8e75.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the predominant color of the text on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style utilized throughout the majority of the text displayed on the product's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of the text's alignment, how is the information predominantly structured on this product label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Observing the label's text blocks, what appears to be the most prominent text block from a visual perspective?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual appearance, what is the general orientation of the text on the package label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the overall textual layout style (e.g., columns, paragraphs) mostly used on this product's label?",
+        "answer": "Paragraphs"
+      },
+      {
+        "question": "Disregarding the content itself, what is the appearance of the label's background texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering only the visuals, what might be the most likely material used for the product's label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "How would you describe the general visual density or compactness of the text on the package?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From a visual standpoint, how would you characterize the overall font size consistency throughout the text on the label?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging solely from visual cues, what appears to be the packaging's primary function?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual impression of the primary text color's saturation level on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the label's visual design, does it give an impression of being primarily designed for which aspect - readability, aesthetics, or both?",
+        "answer": "Readability"
+      },
+      {
+        "question": "Considering the visual presentation alone, what seems to be the intended reading direction of the text on the package?",
+        "answer": "Left-to-right"
+      },
+      {
+        "question": "Based solely on visual analysis, what is the overall tone or style conveyed by the packaging's typography?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

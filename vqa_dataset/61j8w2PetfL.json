@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cc/cc44779e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cable's outer sheath?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of connector is visible at each end of the cable?",
+        "answer": "VGA"
+      },
+      {
+        "question": "Considering the cable's overall form, what is its basic shape?",
+        "answer": "Coiled"
+      },
+      {
+        "question": "Describe the apparent texture of the cable's outer covering.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color are the connector housings at the cable's terminations?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on its appearance, what is the likely material of the cable itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Is the cable's outer sheath visibly marked with any branding or text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent thickness or gauge of the cable, relative to average cables?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Do the connectors exhibit any signs of damage or wear from prior use?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its form and construction, what is the intended use of this cable?",
+        "answer": "Video"
+      },
+      {
+        "question": "What appears to be the level of flexibility or stiffness inherent in the cable?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Observing the connector's design, what is its form-factor classification?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Are the connectors symmetrical or do they have a clear orientation?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Does the image show any signs of a protective covering or packaging on the cable?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the discernible length of the cable as shown in the image?",
+        "answer": "Long"
+      }
+    ]
+  }
+]

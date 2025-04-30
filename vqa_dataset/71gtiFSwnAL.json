@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/070fddf7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sheet containing the labels?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the individual labels shown on the sheet?",
+        "answer": "Square"
+      },
+      {
+        "question": "Considering the material, what is the apparent texture of the labels?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the primary function of this product?",
+        "answer": "Labeling"
+      },
+      {
+        "question": "What kind of printing does the product appear to support?",
+        "answer": "Laser"
+      },
+      {
+        "question": "Observing the packaging, what language(s) are used for the product description?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the apparent finish or coating of the labels, if any?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, what is the approximate number of labels per sheet?",
+        "answer": "100"
+      },
+      {
+        "question": "Given the image, what is the apparent material of the labels?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visual information, what is the format of the labels?",
+        "answer": "Sheets"
+      },
+      {
+        "question": "Does the packaging display any brand logo or identifier?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the main color of the brand logo on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is indicated about the adhesive property of the labels?",
+        "answer": "Permanent"
+      },
+      {
+        "question": "Considering the product details, what is the label shape, if not square?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, what can you tell about the label's thickness?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case's background?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Yellow"
       },
       {
-        "question": "What is the primary text displayed prominently on the phone case?",
+        "question": "What is the primary design theme depicted on the phone case?",
+        "answer": "Cartoon"
+      },
+      {
+        "question": "What type of animal is repeatedly featured in the phone case's pattern?",
+        "answer": "Bear"
+      },
+      {
+        "question": "What phrase is prominently displayed within a circular frame on the phone case?",
         "answer": "Boy"
       },
       {
-        "question": "What type of animals are repeatedly depicted on the phone case?",
-        "answer": "Bears"
-      },
-      {
-        "question": "What descriptive adjective precedes the word 'Boy' on the case?",
-        "answer": "Little"
-      },
-      {
-        "question": "What is the apparent design style of the illustrations on the case?",
-        "answer": "Cartoonish"
-      },
-      {
-        "question": "What musical instrument is shown multiple times on the phone case?",
-        "answer": "Guitar"
-      },
-      {
-        "question": "What shape encloses the 'cute little boy' text on the case?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What color is the prominent circular frame surrounding the text?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the overall visual impression created by the case design?",
-        "answer": "Cute"
-      },
-      {
-        "question": "What color are the bear illustrations on the phone case?",
-        "answer": "Grey"
-      },
-      {
-        "question": "What fashion accessory is illustrated repeatedly on the case?",
-        "answer": "Bowtie"
-      },
-      {
-        "question": "What type of design pattern is used across the phone case surface?",
-        "answer": "Repeated"
-      },
-      {
-        "question": "What is the shape of the illustrated bears on the phone case?",
-        "answer": "Round"
-      },
-      {
-        "question": "What is the apparent material of the phone case itself?",
+        "question": "What is the apparent material of the depicted phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What word, preceding 'boy', conveys a positive sentiment?",
+        "question": "What color are the cartoon bears featured on the phone case?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What type of musical instrument is visualized within the phone case design?",
+        "answer": "Guitar"
+      },
+      {
+        "question": "What shape is the central design element encompassing the text on the case?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the color of the text within the central circular element?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What accessory-related image is repeated as a pattern element on the case?",
+        "answer": "Bowtie"
+      },
+      {
+        "question": "What kind of graphic elements are used besides animal figures?",
+        "answer": "Musical"
+      },
+      {
+        "question": "What word precedes 'little boy' in the central text?",
         "answer": "Cute"
+      },
+      {
+        "question": "Besides bears, what other small images repeat across the surface?",
+        "answer": "Cats"
+      },
+      {
+        "question": "What is the overall visual style or aesthetic of the case's design?",
+        "answer": "Cute"
+      },
+      {
+        "question": "What is the overall texture suggested by the image of the phone case?",
+        "answer": "Smooth"
       }
     ]
   }

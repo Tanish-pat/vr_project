@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/193a0a2b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall finish or plating of the visible metal components?",
+        "answer": "Chrome"
+      },
+      {
+        "question": "What is the predominant shape of the main body of the hook?",
+        "answer": "Circular"
+      },
+      {
+        "question": "How many individual hooks or hanging points are visibly present on the product?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the basic shape of each individual hook or hanging point.",
+        "answer": "Teardrop"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this item?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the appearance, what is the likely intended use of this product?",
+        "answer": "Robes"
+      },
+      {
+        "question": "Considering the reflective surfaces, what is the apparent surface texture of the item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visible design style or aesthetic of this item.",
+        "answer": "Classic"
+      },
+      {
+        "question": "What is the apparent mounting method of this product, based on visual cues?",
+        "answer": "Wall"
+      },
+      {
+        "question": "Describe the overall color of the product, based on visual appearance.",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the general shape of the base or mounting plate of the hook?",
+        "answer": "Round"
+      },
+      {
+        "question": "How would you describe the visible connection between the hooks and the base?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What design features are visible on each individual hook?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "How would you characterize the overall visual weight or presence of this item?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is the visible design of the hook symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      }
+    ]
+  }
+]
