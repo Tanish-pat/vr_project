@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+datasets
+pandas
+numpy
+scikit-learn
+opencv-python
+Pillow
+tqdm
+matplotlib
+jupyterlab
+google-generativeai
