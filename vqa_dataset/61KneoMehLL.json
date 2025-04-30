@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/75106da7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the clock's face?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the outer ring or bezel of the clock?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the clock's frame?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the style of the numbers displayed on the clock face?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the overall shape of the clock's casing?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color are the hands indicating the time on the clock?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent finish of the clock's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many numerals are explicitly visible on the clock's face?",
+        "answer": "Two"
+      },
+      {
+        "question": "What type of mechanism is suggested by the clock's hands and numerals?",
+        "answer": "Analog"
+      },
+      {
+        "question": "Describe the design of the hour and minute hands on the clock?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent thickness of the clock's outer ring?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the image, what seems to be the clock's primary function?",
+        "answer": "Timekeeping"
+      },
+      {
+        "question": "What is the visual style that best describes the clock's overall aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent method of attachment to a wall or surface?",
+        "answer": "Hanging"
+      },
+      {
+        "question": "Based on the visual details, is the clock face glossy or matte?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

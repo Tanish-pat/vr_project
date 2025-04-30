@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1239af6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the keypad and door handle?",
+        "answer": "Bronze"
+      },
+      {
+        "question": "What is the shape of the main keypad component?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the door handle?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What type of locking mechanism is prominently displayed?",
+        "answer": "Keypad"
+      },
+      {
+        "question": "What is the apparent finish of the metallic components?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the design, what is the style of this door lock?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the visible configuration of buttons on the keypad?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Observing the handle, what is its operational style?",
+        "answer": "Lever"
+      },
+      {
+        "question": "Describe the overall texture of the keypad's surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the primary function of the device?",
+        "answer": "Security"
+      },
+      {
+        "question": "What is the color of the door on which the lock is mounted?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Judging by its appearance, what is the installation method of this lock?",
+        "answer": "Surface"
+      },
+      {
+        "question": "What shape best describes the door handle's design?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the image, how many numbers are visible on the keypad?",
+        "answer": "Ten"
+      },
+      {
+        "question": "What appears to be the material of the keypad's casing?",
+        "answer": "Plastic"
+      }
+    ]
+  }
+]

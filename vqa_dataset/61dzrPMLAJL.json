@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b2431be0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case shown?",
+        "answer": "Black"
+      },
+      {
+        "question": "What texture is predominantly visible on the phone case's surface?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "What material mimics the appearance of the phone case's exterior?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the visible gloss, what is the overall surface finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the general shape of the protective phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary function of this item?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Does the case appear to fully encase the phone's edges?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the phone visible in the background?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describing the phone case's appearance, what could be inferred about its feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what color is the phone visible behind the case?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Observing the case's cutouts, what design element is clearly present?",
+        "answer": "Camera"
+      },
+      {
+        "question": "Considering the image, what seems to be the primary material of the phone?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall style of the case, from its appearance?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the general form-factor of both the phone and its case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What kind of surface does the phone itself appear to have?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]
