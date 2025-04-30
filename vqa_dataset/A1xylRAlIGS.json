@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/91/91754b55.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bath mat, as shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material of the bath mat?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the visual texture, what is the surface feel of the bath mat likely to be?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the overall shape of the bath mat presented in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, what kind of border design does the bath mat feature?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the bath mat in the image exhibit a noticeable pile or loop structure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent thickness of the bath mat, based solely on the image provided?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, what is the overall style of the bath mat design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "From the visual details, does the bath mat appear absorbent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the presented image suggest the bath mat has any visible patterns beyond a simple border?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, what is the shade of the blue in the bath mat?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the image, how would you describe the overall look of the bath mat?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the image reveal any noticeable embellishments or embroidery on the bath mat?",
+        "answer": "No"
+      },
+      {
+        "question": "According to the image, is the bath mat's color consistent throughout its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, does the bath mat seem suitable for bathroom use?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

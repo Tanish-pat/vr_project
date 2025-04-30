@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/0565b633.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overarching shape of each individual lightbulb depicted in the provided image?",
+        "answer": "Teardrop"
+      },
+      {
+        "question": "Considering the image, what primary color characterizes the exterior of these LED bulbs?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual inspection, what material appears to constitute the outer casing of the bulbs?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of base connection is visibly present at the bottom of each lightbulb?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Judging from the image, what is the apparent surface texture of the bulbs' outer layer?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, what seems to be the finish of the outer bulb surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image show any significant text or branding details on the bulb surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In the image, how many lightbulbs are presented in total for visual assessment?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent light emission style of these lightbulbs based on visual characteristics?",
+        "answer": "Diffuse"
+      },
+      {
+        "question": "What appears to be the overall size of the lightbulbs according to the image?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging by the image, what is the apparent design of the bulbs from the given image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on visual inspection alone, are the bulbs shown in the picture identical?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, what is the lightbulb's approximate length from top to base?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the apparent style of the visible metallic components of these bulbs?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Does the image provide evidence suggesting these bulbs are energy efficient?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the outer frame encompassing the patent drawing?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What type of vessel is illustrated in the monochrome technical drawing within the frame?",
-        "answer": "Schooner"
-      },
-      {
-        "question": "What appears to be the primary material of the frame surrounding the nautical print?",
+        "question": "What is the primary material of the frame surrounding the nautical blueprint?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the color of the frame encasing the technical drawing of the sailing ship?",
+        "question": "What is the overall shape of the outer border containing the patent drawing?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of vessel is illustrated in the monochrome technical drawing?",
+        "answer": "Sailboat"
+      },
+      {
+        "question": "What is the color of the frame encasing the ship's technical design?",
         "answer": "Gray"
       },
       {
-        "question": "What is the style of the artistic representation of the sailing ship inside the frame?",
-        "answer": "Line"
+        "question": "What is the apparent style of the technical drawing of the watercraft?",
+        "answer": "Blueprint"
       },
       {
-        "question": "What is the apparent texture of the outer frame surrounding the patent drawing of the ship?",
+        "question": "Describe the texture of the frame surrounding the patent image?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the image, what is the finish of the frame holding the sailing ship print?",
+        "question": "What is the main subject depicted within the gray-framed artwork?",
+        "answer": "Ship"
+      },
+      {
+        "question": "What is the apparent finish of the frame holding the nautical-themed image?",
         "answer": "Matte"
       },
       {
-        "question": "What seems to be the overall visual style of the framed image on the wall?",
+        "question": "What is the apparent orientation of the framed nautical patent image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general visual style of the framed technical drawing?",
         "answer": "Vintage"
       },
       {
-        "question": "What kind of document is shown in the central area of the framed image?",
-        "answer": "Patent"
+        "question": "Considering the frame and image, what is the overall aesthetic of the artwork?",
+        "answer": "Minimalist"
       },
       {
-        "question": "What is the style of the image, patent or artistic depiction?",
-        "answer": "Technical"
+        "question": "What is depicted at the bottom of the patent drawing of the sailing vessel?",
+        "answer": "Details"
       },
       {
-        "question": "Based on the image, what kind of paper is likely used for the print?",
-        "answer": "Matte"
+        "question": "What type of lines are primarily used in the technical drawing of the boat?",
+        "answer": "Straight"
       },
       {
-        "question": "Judging from the visible details, what is the print's overall tone?",
-        "answer": "Monochrome"
-      },
-      {
-        "question": "What is the depicted vessel's number of masts?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the visual condition of the displayed patent drawing?",
-        "answer": "Clean"
+        "question": "What is the apparent printing method used for the nautical patent image?",
+        "answer": "Inkjet"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/80aab269.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the displayed envelopes in the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the packaging, what is the apparent material of the envelopes?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the visible packaging, what is the shape of each individual envelope?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what is the closure mechanism depicted for these envelopes?",
+        "answer": "Peel"
+      },
+      {
+        "question": "What is the indicated quantity of envelopes included in this package?",
+        "answer": "250"
+      },
+      {
+        "question": "Does the image suggest any visible adhesive strips on the envelopes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of envelopes are these, according to the text on the box?",
+        "answer": "Catalog"
+      },
+      {
+        "question": "Observing the packaging, what is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, are the envelopes pre-folded or flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the packaging show any other language besides English?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visible text, is there a description of the envelope size?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image alone, are there any visible perforations or markings on the envelopes?",
+        "answer": "No"
+      },
+      {
+        "question": "What brand is indicated on the packaging of the product?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the indicated unit of measurement for envelope size on the packaging?",
+        "answer": "Inches"
+      },
+      {
+        "question": "Observing the packaging, what is the apparent texture of the envelopes?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

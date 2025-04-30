@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e6/e6de327a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the absorbent surface visible in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the outer border or trim of the absorbent pad?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "What seems to be the primary material of the absorbent pad, based purely on its visual appearance?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging solely from the image, what is the overall shape of the absorbent pad being used?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the liquid's behavior, what is the apparent absorbency level of this pad?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the texture of the liquid-absorbing surface that can be visually observed.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on what is poured onto it, what is the liquid's apparent viscosity?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the image, what is the type of container being used to pour the liquid?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What seems to be the main function or purpose of the absorbent surface, indicated visually?",
+        "answer": "Absorption"
+      },
+      {
+        "question": "What is the general visual condition of the absorbent surface prior to liquid addition?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What is the apparent material used for the measuring cup's body based solely on its visual characteristics?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describe the markings present on the measuring cup; only what is visibly evident.",
+        "answer": "Measurements"
+      },
+      {
+        "question": "What is the overall size of the absorbent pad in relation to the hand shown (qualitative)",
+        "answer": "Large"
+      },
+      {
+        "question": "Describe the overall visual clarity of the image, with regard to the product's details.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the overall visual state of the poured liquid after contacting the pad?",
+        "answer": "Spreading"
+      }
+    ]
+  }
+]

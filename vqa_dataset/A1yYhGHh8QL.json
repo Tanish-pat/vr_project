@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b0d0ab05.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the plastic knife shown resting on the napkin?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the utensil's overall form, what is its most descriptive shape?",
+        "answer": "Elongated"
+      },
+      {
+        "question": "Based on its visual appearance, what material seems to constitute the knife?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the blade's edge, what is its apparent design or style?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the visible texture of the knife's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering its size relative to the napkin, what would you classify this item as?",
+        "answer": "Small"
+      },
+      {
+        "question": "Disregarding the napkin, what is the knife's most apparent feature?",
+        "answer": "Handle"
+      },
+      {
+        "question": "Considering its design, is the knife intended for a specific type of food?",
+        "answer": "Dessert"
+      },
+      {
+        "question": "Given its features, how many functional parts compose this plastic knife?",
+        "answer": "Two"
+      },
+      {
+        "question": "In reference to the depicted setting, what is the likely purpose of this object?",
+        "answer": "Cutting"
+      },
+      {
+        "question": "What is the apparent condition of the knife in the provided photograph?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering its build, does the knife exhibit any significant curvature?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its visual details, what kind of utensil is represented in the image?",
+        "answer": "Knife"
+      },
+      {
+        "question": "What is the apparent overall design of the visible plastic handle?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image, does the knife have any visible markings or patterns?",
+        "answer": "No"
+      }
+    ]
+  }
+]

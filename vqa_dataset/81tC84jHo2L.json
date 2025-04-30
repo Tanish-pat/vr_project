@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3ae1a661.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the phone case's design, as shown in the main image?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "Considering the primary image, what artistic style best describes the phone case's print?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Based on the provided image, what appears to be the primary material of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image, what is the overall shape of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture implied by the image of the phone case's surface design.",
+        "answer": "Uneven"
+      },
+      {
+        "question": "What is the apparent finish of the phone case, as suggested by the main product image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the phone case design display any specific patterns, referring to the image provided?",
+        "answer": "Brushstrokes"
+      },
+      {
+        "question": "What color is prominently featured along the side edges of this phone case, from the side view?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the image, how would you describe the visual weight or density of the color blocks?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the image clearly show any visible brand logos or markings on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general level of detail shown in the abstract paint design of this phone case?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the side images, does the case have a consistent color pattern wrapping around?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the overall visual impact of the phone case design; what feeling does it evoke?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "Judging from the image, does the phone case appear to be rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "In the images, does the phone case have any noticeable additional features like pockets or straps?",
+        "answer": "No"
+      }
+    ]
+  }
+]
