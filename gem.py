@@ -1,3 +1,4 @@
+# FULL WORKING WITH DYNAMIC MAIN_ID AND OTHER_ID AND SAVING WITH IMAGE PATH AND 15 QUESTIONS
 import csv
 import os
 import random
@@ -85,8 +86,21 @@ def generate_vqa(image_path, metadata, output_json_path):
         try:
             cleaned_result = result.strip().lstrip('```json').rstrip('```').strip()
             qa_pairs = json.loads(cleaned_result)
+
+            # with open(output_json_path, "w", encoding="utf-8") as out_f:
+            #     json.dump(qa_pairs, out_f, indent=2)
+            # print(f"✅ Saved VQA to {output_json_path}")
+
+
+            # Create the final structure as a list with two elements
+            final_output = [
+                {"path": image_path},  # 0th element contains the path
+                {"questions": qa_pairs}  # 1st element contains the questions
+            ]
+
             with open(output_json_path, "w", encoding="utf-8") as out_f:
-                json.dump(qa_pairs, out_f, indent=2)
+                json.dump(final_output, out_f, indent=2)
+            print(f"✅ Image path is {image_path}")
             print(f"✅ Saved VQA to {output_json_path}")
         except json.JSONDecodeError:
             print("❌ GPT output was not valid JSON.")
@@ -157,7 +171,175 @@ def main(check_main_image_id=0):
 
 # ========== ENTRY POINT ==========
 if __name__ == "__main__":
-    main(check_main_image_id=1)  # 0: no check, 1: main_image_id only
+    main(check_main_image_id=0)  # 0: no check, 1: main_image_id only
+
+
+
+
+
+
+
+# # FULL WORKING
+# import csv
+# import os
+# import random
+# import json
+# import google.generativeai as genai
+# from PIL import Image
+# import time
+# from google.generativeai.types import HarmCategory, HarmBlockThreshold
+
+# # ========== CONFIGURATION ==========
+# API_FILE = "API.json"
+# csv_file_path = 'images/metadata/images.csv'
+# json_directory = 'listings/metadata/'
+# images_folder = 'images/small/'
+# output_folder = 'vqa_dataset/'
+
+# # ========== API KEY MANAGEMENT ==========
+# def load_api_keys():
+#     with open(API_FILE, "r") as f:
+#         return json.load(f)
+
+# def save_api_keys(api_keys):
+#     with open(API_FILE, "w") as f:
+#         json.dump(api_keys, f, indent=2)
+
+# def rotate_api_key(api_keys):
+#     failed_key = api_keys.pop(0)
+#     api_keys.append(failed_key)
+#     save_api_keys(api_keys)
+#     print(f"🔁 Rotated API key. Using new key: {api_keys[0]}")
+#     return api_keys
+
+# api_keys = load_api_keys()
+# if not api_keys:
+#     print("❌ No API keys found in API.json.")
+#     exit(1)
+
+# genai.configure(api_key=api_keys[0])
+# safety_settings = {
+#     HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+#     HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+#     HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+#     HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+# }
+
+# model = genai.GenerativeModel(
+#     model_name="models/gemini-1.5-flash",
+#     safety_settings=safety_settings,
+# )
+
+# # ========== VQA GENERATION ==========
+# def generate_vqa(image_path, metadata, output_json_path):
+#     global api_keys, model
+#     with Image.open(image_path) as img:
+#         prompt = (
+#             "You are provided with an image of a product along with its metadata from an e-commerce listing. Please adhere to the following instructions:\n\n"
+#             "1. Analyze the image and metadata thoroughly. The image is a representation of the product, and the metadata provides descriptive attributes.\n\n"
+#             "2. Based ONLY on the information visible in the image and described in the metadata, generate **15 simple, one-word Visual Question Answer (VQA) pairs**.\n\n"
+#             "3. Do not hallucinate or generate answers that are not supported by the image or metadata. All answers should be directly inferable from the provided content.\n\n"
+#             "4. The output must strictly adhere to the following JSON format:\n"
+#             "   [{'question': '...', 'answer': '...'}, ...]\n\n"
+#             "5. Ensure the questions cover diverse aspects of the product, such as its color, material, features, and other relevant attributes. Avoid repetition.\n\n"
+#             "6. Make sure questions are detailed, about 10 words, and provide enough context.\n"
+#             "7. AND ONLY RETURN OUTPUT IN THE JSON FORMAT AS TOLD\n"
+#         )
+
+#         while True:
+#             try:
+#                 response = model.generate_content([prompt, img, json.dumps(metadata or {})], stream=False)
+#                 result = response.text
+#                 break
+#             except Exception as e:
+#                 if "429" in str(e):
+#                     print("⚠️ Rate limit hit. Rotating API key...")
+#                     api_keys = rotate_api_key(api_keys)
+#                     genai.configure(api_key=api_keys[0])
+#                     model = genai.GenerativeModel(
+#                         model_name="models/gemini-1.5-flash",
+#                         safety_settings=safety_settings,
+#                     )
+#                 else:
+#                     print("❌ Error during generation:", str(e))
+#                     return
+
+#         try:
+#             cleaned_result = result.strip().lstrip('```json').rstrip('```').strip()
+#             qa_pairs = json.loads(cleaned_result)
+#             with open(output_json_path, "w", encoding="utf-8") as out_f:
+#                 json.dump(qa_pairs, out_f, indent=2)
+#             print(f"✅ Saved VQA to {output_json_path}")
+#         except json.JSONDecodeError:
+#             print("❌ GPT output was not valid JSON.")
+#             print(result)
+
+# # ========== JSON LOOKUP ==========
+# def search_json_entry(directory, image_id, check_main_only):
+#     for filename in os.listdir(directory):
+#         if filename.endswith(".json"):
+#             filepath = os.path.join(directory, filename)
+#             try:
+#                 with open(filepath, 'r', encoding='utf-8') as file:
+#                     lines = file.readlines()
+#                     for line_num, line in enumerate(lines, start=1):
+#                         line = line.strip()
+#                         if not line:
+#                             continue
+#                         try:
+#                             entry = json.loads(line)
+#                             if not isinstance(entry, dict):
+#                                 continue
+
+#                             main_match = entry.get("main_image_id") == image_id
+#                             other_match = not check_main_only and image_id in entry.get("other_image_ids", [])
+
+#                             if main_match or other_match:
+#                                 print(f"✅ Found {image_id} in {filename} (line {line_num})")
+#                                 return entry
+#                         except json.JSONDecodeError:
+#                             print(f"⚠️ Skipping malformed JSON at {filename} line {line_num}")
+#             except Exception as e:
+#                 print(f"❌ Error reading {filename}: {e}")
+#     return None
+
+# # ========== MAIN LOOP ==========
+# def main(check_main_image_id=0):
+#     os.makedirs(output_folder, exist_ok=True)
+
+#     loop = 1000
+#     while loop > 0:
+#         with open(csv_file_path, mode='r') as file:
+#             rows = list(csv.DictReader(file))
+#             image_metadata = random.choice(rows)
+
+#         image_id = image_metadata['image_id']
+#         image_path = os.path.join(images_folder, image_metadata['path'])
+#         print(f"\n🔍 Checking image_id: {image_id}")
+
+#         if not os.path.exists(image_path):
+#             print(f"❌ Image not found: {image_path}")
+#             continue
+
+#         metadata = None
+#         if check_main_image_id == 1:
+#             metadata = search_json_entry(json_directory, image_id, check_main_only=True)
+#             if not metadata:
+#                 print(f"❌ image_id {image_id} not found as main_image_id.")
+#                 continue
+#         elif check_main_image_id == 0:
+#             metadata = None  # skip lookup entirely
+
+#         print(f"✅ Image {'and metadata ' if metadata else ''}found. Proceeding to VQA generation.")
+#         output_json_path = os.path.join(output_folder, f"{image_id}.json")
+#         generate_vqa(image_path, metadata, output_json_path)
+
+#         time.sleep(5)
+#         loop -= 1
+
+# # ========== ENTRY POINT ==========
+# if __name__ == "__main__":
+#     main(check_main_image_id=1)  # 0: no check, 1: main_image_id only
 
 
 
