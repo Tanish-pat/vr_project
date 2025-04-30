@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e5b91dc5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frame's visible wood?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material of the picture frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of each individual frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible texture of the frame's outer surface?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "How many picture frames are visibly present in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What design element is present on the inner edge of the frame?",
+        "answer": "Molding"
+      },
+      {
+        "question": "What is the apparent style of the frame's design?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Does the frame include any visible stands or supports?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of document is shown within the frame?",
+        "answer": "Certificate"
+      },
+      {
+        "question": "What is the color of the visible stand or support?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent finish of the wood on the picture frame?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the intended use of the frames?",
+        "answer": "Display"
+      },
+      {
+        "question": "Describe the general condition of the visible frame surfaces.",
+        "answer": "Used"
+      },
+      {
+        "question": "What is the apparent level of ornamentation on the frames?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on the visible details, what is the overall aesthetic?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

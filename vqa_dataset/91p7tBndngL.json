@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/2213a354.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the main body of this wall-mounted unit?",
+        "answer": "Copper"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this item?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describing the overall shape, what geometric form best represents this product's structure?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the surface texture, how would you characterize the finish of this piece?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "Considering the visible design elements, what functional feature is clearly integrated into this unit?",
+        "answer": "Slot"
+      },
+      {
+        "question": "Based on the image, how many distinct horizontal compartments or slots does this item possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Examining the outer frame, what is its relative width compared to the central panel?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "What kind of visual impression does the coloring of this object create?",
+        "answer": "Antique"
+      },
+      {
+        "question": "In terms of its intended use, what kind of item is this most likely to be?",
+        "answer": "Mailbox"
+      },
+      {
+        "question": "Considering the structural integrity, how is this unit seemingly designed to be installed?",
+        "answer": "Wall-mounted"
+      },
+      {
+        "question": "Judging from the image, what style best represents the overall aesthetic of the unit?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent depth of the compartment relative to the overall dimensions?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Considering its form, what is the primary orientation of this item in relation to a wall?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From the image alone, is the surface of the unit highly reflective or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the craftsmanship, what level of detail is visible in the construction of this unit?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

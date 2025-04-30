@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/bebbb4b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the background on this phone case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What mythical creatures are repeatedly depicted on this phone cover?",
+        "answer": "Unicorns"
+      },
+      {
+        "question": "What meteorological phenomenon appears alongside the unicorns on this case?",
+        "answer": "Rainbows"
+      },
+      {
+        "question": "What shapes, besides unicorns and rainbows, decorate this phone case?",
+        "answer": "Hearts"
+      },
+      {
+        "question": "What celestial bodies are scattered across this phone case's design?",
+        "answer": "Stars"
+      },
+      {
+        "question": "Describe the overall style of the illustration on the phone case.",
+        "answer": "Cartoonish"
+      },
+      {
+        "question": "What is the apparent texture of the illustrated elements?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What colors are predominantly used for the rainbows on the case?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Describe the shape of the product itself, ignoring its design.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the general color palette of the unicorn illustrations?",
+        "answer": "White"
+      },
+      {
+        "question": "How many unicorns are fully visible on the primary view?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the general artistic style of the unicorn drawings?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the implied purpose of the product shown in the picture?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What phone model does the case appear to fit?",
+        "answer": "Samsung"
+      }
+    ]
+  }
+]

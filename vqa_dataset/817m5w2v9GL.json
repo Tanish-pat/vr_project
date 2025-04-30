@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fd702784.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric on the chair's backrest?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary material composing the chair's frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall shape or form of the chair when fully reclined?",
+        "answer": "Reclined"
+      },
+      {
+        "question": "What is the apparent color of the headrest cushion attached to the chair?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What kind of textile design is present on the chair's fabric?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Considering the chair's structure, what is its apparent function?",
+        "answer": "Lounging"
+      },
+      {
+        "question": "What seems to be the material of the fabric used on the chair's seating area?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on its visual features, what is the chair's likely intended use?",
+        "answer": "Outdoor"
+      },
+      {
+        "question": "What color is the secondary stripe featured in the chair's fabric?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Does the chair appear to have any additional features aside from the headrest?",
+        "answer": "CupHolder"
+      },
+      {
+        "question": "Judging from the image, is the chair designed for folding or portability?",
+        "answer": "Folding"
+      },
+      {
+        "question": "What is the texture of the fabric on the seat and back, rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible color of the chair's folding mechanism components?",
+        "answer": "Black"
+      },
+      {
+        "question": "How many legs support the weight of the entire chair structure?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the design element separating the back from the seat?",
+        "answer": "Stripes"
+      }
+    ]
+  }
+]

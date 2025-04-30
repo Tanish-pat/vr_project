@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc73c9ca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of this cookware item, as viewed from the side?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What appears to be the primary material composing the cooking surface of this pan?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Observing the handle's design, what is its most noticeable attribute concerning its form?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What color is the main body of the frying pan, based purely on visual inspection?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the image, what material seems to constitute the handle of this kitchen utensil?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing only on what is visible, what is the apparent finish of the pan's cooking surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the handle's attachment to the pan, what is the nature of the connection?",
+        "answer": "Fixed"
+      },
+      {
+        "question": "Does the pan's cooking surface exhibit any apparent textural irregularities or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual observation, what is the general condition of the frying pan, in terms of wear and tear?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the image's presentation, what is the orientation of the pan relative to the viewer?",
+        "answer": "Side"
+      },
+      {
+        "question": "What is the general profile of the cooking surface\u2014is it flat, sloped, or something else?",
+        "answer": "Sloped"
+      },
+      {
+        "question": "In the shown perspective, is the handle attached to one or both sides of the pan?",
+        "answer": "One"
+      },
+      {
+        "question": "From visual inspection, what is the apparent size category of the pan (e.g., small, medium, large)?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What seems to be the primary intended function of the object depicted in this image?",
+        "answer": "Cooking"
+      },
+      {
+        "question": "In the image's view, how many handles does the pan seem to possess?",
+        "answer": "One"
+      }
+    ]
+  }
+]

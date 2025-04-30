@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/70f1edaf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the primary color of the product's contents?",
+        "answer": "Green"
+      },
+      {
+        "question": "What kind of container is predominantly used to hold the product, based on its visible structure?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Observing the label, what specific type of seasoning does this product appear to be?",
+        "answer": "Chimichurri"
+      },
+      {
+        "question": "What is the visible material of the lid on top of the glass container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based solely on the visible text on the container, what is the apparent brand affiliation of this product?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Judging by the heterogeneous mixture visible inside, what would you describe the overall texture of the contents?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Focusing on the label information, what adjective describes the product's production method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the various elements visible in the product, what appears to be the most prominent visible ingredient?",
+        "answer": "Herbs"
+      },
+      {
+        "question": "What is the overall shape of the container holding the product?",
+        "answer": "Square"
+      },
+      {
+        "question": "Based on the image, what is the apparent form of the product within the container?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What seems to be the primary functional feature suggested by the product's label?",
+        "answer": "Seasoning"
+      },
+      {
+        "question": "What seems to be the overall state of the product's components, considering the image?",
+        "answer": "Dried"
+      },
+      {
+        "question": "Examining the image closely, what is the shape of the individual components?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What smaller components are visually interspersed with the larger ones, as observed in the image?",
+        "answer": "Flakes"
+      },
+      {
+        "question": "What additional descriptor from the label further qualifies the product's nature?",
+        "answer": "Blend"
+      }
+    ]
+  }
+]
