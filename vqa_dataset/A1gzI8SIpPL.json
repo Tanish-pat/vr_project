@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/54/5412ea8f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the outer box?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the shape of the individual battery units?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color band is visible near the top of each battery?",
+        "answer": "Green"
+      },
+      {
+        "question": "Describe the overall shape of the product packaging box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the outer packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many individual battery units are visibly contained?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What brand logo is visible on the bottom of the box?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the apparent material of the inner battery holder?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What color are the battery cases themselves primarily?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Is the packaging design predominantly simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the packaging, what is the apparent battery type?",
+        "answer": "AA"
+      },
+      {
+        "question": "Does the packaging include any discernible text or writing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary function of this product packaging?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Considering the contents, what is the overall purpose of this item?",
+        "answer": "Power"
+      }
+    ]
+  }
+]

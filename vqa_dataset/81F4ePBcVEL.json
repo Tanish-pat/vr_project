@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9a644541.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the watchband, as shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image, what material appears to constitute the watch strap?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the watch casing?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color is the visible metal component of the watch's clasp, buckle or casing?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Examining the image, what texture is apparent on the leather watchband?",
+        "answer": "Crocodile"
+      },
+      {
+        "question": "What type of fastening mechanism is visible on the watch strap in the provided image?",
+        "answer": "Buckle"
+      },
+      {
+        "question": "What is the apparent style or pattern of the stitching visible on the leather band?",
+        "answer": "Straight"
+      },
+      {
+        "question": "From the image, what appears to be the material of the watch casing?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What brand name is visible on the back of the watch case in the image?",
+        "answer": "ALIOTO"
+      },
+      {
+        "question": "Judging from the image, what appears to be the color of the watch face?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent finish of the metal components visible in the image?",
+        "answer": "Polished"
+      },
+      {
+        "question": "What kind of visual detail, if any, is observed on the watchband surface?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "What is the visible style of the watchband's connection to the watch case?",
+        "answer": "Integrated"
+      },
+      {
+        "question": "What design element is present on the clasp of the watch band, judging from the image?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Based on the image, describe the visible stitching pattern on the watch strap.",
+        "answer": "Simple"
+      }
+    ]
+  }
+]
