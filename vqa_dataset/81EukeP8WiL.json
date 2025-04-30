@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/83/83fbc2d4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the backpack's exterior?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What appears to be the primary material of the backpack?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Describe the overall shape of the backpack's main compartment.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the interior lining of the main compartment?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Judging by the image, how many exterior pockets are visible?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the color of the small, visible zipper pull on the side pocket?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What feature is suggested by the presence of padded compartments?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Considering the size and structure, what is the likely use of this bag?",
+        "answer": "Travel"
+      },
+      {
+        "question": "Based on the visible compartments, what item can fit in a dedicated space?",
+        "answer": "Laptop"
+      },
+      {
+        "question": "What kind of texture does the exterior of the bag appear to have?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure is suggested by the top of the main compartment?",
+        "answer": "Drawstring"
+      },
+      {
+        "question": "Considering the numerous pockets, what is a suggested use for the bag?",
+        "answer": "Organization"
+      },
+      {
+        "question": "Does the bag have any visible straps or handles for carrying?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What design element is visible on the side of the main compartment?",
+        "answer": "Seams"
+      },
+      {
+        "question": "Based on its features, what is the backpack's likely function?",
+        "answer": "Carrying"
+      }
+    ]
+  }
+]

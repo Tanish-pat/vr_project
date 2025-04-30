@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf341ef7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the protective case shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes the case's external profile?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its appearance, what material seems to have been used in the construction of this protective case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the surface, what is the apparent texture of the outer casing of the AirPods case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the protective case exhibit any visible logos, patterns, or decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Focusing on the top surface, are there any noticeable openings or functional features present on the protective case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the size, how would you characterize the dimensions of this protective case relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the provided image, is the protective case visibly marked or embellished with any branding information?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its form and features, what electronic device does this protective case appear designed to accommodate?",
+        "answer": "AirPods"
+      },
+      {
+        "question": "Considering the image, does the protective case seem rigid or flexible in its construction?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the apparent level of reflectivity of the outer surface of the protective case?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on its visual characteristics, would you describe the overall aesthetic of the protective case as minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the edges, how would you describe the sharpness or roundness of the protective case's corners?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the overall impression of the finish of the protective case; matte, glossy, or satin?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, is there evidence of any visible seams or joints in the protective case's construction?",
+        "answer": "No"
+      }
+    ]
+  }
+]

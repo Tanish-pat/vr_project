@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/62547c2c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color prominently displayed on the food packaging, suggesting a brand identity or flavor profile?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall shape and form, what is the primary geometric structure of the product's packaging?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Observing the material and its appearance, what is the likely composition of the flexible packaging containing the food product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by the visual texture and finish of the packaging's surface, how would you describe its tactile quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the printed elements, what type of visual information is predominantly presented across the packaging design?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the visible design and graphics on the packaging, what additional information is relayed beyond the product's name?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the apparent overall condition of the flexible packaging as presented in this product image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Looking at the primary label, what is the dominant orientation of the text used in presenting product information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visible design and its components, can you identify any illustrative elements that provide a visual representation of the product inside?",
+        "answer": "Image"
+      },
+      {
+        "question": "What is the color of the depicted food product shown in the image through the transparent portion of the package?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the packaging's structural design, how does its shape aid the product's functionality?",
+        "answer": "Stand-up"
+      },
+      {
+        "question": "What is the visible state or form of the packaged food product within its container?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the size and proportions of the packaging, what is its estimated relative scale or format?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the visible information displayed on the packaging, what is the likely method of sealing employed to maintain the product's freshness?",
+        "answer": "Heat"
+      },
+      {
+        "question": "Judging by the design details, is there any clear indication of a resealable mechanism on the package?",
+        "answer": "No"
+      }
+    ]
+  }
+]

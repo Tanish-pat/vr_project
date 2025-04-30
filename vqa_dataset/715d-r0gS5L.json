@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f1cad7c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme depicted on the phone case's surface?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What artistic style is predominantly showcased in the phone case design?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Considering the overall aesthetic, what is the primary texture implied by the phone case's image?",
+        "answer": "Painterly"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape best describes the overall form of the mobile phone protective case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the primary function of the depicted product based on its visual characteristics?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What type of mobile device does this protective case seem to be designed for, judging by the shape?",
+        "answer": "Smartphone"
+      },
+      {
+        "question": "Judging by the image, what secondary color is noticeable within the case's design?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visible edges, what can you infer about the thickness of this phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Describing the visual brushstrokes, what artistic technique is suggested in this phone case design?",
+        "answer": "Impasto"
+      },
+      {
+        "question": "What color accents are subtly visible within the broader blue and white strokes?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Can you describe the visual representation on the case; is it photographic or painterly?",
+        "answer": "Painterly"
+      },
+      {
+        "question": "What is the visual impression conveyed by the color intensity of the blue hues?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "Does the phone case design include any noticeable patterns or geometric shapes?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the case's design, what overall feeling or mood does it convey?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

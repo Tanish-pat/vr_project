@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overarching color of the leather upholstery covering the sofa?",
+        "question": "What is the overarching color of the leather upholstery?",
         "answer": "Brown"
       },
       {
-        "question": "What material predominantly constitutes the sofa's seating surface?",
+        "question": "What material primarily comprises the sofa's seating surface?",
         "answer": "Leather"
       },
       {
-        "question": "Considering the overall form, what is the most accurate descriptor for the sofa's style?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "Describe the shape of the armrests on the sides of the sofa?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What is the apparent texture of the leather covering the sofa?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the primary material used for the sofa's legs?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What color is most visibly apparent on the sofa's legs?",
-        "answer": "Dark"
-      },
-      {
-        "question": "How many distinct seating sections does the sofa appear to have?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the shape of the backrest in its entirety across the top of the sofa?",
+        "question": "Describe the general shape of the sofa's back cushions.",
         "answer": "Curved"
       },
       {
-        "question": "Judging by its form, what is the most likely function of this piece of furniture?",
-        "answer": "Sitting"
+        "question": "What is the apparent texture of the leather upholstery?",
+        "answer": "Smooth"
       },
       {
-        "question": "What design element is visible on the inner sides of the armrests?",
-        "answer": "Lines"
-      },
-      {
-        "question": "Describe the overall appearance of the sofa's cushions?",
-        "answer": "Plump"
-      },
-      {
-        "question": "What seems to be the most dominant color in the overall image?",
+        "question": "What is the predominant color of the sofa's legs?",
         "answer": "Brown"
       },
       {
-        "question": "Based solely on appearance, what is the overall condition of the sofa?",
-        "answer": "New"
+        "question": "How many distinct seating sections does the sofa possess?",
+        "answer": "Two"
       },
       {
-        "question": "Does the sofa appear to be designed primarily for single or multiple occupancy?",
-        "answer": "Multiple"
+        "question": "What is the style of the armrests on the sofa?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What material appears to be used for the sofa's legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall design aesthetic of this sofa?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Describe the shape of the sofa's overall silhouette.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Are there any visible seams or stitching on the cushions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the approximate height of the sofa's armrests relative to the seat?",
+        "answer": "Equal"
+      },
+      {
+        "question": "Does the sofa show any significant wear or damage in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of furniture does the image depict?",
+        "answer": "Sofa"
+      },
+      {
+        "question": "What is the apparent finish of the wooden legs?",
+        "answer": "Satin"
       }
     ]
   }

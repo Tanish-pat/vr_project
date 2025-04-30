@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/25a50fc5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case shown in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What appears to be the primary material composing the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what is the shape of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the phone case's outer surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what brand logo is subtly visible on the phone's screen?",
+        "answer": "LG"
+      },
+      {
+        "question": "Judging by its appearance, what is the overall design aesthetic of the case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the phone case in the image exhibit any visible patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of transparency or opacity of the phone case?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Considering the image, is the case shown fitted or loose on the phone?",
+        "answer": "Fitted"
+      },
+      {
+        "question": "Based on visual cues, what seems to be the apparent thickness of the case?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the phone case appear to have raised edges or bezels for screen protection?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent condition of the phone case as depicted in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Are there any visible buttons or cutouts on the case for phone functions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall finish of the case?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the phone case image show any visible scratches or imperfections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

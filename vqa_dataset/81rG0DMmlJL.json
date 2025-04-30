@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/373bff0d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visibly present throughout the entire fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible weave, what is the apparent texture of the displayed fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on visual inspection, what kind of material appears to constitute this sample?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image, what is the overall visual appearance of the material's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the visible arrangement of threads or fibers forming the fabric's structure.",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "From the image, how would you characterize the density of the fabric's weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Does the fabric's surface show any noticeable sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the most apparent color variation observed across the fabric sample?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the evenness of color and texture, how would you describe the visual uniformity?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based solely on the image, can you identify any discernible patterns in the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "From the visual analysis, is there any visible fraying or damage to the fabric's edges?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the fabric's structure visibly loose or compact?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Does the image suggest any visible embellishments, prints, or designs on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual weight or thickness of the displayed fabric sample?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, what is the implied softness or stiffness of the material?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

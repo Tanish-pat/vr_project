@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40bda68b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating displayed on the label?",
+        "answer": "A+"
+      },
+      {
+        "question": "What is the primary color of the energy efficiency rating label's background?",
+        "answer": "White"
+      },
+      {
+        "question": "What letter represents the lowest energy efficiency rating shown?",
+        "answer": "E"
+      },
+      {
+        "question": "What is the overall shape of the displayed energy label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the bar representing the A+ energy rating?",
+        "answer": "Green"
+      },
+      {
+        "question": "What unit of measurement is used for energy consumption?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What number indicates the energy consumption per 1000 hours?",
+        "answer": "4.5"
+      },
+      {
+        "question": "What is the color of the text indicating energy classes?",
+        "answer": "Black"
+      },
+      {
+        "question": "What language(s) are used on the energy label besides English?",
+        "answer": "Greek"
+      },
+      {
+        "question": "What type of label is displayed in the image?",
+        "answer": "Energy"
+      },
+      {
+        "question": "Does the label include a numeric energy consumption value?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the format of the energy consumption value?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "Is the text on the label primarily in uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the predominant orientation of the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are there multiple language versions of the text present?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]
