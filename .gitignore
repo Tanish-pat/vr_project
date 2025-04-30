@@ -6,3 +6,4 @@ listings/metadata
 venv/
 abo-images-small.tar
 abo-listings.tar
+API.json
