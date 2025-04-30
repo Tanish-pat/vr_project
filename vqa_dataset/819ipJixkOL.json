@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0fcaf2a9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the phone case's design?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the protective phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used for the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture depicted in the phone case's design, considering visual elements?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What kind of artistic style is used in the phone case's design?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Considering the visual pattern, what natural element does the design resemble?",
+        "answer": "Desert"
+      },
+      {
+        "question": "What color are the small, distinct elements within the main design?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface, based on its visual appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the phone case design exhibit symmetry or is it asymmetrical in presentation?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "Based on the image, what seems to be the thickness of the phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What type of camera cutout is visible on the rear of the phone case?",
+        "answer": "Dual"
+      },
+      {
+        "question": "Besides brown, what is the secondary visible color on the case?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent visual quality of the print on the phone case?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the image, is the case design minimalist or ornate?",
+        "answer": "Ornate"
+      },
+      {
+        "question": "Does the case appear to provide full or partial phone coverage?",
+        "answer": "Full"
+      }
+    ]
+  }
+]

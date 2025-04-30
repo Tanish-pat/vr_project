@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/390dbfef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary function indicated on the container's label, clearly visible in the image?",
+        "answer": "Cleaner"
+      },
+      {
+        "question": "What color are the individual cleaning pods contained within the transparent cylindrical container?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall shape of the container holding the cleaning product, as depicted in the provided image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the main body of the product's packaging, based on visual observation?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the label, what is the explicit claim made regarding the composition of the contained pods?",
+        "answer": "Dissolvable"
+      },
+      {
+        "question": "What is the overall color scheme employed in the design of the product's label, as observed in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based solely on visual inspection, what appears to be the texture of the cleaning pods inside the container?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What kind of cleaner is advertised on the visible label of the product container shown in the image?",
+        "answer": "All-purpose"
+      },
+      {
+        "question": "What is the predominant font style utilized for the textual content on the label of the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent transparency level of the container enclosing the individual cleaning units?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What seems to be the number of individual cleaning units held within the container, as indicated by visual count?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "Observing the product's label, what brand is associated with this all-purpose cleaning product?",
+        "answer": "Epa"
+      },
+      {
+        "question": "Describe the visual presentation of the text 'ALL-PURPOSE CLEANER' on the label,  relative to its background?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the color of the label and the words,  what might be inferred about the brand's image?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Describe the cap of the container holding the cleaning pods shown in the image.",
+        "answer": "Screw-top"
+      }
+    ]
+  }
+]

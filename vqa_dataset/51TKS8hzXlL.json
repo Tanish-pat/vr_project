@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fb95c9a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the hand soap container depicted in the image?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the predominant color of the liquid hand soap visible inside the bottle?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material appears to constitute the bottle holding the hand soap?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall design aesthetic of the product's label, considering its simplicity or complexity?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the primary color used in the design elements of the product's label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of geometric shapes are prominently featured in the label's design?",
+        "answer": "Rectangles"
+      },
+      {
+        "question": "What word is prominently displayed on the label, indicating the product's function?",
+        "answer": "Foaming"
+      },
+      {
+        "question": "Based on the image, what type of closure mechanism is on the bottle's opening?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Considering the label, what adjective describes the scent of this hand soap?",
+        "answer": "Pear"
+      },
+      {
+        "question": "What term on the label indicates the soap's antibacterial properties?",
+        "answer": "Antibacterial"
+      },
+      {
+        "question": "Does the label mention the absence of a specific chemical compound?",
+        "answer": "Triclosan"
+      },
+      {
+        "question": "What is the brand name printed on the hand soap container, as shown in the image?",
+        "answer": "Solimo"
+      },
+      {
+        "question": "Describe the general texture of the plastic bottle, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the hand soap shown in the image presented in a full-sized bottle or a refill format?",
+        "answer": "Refill"
+      },
+      {
+        "question": "What is the overall transparency level of the plastic bottle containing the soap?",
+        "answer": "Translucent"
+      }
+    ]
+  }
+]

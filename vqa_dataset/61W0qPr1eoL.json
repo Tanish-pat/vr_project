@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c1c16bf1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant shape of this bathroom accessory?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Observing the end caps, what is the most noticeable design element on them?",
+        "answer": "Flanges"
+      },
+      {
+        "question": "Focusing on the material's appearance, what is the apparent metallic finish?",
+        "answer": "Nickel"
+      },
+      {
+        "question": "Judging by the visual texture, how would you characterize the surface of the main bar?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its apparent function, what type of fixture is this?",
+        "answer": "Towel"
+      },
+      {
+        "question": "Considering the image provided, what is the primary color of the fixture?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Examining the end cap details, what design pattern is visible on the circular surfaces?",
+        "answer": "Fluted"
+      },
+      {
+        "question": "Based on its visible construction, what seems to be the primary material used in its manufacture?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the overall construction, is this item a single piece or multiple components?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Describing the ends, what shape do the terminal components of this bar resemble?",
+        "answer": "Circular"
+      },
+      {
+        "question": "In terms of overall purpose, for what purpose would this item be utilized?",
+        "answer": "Bathroom"
+      },
+      {
+        "question": "Focusing on the central bar, what is the approximate cross-sectional shape of the rod?",
+        "answer": "Round"
+      },
+      {
+        "question": "Observing the entire unit, how would you describe the overall style of the fixture?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "Based on the visible construction, what joining method seems to connect the bar to its end caps?",
+        "answer": "Integrated"
+      },
+      {
+        "question": "Considering its size and design, is this object meant for heavy-duty use or more delicate tasks?",
+        "answer": "Delicate"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f33d3c09.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color visually dominating the gelato's appearance?",
+        "answer": "White"
+      },
+      {
+        "question": "What secondary color is swirled throughout the primary color in the gelato?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the shape of the container holding the gelato?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the gelato container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the lid on the gelato container?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What language is predominantly used for the product labeling?",
+        "answer": "English"
+      },
+      {
+        "question": "What specific type of frozen dessert is indicated on the label?",
+        "answer": "Gelato"
+      },
+      {
+        "question": "What flavor is prominently displayed on the gelato container?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "What secondary flavor is mentioned in conjunction with the primary flavor?",
+        "answer": "Plum"
+      },
+      {
+        "question": "What is the origin of the vanilla used in the gelato, according to the label?",
+        "answer": "Madagascar"
+      },
+      {
+        "question": "What term describes the method of gelato preparation as stated on the label?",
+        "answer": "Slow-churned"
+      },
+      {
+        "question": "What word describes the size of batches in which the gelato is made?",
+        "answer": "Small"
+      },
+      {
+        "question": "What term indicates the authenticity of the gelato's recipe?",
+        "answer": "Authentic"
+      },
+      {
+        "question": "What country's style of gelato is this product identified as?",
+        "answer": "Italian"
+      },
+      {
+        "question": "What is the net volume of the gelato container, as indicated on the label?",
+        "answer": "Pint"
+      }
+    ]
+  }
+]

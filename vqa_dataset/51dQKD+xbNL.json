@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c2/c2bb0150.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color prominently displayed on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of food product is depicted on the box's main image?",
+        "answer": "Sticks"
+      },
+      {
+        "question": "What descriptive term is used to define the food item on the packaging?",
+        "answer": "Toaster"
+      },
+      {
+        "question": "What style of food product is shown, as indicated on the packaging?",
+        "answer": "French"
+      },
+      {
+        "question": "What is the overall shape of the individual food items shown on the box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of fruit is visually presented alongside the product on the box?",
+        "answer": "Strawberries"
+      },
+      {
+        "question": "What is the apparent texture of the food product as it appears on the packaging?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What is the overall shape of the packaging box itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What word describes the condition of the food product, as indicated on the box?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "What is the apparent color of the food product shown on the box?",
+        "answer": "Golden"
+      },
+      {
+        "question": "What is visually suggested as a serving suggestion for the product?",
+        "answer": "Breakfast"
+      },
+      {
+        "question": "What word indicates the agricultural method used for the product?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What brand name is visibly shown on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the apparent quantity of servings indicated on the packaging?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What kind of coating or dusting is visible on the food items?",
+        "answer": "Powder"
+      }
+    ]
+  }
+]
