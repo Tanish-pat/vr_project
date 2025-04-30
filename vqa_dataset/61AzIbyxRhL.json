@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8aa5a03e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frame's outer border?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What appears to be the primary material of the picture frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall shape of the presented picture frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish of the frame's metallic surface?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "How many visible layers or bevels are present in the frame's design?",
+        "answer": "Three"
+      },
+      {
+        "question": "What color is the inner visible layer/bevel of the frame?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What seems to be the style of the frame's design, considering its visible components?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the visible image, what is the presumed function of this item?",
+        "answer": "Display"
+      },
+      {
+        "question": "What kind of image is visible inside the frame in the provided picture?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the color of the flowers displayed in the inner picture?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering its construction, how would you classify the frame's overall weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Does the frame exhibit any noticeable text or branding on its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general orientation of the displayed photo frame?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the apparent texture of the frame's outer border?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, is the frame seemingly designed for portrait or landscape photos?",
+        "answer": "Portrait"
+      }
+    ]
+  }
+]

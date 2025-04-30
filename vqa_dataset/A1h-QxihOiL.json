@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8f504a8f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the brush bristles?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the brush bristles?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the bristle density, what is the likely function of this brush?",
+        "answer": "Sweeping"
+      },
+      {
+        "question": "What is the overall shape of the brush head, disregarding the bristles?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the visible portion of the brush's handle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what material seems to constitute the brush handle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the bristle tips, what is their apparent uniformity?",
+        "answer": "Even"
+      },
+      {
+        "question": "Judging by the image, what is the general length of the individual bristles?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the bristle arrangement, is the brush designed for fine or coarse cleaning?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What is the visible color of the brush handle?",
+        "answer": "Black"
+      },
+      {
+        "question": "How would you describe the stiffness of the bristles in appearance?",
+        "answer": "Firm"
+      },
+      {
+        "question": "From the picture, how would you characterize the arrangement of the bristles?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Describe the overall visual impression of the brush's construction quality?",
+        "answer": "Durable"
+      },
+      {
+        "question": "Does the brush handle show any visible texture or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the brush designed for indoor or outdoor use?",
+        "answer": "Both"
+      }
+    ]
+  }
+]

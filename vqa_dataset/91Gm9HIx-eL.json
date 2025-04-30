@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5b8d9577.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted food container?",
+        "answer": "Round"
+      },
+      {
+        "question": "What primary metallic color characterizes the can's surface?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What material is predominantly used in the construction of this container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the can's top, what is the apparent finish texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the pull-tab mechanism affixed to the can's lid?",
+        "answer": "Red"
+      },
+      {
+        "question": "What shape best describes the pull-tab's overall configuration?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the design element featuring a graphic illustration of the opening process?",
+        "answer": "Diagram"
+      },
+      {
+        "question": "What is the primary function indicated by the diagram on the can?",
+        "answer": "Opening"
+      },
+      {
+        "question": "What is written around the pull tab to indicate its functionality?",
+        "answer": "Opened"
+      },
+      {
+        "question": "What word is used to warn about potential harm from the sharp edges?",
+        "answer": "Caution"
+      },
+      {
+        "question": "What is the visual texture of the printing on the container's surface?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the nature of the printing style used for the instructions?",
+        "answer": "Graphics"
+      },
+      {
+        "question": "Besides the pull-tab, what other prominent feature is present on the lid?",
+        "answer": "Diagram"
+      },
+      {
+        "question": "What is the state of the depicted can; opened or unopened?",
+        "answer": "Unopened"
+      },
+      {
+        "question": "Ignoring the text, what is the most noticeable color on the product?",
+        "answer": "Silver"
+      }
+    ]
+  }
+]

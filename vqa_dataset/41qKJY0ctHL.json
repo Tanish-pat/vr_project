@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ff30de18.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant material composing the main body of the lamp?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describe the overall shape of the lamp's glass cylinder?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the lampshade that sits atop the lamp?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the lampshade fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the finish of the metallic base and accents?",
+        "answer": "Nickel"
+      },
+      {
+        "question": "What is the shape of the lamp's base at its bottom?",
+        "answer": "Circular"
+      },
+      {
+        "question": "How would you describe the overall style of the lamp?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the color of the glass cylinder, disregarding any reflections?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the primary function of the cylindrical glass component?",
+        "answer": "Support"
+      },
+      {
+        "question": "What type of light source is implied by the design of the lamp?",
+        "answer": "Incandescent"
+      },
+      {
+        "question": "Describe the appearance of the metal connecting the shade and cylinder?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Considering the shade, what is the likely light dispersion?",
+        "answer": "Diffuse"
+      },
+      {
+        "question": "What is the general color family of the metallic accents?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What type of lamp is it: floor lamp or table lamp?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the apparent thickness of the glass cylinder?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

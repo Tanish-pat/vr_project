@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a7/a712aaa3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the olives visible through the jar?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material is the primary container constructed from?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the overall shape of the olive-containing jar?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the visible portion of the jar's lid?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What seems to be the approximate size of the olives inside?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the apparent texture of the olives in the jar?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general condition of the olives in terms of their appearance?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What is the apparent state of the liquid surrounding the olives?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What kind of label is visible on the jar's backside?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What style of cap or lid does the jar appear to have?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Is the visible jar made of a single or multiple pieces of glass?",
+        "answer": "Single"
+      },
+      {
+        "question": "What appears to be the fill level of the jar relative to its total volume?",
+        "answer": "Full"
+      },
+      {
+        "question": "What kind of markings or printing is visible on the jar\u2019s base?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What might be the likely purpose of the jar\u2019s contents?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the overall condition of the jar based on visual inspection?",
+        "answer": "New"
+      }
+    ]
+  }
+]

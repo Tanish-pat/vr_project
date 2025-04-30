@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8f3e5c36.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible upper textile?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the color of the visible sole unit?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the visible pattern of the knitted upper?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What is the apparent material of the shoe's upper?",
+        "answer": "Knit"
+      },
+      {
+        "question": "What is the overall shape of the visible shoe?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "What style of closure is prominently shown?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What color are the visible laces on the shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the texture of the visible upper material?",
+        "answer": "Knitted"
+      },
+      {
+        "question": "What is the apparent material of the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the visible design detail on the heel counter?",
+        "answer": "Panel"
+      },
+      {
+        "question": "Is the heel counter a different color than the upper?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent overall design aesthetic of the shoe?",
+        "answer": "Sporty"
+      },
+      {
+        "question": "How many visible pairs of eyelets are present on each shoe?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the visible height of the shoe's sole?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is the apparent silhouette of the shoe's toe area?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]

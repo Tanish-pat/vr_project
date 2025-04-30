@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d29267c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted security safe?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary material appears to constitute the safe's outer casing?",
+        "answer": "Steel"
+      },
+      {
+        "question": "Considering the safe's overall form, what geometric shape best describes it?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What type of locking mechanism is prominently featured on the safe's front?",
+        "answer": "Digital"
+      },
+      {
+        "question": "What secondary locking mechanism is visible near the digital keypad?",
+        "answer": "Key"
+      },
+      {
+        "question": "Describe the surface texture of the safe's visible exterior panels.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What brand name is subtly embossed near the top of the safe?",
+        "answer": "AmazonBasics"
+      },
+      {
+        "question": "Does the safe's exterior exhibit any noticeable decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the safe's construction, what is its apparent function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What kind of numbers are displayed on the safe's digital interface?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Is there evidence of any hinges visible on the safe's exterior?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its size, what is the likely usage scenario of this safe?",
+        "answer": "Home"
+      },
+      {
+        "question": "Does the safe appear to have any external handles or carrying features?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is this safe designed for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "What is the visible finish of the safe's exterior?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]
