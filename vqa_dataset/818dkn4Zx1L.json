@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9acd79c7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the hard-shell suitcase's exterior, as depicted in the provided image?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used in the construction of this rolling suitcase?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the depicted luggage piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the visual evidence, describe the texture of the suitcase's outer shell.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In the provided image, what kind of wheels does the suitcase feature?",
+        "answer": "Spinner"
+      },
+      {
+        "question": "What type of handle mechanism does this suitcase possess, as clearly shown in the image?",
+        "answer": "Telescopic"
+      },
+      {
+        "question": "Observing the image, what is the apparent design style of the suitcase's exterior?",
+        "answer": "Linear"
+      },
+      {
+        "question": "From a visual analysis of the image, how many wheels are visible on the suitcase?",
+        "answer": "Four"
+      },
+      {
+        "question": "Describe the visible clasp or fastening system on the suitcase in the provided image.",
+        "answer": "Zipperless"
+      },
+      {
+        "question": "What color is the handle of the suitcase, as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the main function of the suitcase, as evident in its visual form?",
+        "answer": "Travel"
+      },
+      {
+        "question": "Based on the provided image, what is the overall design of the handle?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the image, what kind of grooves or lines are visible on the suitcase's exterior?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Describe the apparent finish or sheen of the suitcase's outer surface in the image.",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging from the image, does the suitcase exhibit any noticeable patterns or logos?",
+        "answer": "No"
+      }
+    ]
+  }
+]

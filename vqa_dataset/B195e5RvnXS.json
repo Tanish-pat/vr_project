@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d55c6122.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What natural material is convincingly imitated in the appearance?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall visual texture apparent in the image?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Considering the visible wood grain, what is its directional pattern?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the visual impression regarding the surface's smoothness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible grain, what type of wood is suggested?",
+        "answer": "Acacia"
+      },
+      {
+        "question": "What is the overall tonal range of the brown coloration shown?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Describe the level of variation in the shade of brown displayed?",
+        "answer": "Varied"
+      },
+      {
+        "question": "What is the general visual impression of the surface's finish?",
+        "answer": "Satin"
+      },
+      {
+        "question": "Considering the color and grain, what is the overall aesthetic?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Are there any noticeable knots or imperfections in the wood grain?",
+        "answer": "Few"
+      },
+      {
+        "question": "Does the image reveal a uniform or irregular grain pattern?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the primary visual component of the presented item?",
+        "answer": "Surface"
+      },
+      {
+        "question": "Judging by the texture, is the material likely solid or laminate?",
+        "answer": "Laminate"
+      },
+      {
+        "question": "Is there evidence of a visible sheen or gloss on the surface?",
+        "answer": "Slight"
+      }
+    ]
+  }
+]

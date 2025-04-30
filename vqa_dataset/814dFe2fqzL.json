@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/3219f702.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color scheme of the packaging box?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to be the primary packaging component?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the dominant design element on the packaging sides?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the primary text displayed prominently on the box?",
+        "answer": "Collection"
+      },
+      {
+        "question": "What type of product is shown via illustrations on the back?",
+        "answer": "Masks"
+      },
+      {
+        "question": "What brand name is featured on the packaging?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What color are the illustrated floral accents on the box?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Describe the shape of the individual facial mask illustrations.",
+        "answer": "Oval"
+      },
+      {
+        "question": "What word signifies the masks' function, located above the graphics?",
+        "answer": "Facial"
+      },
+      {
+        "question": "What texture is implied by the packaging's matte finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finishing style of the box's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the images, what is the overall shape of the box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the secondary text on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What word describes the type of fibers used in masks?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the prominent word describing the type of product?",
+        "answer": "Masks"
+      }
+    ]
+  }
+]

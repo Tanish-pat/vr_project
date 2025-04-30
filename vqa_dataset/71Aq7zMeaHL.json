@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7e/7e7d0e41.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case, as shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what material does the phone case appear to imitate?",
+        "answer": "Plaster"
+      },
+      {
+        "question": "Describe the overall shape of the Samsung Galaxy J4+ phone case depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what kind of finish does the phone case seem to possess?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what design pattern is prominently featured on the case?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the apparent primary color variation visible across the phone case?",
+        "answer": "Gradient"
+      },
+      {
+        "question": "Does the phone case's surface appear smooth or rough judging by the image provided?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the image, what appears to be the implied manufacturing process of the case?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Considering the light reflection, what is the sheen level of the case's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the apparent visual texture of the surface, resembling a building material?",
+        "answer": "Stucco"
+      },
+      {
+        "question": "What type of light reflection is mostly observed on the case's surface?",
+        "answer": "Diffuse"
+      },
+      {
+        "question": "What kind of visual effect is created by the light and shadow interplay on the case?",
+        "answer": "Depth"
+      },
+      {
+        "question": "What type of design element is used to suggest the texture of the phone case?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What style of design does the phone case's appearance evoke, relative to architecture?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What aesthetic aspect of the design is emphasized most strongly on the case?",
+        "answer": "Texture"
+      }
+    ]
+  }
+]

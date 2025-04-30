@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a8/a8400745.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible upper portion of the sneaker?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the texture of the main material composing the sneaker's upper?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the shoe's primary construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What design element is repeated on the side of the sneaker?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "What color are the stripes present on the side panels of the shoe?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the shape of the sneaker's sole from a top-down perspective?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the overall style of the depicted footwear?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "What type of closure mechanism does this sneaker use?",
+        "answer": "Laces"
+      },
+      {
+        "question": "What is the color of the heel tab accent on the back of the shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture of the sole of the sneaker as evident from the image?",
+        "answer": "Grooved"
+      },
+      {
+        "question": "Describe the shape of the sneaker's toe box area?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the overall design, what is the style category of this sneaker?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the visible branding detail on the inner side of the tongue?",
+        "answer": "Text"
+      },
+      {
+        "question": "What kind of pattern is embossed on the outsole of the sneaker?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What seems to be the thickness of the midsole on this sneaker?",
+        "answer": "Thick"
+      }
+    ]
+  }
+]
