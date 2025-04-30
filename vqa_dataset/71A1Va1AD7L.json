@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/eedbe7d5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color depicted on the phone case's main surface?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What word is prominently displayed on the phone case's image?",
+        "answer": "Summer"
+      },
+      {
+        "question": "What type of beverage is shown in the phone case's design?",
+        "answer": "Juice"
+      },
+      {
+        "question": "What appears to be the material of the drinking glass in the image?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the apparent shape of the container holding the beverage?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary texture suggested by the drink's depiction?",
+        "answer": "Iced"
+      },
+      {
+        "question": "What is the apparent material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the straws depicted in the phone case's design?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent state of the beverage \u2013 is it solid, liquid, or gaseous?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "How many straws are visibly present in the case's image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What color is visible on the side of the phone case?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What other fruit is partially visible besides the lemon?",
+        "answer": "Lime"
+      },
+      {
+        "question": "What is the overall design style of the phone case's graphic?",
+        "answer": "Summery"
+      },
+      {
+        "question": "Does the image on the case suggest a cold or hot beverage?",
+        "answer": "Cold"
+      },
+      {
+        "question": "What is the general shape of the phone case itself?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

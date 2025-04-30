@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2fe23c83.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual layout, what is the primary subject depicted in its entirety?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the prominent text style used throughout the visual?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual organization, what type of information is predominantly presented?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Disregarding the specifics, what is the overall visual format of the data presentation?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the context of the presented information, what food item is this data associated with?",
+        "answer": "Bun"
+      },
+      {
+        "question": "Focusing solely on the color scheme, what is the dominant color palette used?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary color used for highlighting significant numbers, such as caloric values?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text, what is the unit of measurement commonly used for quantities of nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the term used to describe the daily intake percentage shown alongside each nutrient value?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Judging by the text size, which piece of information is visually emphasized as the most crucial?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What descriptive term is used for the type of fat found in the listed composition?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Based on visual prominence, which nutrient is highlighted besides total fats?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Ignoring the exact values, what is the category encompassing sugars and fiber?",
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "Considering the visual emphasis, what is the category of nutrients immediately following carbohydrates?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What is the unit of measurement displayed for the vitamin D content?",
+        "answer": "Micrograms"
+      }
+    ]
+  }
+]

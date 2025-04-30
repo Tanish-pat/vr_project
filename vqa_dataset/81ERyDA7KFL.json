@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/49d782f1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant exterior color of the depicted carry-on suitcase?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this luggage piece?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what is the geometrical shape of this travel case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what type of wheels are visible on the suitcase's underside?",
+        "answer": "Inline"
+      },
+      {
+        "question": "What color are the interior compression straps designed to secure clothing within the suitcase?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What seems to be the texture of the outer shell of this rolling suitcase?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the visible organizational elements, what is the apparent interior design of the suitcase?",
+        "answer": "Compartmentalized"
+      },
+      {
+        "question": "What is the apparent size of this piece of luggage, categorized by its typical usage?",
+        "answer": "Carry-on"
+      },
+      {
+        "question": "Considering the visual details, what type of handle does this suitcase appear to possess?",
+        "answer": "Top"
+      },
+      {
+        "question": "Observing the contents, what kind of item is partially visible within the main compartment?",
+        "answer": "Clothing"
+      },
+      {
+        "question": "Describe the design of the interior packing system, in one word.",
+        "answer": "Organized"
+      },
+      {
+        "question": "What is the visible color of the smaller, mesh interior pocket?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What seems to be the general condition of this carry-on suitcase?",
+        "answer": "New"
+      },
+      {
+        "question": "What additional item is partially visible within the image, suggesting potential use?",
+        "answer": "Charger"
+      },
+      {
+        "question": "What style of suitcase does the image depict, based on its overall structure?",
+        "answer": "Hard-shell"
+      }
+    ]
+  }
+]

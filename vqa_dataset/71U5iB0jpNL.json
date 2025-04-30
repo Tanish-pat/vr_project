@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/37fed58e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the upper shoe material?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the primary material visibly used for the shoe's upper?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Describe the visible texture of the main shoe fabric.",
+        "answer": "Knit"
+      },
+      {
+        "question": "What color is the visible portion of the shoe's insole?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent shape of the shoe's toe box?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Describe the style of the shoe's heel.",
+        "answer": "Flat"
+      },
+      {
+        "question": "What color is the visible outsole of the shoe?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent design of the shoe's upper?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the overall visible construction of the shoe?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What is the visible material of the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Does the shoe exhibit any noticeable decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible pattern on the upper shoe?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What is the visible material of the shoe lining?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the shoe's closure system?",
+        "answer": "None"
+      },
+      {
+        "question": "Is there visible branding or logo on the shoes?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

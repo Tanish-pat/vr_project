@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cf/cf74b2c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the chair's upholstery?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the chair's back?",
+        "answer": "Winged"
+      },
+      {
+        "question": "What material appears to be used for the chair's upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What type of legs does the chair possess?",
+        "answer": "Tapered"
+      },
+      {
+        "question": "What decorative elements are visible on the chair's edges?",
+        "answer": "Nails"
+      },
+      {
+        "question": "Describe the texture of the chair's upholstery, based on visual observation.",
+        "answer": "Textured"
+      },
+      {
+        "question": "What color are the chair's legs?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent style of the chair?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "Does the chair appear to have armrests?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the construction, what is the overall seating type?",
+        "answer": "Armchair"
+      },
+      {
+        "question": "What is the visible material of the chair's frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the construction, is the chair's padding thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the visible finish of the chair's legs?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the chair have any noticeable patterns in its upholstery?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the chair's overall design simple or ornate?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]
