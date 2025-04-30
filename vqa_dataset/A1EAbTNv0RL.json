@@ -1,0 +1,17 @@
+[
+  {
+    "path": "images/small/a2/a2c996e0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image's texture, what is the likely material of the fabric?",
+        "answer": "Mesh"
+      }
+    ]
+  }
+]

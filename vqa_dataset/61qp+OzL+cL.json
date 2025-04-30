@@ -1,0 +1,41 @@
+[
+  {
+    "path": "images/small/14/143e0106.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the floor lamp?",
+        "answer": "Arched"
+      },
+      {
+        "question": "What is the primary color of the lamp's metal base?",
+        "answer": "Brass"
+      },
+      {
+        "question": "What material is the lampshade made of?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the general color of the lampshade?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What type of light is this?",
+        "answer": "Floor"
+      },
+      {
+        "question": "Describe the shape of the lampshade",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the style of the lamp?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the base made of?",
+        "answer": "Metal"
+      }
+    ]
+  }
+]

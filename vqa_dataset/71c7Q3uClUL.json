@@ -1,0 +1,29 @@
+[
+  {
+    "path": "images/small/d9/d948645e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the phone case?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What design is prominently featured on the phone case?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What material is the phone case seemingly designed to mimic?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what type of phone is the case compatible with?",
+        "answer": "Unknown"
+      }
+    ]
+  }
+]

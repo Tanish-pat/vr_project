@@ -1,0 +1,53 @@
+[
+  {
+    "path": "images/small/41/41289f68.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bench?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the material of the bench's upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the overall style of the bench?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Describe the legs of the bench?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "How many seats does this bench have?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the shape of the armrests?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Is there a back rest present on this bench?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general size category of the bench?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the bench have armrests?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color are the bench legs?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Is the seating area cushioned?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

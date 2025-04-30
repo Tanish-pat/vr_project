@@ -1,0 +1,49 @@
+[
+  {
+    "path": "images/small/ff/ff61c550.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the design style of the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What is the apparent material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What device does this case appear designed for?",
+        "answer": "Phone"
+      },
+      {
+        "question": "Describe the overall texture of the design shown on the phone case",
+        "answer": "Brushstrokes"
+      },
+      {
+        "question": "What other color is prominently featured in the phone case design?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is one secondary color in this design?",
+        "answer": "Red"
+      },
+      {
+        "question": "Is the design on the phone case predominantly geometric or organic?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Besides blue and orange, what other color is present?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the design show defined shapes or random brush strokes?",
+        "answer": "Strokes"
+      }
+    ]
+  }
+]

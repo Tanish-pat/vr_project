@@ -53,16 +53,42 @@ model = genai.GenerativeModel(
 def generate_vqa(image_path, metadata, output_json_path):
     global api_keys, model
     with Image.open(image_path) as img:
+        # # prompt1
+        # prompt = (
+        #     "You are provided with an image of a product along with its metadata from an e-commerce listing. Please adhere to the following instructions:\n\n"
+        #     "1. Analyze the image and metadata thoroughly. The image is a representation of the product, and the metadata provides descriptive attributes.\n\n"
+        #     "2. Based ONLY on the information visible in the image and described in the metadata, generate up to **15 simple, one-word Visual Question Answer (VQA) pairs**, but only include **relevant** and **non-trivial** questions..\n\n"
+        #     "3. Do not hallucinate or generate answers that are not supported by the image or metadata. All answers should be directly inferable from the provided content.\n\n"
+        #     "4. If the product is minimal, generate only a few **important** questions.\n"
+        #     "5. Questions must be in **decreasing order of importance**, i.e., the most significant characteristics should come first.\n"
+        #     "6. Each answer must be one word, directly inferred from the image or metadata. No guesses.\n"
+        #     "7. The output must strictly adhere to the following JSON format:\n"
+        #     "   [{'question': '...', 'answer': '...'}, ...]\n\n"
+        #     "8. Ensure the questions cover diverse aspects of the product, such as its color, material, features, and other relevant attributes.\n\n"
+        #     "9. Avoid duplicates, overly generic, or filler questions.\n"
+        #     "10. Make sure questions are detailed, about 15 words, and provide enough context.\n"
+        #     "11. AND ONLY RETURN OUTPUT IN THE JSON FORMAT AS TOLD\n"
+        # )
+
+        # prompt2
         prompt = (
-            "You are provided with an image of a product along with its metadata from an e-commerce listing. Please adhere to the following instructions:\n\n"
-            "1. Analyze the image and metadata thoroughly. The image is a representation of the product, and the metadata provides descriptive attributes.\n\n"
-            "2. Based ONLY on the information visible in the image and described in the metadata, generate **15 simple, one-word Visual Question Answer (VQA) pairs**.\n\n"
-            "3. Do not hallucinate or generate answers that are not supported by the image or metadata. All answers should be directly inferable from the provided content.\n\n"
-            "4. The output must strictly adhere to the following JSON format:\n"
-            "   [{'question': '...', 'answer': '...'}, ...]\n\n"
-            "5. Ensure the questions cover diverse aspects of the product, such as its color, material, features, and other relevant attributes. Avoid repetition.\n\n"
-            "6. Make sure questions are detailed, about 10 words, and provide enough context.\n"
-            "7. AND ONLY RETURN OUTPUT IN THE JSON FORMAT AS TOLD\n"
+            "You are provided with an image of a product and its associated metadata from an e-commerce listing.\n\n"
+            "Follow these instructions precisely:\n\n"
+            "1. **First**, perform a detailed visual analysis of the image. Extract observable product attributes such as color, shape, material, design elements, and functional features.\n"
+            "2. **Then**, refer to the metadata only as a secondary source to confirm or supplement visual evidence. Do not rely solely on metadata.\n"
+            "3. Based solely on what can be visually confirmed (and optionally supported by metadata), generate **15 one-word Visual Question Answer (VQA) pairs**.\n"
+            "4. Only include **relevant, non-trivial** questions. If the product is simple or minimal, produce fewer but high-quality pairs.\n"
+            "5. List the questions in **decreasing order of importance**, prioritizing the most distinctive or defining characteristics.\n"
+            "6. Each question must be detailed (approx. 15 words) and clearly refer to something visually evident in the product.\n"
+            "7. Each answer must be **a single word**, strictly grounded in the image or metadata.\n"
+            "8. Avoid any hallucinations, guesses, generic filler, or duplicate questions.\n"
+            "9. Cover diverse aspects such as color, material, texture, design, components, shape, or markings.\n"
+            "10. Format your response as a JSON array:\n"
+            "    [\n"
+            "      {\"question\": \"...\", \"answer\": \"...\"},\n"
+            "      ...\n"
+            "    ]\n"
+            "11. **Return only the JSON array above — no prose, no comments, no formatting tags.**\n"
         )
 
         while True:
@@ -86,11 +112,6 @@ def generate_vqa(image_path, metadata, output_json_path):
         try:
             cleaned_result = result.strip().lstrip('```json').rstrip('```').strip()
             qa_pairs = json.loads(cleaned_result)
-
-            # with open(output_json_path, "w", encoding="utf-8") as out_f:
-            #     json.dump(qa_pairs, out_f, indent=2)
-            # print(f"✅ Saved VQA to {output_json_path}")
-
 
             # Create the final structure as a list with two elements
             final_output = [
