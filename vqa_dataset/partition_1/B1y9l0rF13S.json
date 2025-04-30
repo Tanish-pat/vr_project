@@ -1,0 +1,69 @@
+[
+  {
+    "path": "../abo-images-small/images/small/e6/e6b8646d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the weave and fibers, what is the apparent texture of the material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on visual inspection, what is the primary material composing this textile?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall visual pattern presented by the fabric's interwoven threads?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What kind of visual effect is created by the interlacing of the threads?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the image, what is the general appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, how would you describe the density of the fabric's weave?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the visible arrangement of the threads in the fabric's construction?",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "From the picture, what is the apparent weight or thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the predominant shade observed in the presented fabric sample?",
+        "answer": "Dark"
+      },
+      {
+        "question": "In terms of visual pattern, is the fabric uniformly colored or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by the image, does the fabric appear to be shiny or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "If you were to touch it, what would be the likely tactile feel of this fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the visual appearance of the individual threads within the fabric's structure",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based purely on visual assessment, what is the overall finish of the fabric?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]
