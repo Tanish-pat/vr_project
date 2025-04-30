@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a8/a8e7e385.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the plush hippopotamus?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary texture of the stuffed animal's fur?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What animal does the plush toy represent, based on its visual features?",
+        "answer": "Hippo"
+      },
+      {
+        "question": "What material appears to constitute the bulk of the toy's body?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Considering its pose, what is the overall shape of this plush toy?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What color are the small, ear-like protrusions on the hippo's head?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Describe the visible texture on the plush hippo's face and body",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the approximate size of the toy, relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent facial expression conveyed by the plush hippo?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Are there any noticeable markings or patterns on the plush toy?",
+        "answer": "None"
+      },
+      {
+        "question": "What seems to be the overall style of this plush toy, simple or elaborate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the toy appear to be made from a single or multiple fabric types?",
+        "answer": "Single"
+      },
+      {
+        "question": "Judging by the image, is the hippopotamus plush toy sitting or lying down?",
+        "answer": "Lying"
+      },
+      {
+        "question": "Are the eyes of the hippopotamus plush toy simple or complex in design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent condition of this plush toy, new or used?",
+        "answer": "New"
+      }
+    ]
+  }
+]

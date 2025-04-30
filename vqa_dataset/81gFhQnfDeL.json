@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/ea77c391.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the depicted textile pattern?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What secondary color accents the primary gray in the fabric design?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall style or type of the textile's repeating pattern?",
+        "answer": "Ikat"
+      },
+      {
+        "question": "Describe the geometric shapes forming the core motif of the fabric print?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, based on its visual appearance?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual density, how would you characterize the pattern's complexity?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is the color of the background against which the pattern is displayed?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Judging by the image, what is the dominant shade of yellow present?",
+        "answer": "Mustard"
+      },
+      {
+        "question": "Based solely on the visible pattern, how would you describe its arrangement?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "Does the fabric appear to have any noticeable sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual weight or impact created by the pattern's scale?",
+        "answer": "Balanced"
+      },
+      {
+        "question": "What is the apparent visual directionality of the overall design?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visible details, is the pattern highly detailed or simplistic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the image, what kind of yarn or thread seems to have been used?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "How would you describe the visual effect produced by the contrast between colors?",
+        "answer": "Subtle"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4d/4df55374.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme employed in the design of this nutritional information panel?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary font style utilized throughout the text on this nutritional facts label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant organizational structure of the information presented?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the primary method used to visually differentiate between the 'As Packaged' and 'As Cooked' values?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What specific visual element serves to highlight the 'Percent Daily Value' figures?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What kind of visual hierarchy is used to rank the nutritional components in terms of importance?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Disregarding the text, what is the overall geometric shape of the nutritional information section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture implied by the visual appearance of the printed information on the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent visual style of the typeface used for the title 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the general visual weight or boldness of the numerical data within the table?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Describe the visual density of the information within the area dedicated to nutritional data.",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual prominence given to the serving size information compared to the other data?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "In the visual representation, what is the visual size of the text compared to the total area of the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the visual style applied to the footnote regarding cooking processes and added ingredients?",
+        "answer": "Italic"
+      },
+      {
+        "question": "Considering the text's contrast against the background, what is the overall visual readability of the panel?",
+        "answer": "High"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ffcbc4b0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the woven textile shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall texture of the fabric depicted in the photograph?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visual pattern present across the surface of the fabric?",
+        "answer": "Waffle"
+      },
+      {
+        "question": "What type of textile is suggested by the visible weave and drape?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Considering the visible folds, what is the implied drape or stiffness of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging from the image, what is the general weight or thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent finish of the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric exhibit any visible sheen or gloss in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general shape of the fabric pieces that are presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, does the fabric appear to be tightly or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Are there any noticeable irregularities or imperfections visible in the weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, does the fabric show any obvious signs of wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible edges, what type of hem or finish is evident?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Describe the uniformity of the color and weave across the entire fabric area.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by the image, is the fabric's weave pattern consistently spaced?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

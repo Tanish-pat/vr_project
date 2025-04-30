@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b90b2b8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the dog treat packaging's background?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What shape does the dog treat pouch predominantly display?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What material appears to constitute the dog treat packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the texture of the main background area on the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall design style employed on the packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describing the font style used for the product name, what is its nature?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text indicating \"Grain Free\" on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is prominently featured on the rear of the package, apart from text?",
+        "answer": "Photograph"
+      },
+      {
+        "question": "What breed of dog is depicted in the product image on the packaging?",
+        "answer": "Boxer"
+      },
+      {
+        "question": "What is the color of the dog featured on the back of the package?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What kind of graphic is utilized to represent the brand on the packaging?",
+        "answer": "Arrow"
+      },
+      {
+        "question": "What is the color of the arrow graphic representing the brand?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is explicitly stated as a key ingredient in the dog treats?",
+        "answer": "Bacon"
+      },
+      {
+        "question": "Besides bacon, what other ingredient is highlighted in the product description?",
+        "answer": "Apple"
+      },
+      {
+        "question": "What is the overall presentation style of the information on the packaging?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

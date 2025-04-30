@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4f235282.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the depicted phone case?",
+        "answer": "Green"
+      },
+      {
+        "question": "What word is prominently displayed on the phone case's design?",
+        "answer": "Alone"
+      },
+      {
+        "question": "Considering the main image, what type of scene is illustrated on the case?",
+        "answer": "Railway"
+      },
+      {
+        "question": "What appears to be the primary material of this phone cover?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the text's font style on the phone case's surface?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual texture suggested by the railway track depiction?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What color is the text 'Alone' on the phone case design?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what is the design's overall aesthetic?",
+        "answer": "Nature"
+      },
+      {
+        "question": "What kind of vegetation is visible alongside the railway tracks?",
+        "answer": "Trees"
+      },
+      {
+        "question": "What is the apparent condition of the depicted railway tracks?",
+        "answer": "Overgrown"
+      },
+      {
+        "question": "What might be implied by the combination of the railway and word 'Alone'?",
+        "answer": "Isolation"
+      },
+      {
+        "question": "What kind of photographic technique is used in the case design?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "Judging by the image, what is the case's surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the orientation of the image on the phone case?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]
