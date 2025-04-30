@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3ebb13aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the chest of drawers?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the chest's construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall finish of the chest of drawers' surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "How many drawers are visibly present on the front of the chest?",
+        "answer": "Four"
+      },
+      {
+        "question": "What shape best describes the overall form of this furniture piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of the drawer handles/pulls?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the color of the drawer handles/pulls, as they appear in the image?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the apparent style of the handles/pulls on the drawers?",
+        "answer": "Bar"
+      },
+      {
+        "question": "Considering its visual design, what is the apparent function of this piece?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Based on the image, what kind of feet or base does the chest have?",
+        "answer": "Block"
+      },
+      {
+        "question": "What kind of surface is present below the top drawer of the chest?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visible texture of the drawer fronts in the photo?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent size of this item, relative to typical furniture sizes?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on its look, for what room is the chest of drawers most suited?",
+        "answer": "Bedroom"
+      },
+      {
+        "question": "What type of construction style is evident in the chest's visible build?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

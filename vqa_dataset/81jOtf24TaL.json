@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6b448919.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted phone case?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary design element covering the phone case's surface?",
+        "answer": "Squares"
+      },
+      {
+        "question": "What material are the squares on the phone case visually suggesting?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What message is spelled out using smaller square elements?",
+        "answer": "NoHate"
+      },
+      {
+        "question": "What is the overall geometric pattern arrangement of the squares?",
+        "answer": "Mosaic"
+      },
+      {
+        "question": "Considering the overall shape, what type of phone case is shown?",
+        "answer": "Snap-on"
+      },
+      {
+        "question": "What is the visual texture of the majority square elements?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the apparent visual depth or dimensionality effect on the case?",
+        "answer": "3D"
+      },
+      {
+        "question": "What is the style of lettering used for the message on the case?",
+        "answer": "Block"
+      },
+      {
+        "question": "Are the individual squares uniformly sized on the phone case?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the background between the squares?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the implied visual weight or density of the design?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Based on the image, what seems to be the case's material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the sides, is the design wrapped around the phone's edges?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show the phone case in various orientations?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

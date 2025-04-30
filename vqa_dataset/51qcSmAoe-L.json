@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b3796e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the yogurt cup's body?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the yogurt container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the food container shown?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the label, what fruit flavor is suggested?",
+        "answer": "Pineapple"
+      },
+      {
+        "question": "What brand is prominently displayed on the yogurt's label?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Describe the texture implied by the image of the pineapple pieces?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What design element is visible at the bottom of the label?",
+        "answer": "Greek"
+      },
+      {
+        "question": "What is the apparent consistency of the yogurt inside?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What is the shape of the illustrated pineapple slices?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What color are the illustrated pineapple pieces on the label?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the color of the text on the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, does the container have a lid?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall tone of the label's color scheme?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Is there a noticeable gloss or sheen to the container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any visible nutritional facts or ingredient details present?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

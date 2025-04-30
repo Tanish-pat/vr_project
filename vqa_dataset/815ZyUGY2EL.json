@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/56b2ca8a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the powdered substance inside the glass jar, as visually apparent?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the jar's contents, what is the apparent physical form of the product?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What material is the primary container constructed from, judging by its transparency and appearance?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the overall shape of the product's primary packaging, considering its dimensions and form?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based solely on the image, what seems to be the texture of the product inside the jar?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What color is the band around the middle of the jar, clearly visible on the label?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the material of the jar's lid, considering its dark color and apparent finish?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the label, what is the dominant design style of the illustrations on the jar?",
+        "answer": "Botanical"
+      },
+      {
+        "question": "What is the color of the label's background, excluding any printed elements?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible text on the jar, what appears to be the product's nature?",
+        "answer": "Spice"
+      },
+      {
+        "question": "Judging from the label's design, what is the overall aesthetic of the product's branding?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the style of the font used for the text on the label, as visually apparent?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Focusing on the label's design, what kind of imagery dominates the middle section?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Based solely on visual examination, what kind of packaging is used for the product?",
+        "answer": "Jar"
+      },
+      {
+        "question": "Considering the overall appearance, what is the implied intended use of this product?",
+        "answer": "Culinary"
+      }
+    ]
+  }
+]
