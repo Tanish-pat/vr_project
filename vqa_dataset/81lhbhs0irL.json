@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/20e12bb4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the curtain fabric, as shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent weave type of the curtain fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image, what is the shape of the curtain panels, ignoring the rod?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the grommets, what metallic finish do they appear to have?",
+        "answer": "Bronze"
+      },
+      {
+        "question": "From the displayed image, what type of header does the curtain feature?",
+        "answer": "Grommet"
+      },
+      {
+        "question": "What is the apparent overall visual style or aesthetic conveyed by the curtain?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Judging by the image, what seems to be the material of the curtain rod?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the visible color of the lining on the rear of the curtain?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the image suggest any patterns in the curtain's fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual appearance of the visible fabric's sheen or luster?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Considering the image, how many grommets are visibly present in one panel?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the apparent opacity level of the curtain?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the back view, what coating is described on the curtain?",
+        "answer": "Three-pass"
+      },
+      {
+        "question": "Is the curtain shown hanging in the product image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In the image, does the curtain seem to be made from a heavy or light fabric?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bc/bce46ae8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the spice in the center jar?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of each individual spice container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to comprise the spice jar bodies?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What color are the lids affixed to the spice containers?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the spice blend in the leftmost jar?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What is the visible primary color of the spice in the leftmost jar?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent texture of the spice blend in the rightmost jar?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What is the visible primary color of the spice in the rightmost jar?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be printed on the labels of the jars?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the visible design element on the jar labels?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What kind of closure mechanism is present on each spice jar?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the apparent material of the spice jar lids?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the image show any visible branding on the jars?",
+        "answer": "No"
+      },
+      {
+        "question": "How many spice jars are depicted in the provided image?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent size of the spice jars relative to each other?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

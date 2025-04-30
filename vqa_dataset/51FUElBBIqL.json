@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b50a9d9a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the drawer front?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the drawer front?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the shape of the drawer knob's visible surface?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color is the drawer knob?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What seems to be the material of the drawer knob?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall style of the drawer design?",
+        "answer": "Classic"
+      },
+      {
+        "question": "What design element frames the drawer opening?",
+        "answer": "Molding"
+      },
+      {
+        "question": "How would you characterize the texture of the drawer front?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible finish of the drawer front?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the drawer knob appear to have any surface texture?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "Considering the knob's attachment, what is its type?",
+        "answer": "Knobs"
+      },
+      {
+        "question": "How many knobs are visible on the drawer?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the visual impression of the drawer's finish?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Describe the visible pattern on the drawer knob surface?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "What is the type of joint between the knob and drawer?",
+        "answer": "Threaded"
+      }
+    ]
+  }
+]
