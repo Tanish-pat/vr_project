@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/07e47750.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the primary color scheme, what is the dominant hue of the shoe's upper?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the texture of the primary material used for the shoe's upper section?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "What color are the laces that secure the shoe's closure system?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the predominant color of the shoe's midsole, providing cushioning and support?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape or silhouette of the athletic footwear?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "What type of sole is evident on the bottom of the sports shoe, providing traction?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the apparent material of the insole offering comfort and support to the foot?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the back of the shoe, what color is the heel panel?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the design pattern visible on the main body of the shoe, near the laces?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the style of the shoe's lacing system, for adjusting the fit?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Describe the construction of the shoe's toe cap, considering its shape and material?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the style of the shoe's collar at the ankle for comfort and support?",
+        "answer": "Low-top"
+      },
+      {
+        "question": "Observing the midsole, what can you describe about its height or profile?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What appears to be the overall condition of the shoe, based on the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Observing the outsole, what is the pattern or design visible providing grip?",
+        "answer": "Textured"
+      }
+    ]
+  }
+]

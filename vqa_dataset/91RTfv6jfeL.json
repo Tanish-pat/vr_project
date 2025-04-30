@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f1a8c139.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the bedding set shown in the image?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What geometric pattern is prominently featured on the pillowcases and sheet?",
+        "answer": "Network"
+      },
+      {
+        "question": "What appears to be the primary material used for this bedding?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describe the overall texture of the bedding, based on visual appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible portion, what is the shape of each pillowcase?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the subtle highlights within the geometric pattern?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, how many pillowcases are visibly present on the bed?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the image, what is the overall style of the bedding set?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the approximate size of the geometric shapes in the print?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent density or spacing of the geometric pattern?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the bedding show any visible creases or wrinkles in the image?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based solely on the image, what seems to be the thread count of the fabric?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the visible edge finish of the pillowcases and sheet.",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the color of the visible bed frame in the background?",
+        "answer": "DarkBrown"
+      }
+    ]
+  }
+]

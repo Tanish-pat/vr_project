@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/221cc184.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color displayed prominently on the packaging, as shown in the image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the food package depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual observation, what appears to be the material of the food packaging container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Judging from the image provided, what kind of text is predominantly featured on the packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the main style of the text on the nutrition facts panel based on the provided image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the packaging in the image show any noticeable texture, and if so, what is it?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the layout of the information on the nutrition label, as depicted in the provided image.",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the color of the text used on the nutrition facts panel in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the image, is there any noticeable logo or branding present on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the size of the font used for the 'Calories' information on the package, based on the image?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the image, what is the approximate number of columns present in the nutrition facts table?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the image, what is the general style of the border around the nutrition facts panel?",
+        "answer": "None"
+      },
+      {
+        "question": "What kind of graphic design elements are used on the packaging, as seen in the image?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on visual inspection of the image, does the packaging contain any images apart from text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall tone or mood conveyed by the packaging design, based on the image?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

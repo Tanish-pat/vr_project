@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa81c7a9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the visible fabric portion?",
+        "answer": "White"
+      },
+      {
+        "question": "What textile fiber composition is explicitly stated on the label?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the dominant texture observed in the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What language(s) is/are used on the attached label?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the label, where was the item manufactured?",
+        "answer": "EU"
+      },
+      {
+        "question": "What is the overall shape of the visible textile element?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish of the label's text?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the color of the label's background?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the type of label attached to the textile?",
+        "answer": "Care"
+      },
+      {
+        "question": "Does the fabric show any noticeable pattern aside from weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the label's edge details",
+        "answer": "Straight"
+      },
+      {
+        "question": "What material seems to comprise the label itself?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Is the label's text primarily uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the general condition of the fabric shown?",
+        "answer": "New"
+      },
+      {
+        "question": "What symbols are found on the label besides text?",
+        "answer": "Symbols"
+      }
+    ]
+  }
+]
