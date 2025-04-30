@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall design, what is the predominant pattern visible on the outsole of this shoe?",
-        "answer": "Gridded"
-      },
-      {
-        "question": "What is the primary color of the visible outsole, which makes up the majority of the shoe's bottom surface?",
+        "question": "Considering the overall design, what is the dominant color of the visible outsole?",
         "answer": "Gray"
       },
       {
-        "question": "Focusing on the material, what appears to be the texture of the outsole, judging by its appearance?",
-        "answer": "Textured"
+        "question": "What is the apparent texture of the shoe's outsole, based on its visual appearance?",
+        "answer": "Ridged"
       },
       {
-        "question": "Based on the image, what is the general shape of the shoe's sole, which is the bottom part?",
+        "question": "Describing the sole's pattern, what geometrical shapes are repeatedly used in its design?",
+        "answer": "Rectangles"
+      },
+      {
+        "question": "Focusing solely on the visible part of the shoe, what is the general shape of the outsole?",
         "answer": "Curved"
       },
       {
-        "question": "Observing the details, what seems to be the material composition of the shoe's visible outsole?",
+        "question": "Based on its visual features, what seems to be the primary material of the outsole?",
         "answer": "Rubber"
       },
       {
-        "question": "Looking at the visual pattern, can you describe the arrangement of the elements on the outsole?",
-        "answer": "Rectangular"
+        "question": "Examining the outsole's surface, how would you describe the depth of the ridged pattern?",
+        "answer": "Shallow"
       },
       {
-        "question": "Considering the image, what is the overall condition of the shoe's visible outsole?",
-        "answer": "New"
+        "question": "What is the most noticeable color feature found on the small visible section of the upper shoe?",
+        "answer": "Blue"
       },
       {
-        "question": "What is the primary color of the visible portion of the upper part of the shoe, as shown in the image?",
-        "answer": "Navy"
-      },
-      {
-        "question": "From the image, what can you say about the sole's flexibility, based on the curve and pattern?",
+        "question": "Judging from the image, what can you infer about the outsole's flexibility based on its appearance?",
         "answer": "Flexible"
       },
       {
-        "question": "Judging by the appearance of the outsole's surface, what is its apparent finish?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Based on the visible details, what seems to be the manufacturing method used for the outsole?",
-        "answer": "Molded"
-      },
-      {
-        "question": "What color is a small detail visible near the heel of the shoe's upper?",
+        "question": "What small color detail is visible near the heel of the shoe?",
         "answer": "Red"
       },
       {
-        "question": "Describe the texture of the material used for the visible section of the shoe's top layer.",
-        "answer": "Smooth"
+        "question": "Considering the overall design, what is the primary function of the featured outsole?",
+        "answer": "Traction"
       },
       {
-        "question": "What seems to be the purpose of the detailed pattern on the bottom of the shoe, as shown?",
-        "answer": "Grip"
+        "question": "From the image, is there a noticeable brand marking visible on the outsole?",
+        "answer": "Yes"
       },
       {
-        "question": "Considering the image, what type of footwear does the sole suggest the shoe is?",
-        "answer": "Casual"
+        "question": "What is the shape of the brand marking on the outsole?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the visual pattern formed by the numerous grooves in the outsole?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Based purely on the image, what appears to be the primary material of the visible upper?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Regarding the sole's edges, how would you characterize the overall profile of the outsole?",
+        "answer": "Rounded"
       }
     ]
   }

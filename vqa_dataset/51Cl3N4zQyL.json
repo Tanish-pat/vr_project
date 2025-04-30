@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6e593eaa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what is the primary filler material used in the capsule?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Based on the provided text, what type of capsule is employed in the product's formulation?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "According to the image's text, what chemical compound acts as a flow agent in the product?",
+        "answer": "Magnesium"
+      },
+      {
+        "question": "What is specified as the second ingredient mentioned in the textual data of the image?",
+        "answer": "Microcrystalline"
+      },
+      {
+        "question": "As shown in the text, what type of ingredient is cellulose categorized as in the product?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "What substance is indicated as a binding or anti-caking agent in the text provided?",
+        "answer": "Silicon"
+      },
+      {
+        "question": "Referring to the product's description, what is the compound acting as an anti-caking agent?",
+        "answer": "Dioxide"
+      },
+      {
+        "question": "What flour is mentioned as part of the ingredient composition in the image provided?",
+        "answer": "Flour"
+      },
+      {
+        "question": "What kind of capsule is used, judging by the text shown?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "According to the image's text, what is the type of stearate used as an ingredient?",
+        "answer": "Stearate"
+      },
+      {
+        "question": "What is the ingredient acting as a glidant or lubricant according to the text?",
+        "answer": "Stearate"
+      },
+      {
+        "question": "Considering the image's text, what ingredient could contribute to the product's bulk?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "Based solely on the text, what is listed as a type of dietary fiber?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "What ingredient serves as a plant-based material for the capsule shell as shown in the text?",
+        "answer": "Hypromellose"
+      },
+      {
+        "question": "What is the specific type of cellulose used as mentioned in the textual content of the image?",
+        "answer": "Microcrystalline"
+      }
+    ]
+  }
+]
