@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8d410481.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall aesthetic, what single word best describes the predominant color scheme of this athletic shoe?",
+        "answer": "Multicolor"
+      },
+      {
+        "question": "Examining the upper's construction, what textile material appears to be primarily used in its fabrication?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Focusing on the sole's visual characteristics, what color best represents its prominent hue?",
+        "answer": "White"
+      },
+      {
+        "question": "Based solely on the visible design, what is the most prominent pattern exhibited across the shoe's surface?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Analyzing the shoe's shape and structure, what term best captures its overall form?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "Regarding the visible fastening system, what specific mechanism is utilized to secure the shoe to the foot?",
+        "answer": "Lace"
+      },
+      {
+        "question": "Observing the inner lining, what is the single most dominant color evident in the insole's design?",
+        "answer": "Blue"
+      },
+      {
+        "question": "By carefully examining the brand's visual representation, what is the single-word name displayed on the insole?",
+        "answer": "Symact"
+      },
+      {
+        "question": "Analyzing the texture of the upper, what single word best describes its tactile appearance?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the visual details, what secondary color accents the main pattern on the shoe's upper?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the visual components, what word best describes the type of sole visible on the shoe?",
+        "answer": "Cushioned"
+      },
+      {
+        "question": "Observing the style of the laces, what is their general pattern or appearance?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on the visible components, what material seems to form the majority of the shoe's midsole?",
+        "answer": "Foam"
+      },
+      {
+        "question": "Observing the overall aesthetic, what is the general style of the sneaker?",
+        "answer": "Running"
+      },
+      {
+        "question": "Examining the visible stitching, what is the general pattern of stitching on the shoe's upper?",
+        "answer": "Intricate"
+      }
+    ]
+  }
+]

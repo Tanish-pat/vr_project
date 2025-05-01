@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9c/9cb5350b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the upholstery?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the armrest's form, what is its shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible material of the sofa's main structure?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describing the weave, what is the fabric's visible pattern?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the apparent construction of the armrest\u2019s edge?",
+        "answer": "Squared"
+      },
+      {
+        "question": "Judging by the image, what seems to be the sofa's style?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Observing the visible seams, what is their overall appearance?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on the image, what is the visible cushion\u2019s form?",
+        "answer": "Boxy"
+      },
+      {
+        "question": "From the image, what seems to be the general tone of the color?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, how would you describe the upholstery's density?",
+        "answer": "Thick"
+      },
+      {
+        "question": "From the image, what type of stitching is visible on the fabric?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the visible aspect of the armrest's edge finish?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Considering the visible area, what is the sofa's apparent size?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

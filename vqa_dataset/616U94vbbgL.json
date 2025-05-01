@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the cable's outer sheath?",
+        "question": "What is the predominant color of the cable's exterior?",
         "answer": "Black"
       },
       {
-        "question": "What type of connector is present at one end of the cable?",
+        "question": "What type of connector is present on the larger end?",
         "answer": "HDMI"
       },
       {
-        "question": "What type of connector is visible at the other end of the cable?",
-        "answer": "Mini-HDMI"
-      },
-      {
-        "question": "Describe the overall shape of the cable's connectors?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What appears to be the material of the cable's outer covering?",
+        "question": "What material appears to constitute the cable's outer sheath?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the apparent texture of the cable's outer sheath?",
+        "question": "What is the overall shape or form of the cable's connectors?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the cable's outer covering?",
         "answer": "Smooth"
       },
       {
-        "question": "Is there any visible branding or labeling on the connectors?",
-        "answer": "Yes"
+        "question": "What size is the secondary connector, relative to the primary connector?",
+        "answer": "Smaller"
       },
       {
-        "question": "What is the apparent overall length of the cable shown?",
+        "question": "What kind of connector is visible at the smaller end of the cable?",
+        "answer": "Mini-HDMI"
+      },
+      {
+        "question": "Describing the cable's flexibility, is it stiff or pliable?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "What is the general appearance of the cable's molding around each connector?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent finish of the cable's connectors, matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its length, is this a short or long cable?",
         "answer": "Long"
       },
       {
-        "question": "What seems to be the flexibility or rigidity of the cable?",
-        "answer": "Flexible"
+        "question": "What branding is visible on one of the cable connectors?",
+        "answer": "AUKEY"
       },
       {
-        "question": "Describe the color of the metallic connector pins.",
-        "answer": "Gold"
+        "question": "Considering the image resolution, is the cable's surface uniformly colored?",
+        "answer": "Yes"
       },
       {
-        "question": "How many connectors are visibly attached to the cable?",
-        "answer": "Two"
-      },
-      {
-        "question": "Does the cable appear to have any visible damage or defects?",
+        "question": "Does the cable exhibit any visible signs of wear or damage?",
         "answer": "No"
       },
       {
-        "question": "Is the cable\u2019s design symmetrical or asymmetrical?",
-        "answer": "Asymmetrical"
-      },
-      {
-        "question": "What is the approximate thickness of the cable itself?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Describe the style of the cable's connector molding.",
-        "answer": "Sleek"
+        "question": "Considering the connectors, what is the apparent quality of the manufacturing?",
+        "answer": "Good"
       }
     ]
   }

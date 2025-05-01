@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b3f6e229.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the dog harness as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this harness?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "Considering the image, what is the overall shape or style of this dog harness?",
+        "answer": "Vest"
+      },
+      {
+        "question": "Based on the visible design, what type of closure system does the harness seem to utilize?",
+        "answer": "Buckle"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the visible harness fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the harness in the provided image appear to have any reflective elements visible?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent number of adjustment points present on this particular harness?",
+        "answer": "Two"
+      },
+      {
+        "question": "From the image, what is the apparent width of the straps composing the harness?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Observing the image, is there any visible branding or logo on the harness?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the photo, what is the apparent style of the stitching used on the harness?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Based on the image provided, what type of dog breed seems to be wearing the harness?",
+        "answer": "Spitz"
+      },
+      {
+        "question": "Does the harness in the image appear to fit snugly or loosely on the dog?",
+        "answer": "Snugly"
+      },
+      {
+        "question": "From the image, what is the approximate length of the harness straps around the chest?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging by the image, are there any additional pockets or pouches attached to the harness?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the overall condition of the harness?",
+        "answer": "New"
+      }
+    ]
+  }
+]

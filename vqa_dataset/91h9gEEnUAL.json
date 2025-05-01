@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/9029cd03.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the upholstered top surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the top fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What material seems to constitute the leg supports?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall shape of the visible furniture piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the finish style of the wooden legs, considering visible grain and markings?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "Judging by the image, what seems to be the construction of the legs?",
+        "answer": "Tapered"
+      },
+      {
+        "question": "Considering visible seams, how is the top fabric apparently assembled?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "Based solely on the visual, what is the apparent height of the legs relative to the top?",
+        "answer": "Short"
+      },
+      {
+        "question": "Describe the visible wood grain's orientation on the leg supports.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general tone or hue of the wood in terms of lightness/darkness?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the image, what kind of visible joints are present in the leg structure?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual impression of the wood's surface texture?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What appears to be the overall visual style or aesthetic of this piece?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Considering the visible edges, how are the wooden legs constructed?",
+        "answer": "Solid"
+      },
+      {
+        "question": "How many visible legs are depicted in this close-up view?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

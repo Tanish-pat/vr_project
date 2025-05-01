@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/47/47b4f416.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the keyboard shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this keyboard?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering its overall dimensions, what would best describe the keyboard's form factor?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Based on the visible key layout, what type of keyboard is depicted?",
+        "answer": "QWERTY"
+      },
+      {
+        "question": "Judging by the image, what is the apparent surface texture of the keyboard's keys?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent shape of the keyboard's main body, ignoring the keys?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the keyboard in the image appear to have any noticeable markings or labels on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the keyboard shown wireless or wired?",
+        "answer": "Wireless"
+      },
+      {
+        "question": "Considering the hands and their position, what seems to be the keyboard's size relative to human hands?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the image, can you determine if the keyboard has a numeric keypad?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent design style of the depicted keyboard?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the visible details, does this keyboard seem to include any special function keys?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent overall condition of the keyboard in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the image, what seems to be the keyboard's level of detail in its design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the image and the context, is this keyboard likely intended for use with a tablet or desktop computer?",
+        "answer": "Tablet"
+      }
+    ]
+  }
+]

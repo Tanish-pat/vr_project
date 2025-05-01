@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e4e2db7f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sofa's upholstery?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary material of the sofa's cushions?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape of the sofa's backrest?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of decorative elements are visible along the sofa's seams?",
+        "answer": "Studs"
+      },
+      {
+        "question": "What color are the decorative studs on the sofa?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the apparent texture of the sofa's upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the shape of the sofa's armrests?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the sofa's legs?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What material appear to be the sofa's legs made of?",
+        "answer": "Wood"
+      },
+      {
+        "question": "How many distinct seating sections does the sofa possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the general style of the sofa's design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Is the sofa's back cushion noticeably plush or firm?",
+        "answer": "Firm"
+      },
+      {
+        "question": "What seems to be the construction of the sofa's frame?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the sofa show any visible seams besides the decorative ones?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general appearance of the sofa's upholstery?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]
