@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64c502e7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the shower curtain's pattern?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent texture of the bath towels shown?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the overall pattern style on the shower curtain?",
+        "answer": "Damask"
+      },
+      {
+        "question": "What material appears to be used for the bath mat?",
+        "answer": "Textile"
+      },
+      {
+        "question": "What is the color of the hand towel hanging on the wall?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What seems to be the primary material of the small wooden bench?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the shape of the bathroom sink?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the color of the bathroom sink?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the material of the basket holding the towels?",
+        "answer": "Wicker"
+      },
+      {
+        "question": "What is the apparent color of the frame around the mirror?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the general shape of the mirror?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of the bath towels?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describe the style of the shower curtain's pattern, considering its complexity?",
+        "answer": "Intricate"
+      },
+      {
+        "question": "What seems to be the material of the small wooden stool?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the dominant color of the bath mat?",
+        "answer": "Beige"
+      }
+    ]
+  }
+]

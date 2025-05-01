@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/29/299d4d17.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and dispensing mechanism, what is the primary function suggested by this product's design?",
+        "answer": "Dispenser"
+      },
+      {
+        "question": "What is the predominant color of the liquid visible within the transparent bottle?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the bottle's material and translucency, what material seems most likely to have been used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the shape of the bottle, taking into account its curves and proportions.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What type of pump mechanism is affixed to the top of the bottle for dispensing its contents?",
+        "answer": "Pump"
+      },
+      {
+        "question": "What is the color of the pump mechanism on top of the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the label's design elements, what natural motif is prominently displayed?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What color are the leaves depicted on the product label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the general color scheme of the label's text and graphic design elements?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the label's style and information, what is the likely product category?",
+        "answer": "Soap"
+      },
+      {
+        "question": "What is the general texture of the bottle's surface, considering its visible sheen or matte finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the label's orientation on the bottle (vertical, horizontal, etc.)",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the bottle exhibit any noticeable surface markings beyond the label?",
+        "answer": "None"
+      },
+      {
+        "question": "What shape best describes the top of the dispensing pump?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the general style of the text on the product label?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

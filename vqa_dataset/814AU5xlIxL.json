@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1cc39f92.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the cylindrical shape and metallic top and bottom, what is the overall form of each individual power cell shown in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the prominent text on the batteries, what is the primary chemical composition indicated for these power sources?",
+        "answer": "Alkaline"
+      },
+      {
+        "question": "Observing the labeling, what is the voltage rating explicitly stated for every battery in the provided image?",
+        "answer": "1.5V"
+      },
+      {
+        "question": "What color is the primary label background visible on each battery in the image provided?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the secondary label background visible on each battery in the image provided?",
+        "answer": "Orange"
+      },
+      {
+        "question": "From the image, what is the model designation printed on the side of each battery?",
+        "answer": "AA/LR6/AM3"
+      },
+      {
+        "question": "What is the material indicated by the image and text to be the outermost layer of each battery?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the manufacturing origin as explicitly printed on the visible labels?",
+        "answer": "China"
+      },
+      {
+        "question": "Considering the uniform appearance, how many batteries are depicted in the provided image?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the overall texture of the surface area of each battery, shown in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what is the text color on the warning label of each battery?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of cautionary statement is predominantly featured on the visible labels of each battery?",
+        "answer": "Caution"
+      },
+      {
+        "question": "What is the writing style of the text visible on each battery's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the image, what is the orientation of the batteries presented in relation to each other?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, what appears to be the size of each battery in relation to each other?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

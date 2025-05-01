@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f19b60c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color pattern visually apparent on the basketball's surface?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall geometric form of the presented sports equipment?",
+        "answer": "Sphere"
+      },
+      {
+        "question": "What specific camouflage-like design is predominantly featured across the ball?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What color is the secondary, contrasting color on the basketball?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the basketball's construction?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What number is prominently displayed within a circular emblem on the ball?",
+        "answer": "Seven"
+      },
+      {
+        "question": "What word is partially visible, seemingly branded, along the ball's lower edge?",
+        "answer": "SOLOS"
+      },
+      {
+        "question": "Describe the texture implied by the image's visual representation of the ball's surface.",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "What is the apparent design style of the basketball's color scheme and patterning?",
+        "answer": "Camouflage"
+      },
+      {
+        "question": "What seems to be the overall condition of the presented basketball, based on its visuals?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering its visual features, for what sport is this equipment seemingly designed?",
+        "answer": "Basketball"
+      },
+      {
+        "question": "What is the general visual impression of the ball's surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of seams or lines are visually evident across the ball's surface?",
+        "answer": "Panels"
+      },
+      {
+        "question": "What is the implied size of the basketball in comparison to a human hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the imagery, what kind of markings are minimally present on the ball's surface?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

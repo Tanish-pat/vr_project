@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae7912e0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color scheme predominantly displayed on the packaging?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the text's primary color scheme on the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary shape of the graphic elements decorating the background?",
+        "answer": "Blob"
+      },
+      {
+        "question": "Considering the instructions and 'Caffeine Free' label, what type of product is this?",
+        "answer": "Tea"
+      },
+      {
+        "question": "What is the background's texture visually suggested by the graphic elements?",
+        "answer": "Watercolor"
+      },
+      {
+        "question": "What word describes the visual style of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the state of the product indicated by the text regarding caffeine?",
+        "answer": "Free"
+      },
+      {
+        "question": "Based on the brewing instructions, what is the form of the tea product?",
+        "answer": "Sachet"
+      },
+      {
+        "question": "Describe the shape of the icons illustrating the brewing steps.",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the color of the smaller illustrative icons that provide instructions?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the packaging, what is the primary material of the product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall visual impression of the text's font style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary type of visual communication used, besides text, for brewing instructions?",
+        "answer": "Icons"
+      },
+      {
+        "question": "Considering the graphic style and color palette, which adjective best describes the overall mood?",
+        "answer": "Calm"
+      },
+      {
+        "question": "Judging by the design, what is the target audience likely associated with the product?",
+        "answer": "Adults"
+      }
+    ]
+  }
+]
