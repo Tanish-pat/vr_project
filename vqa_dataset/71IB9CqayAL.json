@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the wireless charging pad?",
+        "question": "What is the dominant color of the wireless charging pad itself?",
         "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the primary charging component?",
-        "answer": "Round"
-      },
-      {
-        "question": "What appears to be the material of the charging pad's surface?",
+        "question": "What appears to be the primary material used for the charging disc?",
         "answer": "Plastic"
       },
       {
-        "question": "Does the charging pad exhibit a glossy or matte finish?",
-        "answer": "Matte"
+        "question": "Considering its overall form, what geometric shape best describes the charging pad?",
+        "answer": "Circular"
       },
       {
-        "question": "Is there any visible branding or logo on the charging surface?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What type of connector is present on one end of the included cable?",
-        "answer": "USB"
-      },
-      {
-        "question": "What seems to be the other connector type on the charging cable?",
-        "answer": "USB-C"
-      },
-      {
-        "question": "Describe the apparent texture of the charging pad's top surface.",
+        "question": "What is the apparent texture of the surface of the wireless charging unit?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the general color of the provided power cable?",
+        "question": "Based on visual inspection, what type of connector is at the end of the power cable?",
+        "answer": "USB"
+      },
+      {
+        "question": "Observing the image, what is the color of the provided charging cable?",
         "answer": "Black"
       },
       {
-        "question": "Considering the cable, is it coiled or straight?",
-        "answer": "Coiled"
+        "question": "From the image, what seems to be the material of the charging cable?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the apparent thickness of the charging pad?",
+        "question": "What is the visible branding or marking on the charging pad?",
+        "answer": "Samsung"
+      },
+      {
+        "question": "Describe the overall design style of the wireless charger, considering its simplicity.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging by the image, what is the approximate thickness of the charging pad?",
         "answer": "Thin"
       },
       {
-        "question": "Does the image show any visible charging indicators on the pad?",
-        "answer": "No"
+        "question": "Considering the components shown, what is the primary function of the product?",
+        "answer": "Charging"
       },
       {
-        "question": "Considering the cable length, is it short or long?",
+        "question": "What is the apparent length of the power cable provided in the package?",
         "answer": "Long"
       },
       {
-        "question": "What is the general style of the charging pad; modern or retro?",
-        "answer": "Modern"
+        "question": "What is the visible condition of both the pad and the cable?",
+        "answer": "New"
       },
       {
-        "question": "From the image, does the charging pad look portable?",
+        "question": "Based on visual characteristics, does the pad have any visible ports or buttons?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image indicate that the cable is detachable from the power adapter?",
         "answer": "Yes"
       }
     ]

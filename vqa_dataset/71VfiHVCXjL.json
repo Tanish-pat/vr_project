@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/968f4b46.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the label's text and graphics?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of the food product container, as suggested by the visible label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the font style and layout, what is the overall design aesthetic of the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What type of food product is indicated by the prominent text on the label?",
+        "answer": "Dressing"
+      },
+      {
+        "question": "Based on the ingredient list, what is a key ingredient visually identified?",
+        "answer": "Soybean"
+      },
+      {
+        "question": "What is the background color of the primary label section?",
+        "answer": "White"
+      },
+      {
+        "question": "What color are the smaller text elements, like ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture of the label's surface, considering its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the label include any visual elements besides text, such as icons or images?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the material of the label itself, based on its visual characteristics?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall tone or mood conveyed by the label's design and color scheme?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Are there any visible markings or details besides the text on the label?",
+        "answer": "None"
+      },
+      {
+        "question": "Is there an indication of the brand name explicitly visible?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the orientation of the label, relative to the assumed container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the font choices used in the label design, what is the overall style?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]
