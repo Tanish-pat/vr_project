@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1dea1525.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme visually apparent on the product's label, focusing on the background and text elements?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the overall shape and structure, what is the primary geometric form of the container depicted?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Based on the visible text, what specific kind of edible product does this container hold?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Observing the label's design, what is the primary method of conveying nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging by the image, what is the texture of the label's surface, focusing on its visual smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material of the container primarily constructed from based on its visual appearance?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the label's typography and design, what is the overall style or aesthetic of the product labeling?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Examining the text, which country of origin for the olive oil is explicitly identified on the label?",
+        "answer": "Spain"
+      },
+      {
+        "question": "What is the form of measurement presented for serving size, as shown on the label's nutritional information section?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "According to the visible nutritional facts, what is the caloric content of one serving in numerical form?",
+        "answer": "120"
+      },
+      {
+        "question": "What is the primary type of fat listed as a prominent component in the nutritional facts?",
+        "answer": "Total"
+      },
+      {
+        "question": "What is the visual presentation format used to organize and present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the term given in the label\u2019s ingredient list that indicates a method of oil extraction?",
+        "answer": "Refined"
+      },
+      {
+        "question": "What is the visual appearance of the text font on the nutrition facts section of the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the label's primary method for conveying information regarding the product\u2019s distribution?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

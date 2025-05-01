@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/57/5769fd70.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric covering the chair?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the texture of the upholstery fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the visible seams and construction, what is the apparent style of the chair?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the chair's armrest?",
+        "answer": "Square"
+      },
+      {
+        "question": "What kind of material seems to be used for the chair's upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by the image, how many visible cushions does the chair have?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the general appearance of the visible stitching on the chair?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the chair appear to have a defined back and seat separation?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible appearance of the chair's overall construction?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the visible components, what is the apparent style of the seat cushions?",
+        "answer": "Boxy"
+      },
+      {
+        "question": "What is the overall visual impression of the chair's armrest design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Can you describe the apparent density of the fabric used in the chair?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the image, what is the overall form of the chair's back support?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Judging from the image, what kind of pattern or weave is seen in the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, does the chair appear to have visible tufting or button details?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/97/9764593f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the material depicted?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual details, what is the most apparent material type?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image, what kind of weave pattern is visible in the fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, how would you describe the visual density of the weave?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Can you describe the visual uniformity of the fabric's color and texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the appearance of the individual threads within the fabric's structure?",
+        "answer": "Interwoven"
+      },
+      {
+        "question": "From the image provided, how would you characterize the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any visible pattern within the fabric besides the weave?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent level of shine or gloss on the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the fabric's weight or thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image suggest the presence of any distinct visual imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible fibers, how would you describe their apparent length?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the apparent directionality of the fabric's visible grain or weave?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the most visible feature throughout the entirety of the image sample?",
+        "answer": "Weave"
+      }
+    ]
+  }
+]

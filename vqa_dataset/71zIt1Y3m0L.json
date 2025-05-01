@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e1f22d2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the container's label, excluding any textual elements or smaller design details?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape and structure, what is the most accurate geometrical description of this item?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the primary material used in the construction of the container, judging from its visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, what appears to be the textural characteristic of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the label closely, what color is the prominent horizontal band at the bottom of the container?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Disregarding the text, what is the color of the depicted fruit illustration, which visually suggests the product's flavor?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Based on the visible label design elements, is the style primarily minimalist, ornate, or something else?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Excluding the text, what is the overall visual impression of the graphic elements on the container's label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent design style of the lettering and graphic elements displayed on the container?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What type of closure mechanism does the container exhibit based on its visible design?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "Describe the shape of the visible fruit illustration on the container's label.",
+        "answer": "Round"
+      },
+      {
+        "question": "What seems to be the visible textural quality of the printed elements on the container?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Aside from the dominant white and blue, what is another color present on the container's label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Ignoring the textual information, describe the layout of the graphical elements on the container's label.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall visual impression of the container's size in relation to typical consumer packaged goods?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

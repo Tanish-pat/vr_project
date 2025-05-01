@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7e/7e8f50f0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what single word best describes the primary shape of this object, as visually apparent in the image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on visual examination, what material appears to constitute the majority of the item shown?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging solely from the image, what color most accurately represents the object's visible surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the most prominent design feature of this item, as directly observed from the provided image?",
+        "answer": "Handle"
+      },
+      {
+        "question": "From a purely visual standpoint, what is the single most apparent functional aspect of this object?",
+        "answer": "Scooping"
+      },
+      {
+        "question": "Disregarding any textual information, what would you visually describe the surface texture of this object as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "If you were to characterize the object's visual aesthetic with one word, what would it be?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What single word best captures the overall impression of the object's size based on the visual provided?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image alone, does the object display any noticeable markings, patterns or textures besides its basic form?",
+        "answer": "No"
+      },
+      {
+        "question": "Focusing solely on the image, what is the most descriptive word for the visible condition of the object's surface?",
+        "answer": "Unblemished"
+      },
+      {
+        "question": "Judging only from the visual appearance, how would you describe the overall weight of this object?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "From an observational perspective, what type of edge does the main body of this object seem to possess?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Ignoring any context, what single word best reflects the visible depth of the object's bowl-like section?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Considering only the visual evidence, what single word best describes the length of the handle relative to the body?",
+        "answer": "Long"
+      },
+      {
+        "question": "What single word best describes the general visual style of this object?",
+        "answer": "Functional"
+      }
+    ]
+  }
+]
