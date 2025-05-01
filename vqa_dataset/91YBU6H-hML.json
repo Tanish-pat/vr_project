@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cb00f514.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the chair's backrest, as viewed from the rear?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What appears to be the primary material of the chair's frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the color or shade of the chair's wooden frame.",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the fabric covering the chair seat and back?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What color is the fabric covering the chair's seat and back?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What style of legs does the chair possess?",
+        "answer": "Tapered"
+      },
+      {
+        "question": "Considering the chair's design, what historical or stylistic influence is most apparent?",
+        "answer": "French"
+      },
+      {
+        "question": "What kind of upholstery is visible on the chair's seat and back?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the chair's back have any visible decorative elements or patterns in the wood?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the frame's construction, what type of wood joinery is suggested?",
+        "answer": "Mortise"
+      },
+      {
+        "question": "Describe the overall visual impression of the chair's style.",
+        "answer": "Elegant"
+      },
+      {
+        "question": "What is the apparent finish of the wooden frame; is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the chair's profile, how would you characterize its scale?",
+        "answer": "Mid-size"
+      },
+      {
+        "question": "Judging by the visible components, is this chair designed for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "Does the visible portion of the chair show any visible distressing or antiquing?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

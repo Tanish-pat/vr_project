@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/862dee0b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the ground spice contained within the glass jar?",
+        "answer": "Yellowish"
+      },
+      {
+        "question": "Considering the jar's contents, what single-word spice is explicitly indicated on the label?",
+        "answer": "Ginger"
+      },
+      {
+        "question": "What is the textural state of the ginger, as visually apparent through the clear glass?",
+        "answer": "Ground"
+      },
+      {
+        "question": "What material is the primary container of the product, observable from the image's periphery?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, clearly shown in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the label design, what is the overarching style of the packaging's aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the color of the lid situated atop the glass jar, as visibly demonstrated in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What word, present on the label, indicates the product's cultivation method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Observing the jar's label, what is the single word denoting the brand name?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the dominant color palette of the labeling affixed to the glass container?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the visible state of the spice inside, apparent through the jar's transparency?",
+        "answer": "Powdery"
+      },
+      {
+        "question": "What is the overall size of the spice jar, as perceived based on the visual context?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image, what is the type of closure used on the spice jar's opening?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What graphic elements other than text are present on the jar's label design?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the overall presentation of the jar, considering its clarity and simplicity?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

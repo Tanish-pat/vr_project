@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/29/299c5490.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the outer fabric of the throw blanket?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the blanket's visible surface?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What kind of material seems to be used for the outer layer of this item?",
+        "answer": "FauxFur"
+      },
+      {
+        "question": "Describing the apparent shape when laid flat, what form does this item take?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the visible inner lining or underside of the blanket?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the inner lining of this textile product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual drape, what is the implied weight or density of the blanket?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the apparent pile length or fur length of the outer fabric?",
+        "answer": "Long"
+      },
+      {
+        "question": "Based solely on visual characteristics, what is the style of this textile item?",
+        "answer": "Throw"
+      },
+      {
+        "question": "Does the item show a consistent or varied color pattern across its surface?",
+        "answer": "Varied"
+      },
+      {
+        "question": "What is the overall visual impression of the blanket's color scheme?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the visible arrangement of the fibers in the outer layer?",
+        "answer": "Random"
+      },
+      {
+        "question": "Does the image suggest any noticeable pattern in the blanket's design?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its appearance, what is the probable use of this household textile?",
+        "answer": "Covering"
+      },
+      {
+        "question": "Is there any visible decorative element or embellishment on the blanket?",
+        "answer": "No"
+      }
+    ]
+  }
+]

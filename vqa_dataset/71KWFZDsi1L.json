@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/28e821ce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fitted sheet shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material of this fitted bed sheet?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the product displayed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent texture of the fitted sheet?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fitted sheet in the image exhibit any visible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what type of sheet is depicted: flat or fitted?",
+        "answer": "Fitted"
+      },
+      {
+        "question": "Observing the corners, what is the style of the sheet's corners?",
+        "answer": "Elastic"
+      },
+      {
+        "question": "From the image, what is the visible depth or thickness of the fabric?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the image, is the fabric of the sheet visibly wrinkled or creased?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the edges of the fitted sheet?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Judging by the image, is there any visible embroidery or embellishment?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image show any visible seams or stitching on the sheet?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness of the sheet's fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image alone, can you determine the exact thread count of the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image provided, what is the apparent size of the shown fitted sheet?",
+        "answer": "Unknown"
+      }
+    ]
+  }
+]

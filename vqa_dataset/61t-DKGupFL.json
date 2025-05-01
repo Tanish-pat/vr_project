@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af44e885.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's background?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the main packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the texture of the packaging, judging by its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of design elements are incorporated into the packaging?",
+        "answer": "Illustrations"
+      },
+      {
+        "question": "What food is primarily depicted on the package illustrations?",
+        "answer": "Cakes"
+      },
+      {
+        "question": "What is the apparent finish of the packaging's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What secondary color is prominently used in the package design?",
+        "answer": "White"
+      },
+      {
+        "question": "What is suggested about the product's contents by the illustrations?",
+        "answer": "Sweet"
+      },
+      {
+        "question": "What appears to be printed on the lower section of the back?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What type of text dominates the central part of the packaging?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What additional ingredient is visually highlighted besides cakes?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Describe the style of the illustrations on the packaging.",
+        "answer": "Cartoonish"
+      },
+      {
+        "question": "What is the general tone or feel evoked by the package visuals?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the apparent style of the text font used on the packaging?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

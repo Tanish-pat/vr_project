@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/920552bd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall aesthetic, what single word best describes the shoe's style?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the predominant color of the leather upper visible in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the sole's construction, what material is primarily used for its composition?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Focusing on the upper material, what texture is most apparent on the shoe's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure system is depicted on the shoe, based solely on the visual evidence?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Observing the pattern on the shoe's vamp, what design element is prominently featured?",
+        "answer": "Perforated"
+      },
+      {
+        "question": "Analyzing the shape of the toe box, what descriptive term best captures its form?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the sole's design, what is the general shape of its profile?",
+        "answer": "Flat"
+      },
+      {
+        "question": "In terms of construction, what type of shoe is this, judging purely by its visual appearance?",
+        "answer": "Oxford"
+      },
+      {
+        "question": "Looking at the heel's structure, what material makes up this section of the shoe?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what is the approximate height of the shoe's sole in centimeters?",
+        "answer": "Two"
+      },
+      {
+        "question": "Regarding the eyelets' material, what seems to be the most likely constituent?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What kind of leather is visually suggested by the shoe's appearance?",
+        "answer": "Faux"
+      },
+      {
+        "question": "Judging by the image alone, what is the apparent condition of this shoe?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the visible pattern along the outsole's edge?",
+        "answer": "Stitched"
+      }
+    ]
+  }
+]

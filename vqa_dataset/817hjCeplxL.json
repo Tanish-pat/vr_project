@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bbde476c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant shape of the air freshener canister, considering its overall form and disregarding minor details?",
+        "answer": "Dome"
+      },
+      {
+        "question": "Considering the primary color displayed prominently on the upper portion of the container, what single-word description best fits?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What material is predominantly used in the construction of the product's outer casing, as visually evident from the image?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describing the texture of the top section of the product canister based solely on visual observation, what single word accurately conveys its feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Analyzing the lower portion of the product, what is the most visually apparent style or pattern adorning its surface?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Considering the palette used in the design of the bottom portion, what single word best characterizes the color scheme?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Considering the overall design, what word best encapsulates the aesthetic of the product, reflecting its visual style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, what functional component is conspicuously missing from the product shown?",
+        "answer": "Handle"
+      },
+      {
+        "question": "What is the primary method suggested by the image for dispensing the product\u2019s contents?",
+        "answer": "Spray"
+      },
+      {
+        "question": "What is the apparent size of the product relative to standard household items, based on visual cues?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image, which best describes the overall condition of the product, as shown?",
+        "answer": "New"
+      },
+      {
+        "question": "In terms of visual prominence, which is the more notable feature: the brand name or manufacturing information?",
+        "answer": "Information"
+      },
+      {
+        "question": "Judging from the visible product labeling, what language is predominantly utilized in the text?",
+        "answer": "English"
+      },
+      {
+        "question": "In terms of its design, would you characterize this product as primarily decorative or functional?",
+        "answer": "Functional"
+      },
+      {
+        "question": "What visual cue indicates that this product might contain a liquid or gas under pressure?",
+        "answer": "Shape"
+      }
+    ]
+  }
+]

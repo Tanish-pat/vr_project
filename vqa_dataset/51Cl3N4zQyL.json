@@ -5,64 +5,56 @@
   {
     "questions": [
       {
-        "question": "Considering the textual information presented, what is the primary filler material used in the capsule?",
+        "question": "Considering the textual information displayed, what is the primary filler material used in the capsule's composition?",
         "answer": "Rice"
       },
       {
-        "question": "Based on the provided text, what type of capsule is employed in the product's formulation?",
+        "question": "Based on the provided text, what type of capsule is employed for the product's packaging?",
         "answer": "Vegan"
       },
       {
-        "question": "According to the image's text, what chemical compound acts as a flow agent in the product?",
+        "question": "According to the label, what specific compound acts as a flow agent in the product's formulation?",
         "answer": "Magnesium"
       },
       {
-        "question": "What is specified as the second ingredient mentioned in the textual data of the image?",
-        "answer": "Microcrystalline"
-      },
-      {
-        "question": "As shown in the text, what type of ingredient is cellulose categorized as in the product?",
-        "answer": "Cellulose"
-      },
-      {
-        "question": "What substance is indicated as a binding or anti-caking agent in the text provided?",
+        "question": "As indicated in the textual content, what substance functions as an anti-caking agent in the mixture?",
         "answer": "Silicon"
       },
       {
-        "question": "Referring to the product's description, what is the compound acting as an anti-caking agent?",
-        "answer": "Dioxide"
+        "question": "What is the designation given to the supplementary ingredient detailed in the textual content, indicated as a type of cellulose?",
+        "answer": "Microcrystalline"
       },
       {
-        "question": "What flour is mentioned as part of the ingredient composition in the image provided?",
-        "answer": "Flour"
-      },
-      {
-        "question": "What kind of capsule is used, judging by the text shown?",
-        "answer": "Capsule"
-      },
-      {
-        "question": "According to the image's text, what is the type of stearate used as an ingredient?",
-        "answer": "Stearate"
-      },
-      {
-        "question": "What is the ingredient acting as a glidant or lubricant according to the text?",
-        "answer": "Stearate"
-      },
-      {
-        "question": "Considering the image's text, what ingredient could contribute to the product's bulk?",
-        "answer": "Cellulose"
-      },
-      {
-        "question": "Based solely on the text, what is listed as a type of dietary fiber?",
-        "answer": "Cellulose"
-      },
-      {
-        "question": "What ingredient serves as a plant-based material for the capsule shell as shown in the text?",
+        "question": "According to the text, what type of capsule shell material is utilized in the product?",
         "answer": "Hypromellose"
       },
       {
-        "question": "What is the specific type of cellulose used as mentioned in the textual content of the image?",
-        "answer": "Microcrystalline"
+        "question": "What carbohydrate is listed among the other ingredients in the provided textual description?",
+        "answer": "Flour"
+      },
+      {
+        "question": "What is the chemical description given to the provided ingredient that prevents sticking or clumping?",
+        "answer": "Stearate"
+      },
+      {
+        "question": "What additional ingredient is identified as a type of carbohydrate in the text?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "Based on the label, what compound functions as an anti-caking agent in the composition?",
+        "answer": "Dioxide"
+      },
+      {
+        "question": "What descriptor is used to characterize the capsule's composition regarding animal products?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "What type of flour is specifically mentioned in the other ingredients list?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What is the listed substance that enhances the flowability of the product?",
+        "answer": "Stearate"
       }
     ]
   }
