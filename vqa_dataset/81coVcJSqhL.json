@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da3aaf36.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the depicted phone case's design?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What artistic style best describes the design printed on the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What shapes are most prominently featured in the phone case's artwork?",
+        "answer": "Circles"
+      },
+      {
+        "question": "What drawing medium appears to have been used to create the phone case's design?",
+        "answer": "Crayon"
+      },
+      {
+        "question": "Considering the texture, what is the apparent surface feel of the printed design?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the overall shape of the phone case itself, excluding the design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What secondary color is frequently used alongside the blue in the phone case design?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What color accents can be observed within the design, besides the primary colors?",
+        "answer": "Green"
+      },
+      {
+        "question": "Describe the level of detail visible in the strokes making up the phone case design.",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the apparent material of the phone case, based purely on visual observation?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Are there visible borders or frames around the artwork on the phone case?",
+        "answer": "No"
+      },
+      {
+        "question": "What color is present in the smaller, scattered shapes within the design?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the visual attributes, what could be the likely material of the artwork print itself?",
+        "answer": "Ink"
+      },
+      {
+        "question": "Does the artwork display symmetry or a repeating pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual impact created by the color contrast within the design.",
+        "answer": "High"
+      }
+    ]
+  }
+]

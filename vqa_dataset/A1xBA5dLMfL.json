@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6e738d0c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant background color of the displayed textile?",
+        "answer": "Cream"
+      },
+      {
+        "question": "What is the overall pattern style depicted on the fabric?",
+        "answer": "Paisley"
+      },
+      {
+        "question": "Describe the primary color used in the larger floral motifs.",
+        "answer": "Rust"
+      },
+      {
+        "question": "What secondary color accents the rust-colored floral patterns?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Identify the color of the smaller, leaf-like details in the design.",
+        "answer": "Teal"
+      },
+      {
+        "question": "What color are the thinner, line-like elements within the pattern?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What seems to be the texture of the depicted textile?",
+        "answer": "Embroidered"
+      },
+      {
+        "question": "What is the apparent material of the presented fabric sample?",
+        "answer": "Wool"
+      },
+      {
+        "question": "Considering the visual detail, is the pattern dense or sparse?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the general shape of the main decorative elements?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Are the colors in the pattern primarily warm or cool in tone?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Does the pattern show a consistent repetition or variation?",
+        "answer": "Variation"
+      },
+      {
+        "question": "Are the lines of the pattern sharply defined or soft?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image show a close-up view or a full-scale display?",
+        "answer": "Close-up"
+      },
+      {
+        "question": "Based on the visual texture, does the fabric appear rough or smooth?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/47/47d9b38b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the leather utilized in the construction of this sandal?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate single-word description of the sandal's shape?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What material primarily comprises the upper part of this footwear item, as visually apparent?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Observing the design of the straps, how would you characterize their arrangement across the foot?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the texture of the sandal's leather, based solely on visual inspection of the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most prominent design element of the straps, noticeable in the provided image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "In terms of the sandal's construction, what is the most apparent single word to describe its sole?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Considering the visual style, how would you categorize the overall aesthetic of this particular sandal design?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Based solely on the visible components, what is the type of sandal presented in the picture?",
+        "answer": "Thong"
+      },
+      {
+        "question": "Examining the footbed of the sandal, what single word best describes its apparent profile?",
+        "answer": "Level"
+      },
+      {
+        "question": "What is the apparent finish of the sandal's leather, observed in the product's visual representation?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Focusing on the sole's apparent thickness, what single word best reflects its visual profile?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the image, what single word best describes the sandal's apparent overall silhouette?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Looking at the provided image, what is the most visible feature of the sandal's construction?",
+        "answer": "Straps"
+      },
+      {
+        "question": "Judging from the visual evidence alone, what single word describes the sandal's apparent style?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

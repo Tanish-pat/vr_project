@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0cca8b20.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the light switch plate?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What dominant color is the outer frame of the switch plate?",
+        "answer": "Brass"
+      },
+      {
+        "question": "What appears to be the material of the outer frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "How many individual light switches are incorporated into the plate?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent texture of the outer frame's finish?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "What color are the individual switch toggles themselves?",
+        "answer": "White"
+      },
+      {
+        "question": "What design element borders the individual switches?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What style would you classify the decorative frame's design as?",
+        "answer": "ArtDeco"
+      },
+      {
+        "question": "What seems to be the material of the individual switch plates?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the visual texture of the individual switch plates.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any visible markings on the switch plate's frame?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent overall finish of the metal frame?",
+        "answer": "Antique"
+      },
+      {
+        "question": "Considering the frame design, what is the aesthetic style?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What is the function of this device overall?",
+        "answer": "Switching"
+      },
+      {
+        "question": "Considering the design details, is it a modern or traditional style?",
+        "answer": "Traditional"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/afbe72b8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the frame's outer border?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the triple picture frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the picture frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "How many individual photo compartments does the frame possess?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the arrangement of the three photo compartments within the frame.",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the visible texture of the outer frame's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the frame's design, what style best describes it?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What color is the matting inside each photo compartment?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the frame appear to have any visible embellishments or ornamentation?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what seems to be the overall width of the entire frame?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Judging by the image, what is the approximate thickness of the frame's border?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the frame include any glass or protective covering for the pictures?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visible joinery between the frame's components.",
+        "answer": "Seamless"
+      },
+      {
+        "question": "What is the apparent finish of the outer frame, matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image provided, is the frame suitable for vertical or horizontal orientation?",
+        "answer": "Both"
+      }
+    ]
+  }
+]

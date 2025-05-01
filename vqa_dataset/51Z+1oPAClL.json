@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/acc8aae5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the nutrition facts label, considering the text and background?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary organizational structure used to present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the font style predominantly used for the numerical values representing daily percentages?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the unit of measurement consistently used for the quantities of nutrients listed?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What specific nutrient is highlighted with a significantly larger font size, indicating primary importance?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What type of food item does this nutrition label pertain to, as indicated at the very top?",
+        "answer": "Cookie"
+      },
+      {
+        "question": "What is the numerical value assigned to the 'Serving Size' in terms of quantity?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the shape of the overall nutritional facts panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the text's alignment on most lines within the table (left, center, or right)?",
+        "answer": "Right"
+      },
+      {
+        "question": "Based on visual inspection, what is the general condition of the label (e.g., torn, wrinkled, clean)?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the text size used for the serving size description compared to other entries?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the overall style of the nutritional fact panel's border?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual characteristic of the nutritional fact's header text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the visual appearance of the text font (e.g., serif, sans-serif)",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the label contain any graphics or images besides text and numbers?",
+        "answer": "No"
+      }
+    ]
+  }
+]
