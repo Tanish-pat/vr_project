@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6b3e8478.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and typography, what is the primary function of this rectangular visual element?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the predominant color used for the numerical values denoting nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on its visual appearance, what is the main textual element that conveys vital details?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the textual organization, what is the formatting style of this nutritional label?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "Judging from the structure and content, what is this document's purpose, clearly indicated in the title?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the color used as a background element against which most text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the visual hierarchy, what is the most prominent text on the visual element?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What type of font is consistently used in the numerical values, as seen throughout the visual element?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual format used to systematically organize the nutritional component data?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the color of the heading that represents the title, indicating this product's essential details?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the design style employed to clearly show the data, making it easily readable?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What is the overall shape of this graphic element that details the food item's components?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the textual style used for the title, visually standing out prominently?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the main method used to arrange the data for effective comprehension?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the text's characteristics, what is the overall visual tone of the nutritional information?",
+        "answer": "Formal"
+      }
+    ]
+  }
+]

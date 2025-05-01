@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/87/87d02c75.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the caution signs, as shown in the provided image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of each individual caution sign?",
+        "answer": "A-frame"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the construction of these signs?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Examining the image, what language is predominantly used on the displayed cautionary signage?",
+        "answer": "English"
+      },
+      {
+        "question": "What specific hazard does the primary text on each sign prominently warn against?",
+        "answer": "Wet"
+      },
+      {
+        "question": "From the image, what is the texture that seems to visually characterize the surface of these signs?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In the provided image, what word is most frequently used to convey caution or warning?",
+        "answer": "Caution"
+      },
+      {
+        "question": "What additional word, besides 'Caution', appears multiple times within the visible signage?",
+        "answer": "Floor"
+      },
+      {
+        "question": "Observing the image, what type of graphic symbol is included near the text of each sign?",
+        "answer": "Triangle"
+      },
+      {
+        "question": "Focusing on the image, what additional language, besides English, is also incorporated on the signs?",
+        "answer": "Spanish"
+      },
+      {
+        "question": "What is the orientation of the caution signs in the provided image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based solely on visual inspection, how many caution signs are clearly shown in the image?",
+        "answer": "Four"
+      },
+      {
+        "question": "What seems to be the overall function of the objects depicted in the image?",
+        "answer": "Warning"
+      },
+      {
+        "question": "Describe the visual presentation of the text on the signs - uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What seems to be the manufacturing method of the text presented on the signs?",
+        "answer": "Printed"
+      }
+    ]
+  }
+]

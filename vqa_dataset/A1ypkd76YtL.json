@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/ea959764.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the chair's upholstery?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the texture of the chair's seat?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the overall shape of the chair's backrest, as seen from the image?",
+        "answer": "Slanted"
+      },
+      {
+        "question": "What color is the visible portion of the chair's frame?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What seems to be the material of the chair's legs and frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Judging by the image, what is the apparent finish of the wooden frame?",
+        "answer": "Satin"
+      },
+      {
+        "question": "Considering the visible portion, what is the general style of the chair?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary material of the seat cushion?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the visual impression of the weave density of the upholstery fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the most noticeable characteristic of the seat's edge?",
+        "answer": "Squared"
+      },
+      {
+        "question": "Is there any visible pattern in the chair's fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Describe the visible portion of the chair's legs, based on the image.",
+        "answer": "Tapered"
+      },
+      {
+        "question": "How would you describe the overall thickness of the seat cushion?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is the visible construction of the chair's frame?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by the image, what is the general condition of the chair?",
+        "answer": "New"
+      }
+    ]
+  }
+]

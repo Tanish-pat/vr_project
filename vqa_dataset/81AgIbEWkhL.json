@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa667395.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the kitchen cabinetry shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent finish of the cabinet pulls or knobs?",
+        "answer": "Nickel"
+      },
+      {
+        "question": "What shape best describes the design of the cabinet pulls?",
+        "answer": "Bar"
+      },
+      {
+        "question": "What style of tile is visible on the kitchen backsplash?",
+        "answer": "Herringbone"
+      },
+      {
+        "question": "What color are the visible ceramic canisters on the counter?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Describe the overall texture of the kitchen countertop surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material appears to be used for the kitchen countertop?",
+        "answer": "Stone"
+      },
+      {
+        "question": "What is the visible shape of the ceramic canister lids?",
+        "answer": "Dome"
+      },
+      {
+        "question": "What color is the accent detail on the ceramic canisters?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent style of the kitchen cabinetry?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What seems to be the material of the ceramic canisters?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "What is the apparent pattern of the backsplash tile?",
+        "answer": "Zigzag"
+      },
+      {
+        "question": "Considering the overall design, what is the kitchen's likely aesthetic?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Based on the visible hardware, describe the overall feel of the kitchen design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the texture of the cabinet doors, based on visual observation?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

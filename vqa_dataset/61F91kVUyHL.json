@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/122f6394.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant pattern depicted across the phone case's surface?",
+        "answer": "Butterflies"
+      },
+      {
+        "question": "Considering the overall color scheme, what would you describe the phone case as?",
+        "answer": "Colorful"
+      },
+      {
+        "question": "What specific design element is most prominent on the phone case?",
+        "answer": "Prints"
+      },
+      {
+        "question": "Based on the image, what appears to be the material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the visual texture of the butterfly pattern on the case.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general shape of this phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the main color of the largest butterfly displayed?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What color are the prominent accents visible on some of the butterflies?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Are there any noticeable markings or details on the butterflies?",
+        "answer": "Wings"
+      },
+      {
+        "question": "Observing the image, how many distinct colors of butterflies are present?",
+        "answer": "Many"
+      },
+      {
+        "question": "What is the apparent overall style or aesthetic of this phone case?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "Considering the image, what is the primary theme of this phone case's design?",
+        "answer": "Nature"
+      },
+      {
+        "question": "In terms of design, how would you characterize the arrangement of butterflies?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the implied method used to create the butterfly design?",
+        "answer": "Print"
+      },
+      {
+        "question": "Considering the level of detail, would you say the butterflies are realistically depicted?",
+        "answer": "Stylized"
+      }
+    ]
+  }
+]

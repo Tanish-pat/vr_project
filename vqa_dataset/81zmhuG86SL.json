@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/69/694aac73.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the voltage tester's casing?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What shape best describes the overall form of the device?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What type of display is integrated into the voltage tester's body?",
+        "answer": "Digital"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the tool?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering its form factor, how would you classify this device?",
+        "answer": "Pen-like"
+      },
+      {
+        "question": "What color is the light emitted from the tip of the tester?",
+        "answer": "Red"
+      },
+      {
+        "question": "Is the surface texture of the device smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the primary function suggested by the image?",
+        "answer": "Testing"
+      },
+      {
+        "question": "Besides the display, what other indicator is prominently visible?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the device show any obvious buttons or switches?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size of this voltage-testing instrument?",
+        "answer": "Small"
+      },
+      {
+        "question": "What kind of power source might this tool employ (based solely on visual appearance)?",
+        "answer": "Battery"
+      },
+      {
+        "question": "What type of receptacle is the device shown interacting with?",
+        "answer": "Wall"
+      },
+      {
+        "question": "Judging by the image, is this device handheld or stationary?",
+        "answer": "Handheld"
+      },
+      {
+        "question": "What seems to be the intended use of the device, regarding electrical systems?",
+        "answer": "Voltage"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall structural configuration of this freestanding wardrobe, considering its visible components and hinged doors?",
-        "answer": "Armoire"
-      },
-      {
-        "question": "What dominant color is uniformly applied to the exterior and interior surfaces of this wardrobe?",
+        "question": "What is the predominant color of the wardrobe's exterior and interior?",
         "answer": "White"
       },
       {
-        "question": "What is the primary material visibly composing the body and doors of this tall storage unit?",
-        "answer": "Wood"
-      },
-      {
-        "question": "Considering its design, what is the intended purpose of this piece of furniture, focusing on its functionality?",
-        "answer": "Storage"
-      },
-      {
-        "question": "What is the texture of the visible surface of the wardrobe, based on its appearance in the image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Observing the internal structure, how many horizontal shelves are clearly visible within the wardrobe's main compartment?",
-        "answer": "Four"
-      },
-      {
-        "question": "What is the shape of the wardrobe\u2019s overall form, considering its height relative to its width?",
+        "question": "Considering the overall structure, what is the primary shape of this furniture piece?",
         "answer": "Rectangular"
       },
       {
-        "question": "Is there a visible clothes hanging rod present within the interior of the wardrobe, and what is its material?",
-        "answer": "Metal"
+        "question": "Judging by the visible components, what material seems to be predominantly used in construction?",
+        "answer": "Wood"
       },
       {
-        "question": "What type of hinges are visibly used to connect the doors to the wardrobe's main body?",
-        "answer": "Surface"
-      },
-      {
-        "question": "Describing the handles, what is the most prominent visible feature of the doors that facilitates opening and closing?",
-        "answer": "Recessed"
-      },
-      {
-        "question": "What is the visible structural element at the bottom of the wardrobe, supporting its overall weight?",
-        "answer": "Wheels"
-      },
-      {
-        "question": "Considering the wardrobe's vertical arrangement, how many distinct sections are clearly differentiated within its interior structure?",
+        "question": "Based on the image, how many doors does this wardrobe appear to have?",
         "answer": "Two"
       },
       {
-        "question": "Considering the joinery, what type of connection is visible between the wardrobe's body and doors based on the image?",
-        "answer": "Butt"
+        "question": "Focusing on the interior, how many visible shelves are there within this storage unit?",
+        "answer": "Four"
       },
       {
-        "question": "Judging from the image, what is the visible finish or coating of the wardrobe's external surfaces?",
-        "answer": "Matte"
+        "question": "Analyzing the internal structure, is there a clothing rod present inside the wardrobe?",
+        "answer": "Yes"
       },
       {
-        "question": "What style of door closure is implemented in this wardrobe, judging from the image?",
-        "answer": "Full"
+        "question": "What is the apparent finish of the wardrobe's surface, based on the visual texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the hinges, what appears to be their color and finish?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Observing the doors, what type of opening mechanism do they seem to employ?",
+        "answer": "Swing"
+      },
+      {
+        "question": "Judging from the image, does the wardrobe seem to have any visible handles or pulls?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Regarding the base, what seems to be supporting the wardrobe from the ground?",
+        "answer": "Wheels"
+      },
+      {
+        "question": "Inspecting the vertical structure, how many distinct sections divide the interior space?",
+        "answer": "Five"
+      },
+      {
+        "question": "Considering the design, what would you call the overall style of this wardrobe?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Analyzing the image, how many compartments can be visually identified within the wardrobe?",
+        "answer": "Six"
+      },
+      {
+        "question": "Observing the structure, does the wardrobe appear to be freestanding or built-in?",
+        "answer": "Freestanding"
       }
     ]
   }
