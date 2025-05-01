@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bc/bc434ab4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the storage box shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What primary material appears to constitute the storage box's structure?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes the box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the outer surface of the depicted storage box.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of handle is integrated into the design of the storage box lid?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "How many visible horizontal lines are printed on the front of the storage container?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent function of the small, perforated slots on the box's lid?",
+        "answer": "Ventilation"
+      },
+      {
+        "question": "Based on its appearance, what is the likely intended use of this box?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Is the box depicted in the image assembled or disassembled?",
+        "answer": "Assembled"
+      },
+      {
+        "question": "What is the visible design element running along the front of the storage box?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Does the box feature any additional external elements or attachments visible?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the box's construction seem robust or flimsy?",
+        "answer": "Robust"
+      },
+      {
+        "question": "What is the apparent condition of the displayed storage box; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the presented storage box have any visible labels or markings besides lines?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall style of the storage box design; simple or ornate?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

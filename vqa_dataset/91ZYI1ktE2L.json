@@ -9,60 +9,60 @@
         "answer": "Brown"
       },
       {
-        "question": "What is the apparent shape of the individual cinnamon rolls?",
+        "question": "What is the primary shape of the individual cinnamon rolls?",
         "answer": "Round"
       },
       {
-        "question": "What type of baked good is predominantly displayed within the container?",
-        "answer": "Rolls"
-      },
-      {
-        "question": "What ingredient is visibly prominent in the appearance of these rolls?",
-        "answer": "Cinnamon"
-      },
-      {
-        "question": "What is the general texture of the surface of the cinnamon rolls?",
-        "answer": "Glazed"
-      },
-      {
-        "question": "What kind of container encloses the baked goods?",
+        "question": "What type of container holds the cinnamon rolls?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape of the container holding the rolls?",
+        "question": "What is the apparent texture of the cinnamon roll surfaces?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the overall shape of the container holding the product?",
         "answer": "Square"
       },
       {
-        "question": "What is the apparent size of the cinnamon rolls relative to each other?",
-        "answer": "Small"
+        "question": "What design element is prominently featured on the container label?",
+        "answer": "Confetti"
       },
       {
-        "question": "Describing the presentation, are the rolls arranged neatly or haphazardly?",
-        "answer": "Haphazardly"
-      },
-      {
-        "question": "What is the material of the packaging that holds the container?",
-        "answer": "Cardboard"
-      },
-      {
-        "question": "What is the color of the main label on the product's packaging?",
-        "answer": "White"
-      },
-      {
-        "question": "What is written on the main label besides the brand name?",
+        "question": "What flavor are the baked goods depicted in the image?",
         "answer": "Cinnamon"
       },
       {
-        "question": "What descriptive term is used to characterize the size of the cinnamon rolls?",
-        "answer": "Two-Bite"
+        "question": "What is the size of the cinnamon rolls relative to each other?",
+        "answer": "Small"
       },
       {
-        "question": "Does the packaging show a tamper-evident seal?",
-        "answer": "Yes"
+        "question": "What is written on the label indicating the product type?",
+        "answer": "Rolls"
       },
       {
-        "question": "What is the brand name prominently displayed on the packaging?",
+        "question": "What is indicated on the label regarding the number of bites?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent level of glaze or icing on the rolls?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the brand name visible on the product's packaging?",
         "answer": "365"
+      },
+      {
+        "question": "What is the overall arrangement of the cinnamon rolls in the container?",
+        "answer": "Random"
+      },
+      {
+        "question": "What is the structural nature of the container that holds the product?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent visual condition of the cinnamon rolls?",
+        "answer": "Fresh"
       }
     ]
   }

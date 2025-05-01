@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's design?",
+        "question": "What is the dominant color scheme visually impacting the phone case's aesthetic?",
         "answer": "Blue"
       },
       {
-        "question": "What artistic style is predominantly featured in the phone case's image?",
+        "question": "Considering the overall design, what artistic style is predominantly expressed on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "What kind of paint strokes are visible across the phone case surface?",
-        "answer": "Brushstrokes"
-      },
-      {
-        "question": "What is the overall shape of the protective phone case shown?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What appears to be the primary material used for the phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the design, what is the visual texture of the case's surface?",
-        "answer": "Rough"
-      },
-      {
-        "question": "Describe the general color palette employed in the case's artwork.",
-        "answer": "Multicolored"
-      },
-      {
-        "question": "What is the apparent finish of the depicted phone case\u2019s surface?",
+        "question": "Based on the visual texture, what kind of finish does the phone case appear to have?",
         "answer": "Matte"
       },
       {
-        "question": "What is the orientation of the dominant brush strokes across the case?",
-        "answer": "Diagonal"
+        "question": "What is the apparent primary material used in the construction of this phone case?",
+        "answer": "Plastic"
       },
       {
-        "question": "Can you identify any specific patterns within the phone case's artwork?",
+        "question": "Judging by the image, what is the general shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most noticeable feature in terms of the design style of the artwork on the phone case?",
+        "answer": "Brushstrokes"
+      },
+      {
+        "question": "What secondary color strongly complements the blue in the phone case's design?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Describing the color palette, what other color besides blue and orange is prominently displayed?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Can you identify any distinct patterns or repeated motifs visible within the artwork?",
         "answer": "None"
       },
       {
-        "question": "What is the apparent level of detail in the phone case's paint design?",
+        "question": "What seems to be the texture of the printed design on the phone case?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the phone case design contain any explicitly defined geometric shapes?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression created by the color combination of the phone case?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "Is there a significant difference between the print's sharpness at the edges versus the center?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of visual density, how would you describe the artwork on the phone case?",
         "answer": "High"
       },
       {
-        "question": "Considering the colors, what mood does the phone case evoke?",
-        "answer": "Bright"
-      },
-      {
-        "question": "Are there any clear, defined shapes aside from the case itself?",
-        "answer": "No"
-      },
-      {
-        "question": "Does the case design incorporate any geometric forms?",
-        "answer": "No"
-      },
-      {
-        "question": "What kind of phone model does this case seem to fit?",
-        "answer": "Unknown"
+        "question": "Based on the image, is the phone case design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
       }
     ]
   }

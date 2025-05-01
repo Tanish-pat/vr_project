@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b4/b47cb3a5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary textual element depicted on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the background color of the rectangular label featuring the product's listed components?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "Focusing on the textual layout, what is the style of the typeface used to display the product composition?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding any abbreviations, what is the first prominently displayed ingredient listed?",
+        "answer": "Water"
+      },
+      {
+        "question": "What is the second prominent ingredient listed in the sequence of components?",
+        "answer": "Glycerin"
+      },
+      {
+        "question": "What is the last item among the ingredients explicitly mentioned on the label?",
+        "answer": "Flour"
+      },
+      {
+        "question": "Inspecting the text closely, what is the name of the plant whose extract is listed?",
+        "answer": "Calendula"
+      },
+      {
+        "question": "Among the various ingredients, what oil is specifically identified and listed?",
+        "answer": "Jojoba"
+      },
+      {
+        "question": "In terms of formatting, what punctuation is used to separate the ingredients in the list?",
+        "answer": "Comma"
+      },
+      {
+        "question": "What is the word preceding the parenthetical clarification for the first ingredient?",
+        "answer": "Aqua"
+      },
+      {
+        "question": "What is the word used to introduce the list of components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the general shape of the area where the text is visibly printed?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What is the overall arrangement or organization of the textual content?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the case (upper or lower) of the word 'Ingredients'?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Disregarding any scientific names, what common name is used for an ingredient?",
+        "answer": "Shea"
+      }
+    ]
+  }
+]

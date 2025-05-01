@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6c/6c679b4c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the majority of the rug's surface?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what is the primary tactile feel suggested by the rug's appearance?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What overall geometric form best describes the rug's outer boundary?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual analysis, what appears to be the rug's manufacturing process?",
+        "answer": "Handwoven"
+      },
+      {
+        "question": "Describe the visual pattern or design present across the rug's surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image, what is the predominant material used in the rug's construction?",
+        "answer": "Wool"
+      },
+      {
+        "question": "Considering the color variations, what adjective best captures the subtle tonal shifts across the rug?",
+        "answer": "Ombre"
+      },
+      {
+        "question": "What is the general visual effect created by the color transition across the rug?",
+        "answer": "Gradual"
+      },
+      {
+        "question": "What word describes the surface appearance texture of the rug?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the visual uniformity of the rug's color distribution?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Observing the edges, what is the visual state of the rug's finishing?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the implied level of rug's pile density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What term describes the way the color appears to have been applied?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Looking closely, what is the apparent smoothness of the rug's surface?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Based on the visual clues, what is the style of the rug?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

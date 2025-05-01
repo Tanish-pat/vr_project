@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9c/9c37ade7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted gardening bag?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the bag?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape of this gardening waste container.",
+        "answer": "Tubular"
+      },
+      {
+        "question": "What is the texture of the main material composing the bag?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visible handles, what is their primary function?",
+        "answer": "Carrying"
+      },
+      {
+        "question": "What color are the stripes present on the bag's carrying handles?",
+        "answer": "Red"
+      },
+      {
+        "question": "What seems to be the purpose of this item, based on its visual attributes?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent size of the bag?",
+        "answer": "Large"
+      },
+      {
+        "question": "What kind of design pattern is visible on the bag's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the apparent stiffness or flexibility of this garden waste bag.",
+        "answer": "Flexible"
+      },
+      {
+        "question": "How many carrying handles are visibly attached to the bag?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent finish of the bag's exterior surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, what seems to be the bag's overall condition?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the general style of the handles based on their design?",
+        "answer": "Reinforced"
+      },
+      {
+        "question": "Judging by the image, what is the bag's intended usage?",
+        "answer": "Gardening"
+      }
+    ]
+  }
+]

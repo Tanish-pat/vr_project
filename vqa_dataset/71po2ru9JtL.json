@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the product's main body, as visually observed?",
-        "answer": "Off-white"
-      },
-      {
-        "question": "Considering the overall form, what is the most accurate geometric description of the bottle?",
+        "question": "What is the overall shape of the container holding the product, as seen from the side?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What material appears to constitute the majority of the product container?",
+        "question": "What is the predominant color of the product's main body?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What appears to be the material of the product's container?",
         "answer": "Plastic"
       },
       {
-        "question": "Based on the visual texture, what is the apparent surface finish of the bottle?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color is the primary textual information and labeling on the bottle?",
+        "question": "What color is the primary text on the product's label?",
         "answer": "Black"
       },
       {
-        "question": "What is the color of the rectangular informational panel on the bottle?",
+        "question": "What color is the secondary informational panel on the label?",
         "answer": "Green"
       },
       {
-        "question": "What type of closure is visibly present at the top of the container?",
-        "answer": "Snap-on"
+        "question": "What is the apparent texture of the product's container surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "Is there any visible indication of recycling symbols or markings on the product?",
+        "question": "Describe the shape of the cap or lid on top of the container?",
+        "answer": "Dome"
+      },
+      {
+        "question": "What is the primary color of the cap on the product's container?",
+        "answer": "White"
+      },
+      {
+        "question": "Is there a barcode present on the product's label, and what is its color?",
+        "answer": "Black"
+      },
+      {
+        "question": "Are there any recycling symbols visible on the product's label?",
         "answer": "Yes"
       },
       {
-        "question": "Describe the general visual style of the product's labeling and design elements.",
-        "answer": "Minimalist"
+        "question": "Does the label contain any nutritional information, and if so, what color is it primarily?",
+        "answer": "Black"
       },
       {
-        "question": "What is the shape of the cap or closure on the top of the bottle?",
-        "answer": "Rounded"
+        "question": "What is the dominant color scheme of the label's design?",
+        "answer": "Monochromatic"
       },
       {
-        "question": "Does the bottle's design incorporate any noticeable ridges, grooves, or indentations?",
+        "question": "Does the label have any images or icons other than text and symbols?",
         "answer": "No"
       },
       {
-        "question": "What seems to be the primary function of the bottle, considering its shape and labeling?",
-        "answer": "Packaging"
+        "question": "What seems to be the overall style of the product's labeling - modern or vintage?",
+        "answer": "Modern"
       },
       {
-        "question": "What is the apparent size of the text printed on the product packaging?",
-        "answer": "Small"
-      },
-      {
-        "question": "What is the visual format of the barcode that is printed on the bottle?",
-        "answer": "Linear"
-      },
-      {
-        "question": "Based on the appearance, is the bottle transparent or opaque?",
-        "answer": "Opaque"
+        "question": "Considering the container's structure, what is its likely function - dispensing or storing?",
+        "answer": "Dispensing"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/54/54f5abf8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the dominant textual characteristic of this item?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the visual pattern, what is the primary mode of information presentation?",
+        "answer": "Textual"
+      },
+      {
+        "question": "Examining the image, what best describes the density of the presented text?",
+        "answer": "High"
+      },
+      {
+        "question": "If one were to categorize the style of lettering, what descriptive term would best apply?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Given its structural composition, what can be deduced about the format of this item?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Discerning the visual features, what appears to be the surface material of this product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on its visual aspects, what is the apparent physical state of this product?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Judging solely by the image, how would one characterize the general orientation of the text?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Analyzing the visual design, what is the predominant color observed across the item?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What would you describe as the most visually striking aspect of this product?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Considering the visual appearance, how could the item's texture be best described?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of its visual components, what is the primary form of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from its visual elements, how would you classify the information display within the product?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Analyzing its visual appearance, what is the product's likely intended function?",
+        "answer": "Label"
+      },
+      {
+        "question": "Considering its visual features, what best describes the item's overall legibility?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

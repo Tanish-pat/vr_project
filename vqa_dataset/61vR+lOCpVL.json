@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f945f42f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the storage container depicted in the image?",
+        "answer": "Cubic"
+      },
+      {
+        "question": "What dominant color characterizes the exterior surface of the storage bin?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What primary material appears to constitute the storage unit's body?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the texture evident on the visible surfaces of the storage box?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent function of the small, clear rectangle on the container's front?",
+        "answer": "Window"
+      },
+      {
+        "question": "Considering the visible structural elements, what is the type of handle integrated into the design?",
+        "answer": "Tab"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary intended use of this item?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the apparent state or condition of the storage container shown in the photograph?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the storage bin display any noticeable patterns or decorative elements on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent rigidity or flexibility of the storage box's material?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the color of the small rectangular window visible on the container?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the apparent thickness or weight of the fabric used to make the container.",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the visible seams, what is the method of construction used for the container?",
+        "answer": "Sewn"
+      },
+      {
+        "question": "What is the visible condition of the fabric material; are there any visible imperfections?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Judging from the image, what is the style of the presented storage container?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]
