@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b0a2b7ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visible content and its packaging, what is the primary ingredient indicated on the label?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "Based on the image, what is the form of the culinary product presented in the jar?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What is the apparent color of the powdered substance contained within the clear glass jar?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What kind of seal is present on top of the spice jar, as depicted in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to compose the primary container holding the garlic powder?",
+        "answer": "Glass"
+      },
+      {
+        "question": "According to the label shown, what is the certification held by the garlic powder product?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Observing the label design, what is the brand name visibly printed on the product's packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the overall shape of the container that houses the garlic powder, as shown in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Judging by the image, what is the general texture of the visible garlic powder in the jar?",
+        "answer": "Fine"
+      },
+      {
+        "question": "From the image, describe the style of labeling used on the jar to indicate the product's contents.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the overall visual tone presented by the design elements featured on the jar\u2019s label?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based solely on the image, what seems to be the weight specified on the spice jar label?",
+        "answer": "2.53"
+      },
+      {
+        "question": "What is the apparent unit of measurement for the product's weight, as shown in the image provided?",
+        "answer": "Oz"
+      },
+      {
+        "question": "What additional word, besides 'Garlic', appears on the label to define the product's state?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What is the color of the writing on the label, aside from the brand logo?",
+        "answer": "Brown"
+      }
+    ]
+  }
+]

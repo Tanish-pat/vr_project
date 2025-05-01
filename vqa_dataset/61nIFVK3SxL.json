@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the paper portfolio's exterior?",
+        "question": "What is the dominant color of the portfolio's exterior?",
         "answer": "White"
       },
       {
-        "question": "What shape is the label affixed to the portfolio?",
+        "question": "What shape is the label affixed to the portfolio's exterior?",
         "answer": "Octagonal"
       },
       {
-        "question": "What is the primary material that the portfolio appears to be constructed from?",
-        "answer": "Paper"
+        "question": "What material appears to constitute the main body of the portfolio?",
+        "answer": "Cardstock"
       },
       {
-        "question": "What is the color of the text on the label of the portfolio?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What type of design element is used for the logo on the label?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "Describe the overall texture of the visible paper surfaces.",
+        "question": "What is the overall texture of the portfolio's visible surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent overall form or shape of the portfolio?",
-        "answer": "Rectangular"
+        "question": "Describe the design style of the label on the portfolio?",
+        "answer": "Minimalist"
       },
       {
-        "question": "Considering the image, how many visible pockets does the portfolio have?",
-        "answer": "One"
+        "question": "What color is the text on the label affixed to the portfolio?",
+        "answer": "Gray"
       },
       {
-        "question": "What kind of design feature appears to be present on the portfolio's exterior?",
-        "answer": "Label"
-      },
-      {
-        "question": "What appears to be the function of the visible pocket(s) of the portfolio?",
+        "question": "What appears to be the function of the main compartment of the portfolio?",
         "answer": "Storage"
       },
       {
-        "question": "What is the visual appearance of the fold lines on the portfolio?",
-        "answer": "Sharp"
+        "question": "What seems to be the primary purpose of this item, visually?",
+        "answer": "Organization"
       },
       {
-        "question": "What is the color of the background on the label affixed to the portfolio?",
-        "answer": "White"
+        "question": "What type of graphic element is used within the label's design?",
+        "answer": "Rectangle"
       },
       {
-        "question": "Is the paper of the portfolio visibly thick or thin?",
-        "answer": "Thin"
+        "question": "What is the visible style of the portfolio's construction?",
+        "answer": "Folded"
       },
       {
-        "question": "What kind of finish does the paper of the portfolio seem to have?",
+        "question": "What is the apparent finish of the portfolio's outer layer?",
         "answer": "Matte"
       },
       {
-        "question": "Does the portfolio appear to be folded or flat?",
-        "answer": "Folded"
+        "question": "What is the apparent type of writing displayed on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "How many pockets are visually evident in this portfolio?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the relative thickness of the portfolio?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the general form of the portfolio's visible external components?",
+        "answer": "Flat"
       }
     ]
   }

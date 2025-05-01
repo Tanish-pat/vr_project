@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the primary material appearing to constitute the cabinet's body?",
-        "answer": "Wood"
+        "question": "What specific type of feet support the cabinet?",
+        "answer": "Bun"
       },
       {
-        "question": "Describe the shape of the cabinet's base, focusing on the feet's form?",
-        "answer": "Baluster"
-      },
-      {
-        "question": "Considering the cabinet's front panel, what design element is prominently displayed?",
-        "answer": "Louvered"
-      },
-      {
-        "question": "Characterize the texture of the cabinet's surface, based on the image's visual cues?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent finish applied to the cabinet's exterior surfaces?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Focusing on the cabinet's base, what is the design of the feet's structural elements?",
-        "answer": "Turned"
-      },
-      {
-        "question": "What type of molding or trim is visible around the cabinet's door panel?",
-        "answer": "Raised"
-      },
-      {
-        "question": "What is the overall style of the cabinet's visible design features?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "Describe the shape of the cabinet's top, observing its edges and contours?",
+        "question": "Describing the overall shape of the cabinet's base, what is it?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the number of visible doors or access points on the cabinet's face?",
-        "answer": "One"
+        "question": "What appears to be the primary material used in the cabinet's construction?",
+        "answer": "Wood"
       },
       {
-        "question": "Considering the cabinet's feet, what is the shape of their bases?",
-        "answer": "Round"
+        "question": "Considering the cabinet door's design, what is the style of the paneling?",
+        "answer": "Louvered"
       },
       {
-        "question": "What type of joint is apparent where the cabinet's base meets the body?",
-        "answer": "Miter"
+        "question": "What is the visible shape of the cabinet's top surface?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Considering the cabinet's design, what is the style of its handle or pull?",
+        "question": "Observing the cabinet's edges and corners, what kind of molding is present?",
+        "answer": "Beveled"
+      },
+      {
+        "question": "Judging from the image, what is the apparent finish of the cabinet's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible number of feet supporting the cabinet?",
+        "answer": "Four"
+      },
+      {
+        "question": "Describe the texture of the visible wood grain on the cabinet?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of door handle or knob is shown on the cabinet?",
         "answer": "None"
       },
       {
-        "question": "What is the apparent visual weight of the cabinet's design\u2014heavy, light, or medium?",
-        "answer": "Heavy"
+        "question": "Considering the base's design, what is the overall style of the feet?",
+        "answer": "Turned"
+      },
+      {
+        "question": "Based on the visible construction, is the cabinet's frame solid or framed?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the visible style of the cabinet overall, considering its shape and details?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "Considering the image only, what seems to be the overall size of the cabinet?",
+        "answer": "Medium"
       }
     ]
   }

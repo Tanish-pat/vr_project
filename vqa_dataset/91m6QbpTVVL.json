@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0ac83b15.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text displayed on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What language is predominantly used for the product descriptions?",
+        "answer": "Spanish"
+      },
+      {
+        "question": "What is the overall shape of the packaging shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the general texture of the packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of information is predominantly featured on this packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "Describe the visual style or design of the text on the packaging.",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the packaging display any images or illustrations?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the orientation of the text blocks on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the information provided, what is the nature of the product?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Can you identify any prominent logos or brand markings on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text on the packaging primarily bold or thin in its typeface?",
+        "answer": "Variable"
+      },
+      {
+        "question": "Based on the visual clues, what is the likely target audience?",
+        "answer": "Adults"
+      },
+      {
+        "question": "What is the general size of the text used on the packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the visible details, how many panels are on the box?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

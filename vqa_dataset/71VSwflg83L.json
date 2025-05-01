@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0e/0ee788dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the USB connector housing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What metal is used for the connector contacts?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What color is the internal USB connector?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the shape of the connector's main body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the cable's outer sheath?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What brand logo is subtly visible on the connector?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the overall texture of the cable's exterior?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the cable's apparent flexibility based on its image.",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the shape of the individual connector pins?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the connector's features, what is its type?",
+        "answer": "USB"
+      },
+      {
+        "question": "What kind of finish does the black plastic housing seem to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, how many USB connector pins are visible?",
+        "answer": "Four"
+      },
+      {
+        "question": "Considering the color and design, what is the likely use of this connector?",
+        "answer": "Data"
+      },
+      {
+        "question": "What is the apparent condition of the cable and its connector?",
+        "answer": "New"
+      },
+      {
+        "question": "Observing the connector's design, is it likely a high-speed connector?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]
