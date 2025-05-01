@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/15740803.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted water filter?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What dominant color characterizes the filter's exterior?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the filter's pleated core?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the texture of the filter's outer casing, based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the end caps, what material do they seem to be made of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent design of the filter's central component?",
+        "answer": "Pleated"
+      },
+      {
+        "question": "Considering the end caps, what is their relative size compared to the filter's diameter?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "How many end caps are visible on the water filter in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent purpose of the central hole in each end cap?",
+        "answer": "Attachment"
+      },
+      {
+        "question": "Based on the image, what is the general condition of the filter?",
+        "answer": "New"
+      },
+      {
+        "question": "Describe the visible surface quality of the pleated core?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the appearance of the plastic end caps in the image?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the general color of the filter excluding the end caps?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Judging from the visible details, is the filter likely disposable or reusable?",
+        "answer": "Disposable"
+      },
+      {
+        "question": "What seems to be the primary function of this cylindrical object?",
+        "answer": "Filtration"
+      }
+    ]
+  }
+]

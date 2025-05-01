@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf96e12c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what primary function does this item fulfill based on its visual construction?",
+        "answer": "Luggage"
+      },
+      {
+        "question": "What is the dominant color of the exterior, as directly observable in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the bag's structure, what material appears to be primarily used in its construction?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "Judging from the visible features, what is the most apparent method of transport for this item?",
+        "answer": "Wheels"
+      },
+      {
+        "question": "In terms of overall shape and form, how would you describe the main body of this product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing solely on the handle's visual properties, what is the material it appears to be made from?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the visible design elements, how many distinct compartments or sections appear to be present?",
+        "answer": "Three"
+      },
+      {
+        "question": "Given the visible straps and closures, what is the main securing mechanism observed on this bag?",
+        "answer": "Buckles"
+      },
+      {
+        "question": "What is the most prominent text visible on the bag\u2019s exterior, if any exists?",
+        "answer": "None"
+      },
+      {
+        "question": "Analyzing the texture of the main body, what is the most apparent surface characteristic?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the wheels' visual features, what kind of wheels appear to be attached to the luggage?",
+        "answer": "Inline"
+      },
+      {
+        "question": "Considering the visible features, what type of handle is present at the top of this luggage?",
+        "answer": "Pull"
+      },
+      {
+        "question": "Regarding the overall size, how would you classify this luggage piece's capacity?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing the bag's base, what structural component supports the whole luggage?",
+        "answer": "Wheels"
+      },
+      {
+        "question": "What is the apparent style of this luggage piece, taking into account its design and features?",
+        "answer": "Rolling"
+      }
+    ]
+  }
+]

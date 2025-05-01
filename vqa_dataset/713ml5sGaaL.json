@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5e386f16.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's background, visually prominent across the majority of its surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the packaging's design, what is the most visually striking element, clearly presented in the center?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the shape of the central label, easily discernible against the backdrop?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the primary color of the central label, visually contrasting with the package's background?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of words are printed across the packaging's surface, creating a textured design?",
+        "answer": "Words"
+      },
+      {
+        "question": "What color are the words printed on the packaging, visually distinct from the background?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overarching color palette of the secondary text on the packaging, aside from the primary green?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the implied texture of the product inside the packaging, given the packaging's design?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the label, what is the apparent product type contained within?",
+        "answer": "Wipes"
+      },
+      {
+        "question": "What is the scent indicated on the label, as a descriptor of the product inside?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the apparent usage indicated by the labeling of the product within?",
+        "answer": "Baby"
+      },
+      {
+        "question": "What is the general form or shape of the packaging, visually presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of the outer packaging, visually inferred from its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall style of the text design, considering the arrangement of the words on the packaging?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the type of product indicated by the label's text, and imagery?",
+        "answer": "Wipes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d41b29e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible cabinet structure?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary material appearing to constitute the cabinet's body?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the shape of the cabinet's base, focusing on the feet's form?",
+        "answer": "Baluster"
+      },
+      {
+        "question": "Considering the cabinet's front panel, what design element is prominently displayed?",
+        "answer": "Louvered"
+      },
+      {
+        "question": "Characterize the texture of the cabinet's surface, based on the image's visual cues?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish applied to the cabinet's exterior surfaces?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Focusing on the cabinet's base, what is the design of the feet's structural elements?",
+        "answer": "Turned"
+      },
+      {
+        "question": "What type of molding or trim is visible around the cabinet's door panel?",
+        "answer": "Raised"
+      },
+      {
+        "question": "What is the overall style of the cabinet's visible design features?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "Describe the shape of the cabinet's top, observing its edges and contours?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the number of visible doors or access points on the cabinet's face?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering the cabinet's feet, what is the shape of their bases?",
+        "answer": "Round"
+      },
+      {
+        "question": "What type of joint is apparent where the cabinet's base meets the body?",
+        "answer": "Miter"
+      },
+      {
+        "question": "Considering the cabinet's design, what is the style of its handle or pull?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent visual weight of the cabinet's design\u2014heavy, light, or medium?",
+        "answer": "Heavy"
+      }
+    ]
+  }
+]

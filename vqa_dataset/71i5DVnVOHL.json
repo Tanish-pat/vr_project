@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b8f34ffc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what primary animal protein source is prominently featured in this product?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "Based on the visible text, what legume is included as an ingredient in this product's formulation?",
+        "answer": "Lentils"
+      },
+      {
+        "question": "Examining the provided text, what specific type of oil is listed among the ingredients?",
+        "answer": "Salmon"
+      },
+      {
+        "question": "According to the visible text, what vegetable is included in its dried form?",
+        "answer": "Beet"
+      },
+      {
+        "question": "What plant-based ingredient, known for its fiber content, is listed in the ingredient declaration?",
+        "answer": "Flaxseed"
+      },
+      {
+        "question": "Referring to the ingredient list, what specific part of the plant is used in its dried form?",
+        "answer": "Root"
+      },
+      {
+        "question": "What textually-specified vitamin is indicated as a supplement in this product?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Based on the textual information, what mineral is listed in its proteinate form?",
+        "answer": "Iron"
+      },
+      {
+        "question": "What textually-specified ingredient acts as a preservative in this product?",
+        "answer": "Acid"
+      },
+      {
+        "question": "What is one of the listed fermentation product sources?",
+        "answer": "Bacillus"
+      },
+      {
+        "question": "What is another listed fermentation product source?",
+        "answer": "Lactobacillus"
+      },
+      {
+        "question": "Based on the visible text, what is the specified source of Vitamin B1?",
+        "answer": "Thiamine"
+      },
+      {
+        "question": "Referring to the text, what is one of the indicated sources of Vitamin B6?",
+        "answer": "Pyridoxine"
+      },
+      {
+        "question": "What is another identified source of vitamin in this product, listed as a supplement?",
+        "answer": "Biotin"
+      },
+      {
+        "question": "Based on the text, what is another specified ingredient listed in this product?",
+        "answer": "Peas"
+      }
+    ]
+  }
+]

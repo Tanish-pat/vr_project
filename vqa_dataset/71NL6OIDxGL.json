@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2bc36914.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visually perceived on the phone case's surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary design pattern printed on the phone case?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What shape best describes the overall form of this mobile phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be simulated by the printed design on the phone case?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the image, what type of finish does the case appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are the wood grain lines running horizontally or vertically on the case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent texture of the simulated wood grain on the case?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on visual inspection, does the phone case appear to be hard or soft?",
+        "answer": "Hard"
+      },
+      {
+        "question": "Excluding the design, what color is the phone case's border?",
+        "answer": "Black"
+      },
+      {
+        "question": "What brand's logo is subtly visible through the case's design?",
+        "answer": "Apple"
+      },
+      {
+        "question": "Judging by the image, how many camera cutouts are visible on the case?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering the image, is the case design primarily realistic or abstract?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "Does the phone case design include any noticeable metallic elements?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall style of the phone case design?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Considering the image, how many visible side edges does this phone case have?",
+        "answer": "Four"
+      }
+    ]
+  }
+]
