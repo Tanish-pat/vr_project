@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the sandals shown in the provided image?",
+        "question": "What is the predominant color of the leather sandals shown in the image?",
         "answer": "Coral"
       },
       {
-        "question": "What appears to be the primary material used in the construction of these sandals?",
+        "question": "What appears to be the primary material used in constructing these sandals?",
         "answer": "Leather"
       },
       {
-        "question": "Considering the image, what is the most apparent style of these footwear items?",
-        "answer": "Slides"
-      },
-      {
-        "question": "Based on the visible design, how many straps are present across the top of each sandal?",
+        "question": "Considering the design, how many straps are visibly present across the top of each sandal?",
         "answer": "Three"
       },
       {
-        "question": "Describe the shape of the sole of these sandals, as depicted in the image.",
-        "answer": "Flat"
-      },
-      {
-        "question": "Judging from the image, what design element is prominently featured between the toes?",
-        "answer": "Toe-ring"
-      },
-      {
-        "question": "What is the apparent texture of the sandal's leather, as shown in the image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the image, what is the visible fastening mechanism of the sandals?",
-        "answer": "Slip-on"
-      },
-      {
-        "question": "As shown, what is the overall shape of each individual sandal?",
+        "question": "Describe the overall shape of the sandal's sole, ignoring any straps or embellishments.",
         "answer": "Rectangular"
       },
       {
-        "question": "Does the image suggest the presence of any noticeable embellishments or patterns on the sandals?",
-        "answer": "None"
+        "question": "What specific design element is evident between the toes of each sandal?",
+        "answer": "Thong"
       },
       {
-        "question": "What color are the visible stitching details present on the sandals?",
-        "answer": "Coral"
+        "question": "Judging from the image, what type of closure mechanism do these sandals utilize?",
+        "answer": "Slip-on"
       },
       {
-        "question": "Based on the image, what is the visible material of the sandal's insole?",
-        "answer": "Leather"
+        "question": "Based on visual inspection, what is the apparent texture of the sandal's leather?",
+        "answer": "Smooth"
       },
       {
-        "question": "From the image, can you describe the apparent finish of the leather used in the sandals?",
-        "answer": "Matte"
+        "question": "What is the apparent style of the sandal, considering its design and straps?",
+        "answer": "Minimalist"
       },
       {
-        "question": "Based solely on the image, what is the heel height of these sandals?",
+        "question": "Focusing on the heel, describe the height of the sandals' sole in relation to the front.",
         "answer": "Flat"
       },
       {
-        "question": "What is the overall visual impression of the sandals' design aesthetic?",
-        "answer": "Minimalist"
+        "question": "Can you describe the visible color variation or shading on the leather sandals?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "In the provided image, what seems to be the general condition of the sandals?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the visible design, how would you characterize the sandals' toe shape?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the visible style of the sandal's straps, considering their position and width?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on visual observation, what is the footwear type depicted in the image?",
+        "answer": "Sandals"
+      },
+      {
+        "question": "What is the apparent finish of the leather used on the sandals shown?",
+        "answer": "Matte"
       }
     ]
   }

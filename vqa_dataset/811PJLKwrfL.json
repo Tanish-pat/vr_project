@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/83/8342148a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what is the primary form factor of this packaged beverage?",
+        "answer": "Can"
+      },
+      {
+        "question": "What dominant color scheme is prominently featured on the beverage can's label design?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Focusing on the central image, what specific tropical fruit is depicted to represent the drink's primary ingredient?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Observing the can's material, what seems to be the primary manufacturing substance used in its construction?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Regarding the label's typography, what specific descriptive term is used to label the main product within the label?",
+        "answer": "Water"
+      },
+      {
+        "question": "Examining the product's branding, what numerical logo is most conspicuous on the top of the label?",
+        "answer": "365"
+      },
+      {
+        "question": "Looking closely at the coconut depiction, what aspect of this fruit's interior is visually emphasized?",
+        "answer": "Flesh"
+      },
+      {
+        "question": "Analyzing the label's text, what characteristic is prominently mentioned next to the words \"coconut water\"?",
+        "answer": "Pulp"
+      },
+      {
+        "question": "Considering the can's base, what information regarding its contents is visually indicated on the bottom?",
+        "answer": "Volume"
+      },
+      {
+        "question": "What is the color of the coconut's outer husk as illustrated on the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Regarding the label's design, what shape does the main design element surrounding the coconut image form?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Analyzing the small print on the label, what components are mentioned as being naturally present in the beverage?",
+        "answer": "Electrolytes"
+      },
+      {
+        "question": "What is the texture suggested by the visual depiction of the coconut's flesh?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Referring to the label's graphics, what type of graphic design element is employed below the brand logo?",
+        "answer": "Stripe"
+      },
+      {
+        "question": "Based on the overall aesthetic, what is the general style of the product's visual branding and packaging?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

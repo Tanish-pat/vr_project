@@ -9,60 +9,60 @@
         "answer": "Pink"
       },
       {
-        "question": "What is the primary depicted animal on the phone case?",
-        "answer": "Cat"
-      },
-      {
-        "question": "What color is the cat illustrated on the phone case?",
+        "question": "What is the primary color of the depicted feline on the case?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent material of the phone case's outer layer?",
-        "answer": "Plastic"
+        "question": "What type of animal is illustrated on the phone case's surface?",
+        "answer": "Cat"
       },
       {
-        "question": "Describe the visual style of the cat illustration on the case?",
-        "answer": "Cartoonish"
-      },
-      {
-        "question": "What small, red item appears to be in the cat's mouth?",
-        "answer": "Strawberry"
-      },
-      {
-        "question": "What shape best describes the overall form of the phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the general tone or aesthetic of the phone case's design?",
-        "answer": "Cute"
-      },
-      {
-        "question": "Does the case appear to have a noticeable texture or finish?",
+        "question": "Describe the apparent texture of the phone case's protective layer?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the color of the phone case's border or frame?",
-        "answer": "Clear"
+        "question": "What small, red object appears to be in the cat's mouth?",
+        "answer": "Strawberry"
       },
       {
-        "question": "Are there any noticeable additional design elements beyond the cat?",
+        "question": "What is the general shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of the phone case's outer shell?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "How would you characterize the artistic style of the cat's illustration?",
+        "answer": "Cartoonish"
+      },
+      {
+        "question": "What color are the cat's eyes, as depicted in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Besides the cat, are there any other design elements on the case?",
         "answer": "Stars"
       },
       {
-        "question": "Considering the cat's facial features, what is its expression?",
-        "answer": "Innocent"
+        "question": "What is the overall visual impression conveyed by the case's design?",
+        "answer": "Cute"
       },
       {
-        "question": "What seems to be the primary function of this product?",
-        "answer": "Protection"
+        "question": "Is the phone case design predominantly simple or complex?",
+        "answer": "Simple"
       },
       {
-        "question": "Does the phone case appear to be rigid or flexible?",
-        "answer": "Rigid"
+        "question": "What is the apparent clarity/opacity of the phone case's protective layer?",
+        "answer": "Transparent"
       },
       {
-        "question": "What is the overall clarity of the printed design on the case?",
-        "answer": "Sharp"
+        "question": "Considering the color palette, which aesthetic best describes the case?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Does the image show any visible buttons or ports on the case?",
+        "answer": "No"
       }
     ]
   }

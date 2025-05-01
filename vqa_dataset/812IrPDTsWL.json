@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f70b55b2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sliced meat pieces in the salad?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the shape of the serving bowl containing the salad?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent color of the thinly sliced radish pieces?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What appears to be the main leafy green base of this salad?",
+        "answer": "Lettuce"
+      },
+      {
+        "question": "What seems to be the predominant color of the bowl holding the salad?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of vegetable is visibly arranged around the meat?",
+        "answer": "Radishes"
+      },
+      {
+        "question": "What finely chopped herb is sprinkled across the salad?",
+        "answer": "Chives"
+      },
+      {
+        "question": "What is the apparent texture of the meat pieces in the salad?",
+        "answer": "Grilled"
+      },
+      {
+        "question": "What other ingredient is visible among the salad components?",
+        "answer": "Couscous"
+      },
+      {
+        "question": "What seems to be the overall shape of the entire salad presentation?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the components, what culinary style might this salad represent?",
+        "answer": "Mediterranean"
+      },
+      {
+        "question": "Does the image suggest the presence of any creamy or oily dressing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visible ingredients, what might be a flavor profile descriptor?",
+        "answer": "Savory"
+      },
+      {
+        "question": "What is the overall visual impression of the salad's presentation?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Is the salad presented in a deep or shallow bowl?",
+        "answer": "Shallow"
+      }
+    ]
+  }
+]

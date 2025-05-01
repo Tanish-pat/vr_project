@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/61/61b56459.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant shade of the backpack cover shown in the image?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used for this product?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "Based on the visual evidence, what is the overall shape of the presented item?",
+        "answer": "Baggy"
+      },
+      {
+        "question": "Judging from the image, what is the apparent texture of the backpack rain cover's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any noticeable seams or stitching on the backpack cover?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the backpack cover?",
+        "answer": "Slight"
+      },
+      {
+        "question": "From the image, is the backpack cover designed with any visible buckles or closures?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its visual appearance, how would you describe the overall condition of the cover?",
+        "answer": "New"
+      },
+      {
+        "question": "From what is shown, does the backpack cover appear to have any visible logos or branding?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, what is the apparent size of this rain cover relative to a standard backpack?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the image, does the product show any visible signs of wear or damage?",
+        "answer": "No"
+      },
+      {
+        "question": "In the image, is the backpack cover displayed in a folded or unfolded state?",
+        "answer": "Unfolded"
+      },
+      {
+        "question": "Based on the visual evidence, is the backpack cover primarily opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the provided image, what is the apparent weight or thickness of the cover?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the overall design aesthetic of the cover?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

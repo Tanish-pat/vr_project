@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fd4dfd4f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the product as displayed?",
+        "answer": "Ovoid"
+      },
+      {
+        "question": "What color best describes the majority of the visible product surface?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Based on the visual texture, what would you say is the likely surface finish of this item?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the item exhibit any discernible pattern or texture across its main area?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Considering the visible portion, what seems to be the primary material of the object shown?",
+        "answer": "Food"
+      },
+      {
+        "question": "Observing the image, is there any visible evidence of packaging or wrapping material?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image provided, is the product's surface uniformly colored or does it show variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Looking at the image, can you identify any specific brand markings or labeling on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, does the product seem to have a shiny or matte surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on visual inspection, what appears to be the object's approximate size category?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the image reveal any obvious structural components, parts, or distinct sections?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the appearance, what might be the probable function or use of this object?",
+        "answer": "Snack"
+      },
+      {
+        "question": "By examining the visible parts, are there any visible imperfections, dents, or damages?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the product's form, is the object predominantly flat, cylindrical, or three-dimensional?",
+        "answer": "3D"
+      },
+      {
+        "question": "From the image, is there evidence of any added components, such as coatings or glazes?",
+        "answer": "No"
+      }
+    ]
+  }
+]

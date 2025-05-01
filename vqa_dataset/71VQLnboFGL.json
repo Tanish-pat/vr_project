@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f5cb69ad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted paper cup's design?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material is predominantly used in the construction of this disposable cup?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the cup's cylindrical form, what is its overall shape?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the visual style of the printed design encircling the cup's body?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "What type of beverages are referenced in the cup's illustrative design?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "Can you describe the visual texture of the printed graphic design on the cup?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Focusing on the printed text, what is the dominant color used for the typography?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image, what is the general design pattern seen on the paper cup?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the coffee bean images, what is their visual representation style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the color of the background of the printed design on the cup?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall appearance of the paper cup's finish regarding its gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describing the cup's top edge, what is its general form?",
+        "answer": "Round"
+      },
+      {
+        "question": "Looking at the printed coffee beans, how many are prominently displayed?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the visual state of the paper cup shown, is it crumpled or intact?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Considering the cup's purpose, what is its intended use?",
+        "answer": "Drink"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9e/9e0343e9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the shoe's upper?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the prominent secondary color on the shoe's side?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What material appears to constitute the shoe's main body?",
+        "answer": "Knit"
+      },
+      {
+        "question": "What color is the visible section of the shoe's midsole?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the shoe's sole unit?",
+        "answer": "Chunky"
+      },
+      {
+        "question": "Describe the pattern of the orange design element on the shoe.",
+        "answer": "Zigzag"
+      },
+      {
+        "question": "What color is the outsole of the sneaker?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What type of closure system does the shoe employ?",
+        "answer": "Lace"
+      },
+      {
+        "question": "What is the color of the laces on the shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the shoe's knitted upper?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "What text is visible on the shoe's tongue?",
+        "answer": "Kleps"
+      },
+      {
+        "question": "What design feature is present on the heel counter?",
+        "answer": "Pull-tab"
+      },
+      {
+        "question": "What color is the pull tab at the back of the shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the style of the shoe's toe cap.",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent design style of this sneaker?",
+        "answer": "Sporty"
+      }
+    ]
+  }
+]
