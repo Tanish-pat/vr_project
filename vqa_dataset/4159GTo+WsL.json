@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e4140430.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information displayed, what specific type of vinegar is predominantly used in the product's composition?",
+        "answer": "Distilled"
+      },
+      {
+        "question": "Based on the textual details, identify one of the key organic ingredients contributing to the product's flavor profile.",
+        "answer": "Mustard"
+      },
+      {
+        "question": "According to the visible text, which natural flavoring agent enhances the product's taste?",
+        "answer": "Wasabi"
+      },
+      {
+        "question": "As indicated in the text, what type of sweetener is incorporated into the product's recipe?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What additional organic ingredient is listed among the components of the product?",
+        "answer": "Honey"
+      },
+      {
+        "question": "What kind of sugar is included as an ingredient, as shown in the text?",
+        "answer": "Cane"
+      },
+      {
+        "question": "Based on the visible text, what other organic component contributes to the final product?",
+        "answer": "Horseradish"
+      },
+      {
+        "question": "In the provided text, what type of vinegar is included besides the primary vinegar?",
+        "answer": "Apple"
+      },
+      {
+        "question": "Judging from the ingredient list, what inorganic ingredient is used to enhance the flavor?",
+        "answer": "Salt"
+      },
+      {
+        "question": "According to the label, what other organic component contributes to the product's taste and aroma?",
+        "answer": "Spices"
+      },
+      {
+        "question": "What is mentioned about a negligible additive on the product's label?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Based on the textual information, what is the stated serving size regarding sugar addition?",
+        "answer": "Per"
+      },
+      {
+        "question": "According to the text, where is the product manufactured?",
+        "answer": "Facility"
+      },
+      {
+        "question": "As mentioned in the text, what other ingredient is processed at this facility?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What is the overall style of the text displayed on the product?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

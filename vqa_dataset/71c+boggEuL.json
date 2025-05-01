@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f1de5232.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the dominant color scheme visible on the container, what is the primary color used in the product's label design, excluding the product itself?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the shape of the container holding the desiccated herb flakes, as depicted in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on visual inspection, what specific type of herb is contained within the transparent container?",
+        "answer": "Parsley"
+      },
+      {
+        "question": "What is the form or state of the parsley visible within the clear packaging?",
+        "answer": "Flakes"
+      },
+      {
+        "question": "What material seems to comprise the main body of the container holding the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the packaging, what type of closure is used to seal the container?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is the prominent text on the label indicating the product's natural processing?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the texture of the parsley flakes seen in the clear part of the container, describing the overall visual impression?",
+        "answer": "Crumbly"
+      },
+      {
+        "question": "In relation to the overall dimensions, what is the size of the container shown, small, medium, or large?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the color of the parsley flakes, focusing only on the visible appearance within the transparent container?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the packaging's design, what is the overall style of the label's design \u2013 simple, ornate, or minimalist?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the material of the cap on top of the container, judging by its appearance in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the color of the cap on the container holding the parsley flakes?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the parsley flakes observed in the container, considering their overall visible form?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Observing the label, what is the brand name printed prominently on the packaging?",
+        "answer": "HappyBelly"
+      }
+    ]
+  }
+]

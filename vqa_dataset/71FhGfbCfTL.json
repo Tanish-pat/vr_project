@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fad02d49.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape of these baked goods, what best describes their form, accounting for the subtle variations across the collection?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the dominant color observed in the majority of the visible baked goods?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image's visual cues, what material appears to primarily constitute these baked items?",
+        "answer": "Pasta"
+      },
+      {
+        "question": "Focusing on the texture details visible in the provided image, what descriptive word best captures the surface of the products?",
+        "answer": "Ridged"
+      },
+      {
+        "question": "Describe the general form of each individual item, considering their overall structure and appearance.",
+        "answer": "Shell"
+      },
+      {
+        "question": "What secondary color is present, contrasting subtly with the main hue in this group of food items?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Observing the components closely, what specific feature unites the various shapes, suggesting a unified manufacturing process?",
+        "answer": "Grooves"
+      },
+      {
+        "question": "From a visual perspective, what can be said about the size of the food items in this selection?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the appearance of the chips, what can be inferred about their degree of crispness, based solely on visual evidence?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "Looking at the detailed structure of the chips, what specific feature is common to all items, indicating a designed characteristic?",
+        "answer": "Fluting"
+      },
+      {
+        "question": "What seems to be the apparent texture of these food items judging from their visual presentation?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the overall visual presentation, how would you describe the arrangement of the food items?",
+        "answer": "Scattered"
+      },
+      {
+        "question": "What can be said about the uniformity of these baked goods judging by their overall appearance?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Describe the apparent state of the food items in the image based purely on visual observation.",
+        "answer": "Dry"
+      },
+      {
+        "question": "Based on the visual attributes, what is the apparent culinary preparation of these food products?",
+        "answer": "Baked"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9d/9d88ae38.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic of the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the provided text, what is the primary ingredient prominently displayed?",
+        "answer": "Cream"
+      },
+      {
+        "question": "What is the font style used for the text detailing the ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In the context of the image, what is the most frequently repeated word or term?",
+        "answer": "Contains"
+      },
+      {
+        "question": "Based on the image, what is the general color scheme of the textual content?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Judging from the image, what is the overall arrangement or alignment of the text blocks?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the size of the text compared to the overall size of the image, described in one word?",
+        "answer": "Large"
+      },
+      {
+        "question": "Disregarding content, what is the general style of lettering\u2014e.g., bold, italic, etc. ?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual presentation style\u2014e.g., list, paragraph, block, etc. ?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the texture of the visualized text in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the density of text elements in the given image?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent writing direction of the textual content in the image?",
+        "answer": "Left-to-right"
+      },
+      {
+        "question": "How is the visual information organized on the surface, overall ?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Disregarding the context, what is the visual clarity of the text presented?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the overall format of the presented information in the image?",
+        "answer": "Block"
+      }
+    ]
+  }
+]

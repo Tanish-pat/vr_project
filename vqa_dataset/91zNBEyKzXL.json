@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c01a853b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what is the primary ingredient visibly identified in the crackers?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the image, what specific type of cheese is mentioned as a component of the filling?",
+        "answer": "Cheddar"
+      },
+      {
+        "question": "What additional oil, besides sunflower seed oil, is explicitly listed as an ingredient in the product?",
+        "answer": "Palm"
+      },
+      {
+        "question": "According to the label, what is a type of milk derivative used in the cheese filling?",
+        "answer": "Buttermilk"
+      },
+      {
+        "question": "From the visible text, what specific additive functions as an emulsifier in this food item?",
+        "answer": "Lecithin"
+      },
+      {
+        "question": "What is indicated as a natural colorant among the listed ingredients?",
+        "answer": "Annatto"
+      },
+      {
+        "question": "What is listed as a leavening agent in the cracker portion of this product?",
+        "answer": "Baking"
+      },
+      {
+        "question": "What additional ingredient, aside from salt and sugar, is explicitly mentioned in the cracker composition?",
+        "answer": "Malt"
+      },
+      {
+        "question": "What ingredient is indicated as being pressed, according to the textual information?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "The visible text mentions what type of salt that is used in the recipe?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What is identified as a potential allergen, as warned by the label?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "What additional allergen is mentioned besides peanuts in the cautionary statement?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What type of enzyme is specified as an ingredient among the listed components?",
+        "answer": "Microbial"
+      },
+      {
+        "question": "The label notes the inclusion of what type of wheat flour?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is explicitly mentioned as a type of milk ingredient used?",
+        "answer": "Milk"
+      }
+    ]
+  }
+]
