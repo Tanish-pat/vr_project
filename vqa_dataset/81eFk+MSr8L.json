@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/16d34b9a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the dominant hues, what is the primary color scheme of the phone case?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "What artistic style is predominantly expressed in the phone case's design?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Based on the visual texture, what kind of paint application technique is suggested?",
+        "answer": "Impasto"
+      },
+      {
+        "question": "Describing the overall form, what is the basic geometric shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the image, what seems to be the material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is most prominent in the lower section of the depicted phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What color is prominently featured in the central vertical section of the phone case?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the apparent finish or surface treatment of the phone case\u2019s print?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color dominates the upper right quadrant of the phone case design?",
+        "answer": "Red"
+      },
+      {
+        "question": "Looking at the phone case's edges, are they visibly curved or straight?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Is there any discernible pattern or repetition in the design, or is it irregular?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the apparent thickness of the phone case, relative to its length?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Ignoring the design, what is the general form factor of the depicted object?",
+        "answer": "Case"
+      },
+      {
+        "question": "Are there any visible cutouts or openings in the phone case\u2019s design for buttons or ports?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Disregarding color, what is the surface texture of the design on the phone case?",
+        "answer": "Rough"
+      }
+    ]
+  }
+]

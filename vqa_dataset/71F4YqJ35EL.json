@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/45/45f8e240.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture depicted across the surfaces of these items?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall form, what best describes the primary geometric shape of each individual sheet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the most prevalent color among this collection of sheets?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What color is the sheet positioned directly below the light blue sheet in the stack?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Disregarding the branding, what is the visual pattern subtly printed on the sheets?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the apparent material of the sheets shown, judging from their visual characteristics?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent level of transparency exhibited by each individual sheet in this set?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What is the general shape when considering the entire stack of rectangular sheets?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by appearance, what seems to be the relative thickness of a single sheet in the shown stack?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the color of the sheet that is visibly at the bottom of the entire stack?",
+        "answer": "White"
+      },
+      {
+        "question": "What small visual element is visible at the bottom edge of each sheet?",
+        "answer": "Labels"
+      },
+      {
+        "question": "What is the overall arrangement or configuration of the multiple sheets, as displayed in the picture?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Considering the light reflecting off the surfaces, what seems to be the overall visual sheen or glossiness?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the general visual impression of the color palette used in designing these sheets?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "What is the overall visual impression of the arrangement of the stack of sheets?",
+        "answer": "Neat"
+      }
+    ]
+  }
+]

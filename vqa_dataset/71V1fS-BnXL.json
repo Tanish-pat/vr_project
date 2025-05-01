@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted on the phone case's primary surface?",
+        "question": "What is the dominant color scheme depicted on the phone case?",
         "answer": "Orange"
       },
       {
@@ -21,48 +21,48 @@
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape of the product being shown in the image?",
+        "question": "What is the overall shape of the depicted phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What brand of phone is the case designed to fit, as suggested by its cutout?",
+        "question": "What prominent brand logo is visible on the phone case's surface?",
         "answer": "Apple"
       },
       {
-        "question": "What color are the birds depicted flying near the setting sun on the phone case?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the image, what seems to be the finish of the phone case surface?",
+        "question": "What is the apparent finish of the depicted phone case?",
         "answer": "Matte"
       },
       {
-        "question": "What is the general style of the image printed on the phone case?",
-        "answer": "Landscape"
-      },
-      {
-        "question": "What color is the thin side edge visible on the right-hand side of the case?",
+        "question": "What is the color of the side edges of the phone case?",
         "answer": "Black"
       },
       {
-        "question": "Based on the image, how many birds can be visually identified in flight?",
-        "answer": "Two"
+        "question": "What is depicted in the lower left corner of the phone case design?",
+        "answer": "Sun"
       },
       {
-        "question": "What is the overall visual impression conveyed by the phone case design?",
-        "answer": "Serene"
+        "question": "What is visible in the upper right corner of the phone case design?",
+        "answer": "Birds"
       },
       {
-        "question": "What is the visible part of the sun's representation in the image?",
-        "answer": "Half"
+        "question": "What is the visual texture of the depicted phone case?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the most noticeable visual element on the back cover of the case?",
+        "question": "How many sides of the phone case are shown in the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the style of the depicted image on the phone case?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "What is the overall aesthetic of the phone case's design?",
+        "answer": "Nature"
+      },
+      {
+        "question": "What is the primary subject of the design besides the sunset?",
         "answer": "Tree"
-      },
-      {
-        "question": "What is the primary printing technique used on the phone case, in the picture?",
-        "answer": "Digital"
       }
     ]
   }

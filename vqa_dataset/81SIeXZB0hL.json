@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f7de5ed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's pattern?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the secondary color featured in the phone case design?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the overall pattern style on the phone case surface?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What shape best describes the individual repeating elements in the design?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What material appears to be used for this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general form or shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the edges, how would you describe the phone case's profile?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What color are the visible cutouts or openings on the sides?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Is the pattern on the phone case symmetrical or asymmetrical in appearance?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Describe the texture of the phone case based on the image's visual cues?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How would you characterize the visual complexity of the design pattern?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Does the phone case exhibit any noticeable gloss or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What kind of lines are primarily used to create the pattern on the case?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the pattern's details, is it dense or sparse?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Are there any additional elements besides the pattern on the main surface?",
+        "answer": "None"
+      }
+    ]
+  }
+]

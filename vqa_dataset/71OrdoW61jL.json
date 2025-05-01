@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the coffee bag's main design element?",
+        "question": "What is the dominant color of the coffee bag's primary design element?",
         "answer": "Orange"
       },
       {
-        "question": "What is the geometric pattern prominently featured on the coffee bag's front?",
-        "answer": "Chevron"
-      },
-      {
-        "question": "What material appears to constitute the primary packaging of the coffee beans?",
-        "answer": "Foil"
-      },
-      {
-        "question": "Describing the overall shape, what best characterizes the form of the coffee bag?",
+        "question": "What is the overall shape of the depicted coffee bean package?",
         "answer": "Rectangular"
       },
       {
-        "question": "What color are the smaller accent design elements on the bottom left of the bag?",
-        "answer": "Teal"
-      },
-      {
-        "question": "What type of text is prominently displayed vertically on the bag, concerning its origin?",
-        "answer": "From"
-      },
-      {
-        "question": "What word follows 'From' in the vertical text describing the coffee's journey?",
-        "answer": "Korea"
-      },
-      {
-        "question": "What is the text, after the origin, that communicates the delivery to the consumer?",
-        "answer": "To"
-      },
-      {
-        "question": "What is the final word in the vertical text describing the coffee's delivery?",
-        "answer": "You"
-      },
-      {
-        "question": "What is the apparent texture of the coffee bag's surface, judging by the image?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What small graphic element is present at the bottom of the vertical text, possibly a logo?",
+        "question": "What type of graphic pattern is prominently displayed on the bag's front?",
         "answer": "Chevron"
       },
       {
-        "question": "What appears to be the method of sealing or closing the bag at the top?",
-        "answer": "Ziplock"
+        "question": "Describe the material that appears to constitute the coffee bag itself?",
+        "answer": "Foil"
       },
       {
-        "question": "What is the overall visual impression of the bag's design aesthetic?",
-        "answer": "Modern"
+        "question": "What color are the smaller accent stripes visible at the bag's bottom?",
+        "answer": "Teal"
       },
       {
-        "question": "What is the style of the typography used throughout the coffee bag's labeling?",
-        "answer": "Sans-serif"
+        "question": "What is the apparent texture of the primary surface area of the coffee bag?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the visual cues, what is the likely contents of the displayed package?",
-        "answer": "Coffee"
+        "question": "Considering the bag's seal, what type of closure is visible at the top?",
+        "answer": "Resealable"
+      },
+      {
+        "question": "What is the overall condition of the depicted coffee bag, considering any visible damage?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What kind of printing technique seems to be employed for the bag's design?",
+        "answer": "Offset"
+      },
+      {
+        "question": "What is the text prominently displayed in the center of the coffee bag?",
+        "answer": "From"
+      },
+      {
+        "question": "Considering the visible text, what seems to be the origin of the coffee beans?",
+        "answer": "Korea"
+      },
+      {
+        "question": "Besides the main text, what other textual information can be observed on the bag?",
+        "answer": "Details"
+      },
+      {
+        "question": "What kind of finish does the bag's outer surface appear to have, based on light reflection?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the bag's structure, what appears to be its main function?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What is the apparent weight of the bag based on its visible size and structure?",
+        "answer": "Medium"
       }
     ]
   }

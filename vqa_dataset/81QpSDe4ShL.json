@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a349cf14.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the predominant style of this shoe?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Based on the visible texture, what material appears to constitute the upper portion of the shoe?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Focusing on the color, what single word best describes the shade of the shoe's primary surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary closure mechanism utilized on this pair of shoes, as evidenced by the image?",
+        "answer": "Lace"
+      },
+      {
+        "question": "Observing the toe-cap region, what pattern is noticeably perforated into the shoe's surface?",
+        "answer": "Brogue"
+      },
+      {
+        "question": "Describing the shape of the toe, what term most accurately depicts its form?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the overall design of the shoe's sole unit, as visible from its profile?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Regarding the surface texture, how would you characterize the feel of the shoe's upper material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Inspecting the laces, what is their apparent color and/or shade?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the visible shape of the shoe's heel counter?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the visible stitching, what is the apparent construction method of this shoe?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Observing the sole, what material seems to constitute the outsole component?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What type of eyelets are used to secure the laces, considering their form?",
+        "answer": "Round"
+      },
+      {
+        "question": "Analyzing the visible elements of this shoe, what specific shoe type does the image depict?",
+        "answer": "Oxford"
+      },
+      {
+        "question": "In terms of the shoe's appearance, is it best described as casual or formal?",
+        "answer": "Formal"
+      }
+    ]
+  }
+]
