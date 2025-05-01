@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/38488273.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the concentric circular design, what is the overall shape of each individual product shown?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Focusing on the outermost ring, what dominant color is prominently displayed on the product's surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the central disk, what color is the smaller inner circle within the larger white circle?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Analyzing the material, what seems to be the primary substance used in the construction of these products?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the appearance, what is the most likely texture of the external black rings, smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the central area, is the lettering on the inner circle clearly legible, or is it blurry?",
+        "answer": "Legible"
+      },
+      {
+        "question": "Considering the multiple concentric rings, how many distinct ring layers are visibly apparent on each item?",
+        "answer": "Four"
+      },
+      {
+        "question": "Considering the inner grey circle, what is the overall appearance of the single marking present in its center?",
+        "answer": "Symbol"
+      },
+      {
+        "question": "Considering the white ring, what would you describe as the visual relationship between its color and the black rings?",
+        "answer": "Contrast"
+      },
+      {
+        "question": "Examining the entire product, is the surface glossy or matte in visual appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In relation to the central markings, how would you characterize the size of the lettering relative to the circles' size?",
+        "answer": "Small"
+      },
+      {
+        "question": "Regarding the structure, does the image reveal whether the black rings are separate elements or a single, molded piece?",
+        "answer": "Molded"
+      },
+      {
+        "question": "With respect to functionality, what kind of object could this possibly be based on visual attributes?",
+        "answer": "Target"
+      },
+      {
+        "question": "Regarding the concentric rings, what geometric pattern do these rings form relative to each other and the center?",
+        "answer": "Concentric"
+      },
+      {
+        "question": "Considering the image as a whole, how would you describe the overall visual aesthetic of the pair of products?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

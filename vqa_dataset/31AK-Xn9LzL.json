@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d7/d7910395.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted food item, as shown in the transparent packaging?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent consistency of the contents within the package?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Based on the image, what appears to be the shape of the individual food items inside the package?",
+        "answer": "Round"
+      },
+      {
+        "question": "What primary material constitutes the flexible packaging holding the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the product packaging visible in the image.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the text visible on the main label of the product packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the dominant graphical element on the primary label, besides text?",
+        "answer": "Plant"
+      },
+      {
+        "question": "What is the apparent size of the depicted product packaging in relation to the human hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging from the visible packaging, what appears to be the product's brand or manufacturer?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "What is the apparent texture of the product packaging, based on the image's visible details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual details, is the packaging sealed or open at the top?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Based on the image, what is the product's apparent form, in terms of packaging type?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "What is the general color scheme of the packaging's design elements?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What kind of foodstuff does the packaging seem to contain, based on visual clues alone?",
+        "answer": "Pulses"
+      },
+      {
+        "question": "What seems to be the main text (in English) visible on the package?",
+        "answer": "ToorDal"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/66/66b8e154.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the primary product container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color of the product packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describing the text on the product, what is its primary color?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the text's appearance, what is the font style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the type of information conveyed prominently on the packaging?",
+        "answer": "Drug"
+      },
+      {
+        "question": "What is the apparent texture of the product packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the text, what is the main use for this product?",
+        "answer": "Sunscreen"
+      },
+      {
+        "question": "Focusing on the container's edges, what is the design of the borders?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Judging by the text, what active ingredient is most prevalent?",
+        "answer": "Homosalate"
+      },
+      {
+        "question": "What is the format of the listed ingredients and their purposes?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Considering the packaging, does it have any noticeable graphics or images?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall style of the product labeling?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Describing the print quality, how does the text appear?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "Considering the structure, is the label directly attached to the product?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

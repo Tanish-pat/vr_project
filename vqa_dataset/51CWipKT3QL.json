@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4cba4b2a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed on the phone's screen?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the phone's body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the phone's frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the pattern visible on the phone's screen?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What color are the side bezels of the phone?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent screen technology used (e.g., LCD, OLED)?",
+        "answer": "OLED"
+      },
+      {
+        "question": "What is the primary color of the accent lines on the screen?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Is there a visible notch at the top of the screen?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the texture of the phone's back casing (if visible)?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the secondary accent color on the screen?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Are there any visible buttons or ports on the sides?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the style of the phone's screen edges (curved/flat)?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the phone display a time on its screen?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the finish of the phone's frame?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What type of display does the phone appear to have?",
+        "answer": "AMOLED"
+      }
+    ]
+  }
+]
