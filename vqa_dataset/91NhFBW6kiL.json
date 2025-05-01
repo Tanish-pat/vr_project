@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/52/522fc9be.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sofa's upholstery?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the sofa's legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall shape of the sofa's back profile?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many distinct seat cushions are visibly present?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent texture of the sofa's fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What color are the sofa's legs or base?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the style of the sofa's legs?",
+        "answer": "Tapered"
+      },
+      {
+        "question": "What is the general design aesthetic of the sofa?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Describe the visible stitching on the seat cushions.",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What kind of armrests does the sofa appear to have?",
+        "answer": "Square"
+      },
+      {
+        "question": "Does the back of the sofa show any notable patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the height of the sofa's back relative to the seat?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is the upholstery of the sofa uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering its shape and style, what's the seating capacity?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the visible surface of the sofa legs.",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

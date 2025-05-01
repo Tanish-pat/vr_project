@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color observed across the entire fabric surface?",
-        "answer": "Grey"
+        "question": "What is the dominant color observed across the entire textile surface?",
+        "answer": "Gray"
       },
       {
-        "question": "What is the primary textural quality evident in the fabric's weave?",
+        "question": "What textural impression does the weave pattern predominantly convey?",
         "answer": "Woven"
       },
       {
-        "question": "Considering the visual appearance, what material is the fabric most likely composed of?",
-        "answer": "Polyester"
+        "question": "Considering the visible fibers, what is the apparent material composition?",
+        "answer": "Fabric"
       },
       {
-        "question": "Based on the image, what is the general pattern present in the fabric's design?",
+        "question": "Describe the visual pattern formed by the intersecting threads in the image?",
         "answer": "Linear"
       },
       {
-        "question": "Describe the visual density of the fabric's weave, considering the threads' spacing?",
+        "question": "Based on the visual uniformity, what is the apparent surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How would you characterize the overall visual density of the fabric's weave?",
         "answer": "Dense"
       },
       {
-        "question": "Observing the image closely, what is the apparent sheen or luster of the material?",
+        "question": "What is the apparent sheen or luster displayed by the textile surface?",
         "answer": "Slight"
       },
       {
-        "question": "Judging solely from the image, what is the visual uniformity of the fabric's color?",
-        "answer": "Consistent"
+        "question": "Considering the image's resolution, how would you describe the thread thickness?",
+        "answer": "Fine"
       },
       {
-        "question": "What is the overall visual impression of the surface texture, smooth or rough?",
-        "answer": "SlightlyRough"
-      },
-      {
-        "question": "Does the fabric exhibit any noticeable visual irregularities or imperfections?",
-        "answer": "None"
-      },
-      {
-        "question": "What is the apparent directionality of the weave, vertical, horizontal or diagonal?",
-        "answer": "Linear"
-      },
-      {
-        "question": "Considering the image, how would you describe the visual weight of the fabric?",
-        "answer": "Medium"
-      },
-      {
-        "question": "Based solely on visual observation, what is the general tone of the grey?",
+        "question": "From a purely visual assessment, what is the apparent weight of the material?",
         "answer": "Light"
       },
       {
-        "question": "Judging from the image, how would you characterize the fabric's apparent drape or stiffness?",
-        "answer": "Medium"
+        "question": "Considering the visual regularity, how would you classify the weave structure?",
+        "answer": "Even"
       },
       {
-        "question": "What is the apparent visual depth, if any, created by the fabric's texture?",
-        "answer": "Slight"
+        "question": "Does the fabric exhibit any noticeable visual irregularities or imperfections?",
+        "answer": "No"
       },
       {
-        "question": "Considering the image, is there any obvious visual grain visible in the material?",
-        "answer": "Yes"
+        "question": "Describe the visual prominence of the weave pattern relative to the overall appearance?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's color saturation?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Based on visual texture, how would you describe the likely drape of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the most apparent visual characteristic determining the material's appearance?",
+        "answer": "Weave"
       }
     ]
   }
