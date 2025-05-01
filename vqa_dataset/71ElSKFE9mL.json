@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the depicted phone case's design?",
+        "question": "What is the predominant color scheme of the depicted phone case design?",
         "answer": "Orange"
       },
       {
@@ -14,55 +14,55 @@
       },
       {
         "question": "What type of tree is silhouetted against the sunset on the phone case?",
-        "answer": "Dead"
+        "answer": "Bare"
       },
       {
-        "question": "What is the apparent material of the phone case, judging from its visual characteristics?",
+        "question": "What is the apparent material of the depicted protective phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall shape of this protective phone case?",
+        "question": "Describe the overall shape of the illustrated protective phone covering?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the provided image, what is the main design style of this phone case?",
+        "question": "Considering the image, what is the depicted case's design style?",
         "answer": "Nature"
       },
       {
-        "question": "What is the color of the tree depicted in the sunset scene on the phone cover?",
+        "question": "What is the main subject of the phone case's artistic representation?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "What color are the birds depicted flying in the phone case's design?",
         "answer": "Black"
       },
       {
-        "question": "What are the visible secondary colors supporting the main orange hue of the background?",
-        "answer": "Red"
-      },
-      {
-        "question": "Are there any birds visible in the image printed on the phone case?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Does the phone case design appear to feature any noticeable texture from the picture?",
+        "question": "What is the texture suggested by the sunset image on the phone case?",
         "answer": "Smooth"
       },
       {
-        "question": "Judging by the image, what is the finish of the phone case's printed design?",
+        "question": "How many side views of the phone case are shown in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the overall tone of the colors presented on the phone case?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
         "answer": "Matte"
       },
       {
-        "question": "How many sides of the phone case are displayed in the provided image?",
-        "answer": "Three"
+        "question": "What color is the sun depicted in the phone case's design?",
+        "answer": "Yellow"
       },
       {
-        "question": "What is the apparent level of detail in the image printed on the phone case?",
-        "answer": "High"
+        "question": "Is the phone case design primarily photographic or illustrative?",
+        "answer": "Photographic"
       },
       {
-        "question": "What is the overall aesthetic of the design, considering the sunset and the tree?",
-        "answer": "Serene"
-      },
-      {
-        "question": "Does the image show any visible text or branding on the phone case itself?",
-        "answer": "No"
+        "question": "What is the position of the tree relative to the sunset on the phone case?",
+        "answer": "Center"
       }
     ]
   }

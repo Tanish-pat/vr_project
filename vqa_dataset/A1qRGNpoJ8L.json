@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f1a738d4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric sample?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Considering the visible texture, what is the likely material type?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Describe the overall surface texture as perceived visually from the image.",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on the image, what is the apparent density of the fabric?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Judging by the uniformity, is the fabric's texture consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the fabric appear to have any noticeable patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual appearance, how would you describe the fabric's pile?",
+        "answer": "Short"
+      },
+      {
+        "question": "From the image, what is the apparent softness of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the visual impression regarding the fabric's drape or stiffness?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Observing the image, is there a visible sheen or glossiness to the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the level of translucency of the fabric?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent weight or thickness of the fabric sample?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Judging from the visual texture, what is the feel of the fabric?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Considering visual features, what is the general appearance of the fabric's surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the overall visual impression of the color depth?",
+        "answer": "Rich"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/23/23bdf673.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant background color of the phone case's design?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the primary motif depicted across the phone case's surface?",
+        "answer": "Gifts"
+      },
+      {
+        "question": "What shapes predominantly constitute the illustrated gift boxes on the case?",
+        "answer": "Rectangles"
+      },
+      {
+        "question": "What color are the ribbons predominantly shown on the illustrated gifts?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What general texture does the printed design appear to have, considering the illustration style?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent material of the phone case itself, ignoring the design?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall pattern arrangement of the illustrated gifts on the case?",
+        "answer": "Random"
+      },
+      {
+        "question": "Considering the design, what is the likely occasion associated with this phone case?",
+        "answer": "Holiday"
+      },
+      {
+        "question": "What are the colors of the illustrated gift wraps, besides the dominant colors?",
+        "answer": "Various"
+      },
+      {
+        "question": "How many sides of the phone case are shown in the product image?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the illustrated design's level of detail or complexity, in relation to gift wrapping?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the phone case display any visible text or branding elements in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's material, given the image quality?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the illustrated design fully cover the entire visible surface of the phone case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the shape of the phone case itself, ignoring the design elements?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

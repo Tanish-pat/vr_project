@@ -9,59 +9,59 @@
         "answer": "Pink"
       },
       {
+        "question": "What is the texture visually depicted on the phone case?",
+        "answer": "Glitter"
+      },
+      {
         "question": "What text is prominently displayed on the phone case?",
         "answer": "Boss"
       },
       {
-        "question": "Describe the texture or pattern of the phone case's background?",
-        "answer": "Glitter"
-      },
-      {
-        "question": "What is the style of lettering used for the text on the case?",
-        "answer": "Cursive"
-      },
-      {
-        "question": "What is the color of the text on the phone case?",
-        "answer": "Black"
-      },
-      {
-        "question": "What word precedes 'Boss' on the phone case?",
+        "question": "What word precedes 'Boss' in the phone case's text?",
         "answer": "Girl"
       },
       {
-        "question": "What appears to be the material of the phone case?",
-        "answer": "Plastic"
+        "question": "What is the style of the lettering on the phone case?",
+        "answer": "Script"
       },
       {
-        "question": "What shape is the overall phone case?",
+        "question": "What color is the text on the phone case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the depicted phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Is the phone case design predominantly feminine or masculine?",
-        "answer": "Feminine"
+        "question": "What material appears to be used in constructing this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the design, what is the likely target audience?",
+        "answer": "Women"
+      },
+      {
+        "question": "What kind of design element is prominently featured on the background?",
+        "answer": "Glitter"
+      },
+      {
+        "question": "Is the phone case's design predominantly patterned or plain?",
+        "answer": "Patterned"
+      },
+      {
+        "question": "Does the phone case image show multiple viewing angles?",
+        "answer": "Yes"
       },
       {
         "question": "How many sides of the phone case are shown in the image?",
         "answer": "Four"
       },
       {
-        "question": "Does the phone case appear to be rigid or flexible?",
-        "answer": "Rigid"
-      },
-      {
-        "question": "What is the general style of the design on the phone case?",
-        "answer": "Glittery"
-      },
-      {
-        "question": "Considering the image, is the case matte or glossy?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "Are there any visible cutouts on the phone case?",
+        "question": "Are there any noticeable cutouts on the phone case for ports?",
         "answer": "Yes"
       },
       {
-        "question": "Does the image depict a thin or thick phone case?",
+        "question": "Based on the image, does the case seem thick or thin?",
         "answer": "Thin"
       }
     ]

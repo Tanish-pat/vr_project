@@ -1,0 +1,57 @@
+[
+  {
+    "path": "images/small/3d/3dabc29d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what single word best describes the overall font style employed for the ingredient label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on visual observation, what is the primary color of the text displayed on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific type of oil is prominently highlighted in the visible text on the product label?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Disregarding any grammatical structure, what is the prominent adjective describing the olive oil quality shown on the label?",
+        "answer": "Extra"
+      },
+      {
+        "question": "From a visual perspective, what word precedes 'Extra Virgin' in the text shown on the label?",
+        "answer": "Unfiltered"
+      },
+      {
+        "question": "What single word best captures the visual characteristic of the label's background?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from visual appearance, what is the primary function implied by the information presented on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "In terms of visual structure, how would you describe the arrangement of the words on the label?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Focusing solely on the visual characteristics, what is the apparent text case (uppercase/lowercase) used throughout the label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on the visual image, what is the general form or layout of the label containing the ingredient information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual texture of the label's background, appearing subtly in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the text solely on visible qualities, what is the apparent weight or thickness of the typeface?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]
