@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant visual characteristic displayed across the entire surface of the rectangular device shown?",
+        "question": "What is the predominant visual characteristic of the depicted smartphone screen?",
         "answer": "Shattered"
       },
       {
-        "question": "What is the apparent overall shape of the main object depicted in the provided image?",
+        "question": "What appears to be the primary material composing the smartphone's frame?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall geometric form of the object displayed in the image.",
         "answer": "Rectangular"
       },
       {
-        "question": "What color is the visible frame encompassing the broken screen shown in the product image?",
+        "question": "What color is the visible bezel surrounding the smartphone's screen?",
         "answer": "Black"
       },
       {
-        "question": "Considering the numerous fissures and fractures, what is the apparent state of the screen's glass component?",
+        "question": "Considering the extensive cracks, what is the apparent state of the smartphone's screen?",
         "answer": "Broken"
       },
       {
-        "question": "Based on the visible damage, what material appears to constitute the majority of the device's front face?",
-        "answer": "Glass"
+        "question": "What is the apparent texture of the shattered screen, given the visible cracks?",
+        "answer": "Rough"
       },
       {
-        "question": "Considering the image details, what seems to be the most prominent text visible in the image?",
-        "answer": "AntiShatter"
+        "question": "Considering the image, what seems to be the functionality of the depicted item?",
+        "answer": "Protective"
       },
       {
-        "question": "Considering the fragmented state of the display, what seems to be the device's primary functional impairment?",
-        "answer": "Display"
+        "question": "Based on the visual evidence, what is the main issue depicted with the smartphone?",
+        "answer": "Damage"
       },
       {
-        "question": "Describe the pattern of fragmentation across the affected surface of the pictured object.",
-        "answer": "Webbed"
+        "question": "What kind of damage is predominantly visible on the smartphone's screen?",
+        "answer": "Cracks"
       },
       {
-        "question": "What is the visible condition of the protective layer over the broken glass, as implied by the image?",
-        "answer": "Intact"
+        "question": "Describe the visual pattern formed by the cracks on the smartphone screen.",
+        "answer": "Spiderweb"
       },
       {
-        "question": "Given the image, what appears to be the technology that the product is designed to protect?",
-        "answer": "Screen"
+        "question": "What color are the majority of the fragments within the shattered screen?",
+        "answer": "Clear"
       },
       {
-        "question": "Describe the overall visual impression communicated by the numerous cracks within the glass panel.",
+        "question": "What is the implied purpose of the accompanying text, \u201cANTI SHATTER\u201d?",
+        "answer": "Marketing"
+      },
+      {
+        "question": "Given the condition of the screen, what is the likely state of the screen's functionality?",
+        "answer": "Nonfunctional"
+      },
+      {
+        "question": "What is the general shape of the individual fragments in the shattered screen?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the overall condition of the presented smartphone?",
         "answer": "Damaged"
-      },
-      {
-        "question": "Based on what is displayed, what is the primary marketing message conveyed by the textual element shown?",
-        "answer": "Protection"
-      },
-      {
-        "question": "What is the visual suggestion, given the cracks and the text, about the product's capability?",
-        "answer": "Safety"
-      },
-      {
-        "question": "In reference to the image, what type of visual element is used to highlight the product name?",
-        "answer": "Text"
-      },
-      {
-        "question": "What is the overall visual appearance of the damage inflicted to the object's screen, in a single word?",
-        "answer": "Severe"
       }
     ]
   }

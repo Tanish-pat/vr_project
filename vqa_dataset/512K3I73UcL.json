@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/76/76b6d2f5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the product's primary packaging, considering its length and tapering form?",
+        "answer": "Elongated"
+      },
+      {
+        "question": "What is the predominant color of the product's primary packaging, based on the visible surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the material of the outer packaging, judging by its texture and sheen?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary color visible on the smaller, secondary packaging element near the bottom?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What word or brand name is prominently displayed on the main packaging, as shown in the image?",
+        "answer": "SKY"
+      },
+      {
+        "question": "What is the visible texture of the main packaging, noting its smoothness or any surface imperfections?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the presence of text and potential product information, what appears to be the packaging's primary purpose?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Given the overall form and wrapping, is the product inside likely rigid or flexible, judging solely by appearance?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Can you describe the apparent condition of the packaging, considering its wrinkles or signs of wear?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the packaging, does the enclosed product appear to be single or multiple units, by visual observation?",
+        "answer": "Single"
+      },
+      {
+        "question": "Based on its appearance, what might be the probable contents of the packaging, focusing on its form and size?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What kind of visual printing is visible on the white packaging, if any, from observing its style and quality?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the shape of the secondary packaging component visible near the product's base?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering its packaging, does the product seem geared toward domestic or professional use based on visual indicators?",
+        "answer": "Domestic"
+      },
+      {
+        "question": "Judging from its form and packaging, is the contained product likely for single or repeated use?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

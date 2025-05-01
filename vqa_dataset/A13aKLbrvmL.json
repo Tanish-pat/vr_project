@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible upper shoe material?",
+        "question": "What is the predominant color of the visible upper portion of the athletic shoe?",
         "answer": "Blue"
       },
       {
-        "question": "What color are the accents on the shoe's side and heel?",
-        "answer": "Lime"
+        "question": "What appears to be the primary material used in constructing the shoe's upper?",
+        "answer": "Mesh"
       },
       {
-        "question": "Describe the apparent texture of the shoe's upper material?",
-        "answer": "Knit"
-      },
-      {
-        "question": "What is the overall shape of the visible shoe?",
+        "question": "Describe the overall shape of the athletic shoe's sole unit from a side profile perspective?",
         "answer": "Curved"
       },
       {
-        "question": "What type of lacing system is shown on the shoe?",
+        "question": "What secondary color is prominently featured as an accent across the shoe's design?",
+        "answer": "Lime"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface feel of the shoe's upper?",
+        "answer": "Knitted"
+      },
+      {
+        "question": "What is the apparent design pattern incorporated into the blue mesh upper section of the athletic shoe?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Based on the visible laces, what type of lacing system does this athletic shoe employ?",
         "answer": "Standard"
       },
       {
-        "question": "What color is the visible portion of the midsole?",
+        "question": "What color is the visible portion of the shoe's midsole, as observed from the side angle?",
         "answer": "White"
       },
       {
-        "question": "What seems to be the material of the shoe's outsole?",
-        "answer": "Rubber"
+        "question": "Judging by the image, what is the general style of these athletic shoes?",
+        "answer": "Running"
       },
       {
-        "question": "What design element is repeated vertically on the shoe's side?",
-        "answer": "Stripes"
+        "question": "What is the visible texture of the material along the heel counter of the athletic shoe?",
+        "answer": "Smooth"
       },
       {
-        "question": "Describe the apparent flexibility of the shoe's sole?",
-        "answer": "Flexible"
+        "question": "What is the apparent color of the visible stitching present across the shoe's upper?",
+        "answer": "Lime"
       },
       {
-        "question": "Is the heel counter of the shoe visibly padded?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the style of the shoe's toe cap?",
+        "question": "What is the visible shape of the heel counter of the athletic shoe?",
         "answer": "Rounded"
       },
       {
-        "question": "What seems to be the material of the shoe's lining?",
-        "answer": "Fabric"
+        "question": "What is the visible material of the outsole of the athletic shoe?",
+        "answer": "Rubber"
       },
       {
-        "question": "What is the apparent thickness of the midsole?",
-        "answer": "Thin"
+        "question": "Considering the image, what is the style of the shoe's tongue?",
+        "answer": "Padded"
       },
       {
-        "question": "What is the overall visual condition of the displayed shoe?",
+        "question": "What is the apparent overall condition of the athletic shoe in the provided image?",
         "answer": "New"
-      },
-      {
-        "question": "How many visible eyelets are there for the laces?",
-        "answer": "Six"
       }
     ]
   }

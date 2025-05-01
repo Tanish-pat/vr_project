@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3a99e8af.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the laptop bag's exterior?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the bag's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describing the overall shape, what type of bag is depicted?",
+        "answer": "Briefcase"
+      },
+      {
+        "question": "Considering the visible design, what is the bag's closure mechanism?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "What is the apparent texture of the bag's outer material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of handle does the laptop bag possess on its top?",
+        "answer": "Carry"
+      },
+      {
+        "question": "What color is the interior lining of the laptop bag?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Are there any noticeable pockets inside the main compartment?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what is the overall style of the bag?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the laptop bag feature any visible external pockets or compartments?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of strap is visible on the side of the bag?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Judging by its size, what is the intended function of this bag?",
+        "answer": "Laptop"
+      },
+      {
+        "question": "What is the visible material of the inner pockets?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Observing the image, what is the bag's apparent weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from the image, what is the bag's overall condition?",
+        "answer": "New"
+      }
+    ]
+  }
+]

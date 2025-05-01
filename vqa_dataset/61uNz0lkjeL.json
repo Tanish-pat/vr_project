@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the protective case shown in the image?",
+        "question": "What is the predominant color of the protective case shown in the image?",
         "answer": "Lavender"
       },
       {
-        "question": "What appears to be the primary material used for the main body of the case?",
+        "question": "What material appears to be used in the construction of the main body of the case?",
         "answer": "Silicone"
       },
       {
-        "question": "What is the overall shape of the protective case, ignoring the carabiner?",
-        "answer": "Rectangular"
+        "question": "What is the shape of the protective case designed to accommodate?",
+        "answer": "Square"
       },
       {
-        "question": "Considering the design, what is the case's intended purpose?",
-        "answer": "Protective"
-      },
-      {
-        "question": "What kind of accessory is attached to the protective case?",
+        "question": "What kind of attachment is visible, enabling portability?",
         "answer": "Carabiner"
       },
       {
-        "question": "What color is the carabiner attached to the silicone case?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the apparent texture of the silicone material covering the AirPods case?",
+        "question": "What is the apparent texture of the silicone material used for the case?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the image, what is the case designed to hold?",
-        "answer": "AirPods"
+        "question": "What color is the carabiner clip attached to the protective case?",
+        "answer": "Black"
       },
       {
-        "question": "Describe the appearance of the opening for accessing the AirPods case.",
-        "answer": "Rectangular"
+        "question": "Considering the design, what is the primary function of this protective item?",
+        "answer": "Protection"
       },
       {
-        "question": "What is the visible finish of the protective case, based solely on image details?",
+        "question": "What kind of opening is noticeable on the top of the case?",
+        "answer": "Slit"
+      },
+      {
+        "question": "Based on the image, what seems to be the overall finish of the case?",
         "answer": "Matte"
       },
       {
-        "question": "Judging by the image, is the carabiner made of a metallic or non-metallic material?",
-        "answer": "Metallic"
+        "question": "Does the image showcase any visible patterns or designs on the case?",
+        "answer": "None"
       },
       {
-        "question": "Describe the visual style of the case's design overall.",
+        "question": "What seems to be the level of thickness of the silicone protective layer?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the design, what device does this case appear to fit?",
+        "answer": "Earbuds"
+      },
+      {
+        "question": "What is the apparent style of the overall design of the protective case?",
         "answer": "Minimalist"
       },
       {
-        "question": "Is the case design embellished with any patterns or logos?",
-        "answer": "No"
+        "question": "Describe the visual form factor of the carabiner clip.",
+        "answer": "Oval"
       },
       {
-        "question": "What is the apparent flexibility of the silicone material?",
-        "answer": "Flexible"
-      },
-      {
-        "question": "Considering the image, what is the function of the carabiner?",
+        "question": "What kind of functionality does the carabiner clip provide to the case?",
         "answer": "Attachment"
       }
     ]

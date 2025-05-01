@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/73c7a781.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the product container?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the dominant color of the liquid inside the bottle, as visibly apparent?",
+        "answer": "Red"
+      },
+      {
+        "question": "Describing the cap, what material seems to be used for its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image alone, what is the apparent texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the label design, what color is the stylized beet illustration?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What single word best describes the style of the label's graphic design?",
+        "answer": "Playful"
+      },
+      {
+        "question": "From the label, what is the stated primary ingredient of this bottled juice?",
+        "answer": "Beet"
+      },
+      {
+        "question": "According to the label, what secondary fruit is noticeably included in this blend?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the label, which vegetable is the third component of this juice?",
+        "answer": "Carrot"
+      },
+      {
+        "question": "What term on the label categorizes the product being shown in this image?",
+        "answer": "Juice"
+      },
+      {
+        "question": "What is the brand name clearly visible on the product's label?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What word is used in a playful manner as a part of the product's name?",
+        "answer": "Beet"
+      },
+      {
+        "question": "Based solely on visual assessment, what is the approximate volume size?",
+        "answer": "Sixteen"
+      },
+      {
+        "question": "Considering the overall presentation, what is the implied use or function of this product?",
+        "answer": "Drink"
+      },
+      {
+        "question": "Examining the label closely, what measurement units are used to express the quantity?",
+        "answer": "Ounces"
+      }
+    ]
+  }
+]
