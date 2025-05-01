@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3acaad14.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaged bedding?",
+        "answer": "Mustard"
+      },
+      {
+        "question": "What appears to be the primary material of the blanket?",
+        "answer": "Silk"
+      },
+      {
+        "question": "What is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of wrapping is used for the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the ribbon accentuating the packaging?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the texture of the outer packaging material?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the apparent sheen of the product inside?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is written prominently on the label of the package?",
+        "answer": "THXSilk"
+      },
+      {
+        "question": "What is the overall visual impression of the product's packaging?",
+        "answer": "Luxury"
+      },
+      {
+        "question": "Describe the style of the packaging's design elements?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the nature of the seal of the plastic packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the visual appearance of the label's material?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What type of packaging is used for added presentation?",
+        "answer": "Gift"
+      },
+      {
+        "question": "What is the apparent state of the product inside the package?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Considering the visual details, what is the intended use of the item?",
+        "answer": "Bedding"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual presentation, what is the dominant color scheme of the displayed text and background?",
+        "question": "Considering the overall presentation, what is the dominant color used extensively in the background of this product's label?",
         "answer": "Pink"
       },
       {
-        "question": "Based on the visible text, what primary ingredient is explicitly listed?",
-        "answer": "Milk"
-      },
-      {
-        "question": "What specific type of milk is mentioned in the ingredient list, if any?",
-        "answer": "Lowfat"
-      },
-      {
-        "question": "What vitamin, denoted by a chemical name, is included among the ingredients?",
-        "answer": "Palmitate"
-      },
-      {
-        "question": "What is the second specified vitamin indicated as a component of the product?",
-        "answer": "D3"
-      },
-      {
-        "question": "Considering the text, what supplementary component is explicitly specified regarding the product's composition?",
-        "answer": "Ingredients"
-      },
-      {
-        "question": "What is the typeface or font style used for the 'Ingredients' label, focusing on its visual appearance?",
+        "question": "Examining the text's visual characteristics, what font style is predominantly used to display the product's ingredients?",
         "answer": "Sans-serif"
       },
       {
-        "question": "Observing the image, what is the text's relative size in relation to the background element?",
+        "question": "Based on the text's visual appearance, what is the general size of the text used to list the main ingredients?",
         "answer": "Large"
       },
       {
-        "question": "Looking at the text, what is the overall case style utilized (upper or lower)?",
-        "answer": "Upper"
-      },
-      {
-        "question": "Considering the visual presentation, how is the text's alignment displayed?",
-        "answer": "Left"
-      },
-      {
-        "question": "Describe the visual appearance and style of the font weight used for the displayed text.",
+        "question": "What is the visual style or appearance of the letters used for the words 'INGREDIENTS' and 'CONTAINS' on the label?",
         "answer": "Bold"
       },
       {
-        "question": "Regarding the visual presentation, is there any noticeable spacing between lines of text?",
-        "answer": "Yes"
+        "question": "Judging from the visual information, what is the primary ingredient mentioned prominently in the product's description?",
+        "answer": "Milk"
       },
       {
-        "question": "Based on the image, what is the overall visual layout orientation of the displayed information?",
-        "answer": "Vertical"
+        "question": "Observing the text's arrangement, what is the structural organization of the listed ingredients on the label?",
+        "answer": "List"
       },
       {
-        "question": "Observing the image, what is the apparent visual texture of the background?",
+        "question": "What is the visual contrast between the text color and the background color of this product label?",
+        "answer": "High"
+      },
+      {
+        "question": "From a visual standpoint, how is the text 'CONTAINS MILK INGREDIENTS' positioned relative to the main ingredients list?",
+        "answer": "Below"
+      },
+      {
+        "question": "What is the case (uppercase or lowercase) of the letters used to display the word 'INGREDIENTS' in the label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the overall tone conveyed by the text's style on the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual texture of the background color in the image, is it smooth, grainy, or another description?",
         "answer": "Smooth"
       },
       {
-        "question": "Judging solely by visual attributes, what is the text's visual clarity and legibility?",
-        "answer": "High"
+        "question": "Visually assessing the text, is there any noticeable use of italics or other stylistic variations in the displayed words?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual alignment of the text on the label, is it left-aligned, centered, or right-aligned?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the image, what type of information is primarily communicated through the label's text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describe visually the spacing between the lines of text on the product label; is it tight or loose?",
+        "answer": "Loose"
       }
     ]
   }

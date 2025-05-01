@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0a0aa317.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the chair's upholstery?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to be used for the chair's seating?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Describe the overall shape of the chair's frame.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material constitutes the chair's frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the apparent finish of the metal chair frame?",
+        "answer": "Bronze"
+      },
+      {
+        "question": "What design element is prominent on the chair's backrest?",
+        "answer": "Channel"
+      },
+      {
+        "question": "Does the chair possess armrests?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the style of the chair's armrests?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Considering the chair's overall design, what is its style?",
+        "answer": "Modern"
+      },
+      {
+        "question": "How would you describe the texture of the chair's upholstery?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What is the general height of the chair's back relative to the seat?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the chair's frame appear to have visible welds?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate number of visible frame segments?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Is the chair designed for one or multiple persons?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering the chair's features, what is its likely use?",
+        "answer": "Dining"
+      }
+    ]
+  }
+]

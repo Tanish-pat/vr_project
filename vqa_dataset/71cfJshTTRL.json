@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/89/899d2d90.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the water bottle, as observed in the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall form, what best describes the shape of the water bottle's body?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on visual inspection, what material appears to be used for the construction of the water bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the bottle exhibit any noticeable surface texture, and if so, what type?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent design element integrated into the bottle's main body?",
+        "answer": "Curves"
+      },
+      {
+        "question": "Is there a cap or lid included with this water bottle, and is it clearly visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the cap or lid accompanying the water bottle?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Observing the bottle's base, is it flat or does it possess any unique features?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Examining the bottle, are there any visible brand markings or logos present?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent design of the cap in terms of its shape?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the primary function suggested by the visual features of this item?",
+        "answer": "Hydration"
+      },
+      {
+        "question": "Regarding the bottle's neck, what shape does it present?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the transparency of the bottle, how visible is the content inside?",
+        "answer": "Visible"
+      },
+      {
+        "question": "Describe the overall appearance of the bottle's finish or sheen.",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the bottle have a carrying handle or any other features aiding portability?",
+        "answer": "No"
+      }
+    ]
+  }
+]

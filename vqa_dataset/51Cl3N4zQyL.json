@@ -5,56 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the textual information displayed, what is the primary filler material used in the capsule's composition?",
-        "answer": "Rice"
+        "question": "Considering the text's visual presentation, what is the overall textual alignment observed within the provided image?",
+        "answer": "Left"
       },
       {
-        "question": "Based on the provided text, what type of capsule is employed for the product's packaging?",
-        "answer": "Vegan"
+        "question": "Based on the image, what type of font is predominantly used in displaying the provided textual content?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "According to the label, what specific compound acts as a flow agent in the product's formulation?",
-        "answer": "Magnesium"
+        "question": "Judging from the visual appearance, what is the approximate size of the text, relative to other average text sizes?",
+        "answer": "Small"
       },
       {
-        "question": "As indicated in the textual content, what substance functions as an anti-caking agent in the mixture?",
-        "answer": "Silicon"
+        "question": "What specific method seems to have been used for creating or reproducing the provided textual information?",
+        "answer": "Printing"
       },
       {
-        "question": "What is the designation given to the supplementary ingredient detailed in the textual content, indicated as a type of cellulose?",
-        "answer": "Microcrystalline"
+        "question": "In terms of its visual texture, how does the text appear relative to its background within the image?",
+        "answer": "Smooth"
       },
       {
-        "question": "According to the text, what type of capsule shell material is utilized in the product?",
-        "answer": "Hypromellose"
+        "question": "Focusing solely on the text's visual attributes, what color is observed throughout the provided textual data?",
+        "answer": "Black"
       },
       {
-        "question": "What carbohydrate is listed among the other ingredients in the provided textual description?",
-        "answer": "Flour"
+        "question": "Judging by the visual attributes, what is the apparent style of the capitalization scheme used in the text's presentation?",
+        "answer": "Sentence"
       },
       {
-        "question": "What is the chemical description given to the provided ingredient that prevents sticking or clumping?",
-        "answer": "Stearate"
+        "question": "Based solely on visual inspection, can you specify the type of characters used in this textual display?",
+        "answer": "Alphabetic"
       },
       {
-        "question": "What additional ingredient is identified as a type of carbohydrate in the text?",
-        "answer": "Cellulose"
+        "question": "What is the primary material on which the text visually appears to be printed?",
+        "answer": "Paper"
       },
       {
-        "question": "Based on the label, what compound functions as an anti-caking agent in the composition?",
-        "answer": "Dioxide"
+        "question": "How would you characterize the overall visual density of the textual information within the image?",
+        "answer": "High"
       },
       {
-        "question": "What descriptor is used to characterize the capsule's composition regarding animal products?",
-        "answer": "Vegan"
+        "question": "Considering the visual clarity of the text, how would you describe its legibility?",
+        "answer": "Clear"
       },
       {
-        "question": "What type of flour is specifically mentioned in the other ingredients list?",
-        "answer": "Rice"
+        "question": "In terms of visual organization, how are the individual words and lines of text structured on the page?",
+        "answer": "Linear"
       },
       {
-        "question": "What is the listed substance that enhances the flowability of the product?",
-        "answer": "Stearate"
+        "question": "What is the approximate visual length of the provided text, considering the number of lines?",
+        "answer": "Long"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the area where the text is displayed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visual spacing observed between individual words and characters throughout the text.",
+        "answer": "Consistent"
       }
     ]
   }

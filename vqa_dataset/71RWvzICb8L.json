@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/33042887.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of this food product?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary shape of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What does the surface texture of the product appear to be, judging from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a visual standpoint, what seems to be the primary material that makes up this item?",
+        "answer": "Bread"
+      },
+      {
+        "question": "Disregarding packaging, what is the general visual design of the product itself?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What small, dark, visually noticeable elements are scattered across the product's surface?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "What is the apparent structural characteristic of the internal layers of the product?",
+        "answer": "Layered"
+      },
+      {
+        "question": "Considering the visual representation, what is the product's overall apparent consistency?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging visually, is the product depicted appearing to be whole or sliced?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What kind of packaging is visibly encasing the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the approximate number of visible layers in the product?",
+        "answer": "Many"
+      },
+      {
+        "question": "What is the visual appearance of the edges of the product in the image?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the apparent overall size of the product depicted in the image?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the apparent orientation of the product in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From the visible perspective, what is the general visual state of the product?",
+        "answer": "Fresh"
+      }
+    ]
+  }
+]

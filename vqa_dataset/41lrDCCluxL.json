@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/30/300a3f47.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the chair's legs?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the chair's legs?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What shape best describes the cross-section of each leg?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent finish of the chair's metal components?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What protective feature is visible at the base of each leg?",
+        "answer": "Caps"
+      },
+      {
+        "question": "What material are the protective features at the leg base made from?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describe the overall structural design of the chair's legs.",
+        "answer": "Sleek"
+      },
+      {
+        "question": "How many legs are visible within the provided image frame?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the texture of the protective leg base material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the legs, what is the chair's overall style?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent thickness of the chair's metal legs?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What type of connection is visibly present between the legs?",
+        "answer": "Welded"
+      },
+      {
+        "question": "Are there any visible markings or imperfections on the legs?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the curvature of the chair legs overall.",
+        "answer": "Curved"
+      },
+      {
+        "question": "How would you describe the visible joints in the leg structure?",
+        "answer": "Strong"
+      }
+    ]
+  }
+]

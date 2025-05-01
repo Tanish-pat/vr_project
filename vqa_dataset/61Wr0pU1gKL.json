@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the predominant color scheme of the phone case design?",
         "answer": "Red"
       },
       {
-        "question": "What is the primary graphic featured on the phone case's back?",
+        "question": "What is the main graphic depicted on the phone case's surface?",
         "answer": "Skull"
       },
       {
-        "question": "What accessory is depicted on the skull in the phone case design?",
+        "question": "What accessory is the skull graphic wearing in the image?",
         "answer": "Headphones"
       },
       {
-        "question": "What color are the headphones depicted on the skull graphic?",
+        "question": "What color are the headphones on the skull graphic?",
         "answer": "Red"
       },
       {
-        "question": "What appears to be the material of the phone case's outer shell?",
+        "question": "What appears to be the primary material of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the general shape of the phone case, conforming to the phone?",
+        "question": "What is the overall shape of the depicted phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent finish of the phone case's surface?",
-        "answer": "Glossy"
+        "question": "What style of graphic design is used for the skull?",
+        "answer": "Sketch"
       },
       {
-        "question": "Based on the image, what seems to be the style of the skull graphic?",
-        "answer": "Cartoonish"
-      },
-      {
-        "question": "What color is the section of the phone case behind the skull graphic?",
+        "question": "What color is the background behind the skull graphic?",
         "answer": "Black"
       },
       {
-        "question": "What seems to be the color of the phone shown partially behind the case?",
-        "answer": "Gray"
-      },
-      {
-        "question": "Judging by its appearance, what is the suggested texture of the phone case?",
+        "question": "Describe the texture of the phone case based on the image.",
         "answer": "Smooth"
       },
       {
-        "question": "What kind of protection does the product description suggest?",
-        "answer": "Hybrid"
+        "question": "What is the apparent finish of the phone case's outer surface?",
+        "answer": "Glossy"
       },
       {
-        "question": "Does the case seem to cover the entire phone's back and sides?",
-        "answer": "Yes"
+        "question": "What is the color of the phone visible behind the case?",
+        "answer": "Gray"
       },
       {
-        "question": "What is visible on the lower section of the phone displayed?",
+        "question": "How many camera lenses are visible on the displayed phone?",
+        "answer": "Three"
+      },
+      {
+        "question": "What brand logo is visible on the back of the phone?",
         "answer": "Samsung"
       },
       {
-        "question": "Considering the materials mentioned, what is one material used?",
-        "answer": "TPU"
+        "question": "Does the case appear to have raised edges for screen protection?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the materials mentioned, what type of case is this?",
+        "answer": "Hybrid"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5b32c37d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant material visibly composing the entirety of this product?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering its construction, what is the overall shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish or surface treatment of the wire components?",
+        "answer": "Chrome"
+      },
+      {
+        "question": "Based on the parallel lines, what is the dominant design pattern evident?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the visible texture of the wire's surface in terms of smoothness.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Given the evenly spaced slots, what is the intended function of the item?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the apparent color of the product in the given image?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Observing the structure, what is the apparent thickness of the wire used?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the item's design, what type of objects might it accommodate?",
+        "answer": "Plates"
+      },
+      {
+        "question": "What is the visible profile of the side edges of the rack's frame?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Describe the uniformity of spacing between the wire dividers within the rack.",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the apparent flexibility of the individual wire components?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Judging by the image, how many horizontal wire sections constitute the rack's base?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the overall configuration, is the rack primarily designed for vertical or horizontal use?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the most notable characteristic of the slots within the rack's overall structure?",
+        "answer": "Parallel"
+      }
+    ]
+  }
+]

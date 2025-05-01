@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b5abe89.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the primary component of this knob?",
+        "answer": "Round"
+      },
+      {
+        "question": "What dominant color describes the finish of the main knob body?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the surface texture, what visual effect is predominantly present on the knob?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this knob?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describing the outer edge, what design feature is visible around the main knob surface?",
+        "answer": "Bevel"
+      },
+      {
+        "question": "What is the apparent metallic finish applied to the main body of the knob?",
+        "answer": "Antique"
+      },
+      {
+        "question": "Based on the image, what type of fastening hardware is included for installation?",
+        "answer": "Screws"
+      },
+      {
+        "question": "How many screws are visibly provided in the product image for attachment?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the general color of the included mounting hardware shown?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Regarding the knob's surface, is the texture smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent style of the knob's overall aesthetic or design?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Considering the visual details, what type of item is this product?",
+        "answer": "Knob"
+      },
+      {
+        "question": "Does the main knob display a uniform or varied coloration?",
+        "answer": "Varied"
+      },
+      {
+        "question": "What is the apparent size of the main knob relative to everyday objects?",
+        "answer": "Small"
+      },
+      {
+        "question": "What seems to be the intended use of this item based on visual clues?",
+        "answer": "Drawer"
+      }
+    ]
+  }
+]
