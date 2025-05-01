@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/66/6696c51c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's main label, showcasing the product's name and key features?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the bottle's overall shape, what geometrical form best describes its silhouette?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Focusing on the bottle's cap, what material appears to compose its topmost section?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Regarding the label's texture, does it exhibit a glossy or matte finish, considering the light reflection?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What specific type of supplement is prominently featured on the label's main text area?",
+        "answer": "Omega-3"
+      },
+      {
+        "question": "Based on the label's description, what flavor profile is associated with this product?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "Observing the label, what certification or seal indicates responsible sourcing of the product's ingredients?",
+        "answer": "MSC"
+      },
+      {
+        "question": "What is the prominent text describing the form of the omega-3 within the product?",
+        "answer": "Triglyceride"
+      },
+      {
+        "question": "What is the color of the liquid visible within the transparent section of the bottle?",
+        "answer": "Green"
+      },
+      {
+        "question": "What prominent branding is located near the bottom of the label, suggesting the retailer?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "What graphic element is prominently displayed on the label to enhance its visual appeal related to the product's origin?",
+        "answer": "Waves"
+      },
+      {
+        "question": "What statement on the label specifies the product's genetic modification status?",
+        "answer": "Non-GMO"
+      },
+      {
+        "question": "What label indicates that the product is suitable for a specific dietary restriction?",
+        "answer": "Kosher"
+      },
+      {
+        "question": "What is the material of the bottle's body, considering its transparency and flexibility?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the label's text, what body system does this product primarily support?",
+        "answer": "Heart"
+      }
+    ]
+  }
+]

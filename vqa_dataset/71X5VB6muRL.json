@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary gemstone featured prominently in the ring's design?",
+        "question": "What is the dominant color of the central gemstone in the ring?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the large central gemstone?",
         "answer": "Pearl"
       },
       {
-        "question": "What color are the smaller accent stones flanking the pearl?",
+        "question": "What color are the smaller gemstones flanking the central pearl?",
         "answer": "Pink"
       },
       {
-        "question": "What is the apparent dominant metal of the ring's band?",
+        "question": "What is the apparent metal of the ring's band?",
         "answer": "Silver"
       },
       {
-        "question": "What is the shape of the central pearl gemstone?",
+        "question": "What is the overall shape of the central pearl setting?",
         "answer": "Round"
       },
       {
-        "question": "Describe the overall shape of the ring's band structure?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What other kind of small stones are interspersed with pink stones?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the apparent texture of the central pearl?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the setting style of the central pearl in relation to the band?",
+        "question": "What is the primary setting style for the central pearl?",
         "answer": "Bezel"
       },
       {
-        "question": "How many noticeable sections make up the ring's central band design?",
-        "answer": "Two"
+        "question": "What is the shape of the smaller gemstones on the ring's band?",
+        "answer": "Round"
       },
       {
-        "question": "Considering the gemstones, what is the ring's overall color scheme?",
-        "answer": "White"
+        "question": "Describe the arrangement of the smaller gemstones on each side of the pearl.",
+        "answer": "Linear"
       },
       {
-        "question": "What appears to be the overall luster of the central pearl?",
-        "answer": "High"
+        "question": "What is the texture of the ring's metal band, based on the image?",
+        "answer": "Smooth"
       },
       {
-        "question": "Does the ring band have any visible markings or inscriptions?",
-        "answer": "No"
+        "question": "What is the approximate number of small gemstones on one side of the pearl?",
+        "answer": "Ten"
       },
       {
-        "question": "What is the apparent style of the ring's band; simple or ornate?",
-        "answer": "Ornate"
+        "question": "What is the type of jewelry depicted in the image?",
+        "answer": "Ring"
       },
       {
-        "question": "What appears to be the overall finish of the metal; matte or polished?",
+        "question": "What appears to be the overall style of the ring, based on its details?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Describe the visual profile of the ring\u2019s band on the sides of the pearl.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent finish of the metal of the ring?",
         "answer": "Polished"
       },
       {
-        "question": "Considering the materials and gems; what is the likely style of this ring?",
-        "answer": "Elegant"
+        "question": "What is the predominant visual feature of the ring?",
+        "answer": "Pearl"
       }
     ]
   }

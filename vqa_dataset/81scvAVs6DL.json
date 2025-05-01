@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual presentation, what single word best describes the dominant color of this handbag?",
-        "answer": "Beige"
-      },
-      {
-        "question": "Based on the image's visible texture and apparent material, what is the most likely material of this purse?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Judging by the visible structural components, what is the primary shape of this handbag?",
+        "question": "Considering the overall form, what best describes the bag's primary geometrical shape?",
         "answer": "Rectangular"
       },
       {
-        "question": "Examining the interior compartment arrangement, what best describes the style of this bag's organization?",
-        "answer": "Compartmentalized"
-      },
-      {
-        "question": "Focusing on the closure mechanism shown, what type of fastener is visibly present on this bag?",
-        "answer": "Zipper"
-      },
-      {
-        "question": "From a visual inspection of the hardware, what color are the visible metal accents on this handbag?",
+        "question": "Observing the visible hardware, what metallic finish is predominantly used on the bag's clasp and zipper?",
         "answer": "Gold"
       },
       {
-        "question": "Observing the overall design, what best describes the general style of this handbag?",
-        "answer": "Classic"
+        "question": "Based on its appearance, what is the most likely material composition of this handbag?",
+        "answer": "Leather"
       },
       {
-        "question": "Analyzing the visible seams and stitching, what would you say is the quality of its visible construction?",
-        "answer": "Neat"
+        "question": "What is the prominent, visually dominant color of the bag, as shown in the image?",
+        "answer": "Beige"
       },
       {
-        "question": "By observing the interior pockets, what is the apparent number of inner compartments?",
+        "question": "Examining the interior, how many distinct compartments are clearly visible within the main section?",
         "answer": "Three"
       },
       {
-        "question": "Looking at the visible details, what design element appears on the outer part of the bag?",
-        "answer": "None"
+        "question": "Looking at the bag's closure, what type of fastener mechanism is prominently displayed?",
+        "answer": "Zipper"
       },
       {
-        "question": "From the perspective provided, is there any visible branding or logo present on the bag?",
-        "answer": "No"
-      },
-      {
-        "question": "Focusing on the material's visual properties, what texture best describes the bag's surface?",
+        "question": "Considering the texture visible in the image, what would best describe the surface of the bag?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the overall size and proportions, how would you categorize the handbag's size?",
-        "answer": "Medium"
+        "question": "Analyzing the design, what type of handbag style does this item appear to represent?",
+        "answer": "Clutch"
       },
       {
-        "question": "Judging from the visual presentation, what is the overall condition of the handbag?",
-        "answer": "New"
+        "question": "Focusing on the bag's structure, is it rigid or does it appear flexible and pliable?",
+        "answer": "Pliable"
       },
       {
-        "question": "Based solely on the image, what is the primary function of this item?",
-        "answer": "Carrying"
+        "question": "Judging by the image, what seems to be the primary function of the smaller inner compartments?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the apparent level of detailing present in the overall design of the handbag?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Regarding the bag's features, what seems to be the primary way to carry this bag?",
+        "answer": "Handheld"
+      },
+      {
+        "question": "Looking at the visible stitching, what color is the thread used to construct the bag?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall impression of the bag's style and aesthetic, as presented in the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the interior, what seems to be the primary color of the bag's lining?",
+        "answer": "Beige"
       }
     ]
   }

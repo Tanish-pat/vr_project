@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a0e2941.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product within the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material of the food container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the food packaging tray?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible food item, what type of meat is suggested?",
+        "answer": "Ribs"
+      },
+      {
+        "question": "Based on the visual appearance, what is the cooking style of the ribs?",
+        "answer": "BBQ"
+      },
+      {
+        "question": "What is the general texture of the visible meat product?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Describe the clarity of the plastic food tray that houses the product.",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What is the apparent consistency of the BBQ sauce coating?",
+        "answer": "Sticky"
+      },
+      {
+        "question": "Describe the positioning of the nutritional information label on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What color is the text on the nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent weight of the food item (relative to container size)?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the visible condition of the meat within the tray?",
+        "answer": "Moist"
+      },
+      {
+        "question": "What does the packaging primarily emphasize regarding the product?",
+        "answer": "Flavor"
+      },
+      {
+        "question": "What is the overall presentation quality of the product packaging?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the packaging feature any noticeable seals or tamper-evident design elements?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

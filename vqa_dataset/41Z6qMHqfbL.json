@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4c60a343.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surfaces of this piece of furniture?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible edges and surfaces, what appears to be the primary material used in its construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Based on the image, how many clearly visible shelves are there in this unit?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the overall shape of this item's visible structure, considering its height and width?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, what is the visible texture of the shelf surfaces?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the visible structural supports, what is their shape at the base?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the general style of this unit's visible design, based on its simplicity and clean lines?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the visible construction, does the furniture appear to be assembled or solid?",
+        "answer": "Assembled"
+      },
+      {
+        "question": "Based on the visible joins and uniformity, does the construction seem sturdy or flimsy?",
+        "answer": "Sturdy"
+      },
+      {
+        "question": "Judging by the image's perspective and what is shown, what is the approximate height of the unit?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Observing the shelves' positioning, how would you describe their relative placement?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visible finish or coating on the wood surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by its visible design and size, what is the most likely function of this item?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering the color and overall style, how would you classify the aesthetic of this furniture?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the visible construction, how would you describe the thickness of the shelves?",
+        "answer": "Thick"
+      }
+    ]
+  }
+]

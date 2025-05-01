@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2ad00b1c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main cooking surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the single-burner electric cooktop?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the cooktop's exterior?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the geometric shape of the central heating element?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Describe the texture of the control panel's markings?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the device's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible color of the control panel icons?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the apparent style of the power button graphic?",
+        "answer": "Circular"
+      },
+      {
+        "question": "How many clearly visible control buttons are on this cooktop?",
+        "answer": "Five"
+      },
+      {
+        "question": "What warning symbols are displayed on the cooktop's top?",
+        "answer": "Triangles"
+      },
+      {
+        "question": "What type of text is visible besides the warning symbols?",
+        "answer": "Thermostat"
+      },
+      {
+        "question": "Does the appliance have a visible brand logo?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the control panel positioned at the top or bottom?",
+        "answer": "Bottom"
+      },
+      {
+        "question": "What is the visible pattern surrounding the cooking zone?",
+        "answer": "Circle"
+      },
+      {
+        "question": "What is the visible style of the edges of the device?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]
