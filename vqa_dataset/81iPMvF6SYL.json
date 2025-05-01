@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3d45918.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular design and the clear, organized presentation of nutritional data, what is the primary function of this item as depicted?",
+        "answer": "Label"
+      },
+      {
+        "question": "Focusing on the prominent, large numerical value near the top right, what is the quantity expressed in the units of energy?",
+        "answer": "130"
+      },
+      {
+        "question": "Observing the consistent use of a specific typeface throughout the text blocks, what is the overall textual style employed?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the grayscale color scheme, predominantly employing black text against a white background, with accents of dark brown, what is the overall chromatic character?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Analyzing the textual content, including headers such as 'Total Fat', 'Sodium', 'Protein', etc., what is the category of information presented?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the arrangement of data within columns, with the left column detailing nutrients and the right showing percentages, what is the organizational format?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Based on the presence of data presented as percentages, alongside quantitative values, what is the quantitative nature of these values?",
+        "answer": "Relative"
+      },
+      {
+        "question": "Given the various nutrient categories listed and the daily values expressed, what is the unit of measurement for the percentages?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Noting the repeated use of 'mg' and 'g' next to many quantities, what is the system of units consistently used to quantify the contents?",
+        "answer": "Metric"
+      },
+      {
+        "question": "Observing the clear distinction between main headers, sub-headers, and data entries, what is the hierarchical structure of information?",
+        "answer": "Layered"
+      },
+      {
+        "question": "Regarding the fine lines used to separate different data entries, what is the graphic style of these separators?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the overall layout, where the information is densely packed to maximize space, what is the general design objective?",
+        "answer": "Concise"
+      },
+      {
+        "question": "Given the presence of a disclaimer at the bottom regarding daily values, what is the purpose of this concluding statement?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the textual content which focuses exclusively on nutritional components, what is the intended audience for this label?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Based on the high density of information across different nutrient categories, what is the implied overall informational goal of the label?",
+        "answer": "Comprehensive"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e0e69e6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the primary item depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color of the packaging or item shown?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the main product packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the primary text displayed prominently on the item's surface?",
+        "answer": "AmazonBasics"
+      },
+      {
+        "question": "What prominent graphic logo is visible on the packaging, indicating brand or certification?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What descriptive term is used to characterize the product's functionality as indicated on the packaging?",
+        "answer": "Screen"
+      },
+      {
+        "question": "What specific gaming console is mentioned in relation to this item's compatibility?",
+        "answer": "Nintendo"
+      },
+      {
+        "question": "What number model is explicitly named in relation to the product's compatibility?",
+        "answer": "3DS"
+      },
+      {
+        "question": "What type of protective covering is suggested by the product's description?",
+        "answer": "Protector"
+      },
+      {
+        "question": "What term, in a different language, is also used to describe the item's function?",
+        "answer": "Protecteur"
+      },
+      {
+        "question": "What kind of bar code or identifier appears on the presented packaging?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is visible on the lower portion of the shown packaging besides the barcode?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "What appears to be the printing style or quality of the text on the paper?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What is the quality of the paper or material shown in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What additional graphic element, circular in shape, indicates certification or approval?",
+        "answer": "Seal"
+      }
+    ]
+  }
+]

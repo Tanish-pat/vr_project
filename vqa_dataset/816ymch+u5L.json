@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the concentric circular design, what is the overall shape of each individual product shown?",
+        "question": "Considering the concentric rings and central indentation, what is the overall three-dimensional form of this item?",
         "answer": "Circular"
       },
       {
-        "question": "Focusing on the outermost ring, what dominant color is prominently displayed on the product's surface?",
+        "question": "Observing the outermost ring, what dominant color characterizes the majority of the object's surface?",
         "answer": "Black"
       },
       {
-        "question": "Observing the central disk, what color is the smaller inner circle within the larger white circle?",
-        "answer": "Grey"
+        "question": "Focusing on the inner disc, what contrasting color is prominently displayed within the central area?",
+        "answer": "White"
       },
       {
-        "question": "Analyzing the material, what seems to be the primary substance used in the construction of these products?",
+        "question": "Analyzing the material's appearance, what seems to be the primary substance used in the construction of this product?",
         "answer": "Plastic"
       },
       {
-        "question": "Based on the appearance, what is the most likely texture of the external black rings, smooth or rough?",
+        "question": "Based on the visible texture, how would you describe the surface finish of the black rings?",
         "answer": "Smooth"
       },
       {
-        "question": "Examining the central area, is the lettering on the inner circle clearly legible, or is it blurry?",
-        "answer": "Legible"
-      },
-      {
-        "question": "Considering the multiple concentric rings, how many distinct ring layers are visibly apparent on each item?",
-        "answer": "Four"
-      },
-      {
-        "question": "Considering the inner grey circle, what is the overall appearance of the single marking present in its center?",
-        "answer": "Symbol"
-      },
-      {
-        "question": "Considering the white ring, what would you describe as the visual relationship between its color and the black rings?",
-        "answer": "Contrast"
-      },
-      {
-        "question": "Examining the entire product, is the surface glossy or matte in visual appearance?",
-        "answer": "Matte"
-      },
-      {
-        "question": "In relation to the central markings, how would you characterize the size of the lettering relative to the circles' size?",
-        "answer": "Small"
-      },
-      {
-        "question": "Regarding the structure, does the image reveal whether the black rings are separate elements or a single, molded piece?",
-        "answer": "Molded"
-      },
-      {
-        "question": "With respect to functionality, what kind of object could this possibly be based on visual attributes?",
+        "question": "What appears to be the most likely function or purpose of the central, smaller circular opening?",
         "answer": "Target"
       },
       {
-        "question": "Regarding the concentric rings, what geometric pattern do these rings form relative to each other and the center?",
-        "answer": "Concentric"
+        "question": "Examining the typography within the central white disc, what is the style of the lettering in relation to the design?",
+        "answer": "Plain"
       },
       {
-        "question": "Considering the image as a whole, how would you describe the overall visual aesthetic of the pair of products?",
+        "question": "Judging from the appearance of the concentric rings, what aspect of the product's form is most emphasized?",
+        "answer": "Layers"
+      },
+      {
+        "question": "In the white inner disc, what appears to be the purpose of the smaller, central mark?",
+        "answer": "Indicator"
+      },
+      {
+        "question": "Considering the product's overall structure and design, what is the likely use case scenario?",
+        "answer": "Shooting"
+      },
+      {
+        "question": "Based on the visible image quality and clarity, what would you say about the product's condition?",
+        "answer": "New"
+      },
+      {
+        "question": "What is depicted on the white inner circle, providing a clue about the product's intended use?",
+        "answer": "Text"
+      },
+      {
+        "question": "In terms of design complexity, how would you describe this object's overall aesthetic?",
         "answer": "Simple"
+      },
+      {
+        "question": "From the image's perspective, what is the apparent overall size of this product?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the likely intended usage of the item?",
+        "answer": "Sport"
       }
     ]
   }

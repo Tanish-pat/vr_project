@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/0169ac35.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme depicted on the phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What celestial body is prominently featured in the design?",
+        "answer": "Moon"
+      },
+      {
+        "question": "What natural landscape element is reflected in the water?",
+        "answer": "Mountains"
+      },
+      {
+        "question": "What is the apparent material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall visual style of the phone case design.",
+        "answer": "Nature"
+      },
+      {
+        "question": "What is the texture of the depicted surface of the water?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what is the shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many moons are visually represented on the phone case?",
+        "answer": "Two"
+      },
+      {
+        "question": "What kind of scene is depicted in the phone case design?",
+        "answer": "Night"
+      },
+      {
+        "question": "Is the design primarily photographic or artistic in nature?",
+        "answer": "Photographic"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image suggest any specific type of lighting?",
+        "answer": "Moonlight"
+      },
+      {
+        "question": "What is the apparent color of the reflected moon in the water?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the general aesthetic of the overall design?",
+        "answer": "Serene"
+      },
+      {
+        "question": "Does the image show any visible brand markings on the phone case?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

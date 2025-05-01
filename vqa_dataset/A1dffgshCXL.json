@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/000fe85f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the floor chair's upholstery?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary texture of the chair's fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the overall shape of the foldable floor chair?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many distinct sections divide the backrest visually?",
+        "answer": "Nine"
+      },
+      {
+        "question": "What is the apparent material of the floor chair's covering?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Does the floor chair's design incorporate a pattern?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How many similarly sized sections comprise the seat cushion?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the stitching configuration, if any, is evident on the chair?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Considering its design, how would you describe its style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the chair appear to have any visible support frames?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied functionality of this floor seating?",
+        "answer": "Relaxation"
+      },
+      {
+        "question": "Describe the apparent thickness of the cushioning of the chair",
+        "answer": "Plump"
+      },
+      {
+        "question": "What is the general appearance of the seams on the backrest?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Are there any visible zippers, buttons or fasteners?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its appearance, is the chair designed to be portable?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

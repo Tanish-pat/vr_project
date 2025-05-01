@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/7375c614.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary material used for the phone case's construction?",
+        "answer": "Silicone"
+      },
+      {
+        "question": "Considering the texture, how would you describe the surface finish of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visible outline, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the phone case display any noticeable patterns or designs on its surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Observing the camera cutout, how many lenses does the phone case accommodate?",
+        "answer": "Three"
+      },
+      {
+        "question": "Judging by the image, is the case designed to provide a slim or bulky profile?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Considering the edges, does the case appear to have a raised or flush bezel?",
+        "answer": "Flush"
+      },
+      {
+        "question": "What seems to be the degree of flexibility exhibited by the phone case material?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Looking at the image, are there any visible buttons or ports integrated into the phone case?",
+        "answer": "None"
+      },
+      {
+        "question": "Analyzing the image, does the phone case suggest a soft or hard-shell design?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based solely on visual assessment, what is the general style or aesthetic of the phone case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "From the image, what appears to be the level of coverage offered by the phone case?",
+        "answer": "Full"
+      },
+      {
+        "question": "Based on the visible details, does the phone case have any noticeable branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, does the phone case's surface appear smooth or rough to the touch?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

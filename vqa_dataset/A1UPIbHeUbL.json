@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee52dc67.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the handbag shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the handbag's construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description of this handbag?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of closure mechanism is visibly present on the front of the bag?",
+        "answer": "Buckle"
+      },
+      {
+        "question": "What decorative element is attached to the side of this handbag?",
+        "answer": "Fringe"
+      },
+      {
+        "question": "What is the apparent texture of the handbag's outer material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what type of strap is attached to the handbag?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "What style of hardware is used for the bag's accents, such as the buckle?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Does the image show any visible stitching details on the bag's exterior?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, what is the overall size of the handbag; small, medium, or large?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent finish of the bag's exterior; glossy, matte, or other?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are there any noticeable patterns or designs printed on the handbag's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the style of the bag's shape, considering its proportions and curves?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Does the image show any visible brand logos or labels on the bag?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's perspective, what part of the bag is prominently featured?",
+        "answer": "Back"
+      }
+    ]
+  }
+]
