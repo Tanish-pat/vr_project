@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0b10b51f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case, as shown in the main image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the main view, what appears to be the primary material of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image's side views, what color are the accents on the case's edges?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the overall shape of the phone case as depicted in the product image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the provided image, does the case seem to have a matte or glossy finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In the main image, are there any visible patterns or designs on the phone case's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "From the multiple views, can you describe the apparent thickness of the phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What seems to be the purpose of the cutouts visible near the top of the case?",
+        "answer": "Camera"
+      },
+      {
+        "question": "Does the displayed phone case appear to completely enclose the phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the side views, how many cutouts or openings are visible?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the image detail, is the case design simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the image, does the phone case have any visible branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, does the case seem rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "From the image provided, what is the overall texture of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the provided views, how many pieces make up this case?",
+        "answer": "One"
+      }
+    ]
+  }
+]

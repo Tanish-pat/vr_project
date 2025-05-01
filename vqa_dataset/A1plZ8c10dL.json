@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/1049f785.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible upholstery?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary material appearing to constitute the sofa's covering?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the armrest's shape, what design style is suggested?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What is the overall texture of the sofa's fabric, as visually apparent?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the image, what seems to be the main seating style of the furniture?",
+        "answer": "Sofa"
+      },
+      {
+        "question": "Based on the visible stitching, what kind of construction detail is present?",
+        "answer": "Tufted"
+      },
+      {
+        "question": "Does the upholstery exhibit a visibly noticeable pattern or print?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness on the sofa's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the armrest's edge, what is the shape of its visible contour?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent visible style of the sofa's legs (partially seen)?",
+        "answer": "Tapered"
+      },
+      {
+        "question": "What is the visible form or general shape of the sofa's back support?",
+        "answer": "High"
+      },
+      {
+        "question": "From the visible portion, what is the approximate visible height of the back?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is the overall visual impression of the sofa's apparent level of formality?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Based on the image, is the visible cushioning visibly soft or firm?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What is the visible overall silhouette or shape of the pictured sofa?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]

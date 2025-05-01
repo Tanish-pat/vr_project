@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/89/8969075c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed tablet case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary material appears to constitute the tablet case?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describing its form, what is the overall shape of the protective case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering its construction, how many distinct sections compose the case?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the hinge, how does the case appear to fold or close?",
+        "answer": "Vertically"
+      },
+      {
+        "question": "What is the apparent texture of the exterior covering of this case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, does the case include any visible fasteners or closures?",
+        "answer": "No"
+      },
+      {
+        "question": "From the side profile, is there any element for holding a stylus or pen?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on its appearance, what is the apparent finish of the protective covering?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the case exhibit any discernible patterns or logos on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the edges, what is the apparent thickness of the tablet's case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What is the general style or aesthetic of this protective case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging from the visual evidence, is the case designed for a tablet or phone?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "Considering its functionality, is this a protective case, stand, or both?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Observing the images, is the overall design of the case simple or ornate?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

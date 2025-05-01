@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/05919349.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case's outer layer?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material gives the phone case its textured appearance?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What color is the phone case's protective border?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the overall shape of this protective phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of stitching is visible on the phone case's back?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What design element is present along the phone's vertical edge?",
+        "answer": "Stripe"
+      },
+      {
+        "question": "What is the apparent texture of the leather-like material?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Is the camera cutout aligned perfectly with phone's camera lens?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the case feature a raised lip or edge around the screen?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of finish does the black border appear to have?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "How many cutouts are visible for the phone's rear camera?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the overall visual style of the case's design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is the back of the case completely flat or does it have any texture?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the brown material appear to be a single solid piece or multiple panels?",
+        "answer": "Single"
+      },
+      {
+        "question": "Based on the image, is the phone case rigid or flexible?",
+        "answer": "Rigid"
+      }
+    ]
+  }
+]

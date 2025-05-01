@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the bottle's cap?",
+        "question": "What is the predominant color of the bottle cap visible in the image?",
         "answer": "Yellow"
       },
       {
-        "question": "What is the overall shape of the container holding the gummies?",
+        "question": "What appears to be the primary shape of the container holding the product?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What appears to be the primary material of the bottle?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Describe the apparent texture of the gummies visible through the bottle?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color are the majority of the visible gummies?",
+        "question": "Considering the visible portion, what seems to be the main color of the gummies?",
         "answer": "Pink"
       },
       {
-        "question": "What is the apparent shape of the individual gummies?",
+        "question": "Based on visual inspection, what material is the bottle seemingly constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, what is the general shape of the individual gummies?",
         "answer": "Round"
       },
       {
-        "question": "Considering the label, what is the suggested daily intake?",
-        "answer": "Two"
+        "question": "From the visible label, what kind of product does the bottle seem to contain?",
+        "answer": "Gummies"
       },
       {
-        "question": "Based on the visible gummies, what is a secondary color present?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the overall transparency level of the bottle?",
-        "answer": "Translucent"
-      },
-      {
-        "question": "What type of closure does the bottle appear to utilize?",
-        "answer": "Screw"
-      },
-      {
-        "question": "Does the bottle display any noticeable branding or logos?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the color of the label text against the bottle?",
+        "question": "What color is the text visible on the nutrition facts label on the bottle?",
         "answer": "Black"
       },
       {
-        "question": "Are there any visible warnings or instructions on the bottle?",
+        "question": "What is the texture of the gummies shown through the transparent bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the bottle have any noticeable markings or printing aside from the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent transparency level of the bottle containing the product?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Considering the image, are the gummies uniform in size and shape?",
         "answer": "Yes"
       },
       {
-        "question": "What is the general style of the label's typography?",
-        "answer": "Sans-serif"
+        "question": "What is the overall visual appearance of the gummy texture from this angle?",
+        "answer": "Glossy"
       },
       {
-        "question": "What is the shape of the label, relative to the bottle?",
-        "answer": "Rectangular"
+        "question": "What type of closure does the bottle have, as depicted in the provided image?",
+        "answer": "Screw-on"
+      },
+      {
+        "question": "What is the visible color of the label's background on the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, are there any visible cracks or damage on the bottle?",
+        "answer": "No"
       }
     ]
   }

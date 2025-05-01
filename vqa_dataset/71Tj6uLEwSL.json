@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5e762d6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the shoe's upper material?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary material of the shoe's construction?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Describe the overall shape of the shoe's toe area?",
+        "answer": "Pointed"
+      },
+      {
+        "question": "What type of heel does the shoe visually exhibit?",
+        "answer": "Kitten"
+      },
+      {
+        "question": "What is the apparent texture of the shoe's outer surface?",
+        "answer": "Napped"
+      },
+      {
+        "question": "What color is the visible insole or inner lining?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Does the shoe design feature any noticeable embellishments or patterns?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the shoe's silhouette, what style category does it seem to fall into?",
+        "answer": "Court"
+      },
+      {
+        "question": "What is the apparent depth of the shoe's vamp (the area covering the instep)?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "What seems to be the material of the visible heel portion?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, is the shoe primarily designed for formal or casual wear?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Does the visible portion of the shoe's sole show any distinct pattern or design?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, how high is the shoe's heel?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the shape of the shoe's back counter (the area at the heel)?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Is the visible stitching of the shoe prominent or subtle?",
+        "answer": "Subtle"
+      }
+    ]
+  }
+]
