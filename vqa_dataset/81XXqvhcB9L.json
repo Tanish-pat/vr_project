@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the main label, encompassing the brand name and product description?",
+        "question": "What is the dominant color scheme of the primary branding on the product packaging, as visibly presented?",
         "answer": "Black"
       },
       {
-        "question": "Considering the overall packaging, what is the primary shape of the product container?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What color is the central design element that features coffee leaves, and partially obscures the product description?",
+        "question": "Observing the central graphic element, what is the depicted primary color of the central graphic?",
         "answer": "Green"
       },
       {
-        "question": "What material is primarily used to construct the flexible product packaging?",
-        "answer": "Paper"
+        "question": "Considering the overall shape and form of the product's container, what is its most precise geometric descriptor?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the predominant typeface style used for the brand name 'Happy Belly', considering its visual characteristics?",
+        "question": "Based on the visual texture apparent on the product\u2019s package, what is the most likely material of the outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the principal typeface style used prominently for the brand name as shown?",
         "answer": "Sans-serif"
       },
       {
-        "question": "What is the overall texture of the outer packaging, as observed in the image?",
-        "answer": "Smooth"
+        "question": "What descriptive term accurately represents the main visual style employed in the depiction of coffee leaves?",
+        "answer": "Illustrative"
       },
       {
-        "question": "In the central green panel, what is the style of lettering used for the words 'House Blend'?",
-        "answer": "Script"
+        "question": "What is the apparent method of printing used to reproduce the coffee bean imagery on the bag?",
+        "answer": "Offset"
       },
       {
-        "question": "What kind of coffee blend is indicated on the product packaging?",
+        "question": "What single word best describes the overall visual tone or aesthetic conveyed by the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What kind of graphic illustration is visible on the package, related to the product's contents?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "Considering the product's label, what term describes the visible kind of coffee blend offered?",
         "answer": "House"
       },
       {
-        "question": "Referring to the visual elements, what type of coffee bean is specified on the product packaging?",
-        "answer": "Whole"
+        "question": "Examining the textual information presented, what adjective describes the stated roast level of the coffee?",
+        "answer": "Medium"
       },
       {
-        "question": "What is the shape of the coffee leaves illustrated in the green central panel?",
-        "answer": "Ovate"
+        "question": "Referring to the textual details, what is the indicated type of coffee bean used?",
+        "answer": "Arabica"
       },
       {
-        "question": "What certification mark is visible at the bottom of the packaging, indicating sustainable practices?",
+        "question": "What certification mark is visible, suggesting ethical or sustainable practices?",
         "answer": "Fairtrade"
       },
       {
-        "question": "What is the net weight of the product, as indicated numerically on the packaging?",
-        "answer": "12"
+        "question": "What is the single word that represents the visible brand name on the package?",
+        "answer": "Happybelly"
       },
       {
-        "question": "What is the color of the brand name 'Happy Belly', as presented on the label?",
-        "answer": "Silver"
-      },
-      {
-        "question": "What units of weight are indicated on the package, as shown after the numerical weight?",
-        "answer": "Ounces"
-      },
-      {
-        "question": "What is the roast level of the coffee, as described on the package?",
-        "answer": "Medium"
+        "question": "Disregarding the brand name, what word describes the type of coffee bean as specified on the label?",
+        "answer": "Whole"
       }
     ]
   }

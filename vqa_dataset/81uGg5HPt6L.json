@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e5de5021.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the predominant style of this shoe?",
+        "answer": "Brogue"
+      },
+      {
+        "question": "Focusing on the color scheme, what is the primary color of the shoe's upper?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the material, what appears to be the main fabric used in constructing the shoe?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Looking at the sole, what is the color of the midsole visible between the outsole and upper?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Regarding the lacing system, what type of closure mechanism is employed on this shoe?",
+        "answer": "Lace"
+      },
+      {
+        "question": "Analyzing the color distribution, what is the secondary color prominent on the shoe's toe and heel?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the texture, describe the surface pattern on the brown section of the shoe.",
+        "answer": "Perforated"
+      },
+      {
+        "question": "Regarding the construction, what type of toe cap is visible on this shoe style?",
+        "answer": "Wingtip"
+      },
+      {
+        "question": "Describing the heel, what is the approximate height of the shoe's heel?",
+        "answer": "Low"
+      },
+      {
+        "question": "Looking at the sole's construction, what is the apparent material of the outsole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Considering the shape of the toe box, what descriptive term best defines its shape?",
+        "answer": "Pointed"
+      },
+      {
+        "question": "Examining the stitching, what color is the visible stitching used on the shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "Regarding the overall aesthetic, would you classify this as a formal or casual style?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Focusing on the details, are there any visible decorative elements on the shoe?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely intended use for this style of shoe?",
+        "answer": "Dress"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c8/c826ea34.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container holding the product, as viewed from the side?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What primary color is prominently displayed on the label of the product?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the material of the product's primary container, considering its translucency and texture?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the most noticeable feature of the container's closure mechanism?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Describe the visible texture of the product container's lower section.",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Considering the container's design, what is its most probable function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the overall color of the product contained within the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of information is displayed on the label in a vertical format?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What graphic design element is incorporated into the label's design?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the shape of the container's opening, where the cap is attached?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the general color of the cap on the top of the product container?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on its size and shape, what might be the volume capacity of the container?",
+        "answer": "Large"
+      },
+      {
+        "question": "Describe the texture of the product's container in the upper section.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the bottle completely opaque or does light pass through it slightly?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What type of barcode is visible on the product's label?",
+        "answer": "UPC"
+      }
+    ]
+  }
+]
