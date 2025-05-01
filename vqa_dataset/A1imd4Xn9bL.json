@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/dba0f09a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary subject depicted in the framed artwork?",
+        "answer": "Bridge"
+      },
+      {
+        "question": "What specific bridge is represented in the artistic rendering?",
+        "answer": "Brooklyn"
+      },
+      {
+        "question": "What year is prominently displayed on the artwork's surface?",
+        "answer": "1870"
+      },
+      {
+        "question": "What is the overall color palette of the image within the frame?",
+        "answer": "Sepia"
+      },
+      {
+        "question": "What artistic style or technique is predominantly used in the image?",
+        "answer": "Sketch"
+      },
+      {
+        "question": "What material appears to be the surface of the artwork itself?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the general shape of the framed artwork?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the surface within the black frame.",
+        "answer": "Rough"
+      },
+      {
+        "question": "What color is the frame encasing the artistic print?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of architectural structure is shown in the drawing?",
+        "answer": "Suspension"
+      },
+      {
+        "question": "What appears to be the artistic medium used for the drawing?",
+        "answer": "Pencil"
+      },
+      {
+        "question": "Does the artwork include grid lines, suggesting a blueprint or plan?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual effect that suggests age or antiquity to the piece?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "What is the apparent scale of the depicted bridge structure?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the style of the frame surrounding the artwork?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

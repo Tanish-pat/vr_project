@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/49663063.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging visible on the product's primary surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the product depicted within the packaging?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What is the overall shape of the product packaging shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material that appears to constitute the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What color is the prominent text displayed on the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the predominant color of the product itself, inside the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the visual style of the text and branding on the packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there any illustrative imagery visible on the product's packaging besides text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the general nature of the graphic imagery on the product's packaging?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the apparent size of the product packaging relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the product packaging display any noticeable markings, aside from text and graphics?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual, what kind of seal or closure is visible on the package?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the overall impression of the packaging's design aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the image suggest any specific usage instructions or warnings on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual, how many sides of the package are visible in the main image?",
+        "answer": "One"
+      }
+    ]
+  }
+]

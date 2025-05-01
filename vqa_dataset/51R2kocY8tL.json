@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/ea22d871.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the dominant color scheme of the displayed text on the dark background?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the textual content, what key ingredient is prominently mentioned, suggesting the nature of the product?",
+        "answer": "Water"
+      },
+      {
+        "question": "Observing the typography, what word best captures the style of the lettering used in this product's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the text's visual characteristics, what is the apparent format of the information displayed on the label?",
+        "answer": "List"
+      },
+      {
+        "question": "Given the context and visual features, what term is most appropriate to describe the textual content's purpose on the product label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the visual features of the label, what best describes the overall arrangement or layout of the text?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "If you were to characterize the textual elements' visual impact, what word best describes their appearance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Looking at the provided image, what word describes the general form of the label's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What single word describes the visual texture of the label, suggesting its surface properties?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what adjective best describes the visual contrast between the text and the background?",
+        "answer": "High"
+      },
+      {
+        "question": "If you were to describe the visual weight of the text on the label, what word accurately reflects that?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "In terms of its visual impact, what single word best describes the style of the displayed label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the image, what word best represents the visual clarity of the text on the label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Describe the visual state of the text and background, are there any signs of damage or discoloration?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What single word best summarizes the visual impression of the label's overall design?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]
