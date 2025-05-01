@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b82af002.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall geometric shape of the largest visible shelf?",
+        "answer": "Square"
+      },
+      {
+        "question": "What primary color describes the visible wooden shelves?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What natural material appears to constitute the shelves' construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visible edges, what is the apparent texture of the wood?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, how many distinct shelf sizes are depicted?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the orientation of the depicted shelves, considering their placement?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Do the shelves exhibit a visible grain pattern in the wood?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visible profile or cross-section of each shelf.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Are there any visible decorative elements or carvings on the shelves?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish or coating on the surface of the wood?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, are the shelves assembled or are they individual components?",
+        "answer": "Individual"
+      },
+      {
+        "question": "Considering the dimensions, are the shelves designed for heavy-duty use?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the most prominent design feature of the shelves, as seen in the image?",
+        "answer": "Simplicity"
+      },
+      {
+        "question": "Does the image show any noticeable imperfections or damage on the shelves?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual details, are these shelves likely intended for indoor or outdoor use?",
+        "answer": "Indoor"
+      }
+    ]
+  }
+]

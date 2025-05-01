@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual appearance, what dominant color best describes the purse's exterior?",
+        "question": "Considering the overall visual presentation, what single word best describes the dominant color of this handbag?",
         "answer": "Beige"
       },
       {
-        "question": "Based on the image, what appears to be the primary material used in the construction of this handbag?",
+        "question": "Based on the image's visible texture and apparent material, what is the most likely material of this purse?",
         "answer": "Leather"
       },
       {
-        "question": "Judging by the visible details, what is the general shape or style of the presented handbag?",
+        "question": "Judging by the visible structural components, what is the primary shape of this handbag?",
         "answer": "Rectangular"
       },
       {
-        "question": "From the provided image, can you determine the type of closure mechanism utilized on this purse?",
+        "question": "Examining the interior compartment arrangement, what best describes the style of this bag's organization?",
+        "answer": "Compartmentalized"
+      },
+      {
+        "question": "Focusing on the closure mechanism shown, what type of fastener is visibly present on this bag?",
         "answer": "Zipper"
       },
       {
-        "question": "Observing the interior compartments, how many distinct pockets or sections are clearly visible within the purse?",
-        "answer": "Three"
-      },
-      {
-        "question": "What is the apparent texture of the outer surface of this handbag, based on the visual details?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Based on the image alone, what metal finish is visible on the hardware components of this purse?",
+        "question": "From a visual inspection of the hardware, what color are the visible metal accents on this handbag?",
         "answer": "Gold"
       },
       {
-        "question": "Examining the provided image, what design element(s) is/are prominently featured on the handbag's exterior?",
+        "question": "Observing the overall design, what best describes the general style of this handbag?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Analyzing the visible seams and stitching, what would you say is the quality of its visible construction?",
+        "answer": "Neat"
+      },
+      {
+        "question": "By observing the interior pockets, what is the apparent number of inner compartments?",
+        "answer": "Three"
+      },
+      {
+        "question": "Looking at the visible details, what design element appears on the outer part of the bag?",
         "answer": "None"
       },
       {
-        "question": "Considering the visible construction, does the handbag appear to be structured or unstructured in its form?",
-        "answer": "Structured"
-      },
-      {
-        "question": "What is the overall size of the handbag, given its appearance relative to the image frame?",
-        "answer": "Small"
-      },
-      {
-        "question": "Based on visual details, is there any noticeable pattern or print visible on the bag's exterior?",
-        "answer": "None"
-      },
-      {
-        "question": "Does the purse appear to have any visible stitching or seams that are easily noticeable?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Judging from the visible components, does this handbag appear to have a shoulder strap or handle?",
+        "question": "From the perspective provided, is there any visible branding or logo present on the bag?",
         "answer": "No"
       },
       {
-        "question": "Considering the image, what is the apparent condition of this handbag, based on visual inspection?",
+        "question": "Focusing on the material's visual properties, what texture best describes the bag's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall size and proportions, how would you categorize the handbag's size?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging from the visual presentation, what is the overall condition of the handbag?",
         "answer": "New"
       },
       {
-        "question": "Based on the visible interior, does the bag appear to have any organizational elements beyond the main compartment?",
-        "answer": "Yes"
+        "question": "Based solely on the image, what is the primary function of this item?",
+        "answer": "Carrying"
       }
     ]
   }

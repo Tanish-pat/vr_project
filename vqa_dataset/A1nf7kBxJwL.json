@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f77b025.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant pattern displayed across the textile's surface?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Describe the primary color scheme dominating the rug's visual appearance?",
+        "answer": "Green"
+      },
+      {
+        "question": "What secondary color subtly complements the dominant green hue in the striped design?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what fabric type seems to be used in this item's construction?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the overall shape of the visible section of the textile product presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual fibers, what is the implied texture of the textile?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Regarding the color saturation, how intense is the green tone in the striped pattern?",
+        "answer": "Pale"
+      },
+      {
+        "question": "What is the width variation of the parallel stripes that form the product's design?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the visual appearance, what is the presumed manufacturing method for this item?",
+        "answer": "Handwoven"
+      },
+      {
+        "question": "Judging from the image, what kind of material do the rug's fibers appear to consist of?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "How would you describe the overall visual style of the rug's pattern and color combination?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What type of edge detail is visible on the rolled-up section of the rug?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Focusing on the visible fibers, what is the general direction of the woven texture?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the color intensity variation of the beige stripes in comparison to the green stripes?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Observing the image, what seems to be the pile height of this woven textile product?",
+        "answer": "Low"
+      }
+    ]
+  }
+]
