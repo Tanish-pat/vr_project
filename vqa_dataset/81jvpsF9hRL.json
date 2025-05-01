@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18e78b0a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual texture, what is the dominant surface characteristic of the bread?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "What is the predominant color of the bread loaf, as seen in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the appearance, what seems to be the main type of bread presented?",
+        "answer": "Wholemeal"
+      },
+      {
+        "question": "Judging by the visible structure, what is the apparent form of the bread product?",
+        "answer": "Loaf"
+      },
+      {
+        "question": "What seems to be the packaging material used for the presented bread loaf?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the entire bread packaging, as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the label, what is the suggested usage of this bread?",
+        "answer": "Toast"
+      },
+      {
+        "question": "What is the evident inclusion in the bread, aside from flour, apparent from the image?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "Judging by the overall visual appearance, what is the implied condition of the bread?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Based on the label's visual presentation, what is the bread's primary ingredient?",
+        "answer": "Honey"
+      },
+      {
+        "question": "From the label, what kind of farm is this bread sourced from?",
+        "answer": "Organic"
+      },
+      {
+        "question": "From the image of the packaging, what is the brand name of this bread?",
+        "answer": "365"
+      },
+      {
+        "question": "What kind of visual style does the packaging design employ, as observed?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Given its visual texture, how would you classify the grain type visually apparent?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Judging by the image, is the bread individually sliced in its packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/71/711f7ff2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the product's label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary material of the container holding the powder?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent texture of the protein powder inside the container?",
+        "answer": "Powdery"
+      },
+      {
+        "question": "What is the shape of the container holding the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What type of protein does the label predominantly highlight?",
+        "answer": "Plant"
+      },
+      {
+        "question": "What flavor is specified on the product's label?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "What is the color of the lid on the container?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall form factor of the presented item?",
+        "answer": "Container"
+      },
+      {
+        "question": "What is the predominant text color featured on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the label's design, what kind of product is suggested?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the brand name printed prominently on the container?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "Does the packaging indicate a specific weight or measurement?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the label's graphic design style, considering its simplicity",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What kind of information does the label primarily convey?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Is there a clear indication of a probiotic presence in the blend?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b338ed71.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the jar's body?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What material appears to constitute the main jar structure?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describe the overall geometric shape of the container shown?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the lid or cap situated atop the jar?",
+        "answer": "Black"
+      },
+      {
+        "question": "What seems to be the apparent material composing the jar's lid?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Is there any noticeable label or sticker affixed to the jar?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general shape of the label on the jar's body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the glass jar's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the jar appear to have any noticeable decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the lid's fit, is it designed for airtight sealing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the printing or text on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the image, what is the approximate size of the jar?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the jar's body exhibit any visible imperfections or flaws?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the jar's base noticeably flat or does it have a curve?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on the visual, is this container designed for single or repeated use?",
+        "answer": "Reusable"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f1462636.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible portion of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this item?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "Describing the texture of the wide band, is it smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What type of fastener is visible on the product for adjustment?",
+        "answer": "Hook"
+      },
+      {
+        "question": "Based on the visible label, what is the indicated size of the item?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visible text on the label, excluding the size?",
+        "answer": "China"
+      },
+      {
+        "question": "What is the overall shape of the padded section of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible portion, what is the apparent construction method of the main body?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Does the product show evidence of any reflective elements or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general style of the fastening mechanism, given its appearance?",
+        "answer": "Strap"
+      },
+      {
+        "question": "Considering its structure, is the item flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the visible material seem to possess a high or low gloss finish?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the visible finish of the padding component?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by its appearance, is the item intended for protection or adornment?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the visible form of the label attached to the item?",
+        "answer": "Woven"
+      }
+    ]
+  }
+]

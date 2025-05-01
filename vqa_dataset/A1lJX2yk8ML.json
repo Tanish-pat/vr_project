@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/644abe46.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the chair's fabric?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of the chair's upholstery?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describe the overall shape or silhouette of this piece of furniture?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Considering the fabric, what is the apparent texture of the chair's covering?",
+        "answer": "Woven"
+      },
+      {
+        "question": "How many visible cushions or pillows are integrated into the chair's design?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the chair exhibit a noticeable pattern on its fabric surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the chair's design contemporary or traditional?",
+        "answer": "Contemporary"
+      },
+      {
+        "question": "What is the apparent style of the armrests on this upholstered chair?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Based on the image, is the chair's back noticeably high or low?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the apparent depth of the seat cushion in relation to the overall size?",
+        "answer": "Deep"
+      },
+      {
+        "question": "What is the general level of visual detail or embellishment on the chair?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Does the chair appear to have a loose or tailored fit of the upholstery?",
+        "answer": "Loose"
+      },
+      {
+        "question": "From the side view, how would you describe the chair's overall height compared to its width?",
+        "answer": "Similar"
+      },
+      {
+        "question": "What type of seams or stitching is most prominently visible on the chair's fabric?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Judging from the image, what seems to be the chair's primary function?",
+        "answer": "Seating"
+      }
+    ]
+  }
+]

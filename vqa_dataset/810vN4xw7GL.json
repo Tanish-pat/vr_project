@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f4/f4bf9eea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the cylindrical container's label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary shape of the food product's packaging?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the main body of the container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the label's design, what is the apparent style of the product's branding?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What kind of text is prominently displayed on the label, providing product details?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Describe the texture implied by the label's design and illustrations?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What kind of graphic elements are used in the container's label design?",
+        "answer": "Botanical"
+      },
+      {
+        "question": "Based on the label's design, what is the product's likely culinary category?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the color of the smaller text on the nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall visual impression conveyed by the container's design?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the general style of font used for the primary text on the label?",
+        "answer": "Script"
+      },
+      {
+        "question": "What kind of information is printed at the bottom of the label?",
+        "answer": "Certifications"
+      },
+      {
+        "question": "What color are the smaller illustrations on the container's label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What type of seal or mark is visible near the bottom of the label?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "What is the shape of the nutritional information panel on the container?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]
