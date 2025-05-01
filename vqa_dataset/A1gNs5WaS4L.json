@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/dafb9ad8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rug's main field?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the color of the prominent design elements that appear to form a geometric pattern?",
+        "answer": "White"
+      },
+      {
+        "question": "What textile material appears to be the primary construction material of the rug?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Describe the overall texture of the rug; is it smooth, rough, or something else?",
+        "answer": "Shaggy"
+      },
+      {
+        "question": "What geometric pattern is formed by the lighter colored lines across the darker background?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "Considering the rug's surface, would you describe its pile as short or long?",
+        "answer": "Long"
+      },
+      {
+        "question": "Is the pile of the rug thick, thin, or of an intermediate thickness?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Describe the visual impression given by the rug's surface regarding softness, in reference to visual cues only?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the design across the rug appear to be randomly placed, or in a structured manner?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Is the pattern on the rug densely placed or sparsely distributed?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the rug show a high degree of variation in color and tone throughout its design?",
+        "answer": "Low"
+      },
+      {
+        "question": "In regard to clarity, how distinct is the boundary between the different colored regions on the rug?",
+        "answer": "Distinct"
+      },
+      {
+        "question": "Considering the image solely, how would you describe the overall style of the rug's design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Based on what is visible, can you discern any noticeable fraying or damage to the rug's edges?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the rug's surface, is there a high degree of visible variation or a consistent tone across the image?",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

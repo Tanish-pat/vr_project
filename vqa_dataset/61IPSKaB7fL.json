@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f8be6c57.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What type of insect is prominently featured on the phone case?",
+        "answer": "Butterfly"
+      },
+      {
+        "question": "What is the primary color of the butterfly depicted on the case?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What inspirational phrase is printed on the phone case?",
+        "answer": "Dreams"
+      },
+      {
+        "question": "Describe the overall shape of the phone case in relation to the phone?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the phone case's outer layer?",
+        "answer": "Hard"
+      },
+      {
+        "question": "What secondary color accents the butterfly's wings?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What design element surrounds the butterfly on the case?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What type of protective layer is indicated by the metadata?",
+        "answer": "Hybrid"
+      },
+      {
+        "question": "What additional material is mentioned in the phone case's metadata?",
+        "answer": "TPU"
+      },
+      {
+        "question": "What is the text font style on the phone case?",
+        "answer": "Script"
+      },
+      {
+        "question": "What is the general texture of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What brand logo is visible on the phone shown?",
+        "answer": "Samsung"
+      },
+      {
+        "question": "What color is the phone shown partially behind the case?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Besides the butterfly and text, what other design element is subtly present?",
+        "answer": "Flowers"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/aa/aaa78566.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main cleaning head?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the majority of the cleaning head?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the overall shape of the cleaning head, disregarding the handle?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What color is the visible portion of the handle?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the handle, what is the overall shape of the cleaning tool?",
+        "answer": "Elongated"
+      },
+      {
+        "question": "What seems to be the texture of the cleaning head?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the apparent material of the handle, excluding the end cap.",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What small feature is visible at the very bottom of the handle?",
+        "answer": "Loop"
+      },
+      {
+        "question": "What color is the small detail at the end of the handle?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent purpose of the many fibers composing the cleaning head?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "Describe the visual density of the fibers in the cleaning head?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Is there any visible pattern or design on the cleaning head?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general form of the tool, considering head and handle?",
+        "answer": "Tool"
+      },
+      {
+        "question": "Does the handle appear to have any significant textural features?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What could the loop at the bottom of the handle be used for?",
+        "answer": "Hanging"
+      }
+    ]
+  }
+]

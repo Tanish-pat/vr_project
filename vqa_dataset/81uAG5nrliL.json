@@ -1,0 +1,65 @@
+[
+  {
+    "path": "images/small/2d/2d2b1551.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the outer packaging, judging by its visible surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material is the predominant outer packaging constructed from, based on visual inspection?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the visible seams and construction, what is the three-dimensional form of the primary packaging?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Observing the printing on the box, what brand is prominently displayed on the outer packaging?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Based on the visible text, what is the product type contained within the packaging?",
+        "answer": "Poly"
+      },
+      {
+        "question": "Considering the tape's visual characteristics, what color is the sealing tape applied to the box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Judging by its appearance, what seems to be the texture of the outer packaging's surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the overall condition of the box, considering its visible state of wear and tear?",
+        "answer": "New"
+      },
+      {
+        "question": "From the label, what type of bag is contained inside the box?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the size and labeling, what is the approximate quantity of items inside?",
+        "answer": "Bulk"
+      },
+      {
+        "question": "Judging by the print style and clarity, what is the overall design of the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the orientation of the box in the image ?",
+        "answer": "Upright"
+      },
+      {
+        "question": "What is the predominant printing method on the box?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the box appear sealed or open?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

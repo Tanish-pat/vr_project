@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the depicted drink on the phone case?",
+        "question": "What is the predominant color scheme depicted on the phone case's design?",
         "answer": "Red"
       },
       {
-        "question": "What type of fruit is prominently featured near the bottom of the phone case design?",
+        "question": "What type of fruit is prominently featured at the top of the phone case design?",
         "answer": "Raspberries"
       },
       {
-        "question": "What kind of fruit is clustered near the raspberries on the phone case?",
+        "question": "What kind of berries are visible near the bottom of the phone case's image?",
         "answer": "Blueberries"
       },
       {
-        "question": "What appears to be the primary beverage depicted on the phone case?",
-        "answer": "Juice"
+        "question": "What appears to be the main beverage showcased on the phone case's design?",
+        "answer": "Cocktail"
       },
       {
-        "question": "What is the apparent texture of the ice cubes in the drink on the phone case?",
-        "answer": "Iced"
+        "question": "What is the overall shape of the item being sold in this e-commerce listing?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the shape of the container holding the drink on the phone case?",
-        "answer": "Glass"
-      },
-      {
-        "question": "What seems to be the material of the phone case itself?",
+        "question": "What is the apparent material of this item, based on its visual appearance?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall design style of the phone case's image?",
+        "question": "What is the general design style of the phone case's image?",
         "answer": "Photorealistic"
       },
       {
-        "question": "What additional element is depicted with the drink and berries on the case?",
-        "answer": "Rosemary"
+        "question": "Besides raspberries and blueberries, what other visual elements are present?",
+        "answer": "Ice"
       },
       {
-        "question": "What is the general condition of the fruits displayed on the case?",
-        "answer": "Fresh"
+        "question": "What seems to be the texture of the drink depicted on the phone case?",
+        "answer": "Iced"
       },
       {
-        "question": "Describe the visual clarity of the printed image on the phone case.",
-        "answer": "Sharp"
+        "question": "Considering the product type, what is the primary function of the item being sold?",
+        "answer": "Protection"
       },
       {
-        "question": "What is the apparent level of detail in the phone case's design?",
+        "question": "What color is the small band visible near the bottom of the phone case?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the level of detail in the depiction of the fruits and drink?",
         "answer": "High"
       },
       {
-        "question": "How many raspberries are clearly visible near the bottom of the case?",
-        "answer": "Two"
+        "question": "What is the apparent finish or coating of the phone case's surface?",
+        "answer": "Glossy"
       },
       {
-        "question": "What seems to be the general lighting style of the image on the phone case?",
-        "answer": "Bright"
+        "question": "What is the general visual style of the product\u2019s design, based on its photographic style?",
+        "answer": "Closeup"
       },
       {
-        "question": "What is the apparent color of the phone case's border?",
-        "answer": "Gold"
+        "question": "Does the phone case design include any noticeable text or logos?",
+        "answer": "No"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the leather upper on these slip-on shoes?",
+        "question": "What is the dominant color of the leather upper visible on these slip-on shoes?",
         "answer": "Brown"
       },
       {
-        "question": "Describe the design element on the side of the shoe's vamp.",
-        "answer": "Floral"
-      },
-      {
-        "question": "What is the material primarily used for the construction of the shoe's body?",
-        "answer": "Leather"
-      },
-      {
-        "question": "What type of footwear is depicted in this image, considering its low-cut design and lack of laces?",
+        "question": "What type of footwear is depicted in this product image, characterized by its slip-on design and low profile?",
         "answer": "Loafers"
       },
       {
-        "question": "What color is the contrasting design element embroidered onto the shoe's side?",
-        "answer": "Black"
-      },
-      {
-        "question": "Characterize the overall shape of the toe of these dress shoes?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "Considering the smooth surface, what is the apparent texture of the leather?",
+        "question": "Describe the visual texture of the leather material primarily used in the construction of the shoe upper.",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the sole's color that is visible from the side view in the image?",
+        "question": "What is the color of the decorative design element subtly embossed on the shoe's vamp?",
         "answer": "Black"
       },
       {
-        "question": "What is the primary method of closure for this style of footwear shown?",
-        "answer": "Slip-on"
+        "question": "What design pattern is visible on the vamp of the shoe, adding a touch of embellishment?",
+        "answer": "Floral"
       },
       {
-        "question": "Considering its design, what would be the likely occasion to wear these shoes?",
-        "answer": "Formal"
+        "question": "Considering the overall shape, what is the type of toe on the shoe displayed in the image?",
+        "answer": "Round"
       },
       {
-        "question": "What is the visible material that comprises the shoe's sole?",
+        "question": "What material seems to constitute the sole of the shoe, providing grip and durability?",
         "answer": "Rubber"
       },
       {
-        "question": "What is the apparent finish of the leather used in the creation of these shoes?",
+        "question": "What is the apparent finish of the leather upper, suggesting a polished or matte effect?",
         "answer": "Glossy"
       },
       {
-        "question": "Considering the footwear's style, what is its likely intended gender?",
-        "answer": "Male"
+        "question": "Based on its structure, what is the closure mechanism of the shoe depicted in the image?",
+        "answer": "Slip-on"
       },
       {
-        "question": "How would you describe the height of the heel on these particular shoes?",
+        "question": "What is the overall style of the shoes portrayed, referencing formal, casual, or other categorizations?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Judging by the image, what appears to be the construction method of the shoe's upper?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "What seems to be the height of the heel, indicating a flat, low, or high heel?",
         "answer": "Low"
       },
       {
-        "question": "Describe the overall style of these leather shoes, considering the design and color",
-        "answer": "Classic"
+        "question": "What is the general shape or form of the heel of the shoe displayed?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What is the apparent thickness of the sole, suggesting lightweight or substantial construction?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What seems to be the material of the inner lining, considering the visual cues from the image?",
+        "answer": "Leather"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbdfead7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed text visible in the image, what primary ingredient is explicitly listed first?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "Based on the image's visible text, what type of chocolate pieces are mentioned as an ingredient?",
+        "answer": "Semi-sweet"
+      },
+      {
+        "question": "According to the image's text, what other nut besides almonds is explicitly listed as an ingredient?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "What dried fruit, clearly specified in the image's text, is included as an ingredient?",
+        "answer": "Cranberries"
+      },
+      {
+        "question": "Does the image's text list another type of dried fruit besides cranberries as an ingredient?",
+        "answer": "Cherries"
+      },
+      {
+        "question": "What oil is explicitly mentioned multiple times within the ingredient list shown in the image?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "Judging from the text visible in the image, what is one additional ingredient besides nuts and fruit?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Based on the text shown in the image, what is listed as a potential allergen in the product?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What ingredient, mentioned in the image's text, is a common chocolate additive?",
+        "answer": "Lecithin"
+      },
+      {
+        "question": "As indicated in the image's text, what other nut is listed along with cashews and almonds?",
+        "answer": "Pistachios"
+      },
+      {
+        "question": "Based on the text shown, what additional ingredient is listed in the product, often used to enhance flavor?",
+        "answer": "Flavor"
+      },
+      {
+        "question": "According to the text, what type of cherries are used in this product shown in the image?",
+        "answer": "Tart"
+      },
+      {
+        "question": "What seasoning, listed in the image's text, enhances the flavor profile?",
+        "answer": "Salt"
+      },
+      {
+        "question": "As shown in the visible text, what is the state of the cranberries used in this product?",
+        "answer": "Dried"
+      },
+      {
+        "question": "Based on the image, what is the format of the provided information regarding the product composition?",
+        "answer": "List"
+      }
+    ]
+  }
+]

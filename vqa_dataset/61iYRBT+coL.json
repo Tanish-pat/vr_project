@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f1bcbde2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant metallic sheen observed on the cookware's surface?",
+        "answer": "Stainless"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes each pot?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describe the handles' curvature and their attachment to the cookware body.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What type of lid is present on top of each cooking pot?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Identify the primary material used in the construction of these pots and pans.",
+        "answer": "Steel"
+      },
+      {
+        "question": "What is the most apparent visual feature of the knobs on the pot lids?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Focusing on the base of the pots, what is their apparent shape?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the entire set, what is the arrangement of the cookware?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Describe the visual texture of the outer surface of the pots.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall color palette of this cookware set?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What kind of design element is noticeable on each of the pot's handles?",
+        "answer": "Loops"
+      },
+      {
+        "question": "How many individual cooking pots are included in this ensemble?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the visual impression of the pots' surface finish?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Describe the style of the handles attached to the cookware.",
+        "answer": "Side"
+      },
+      {
+        "question": "Considering the size variation, what is the apparent relationship between the pots?",
+        "answer": "Nested"
+      }
+    ]
+  }
+]

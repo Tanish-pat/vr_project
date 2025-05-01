@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa8ee3de.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the pet garment shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What specific animal's features are represented in the garment's design?",
+        "answer": "Cat"
+      },
+      {
+        "question": "What material appears to compose the primary body of the pet garment?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "What is the overall shape or silhouette of the complete pet garment?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Judging by the image, what texture does the garment's material seem to possess?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What color are the small features appended to the garment's back?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the approximate length of the garment, from top to bottom?",
+        "answer": "60cm"
+      },
+      {
+        "question": "What is the approximate width of the garment at its widest point?",
+        "answer": "58cm"
+      },
+      {
+        "question": "What additional appendage is visible at the garment's lower edge?",
+        "answer": "Tail"
+      },
+      {
+        "question": "Does the garment appear to have any explicit patterns or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the garment's likely function or purpose?",
+        "answer": "Clothing"
+      },
+      {
+        "question": "Is there any visible fastening mechanism on the garment?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the garment's apparent condition?",
+        "answer": "New"
+      },
+      {
+        "question": "What type of pet is this garment seemingly designed for?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent overall style of the garment, based purely on visuals?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

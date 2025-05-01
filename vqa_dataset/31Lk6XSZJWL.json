@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the larger spray bottle?",
+        "question": "What is the predominant color of the larger bottle, as shown in the provided image?",
         "answer": "Blue"
       },
       {
-        "question": "What material appears to constitute the spray bottle?",
+        "question": "Considering the image, what material appears to constitute the spray bottle?",
         "answer": "Plastic"
       },
       {
-        "question": "What color is the trigger mechanism on the spray bottle?",
-        "answer": "Red"
-      },
-      {
-        "question": "What is the overall shape of the main cleaning product container?",
+        "question": "Based on the image, what is the overall shape of the main cleaning solution container?",
         "answer": "Cylindrical"
       },
       {
-        "question": "Describe the texture of the smaller container's surface.",
-        "answer": "Smooth"
+        "question": "What color is the spray nozzle atop the larger bottle, as depicted in the product image?",
+        "answer": "Red"
       },
       {
-        "question": "What type of dispensing mechanism is attached to the bottle?",
+        "question": "From the image, what seems to be the dispensing mechanism affixed to the bottle?",
         "answer": "Sprayer"
       },
       {
-        "question": "What is the apparent size comparison between the two containers?",
-        "answer": "Different"
+        "question": "Judging from the visual, what is the apparent texture of the larger bottle's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the general shape of the smaller container?",
-        "answer": "Round"
+        "question": "What is the visible shape of the smaller accompanying container, as shown?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "Is there any visible labeling on the larger bottle?",
-        "answer": "Yes"
+        "question": "What seems to be the material of the smaller secondary container provided?",
+        "answer": "Plastic"
       },
       {
-        "question": "What color is the cap on the smaller container?",
+        "question": "What is the approximate size ratio between the larger and smaller containers?",
+        "answer": "Large"
+      },
+      {
+        "question": "Describe the apparent color of the smaller container shown alongside the larger one.",
         "answer": "White"
       },
       {
-        "question": "Does the larger container have a noticeable neck?",
+        "question": "Does the larger bottle in the image have any noticeable labels or text?",
         "answer": "Yes"
       },
       {
-        "question": "What appears to be the contents of both containers?",
-        "answer": "Liquid"
+        "question": "Based on the visual, does the larger bottle seem to be transparent or opaque?",
+        "answer": "Translucent"
       },
       {
-        "question": "Judging by its features, what is the probable function of the larger bottle?",
-        "answer": "Cleaning"
+        "question": "Judging by the image, is there any visible text or branding on the smaller container?",
+        "answer": "No"
       },
       {
-        "question": "Describe the overall condition of both containers in the image.",
+        "question": "What is the apparent condition of the spray bottle shown in the image?",
         "answer": "New"
       },
       {
-        "question": "What is the apparent material of the smaller container?",
-        "answer": "Plastic"
+        "question": "From the picture, what is the general style of the product packaging?",
+        "answer": "Simple"
       }
     ]
   }

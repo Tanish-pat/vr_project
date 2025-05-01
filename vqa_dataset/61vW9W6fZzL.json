@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e8870e92.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frames' outer border?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material composing these frames?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall shape of each individual frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what is the texture of the frames' visible surfaces?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many picture frames are presented in the product image?",
+        "answer": "Three"
+      },
+      {
+        "question": "Focusing on the largest frame, what are its inner dimensions (in inches)?",
+        "answer": "6x8"
+      },
+      {
+        "question": "What size are the two smaller frames, expressed in inches?",
+        "answer": "4x6"
+      },
+      {
+        "question": "Is there any visible pattern or design on the frames' surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visible edges, what kind of frame design is present?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What seems to be the style or aesthetic of the frames shown?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Do the frames appear to have any visible embellishments or ornamentation?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, are the frames matted or unmatted?",
+        "answer": "Unmatted"
+      },
+      {
+        "question": "What is the apparent finish or coating on the picture frames?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the width of the frames' visible border, relatively speaking?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Based solely on the image, what is the frames' apparent orientation?",
+        "answer": "Portrait"
+      }
+    ]
+  }
+]

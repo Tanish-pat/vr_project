@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/020633e1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the patterned necktie shown in the image, considering its overall appearance?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the shape of the necktie illustrated in the provided image?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What discernible pattern is visibly present across the surface of the necktie?",
+        "answer": "Spotted"
+      },
+      {
+        "question": "Considering the visual texture, what would you describe the material of this necktie as?",
+        "answer": "Silk"
+      },
+      {
+        "question": "What secondary, fainter color is visible within the necktie's pattern design?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what is the style of the necktie's overall design?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the arrangement of the smaller repeating elements in the necktie's pattern?",
+        "answer": "Scattered"
+      },
+      {
+        "question": "What appears to be the general texture of the necktie's fabric, judging by visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the tie's structure, what is the visible construction style?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the visible nature of the texture of this necktie fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the apparent finish or sheen of the necktie's material shown in the image?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the overall image, is the tie design predominantly geometric or organic?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What type of pattern is observed within the main pattern of the displayed necktie?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the density of the smaller elements within the necktie's pattern design.",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is the visible length of the necktie as depicted in the image?",
+        "answer": "Long"
+      }
+    ]
+  }
+]
