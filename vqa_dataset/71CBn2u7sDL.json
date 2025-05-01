@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted on the phone case's primary surface?",
+        "question": "What is the dominant color scheme visually displayed on the phone case?",
         "answer": "Purple"
       },
       {
-        "question": "Considering the overall design, what natural feature is primarily represented on the phone case?",
+        "question": "Considering the image, what natural formation is depicted on the phone's protective cover?",
         "answer": "Canyon"
       },
       {
-        "question": "Based on the visual texture, what kind of material does the phone case appear to be made of?",
+        "question": "What appears to be the primary material used for manufacturing this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the general shape of the product being shown in the image provided?",
+        "question": "Based on the image, what is the overall shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Focusing on the image, what is the primary visual element on the back side of the case?",
-        "answer": "Swirls"
+        "question": "Does the phone case design show any noticeable texture or pattern?",
+        "answer": "Swirling"
       },
       {
-        "question": "What kind of finish does the surface of the phone case seem to have?",
+        "question": "Judging by the image, what kind of finish does the phone case seem to have?",
         "answer": "Matte"
       },
       {
-        "question": "Observing the image, what is the overall style of the phone case's design?",
-        "answer": "Abstract"
+        "question": "What is the primary design element featured prominently on the phone case?",
+        "answer": "Image"
       },
       {
-        "question": "What color is predominantly shown in the rock formations illustrated on the phone case?",
-        "answer": "Purple"
+        "question": "Observing the image, what specific type of image is printed on the phone case?",
+        "answer": "Landscape"
       },
       {
-        "question": "Judging from the image, are there any noticeable textures on the phone case?",
-        "answer": "Yes"
+        "question": "What seems to be the visual effect created by the color gradation on the case?",
+        "answer": "Depth"
       },
       {
-        "question": "Is there a camera opening visible on the phone case, and if so, is it circular?",
-        "answer": "Yes"
+        "question": "Does the image suggest any discernible light reflection on the phone case's surface?",
+        "answer": "None"
       },
       {
-        "question": "What appears to be the printing method used for the design on the phone case?",
-        "answer": "Digital"
+        "question": "Based on the visual, how many sides of the phone case are shown in the product image?",
+        "answer": "Three"
       },
       {
-        "question": "Based on the sides' appearance, how thick is this phone case visually?",
-        "answer": "Slim"
-      },
-      {
-        "question": "What is the level of visual detail in the depiction of the rock formation?",
+        "question": "What is the apparent level of detail or resolution of the printed image?",
         "answer": "High"
       },
       {
-        "question": "Considering the color palette, what feeling does the phone case evoke?",
-        "answer": "Serene"
+        "question": "Judging solely from the image, what is the implied printing technique used?",
+        "answer": "Digital"
       },
       {
-        "question": "Does the image show any visible branding or logos on the phone case?",
+        "question": "Does the phone case show any visible branding or logos?",
         "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the phone case design?",
+        "answer": "Natural"
       }
     ]
   }

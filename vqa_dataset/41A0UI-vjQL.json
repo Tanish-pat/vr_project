@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a2ba9b57.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted USB-C cable, as visibly observed in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image's detail, what specific type of connector is prominently featured at one end of the cable?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "Based on visual inspection, what material appears to constitute the cable's outer sheath?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What brand name is clearly printed on the cable's surface, as directly observable in the image?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Judging by the image's clarity, what is the overall shape of the cable, excluding its connector?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the surface finish of the cable's casing?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the provided image, what seems to be the approximate length of the visible portion of the cable?",
+        "answer": "Short"
+      },
+      {
+        "question": "Based solely on visual evidence, what is the apparent flexibility of the cable, as suggested by its form?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the apparent condition of the cable, as evident from the provided close-up image?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent overall quality of the visible cable, based solely on the provided image?",
+        "answer": "Good"
+      },
+      {
+        "question": "What is the dominant design element seen on the cable's surface, as clearly visible in the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the provided image show any visible signs of damage or wear on the cable?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its appearance in the image, would you characterize the cable's aesthetic as minimalist or elaborate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, what is the most prominent feature of the USB-C connector?",
+        "answer": "Pins"
+      },
+      {
+        "question": "What seems to be the most obvious use of this item, based on visual inspection?",
+        "answer": "Charging"
+      }
+    ]
+  }
+]

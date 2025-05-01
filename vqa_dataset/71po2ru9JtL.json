@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/71/71d7dab4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's main body, as visually observed?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description of the bottle?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the majority of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent surface finish of the bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the primary textual information and labeling on the bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the rectangular informational panel on the bottle?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of closure is visibly present at the top of the container?",
+        "answer": "Snap-on"
+      },
+      {
+        "question": "Is there any visible indication of recycling symbols or markings on the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the general visual style of the product's labeling and design elements.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the shape of the cap or closure on the top of the bottle?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the bottle's design incorporate any noticeable ridges, grooves, or indentations?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the primary function of the bottle, considering its shape and labeling?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What is the apparent size of the text printed on the product packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the visual format of the barcode that is printed on the bottle?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the appearance, is the bottle transparent or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

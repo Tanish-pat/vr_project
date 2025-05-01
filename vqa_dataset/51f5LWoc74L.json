@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/68/68272157.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the phone case shown in the image?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Considering the material, what is the apparent texture of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the protective phone case displayed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many camera lens cutouts are visible on the phone case?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the image, what material seems to compose the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the camera cutouts, what is the apparent design feature around them?",
+        "answer": "Raised"
+      },
+      {
+        "question": "Does the case appear to fully cover the sides of the phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent level of thickness or slimness of this case?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by its visual appearance, is the case rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the visible design around the fingerprint sensor cutout?",
+        "answer": "Flush"
+      },
+      {
+        "question": "Based on the image, does the case have any noticeable patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible color of the phone case\u2019s interior side?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Can you describe the apparent finish of the phone case surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the lip around the camera, is it subtle or prominent?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Judging from the picture, what is the apparent fit of the case to the phone?",
+        "answer": "Snug"
+      }
+    ]
+  }
+]
