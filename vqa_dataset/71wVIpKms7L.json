@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d9/d9df4664.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and dispensing mechanism, what is the primary function of this product container?",
+        "answer": "Dispenser"
+      },
+      {
+        "question": "What is the most prominent color displayed on the product's label, used extensively in the design?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the label, what specific type of product is contained within the bottle?",
+        "answer": "Lotion"
+      },
+      {
+        "question": "Examining the image, what is the predominant material used for the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the bottle containing the product, considering its profile and dimensions?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the color of the bear illustration featured prominently on the label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the texture implied by the visual appearance of the lotion in the bottle?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What is the color of the pump mechanism located on the top of the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the illustrated bear on the label?",
+        "answer": "Sitting"
+      },
+      {
+        "question": "What is the color of the prominent text indicating the product's name?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the implied age range of the target consumer based on the imagery and text?",
+        "answer": "Baby"
+      },
+      {
+        "question": "What secondary color is used in the brand logo, aside from the predominant green?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What specific scent is prominently highlighted on the product label?",
+        "answer": "Lavender"
+      },
+      {
+        "question": "What is depicted next to the bear illustration, suggesting a natural ingredient?",
+        "answer": "Honeycomb"
+      },
+      {
+        "question": "What is the brand name visible on the label, prominently displayed?",
+        "answer": "365"
+      }
+    ]
+  }
+]
