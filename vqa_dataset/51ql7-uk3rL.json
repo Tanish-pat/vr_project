@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4a86c502.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the main surface area of the presented item?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the pictured object?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the edges, what can be inferred about the overall form or shape of the shown product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the color of the thin border encircling the main body of the displayed item.",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the apparent texture of the main surface of the object, judging from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of fasteners or clips are visible along the perimeter of the product?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the visible components, what is the likely function of the small, dark-colored pieces?",
+        "answer": "Fasteners"
+      },
+      {
+        "question": "What is the apparent thickness of the grey border relative to the main beige section?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by the image, how many visible fasteners are present on the displayed item?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the apparent overall condition of the displayed item, based on the image provided?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the material and construction, what is the most likely use for this object?",
+        "answer": "Mounting"
+      },
+      {
+        "question": "Describe the color of the visible fasteners securing the edges of the object.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent number of layers visible in the cross-section shown in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the image, what could this item potentially be used for, considering its material?",
+        "answer": "Backing"
+      },
+      {
+        "question": "Describe the shape of the individual fasteners seen on the object's outer edge.",
+        "answer": "Curved"
+      }
+    ]
+  }
+]
