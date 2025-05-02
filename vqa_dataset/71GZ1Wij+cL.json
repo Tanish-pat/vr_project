@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/54/548812e4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's body, as shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used in the bottle's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual representation, what is the overall shape of the container shown?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging from the provided image, what kind of surface texture does the bottle seem to possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image carefully, what is the apparent finish of the bottle's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the image show any noticeable markings or text on the underside of the bottle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent color of the markings or text visible on the bottle's base in the picture?",
+        "answer": "White"
+      },
+      {
+        "question": "From the image, is there a noticeable indented feature near the bottle's central bottom?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Can you visually identify the presence of any clear indicators suggesting the bottle's closure type?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual evidence, what is the apparent level of transparency of the bottle?",
+        "answer": "Low"
+      },
+      {
+        "question": "Analyzing the image, describe the overall appearance of the bottle's base.",
+        "answer": "Concave"
+      },
+      {
+        "question": "From the image alone, what is the visible thickness of the bottle's base?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Is there a discernible pattern visible on the outer surface of the bottle shown in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of printing technique seems to be utilized for the bottom text on the bottle shown?",
+        "answer": "Inked"
+      },
+      {
+        "question": "Does the image reveal any signs of damage or significant wear on the bottle?",
+        "answer": "No"
+      }
+    ]
+  }
+]

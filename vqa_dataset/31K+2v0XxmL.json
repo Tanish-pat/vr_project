@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f84ca367.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cheese shreds visible through the bag?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material is the primary packaging of the cheese blend?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible texture, what is the form of the cheese inside?",
+        "answer": "Shredded"
+      },
+      {
+        "question": "What is the primary color of the product's packaging label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the label, what type of cheese blend is this?",
+        "answer": "Mexican"
+      },
+      {
+        "question": "What does the packaging describe the cheese as?",
+        "answer": "Blend"
+      },
+      {
+        "question": "How many cheese types are mentioned in the product description?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the visible texture of the plastic packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the overall appearance of the cheese shreds in the bag",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the orientation of the product packaging in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What seems to be the method of sealing the flexible pouch?",
+        "answer": "Heat-sealed"
+      },
+      {
+        "question": "What kind of text is predominantly used on the package label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering its visual characteristics, is this a hard or soft cheese?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent state of the cheese blend within its packaging?",
+        "answer": "Dry"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/227238f0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rectangular textile item displayed, as perceived from its surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the most apparent tactile characteristic of the fabric depicted?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible folds and drape, what is the most likely material composition of the sheet?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Judging by the overall form and dimensions, what type of bedding is this item most likely to be?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "From the image, what is the observed shape of the presented textile product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the presented textile product show any visible patterns or designs on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible edges and seams, what is the apparent finish of the sheet's hem?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Given the visual appearance, how would you describe the overall visual weight or density of the fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the fabric's surface in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the lack of visual imperfections, what is the observed condition of the displayed product?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on its visual characteristics, what would you say about the thickness of this sheet?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the visible folds, what is the inferred level of drape or flexibility of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent state of the sheet - is it creased, crumpled, or otherwise not smooth?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Observing the image, are there visible stitching details or manufacturing marks?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the displayed sheet show any signs of discoloration or fading from its original color?",
+        "answer": "No"
+      }
+    ]
+  }
+]

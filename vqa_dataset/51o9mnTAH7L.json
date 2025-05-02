@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/85/858ccbf7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the food storage container's lid?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary material appearing to constitute the container body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the presented food storage container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the printed volume capacity indicator on the container?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the text displayed indicating the container's volume capacity?",
+        "answer": "900ML"
+      },
+      {
+        "question": "What is the apparent texture of the primary material of the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, is the container transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Describe the design of the lid in relation to the container body.",
+        "answer": "Fitted"
+      },
+      {
+        "question": "Based on the visual, what type of closure mechanism is used on the container?",
+        "answer": "Lid"
+      },
+      {
+        "question": "Does the container exhibit any visible surface markings beyond the volume label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the container in the provided image?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging by the image, what is the main function of this object?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the general style of this storage container?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image show any noticeable damage on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the container shown in an assembled or disassembled state?",
+        "answer": "Assembled"
+      }
+    ]
+  }
+]

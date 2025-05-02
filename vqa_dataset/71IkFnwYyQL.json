@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/46/46e049b0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometric shape of the presented object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary color most prominently defines the visible surface of this item?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the most likely material used in the object's construction?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Observing the surface, what is the most apparent textural quality of the presented object?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the provided image, what is the most noticeable characteristic of the object's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the most prominent visible feature indicating the object's method of binding or closure?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the visible structure, does the object appear to be designed for holding or containing items?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the most noticeable design element or lack thereof on the object's surface?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the overall construction, what is the most evident structural element of the item?",
+        "answer": "Cover"
+      },
+      {
+        "question": "Judging from the provided image, does the object appear rigid or flexible in its structure?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Analyzing the visible form, does the object seem to possess any intricate design details or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of its apparent purpose, does the object appear suitable for storage or organization tasks?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the most apparent visible quality related to the overall appearance of the object?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the visible edges, what descriptive adjective best captures the nature of their appearance?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Observing the item's overall presentation, how would you describe its visible condition or state?",
+        "answer": "New"
+      }
+    ]
+  }
+]
