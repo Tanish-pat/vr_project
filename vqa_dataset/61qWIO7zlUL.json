@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall finish or coating of the kitchen faucet?",
+        "question": "What is the overall finish or metallic coating of the faucet?",
         "answer": "Chrome"
       },
       {
-        "question": "What is the predominant shape of the faucet's spout?",
+        "question": "Describe the dominant shape of the faucet's main body?",
         "answer": "Arched"
       },
       {
-        "question": "What is the material that appears to constitute the faucet body?",
+        "question": "What is the apparent material of construction for the faucet?",
         "answer": "Metal"
       },
       {
-        "question": "What is the style of the handle design on the faucet?",
+        "question": "What is the style of the faucet's handle design?",
         "answer": "Lever"
       },
       {
-        "question": "What is the apparent type of the faucet's water dispensing mechanism?",
-        "answer": "Spray"
+        "question": "What is the configuration of the faucet's spout?",
+        "answer": "Gooseneck"
       },
       {
-        "question": "What is the primary color observed on the faucet fixture?",
-        "answer": "Silver"
-      },
-      {
-        "question": "What kind of mounting plate is affixed beneath the faucet?",
+        "question": "What is the overall form or silhouette of the faucet's base?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent texture of the faucet's surface finish?",
+        "question": "What kind of nozzle or aerator is present at the spout end?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the color of the faucet's handle and body?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What appears to be the surface texture of the faucet's metallic finish?",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the form of the faucet's base plate in relation to the counter?",
-        "answer": "Flat"
+        "question": "What is the orientation of the faucet on the countertop?",
+        "answer": "Horizontal"
       },
       {
-        "question": "Considering the faucet's overall form, what is its designated installation type?",
+        "question": "How many handles does the faucet visually appear to have?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the mounting type of the faucet shown in the image?",
         "answer": "Deck"
       },
       {
-        "question": "What is the visible design feature at the spout's end for water flow?",
-        "answer": "Aerator"
+        "question": "Describe the design of the area where the faucet connects to the countertop?",
+        "answer": "Plate"
       },
       {
-        "question": "What seems to be the primary functional purpose of this plumbing fixture?",
-        "answer": "Kitchen"
+        "question": "What is the apparent number of water outlets from the faucet's spout?",
+        "answer": "One"
       },
       {
-        "question": "What seems to be the construction method of the faucet's handle?",
-        "answer": "Solid"
-      },
-      {
-        "question": "What kind of surface does the faucet appear to be mounted on?",
-        "answer": "Countertop"
-      },
-      {
-        "question": "What kind of visible pattern or texture does the faucet display on its surface?",
-        "answer": "None"
+        "question": "What style of kitchen sink is the faucet mounted on?",
+        "answer": "Undermount"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c1fdbdaa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted phone case's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the large circular element featured prominently on the phone case?",
+        "answer": "Red"
+      },
+      {
+        "question": "Describe the style of the image on the phone case, considering its composition and elements.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What appears to be reflected in the water at the bottom of the phone case's design?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent shape of the main design element, ignoring the case itself?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the overall aesthetic, what is the most likely material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent texture of the phone case based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the main subject of the depicted scene on the back of the phone case?",
+        "answer": "Sunset"
+      },
+      {
+        "question": "Is there a clear indication of brand or logo directly printed on the phone case itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Aside from the main circular element, what other element is visible in the phone case\u2019s design?",
+        "answer": "Silhouette"
+      },
+      {
+        "question": "Considering the image's detail, does the case feature any noticeable patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall form factor of the depicted phone case; is it rectangular or another shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the appearance, is the phone case design primarily graphic or photographic?",
+        "answer": "Graphic"
+      },
+      {
+        "question": "Does the phone case seem to offer any noticeable raised features or embossing?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the provided image, is the phone case's protective bumper apparent?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/ac2ea082.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the headboard's visible surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material of the bed frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall shape of the headboard's upper profile?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the visible texture of the headboard's wooden surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many horizontal lines are visibly present on the headboard?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the general color tone of the wooden finish?",
+        "answer": "Reddish"
+      },
+      {
+        "question": "What seems to be the material of the small area under the headboard?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible edges, what's the shape of the bed's frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the headboard design feature any visible decorative carvings?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the apparent style of the bed?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there any noticeable pattern on the headboard's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent grain direction visible in the headboard wood?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the headboard have any metallic or other non-wooden components?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible state of the headboard's surface finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the image, is the bed design modern or antique?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/03b3b0c7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the foldable playmat shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this square playmat?",
+        "answer": "Foam"
+      },
+      {
+        "question": "Considering the visible seams, how many sections does this floor mat seem to comprise?",
+        "answer": "Four"
+      },
+      {
+        "question": "Judging by the visible edges and folds, what is the overall shape of the pictured playmat?",
+        "answer": "Square"
+      },
+      {
+        "question": "Based on the image, what is the apparent texture of the surface of the foam playmat?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the overall thickness of this foldable playmat?",
+        "answer": "Thick"
+      },
+      {
+        "question": "From the image, what kind of design or pattern is visible on the playmat's surface?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Can you describe the apparent flexibility of the playmat, considering how it folds?",
+        "answer": "Foldable"
+      },
+      {
+        "question": "Based on visual inspection of the image, how would you describe the edges of the playmat?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the apparent purpose or function of this item as shown in the image?",
+        "answer": "Mat"
+      },
+      {
+        "question": "Does the playmat appear to have any discernible markings or logos in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the mat depicted in a fully expanded or folded state?",
+        "answer": "Expanded"
+      },
+      {
+        "question": "What is the apparent condition of the playmat shown in the image, considering wear or damage?",
+        "answer": "New"
+      },
+      {
+        "question": "What type of environment does the image suggest this playmat might be suitable for?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "From the visual analysis, what appears to be the overall size of this playmat?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

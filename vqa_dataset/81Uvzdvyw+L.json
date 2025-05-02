@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/89/8915be5b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible portions of the sneakers?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the primary material appearing on the upper part of the shoe?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Considering the overall style, what type of footwear are these?",
+        "answer": "Sneakers"
+      },
+      {
+        "question": "Describe the shape of the sole of the sneaker as seen from the rear?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What color is the midsole, contrasting with the upper material?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the main upper material of the shoe?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the laces, what is the closure style of these sneakers?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the visible material of the heel counter area of the shoe?",
+        "answer": "Suede"
+      },
+      {
+        "question": "What is the general design aesthetic conveyed by the sneaker's form?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent shape of the toe box area of each sneaker?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What design element appears as a panel on the upper, different from the main material?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Considering the overall construction, what is the style of these shoes?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Describe the visible stitching on the upper part of the sneaker.",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the apparent height of the sneaker's sole unit?",
+        "answer": "Low"
+      },
+      {
+        "question": "What design feature on the tongue area of the sneaker is visible?",
+        "answer": "Pull-tab"
+      }
+    ]
+  }
+]
