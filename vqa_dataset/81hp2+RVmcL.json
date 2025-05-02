@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b8af9e6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed surface material?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall visual pattern or texture of the material?",
+        "answer": "Marbled"
+      },
+      {
+        "question": "Considering the appearance, what seems to be the material's base color?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Describe the primary visual effect created by the color variations?",
+        "answer": "Swirling"
+      },
+      {
+        "question": "What adjective best describes the shade variation within the marbling?",
+        "answer": "Gradual"
+      },
+      {
+        "question": "Considering the texture, how would you describe the surface's apparent finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How would you describe the lightness or darkness of the marble's veining?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the primary direction of the pattern's flow or orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the overall appearance of the material glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Characterize the density of the veining within the material's structure?",
+        "answer": "Sparse"
+      },
+      {
+        "question": "What is the general appearance of the color transitions within the veining?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Can you describe the visual consistency of the pattern throughout?",
+        "answer": "Inconsistent"
+      },
+      {
+        "question": "How would you characterize the subtle tonal shifts within the white base?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the image suggest any significant textural irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the pattern's irregularity, how would you classify its style?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

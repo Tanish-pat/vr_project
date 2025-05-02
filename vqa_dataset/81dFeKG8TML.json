@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's abstract design?",
+        "question": "What is the dominant color scheme of the phone case's artistic design?",
         "answer": "Multicolored"
       },
       {
-        "question": "Considering the image, what primary colors are prominently displayed on the phone case?",
-        "answer": "Red"
-      },
-      {
-        "question": "What is the apparent texture of the depicted phone case's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the shape of the phone case as depicted in the provided image?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What appears to be the material used for this phone case's construction?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Based on the image, what is the style of the design printed on the phone case?",
+        "question": "Considering the artistic style, what painting technique is primarily imitated on the case?",
         "answer": "Abstract"
       },
       {
-        "question": "What color is most visible at the phone case's top right corner?",
+        "question": "What is the apparent material of the phone case itself, judging by its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall texture of the printed design, as suggested by its visual representation?",
+        "answer": "Brushstroke"
+      },
+      {
+        "question": "What is the general shape or form factor of the depicted mobile phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the color palette, what is the most prominent secondary color displayed?",
         "answer": "Blue"
       },
       {
-        "question": "Describe the design style seen on the back of the phone case in the photograph.",
-        "answer": "Painterly"
-      },
-      {
-        "question": "What secondary color is blended with the red and yellow in the case's art?",
-        "answer": "Orange"
-      },
-      {
-        "question": "Judging by the image, what color is prominent near the phone case's bottom?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "What is the general form of the artistic design on the mobile phone case?",
-        "answer": "Brushstrokes"
-      },
-      {
-        "question": "What color is visible in the lower-left area of the phone case?",
+        "question": "What is the most vibrant or striking color used in the design, which captures the eye immediately?",
         "answer": "Red"
       },
       {
-        "question": "What color accents are near the camera cutout on the mobile phone case?",
-        "answer": "Black"
-      },
-      {
-        "question": "Observing the image closely, what is the general finish of the phone case?",
+        "question": "Based on visual inspection, what is the visible finish or coating of the phone case?",
         "answer": "Matte"
       },
       {
-        "question": "In the provided image, what design element appears to be the most vibrant?",
+        "question": "Is the design on the case symmetrical or does it display a clear sense of asymmetry?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the color primarily associated with the top portion of the phone case\u2019s design?",
         "answer": "Yellow"
+      },
+      {
+        "question": "What is the implied style of the design on the back of the phone cover?",
+        "answer": "Impressionistic"
+      },
+      {
+        "question": "Does the image suggest that this phone case possesses cutouts or openings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the level of detail visible within the artistic pattern present on the phone case",
+        "answer": "High"
+      },
+      {
+        "question": "Judging only by the appearance, what seems to be the thickness of the mobile phone case?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the colors and design, what feeling or mood does the case visually evoke?",
+        "answer": "Energetic"
       }
     ]
   }

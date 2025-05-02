@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1ed11f78.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the outer packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary material of the shipping box?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What color is one of the smaller items inside the packaging?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What color is another smaller item visible in the clear plastic?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What appears to be the texture of the outer packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the main packaging container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of printing is visible on the main box?",
+        "answer": "Text"
+      },
+      {
+        "question": "What brand name is prominently displayed on the box?",
+        "answer": "AmazonBasics"
+      },
+      {
+        "question": "What is the apparent material of the smaller item's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Is there any additional information printed on the box besides branding?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the overall shape of the smaller items inside.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the function of the larger brown box?",
+        "answer": "Shipping"
+      },
+      {
+        "question": "Does the main packaging display a barcode?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of packaging contains the smaller items?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the secondary smaller item visible?",
+        "answer": "Orange"
+      }
+    ]
+  }
+]

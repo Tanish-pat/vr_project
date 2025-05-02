@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/56442f17.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape exhibited by this footwear item?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Observing the sole's texture, what surface characteristic is predominantly displayed?",
+        "answer": "Ridged"
+      },
+      {
+        "question": "Regarding the visible color, what single word best encapsulates the shoe's hue?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the material, what seems to be the composition of the shoe's upper section?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Analyzing the design, what structural element separates the shoe's main body from its sole?",
+        "answer": "Seam"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely intended use for this footwear?",
+        "answer": "Casual"
+      },
+      {
+        "question": "From the image, what type of footwear does the item appear to be?",
+        "answer": "Slipper"
+      },
+      {
+        "question": "Judging from the visible features, what is the style of the shoe's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Inspecting the sole closely, what patterns are visibly imprinted on its surface?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Regarding the shoe's construction, what is the overall aesthetic it projects?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Examining the material, does the shoe's texture appear smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall presentation, would you classify this shoe as formal or informal?",
+        "answer": "Informal"
+      },
+      {
+        "question": "From the visuals, can you determine whether the shoe features any prominent embellishments?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the apparent condition of the footwear item?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the shoe's appearance, would you say it is intended for indoor or outdoor wear?",
+        "answer": "Indoor"
+      }
+    ]
+  }
+]

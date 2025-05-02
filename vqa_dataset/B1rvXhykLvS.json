@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2fa56e7e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed on the left side of the pictured material?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the secondary color shown on the right of the sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describing the visual appearance, what is the overall texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most prominent feature separating the two color sections?",
+        "answer": "Seam"
+      },
+      {
+        "question": "Considering the image provided, how many distinct colors are visibly present?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the visual evidence, what is the apparent finish of the surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general shape of the displayed material sample?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, does the material appear to be patterned or solid?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the image suggest a high or low sheen?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the visible quality of the stitching or seam shown?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What is the impression of the surface's visual depth or dimensionality?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent grain or direction of the texture shown in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the visible material uniform or variegated in color?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the shown material appear to be thick or thin?",
+        "answer": "Thick"
+      }
+    ]
+  }
+]

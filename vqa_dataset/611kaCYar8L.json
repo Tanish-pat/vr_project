@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/640e9ed1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary visual characteristic of the text displayed on the product's label, concerning its overall presentation?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the text's arrangement, what is the most prominent directional characteristic of the information conveyed?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the textual elements alone, what can be described as the dominant color scheme of the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the visual structure of the label, what is the overall textual alignment employed?",
+        "answer": "Left"
+      },
+      {
+        "question": "Given the visual presentation, what is the general font style used throughout the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the visual layout of the text, how would you describe the overall visual density of the product information?",
+        "answer": "High"
+      },
+      {
+        "question": "Disregarding any potential meaning, what is the visual appearance of the punctuation marks interspersed throughout?",
+        "answer": "Standard"
+      },
+      {
+        "question": "In terms of visual hierarchy, how is the 'INGREDIENTS' section presented relative to the rest?",
+        "answer": "Prominent"
+      },
+      {
+        "question": "Considering the visual uniformity of the label's elements, how consistent is the character spacing throughout?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the visual presentation, what seems to be the primary objective of the label's textual content?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the discernible visual pattern in the capitalization style used for ingredient names?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What appears to be the text size utilized for all the ingredients listed on the product label?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the visual nature of the background on which the text is presented, judging only by contrast?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Ignoring context, what is the visual aspect of the text's line spacing on the label?",
+        "answer": "Single"
+      },
+      {
+        "question": "What visual feature best describes the layout structure of the ingredient list presented on the label?",
+        "answer": "Columnar"
+      }
+    ]
+  }
+]
