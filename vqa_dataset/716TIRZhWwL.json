@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fefd3dd2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible sneakers?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the majority of the upper?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Describe the color of the midsole encircling the base of the shoe.",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent design feature along the side panel?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "What is the color of the subtle accent on the heel counter?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape classification of these athletic footwear?",
+        "answer": "Sneakers"
+      },
+      {
+        "question": "Considering the construction, what is the likely intended use of this product?",
+        "answer": "Running"
+      },
+      {
+        "question": "What type of closure system is present on each of the shoes?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Describe the texture that the mesh upper appears to possess",
+        "answer": "Breathable"
+      },
+      {
+        "question": "What is the apparent material of the sole of the shown footwear?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the general style of these shoes, considering their design?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Describe the visible pattern in the lacing system of the sneakers",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by the image, how many visible shoes are depicted in the product picture?",
+        "answer": "Two"
+      },
+      {
+        "question": "What appears to be the main branding element shown on the shoe?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Based on appearance, what is the likely level of formality associated with these shoes?",
+        "answer": "Informal"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the aerobic step platform's main surface?",
+        "question": "What is the predominant color of the aerobic step platform's main body?",
         "answer": "Gray"
       },
       {
-        "question": "What is the shape of the aerobic step platform?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What secondary color accents are visible on the sides of the step platform?",
+        "question": "What secondary color accents the platform's edges and center?",
         "answer": "Yellow"
       },
       {
-        "question": "What appears to be the material used in the construction of this fitness step?",
+        "question": "What appears to be the primary material used in the construction of this fitness equipment?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the texture apparent on the top surface of the aerobic step platform?",
+        "question": "Describe the surface texture across the majority of the step's upper surface?",
         "answer": "Textured"
       },
       {
-        "question": "How many height levels or adjustment options does the step appear to offer?",
+        "question": "What is the overall geometric shape of the aerobic step platform?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many height levels or adjustment options are visibly present on this step?",
         "answer": "Two"
       },
       {
-        "question": "What is the general shape of the accent color feature on the step's top surface?",
+        "question": "What is the shape of the central design element on the top surface of the step?",
         "answer": "Oval"
       },
       {
-        "question": "Considering the overall design, what is the intended purpose of this product?",
+        "question": "Considering the visible edges, what could be described as the platform's general form factor?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Based on its appearance, what is the likely intended use of this object?",
         "answer": "Exercise"
       },
       {
-        "question": "Does the step platform exhibit any visible patterned design on its main surface?",
-        "answer": "Yes"
+        "question": "What type of pattern is subtly present on the top step surface area?",
+        "answer": "Diamond"
       },
       {
-        "question": "What is the visual appearance of the edges of the aerobic step platform?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "Based on the image, what seems to be the weight-bearing capacity of this product?",
+        "question": "Considering the build, what is the apparent weight-bearing capacity of this platform?",
         "answer": "High"
       },
       {
-        "question": "Judging by its structure and build, would you classify it as lightweight or heavy?",
-        "answer": "Lightweight"
-      },
-      {
-        "question": "What is the apparent overall aesthetic or style of the fitness step?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Can you describe the visual stability of this fitness step, based solely on its appearance?",
+        "question": "Observing the edges, what can be inferred about the platform's overall stability?",
         "answer": "Stable"
       },
       {
-        "question": "Are there any noticeable visible markings or labels on the aerobic step itself?",
-        "answer": "No"
+        "question": "Considering its design, what is the intended user interaction with this product?",
+        "answer": "Stepping"
+      },
+      {
+        "question": "Judging from its construction, what is the likely level of impact resistance inherent to this aerobic step?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is the apparent structural integrity of the step platform based on its visual appearance?",
+        "answer": "Solid"
       }
     ]
   }

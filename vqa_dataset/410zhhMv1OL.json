@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/146b552f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient listed on the product packaging?",
+        "answer": "RICE"
+      },
+      {
+        "question": "What type of capsule is mentioned as an ingredient, indicated by its source?",
+        "answer": "VEGETABLE"
+      },
+      {
+        "question": "What specific vegetable-derived ingredient is used in this product?",
+        "answer": "HYPROMELLOSE"
+      },
+      {
+        "question": "Based on the text, what additional ingredient is included as a processing aid?",
+        "answer": "MAGNESIUM"
+      },
+      {
+        "question": "What is the source of magnesium stearate according to the label?",
+        "answer": "VEGETABLE"
+      },
+      {
+        "question": "What type of nut is mentioned in the allergy advisory statement?",
+        "answer": "TREE"
+      },
+      {
+        "question": "According to the label, what other allergen is processed in the same facility?",
+        "answer": "MILK"
+      },
+      {
+        "question": "Does the allergy advisory include eggs as a potential cross-contaminant?",
+        "answer": "YES"
+      },
+      {
+        "question": "What other seafood allergen is potentially present due to shared facility processing?",
+        "answer": "SHELLFISH"
+      },
+      {
+        "question": "Is fish listed among the allergens potentially present in this product?",
+        "answer": "YES"
+      },
+      {
+        "question": "Does the allergy advisory indicate the presence of wheat in the processing facility?",
+        "answer": "YES"
+      },
+      {
+        "question": "Is soy mentioned as a potential allergen due to shared manufacturing?",
+        "answer": "YES"
+      },
+      {
+        "question": "What is the overall tone of the text on the packaging, concerning potential allergens?",
+        "answer": "WARNING"
+      },
+      {
+        "question": "What is the style of the text on this product's packaging, regarding the ingredients?",
+        "answer": "LIST"
+      },
+      {
+        "question": "What is the format of the text regarding allergy information?",
+        "answer": "STATEMENT"
+      }
+    ]
+  }
+]

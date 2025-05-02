@@ -9,60 +9,60 @@
         "answer": "White"
       },
       {
-        "question": "Considering the neat stacking, what is the apparent texture of the fabric?",
+        "question": "Considering the image, what appears to be the primary material of the sheets?",
+        "answer": "Microfiber"
+      },
+      {
+        "question": "Based on the image's visual texture, what is the apparent surface feel of the sheets?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the image, what seems to be the primary material of these sheets?",
-        "answer": "Cotton"
-      },
-      {
-        "question": "Judging by the folds, what is the overall shape of the folded sheet set?",
+        "question": "Judging from the picture, what is the overall shape of the folded sheet stack?",
         "answer": "Rectangular"
       },
       {
-        "question": "Does the image suggest a pattern or print on the sheets?",
+        "question": "Does the image show any visible patterns or designs on the sheets?",
         "answer": "No"
       },
       {
-        "question": "Looking closely at the edges, what type of stitching is visible on the sheets?",
-        "answer": "Straight"
+        "question": "From the picture, are the seams of the sheets visible and what is their nature?",
+        "answer": "Clean"
       },
       {
-        "question": "What is the apparent depth or thickness of the folded sheet stack, based on visual cues?",
-        "answer": "Moderate"
-      },
-      {
-        "question": "Considering the folds, how many individual pieces appear to be included in this set?",
+        "question": "What is the apparent number of sheet pieces included in the stack shown in the image?",
         "answer": "Three"
       },
       {
-        "question": "From the image, what is the overall level of sheen or glossiness of the fabric?",
-        "answer": "Low"
+        "question": "Based on the image, what is the apparent size of the folded sheet stack?",
+        "answer": "Standard"
       },
       {
-        "question": "Based on the visible folds, what is the suggested level of softness of the fabric?",
-        "answer": "Soft"
+        "question": "Judging by the picture, how many pillowcases are neatly stacked within the set?",
+        "answer": "One"
       },
       {
-        "question": "What is the apparent overall style of these sheets, simple or ornate?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Based on the image, what level of creasing or wrinkling is visible in the sheets?",
+        "question": "What is the apparent level of wrinkling visible on the folded sheet stack in the image?",
         "answer": "Minimal"
       },
       {
-        "question": "Does the image show any visible embellishments or decorative elements on the sheets?",
+        "question": "What is the implied level of neatness or organization of the folded sheets, as depicted?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Does the image show any visible logos or branding on the sheets?",
         "answer": "No"
       },
       {
-        "question": "What seems to be the approximate size of the folded sheet stack in the image?",
-        "answer": "Medium"
+        "question": "Based on the visual appearance, is the sheet set's fabric visibly shiny or matte?",
+        "answer": "Matte"
       },
       {
-        "question": "Judging from the image, what is the apparent weight of this folded sheet set?",
-        "answer": "Light"
+        "question": "From the image, how thick does the folded stack of sheets appear to be?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What seems to be the primary visual characteristic of the sheets' folded edges?",
+        "answer": "Straight"
       }
     ]
   }
