@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fe05c2e7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design and branding elements visible on the carton, what is the primary brand name prominently displayed?",
+        "answer": "365"
+      },
+      {
+        "question": "Based on the textual information clearly visible on the packaging, what specific type of milk is this product?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Observing the carton's label, what adjective best describes the milk's origin or production method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the dominant color used as a background on the top portion of the milk carton?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape or form of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for the primary packaging of this milk product?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the color of the cow illustrated on the carton's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What single word best describes the texture of the carton's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the primary text on the carton indicating the brand and product type?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the cow illustration, what additional design element is included near its eyes?",
+        "answer": "Sunglasses"
+      },
+      {
+        "question": "What is the dominant color used on the lower portion of the packaging, where the nutritional information is displayed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the text on the packaging, what vitamin is added to this milk?",
+        "answer": "D"
+      },
+      {
+        "question": "Considering the information present on the product, what process was the milk subjected to?",
+        "answer": "Pasteurized"
+      },
+      {
+        "question": "What is the unit of measurement indicated on the bottom of the milk carton?",
+        "answer": "Quart"
+      },
+      {
+        "question": "What is the shape of the illustration of the cow depicted on the milk carton?",
+        "answer": "Cartoonish"
+      }
+    ]
+  }
+]

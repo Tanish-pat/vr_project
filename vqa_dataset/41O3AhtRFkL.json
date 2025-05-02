@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ec/ec8bfe44.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product, as seen in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering its form, what is the most prominent shape of the item shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent surface finish of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what appears to be the primary material used for this product?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What kind of packaging is visible, immediately surrounding the main product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall visual impression of the product\u2019s texture, based on the image?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Disregarding the packaging, what is the apparent consistency of the product itself?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Can you describe the product's visual appeal, considering its color and form?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the product's form and packaging, what is its visual state?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the discernible level of detail or ornamentation in the main product?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "How would you describe the visual clarity of the product's appearance?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the image, what is the visible aspect of the product's edges?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Based on the visual, what seems to be the main design characteristic of this item?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the visible condition of the product in the image?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What is the overall visual impression of this product\u2019s size, based on the packaging?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

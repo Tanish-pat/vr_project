@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a97eaaf4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the charging dock as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the majority of the charging dock's visible surface?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the dual controller charging station?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual details, how many controllers can this dock simultaneously charge?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent texture of the charging dock's top surface, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image reveal any visible branding or logos on the charging dock?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, what type of connector is visible on the charging dock's front?",
+        "answer": "Micro-USB"
+      },
+      {
+        "question": "From the image, what can be observed regarding the charging dock's overall design aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent position of the charging slots relative to one another in the image?",
+        "answer": "Parallel"
+      },
+      {
+        "question": "Based on the image's visual details, what is the overall size or scale of the charging station?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Does the image suggest any apparent hinges or moving parts in the device's structure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, does the charging dock appear to have any visible lights or indicators?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the visible plastic surfaces of the product shown?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what is the general orientation of the charging slots within the dock?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "From the provided image, what is the apparent build quality of the charging dock?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

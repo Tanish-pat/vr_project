@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/58b45a51.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the dinnerware set shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What geometric shape best describes the plates' overall form?",
+        "answer": "Square"
+      },
+      {
+        "question": "What material appears to constitute the primary composition of these dishes?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Describe the style of the curved lines decorating the plates and bowl.",
+        "answer": "Abstract"
+      },
+      {
+        "question": "How many distinct colors comprise the decorative line design on the pieces?",
+        "answer": "Four"
+      },
+      {
+        "question": "What color is the most prominent among the lines decorating the tableware?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Considering the bowl's profile, what adjective best captures its shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent texture of the dinnerware's surface, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Excluding white, what is the darkest color used in the decorative lines?",
+        "answer": "Black"
+      },
+      {
+        "question": "What secondary color, besides teal, stands out prominently in the line art?",
+        "answer": "Lime"
+      },
+      {
+        "question": "Considering the set's arrangement, how many plates are clearly visible?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the overall visual impression of the color palette used in the design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent finish of the dinnerware, glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What kind of dish is the smaller, shallower piece in the foreground?",
+        "answer": "Bowl"
+      },
+      {
+        "question": "Are the decorative lines on the dinnerware thick or thin?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

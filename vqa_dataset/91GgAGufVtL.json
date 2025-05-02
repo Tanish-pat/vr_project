@@ -9,60 +9,60 @@
         "answer": "Gray"
       },
       {
-        "question": "What color is the border or edging surrounding the mat?",
+        "question": "What color is the border outlining the mat?",
         "answer": "Orange"
       },
       {
-        "question": "Considering the overall appearance, what is the most likely material of the mat?",
+        "question": "What appears to be the primary material of the mat's surface?",
         "answer": "Rubber"
       },
       {
-        "question": "Based on its dimensions and placement, what is the mat's primary function?",
-        "answer": "Anti-fatigue"
-      },
-      {
-        "question": "Describe the overall shape of the floor mat presented in the image?",
+        "question": "Describing the overall shape of the floor mat, is it?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of texture does the surface of the mat appear to have?",
+        "question": "Considering the mat's placement, what is its likely function?",
+        "answer": "Kitchen"
+      },
+      {
+        "question": "Based on its appearance, what is the texture of the mat's top surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Judging from its visual presentation, is the mat designed for indoor or outdoor use?",
-        "answer": "Indoor"
-      },
-      {
-        "question": "Are there any noticeable patterns or designs imprinted on the mat's surface?",
-        "answer": "None"
-      },
-      {
-        "question": "What is the apparent thickness of the mat's edging compared to its main body?",
-        "answer": "Uniform"
-      },
-      {
-        "question": "How many distinct color regions are present in the product's design?",
-        "answer": "Two"
-      },
-      {
-        "question": "Does the mat seem to possess any raised or textured elements aside from the edging?",
+        "question": "Does the mat exhibit any visible patterns or designs on its surface?",
         "answer": "No"
       },
       {
-        "question": "From the image, can you determine the specific manufacturing method used for the mat?",
-        "answer": "Unknown"
+        "question": "Is the border a single solid band of color around the mat?",
+        "answer": "Yes"
       },
       {
-        "question": "Based on the image, does the mat show any signs of wear or damage?",
+        "question": "Judging by its thickness, how would you describe the mat's profile?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent width of the colored border around the mat?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Considering the image, what is the mat's overall length relative to the countertop?",
+        "answer": "Long"
+      },
+      {
+        "question": "From the image, what seems to be the mat's primary purpose in the kitchen?",
+        "answer": "Comfort"
+      },
+      {
+        "question": "Does the mat appear to have any discernible logos or branding?",
         "answer": "No"
       },
       {
-        "question": "Is the mat presented in a rolled-up form or laid flat in the image?",
-        "answer": "Flat"
+        "question": "Based on visual observation, is the mat's surface glossy or matte?",
+        "answer": "Matte"
       },
       {
-        "question": "Observing the context, where is the mat strategically positioned in the image?",
-        "answer": "Kitchen"
+        "question": "What is the apparent condition of the mat displayed in the image?",
+        "answer": "New"
       }
     ]
   }

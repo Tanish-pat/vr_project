@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/db116990.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main fixture's metal components?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the primary light shade?",
+        "answer": "Dome"
+      },
+      {
+        "question": "What material appears to constitute the main light shade?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describe the texture of the light shade's visible surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the metal parts of the fixture?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the shape of the smaller, secondary light fixtures?",
+        "answer": "Spherical"
+      },
+      {
+        "question": "How many small, spherical light fixtures are visibly attached?",
+        "answer": "Two"
+      },
+      {
+        "question": "What type of connection is used to attach the smaller fixtures?",
+        "answer": "Rods"
+      },
+      {
+        "question": "Describe the apparent finish of the small spherical lights.",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color is the light emitted (or seemingly emitted) from the main shade?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the visible material of the connecting rods?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the general style of the entire light fixture?",
+        "answer": "Industrial"
+      },
+      {
+        "question": "Is the glass shade entirely opaque or translucent?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Describe the method of attachment for the glass shade to the fixture.",
+        "answer": "Clamps"
+      },
+      {
+        "question": "What is the apparent material of the clamps holding the glass shade?",
+        "answer": "Metal"
+      }
+    ]
+  }
+]

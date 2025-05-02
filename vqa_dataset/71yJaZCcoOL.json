@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b673a91e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cereal flakes shown in the bowl?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What kind of nuts are visibly present amongst the cereal?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "What is the apparent texture of the cereal mixture, based on its visual appearance?",
+        "answer": "Crunchy"
+      },
+      {
+        "question": "What is the shape of the bowl containing the cereal and yogurt?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the color of the bowl holding the cereal and yogurt?",
+        "answer": "White"
+      },
+      {
+        "question": "What dairy product is partially visible underneath the cereal?",
+        "answer": "Yogurt"
+      },
+      {
+        "question": "Considering the visible ingredients, what is one apparent flavor profile?",
+        "answer": "Sweet"
+      },
+      {
+        "question": "What appears to be the overall form of the cereal pieces?",
+        "answer": "Flakes"
+      },
+      {
+        "question": "Based on visual cues, what is one descriptive term for the cereal's appearance?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What is the apparent material composition of the visible bowl?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Describe the visible pattern on the fabric partially shown in the background.",
+        "answer": "Checkered"
+      },
+      {
+        "question": "What is the color of the fabric visible in the image's bottom right corner?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is one visible element suggesting added sweetness to the cereal?",
+        "answer": "Honey"
+      },
+      {
+        "question": "What is one visually apparent dried fruit component of the cereal?",
+        "answer": "Raisins"
+      },
+      {
+        "question": "What is the apparent color of the smaller pieces of the cereal mixture?",
+        "answer": "Beige"
+      }
+    ]
+  }
+]

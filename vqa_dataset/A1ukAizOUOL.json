@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f82f6028.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric swatch?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of the sample?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the image, what is the overall surface finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual texture of the fabric; is it smooth or rough?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the fabric display any noticeable patterns or prints?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by its appearance, how would you characterize the fabric's weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the general appearance of the fabric's weave?",
+        "answer": "Woven"
+      },
+      {
+        "question": "In terms of visual uniformity, how consistent is the fabric's coloration?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "If held up to light, would the fabric likely be opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image show any visible irregularities in the fabric structure?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied thickness of the fabric sample, thin, medium or thick?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging from the image, what is the general feel of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image suggest any sheen or gloss on the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the fabric in the image exhibiting any visible fraying or damage?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the color, what season is this fabric most suitable for?",
+        "answer": "Autumn"
+      }
+    ]
+  }
+]
