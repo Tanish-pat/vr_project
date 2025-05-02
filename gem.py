@@ -187,7 +187,7 @@ def main(check_main_image_id=0):
         output_json_path = os.path.join(output_folder, f"{image_id}.json")
         generate_vqa(image_path, metadata, output_json_path)
 
-        time.sleep(5)
+        time.sleep(2)
         loop -= 1
 
 # ========== ENTRY POINT ==========
