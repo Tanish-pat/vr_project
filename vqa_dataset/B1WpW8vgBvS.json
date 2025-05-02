@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/98cbe647.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible material?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the displayed surface?",
+        "answer": "Leathery"
+      },
+      {
+        "question": "Considering the visual characteristics, what material is suggested?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what is the overall visual finish of the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visible surface pattern, considering its irregularity?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "What type of markings are predominantly visible on the surface?",
+        "answer": "Scratches"
+      },
+      {
+        "question": "Can you describe the visible shade of the displayed material?",
+        "answer": "Tan"
+      },
+      {
+        "question": "Does the material appear to have a smooth or rough visual appearance?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the primary visual characteristic of the material's surface?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Considering the visual details, how would you describe the material's sheen?",
+        "answer": "Dull"
+      },
+      {
+        "question": "What is the general visual impression of the material's color depth?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Does the visual appearance suggest the presence of any artificial treatment?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the material's density?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the surface display signs of artificial coloration or dyeing?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what could be the overall impression of the material's feel?",
+        "answer": "Textured"
+      }
+    ]
+  }
+]

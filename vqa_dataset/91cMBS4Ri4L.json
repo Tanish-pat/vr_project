@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d03deea8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the rug's pattern?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the overall texture of the rug's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What geometric pattern dominates the rug's design?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What is the primary material that the rug appears to be made from?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Considering the image, what is the rug's approximate shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What secondary color is subtly incorporated into the grid pattern?",
+        "answer": "Beige"
+      },
+      {
+        "question": "How would you characterize the overall style of the rug's pattern?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What is the general feel of the rug's color palette?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Does the rug appear to have a high or low pile height?",
+        "answer": "Low"
+      },
+      {
+        "question": "Is the pattern on the rug visibly consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of visual effect is created by the irregular color variations?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "Are there any noticeably distinct borders or fringes on the rug?",
+        "answer": "No"
+      },
+      {
+        "question": "How many distinct color shades are noticeably used in the design?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based solely on the image, what is the rug's size category?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the rug show any significant glossiness or sheen?",
+        "answer": "No"
+      }
+    ]
+  }
+]

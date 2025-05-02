@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the bedding set shown in the image?",
-        "answer": "Beige"
+        "question": "What is the dominant color of the visible bedding?",
+        "answer": "Blush"
       },
       {
-        "question": "What is the apparent texture of the fabric used in this sheet set?",
+        "question": "What is the apparent texture of the sheet fabric?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the most noticeable design feature across the fabric of the sheets?",
-        "answer": "Stripes"
+        "question": "What is the prominent design feature on the sheets?",
+        "answer": "Ribbed"
       },
       {
-        "question": "What type of bedding is primarily shown in this image; sheet set or comforter?",
-        "answer": "Sheets"
-      },
-      {
-        "question": "Considering the neat stacking, what is the apparent condition of this bedding set?",
-        "answer": "New"
-      },
-      {
-        "question": "Judging by its appearance, what is the likely material of this sheet set?",
-        "answer": "Cotton"
-      },
-      {
-        "question": "What is the shape of the individual sheets as they are folded in this image?",
+        "question": "What is the overall shape of the stacked bedding?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the image, does the sheet set seem suitable for warmer or colder climates?",
-        "answer": "Warmer"
+        "question": "What seems to be the main material of the sheet set?",
+        "answer": "Cotton"
       },
       {
-        "question": "What is the overall aesthetic impression of this bedding set: modern or traditional?",
-        "answer": "Modern"
+        "question": "Judging by the image, how many pieces are neatly folded?",
+        "answer": "Five"
       },
       {
-        "question": "Observing the folds, how would you describe the drape or hang of the fabric?",
-        "answer": "Crisp"
+        "question": "What is the visible arrangement of the folded bedding?",
+        "answer": "Stacked"
       },
       {
-        "question": "Does the image suggest that the bedding is of a high thread count or a lower thread count?",
-        "answer": "High"
+        "question": "Considering the folds, what is the implied softness of the material?",
+        "answer": "Soft"
       },
       {
-        "question": "Are there any visible patterns or prints beyond the subtle stripes?",
+        "question": "Based on the visual sheen, what is the likely finish of the fabric?",
+        "answer": "Satin"
+      },
+      {
+        "question": "What kind of visual lines characterize the sheet's surface?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is there any visible pattern beyond the ribbed texture?",
         "answer": "No"
       },
       {
-        "question": "What is the style of the bedding; bohemian, minimalist, or something else?",
-        "answer": "Minimalist"
+        "question": "From the appearance, what is the bedding's implied weight?",
+        "answer": "Light"
       },
       {
-        "question": "Considering the color and texture, what is the overall feel of the bedding; luxurious or simple?",
-        "answer": "Luxurious"
+        "question": "What is the suggested level of sheen of the fabric shown?",
+        "answer": "Slight"
       },
       {
-        "question": "From the image, how many pieces appear to make up the complete sheet set?",
-        "answer": "Four"
+        "question": "Does the image reveal any visible seams or stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the fold, what is the overall thickness of each sheet?",
+        "answer": "Thin"
       }
     ]
   }

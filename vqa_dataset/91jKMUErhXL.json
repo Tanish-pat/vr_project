@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the bed's headboard and footboard?",
+        "question": "What is the primary color of the bed frame's headboard and footboard?",
         "answer": "Beige"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Rattan"
       },
       {
-        "question": "Describe the overall shape of the bed frame's profile.",
+        "question": "Describe the overall shape of the bed frame's headboard?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many visible drawers are integrated into the bed's base?",
+        "question": "How many visible drawers are integrated into the bed frame's base?",
         "answer": "Four"
       },
       {
-        "question": "What is the apparent finish of the wood used in the bed frame?",
-        "answer": "Natural"
+        "question": "What is the apparent texture of the wood used in the bed frame?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the most prominent design element on the headboard and footboard?",
-        "answer": "Panels"
-      },
-      {
-        "question": "What style best describes the overall design of the bed?",
+        "question": "What is the general style of the bed frame's design?",
         "answer": "Traditional"
       },
       {
-        "question": "What type of construction is evident in the bed frame's edges?",
-        "answer": "Moulded"
+        "question": "What kind of finish is evident on the wood of the bed frame?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the apparent texture of the woven material in the panels?",
-        "answer": "Woven"
+        "question": "What shape are the knobs or pulls on the drawers?",
+        "answer": "Round"
       },
       {
-        "question": "What kind of knobs or handles are on the drawers?",
-        "answer": "Simple"
+        "question": "Considering the bed's construction, what is its primary function?",
+        "answer": "Sleeping"
       },
       {
-        "question": "What color are the knobs or handles on the drawers?",
-        "answer": "Dark"
-      },
-      {
-        "question": "What appears to be the material of the bed frame?",
+        "question": "What kind of material seems to constitute the primary bed frame structure?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the visible height of the headboard relative to the mattress.",
-        "answer": "Tall"
+        "question": "Describe the overall height of the headboard relative to the footboard?",
+        "answer": "Similar"
       },
       {
-        "question": "Is the footboard design similar to the headboard?",
-        "answer": "Yes"
+        "question": "What is the general color family of the bed frame?",
+        "answer": "Neutral"
       },
       {
-        "question": "What type of bed is shown in the image?",
-        "answer": "Platform"
+        "question": "What style of molding is visible on the bed frame's edges?",
+        "answer": "Raised"
+      },
+      {
+        "question": "Judging by the visual details, what is the bed's likely intended use?",
+        "answer": "Bedroom"
+      },
+      {
+        "question": "What is the visible style of the drawers' hardware?",
+        "answer": "Simple"
       }
     ]
   }

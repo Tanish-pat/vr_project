@@ -1,0 +1,61 @@
+[
+  {
+    "path": "images/small/c5/c5773f4a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the image's textual content, what primary ingredient is explicitly mentioned?",
+        "answer": "Turkey"
+      },
+      {
+        "question": "Based on the label, which common culinary ingredient is listed as a component?",
+        "answer": "Salt"
+      },
+      {
+        "question": "According to the provided text, what starch is used as an ingredient?",
+        "answer": "Potato"
+      },
+      {
+        "question": "What acidic ingredient is mentioned in the product's ingredients?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "From the image's text, what is described as a flavor component?",
+        "answer": "Flavors"
+      },
+      {
+        "question": "What part of the bird is the main protein source, as indicated by the text?",
+        "answer": "Breast"
+      },
+      {
+        "question": "The label mentions a liquid; what is it?",
+        "answer": "Water"
+      },
+      {
+        "question": "Referring to the label, identify the type of salt used.",
+        "answer": "Sea"
+      },
+      {
+        "question": "What is indicated as a natural ingredient, according to the label?",
+        "answer": "Flavors"
+      },
+      {
+        "question": "In addition to the main ingredient, what other component is visibly named in the label?",
+        "answer": "Water"
+      },
+      {
+        "question": "Does the label's text describe a type of powder?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the descriptor for the main protein's flavor profile?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is one of the ingredients described as a culinary powder?",
+        "answer": "Vinegar"
+      }
+    ]
+  }
+]

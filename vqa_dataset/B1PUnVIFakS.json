@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/05f347b2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave structure of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the fabric's texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric display a noticeable pattern or design?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image, what type of fiber is most likely used in the fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "From the image, is the fabric's surface matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general visual appearance of the fabric's surface\u2014even or uneven?",
+        "answer": "Even"
+      },
+      {
+        "question": "Considering the picture, does the fabric have a visible sheen or luster?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image's details, does this fabric seem thick or thin?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Observing the visual appearance, would you describe the fabric's density as tight or loose?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Based on the visual texture, does the fabric appear tightly woven or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the overall appearance of the material displayed in the photograph?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the visible image, is the textile opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the displayed fabric show any visible flaws or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general visual impression conveyed by the fabric's color depth?",
+        "answer": "Deep"
+      }
+    ]
+  }
+]

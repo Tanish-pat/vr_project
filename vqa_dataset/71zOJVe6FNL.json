@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b2bced5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread slices in this chicken salad sandwich?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What type of lettuce is visibly layered within the sandwich?",
+        "answer": "Green"
+      },
+      {
+        "question": "What appears to be the primary protein filling in this sandwich?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What other ingredient, besides chicken, is prominently featured in the filling?",
+        "answer": "Avocado"
+      },
+      {
+        "question": "Describe the apparent texture of the bread used for this sandwich?",
+        "answer": "Porous"
+      },
+      {
+        "question": "What is the overall shape of the presented chicken salad sandwich?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of surface is the sandwich resting upon in the image?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "What is the apparent color of the avocado pieces in the sandwich?",
+        "answer": "Light"
+      },
+      {
+        "question": "How many visible chicken salad sandwiches are present in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What appears to be the general condition of the lettuce leaves?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Does the bread seem to have any visible seeds or grains?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the approximate thickness of the sandwich?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Describe the visible cut of the bread slices in this food item?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the general style of this sandwich presentation?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Does the sandwich filling appear to be homogenous or chunky?",
+        "answer": "Chunky"
+      }
+    ]
+  }
+]

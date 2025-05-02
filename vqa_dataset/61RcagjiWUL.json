@@ -9,7 +9,7 @@
         "answer": "Pink"
       },
       {
-        "question": "What is the primary subject depicted on the phone case?",
+        "question": "What is the primary design element depicted on the phone case?",
         "answer": "Cat"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "White"
       },
       {
-        "question": "What is the cat in the image seemingly holding in its mouth?",
-        "answer": "Strawberry"
-      },
-      {
-        "question": "What appears to be the material of this phone case?",
+        "question": "What is the apparent material of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall style of the design?",
-        "answer": "Cute"
+        "question": "What is the cat in the illustration holding in its mouth?",
+        "answer": "Strawberry"
       },
       {
-        "question": "What shape is the phone case shown in the provided image?",
+        "question": "What is the overall shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the apparent texture of the phone case's surface.",
-        "answer": "Smooth"
+        "question": "What kind of expression does the illustrated cat have?",
+        "answer": "Cute"
       },
       {
-        "question": "Based on the visual, what seems to be the finish of the case?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the color of the camera hole visible on the phone case?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the design, what is the target demographic of this case?",
-        "answer": "Girls"
-      },
-      {
-        "question": "What kind of illustration style is used for the cat on the case?",
+        "question": "What is the style of the illustration on the case?",
         "answer": "Cartoon"
       },
       {
-        "question": "How many visible openings are there on the depicted phone case?",
-        "answer": "Three"
+        "question": "Describe the texture of the phone case (as visually apparent)",
+        "answer": "Smooth"
       },
       {
-        "question": "Are there any noticeable textural elements on the cat illustration?",
-        "answer": "None"
+        "question": "What color are the cat's eyes in the illustration?",
+        "answer": "Dark"
       },
       {
-        "question": "Does the case show any significant wear and tear in the image?",
+        "question": "How many cutouts are visible on the phone case for ports/buttons?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the case seem to have a matte or glossy finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the relative size of the cat illustration compared to the case?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is there any visible text on the phone case itself?",
         "answer": "No"
+      },
+      {
+        "question": "Considering the design, what is the likely target demographic?",
+        "answer": "Girls"
       }
     ]
   }

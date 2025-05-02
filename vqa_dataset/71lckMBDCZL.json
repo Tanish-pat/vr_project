@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0ab30892.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color depicted across the phone case's design?",
+        "answer": "Red"
+      },
+      {
+        "question": "What specific food item is prominently featured in the phone case's imagery?",
+        "answer": "Beetroot"
+      },
+      {
+        "question": "What is the apparent texture of the depicted food item on the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the overall shape of the individual food items shown on the phone case.",
+        "answer": "Round"
+      },
+      {
+        "question": "What appears to be the primary material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the general style of the phone case's design?",
+        "answer": "Photographic"
+      },
+      {
+        "question": "Based on the visual, what is the apparent finish of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What seems to be the arrangement of the food items on the phone case's surface?",
+        "answer": "Overlapping"
+      },
+      {
+        "question": "What color are the visible inner rings or circles within the food slices?",
+        "answer": "Darker"
+      },
+      {
+        "question": "How many main food slices are primarily visible in the case design?",
+        "answer": "Three"
+      },
+      {
+        "question": "Judging by the image, what is the general condition of the printed design on the phone case?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Can you describe the level of detail present in the phone case\u2019s printed image?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent orientation of the printed design on the phone case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What type of camera arrangement is visible on the phone case's back?",
+        "answer": "Triple"
+      },
+      {
+        "question": "Based on the visible camera area, what type of phone is the case designed for?",
+        "answer": "LG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/34dbe656.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the primary purpose of this rectangular image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the textual elements, what is the predominant linguistic function expressed in the image?",
+        "answer": "Listing"
+      },
+      {
+        "question": "Focusing on the typography, what font style is consistently utilized throughout the visible text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the visual hierarchy, what is the descriptive category heading for the detailed list below?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the textual content, what specific culinary item does this label pertain to?",
+        "answer": "Noodles"
+      },
+      {
+        "question": "Given the presence of multiple components, what is the overall cooking category or type of this food?",
+        "answer": "Soup"
+      },
+      {
+        "question": "Considering the ingredients listed, what is the main protein source present?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "Regarding the egg noodle composition, what essential grain is highlighted as a key ingredient?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Regarding the text's color, what shade is employed for the ingredient list and description?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the background, what is the underlying hue of the label's backdrop?",
+        "answer": "Gray"
+      },
+      {
+        "question": "In terms of text formatting, what distinguishes the main header 'INGREDIENTS' from the rest of the text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging by the style of writing, what is the tone of the displayed textual information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Analyzing the label's visual properties, what is its overall texture or visual feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the format and content, what is the likely context of this image?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Considering the visual elements, what is the general shape of the labeled product section shown?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]
