@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/09fdb40d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible texture of the presented fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the image, what primary color best describes the fabric?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent material composition of this textile?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Judging from the image, what is the general weave pattern observed in the fabric?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the overall visual appearance of the fabric's surface, considering its texture and finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, does the fabric exhibit any discernible patterns or designs?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the implied level of sheen or gloss displayed by this fabric sample?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the color variation seen across the fabric's visible surface in the image.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the presented fabric based on visual cues?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging only from the image, what is the apparent density of the weave structure?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Based on visual characteristics, how would you describe the fabric's drape or hand feel?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "Does the image show any noticeable imperfections or irregularities in the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the implied level of transparency or opacity in the shown fabric swatch?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent softness of the textile?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "From the image, can you identify any distinct fiber types within the fabric's structure?",
+        "answer": "None"
+      }
+    ]
+  }
+]

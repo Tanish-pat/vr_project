@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/393c7000.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual prominence of the fried fish, what is the primary food item depicted in the central image?",
+        "answer": "Fish"
+      },
+      {
+        "question": "Based on the color and texture observed, what is the apparent cooking method used for the fish?",
+        "answer": "Fried"
+      },
+      {
+        "question": "Judging from the shape and arrangement, what type of culinary preparation is being showcased in the photograph?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "What appears to be the primary side dish, considering its visual presence and preparation style?",
+        "answer": "Fries"
+      },
+      {
+        "question": "What is the main color of the prepared fish, considering the visual dominance of that aspect?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what seems to be the main ingredient aside from the fish in the sandwich?",
+        "answer": "Bread"
+      },
+      {
+        "question": "What is the overall shape of the individual fish fillets in the frying pan, as visually apparent?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color and shape of the vegetable slices included as a side dish?",
+        "answer": "Green"
+      },
+      {
+        "question": "What kind of pan is visibly used to cook the fish, based on its visual characteristics?",
+        "answer": "Skillet"
+      },
+      {
+        "question": "Focusing on the texture, what seems to be the consistency of the fish's outer layer?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "Considering the visible elements, what seems to be a possible condiment or addition to the sandwich?",
+        "answer": "Pickles"
+      },
+      {
+        "question": "What is the apparent shape of the fries accompanying the main dish in the visual composition?",
+        "answer": "Sticks"
+      },
+      {
+        "question": "What is the overall visual color scheme related to the main elements in the picture?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Considering the frying pan, what does its material look like based on the visual information?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Observing the visual elements, what appears to be the cooking oil's texture used for the fries?",
+        "answer": "Shiny"
+      }
+    ]
+  }
+]

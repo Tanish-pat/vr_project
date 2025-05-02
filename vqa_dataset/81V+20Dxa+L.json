@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/49c5633c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's primary surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What type of text is prominently displayed on the front of the bag?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Describe the overall texture of the packaging visible in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of seal is visible at the top of the product's packaging?",
+        "answer": "Heat-sealed"
+      },
+      {
+        "question": "What language is used for the prominent text on the bag?",
+        "answer": "English"
+      },
+      {
+        "question": "What type of graphic is located near the bottom of the packaging?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What color is the logo displayed on the front of the bag?",
+        "answer": "Green"
+      },
+      {
+        "question": "Does the packaging include nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the main product shown on the packaging?",
+        "answer": "Durum"
+      },
+      {
+        "question": "Is there a certification logo visible on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary ingredient stated on the packaging?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What is the descriptive word next to 'Organic' on the packaging?",
+        "answer": "Durum"
+      },
+      {
+        "question": "Is there visible text about the weight or quantity of the product?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

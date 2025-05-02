@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted on the phone case's surface?",
+        "question": "What is the predominant color scheme of the depicted image on the phone case?",
         "answer": "Autumnal"
       },
       {
-        "question": "What natural feature is prominently displayed across the phone case design?",
+        "question": "What natural element is prominently featured in the central design of this phone case?",
         "answer": "Trees"
       },
       {
-        "question": "What kind of path is visually prominent within the phone case's image?",
-        "answer": "Road"
+        "question": "Describe the path's visual texture, as shown on the phone case's printed image?",
+        "answer": "Earthy"
       },
       {
-        "question": "What is the apparent season illustrated in the phone case's photographic representation?",
+        "question": "What season is evoked by the color palette used on this phone case's design?",
         "answer": "Autumn"
       },
       {
-        "question": "Describe the overall tone of colors on the phone case design.",
-        "answer": "Warm"
-      },
-      {
-        "question": "What is the apparent texture of the leaves illustrated on the phone case?",
-        "answer": "Rough"
-      },
-      {
-        "question": "What is the apparent material of the product shown in the image?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What type of foliage is visible along the path shown on the phone case?",
-        "answer": "Deciduous"
-      },
-      {
-        "question": "What is the overall shape of the product in the provided image?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the apparent state of the leaves visible within the phone case image?",
-        "answer": "Fallen"
-      },
-      {
-        "question": "What is the primary photographic subject of the phone case design?",
-        "answer": "Landscape"
-      },
-      {
-        "question": "What is the overall aesthetic of the phone case's design?",
+        "question": "Considering the image printed on the phone case, what is the overall mood or atmosphere?",
         "answer": "Serene"
       },
       {
-        "question": "Considering the colors, what feeling does the phone case evoke?",
-        "answer": "Calm"
+        "question": "What is the apparent material of the phone case itself, based solely on its visual appearance?",
+        "answer": "Plastic"
       },
       {
-        "question": "What type of trees appear to be shown in the phone case's printed image?",
-        "answer": "Tall"
+        "question": "What is the shape of the phone case, as shown in this product image?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the implied atmospheric condition present in the phone case image?",
+        "question": "Judging by the image, what is the primary subject matter of the phone case's design?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "What kind of foliage is depicted most prominently on this phone case's design?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "Based on its appearance, what is the likely finish of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the path shown in the image on the phone case; what kind of path is it?",
+        "answer": "Dirt"
+      },
+      {
+        "question": "What is the visual texture of the trees depicted in the design on the phone case?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the light conditions suggested by the image printed on the phone case?",
         "answer": "Misty"
+      },
+      {
+        "question": "What type of trees seem to line the path depicted on the phone case?",
+        "answer": "Deciduous"
+      },
+      {
+        "question": "What is the overall style of the design on this phone case, from a visual perspective?",
+        "answer": "Nature"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a7ba783.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the shoe's upper?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Describe the material appearing to constitute the shoe's main body?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "What color is the prominent contrasting panel on the shoe's heel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the style of the laces used on this shoe?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What color are the laces?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the shoe's sole?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Describe the texture of the visible outer sole?",
+        "answer": "Grooved"
+      },
+      {
+        "question": "What color is the outsole of the shoe?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of closure mechanism is used on these shoes?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the apparent design of the shoe's toe cap?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent material of the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What subtle color accent is present on the shoe's heel tab?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Describe the stitching pattern visible on the shoe's vamp?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the style of the shoe?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "Is the heel of this shoe noticeably elevated?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]
