@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/91/9164e4f2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the picture frame's border?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the frame's visible border?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the overall form, what is the shape of the frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the frame's visible exterior surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the frame display any noticeable patterns or designs on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent orientation of the presented frame on the left?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent orientation of the presented frame on the right?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is there any visible branding or logo present on the frame's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent style of the frame's design, minimal or ornate?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on its appearance, what is the intended purpose of this frame?",
+        "answer": "Display"
+      },
+      {
+        "question": "Judging by the image, what is the visible width of the frame's border?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "What kind of material seems to be used for the frame's backing or support?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Observing the included document, what type of paper is suggested?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the visible color of the inner matte of the frame?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the overall visual impression: simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/811325fb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the nutrition label, considering the text and background?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts panel as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary font style used for the 'Nutrition Facts' heading, taking into account its weight and serifs?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual prominence, what is the type of data predominantly displayed on the panel?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the text formatting style used for numerical values of nutrients, such as grams and milligrams?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the format for presenting the nutritional value percentages relative to a daily diet?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the unit of measurement used for the serving size indicated on the panel?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the visual method used to separate the different nutritional components within the panel?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the text's visual alignment with respect to the bounding box of the nutrition facts panel?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the visual representation of the values of the 'Daily Value' expressed?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the overall texture of the nutrition facts panel shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual style of the numbers representing the calorie count?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visual style of the \u2018% Daily Value\u2019 column, considering its width and alignment?",
+        "answer": "Right-aligned"
+      },
+      {
+        "question": "What is the visual style of the section header 'Nutrition Facts', in terms of size and typeface?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the method for visually differentiating between the name of the nutrient and its quantity?",
+        "answer": "Spacing"
+      }
+    ]
+  }
+]

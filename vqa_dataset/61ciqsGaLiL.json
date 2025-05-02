@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case, as shown in the main image?",
+        "question": "What is the predominant color of the phone case shown in the image?",
         "answer": "Black"
       },
       {
-        "question": "Considering the main view, what appears to be the primary material of this phone case?",
+        "question": "Judging from the image, what appears to be the primary material of this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Based on the image's side views, what color are the accents on the case's edges?",
-        "answer": "Gold"
-      },
-      {
-        "question": "What is the overall shape of the phone case as depicted in the product image?",
+        "question": "Based on the provided image, what is the overall shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Judging from the provided image, does the case seem to have a matte or glossy finish?",
+        "question": "What color is the visible portion of the side accents of this mobile phone case?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Considering the image, what design element is noticeable near the phone's camera cutout?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Does the phone case in the image exhibit a glossy or matte finish?",
         "answer": "Matte"
       },
       {
-        "question": "In the main image, are there any visible patterns or designs on the phone case's surface?",
-        "answer": "None"
-      },
-      {
-        "question": "From the multiple views, can you describe the apparent thickness of the phone case?",
-        "answer": "Slim"
-      },
-      {
-        "question": "What seems to be the purpose of the cutouts visible near the top of the case?",
-        "answer": "Camera"
-      },
-      {
-        "question": "Does the displayed phone case appear to completely enclose the phone?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Observing the side views, how many cutouts or openings are visible?",
-        "answer": "Two"
-      },
-      {
-        "question": "Considering the image detail, is the case design simple or ornate?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Based on the image, does the phone case have any visible branding or logos?",
-        "answer": "No"
-      },
-      {
-        "question": "Judging by the image, does the case seem rigid or flexible?",
-        "answer": "Rigid"
-      },
-      {
-        "question": "From the image provided, what is the overall texture of the phone case?",
+        "question": "From the image, what seems to be the texture of the phone case surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the provided views, how many pieces make up this case?",
-        "answer": "One"
+        "question": "Considering the provided image, is the case design minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Observing the image carefully, how many visible cutouts are present on the phone case?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the image show any noticeable patterns or prints on the phone case?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent thickness of the phone case based on the image?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Judging by the image, what is the overall style of the phone case: rugged or sleek?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Based on the visual, does the case seem flexible or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the apparent level of detail in the phone case's design: high or low?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the image, describe the case's fit: snug or loose?",
+        "answer": "Snug"
       }
     ]
   }
