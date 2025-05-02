@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the depicted footwear?",
+        "question": "What is the dominant color of the men's formal shoes shown in the image?",
         "answer": "Black"
       },
       {
-        "question": "What style of closure is present on these formal shoes?",
-        "answer": "Lace-up"
+        "question": "What type of closure mechanism is visibly present on the footwear?",
+        "answer": "Lace"
       },
       {
-        "question": "What is the apparent material composition of the shoes' upper?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Describe the overall shape of the shoe's toe-cap region?",
+        "question": "What is the overall shape of the toe of each shoe in the product image?",
         "answer": "Pointed"
       },
       {
-        "question": "What kind of visible detailing is found on the shoe's vamp?",
+        "question": "Considering the visual appearance, what is the likely material of the upper shoe?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what design element is visible on the shoe's vamp?",
         "answer": "Brogue"
       },
       {
-        "question": "Considering the footwear's design, what is its most likely intended use?",
-        "answer": "Formal"
-      },
-      {
-        "question": "Based on its construction, what is the shoes' heel type?",
-        "answer": "Low"
-      },
-      {
-        "question": "What is the apparent texture of the leather upper?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Observing the sole, what is its apparent construction?",
-        "answer": "Solid"
-      },
-      {
-        "question": "What is the general style of this particular pair of shoes?",
+        "question": "Judging by the image provided, what is the style of the presented footwear?",
         "answer": "Oxford"
       },
       {
-        "question": "Based on the image, how many shoes are depicted in the product image?",
-        "answer": "Two"
+        "question": "What is the apparent texture of the outer surface of the shoes displayed?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the design elements, what is the aesthetic of these shoes?",
-        "answer": "Classic"
+        "question": "Describe the visible heel height of these men's formal shoes, in comparison to other dress shoes?",
+        "answer": "Low"
       },
       {
-        "question": "Can you describe the visible stitching on the shoes?",
-        "answer": "Minimal"
+        "question": "Does the image show any visible stitching details on the footwear's construction?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the apparent condition of the shoes in the image?",
+        "question": "What is the apparent finish of the shoe's leather, based on the reflection in the image?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "From the image, what is the general condition of the shoes shown?",
         "answer": "New"
       },
       {
-        "question": "What is the design pattern apparent on the toe cap?",
-        "answer": "Perforated"
+        "question": "Considering the style, are these shoes designed for casual or formal occasions?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What kind of sole is shown on the displayed pair of shoes?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the visible color of the shoes' inner lining, as shown?",
+        "answer": "Tan"
+      },
+      {
+        "question": "Are there any visible brand logos or markings displayed on the shoes?",
+        "answer": "No"
       }
     ]
   }
