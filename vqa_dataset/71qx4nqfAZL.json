@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/dbfefddc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's design?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the primary shape of the phone case?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the main graphic element covering the phone case?",
+        "answer": "Stars"
+      },
+      {
+        "question": "What seems to be the material texture of the phone case design?",
+        "answer": "Glittery"
+      },
+      {
+        "question": "Considering the visual effect, what is the apparent material of the stars?",
+        "answer": "Sequins"
+      },
+      {
+        "question": "What is the overall design aesthetic suggested by the phone case?",
+        "answer": "Sparkly"
+      },
+      {
+        "question": "Describe the visual arrangement of the star design on the case",
+        "answer": "Scattered"
+      },
+      {
+        "question": "What kind of camera is visible on the phone's rear?",
+        "answer": "Single"
+      },
+      {
+        "question": "How would you characterize the color variation in the star design?",
+        "answer": "Gradual"
+      },
+      {
+        "question": "Judging by the image, is the phone case matte or glossy?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the apparent orientation of the stars on the phone case?",
+        "answer": "Random"
+      },
+      {
+        "question": "What color is the background between the star shapes?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Does the phone case show any visible seams or edges?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visual style of the star design on the case",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Based on the image, what is the phone case primarily made of?",
+        "answer": "Plastic"
+      }
+    ]
+  }
+]
