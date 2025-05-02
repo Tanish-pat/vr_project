@@ -13,56 +13,56 @@
         "answer": "Plastic"
       },
       {
-        "question": "Considering the overall design, what is the intended user group for these chairs?",
+        "question": "Considering the overall design, what is the intended use of these chairs?",
         "answer": "Children"
       },
       {
-        "question": "Describe the shape of the chair's backrest, paying close attention to its curvature and form?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "Based on the image, what is the apparent texture of the chair's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Judging by the visible legs, what is the structural design of the chair's base?",
-        "answer": "Four-legged"
-      },
-      {
-        "question": "What is the relative size of the chair in the foreground compared to the stacked chairs?",
-        "answer": "Smaller"
-      },
-      {
-        "question": "What type of surface is visibly apparent on the chairs' seating area?",
-        "answer": "Flat"
-      },
-      {
-        "question": "In the image, how many chairs are visibly stacked on top of one another?",
-        "answer": "Seven"
-      },
-      {
-        "question": "Considering the overall form, what is the chair's general shape classification?",
+        "question": "Based on the visual appearance, what is the general shape of each chair?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the general style and aesthetic of the chairs illustrated, considering the colors and shapes?",
+        "question": "Describe the texture of the chair's surface, as observed in the image provided.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the back rest, what is the profile or curvature?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent leg structure of each chair, observing their arrangement?",
+        "answer": "Four"
+      },
+      {
+        "question": "Judging by the image, what is the style of the chair's seat?",
         "answer": "Simple"
       },
       {
-        "question": "What is the apparent structural integrity and sturdiness of the chairs, based solely on their design?",
-        "answer": "Stable"
+        "question": "Considering the size variation in the image, how many sizes of chair are shown?",
+        "answer": "Two"
       },
       {
-        "question": "What seems to be the intended function of this particular piece of furniture, based on its design?",
-        "answer": "Seating"
+        "question": "Observing the chairs, describe the overall design aesthetic.",
+        "answer": "Basic"
       },
       {
-        "question": "Describe the visible components of the chairs, without listing individual parts. ",
-        "answer": "Unitary"
+        "question": "What is the apparent stacking capability of the chairs in this image?",
+        "answer": "Stackable"
       },
       {
-        "question": "Are there any visible patterns, designs, or embellishments on the chair's surface?",
-        "answer": "None"
+        "question": "Examine the seat and back; what is the visual relationship between these parts?",
+        "answer": "Integrated"
+      },
+      {
+        "question": "Considering the chair's structure, describe its apparent sturdiness.",
+        "answer": "Durable"
+      },
+      {
+        "question": "What is the visible design element located at the back of the chair seat?",
+        "answer": "Curve"
+      },
+      {
+        "question": "Given the image, what is the general condition of the displayed chairs?",
+        "answer": "New"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3a5348fb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the wire composing the light string?",
+        "answer": "Copper"
+      },
+      {
+        "question": "Describe the overall shape of the light string as it is presented in the image.",
+        "answer": "Coiled"
+      },
+      {
+        "question": "What is the primary light emission characteristic of the individual LEDs?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "What is the apparent material of the light string's thin conductive wire?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the density of LEDs, how would you characterize the light string's coverage?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the overall visual impression of the light emitted by the LEDs?",
+        "answer": "Bright"
+      },
+      {
+        "question": "What is the apparent visual texture of the light string's thin wire?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the form factor of the lights' power source, visually discernible?",
+        "answer": "External"
+      },
+      {
+        "question": "Based on visual observation, is the light string flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the size of the LEDs, how would you describe their scale?",
+        "answer": "Miniature"
+      },
+      {
+        "question": "What best describes the visual arrangement of the LEDs along the wire?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by the image, what is the general luminosity level of the LEDs?",
+        "answer": "High"
+      },
+      {
+        "question": "What appears to be the surface finish of the wire's metallic coating?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the visual appearance of the light emitted from each individual diode?",
+        "answer": "Point"
+      },
+      {
+        "question": "From the image, what is the general visual style of the light string?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the rice depicted on the packaging?",
+        "question": "What is the primary color of the rice depicted on the packaging?",
         "answer": "White"
       },
       {
-        "question": "What type of rice is specified on the product's primary label?",
-        "answer": "Sushi"
-      },
-      {
-        "question": "What grain size is explicitly mentioned for this rice variety?",
+        "question": "What type of grain is specified on the packaging?",
         "answer": "Short"
       },
       {
-        "question": "What is the overall shape of the flexible packaging containing the rice?",
+        "question": "What is the overall shape of the product's packaging?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the predominant color of the brand logo displayed prominently?",
-        "answer": "Green"
+        "question": "What is the main text indicating the product's use?",
+        "answer": "Sushi"
       },
       {
-        "question": "What material appears to constitute the main rice packaging?",
+        "question": "What brand name is prominently displayed on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the primary material of the product's packaging?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall texture implied by the image of the rice grains?",
-        "answer": "Grainy"
-      },
-      {
-        "question": "What is the primary color of the bowls shown in the package illustration?",
-        "answer": "Pastel"
-      },
-      {
-        "question": "What is the style of the graphic design employed on the packaging?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What is the overall color scheme used for the leafy design elements?",
+        "question": "What color are the bowls shown on the packaging?",
         "answer": "Multicolored"
       },
       {
-        "question": "What word appears immediately below the brand name on the packaging?",
-        "answer": "Market"
+        "question": "What is the predominant color scheme of the packaging design?",
+        "answer": "Pastel"
       },
       {
-        "question": "What is the shape of the logo on the packaging, aside from the text?",
-        "answer": "Circular"
+        "question": "What is the text describing the rice's grain type?",
+        "answer": "White"
       },
       {
-        "question": "What kind of certification mark can be found on the package?",
-        "answer": "USDA"
+        "question": "What is the shape of the bowls illustrated on the packaging?",
+        "answer": "Round"
       },
       {
-        "question": "What color is the text indicating the rice type prominently displayed?",
-        "answer": "Black"
+        "question": "What is the descriptive term for the rice's grain size?",
+        "answer": "Short"
       },
       {
-        "question": "What is the texture of the packaging implied by its appearance?",
-        "answer": "Smooth"
+        "question": "What is the country of origin indicated on the packaging?",
+        "answer": "USA"
+      },
+      {
+        "question": "What is the style of the graphic design elements on the packaging?",
+        "answer": "Illustrative"
+      },
+      {
+        "question": "What is the overall tone or style of the packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the texture of the rice shown in the packaging illustration?",
+        "answer": "Grainy"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/52/52dafa61.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometric shape exhibited by the majority of the pretzels depicted?",
+        "answer": "Twisted"
+      },
+      {
+        "question": "Focusing on the surface texture, what tactile quality is visually apparent on the pretzel's exterior?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Observing the color palette, what primary hue predominates in the pretzel's visual presentation?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the visual appearance, what is the apparent dominant ingredient in the pretzel's composition?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What is the apparent dominant texture of the pretzel based on the visual information?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "Judging by the image, what seems to be the primary cooking method used to prepare these pretzels?",
+        "answer": "Baked"
+      },
+      {
+        "question": "Examining the image, what appears to be the overall size of a single pretzel, relative to a typical adult hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What type of visual pattern or design is most prominently displayed across the pretzel's surface?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Based on the visual characteristics of the product, what is the likely culinary classification of these pretzels?",
+        "answer": "Snack"
+      },
+      {
+        "question": "Considering the visual appearance, what appears to be the degree of saltiness of the pretzels based solely on the visual information?",
+        "answer": "Salty"
+      },
+      {
+        "question": "From a visual standpoint, what appears to be the level of crispness of these pretzels?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on visual observation, what ingredients appear to be sprinkled on the pretzels?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visible consistency of the pretzel, based on the image?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the visible characteristics, are the pretzels individually packaged?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible number of pretzels in the image?",
+        "answer": "Many"
+      }
+    ]
+  }
+]

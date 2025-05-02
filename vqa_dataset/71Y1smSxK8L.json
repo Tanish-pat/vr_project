@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/20cde4b7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted phone case's design?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What natural element is prominently featured in the phone case's image?",
+        "answer": "Sunset"
+      },
+      {
+        "question": "Considering the design, what type of landscape is represented on the phone case?",
+        "answer": "Tropical"
+      },
+      {
+        "question": "What kind of trees are shown silhouetted against the sunset?",
+        "answer": "Palms"
+      },
+      {
+        "question": "What is the apparent texture of the phone case's surface, judging from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible edges, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many palm trees are depicted in the sunset scene on the case?",
+        "answer": "Two"
+      },
+      {
+        "question": "What appears to be the primary material used to construct the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the style of the image on the phone case, considering the color tones and subject matter.",
+        "answer": "Silhouette"
+      },
+      {
+        "question": "What is the apparent visual style of the palm trees in relation to the background?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the primary light source apparent in the image showcased on the phone case?",
+        "answer": "Sun"
+      },
+      {
+        "question": "Judging by the image, what is the general color of the ground in the scene depicted?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall design aesthetic of the phone case's printed image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the inferred position of the sun in the scene depicted on the phone case?",
+        "answer": "Setting"
+      },
+      {
+        "question": "Does the phone case image include any significant additional elements besides the sunset and palms?",
+        "answer": "No"
+      }
+    ]
+  }
+]
