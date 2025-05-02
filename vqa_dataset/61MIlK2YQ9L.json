@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/65/656dac67.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the cable's outer sheath?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What material appears to constitute the cable's braiding?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What type of connector is present at the cable's right end?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "Describe the texture of the cable's outer covering?",
+        "answer": "Braided"
+      },
+      {
+        "question": "What Apple connector type is visible at the cable's left end?",
+        "answer": "Lightning"
+      },
+      {
+        "question": "What is the overall shape of the cable when laid flat?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What seems to be the primary function of this cable?",
+        "answer": "Charging"
+      },
+      {
+        "question": "What color are the metallic connector housings?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the general appearance of the cable's surface finish?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "Is the cable's braiding uniformly distributed along its length?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What small symbol is visible near the USB-C connector?",
+        "answer": "USB"
+      },
+      {
+        "question": "What brand logo is subtly displayed on the Lightning connector?",
+        "answer": "AmazonBasics"
+      },
+      {
+        "question": "Does the cable appear to be flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Describe the cable's construction; is it single or multi-strand?",
+        "answer": "Multi-strand"
+      },
+      {
+        "question": "What is the apparent overall length of the displayed cable?",
+        "answer": "Long"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/be8e5841.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted lightbulb?",
+        "answer": "A60"
+      },
+      {
+        "question": "What dominant color characterizes the bulb's exterior?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the lightbulb's outer casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent finish of the lightbulb's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of base does this LED lightbulb possess?",
+        "answer": "Edison"
+      },
+      {
+        "question": "What metal is visibly used in the lightbulb's base?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Considering the image, what is the lightbulb's light emission type?",
+        "answer": "Diffuse"
+      },
+      {
+        "question": "Describe the visible texture of the lightbulb's surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the primary function of the object shown?",
+        "answer": "Lighting"
+      },
+      {
+        "question": "Observing the details, what technology is employed by the bulb?",
+        "answer": "LED"
+      },
+      {
+        "question": "What is the general visual impression of the lightbulb's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the image, how many visible parts comprise the bulb?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the visible color of the lightbulb's metallic base?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Describe the visible level of surface reflectivity.",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the overall aesthetic of the pictured LED lightbulb?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

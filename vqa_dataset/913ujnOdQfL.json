@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6aec12d2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the main pillow fabric?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the color of the vertical accent strip?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the texture of the main fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "What is the apparent material of the vertical accent strip?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What is the overall shape of the decorative pillow?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many distinct material types are visibly present?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the orientation of the accent strip on the pillow?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the pillow design primarily patterned or solid?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the general style of the accent strip design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the pillow appear to be filled or unfilled?",
+        "answer": "Filled"
+      },
+      {
+        "question": "What is the approximate aspect ratio of the pillow?",
+        "answer": "Long"
+      },
+      {
+        "question": "Considering the seams, does the pillow seem well-constructed?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the color contrast, is the design striking?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the texture of the accent strip smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual prominence of the vertical stripe.",
+        "answer": "Moderate"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fd6d8155.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rectangular bath mat?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary material used in the mat's construction?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Considering the texture, how would you describe the surface of the bath mat?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the overall shape of the presented bath mat product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the edges, what kind of finish do they exhibit?",
+        "answer": "Hemmed"
+      },
+      {
+        "question": "Judging by its appearance, what is the likely purpose of this item?",
+        "answer": "Bath"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the texture of the mat's surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent thickness of the bath mat, considering its visual presentation?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the image, does the mat exhibit any visible patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the mat show any evidence of additional layers or backing materials?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the color of the bath mat uniform across its surface area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent absorbency of the presented bath mat based solely on visual appearance?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the edges, are there any visible fraying or unraveling?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, how would you describe the overall feel of the mat's surface?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What is the apparent weight of the bath mat based solely on visual assessment?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

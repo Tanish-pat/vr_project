@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant visual pattern displayed across the phone case?",
+        "question": "What is the predominant pattern adorning the phone case?",
         "answer": "Chevron"
       },
       {
-        "question": "What color is the prominent zig-zag stripe?",
+        "question": "What color dominates the zigzag pattern's peaks?",
         "answer": "Pink"
       },
       {
-        "question": "What is the texture or finish appearing on the phone case?",
+        "question": "What is the primary texture suggested by the image?",
         "answer": "Glitter"
       },
       {
-        "question": "What is the secondary color in the repeating zig-zag pattern?",
-        "answer": "Gold"
-      },
-      {
-        "question": "What is the third color featured within the chevron design?",
-        "answer": "Teal"
-      },
-      {
-        "question": "What color is the background color between the zig-zag stripes?",
+        "question": "Describe the color of the zigzags' valleys in the pattern?",
         "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the depicted product?",
-        "answer": "Rectangular"
+        "question": "What secondary color is present in the chevron pattern?",
+        "answer": "Gold"
       },
       {
-        "question": "What appears to be the material of this phone cover?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What color is the visible camera hole on the phone case?",
+        "question": "What is the color of the visible camera cutout on the phone case?",
         "answer": "Orange"
       },
       {
-        "question": "Considering the design, what is the style of the phone case?",
+        "question": "What material is implied by the sparkly appearance of the case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is interspersed among the pink chevrons?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the overall shape of the depicted phone accessory?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual appearance of the phone case's surface?",
+        "answer": "Sparkly"
+      },
+      {
+        "question": "What is the style of the design on the phone cover?",
         "answer": "Geometric"
       },
       {
-        "question": "What is the apparent condition of the phone case in the image?",
-        "answer": "New"
+        "question": "What is the visible phone case design type?",
+        "answer": "Printed"
       },
       {
-        "question": "What type of phone is this case designed for?",
-        "answer": "Smartphone"
+        "question": "What is the inferred style of the depicted phone case?",
+        "answer": "Glamorous"
       },
       {
-        "question": "How many primary colors compose the chevron pattern?",
-        "answer": "Three"
+        "question": "What type of phone case is shown in the provided image?",
+        "answer": "Back"
       },
       {
-        "question": "Is the product shown in a protective casing in the image?",
-        "answer": "No"
-      },
-      {
-        "question": "Based on the image, what is the case's primary function?",
-        "answer": "Protection"
+        "question": "What is the general color family of the pattern shown?",
+        "answer": "Pastel"
       }
     ]
   }

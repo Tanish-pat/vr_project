@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/98009459.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the upholstered portion of the bar stool?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of the chair's seat and back?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape of the bar stool's backrest, viewed from the rear?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish or color of the bar stool's metal legs?",
+        "answer": "Bronze"
+      },
+      {
+        "question": "Considering the image, what kind of metal seems to be used for the frame?",
+        "answer": "Steel"
+      },
+      {
+        "question": "What is the texture of the fabric covering the chair's back and seat?",
+        "answer": "Woven"
+      },
+      {
+        "question": "How many distinct horizontal supports are visible beneath the seat?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the general style of the bar stool's legs; straight or tapered?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the backrest exhibit any noticeable stitching or seam details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Characterize the overall aesthetic of this piece; modern or traditional?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Judging by the image, what is the height of the back relative to the seat?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What design feature is apparent at the very top of the backrest?",
+        "answer": "Padding"
+      },
+      {
+        "question": "What shape do the legs of this chair form at the base?",
+        "answer": "Square"
+      },
+      {
+        "question": "Is the fabric on the seat visibly patterned or plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the materials, what is the probable overall weight of the stool?",
+        "answer": "Heavy"
+      }
+    ]
+  }
+]

@@ -9,7 +9,7 @@
         "answer": "White"
       },
       {
-        "question": "What color is the visible interior of the washing machine drum?",
+        "question": "What color is the prominent circular element inside the washing machine door?",
         "answer": "Black"
       },
       {
@@ -21,48 +21,48 @@
         "answer": "Cylindrical"
       },
       {
-        "question": "What is the apparent color of the laundry hamper?",
+        "question": "What is the apparent material of the washing machine's exterior?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the laundry hamper?",
         "answer": "Beige"
       },
       {
-        "question": "What type of control panel does the washing machine possess?",
-        "answer": "Digital"
-      },
-      {
-        "question": "Describe the handle design on the laundry hamper.",
-        "answer": "Simple"
-      },
-      {
-        "question": "What kind of door does the washing machine have?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What seems to be the texture of the laundry hamper?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Does the washing machine have any visible branding?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the general shape of the laundry hamper?",
+        "question": "Describe the shape of the laundry hamper?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the material of the washing machine's outer casing.",
-        "answer": "Metal"
+        "question": "What kind of handle is present on the laundry hamper?",
+        "answer": "Cut-out"
       },
       {
-        "question": "What is the apparent finish of the washing machine's door?",
-        "answer": "Glossy"
+        "question": "What is the design of the control panel on the washing machine?",
+        "answer": "Digital"
       },
       {
-        "question": "Are there any visible buttons or knobs on the washing machine?",
-        "answer": "Yes"
+        "question": "Is the door of the washing machine primarily transparent or opaque?",
+        "answer": "Opaque"
       },
       {
-        "question": "Considering the image, what is the position of the laundry hamper?",
-        "answer": "Right"
+        "question": "What seems to be the texture of the laundry hamper's fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of opening does the washing machine door have?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Describe the handle on the washing machine door?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "How many visible control knobs are on the washing machine?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the position of the laundry hamper relative to the washing machine?",
+        "answer": "Adjacent"
       }
     ]
   }

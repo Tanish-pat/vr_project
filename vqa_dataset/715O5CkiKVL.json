@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f864fd2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the visible plush outer surface of the pet bed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the dominant texture of the outer material of the pet bed?",
+        "answer": "Fluffy"
+      },
+      {
+        "question": "What is the overall shape of the assembled pet bed shown in the images?",
+        "answer": "Round"
+      },
+      {
+        "question": "What seems to be the main filling material used to stuff this pet bed?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What kind of closure mechanism seems to be used to access the interior of the pet bed?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Judging by the images, does the pet bed appear to have a raised rim?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the images, what seems to be the general purpose of this product?",
+        "answer": "Pet"
+      },
+      {
+        "question": "Does the product appear to be designed for an animal of a particular size?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the provided images, what is the apparent condition of the product shown before assembly?",
+        "answer": "Compressed"
+      },
+      {
+        "question": "Considering the images, what is the apparent state of the product after it has been completely assembled?",
+        "answer": "Plump"
+      },
+      {
+        "question": "What is the most apparent stage of the assembly instructions depicted which involves shaking?",
+        "answer": "Fluffing"
+      },
+      {
+        "question": "Does the packaging appear to be vacuum-sealed before the product is initially opened?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on visual inspection, what seems to be the material of the inner cushion?",
+        "answer": "Foam"
+      },
+      {
+        "question": "In the provided image sequence, what is the primary tool used for filling the pet bed?",
+        "answer": "Hands"
+      },
+      {
+        "question": "Judging from the images, does the product demonstrate any particular assembly difficulty?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

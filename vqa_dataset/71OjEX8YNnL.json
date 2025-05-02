@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3c32ef8e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color are the decorative floral patterns on the case?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall design style of the phone case's pattern?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What appears to be the material of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the shape of the phone case in relation to the phone it encases?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish or texture of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the design, is this case primarily decorative or protective?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "Are the floral designs symmetrical on the phone case's back?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the design extend to the sides of the phone case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what is the phone case's primary function?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What style best describes the white floral pattern's details?",
+        "answer": "Ornate"
+      },
+      {
+        "question": "Does the phone case have a visible brand logo or marking?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what kind of phone does this case fit?",
+        "answer": "Smartphone"
+      },
+      {
+        "question": "What kind of image or pattern is displayed on the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Does the case show any visible signs of wear or damage?",
+        "answer": "No"
+      }
+    ]
+  }
+]

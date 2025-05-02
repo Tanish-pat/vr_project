@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the visible content and its packaging, what is the primary ingredient indicated on the label?",
+        "question": "Considering the visible contents and label, what single-word culinary description best encapsulates this product?",
         "answer": "Garlic"
       },
       {
-        "question": "Based on the image, what is the form of the culinary product presented in the jar?",
+        "question": "Based on the labeling and the appearance of the contents, what is the form of the product inside the jar?",
         "answer": "Powder"
       },
       {
-        "question": "What is the apparent color of the powdered substance contained within the clear glass jar?",
-        "answer": "Off-white"
-      },
-      {
-        "question": "What kind of seal is present on top of the spice jar, as depicted in the provided image?",
-        "answer": "Black"
-      },
-      {
-        "question": "What material appears to compose the primary container holding the garlic powder?",
+        "question": "Observing the jar's lid and its overall design, what material is primarily used for its construction?",
         "answer": "Glass"
       },
       {
-        "question": "According to the label shown, what is the certification held by the garlic powder product?",
+        "question": "Judging by the color of the powder within the jar, what would you describe its shade as?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Examining the jar's label, what certification does the product prominently display?",
         "answer": "Organic"
       },
       {
-        "question": "Observing the label design, what is the brand name visibly printed on the product's packaging?",
+        "question": "From the visible text on the label, what is the brand name associated with this product?",
         "answer": "365"
       },
       {
-        "question": "What is the overall shape of the container that houses the garlic powder, as shown in the image?",
+        "question": "Considering the jar's shape and dimensions, what geometrical term best describes its overall form?",
         "answer": "Cylindrical"
       },
       {
-        "question": "Judging by the image, what is the general texture of the visible garlic powder in the jar?",
+        "question": "Looking at the texture of the powder, how would you describe its visual consistency inside the jar?",
         "answer": "Fine"
       },
       {
-        "question": "From the image, describe the style of labeling used on the jar to indicate the product's contents.",
+        "question": "Focusing on the label's design elements, what style would you classify its overall aesthetic?",
         "answer": "Minimalist"
       },
       {
-        "question": "What is the overall visual tone presented by the design elements featured on the jar\u2019s label?",
-        "answer": "Neutral"
+        "question": "Analyzing the label's color palette, what is the predominant color used on the label's background?",
+        "answer": "Off-white"
       },
       {
-        "question": "Based solely on the image, what seems to be the weight specified on the spice jar label?",
-        "answer": "2.53"
+        "question": "What is the cap/lid material of this glass jar container based on the appearance of the top?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the apparent unit of measurement for the product's weight, as shown in the image provided?",
-        "answer": "Oz"
+        "question": "Given the information on the label, what is the weight measurement indicated for this container?",
+        "answer": "2.55"
       },
       {
-        "question": "What additional word, besides 'Garlic', appears on the label to define the product's state?",
-        "answer": "Powder"
+        "question": "Describing the style of the typography on the label, what is the font's overall character?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "What is the color of the writing on the label, aside from the brand logo?",
-        "answer": "Brown"
+        "question": "Observing the label closely, what single word describes the state of the garlic inside?",
+        "answer": "Pure"
+      },
+      {
+        "question": "Considering the product's purpose, what general culinary category does it belong to?",
+        "answer": "Spice"
       }
     ]
   }

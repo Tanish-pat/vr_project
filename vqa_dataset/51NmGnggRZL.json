@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1d65fd3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the sofa cover, as shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material of the sofa cover?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the visual evidence, what is the overall shape of the sofa cover depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the image carefully, what is the apparent texture of the sofa cover's fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, what style or design best describes the sofa cover's armrests?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "As depicted in the image, what is the visible color of the small legs supporting the sofa cover?",
+        "answer": "Light"
+      },
+      {
+        "question": "From the image, what seems to be the approximate number of seat cushions on this sofa cover?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent overall style of the sofa cover, as depicted?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging only from the image, how many visible seams appear on the sofa cover's front?",
+        "answer": "Five"
+      },
+      {
+        "question": "Does the image show any noticeable patterns or prints on the sofa cover's fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the fabric of the sofa cover visibly shiny or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image alone, does the sofa cover appear to have a thick or thin profile?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the apparent level of detail in the design of the sofa cover?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Judging from the image, does the sofa cover have any visible embellishments or fringes?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the picture, what is the general condition of the sofa cover?",
+        "answer": "New"
+      }
+    ]
+  }
+]

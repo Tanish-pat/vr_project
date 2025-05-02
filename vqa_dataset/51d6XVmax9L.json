@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/41/41b2377e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the container holding the cleaning solution?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Jug"
+      },
+      {
+        "question": "What material appears to constitute the main body of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the prominent descriptor of the cleaning solution's function, as displayed on the label?",
+        "answer": "Cleaner"
+      },
+      {
+        "question": "What type of cleaner is prominently indicated on the product label?",
+        "answer": "Peroxide"
+      },
+      {
+        "question": "What is the apparent purpose, as stated on the label, for which this product is designed?",
+        "answer": "Multipurpose"
+      },
+      {
+        "question": "What color is the band on the label displaying the product information?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the material that appears to form the handle of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the handle's design, what is the likely means of carrying the product?",
+        "answer": "Handle"
+      },
+      {
+        "question": "What is the general texture of the container's surface, based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the container exhibit a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of closure does the container appear to have on its top?",
+        "answer": "Cap"
+      },
+      {
+        "question": "What is the printed word next to 'Multi-Purpose' on the label?",
+        "answer": "Peroxide"
+      },
+      {
+        "question": "Considering the size, what is the likely volume capacity of this container?",
+        "answer": "Gallon"
+      },
+      {
+        "question": "What is the color of the background surface upon which the product is displayed?",
+        "answer": "Yellow"
+      }
+    ]
+  }
+]

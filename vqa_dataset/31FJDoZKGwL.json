@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/99/99960dd9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall text displayed, what single word best describes the main ingredient declared?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What adjective, visible in the presented text, modifies the key ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the visible text, what is the single word that precedes 'Organic Eggs'?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Disregarding punctuation, what is the final word seen within the provided text snippet?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What is the most prominent word in terms of visual size in the presented text sample?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What single-word descriptor best represents the overall style of the text's typeface?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Ignoring capitalization, what is the most frequently repeated word in this text?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What is the color of the ink used to print the visible text on the surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "If describing the surface texture, what is a single word to characterize the background?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the general shape of the text block displayed within the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the spacing, how could the alignment of the text be described?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the main visible subject of the provided image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Disregarding any descriptors, what is the only noun explicitly stated?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "In the text, what word indicates a list of components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What single word describes the case of the lettering used in the text?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

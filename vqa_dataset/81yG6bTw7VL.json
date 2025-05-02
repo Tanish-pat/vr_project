@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/34ba3cde.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material used in the construction of this drinking vessel?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the overall shape of the mug, considering its body and handle?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the color of the mug, ignoring any labels or markings?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the image, what is the apparent texture of the mug's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of handle does the mug possess, regarding its design and attachment?",
+        "answer": "C-shaped"
+      },
+      {
+        "question": "What is the approximate volume of liquid the mug is able to contain, based on the label?",
+        "answer": "470ml"
+      },
+      {
+        "question": "Is there any discernible pattern or ornamentation on the mug's exterior?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering its dimensions, does the mug appear to be tall or short?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Based on visual assessment, what is the mug's apparent weight and sturdiness?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Does the base of the mug exhibit a flat or curved profile?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Describe the design style of the mug's handle in terms of its simplicity or complexity.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the color of the volume label affixed to the mug's body?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the shape of the volume label affixed to the mug's body?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Does the glass appear thick or thin based on the image provided?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Is there any noticeable imperfection or damage visible on the mug's surface?",
+        "answer": "None"
+      }
+    ]
+  }
+]

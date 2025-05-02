@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c7/c736a6df.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed on the majority of the phone case's surface?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the overall design, what artistic style is most prominently featured on the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What specific texture is visually suggested by the image's pattern and color variations?",
+        "answer": "Painted"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the phone case's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the visible cut-out area for the phone's camera lens?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Describe the general shape of the phone case in relation to the device it encloses.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish of the case's surface based on the light reflection and color variations?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What secondary color prominently features along the right side of the main panel?",
+        "answer": "Red"
+      },
+      {
+        "question": "What color is visible along the left edge of the phone case, as seen from the side view?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What design element runs vertically down the central portion of the case's back?",
+        "answer": "Stripe"
+      },
+      {
+        "question": "Disregarding the central stripe, is the background pattern primarily uniform or varied?",
+        "answer": "Varied"
+      },
+      {
+        "question": "What color is displayed in the teal sections of the phone case?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the overall form factor of the object presented in this image?",
+        "answer": "Case"
+      },
+      {
+        "question": "What type of device does this case appear to be designed for, based on the visible cut-outs?",
+        "answer": "Phone"
+      },
+      {
+        "question": "Considering the image's presentation, how many sides of the case are clearly visible?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

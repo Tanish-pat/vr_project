@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01213229.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the phone case's design?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What style of lettering is prominently featured on the phone case?",
+        "answer": "Graffiti"
+      },
+      {
+        "question": "What specific phrase is depicted in the graffiti-style lettering?",
+        "answer": "Easy"
+      },
+      {
+        "question": "What appears to be the primary material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall texture implied by the case's design?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the shape of the phone case, in relation to the phone it encases?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the text on the phone case, contrasting the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is the phone case design predominantly abstract or representational?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What secondary color accents can be observed on the case\u2019s edges?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the case display any visible brand logos or markings beyond the design?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general aesthetic conveyed by the phone case design?",
+        "answer": "Urban"
+      },
+      {
+        "question": "How would you describe the visual style of the graffiti-style lettering?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visual, does the case appear to provide significant physical protection?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the overall visual complexity of the design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the design appear to be printed directly onto the phone case?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]
