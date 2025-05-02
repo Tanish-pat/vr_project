@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bb3ffb2b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material composing the hammer's head?",
+        "answer": "Steel"
+      },
+      {
+        "question": "What material constitutes the hammer's handle?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of the hammer's striking face?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What color is the hammer's head predominantly?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe the texture of the hammer's wooden handle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the hammer's wooden handle?",
+        "answer": "Light"
+      },
+      {
+        "question": "What type of hammer is depicted, based on its claw?",
+        "answer": "Claw"
+      },
+      {
+        "question": "Is there any noticeable branding or marking on the handle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the approximate shape of the hammer's claw?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the overall form factor of this tool?",
+        "answer": "Elongated"
+      },
+      {
+        "question": "Describe the finish of the hammer's metal head?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the design of the hammer's striking face?",
+        "answer": "Flat"
+      },
+      {
+        "question": "How many claws does the hammer possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the position of the branding on the handle?",
+        "answer": "Side"
+      },
+      {
+        "question": "Considering the materials, what is the likely weight of the hammer?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8fc909c9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the outerwear garment shown?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary material of the coat?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall shape or silhouette of the coat?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Describe the length of the sleeves on the coat.",
+        "answer": "Long"
+      },
+      {
+        "question": "What type of closure mechanism is visible on the coat?",
+        "answer": "Buttons"
+      },
+      {
+        "question": "How many visible pockets are there on the outerwear?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent collar style of the displayed trench coat?",
+        "answer": "Notched"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent finish of the coat?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall style of this apparel item displayed?",
+        "answer": "Trench"
+      },
+      {
+        "question": "Describe the fit of the displayed outer garment.",
+        "answer": "Relaxed"
+      },
+      {
+        "question": "What design feature is present at the cuffs of the coat?",
+        "answer": "Button"
+      },
+      {
+        "question": "What seems to be the approximate length of the coat?",
+        "answer": "Knee"
+      },
+      {
+        "question": "What is the dominant visual pattern of the coat?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on visual observation, what gender is the coat designed for?",
+        "answer": "Male"
+      },
+      {
+        "question": "What can be observed as the style of the coat's pockets?",
+        "answer": "Slant"
+      }
+    ]
+  }
+]
