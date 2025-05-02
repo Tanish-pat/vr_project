@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/35/3522348b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed footwear?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What is the primary material appearing to constitute the slipper?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the design, what type of footwear is depicted?",
+        "answer": "Flip-flops"
+      },
+      {
+        "question": "Describe the overall shape of the sole unit of the slipper?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the texture of the upper part of the footwear?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the texture of the sole, based on visible details?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What design element is present at the toe-post area of the slipper?",
+        "answer": "Grooved"
+      },
+      {
+        "question": "Does the slipper display any noticeable branding or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent pattern on the sole of the footwear?",
+        "answer": "Dotted"
+      },
+      {
+        "question": "Considering the sole's thickness, how would you describe its profile?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the visible shape of the toe-post of the slipper?",
+        "answer": "Y-shaped"
+      },
+      {
+        "question": "Describe the footbed's visible contour or shape based on the image?",
+        "answer": "Molded"
+      },
+      {
+        "question": "What kind of visual finish does the upper part of the slipper appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent style of the displayed footwear?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Is the slipper's construction showing any visible seams or stitching?",
+        "answer": "No"
+      }
+    ]
+  }
+]

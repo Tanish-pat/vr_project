@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f3f23e85.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual pattern on the phone case's surface?",
+        "answer": "Marble"
+      },
+      {
+        "question": "Describe the overall visual texture apparent on the phone case?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What color is predominantly shown in the marble pattern of the phone case?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the primary material visually suggested for the phone case's frame?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent shape of the phone case, considering its outline?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the visible phone beneath the case?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Considering the phone case's design, what style is primarily represented?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What other colors besides grey appear within the marble design?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the visible finish of the phone's metallic rear surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is there a noticeable border around the printed design on the case?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the depicted phone case appear to be rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Describe the visual pattern's color distribution; is it uniform or varied?",
+        "answer": "Varied"
+      },
+      {
+        "question": "What kind of visual impression does the phone case's surface give off?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the phone's back, is the surface largely smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the phone's back shown in the image?",
+        "answer": "Metal"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a22040a1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device's outer casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the device's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible ports, what is the device's likely function?",
+        "answer": "Docking"
+      },
+      {
+        "question": "Describe the overall shape and form factor of the presented device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of connector is visible on the left side of the device?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "What is the apparent finish or texture of the device's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible color of the connecting cables shown?",
+        "answer": "Black"
+      },
+      {
+        "question": "How many distinct ports are clearly visible on the device's exterior?",
+        "answer": "Five"
+      },
+      {
+        "question": "Judging by the connectors, what kind of devices might this connect to?",
+        "answer": "Laptops"
+      },
+      {
+        "question": "What type of connector is prominently displayed on the lower-right?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "Based on its appearance, what is the device's size relative to a laptop?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Does the device show any visible branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual arrangement of the ports on the device's side?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the cable's apparent material or construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by its appearance, is the device thick or thin?",
+        "answer": "Thick"
+      }
+    ]
+  }
+]

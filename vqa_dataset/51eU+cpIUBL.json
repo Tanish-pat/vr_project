@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/58f3ad60.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cabinet pull, as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the texture depicted, what is the apparent finish of the cabinet pull?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "Based on the visual form, what is the overall shape of the presented cabinet pull?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the ends of the pull, what is the shape of each terminal?",
+        "answer": "Square"
+      },
+      {
+        "question": "Judging from the image, what appears to be the primary material of this cabinet pull?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the most apparent design characteristic of this hardware pull, considering the surface?",
+        "answer": "Hammered"
+      },
+      {
+        "question": "In terms of its function, what type of hardware is depicted in the provided image?",
+        "answer": "Pull"
+      },
+      {
+        "question": "Considering the subtle curves, what is the style of the central bar of this pull?",
+        "answer": "Arched"
+      },
+      {
+        "question": "Does the image indicate any noticeable pattern present on the pull's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general appearance of the surface texture of the cabinet pull shown?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on visual inspection, is the pull primarily smooth or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "From the image provided, can you determine the size of the pull?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on visual observation alone, what is the apparent weight of the pull?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the image, does this product appear to be antique or modern?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the image, is the cabinet pull ornate or simple in design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cc/ccb6159a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the portable power bank shown connected to the laptop?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the external battery pack?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible connector, what type of port is used to charge the laptop from the power bank?",
+        "answer": "USB"
+      },
+      {
+        "question": "Based on its shape, what geometric form best describes the external battery's overall design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the laptop's surface, what material seems to constitute its casing?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "What color is the laptop's visible exterior, excluding the screen?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe the texture of the laptop's casing as observed in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent condition of the power bank's surface \u2013 is it visibly marked or pristine?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the laptop's keyboard, what is the overall style of its key arrangement?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What is the overall visual appearance of the charging cable connecting the devices?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the laptop's screen, what is its current display state?",
+        "answer": "Off"
+      },
+      {
+        "question": "Observing the laptop's design, what type of keyboard layout does it appear to possess?",
+        "answer": "QWERTY"
+      },
+      {
+        "question": "What is the visible state of the power bank\u2019s indicator lights, if any?",
+        "answer": "Off"
+      },
+      {
+        "question": "Considering the laptop's design, what is its overall form factor?",
+        "answer": "Notebook"
+      },
+      {
+        "question": "Describe the angle at which the laptop's screen is positioned relative to its base.",
+        "answer": "Open"
+      }
+    ]
+  }
+]

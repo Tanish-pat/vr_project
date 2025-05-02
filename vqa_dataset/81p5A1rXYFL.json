@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee3f0ce2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the box containing the coffee pods?",
+        "answer": "Coral"
+      },
+      {
+        "question": "What primary material appears to constitute the coffee pods?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the individual coffee pods?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the top portion of each individual coffee pod?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What color is the bottom portion of each individual coffee pod?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the outer box's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the box and pods, what is the predominant color scheme?",
+        "answer": "Bicolor"
+      },
+      {
+        "question": "What is the shape of the outer packaging box for the coffee pods?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Does the outer packaging feature any noticeable text or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of finish does the silver portion of the coffee pod possess?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "What is the apparent size of the coffee pods in relation to the box?",
+        "answer": "Small"
+      },
+      {
+        "question": "How many coffee pods are shown visibly in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the image, does the box seem to be sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent weight of the contents indicated on the box?",
+        "answer": "200g"
+      },
+      {
+        "question": "Does the image depict any noticeable damage to the packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

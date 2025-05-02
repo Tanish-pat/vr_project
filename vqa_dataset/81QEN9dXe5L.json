@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant shape of the tabletop, as visually observed?",
-        "answer": "Hexagonal"
-      },
-      {
-        "question": "What primary material seems to constitute the entirety of this side table?",
-        "answer": "Wood"
-      },
-      {
-        "question": "Considering the wood grain and color, what is the overall aesthetic of the piece?",
-        "answer": "Rustic"
-      },
-      {
-        "question": "Describe the color tone of the wood, as apparent in the image provided?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What geometric form best describes the overall base of the side table?",
+        "question": "What is the predominant shape of the tabletop, considering its multiple sides?",
         "answer": "Octagonal"
       },
       {
-        "question": "Based on visual texture, how would you characterize the wood's finish?",
+        "question": "What is the primary material visibly composing the table's structure?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visible grain and color variations, what is the apparent wood type?",
+        "answer": "Reclaimed"
+      },
+      {
+        "question": "Describing the overall color palette of the table, what is its base hue?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the most prominent textural quality visible on the tabletop?",
+        "answer": "Grained"
+      },
+      {
+        "question": "What geometric shape best describes the table's overall base profile?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What is the visible finish of the wood, which affects the sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent style of the table's overall design?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "How would you describe the visible wood's color variation, noting the lightness and darkness?",
         "answer": "Distressed"
       },
       {
-        "question": "Considering the edges, what design element is prominent on the table's top?",
-        "answer": "Beveled"
-      },
-      {
-        "question": "What is the apparent construction method of the table's base and top?",
-        "answer": "Plank"
-      },
-      {
-        "question": "Focusing on the table's leg structure, how many visible sections compose the base?",
-        "answer": "Eight"
-      },
-      {
-        "question": "Does the image reveal any noticeable hardware or visible metal components?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent level of detail and craftsmanship showcased?",
-        "answer": "High"
-      },
-      {
-        "question": "Describe the visible texture of the top surface of this side table?",
-        "answer": "Grainy"
-      },
-      {
-        "question": "Considering its form and size, what is the table's likely function?",
+        "question": "Considering the height of the table's visible structure, what is its function?",
         "answer": "Side"
       },
       {
-        "question": "Is the wooden top of the table uniformly colored throughout?",
-        "answer": "No"
+        "question": "Based on the visible construction, what is the apparent joinery type used?",
+        "answer": "Butt"
       },
       {
-        "question": "What is the general style suggested by the table's design features?",
-        "answer": "Modern"
+        "question": "What would you describe the visible edge profile of the tabletop as?",
+        "answer": "Plank"
+      },
+      {
+        "question": "What is the general appearance of the wood's surface in terms of smoothness?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the relative thickness of the table's top compared to the base?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the overall design, what type of setting would it best suit?",
+        "answer": "Casual"
       }
     ]
   }

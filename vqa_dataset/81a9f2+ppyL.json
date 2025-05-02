@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/73edff68.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the upholstered section visible in the image?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What appears to be the primary material used for the visible upholstery?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Describe the visible stitching or trim along the edges of the upholstered piece?",
+        "answer": "Nailhead"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the upholstered item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the surface feel of the upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color are the small decorative elements along the edges?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Based on the image, what seems to be the construction method of the visible edges?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "What is the apparent pattern or design on the visible upholstery surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describe the visual appearance of the material in terms of its sheen or gloss?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What seems to be the spacing between the visible decorative elements along the seams?",
+        "answer": "Even"
+      },
+      {
+        "question": "Considering the image, how would you characterize the overall style of the piece?",
+        "answer": "Modern"
+      },
+      {
+        "question": "From the visible section, how would you describe the thickness of the upholstery?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Judging by the image, is the visible upholstery tightly or loosely stretched?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Based on the visible features, does the piece seem to be high quality or low quality?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent visual consistency of the material across the visible area?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

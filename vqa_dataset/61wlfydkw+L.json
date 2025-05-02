@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/ea201b42.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the item's construction?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describing the overall form of the object, what shape is most prominent?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible texture, what tactile quality does the main body seem to possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent function of the flexible, extending portion of the product?",
+        "answer": "Hanging"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the approximate thickness of the main body?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the shape, is the main body of the product flat or three-dimensional?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What kind of seemingly functional feature is present near the center of the item?",
+        "answer": "Hole"
+      },
+      {
+        "question": "What seems to be the purpose of the seemingly attached, smaller, rectangular piece?",
+        "answer": "Support"
+      },
+      {
+        "question": "Does the product exhibit any visible patterns or markings on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What seems to be the overall flexibility of the extended part of the product?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the item seem designed for indoor or outdoor use, or both?",
+        "answer": "Both"
+      },
+      {
+        "question": "What kind of finish does the surface of the item visually appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its shape and features, what might be a potential use for this product?",
+        "answer": "Fastening"
+      },
+      {
+        "question": "Considering its size and features, what is the overall impression of the product's aesthetic?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the floral pattern on the phone case?",
-        "answer": "Pink"
+        "question": "What is the dominant color scheme of the depicted phone case design?",
+        "answer": "Floral"
       },
       {
-        "question": "What kind of flowers are primarily depicted in the phone case design?",
-        "answer": "Roses"
+        "question": "What kind of image is primarily featured on the phone case's surface?",
+        "answer": "Petals"
       },
       {
-        "question": "What is the overall shape of the phone case, considering its form factor?",
-        "answer": "Rectangular"
+        "question": "Considering the depicted phone case's design, what is its main aesthetic?",
+        "answer": "Romantic"
       },
       {
-        "question": "What appears to be the material of the phone case, judging by its visual texture?",
+        "question": "What natural element appears most prominently in the phone case's printed design?",
+        "answer": "Flowers"
+      },
+      {
+        "question": "Describe the overall visual texture of the printed phone case's design?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What appears to be the primary material used for this phone case's construction?",
         "answer": "Plastic"
       },
       {
-        "question": "Besides roses, what other flower colors are subtly present in the phone case's design?",
-        "answer": "Yellow"
+        "question": "What is the shape of the item shown in this product image?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Considering the image, is the phone case design primarily focused on a pattern or a single image?",
-        "answer": "Pattern"
+        "question": "What are the colors of the petals shown in the phone case design?",
+        "answer": "Multicolored"
       },
       {
-        "question": "What is the general visual texture of the printed flower petals on the phone case?",
-        "answer": "Smooth"
+        "question": "Based on the image, what seems to be the phone case's primary design style?",
+        "answer": "Nature"
       },
       {
-        "question": "Are there any visible logos or brand markings on the phone case itself?",
-        "answer": "None"
+        "question": "What seems to be the apparent finish of the phone case's surface?",
+        "answer": "Glossy"
       },
       {
-        "question": "Does the design appear to be entirely printed on the phone case, or is it raised?",
-        "answer": "Printed"
+        "question": "Besides the main design, what additional components are shown in this image?",
+        "answer": "Sides"
       },
       {
-        "question": "What is the apparent level of detail in the printed floral pattern on the phone case?",
+        "question": "What is the apparent form factor of the phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Does the image suggest any visible cutouts or openings in the case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the phone case design, what is its overall visual impression?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "What is the apparent level of detail in the phone case's printed design?",
         "answer": "High"
-      },
-      {
-        "question": "Based on its design, is the phone case targeted for a specific age group or gender?",
-        "answer": "Unisex"
-      },
-      {
-        "question": "What is the visual representation of the flower petals; are they realistic or stylized?",
-        "answer": "Realistic"
-      },
-      {
-        "question": "Considering the side view, what is the apparent thickness of the phone case?",
-        "answer": "Thin"
-      },
-      {
-        "question": "What are the secondary colors aside from the dominant pink in the rose petals?",
-        "answer": "Red"
-      },
-      {
-        "question": "Judging by the image, how many pieces comprise this particular phone case?",
-        "answer": "Three"
       }
     ]
   }

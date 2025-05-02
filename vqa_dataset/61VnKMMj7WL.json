@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d1/d15fe5c7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the folded fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the overall appearance, what is the most apparent texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the likely material of this textile product?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Judging by the image, what is the general shape of the folded item displayed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, how many distinct layers of fabric are immediately visible in the fold?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the fabric in the image present any discernible patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the way it is presented, what could be a likely function or purpose of this fabric?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "Given its appearance, is the fabric relatively thick or thin in its construction?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the image showcase any visible seams, stitching, or other visible construction details?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the fabric's color uniform across its visible surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image provide any indication of the fabric's weight or density?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Based solely on the image, does the folded item appear soft or stiff to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From visual inspection, what is the overall aesthetic of the item presented?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the image show any embellishments or decorative elements on the fabric?",
+        "answer": "No"
+      }
+    ]
+  }
+]

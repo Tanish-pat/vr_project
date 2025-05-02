@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a903e223.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary function of this rectangular element?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the prominent textual indication, what is explicitly listed as a component of this product?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "What specific type of seeds, identified in the ingredient list, is included in the product?",
+        "answer": "Pumpkin"
+      },
+      {
+        "question": "According to the text, what kind of raisins are present among the product's ingredients?",
+        "answer": "Green"
+      },
+      {
+        "question": "Focusing on the berries, what variety is mentioned among the other ingredients?",
+        "answer": "Goji"
+      },
+      {
+        "question": "What type of dried fruit, indicated in the ingredient list, is part of the product's composition?",
+        "answer": "Mulberries"
+      },
+      {
+        "question": "From the textual detail, identify another type of berry included in the product's recipe?",
+        "answer": "Golden"
+      },
+      {
+        "question": "Based on the detailed ingredient information, what type of dried fruit is listed?",
+        "answer": "Currants"
+      },
+      {
+        "question": "Referring to the ingredient list, what cacao-derived ingredient is part of the mixture?",
+        "answer": "Nibs"
+      },
+      {
+        "question": "According to the ingredient list, what kind of raisins are used in this product?",
+        "answer": "Sultana"
+      },
+      {
+        "question": "What descriptive term precedes 'pumpkin seeds' in the ingredient list?",
+        "answer": "Sprouted"
+      },
+      {
+        "question": "What single word describes the certification status of many ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the grammatical structure used to describe the list of ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "What word is used to introduce the potential allergen information?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What is the font style predominantly used throughout the text on the label?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

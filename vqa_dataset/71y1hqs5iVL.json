@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4fade08b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the milk contained within the jug?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the milk jug's primary body?",
+        "answer": "Square"
+      },
+      {
+        "question": "What material appears to constitute the body of the milk jug?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the label prominently displayed on the jug?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of closure is visible atop the milk jug?",
+        "answer": "Cap"
+      },
+      {
+        "question": "What is the color of the cap affixed to the jug's opening?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the texture of the milk jug's surface, based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary text displayed on the label, describing the product?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What term describes the fat content of the milk presented in the jug?",
+        "answer": "Nonfat"
+      },
+      {
+        "question": "What is the apparent color of the text on the label of the milk jug?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general shape of the handle on the jug, if any is visible?",
+        "answer": "None"
+      },
+      {
+        "question": "What kind of text or logo is visible beneath the primary text on the label?",
+        "answer": "365"
+      },
+      {
+        "question": "Based on the image, is the jug translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent size of the jug shown in this picture, in terms of volume?",
+        "answer": "Gallon"
+      },
+      {
+        "question": "Is there any noticeable texture to the label on the milk jug?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/16e98d5a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the lamp's body and shade?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the overall shape of the lampshade, viewed from above?",
+        "answer": "Round"
+      },
+      {
+        "question": "Describe the texture of the lamp's metallic surfaces?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material most visibly comprising the lamp's structure?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the shape of the lamp's base, viewed from the side?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the visible electrical cord extending from the base?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the lamp's design, what style best describes it?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent finish of the metal components of the lamp?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the shape of the central supporting column of the lamp?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Is there any visible pattern or ornamentation on the lamp's surfaces?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the relative thickness of the lampshade compared to the base?",
+        "answer": "Similar"
+      },
+      {
+        "question": "What type of light source does the lamp appear designed to accommodate?",
+        "answer": "Bulb"
+      },
+      {
+        "question": "Is the lampshade completely opaque or does it allow any light diffusion?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the overall height of the lamp relative to its width?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the base appear to be weighted or stable for its size and design?",
+        "answer": "Stable"
+      }
+    ]
+  }
+]

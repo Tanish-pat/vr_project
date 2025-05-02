@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the texture depicted on the phone case's surface?",
-        "answer": "Glitter"
-      },
-      {
-        "question": "What material appears to constitute the phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What phrase is prominently displayed on the phone case?",
-        "answer": "Daddy's"
+        "question": "What is the overall texture depicted on the phone case's background?",
+        "answer": "Glittery"
       },
       {
         "question": "What is the style of the lettering on the phone case?",
-        "answer": "Script"
+        "answer": "Cursive"
       },
       {
-        "question": "What color is the text on the phone case?",
+        "question": "What is the primary material that appears to make up the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the text printed on the phone case?",
         "answer": "White"
       },
       {
-        "question": "What is the overall shape of the depicted phone case?",
+        "question": "What is the shape of the phone case as a whole?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the gradient effect visible on the phone case's background.",
-        "answer": "Faded"
+        "question": "What is the specific type of product shown in the image?",
+        "answer": "Case"
       },
       {
-        "question": "Is the phone case design primarily abstract or representational?",
-        "answer": "Abstract"
+        "question": "What is the orientation of the text on the phone case?",
+        "answer": "Vertical"
       },
       {
-        "question": "What secondary phrase complements the main phrase on the case?",
-        "answer": "Mommy's"
+        "question": "What is the design element most prominent on the case?",
+        "answer": "Text"
       },
       {
-        "question": "Considering the design, what is the phone case's intended audience?",
-        "answer": "Female"
+        "question": "What type of device does this product appear to fit?",
+        "answer": "Phone"
       },
       {
-        "question": "What kind of embellishment enhances the case's background?",
-        "answer": "Sparkle"
+        "question": "What is the overall visual impression of the phone case's design?",
+        "answer": "Simple"
       },
       {
-        "question": "How many sides of the phone case are shown in the image?",
-        "answer": "Three"
+        "question": "What words are clearly visible on the phone case's surface?",
+        "answer": "Daddy's"
       },
       {
-        "question": "What word connects the two main phrases on the phone case?",
+        "question": "What additional word appears below 'Daddy's girl'?",
         "answer": "And"
       },
       {
-        "question": "What is the overall aesthetic of the phone case design?",
-        "answer": "Simple"
+        "question": "What is the last part of the text on the phone case?",
+        "answer": "World"
+      },
+      {
+        "question": "What is the descriptive word used before 'World'?",
+        "answer": "Mommy's"
       }
     ]
   }

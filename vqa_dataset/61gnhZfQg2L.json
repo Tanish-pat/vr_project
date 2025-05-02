@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/55/5569331f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font style used for the section titles on the nutrition label, such as 'Supplement Facts' and 'Amount Per Serving'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on visual inspection, what is the unit of measurement used for the serving size?",
+        "answer": "Teaspoon"
+      },
+      {
+        "question": "What is the numerical value indicated for the serving size in grams, as shown on the label?",
+        "answer": "5g"
+      },
+      {
+        "question": "Observing the label's design, what is the format in which the nutritional information is presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the formatting style used to emphasize values like 'Calories' and 'Total Carbohydrate'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Focusing on the listed nutrients, what is the nutrient shown with a value less than 1 gram?",
+        "answer": "Protein"
+      },
+      {
+        "question": "Judging by the appearance, what is the numerical value given for total carbohydrates, in grams?",
+        "answer": "4g"
+      },
+      {
+        "question": "What is the unit of measurement following each nutrient amount, signifying the quantity?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the formatting feature used to denote percentages in the 'Daily Value' column?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "Examining the text, what is the specific nutrient detailed as 'Organic Maca'?",
+        "answer": "Maca"
+      },
+      {
+        "question": "What is the value indicated for 'Organic Maca', in grams?",
+        "answer": "5g"
+      },
+      {
+        "question": "What is the numerical value assigned to 'Potassium' in milligrams?",
+        "answer": "95mg"
+      },
+      {
+        "question": "What is the textual element indicating the basis for the 'Percent Daily Values'?",
+        "answer": "2000"
+      },
+      {
+        "question": "What is the format used to present a footnote explaining 'Percent Daily Values'?",
+        "answer": "Asterisk"
+      }
+    ]
+  }
+]
