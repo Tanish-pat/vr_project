@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/028bbfc9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the light bulb shown in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall shape of the bulb's glass enclosure?",
+        "answer": "Teardrop"
+      },
+      {
+        "question": "What material appears to constitute the main body of the bulb?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the base, what type of fitting does this bulb possess?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the apparent surface texture of the bulb's outer casing?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the bulb's likely intended application?",
+        "answer": "Lighting"
+      },
+      {
+        "question": "Excluding the base, what is the approximate number of distinct parts visible?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the visible color of the bulb's base, compared to the main body?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Judging by the image, does the bulb appear to have any visible markings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of translucence exhibited by the bulb's glass?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What is the primary physical characteristic visible on the bulb's base?",
+        "answer": "Threads"
+      },
+      {
+        "question": "Does the bulb's shape suggest any specific style or aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image scale, how would you describe the bulb's size?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent overall condition of the bulb shown?",
+        "answer": "New"
+      },
+      {
+        "question": "Based solely on its visual characteristics, what is the most likely material of the bulb base?",
+        "answer": "Metal"
+      }
+    ]
+  }
+]

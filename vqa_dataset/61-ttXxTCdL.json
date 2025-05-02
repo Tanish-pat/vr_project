@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b3ad608.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frame's visible exterior?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What specific texture is prominently displayed on the frame's surface?",
+        "answer": "Woodgrain"
+      },
+      {
+        "question": "What is the overall geometric shape of the presented picture frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the frame's visible construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Is the frame design simplistic or ornate, based on visible features?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Describe the visible finish of the photo frame's outer surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent orientation of the displayed photo frame?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "How many visible sides of the picture frame have a visible border?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the color of the visible stand supporting the frame?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Does the frame feature any noticeable engravings or carvings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the material that appears to compose the photo frame's stand?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visual details, what is the frame's apparent style?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the apparent overall condition of the presented picture frame?",
+        "answer": "New"
+      },
+      {
+        "question": "Is the frame's color consistent across all visible parts?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the frame show any signs of visible damage or wear?",
+        "answer": "No"
+      }
+    ]
+  }
+]

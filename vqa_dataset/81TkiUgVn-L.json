@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the primary light shade?",
-        "answer": "Dome"
+        "question": "What is the shape of the primary light diffuser?",
+        "answer": "Bell"
       },
       {
-        "question": "What material appears to constitute the main light shade?",
+        "question": "What appears to be the material of the main light shade?",
         "answer": "Glass"
       },
       {
-        "question": "Describe the texture of the light shade's visible surface.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent finish of the metal parts of the fixture?",
+        "question": "What is the overall finish of the metal parts, matte or glossy?",
         "answer": "Matte"
       },
       {
-        "question": "What is the shape of the smaller, secondary light fixtures?",
+        "question": "Describe the shape of the smaller, secondary light fixtures?",
         "answer": "Spherical"
       },
       {
-        "question": "How many small, spherical light fixtures are visibly attached?",
-        "answer": "Two"
-      },
-      {
-        "question": "What type of connection is used to attach the smaller fixtures?",
+        "question": "What kind of connection is visible between the main bar and the spheres?",
         "answer": "Rods"
       },
       {
-        "question": "Describe the apparent finish of the small spherical lights.",
-        "answer": "Matte"
-      },
-      {
-        "question": "What color is the light emitted (or seemingly emitted) from the main shade?",
-        "answer": "Warm"
-      },
-      {
-        "question": "What is the visible material of the connecting rods?",
+        "question": "What is the apparent material of the smaller spherical light fixtures?",
         "answer": "Metal"
       },
       {
-        "question": "What is the general style of the entire light fixture?",
+        "question": "Considering the glass shade, is its texture smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many smaller light fixtures are attached to the main bar?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the general style of the light fixture, referencing design movements?",
         "answer": "Industrial"
       },
       {
-        "question": "Is the glass shade entirely opaque or translucent?",
-        "answer": "Translucent"
+        "question": "What color is the light emanating from the primary glass shade?",
+        "answer": "Warm"
       },
       {
-        "question": "Describe the method of attachment for the glass shade to the fixture.",
-        "answer": "Clamps"
+        "question": "What is the visible type of connection securing the glass shade to the fixture?",
+        "answer": "Threaded"
       },
       {
-        "question": "What is the apparent material of the clamps holding the glass shade?",
-        "answer": "Metal"
+        "question": "Describe the overall configuration of the fixture: linear or circular?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by the appearance, what is the likely method of mounting the fixture?",
+        "answer": "Pendant"
+      },
+      {
+        "question": "Considering the style, would you classify it as modern or antique?",
+        "answer": "Modern"
       }
     ]
   }

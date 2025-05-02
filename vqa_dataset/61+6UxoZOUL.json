@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the umbrella's canopy?",
+        "question": "What is the predominant color of the umbrella's canopy?",
         "answer": "Blue"
       },
       {
@@ -13,55 +13,55 @@
         "answer": "Polyester"
       },
       {
-        "question": "Describe the overall shape of the umbrella when opened?",
+        "question": "What is the overall shape of the umbrella when opened?",
         "answer": "Circular"
       },
       {
-        "question": "What color is the umbrella's handle or shaft?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the visible seams, how many panels comprise the canopy?",
+        "question": "Considering the visible seams, how many panels make up the umbrella canopy?",
         "answer": "Eight"
       },
       {
-        "question": "What is the apparent texture of the umbrella fabric?",
+        "question": "What color is the visible portion of the umbrella's frame or ribs?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the umbrella's canopy fabric?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the image, is the umbrella design plain or patterned?",
-        "answer": "Plain"
+        "question": "Based on its appearance, what is the umbrella's design style?",
+        "answer": "Simple"
       },
       {
-        "question": "What type of closure mechanism is visible near the handle?",
-        "answer": "Button"
+        "question": "What is the visible material of the handle or grip?",
+        "answer": "Plastic"
       },
       {
-        "question": "Judging by the image, what is the overall umbrella style?",
-        "answer": "Folding"
-      },
-      {
-        "question": "Can you describe the visible components at the canopy's center point?",
-        "answer": "Ribs"
-      },
-      {
-        "question": "Considering the visible seams, what kind of stitching is used?",
-        "answer": "Straight"
-      },
-      {
-        "question": "What is the apparent level of sheen or gloss on the umbrella fabric?",
-        "answer": "Slight"
-      },
-      {
-        "question": "Are there any noticeable logos or branding on the canopy?",
+        "question": "Is there any noticeable branding or logo on the umbrella?",
         "answer": "No"
       },
       {
-        "question": "What is the general condition or state of the umbrella shown?",
-        "answer": "New"
+        "question": "What is the color of the small connecting piece where the canopy meets the frame?",
+        "answer": "Black"
       },
       {
-        "question": "Based on the image alone, is this umbrella large or compact?",
+        "question": "What type of closure system is suggested by the image of the umbrella?",
+        "answer": "Manual"
+      },
+      {
+        "question": "Considering the image, is this umbrella suitable for large amounts of rainfall?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible design feature between the ribs of the umbrella?",
+        "answer": "Seams"
+      },
+      {
+        "question": "Is the umbrella shown fully open or partially open in the image?",
+        "answer": "Open"
+      },
+      {
+        "question": "Judging from the image, is the umbrella compact or large?",
         "answer": "Compact"
       }
     ]

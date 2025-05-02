@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/408dfe6e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's main label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture of the packaging material, judging by its visual appearance?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the primary material that appears to constitute the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the color of the text prominently displayed on the packaging?",
+        "answer": "Darkbrown"
+      },
+      {
+        "question": "What brand name is conspicuously featured on the product packaging?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "What is printed weight of the contents indicated on the label in grams?",
+        "answer": "500"
+      },
+      {
+        "question": "What kind of text, besides the brand name is found at the top of the main label?",
+        "answer": "Net"
+      },
+      {
+        "question": "What type of additional information is provided along the right side of the main label?",
+        "answer": "Details"
+      },
+      {
+        "question": "What is the general style of the font used on the main packaging label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the packaging have any noticeable design elements beyond text and lines?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the color of the small logo or symbol at the bottom of the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Judging from the image, is the packaging glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the packaging show visible seams or folds?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the orientation of the text on the product's packaging?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]
