@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3e452b8b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color are the stylized floral elements depicted on the case?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall design style of the floral pattern on the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What appears to be the primary material used for this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the shape of the phone case as a whole.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the general orientation of the floral motif on the phone case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the floral details, what kind of visual texture is suggested?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the phone case have a noticeable gloss or matte finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Is there any visible text or branding on the phone case itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what seems to be the thickness of the phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What is the apparent level of detail in the floral design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "How many main stems or vines form the core of the floral pattern?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the style, is this a minimalist or ornate phone case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the style of the floral design: realistic or stylized?",
+        "answer": "Stylized"
+      },
+      {
+        "question": "What shape are the individual elements within the phone case's floral design?",
+        "answer": "Leaf-like"
+      }
+    ]
+  }
+]
