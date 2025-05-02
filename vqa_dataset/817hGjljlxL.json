@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0d417421.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the coffee bag's primary display area?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent texture of the spilled coffee grounds?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What is the overall shape of the coffee packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material of the coffee packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What color is the secondary color prominently featured on the bag?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the small circular logo on the bag?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the visible text prominently displayed on the bag?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "Describe the design pattern present on the coffee bag, excluding text?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the apparent grind size of the loose coffee grounds?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the general color of the coffee grounds?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What type of coffee is specified on the bag's label?",
+        "answer": "Roast"
+      },
+      {
+        "question": "Does the bag contain whole beans or ground coffee?",
+        "answer": "Ground"
+      },
+      {
+        "question": "Is the bag's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent condition of the coffee packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the brand name visible on the product packaging?",
+        "answer": "Happy"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae18e02f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific design element mimics a high-performance material on the phone case?",
+        "answer": "Carbon"
+      },
+      {
+        "question": "What is the apparent primary material used in the construction of this protective case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture that appears to be printed or molded onto the phone case surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the overall form factor of this protective covering?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what seems to be the primary function of this product?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the noticeable finish along the edges of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the case design incorporate cutouts for ports and camera lenses?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the case, what type of phone does it seem to be designed for?",
+        "answer": "Smartphone"
+      },
+      {
+        "question": "What is the visible level of flexibility suggested by the appearance of the phone case?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Regarding its overall aesthetic, how would you describe the style of the phone case shown?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent thickness of the phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What is the shape of the openings for the phone's camera in this case?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Judging from the image, is the case's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What appears to be the main color used for the detailing on the phone case?",
+        "answer": "Gray"
+      }
+    ]
+  }
+]

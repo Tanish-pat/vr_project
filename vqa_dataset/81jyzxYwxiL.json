@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee668f6c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall aesthetic, what single word best encapsulates the shoe's style?",
+        "answer": "Classic"
+      },
+      {
+        "question": "What material is predominantly used in the construction of the upper of this shoe?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Describe the most apparent color of the shoe's upper, considering its overall hue and shading?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What is the principal shape of the shoe's toe cap, observing the geometry of its foremost region?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What type of closure mechanism is employed for securing the shoe onto the foot?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the color of the shoe's sole, observing the lower, outsole region?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the material or apparent composition of the sole of the shoe?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Regarding the design of the eyelets, what shape do these lace holes exhibit?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the texture of the shoe's upper, based on visual observation of its surface?",
+        "answer": "Napped"
+      },
+      {
+        "question": "Describe the construction of the shoe's heel, focusing on its shape and height from the ground?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Considering the overall silhouette, what is the style of the shoe?",
+        "answer": "Oxford"
+      },
+      {
+        "question": "What is the apparent finish of the shoe's sole?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Observing the overall stitching, what is the color of the visible stitching on the sole?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the visible design element present at the edge of the sole?",
+        "answer": "Welt"
+      },
+      {
+        "question": "Based on visible features, how would you describe the shoe's overall fit?",
+        "answer": "Slim"
+      }
+    ]
+  }
+]

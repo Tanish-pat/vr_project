@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant design style showcased on the phone case?",
+        "question": "What is the dominant design style depicted on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "Considering the color palette, what is the primary color family?",
-        "answer": "Warm"
-      },
-      {
-        "question": "What kind of paint-like texture is visibly present on the case's surface?",
-        "answer": "Impasto"
-      },
-      {
-        "question": "Describe the overall shape of the protective mobile casing?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What material appears to be used for this phone case printing?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Judging by the image, what is the most apparent color on the case?",
-        "answer": "Orange"
-      },
-      {
-        "question": "Which color forms a prominent vertical stripe down the back?",
+        "question": "What color prominently features in the vertical stripe on the right?",
         "answer": "Pink"
       },
       {
-        "question": "What is the visual texture of the printed design on the case?",
-        "answer": "Rough"
-      },
-      {
-        "question": "Does the case show a matte or glossy finish based on its appearance?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the predominant design element used in the phone case's artistic style?",
-        "answer": "Brushstrokes"
-      },
-      {
-        "question": "How many sides of the phone case are clearly shown in the image?",
-        "answer": "Three"
-      },
-      {
-        "question": "Describe the arrangement of the colors on the phone case's surface?",
-        "answer": "Chaotic"
-      },
-      {
-        "question": "What is the general color scheme used for the phone case design?",
+        "question": "Describe the overall color scheme of the phone case design?",
         "answer": "Multicolored"
       },
       {
-        "question": "Based on visual inspection, what is the main artistic style of the phone case?",
-        "answer": "Expressionist"
+        "question": "What is the primary texture implied by the case's design?",
+        "answer": "Painted"
       },
       {
-        "question": "What is the most noticeable secondary color present on the back of the case?",
+        "question": "What shape best describes the overall form of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material is implied by the appearance of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary color used in the bottom left quadrant of the design?",
         "answer": "Yellow"
+      },
+      {
+        "question": "What color is heavily used in broad strokes across the center?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the predominant color in the upper-left section of the phone case?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What type of artistic expression best fits the image?",
+        "answer": "Impressionistic"
+      },
+      {
+        "question": "What is the apparent finish of the phone case\u2019s surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the visual style, what feeling does the design evoke?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "How many distinct color blocks can be visibly identified?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the visual effect created by the paint stroke technique?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the general aspect ratio of the printed artwork on the case?",
+        "answer": "Vertical"
       }
     ]
   }

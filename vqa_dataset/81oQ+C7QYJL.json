@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/46/46dbb324.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the dominant style of this shoe?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the primary color of the leather upper, as visually observed?",
+        "answer": "Tan"
+      },
+      {
+        "question": "Based on its appearance, what material is the shoe's outer construction primarily made of?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What is the most prominent type of closure mechanism evident on the shoe?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Observing the sole, what color is the shoe's outsole predominantly?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the leather upper, judging by its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the general shape of the shoe's toe box, observing the image carefully.",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Analyzing the shoe's structure, how many visible seams or stitching lines are present on the upper?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What specific design element is clearly visible on the side of the shoe's vamp?",
+        "answer": "Stitching"
+      },
+      {
+        "question": "Judging from the image, what is the approximate height of the shoe's heel?",
+        "answer": "Low"
+      },
+      {
+        "question": "What seemingly is the material of the shoe's insole, observed near the heel?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What brand marking, if any, is visible on the shoe's exterior?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Does the shoe seem to have any noticeable perforations, vents, or decorative cutouts?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression regarding the shoe's apparent comfort?",
+        "answer": "Comfortable"
+      },
+      {
+        "question": "Does the shoe display any noticeable embellishments beyond the stitching and branding?",
+        "answer": "No"
+      }
+    ]
+  }
+]

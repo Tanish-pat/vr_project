@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4e66693.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frame's outer border?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What appears to be the primary material composing the picture frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall shape of each individual picture frame.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many picture frames are presented in the image?",
+        "answer": "Four"
+      },
+      {
+        "question": "What color is the matting or inner border of the frames?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent finish of the frame?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what style best describes the frame's design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent width of the frame's outer border in relation to its size?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Judging by the visual details, what is the apparent condition of the frames?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the frame exhibit any noticeable patterns or intricate carvings?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of image is displayed within each picture frame?",
+        "answer": "Photo"
+      },
+      {
+        "question": "What is the style or type of images showcased inside the frames?",
+        "answer": "Street"
+      },
+      {
+        "question": "What is the overall impression of the frames' visual aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the approximate aspect ratio of the pictures within the frames?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the color scheme of the photographs within the frames.",
+        "answer": "Black-and-white"
+      }
+    ]
+  }
+]

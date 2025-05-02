@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/47/475ef054.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the light fixture, as shown in the provided image?",
+        "answer": "Conical"
+      },
+      {
+        "question": "Considering the image, what primary color describes the lampshade's appearance?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual details, what material seems to constitute the majority of the lamp?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Judging from the image's texture, what is the surface texture of the light fixture?",
+        "answer": "Frosted"
+      },
+      {
+        "question": "Does the image show any discernible patterns or designs on the lamp's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the image carefully, is the base of the lamp visible in the picture?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent light diffusion quality of the lampshade, as seen in the image?",
+        "answer": "Diffuse"
+      },
+      {
+        "question": "From the image, does the lamp appear to have any metallic components?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the approximate length of the light fixture?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the provided image show any visible mounting hardware for the lamp?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the dominant visual characteristic of the lampshade's surface, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any visible text or branding on the lamp in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, how would you describe the overall style of the lamp?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image suggest any type of internal structure or framework within the lamp?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image carefully, is there any evidence of damage to the lampshade?",
+        "answer": "No"
+      }
+    ]
+  }
+]
