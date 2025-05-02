@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9a84771b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and arrangement, what is the dominant visual shape of the product as presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material composing this food product, based solely on its visual characteristics?",
+        "answer": "Meat"
+      },
+      {
+        "question": "Disregarding the packaging, what is the most prominent color observed in the main item?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Judging from the image, what seems to be the general texture of the presented food item?",
+        "answer": "Layered"
+      },
+      {
+        "question": "What is the most obvious visual characteristic denoting the product's preparation or processing?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent condition or state of the food item presented?",
+        "answer": "Dried"
+      },
+      {
+        "question": "Considering the visual details, what would best describe the arrangement of the various segments?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What is the apparent degree of transparency or opacity of the primary item depicted in the image?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From what is visually observable, how might you characterize the general surface appearance of the food product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the color consistency across the product, what single word best describes it?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent sheen or gloss level evident on the surface of the product?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Considering the form of the product inside the packaging, what single word describes its general visual volume?",
+        "answer": "Compact"
+      },
+      {
+        "question": "From the visual appearance alone, what is the most evident indication of the product's intended use?",
+        "answer": "Edible"
+      },
+      {
+        "question": "Considering the shape of the individual slices, what single-word descriptor best fits?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What type of packaging material seems to immediately enclose the food item shown in this image?",
+        "answer": "Plastic"
+      }
+    ]
+  }
+]

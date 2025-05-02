@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0e/0ed3351e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material visibly composing the product shown?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the apparent overall shape of each individual screen protector?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what color best describes the screen protectors?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual evidence, what is the apparent surface texture of the protectors?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, how many screen protectors are included in the package?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the model of phone indicated on the packaging, according to the image?",
+        "answer": "iPhone"
+      },
+      {
+        "question": "What is the phone model number specifically mentioned on the packaging?",
+        "answer": "11"
+      },
+      {
+        "question": "Considering the product's packaging, what is the phone's model variant specified?",
+        "answer": "Pro"
+      },
+      {
+        "question": "What is the main function of the product illustrated in the picture?",
+        "answer": "Protection"
+      },
+      {
+        "question": "According to the image, what specific part of the phone does the product safeguard?",
+        "answer": "Screen"
+      },
+      {
+        "question": "What term is prominently displayed on the product's packaging, describing its function?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What additional descriptor word is used next to \"Glass\" on the packaging?",
+        "answer": "Screen"
+      },
+      {
+        "question": "What is the final word in the main descriptor phrase on the packaging?",
+        "answer": "Protector"
+      },
+      {
+        "question": "What language, other than English, is partially visible on the packaging?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "What is the visible background color of the main product packaging?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

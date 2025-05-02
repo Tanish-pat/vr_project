@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a286b90.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible product surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material composition of the product?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the overall form, what best describes the product's shape?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent finish of the product's outer surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the texture of the visible product surface; is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the central component, what is its shape?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the apparent operational mechanism or feature visible on the product?",
+        "answer": "Button"
+      },
+      {
+        "question": "What is the color of the small visible metallic component?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Based on the visual features, what is the most likely function of this product?",
+        "answer": "Switch"
+      },
+      {
+        "question": "Observing the design, how many visibly distinct sections or levels are present?",
+        "answer": "Two"
+      },
+      {
+        "question": "What kind of markings or engravings are observed on the product's face?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the visual impression of the product's overall size; is it large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the product exhibit any obvious signs of wear or damage?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible style of the product's design, i.e modern or traditional?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the construction, does the product seem durable or fragile?",
+        "answer": "Durable"
+      }
+    ]
+  }
+]

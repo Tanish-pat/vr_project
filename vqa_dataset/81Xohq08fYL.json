@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ed/ed15eaa6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color are the repeating design elements on the case?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall geometric pattern style of the design?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "Describe the shape of the individual design units in the pattern.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What seems to be the material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general texture implied by the image of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the pattern, what design style does it evoke?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "How would you describe the level of detail in the case's design?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Does the case appear to cover the entire back of a phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary function of this product, as visually apparent?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Judging from the image, is the pattern symmetrical?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the implied form factor of the compatible device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the design, what is the likely target audience?",
+        "answer": "Adults"
+      },
+      {
+        "question": "Does the pattern appear to have any three-dimensional elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual, does this case seem to add significant bulk?",
+        "answer": "No"
+      }
+    ]
+  }
+]

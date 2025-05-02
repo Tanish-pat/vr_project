@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce6f567f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the fabric presented?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What natural fiber seems to be used in the textile displayed?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Considering its visual characteristics, what is the likely weave of the fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on visual appearance, what is the general feel of the fabric's surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the image reveal any noticeable patterns in the fabric's structure?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent weight or thickness of the fabric shown?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the picture, how would you describe the sheen of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the image closely, are there any visible flaws or imperfections?",
+        "answer": "Few"
+      },
+      {
+        "question": "Considering the color and texture, how would you describe the fabric's overall look?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging from the image only, is the fabric likely to be translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What seems to be the primary visible characteristic of the material shown?",
+        "answer": "Texture"
+      },
+      {
+        "question": "Considering the weave and fiber, how durable does the fabric look?",
+        "answer": "Durable"
+      },
+      {
+        "question": "What is the apparent visual quality of the presented textile?",
+        "answer": "Good"
+      },
+      {
+        "question": "Based on the visible properties, what is the likely intended use of the fabric?",
+        "answer": "Apparel"
+      }
+    ]
+  }
+]

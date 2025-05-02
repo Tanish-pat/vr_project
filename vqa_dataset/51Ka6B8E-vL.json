@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/07017cd1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance of the text, what is the primary font style used for the 'INGREDIENTS' section?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the word 'INGREDIENTS', what specific capitalization style is consistently applied?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the text alignment of the 'CONTAINS' statement relative to the 'INGREDIENTS' section?",
+        "answer": "Left"
+      },
+      {
+        "question": "Observing the visual spacing, what is the apparent line spacing between the lines within the 'INGREDIENTS' list?",
+        "answer": "Single"
+      },
+      {
+        "question": "Analyzing the visual presentation, what punctuation mark consistently separates the listed ingredients?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Judging from the image, what is the general color of the text presented throughout the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Regarding visual presentation, what is the apparent text size of the 'INGREDIENTS' heading compared to the ingredient list?",
+        "answer": "Larger"
+      },
+      {
+        "question": "From the image, determine the apparent font weight of the entire text block displayed on the label.",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the visual style of the parentheses enclosing the parenthetical ingredient lists?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the visual style of the punctuation at the end of the ingredient list?",
+        "answer": "Period"
+      },
+      {
+        "question": "Considering visual clarity, what is the overall formatting style applied to the list of allergens?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual arrangement of the text: is it arranged in a list, or a paragraph?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on visual cues, what's the approximate number of ingredients listed under the 'INGREDIENTS' label?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Based on the visual structure, how many distinct sections can be visually identified in the label?",
+        "answer": "Two"
+      },
+      {
+        "question": "By observing the visual presentation, what is the text's apparent kerning (spacing between letters)?",
+        "answer": "Normal"
+      }
+    ]
+  }
+]

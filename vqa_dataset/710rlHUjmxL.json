@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible upper section of this sneaker?",
+        "question": "What is the predominant color of the visible knitted upper section of this sneaker?",
         "answer": "White"
       },
       {
-        "question": "Describe the texture of the knitted upper material of the shoe?",
+        "question": "Describe the texture of the material used for the shoe's main upper section?",
         "answer": "Knitted"
       },
       {
-        "question": "What is the primary color of the midsole's wave-like design feature?",
-        "answer": "White"
-      },
-      {
-        "question": "What design element is noticeable near the heel and collar of this sneaker?",
-        "answer": "Knitted"
-      },
-      {
-        "question": "What is the apparent material of the shoe's outer sole, judging by its appearance?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Considering the laces, what is the style of this sneaker's closure system?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "What is the overall shape of the shoe's sole, when viewed from the side?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What color are the stripes present on the upper part of the shoe?",
+        "question": "What is the primary color of the visible horizontal stripe near the shoe's ankle?",
         "answer": "Black"
       },
       {
-        "question": "Describe the style of the midsole's construction in terms of its visible layers or segments?",
-        "answer": "Layered"
+        "question": "Considering the sole's design, what is the overall shape of the sneaker's outsole?",
+        "answer": "Wavy"
       },
       {
-        "question": "What is the general shape of the sneaker's toe box, from this angle?",
-        "answer": "Rounded"
+        "question": "What material appears to constitute the majority of the sneaker's midsole and outsole?",
+        "answer": "Rubber"
       },
       {
-        "question": "Considering the image, is the design of this shoe primarily minimalist or ornate?",
-        "answer": "Minimalist"
+        "question": "What is the apparent style of the lacing system featured on this particular sneaker?",
+        "answer": "Lace-up"
       },
       {
-        "question": "What seems to be the primary construction method of the shoe's upper section?",
-        "answer": "Knit"
-      },
-      {
-        "question": "Based on the image, describe the visible height of the sneaker's sole?",
+        "question": "Based on the image, what is the visible height of the sneaker's midsole?",
         "answer": "High"
       },
       {
-        "question": "How would you describe the overall visual style of these sneakers; sporty or formal?",
-        "answer": "Sporty"
+        "question": "Describe the apparent level of formality suggested by the sneaker's overall design?",
+        "answer": "Casual"
       },
       {
-        "question": "What material is most likely used for the shoe's insole, considering its design?",
-        "answer": "Fabric"
+        "question": "What is the overall shape of the sneaker as seen from the side profile?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the general design aesthetic conveyed by this sneaker's construction?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering its form, what type of athletic shoe does this appear to be?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "Based solely on its visual appearance, what is the apparent condition of this sneaker?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the visible stitching on the shoe suggest a handmade or machine-made construction?",
+        "answer": "Machine-made"
+      },
+      {
+        "question": "What is the most noticeable visual characteristic of the midsole\u2019s design?",
+        "answer": "Waves"
+      },
+      {
+        "question": "What is the apparent flexibility suggested by the sneaker's knitted upper?",
+        "answer": "Flexible"
       }
     ]
   }

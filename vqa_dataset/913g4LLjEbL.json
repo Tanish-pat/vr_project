@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c2/c2aacce5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the tabletop, as viewed from above?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the predominant color of the visible wood?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Describe the visible grain pattern on the table's surface?",
+        "answer": "Chevron"
+      },
+      {
+        "question": "What appears to be the primary material of the table?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the general style of the table's legs and base?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "How many visible support legs does the table possess?",
+        "answer": "Four"
+      },
+      {
+        "question": "Describe the texture of the visible wooden surface; is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish applied to the wood of the table top?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the legs' construction, what is their general shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the table's edge present a sharp or rounded profile?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the visible joinery type at the table's leg-to-top connection?",
+        "answer": "Butt"
+      },
+      {
+        "question": "Describe the arrangement of the wooden panels making up the tabletop.",
+        "answer": "Inlaid"
+      },
+      {
+        "question": "What kind of visible wood tones are present in the wood grain?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the image, how thick is the tabletop relative to the legs?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the visual impression of the wood's overall quality?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]
