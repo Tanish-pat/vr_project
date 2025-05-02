@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's design?",
+        "question": "What is the predominant color scheme of the depicted phone case design?",
         "answer": "Multicolored"
       },
       {
-        "question": "What artistic style is primarily depicted on the phone case?",
+        "question": "What artistic style is primarily expressed on the phone case's surface?",
         "answer": "Abstract"
+      },
+      {
+        "question": "Describe the texture implied by the paint strokes on the phone case image.",
+        "answer": "Rough"
       },
       {
         "question": "What appears to be the primary material used for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall texture implied by the case's surface design.",
-        "answer": "Rough"
-      },
-      {
-        "question": "What shape best describes the overall form of the phone case?",
+        "question": "Considering the image, what shape best describes the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of paint strokes characterize the artistic design?",
-        "answer": "Brushstrokes"
-      },
-      {
-        "question": "Considering the colors, what feeling does the phone case evoke?",
+        "question": "What is the general visual impression created by the color combination?",
         "answer": "Vibrant"
       },
       {
-        "question": "Are there any geometric shapes subtly incorporated into the design?",
-        "answer": "Triangles"
+        "question": "Based on the image, what kind of design is prominently showcased?",
+        "answer": "Painterly"
       },
       {
-        "question": "What is the implied level of detail in the artistic representation?",
-        "answer": "High"
-      },
-      {
-        "question": "What is the predominant color family amongst the paint strokes?",
-        "answer": "Warm"
-      },
-      {
-        "question": "Does the design on the case appear to be printed or hand-painted?",
-        "answer": "Printed"
-      },
-      {
-        "question": "Is there any visible text or logo printed on the phone case?",
-        "answer": "No"
-      },
-      {
-        "question": "What kind of finish does the surface of the phone case appear to have?",
+        "question": "Considering the visual details, what is the phone case's surface finish?",
         "answer": "Matte"
       },
       {
-        "question": "Based on the image, is the phone case rigid or flexible?",
-        "answer": "Rigid"
+        "question": "How many sides of the phone case are displayed in this image?",
+        "answer": "Three"
       },
       {
-        "question": "How many sides of the phone case are shown in the image?",
-        "answer": "Three"
+        "question": "What kind of artistic medium is suggested by the phone case's appearance?",
+        "answer": "Paint"
+      },
+      {
+        "question": "Describe the visual patterns formed by the colored sections on the case.",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the overall visual impact of the displayed phone case design?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging by the image, is the phone case design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is suggested by the visible brushstrokes on the phone case's surface?",
+        "answer": "Hand-painted"
+      },
+      {
+        "question": "Based on the visual evidence, is the design on the case detailed or simple?",
+        "answer": "Detailed"
       }
     ]
   }

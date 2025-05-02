@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/dbc9a15b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant material visibly composing the main body of the depicted item?",
+        "answer": "Copper"
+      },
+      {
+        "question": "What color best describes the exterior surface of the cylindrical container?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the general three-dimensional form of the primary storage component?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the surface of the copper container?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What color is the flexible tubing coiled within and extending from the copper container?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent material of the flexible tubing stored within the copper vessel?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the end fittings visible on the green flexible tubing?",
+        "answer": "Conical"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary function of this copper device?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What type of connection is apparent at the end of the green flexible tube?",
+        "answer": "Coupler"
+      },
+      {
+        "question": "Describe the visible surface treatment of the copper, indicating any signs of aging or weathering.",
+        "answer": "Patina"
+      },
+      {
+        "question": "Considering the image, what is the overall design style of the copper storage container?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the cylindrical container display any noticeable embossed markings or decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual aspects, what is the approximate height-to-width ratio of the container?",
+        "answer": "Equal"
+      },
+      {
+        "question": "What is the apparent condition of the coiled flexible tubing, is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering its design and function, what is the most likely application for this device?",
+        "answer": "Gardening"
+      }
+    ]
+  }
+]

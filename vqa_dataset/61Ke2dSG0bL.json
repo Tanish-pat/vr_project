@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the primary color of the sandal's sole?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What appears to be the texture of the sandal's straps?",
-        "answer": "Woven"
-      },
-      {
-        "question": "What is the overall shape of the sandal's footbed?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What secondary color accents the black straps?",
+        "question": "What secondary color accents the sandal's straps?",
         "answer": "Gold"
       },
       {
-        "question": "What type of closure mechanism does the sandal feature?",
-        "answer": "Hook"
-      },
-      {
-        "question": "Describe the pattern visible on the sandal's straps.",
-        "answer": "Striped"
-      },
-      {
-        "question": "What material seems most likely to comprise the sandal's straps?",
+        "question": "What appears to be the primary material of the sandal's straps?",
         "answer": "Fabric"
       },
       {
-        "question": "What is the apparent material of the sandal's sole?",
-        "answer": "Rubber"
+        "question": "Describe the texture of the sandal's straps, based on visual appearance?",
+        "answer": "Woven"
       },
       {
-        "question": "How many adjustable straps does this sandal visibly possess?",
+        "question": "What is the overall shape of the sandal's sole unit?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What color is the sandal's sole unit?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of closure mechanism does the sandal employ?",
+        "answer": "Hook"
+      },
+      {
+        "question": "How many adjustable straps are visibly present on the sandal?",
         "answer": "Two"
       },
       {
-        "question": "What is the style of the sandal, based on its construction?",
+        "question": "Judging by the image, what is the sandal's apparent style?",
         "answer": "Sporty"
       },
       {
-        "question": "Does the sandal show any visible branding or logos?",
+        "question": "What design element is visible on the straps, besides the color?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Considering the materials and design, what is the sandal's likely use?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What seems to be the material of the sandal's sole, based on its look?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Does the sandal have a heel?",
         "answer": "No"
       },
       {
-        "question": "What is the general design of the sandal's straps?",
+        "question": "What is the general pattern on the sandal's straps?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Describe the overall look of the sandal's construction?",
         "answer": "Simple"
-      },
-      {
-        "question": "Considering the sole, would these sandals appear suitable for wet conditions?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Observing the straps, do they appear to be heavily padded?",
-        "answer": "No"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8c/8ccb8779.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what fundamental geometric shape best describes this item's primary structure?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color of the item's exterior surface, as perceived from the primary image perspective?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Based on its visual appearance, what material seems to constitute the majority of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the item's interior, what type of design or partitions are visible within its cavity?",
+        "answer": "Dividers"
+      },
+      {
+        "question": "Examining the base, what color is the visible trim or border surrounding the main body?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent surface texture of the product's exterior, as shown in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the overall visual impression of the product's appearance, relating to its presumed functionality and style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the image, how many compartments or divisions are clearly seen inside the container?",
+        "answer": "Four"
+      },
+      {
+        "question": "Analyzing the provided perspective, what is the apparent depth or height of the item's body relative to its width?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "From the presented image, what seems to be the primary intended use or function of this product based on its shape and compartments?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering the arrangement of the interior divisions, what is the likely purpose of these compartments?",
+        "answer": "Separation"
+      },
+      {
+        "question": "Based on the visual attributes, how would you describe the product's overall design aesthetic or style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the color saturation, how would you characterize the shade of the item's primary color?",
+        "answer": "Bright"
+      },
+      {
+        "question": "Judging by the edge profile and construction, what is the general thickness of the product's side walls?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Observing the base, what is the material of the border around the main structure?",
+        "answer": "Rubber"
+      }
+    ]
+  }
+]

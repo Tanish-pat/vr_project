@@ -9,60 +9,60 @@
         "answer": "Pink"
       },
       {
-        "question": "What material appears to be used for the chair's seat and back?",
+        "question": "What fabric-like material is used for the chair seat and back?",
         "answer": "Velvet"
       },
       {
-        "question": "Describe the overall shape of the chair's backrest.",
+        "question": "Describe the overall shape of the chair's backrest?",
         "answer": "Curved"
       },
       {
-        "question": "What is the apparent material of the chair's legs?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What is the design of the chair's legs; how many legs?",
+        "question": "What is the shape of the chair's legs?",
         "answer": "Tripod"
       },
       {
-        "question": "What is the texture of the chair's upholstery?",
-        "answer": "Soft"
+        "question": "What material appears to constitute the chair's legs?",
+        "answer": "Wood"
       },
       {
-        "question": "Considering the legs, what is the chair's style?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Describe the overall shape of the chair's seat.",
-        "answer": "Curved"
-      },
-      {
-        "question": "What color are the chair's legs?",
+        "question": "What is the general color tone of the chair's legs?",
         "answer": "Beige"
       },
       {
-        "question": "Does the chair show visible stitching?",
-        "answer": "Yes"
+        "question": "What design element is visible on the back of the chair seat?",
+        "answer": "Seam"
       },
       {
-        "question": "What is the style of the chair's backrest?",
+        "question": "What is the apparent texture of the chair's upholstery?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the chair's overall style or aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "How many legs does the chair have, as visually apparent?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the overall design of the chair's seat?",
         "answer": "Contoured"
       },
       {
-        "question": "What is the apparent finish of the chair's wooden legs?",
-        "answer": "Matte"
+        "question": "Describe the visibility of any noticeable patterns on the upholstery?",
+        "answer": "None"
       },
       {
-        "question": "Describe the visual connection between the seat and backrest.",
-        "answer": "Seamless"
+        "question": "What is the general look of the chair's structure?",
+        "answer": "Sleek"
       },
       {
-        "question": "What is the approximate height of the chair's backrest?",
-        "answer": "Medium"
+        "question": "What is the chair primarily designed to be used for?",
+        "answer": "Sitting"
       },
       {
-        "question": "Is the seat of the chair cushioned?",
-        "answer": "Yes"
+        "question": "What is the color of the chair's underside?",
+        "answer": "Pink"
       }
     ]
   }

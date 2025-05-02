@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3ab282db.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme showcased throughout the artwork?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Describe the primary artistic style employed in the painting's execution?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What kind of frame encloses and complements the artwork?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to be used as the base for the artwork?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Characterize the overall texture depicted in the painting's brushstrokes?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What shape best describes the overall form of the framed piece?",
+        "answer": "Square"
+      },
+      {
+        "question": "Considering the painting's composition, what is its overall aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Identify the most noticeable textural element present in the artwork.",
+        "answer": "Brushstrokes"
+      },
+      {
+        "question": "What color accents subtly appear within the dominant blue hues?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the frame surrounding the art?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the visual effect created by the variation in shades of blue?",
+        "answer": "Depth"
+      },
+      {
+        "question": "Considering the visible components, is this a three-dimensional object?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the frame, is it matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the level of detail and intricacy in the blue brushstrokes?",
+        "answer": "High"
+      },
+      {
+        "question": "What gives this abstract painting its texture and visual interest?",
+        "answer": "Paint"
+      }
+    ]
+  }
+]

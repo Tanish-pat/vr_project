@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/bef1eae2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the sandals shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to be used for the upper part of these sandals?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Describe the shape of the heel on these black sandals, as clearly shown in the provided image?",
+        "answer": "Stiletto"
+      },
+      {
+        "question": "What is the design feature present along the ankle strap of the sandals shown?",
+        "answer": "Ruffles"
+      },
+      {
+        "question": "Considering the image, what kind of closure mechanism do these sandals appear to have?",
+        "answer": "Buckle"
+      },
+      {
+        "question": "Based on the image, what is the overall style of these heeled sandals?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Focusing on the image, what is the approximate height of the heel in centimeters?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visible texture of the material composing the main body of the sandal?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent shape of the toe on the shown footwear?",
+        "answer": "Open"
+      },
+      {
+        "question": "Describe the silhouette of these heeled sandals based on the image only.",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What is the visible color of the insole of the footwear shown?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging from the picture, what is the strap style of the sandal presented?",
+        "answer": "Ankle"
+      },
+      {
+        "question": "Based on the provided image, how many straps are visible on each sandal?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent material of the buckle on the ankle strap?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall design aesthetic reflected in these shoes as shown in the image?",
+        "answer": "Feminine"
+      }
+    ]
+  }
+]

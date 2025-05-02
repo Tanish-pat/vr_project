@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/44/4429f207.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary function of this cylindrical device, as depicted in the image?",
+        "answer": "Filter"
+      },
+      {
+        "question": "What is the dominant color of the water filter's main body, as shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what material appears to constitute the majority of the water filter's structure?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the image closely, what type of text is prominently displayed on the filter's surface?",
+        "answer": "WATER"
+      },
+      {
+        "question": "Judging from the image, what brand name is visibly printed on the water filter?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the overall shape of the depicted water filter, as shown in the product image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent texture of the majority of the water filter's surface, judging from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the product image show any visible connection point or fitting at the top of the filter?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual inspection of the image, are there any noticeable markings or indicators printed on the filter's label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what is the approximate height to diameter ratio of this water filter?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the image show any noticeable discoloration or staining on the filter's body?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the filter's surface, as shown in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what seems to be the general condition of the water filter's outer casing?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Looking at the image, what color is the text on the water filter's label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent style of the text font displayed on the water filter label, based on the image?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

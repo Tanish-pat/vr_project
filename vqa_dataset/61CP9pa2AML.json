@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a6a95665.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted phone case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary design element showcased on the phone case?",
+        "answer": "Gamepad"
+      },
+      {
+        "question": "What appears to be the material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall style, what is the case's theme?",
+        "answer": "Gaming"
+      },
+      {
+        "question": "What color is the visible border surrounding the phone case?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the apparent finish of the gamepad image on the case?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the gamepad image on the phone case appear to be two or three dimensional?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the shape of the object that the case is designed to fit?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is the image of the gamepad sharply focused or blurred?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Describe the texture implied by the gamepad image on the case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of buttons are depicted on the gamepad image?",
+        "answer": "Analog"
+      },
+      {
+        "question": "Excluding the gamepad, are there any other noticeable details on the phone case?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its design, what is the intended use of this product?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Considering the lighting, how does the surface of the case seem to reflect light?",
+        "answer": "Brightly"
+      }
+    ]
+  }
+]

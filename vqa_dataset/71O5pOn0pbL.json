@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3f/3f18c033.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the shoe's upper?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the secondary color prominently featured on the shoe?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What material appears to constitute the majority of the shoe's upper?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "What is the color of the shoe's midsole, visible at the bottom?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the visible stitching on the shoe's upper?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the style of the shoe's lacing system?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the overall shape of the shoe's toe box?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the texture of the material used in the heel area?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the appearance of the heel pull tab, located at the back?",
+        "answer": "Loop"
+      },
+      {
+        "question": "What is the brand name subtly printed on the side of the shoe?",
+        "answer": "SYMA"
+      },
+      {
+        "question": "What is the general design style of the shoe, in one word?",
+        "answer": "Sporty"
+      },
+      {
+        "question": "What is the color of the accent stripe near the heel?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What appears to be the primary material of the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the visible texture of the area where the midsole meets the outsole?",
+        "answer": "Grooved"
+      },
+      {
+        "question": "What is the overall condition of the shoe, visually apparent?",
+        "answer": "New"
+      }
+    ]
+  }
+]

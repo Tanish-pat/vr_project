@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a2406d79.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the generator's main body?",
+        "answer": "Red"
+      },
+      {
+        "question": "What brand name is prominently displayed on the generator?",
+        "answer": "RAINIER"
+      },
+      {
+        "question": "What type of fuel does the generator appear to support, based on its labeling?",
+        "answer": "Dual"
+      },
+      {
+        "question": "What is the primary material of the generator's wheels?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the generator's housing?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of control panel is visible on the generator's surface?",
+        "answer": "Digital"
+      },
+      {
+        "question": "What is the color of the generator's wheel rims?",
+        "answer": "Black"
+      },
+      {
+        "question": "What feature is suggested by the presence of a wheel on each side?",
+        "answer": "Portable"
+      },
+      {
+        "question": "What type of outlets are visibly present on the control panel?",
+        "answer": "AC"
+      },
+      {
+        "question": "Describe the texture of the generator's main housing?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the smaller text and logos on the generator?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What type of handle design is shown for ease of mobility?",
+        "answer": "Foldable"
+      },
+      {
+        "question": "What kind of power source is implied by the visible engine?",
+        "answer": "Gas"
+      },
+      {
+        "question": "Based on its features, what is the likely function of this machine?",
+        "answer": "Generator"
+      },
+      {
+        "question": "What is the visible component that assists in fuel supply?",
+        "answer": "Pump"
+      }
+    ]
+  }
+]

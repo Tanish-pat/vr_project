@@ -5,64 +5,44 @@
   {
     "questions": [
       {
-        "question": "Considering the overall text displayed, what single word best describes the main ingredient declared?",
-        "answer": "Eggs"
-      },
-      {
-        "question": "What adjective, visible in the presented text, modifies the key ingredient?",
-        "answer": "Organic"
-      },
-      {
-        "question": "Based on the visible text, what is the single word that precedes 'Organic Eggs'?",
-        "answer": "Ingredients"
-      },
-      {
-        "question": "Disregarding punctuation, what is the final word seen within the provided text snippet?",
-        "answer": "Eggs"
-      },
-      {
-        "question": "What is the most prominent word in terms of visual size in the presented text sample?",
-        "answer": "Ingredients"
-      },
-      {
-        "question": "What single-word descriptor best represents the overall style of the text's typeface?",
+        "question": "Considering the text's overall presentation, what single word best describes the style of the lettering in the image?",
         "answer": "Sans-serif"
       },
       {
-        "question": "Ignoring capitalization, what is the most frequently repeated word in this text?",
-        "answer": "Eggs"
-      },
-      {
-        "question": "What is the color of the ink used to print the visible text on the surface?",
-        "answer": "Black"
-      },
-      {
-        "question": "If describing the surface texture, what is a single word to characterize the background?",
+        "question": "What adjective best describes the visual texture of the surface upon which the text is printed?",
         "answer": "Rough"
       },
       {
-        "question": "What is the general shape of the text block displayed within the image?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Considering the spacing, how could the alignment of the text be described?",
-        "answer": "Left"
-      },
-      {
-        "question": "What is the main visible subject of the provided image?",
-        "answer": "Text"
-      },
-      {
-        "question": "Disregarding any descriptors, what is the only noun explicitly stated?",
+        "question": "Based on the image, what is the primary food item indicated by the product label?",
         "answer": "Eggs"
       },
       {
-        "question": "In the text, what word indicates a list of components?",
+        "question": "Observing the label, what is the explicit quality mentioned regarding the egg origin?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the single word specifying the type of information presented on this label?",
         "answer": "Ingredients"
       },
       {
-        "question": "What single word describes the case of the lettering used in the text?",
-        "answer": "Uppercase"
+        "question": "What is the most accurate single word describing the color of the text itself?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the background, what single color most closely represents its shade?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What word accurately depicts the overall shape of the text block?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What single word best summarizes the nature of the text, referring to its form?",
+        "answer": "Printed"
+      },
+      {
+        "question": "If you were to describe the visual clarity of the text, what single word would be appropriate?",
+        "answer": "Clear"
       }
     ]
   }

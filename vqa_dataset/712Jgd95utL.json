@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/51/51f35aee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall cylindrical form factor, what is the primary shape of this product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the visible label, what is the intended use of this product?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "What specific type of cleaning product is prominently displayed on the container label?",
+        "answer": "Wipes"
+      },
+      {
+        "question": "Considering the dominant green hues and botanical imagery, what is the implied scent profile?",
+        "answer": "Minty"
+      },
+      {
+        "question": "Judging by the design and label, what is the overall brand aesthetic of this product?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Observing the container's material, what appears to be its primary construction material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary color of the illustrated leaves on the product's label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on the label's text, what is a notable characteristic of the product's ingredients?",
+        "answer": "Conscious"
+      },
+      {
+        "question": "What specific plant is prominently featured in the graphic design on the label?",
+        "answer": "Mint"
+      },
+      {
+        "question": "Considering the texture suggested by the image, how would you describe the surface of the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the text on the product's label?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What word describes the overall state or condition suggested by the label\u2019s imagery?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What recognizable brand logo is displayed on the product's packaging?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Referring to the quantity stated on the bottom of the container, what is the approximate number of wipes included?",
+        "answer": "25"
+      },
+      {
+        "question": "What is the texture implied by the image of the plant leaves on the label?",
+        "answer": "Leafy"
+      }
+    ]
+  }
+]

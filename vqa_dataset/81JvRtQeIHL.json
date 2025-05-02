@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the product packaging?",
+        "question": "What is the primary color of the packaging visible in the image?",
         "answer": "Brown"
       },
       {
-        "question": "What material appears to be used for the packaging?",
+        "question": "What material appears to be used for the product's packaging?",
         "answer": "Cardboard"
       },
       {
-        "question": "What is the overall shape of the product's packaging?",
+        "question": "What is the overall shape of the product's packaging depicted?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the primary text displayed prominently on the package?",
-        "answer": "Vedakg"
+        "question": "Is there any noticeable texture on the surface of the packaging?",
+        "answer": "Smooth"
       },
       {
-        "question": "What weight, in kilograms, is indicated on the packaging?",
-        "answer": "1"
+        "question": "Considering the visual details, what is the apparent weight indicated on the packaging?",
+        "answer": "1kg"
       },
       {
-        "question": "What kind of printing technique appears to be used on the packaging?",
-        "answer": "Offset"
-      },
-      {
-        "question": "Does the packaging exhibit any visible texture?",
+        "question": "Does the packaging display any prominent branding or logos?",
         "answer": "Yes"
       },
       {
-        "question": "Is the packaging's surface glossy or matte?",
-        "answer": "Matte"
+        "question": "What is the apparent style of the text and branding elements on the package?",
+        "answer": "Simple"
       },
       {
-        "question": "What language is the majority of the text on the package in?",
+        "question": "Based on the image, what language is primarily used on the packaging?",
         "answer": "English"
       },
       {
-        "question": "Are there any noticeable barcodes present on the package?",
+        "question": "Are there any visible barcodes or identification numbers present?",
         "answer": "Yes"
       },
       {
-        "question": "What is the overall aesthetic style of the packaging?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Does the packaging include any images or illustrations?",
+        "question": "Observing the packaging, are there any noticeable graphics or illustrations?",
         "answer": "No"
       },
       {
-        "question": "Are there any seals or certifications visible on the packaging?",
-        "answer": "Yes"
+        "question": "Does the packaging feature any noticeable folds or creases in the image?",
+        "answer": "No"
       },
       {
-        "question": "Is the text on the packaging predominantly serif or sans-serif?",
-        "answer": "Sans-serif"
+        "question": "Judging by the image, what is the print quality of the packaging's text?",
+        "answer": "High"
       },
       {
-        "question": "What is the overall size of the packaging shown (in terms of dimensions)?",
-        "answer": "Unknown"
+        "question": "Can you identify the brand name as presented on the product packaging?",
+        "answer": "Vedak"
+      },
+      {
+        "question": "Considering the visual appearance, what is the overall condition of the packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "From the image, does the packaging seem to be sealed or open?",
+        "answer": "Sealed"
       }
     ]
   }

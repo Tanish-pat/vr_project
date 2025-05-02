@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2fb102b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and function, what is the primary purpose of this upholstered piece of furniture, as shown in the image?",
+        "answer": "Bench"
+      },
+      {
+        "question": "Describe the predominant shade observed across the main body of the furniture, considering its visual texture and apparent material.",
+        "answer": "Gray"
+      },
+      {
+        "question": "What specific type of fabric appears to be used in the construction of the seating surface and backrest cushions?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Focusing on the legs, what metallic finish is visibly present on the supporting structures of this upholstered bench?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Describe the geometric pattern subtly visible on the upholstery's surface; consider the arrangement of the tufting or stitching.",
+        "answer": "Diamond"
+      },
+      {
+        "question": "Based on the image, what is the shape of the backrest cushions present at either end of the bench?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent height of the legs, from the floor to the bench's base, in relation to the overall size?",
+        "answer": "Short"
+      },
+      {
+        "question": "Describe the style of the arms on this bench; note their relationship to the backrest and overall design.",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What is the general visual texture of the upholstery fabric; pay attention to the light's interaction with the surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the materials used, what would you describe as the overall aesthetic of this bench; luxurious, rustic, etc?",
+        "answer": "Luxurious"
+      },
+      {
+        "question": "What material seems to compose the structural support beneath the upholstery; wood, metal, or another material?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the lines and proportions, what is the form of the primary seating area in terms of geometry?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the color of the metallic elements; are they silver, gold, or another hue?",
+        "answer": "Brass"
+      },
+      {
+        "question": "What seems to be the method of attachment for the backrest cushions\u2014sewn, clipped, or something else?",
+        "answer": "Attached"
+      },
+      {
+        "question": "Considering the overall design, what is the general style of this bench\u2014modern, traditional, or another style?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

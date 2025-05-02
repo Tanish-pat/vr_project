@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e2dbce6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible portion of the blanket?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the outer blanket layer?",
+        "answer": "Knitted"
+      },
+      {
+        "question": "What is the general shape of the entire item as presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of the visible under layer?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describing the pattern on the outer layer, what would you call it?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "What appears to be the overall feel of the outer fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the color of the visible portion of the under layer?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the style of the visible knit on the outer layer?",
+        "answer": "Cable"
+      },
+      {
+        "question": "Considering the presentation, how is the blanket displayed?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What is the primary apparent function of the product shown?",
+        "answer": "Covering"
+      },
+      {
+        "question": "What is the visible edge style of the blanket?",
+        "answer": "Frayed"
+      },
+      {
+        "question": "Considering the appearance, what could be the intended use of this?",
+        "answer": "Baby"
+      },
+      {
+        "question": "What is the form in which the blanket is presented in the image?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Observing the image carefully, what is the apparent weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the visual detail, what is the style of the blanket?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]
