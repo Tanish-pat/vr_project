@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3ec4eb00.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric comprising the main body of these storage boxes?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What color is the fabric used for the lid of each storage cube?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Describe the overall shape of each individual storage container displayed in the image.",
+        "answer": "Cubic"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of these storage boxes?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the visible texture, what is the likely surface feel of the storage box's main fabric?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "What design element is prominently featured on the front of each storage cube's main fabric?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What color is the trim around the central rectangular design element on the front?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on visual observation, what seems to be the function of these objects?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Are there any visible handles or carrying aids integrated into the design of the storage boxes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How many storage boxes are shown in total within the provided product image?",
+        "answer": "Three"
+      },
+      {
+        "question": "Considering the image, what seems to be the likely method of closing these storage cubes?",
+        "answer": "Lid"
+      },
+      {
+        "question": "Does the image show any visible stitching or seams on the fabric storage units?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the picture, what is the apparent state of the storage boxes, new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What design element seems to contrast with the main color of the box?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the beige lid fabric, rough or smooth?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

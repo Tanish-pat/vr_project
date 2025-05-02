@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the presented wooden dining table?",
+        "question": "What is the overall shape of the presented dining table?",
         "answer": "Oval"
       },
       {
-        "question": "What primary material constitutes the structure of this extending table?",
+        "question": "What primary material constitutes the table's construction?",
         "answer": "Wood"
       },
       {
-        "question": "Considering the visible grain, what kind of wood seems to be used in its construction?",
-        "answer": "Oak"
+        "question": "Describe the visible grain pattern on the table's surface?",
+        "answer": "Linear"
       },
       {
-        "question": "Describe the color tone predominantly observed across the table's surface?",
-        "answer": "Light"
-      },
-      {
-        "question": "How many distinct sections compose the main tabletop of this piece of furniture?",
+        "question": "How many distinct sections compose the table's top?",
         "answer": "Two"
       },
       {
-        "question": "What is the design style apparent in the legs' structural components?",
-        "answer": "Simple"
+        "question": "What is the dominant color of the wooden tabletop?",
+        "answer": "Beige"
       },
       {
-        "question": "What is the visible texture of the wooden surface, considering the image's resolution?",
+        "question": "What design feature is apparent at each table leg's top?",
+        "answer": "Bracket"
+      },
+      {
+        "question": "Characterize the texture of the visible wooden surfaces?",
         "answer": "Smooth"
       },
       {
-        "question": "Focusing on the table's legs, what is their fundamental shape or form?",
-        "answer": "Rectangular"
+        "question": "How many legs support the presented dining table?",
+        "answer": "Four"
       },
       {
-        "question": "What is the visible supporting structure present beneath the table's top surface?",
-        "answer": "Stretcher"
+        "question": "What is the connecting structure beneath the tabletop?",
+        "answer": "Support"
       },
       {
-        "question": "Considering the visible joinery, how is the tabletop connected to the base?",
-        "answer": "Hidden"
+        "question": "What type of joint appears to connect the two tabletop halves?",
+        "answer": "Butt"
       },
       {
-        "question": "Considering the ends of the table legs, what design feature is visible?",
-        "answer": "Squared"
+        "question": "Describe the style of the visible table legs?",
+        "answer": "Tapered"
       },
       {
-        "question": "Given the image, what is the apparent finish of the wooden tabletop?",
+        "question": "What is the apparent finish on the wood's surface?",
         "answer": "Matte"
       },
       {
-        "question": "What is the overall visual condition of the presented extending table?",
+        "question": "How would you describe the overall design of the table?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent height of the table's legs?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the overall condition of the pictured dining table?",
         "answer": "Used"
-      },
-      {
-        "question": "Based on the image, what is the visible method of extending the table?",
-        "answer": "Butterfly"
-      },
-      {
-        "question": "What type of joint is visible connecting the table top's two sections?",
-        "answer": "Butt"
       }
     ]
   }

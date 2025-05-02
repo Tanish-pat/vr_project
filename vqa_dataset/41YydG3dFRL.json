@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/98e98f37.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall presentation, what is the primary color scheme utilized in this food product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific type of spice does the ingredient list clearly mention as the product's main component?",
+        "answer": "Cinnamon"
+      },
+      {
+        "question": "Based on the text, what is the adjective describing the type of cinnamon utilized in this product?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What kind of font style is predominantly used for the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text's case, specifically how are the words displayed in terms of capitalization?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Observing the formatting, what punctuation mark appears at the end of each line of the product description?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the textual arrangement, considering the order in which the lines are written on the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the label's purpose, what word precedes the list of the food product's ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the type of information presented immediately after the list of primary ingredients?",
+        "answer": "Warning"
+      },
+      {
+        "question": "If the label's text were interpreted as a sentence, what grammatical structure is used for additional information on manufacturing?",
+        "answer": "Clause"
+      },
+      {
+        "question": "What additional ingredient is specified alongside milk and eggs in the production facility information?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the type of nut mentioned as part of the production facility's potential cross-contamination list?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What is the overall textual appearance on the label; what is the overall style?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What specific word introduces the description of where this food product was manufactured?",
+        "answer": "Produced"
+      },
+      {
+        "question": "Aside from ingredients and production information, what additional symbols are present on the label?",
+        "answer": "None"
+      }
+    ]
+  }
+]
