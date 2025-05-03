@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e361ed34.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual texture, what is the predominant surface characteristic of the damaged section?",
+        "answer": "Scratched"
+      },
+      {
+        "question": "What is the apparent overall shape of the depicted protective screen cover?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual appearance, what material seems to compose the screen protector?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the color of the protective glass screen cover shown in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the image closely, what is the level of transparency of the damaged portion?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What type of damage is visibly present on the left half of the screen protector?",
+        "answer": "Scratches"
+      },
+      {
+        "question": "What is the overall condition of the screen protector's surface displayed in the image?",
+        "answer": "Damaged"
+      },
+      {
+        "question": "Judging by the visible features, what is the apparent purpose of this product?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the primary color of the undamaged half of the screen protector?",
+        "answer": "Black"
+      },
+      {
+        "question": "What does the image show in terms of the screen protector's application status?",
+        "answer": "Applied"
+      },
+      {
+        "question": "In reference to its visual appearance, what is the apparent thickness of the protector?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Regarding the visual texture, describe the surface of the undamaged section of the protector",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible state of the adhesive layer connecting to the phone?",
+        "answer": "Applied"
+      },
+      {
+        "question": "What is the apparent visual design feature that enhances the protector's functionality?",
+        "answer": "Coating"
+      },
+      {
+        "question": "What is the visual characteristic of the edges of the protective glass in this image?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]

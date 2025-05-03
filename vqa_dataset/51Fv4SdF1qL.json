@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ff7b15ec.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the brush handle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the brush handle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape best describes the overall form of the brush?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent texture of the brush handle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the visible portion of the brush ferrule?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the apparent material of the brush ferrule?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the shape of the brush head?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What seems to be the material of the brush head?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Is there any noticeable branding visible on the handle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent color of the brush tip?",
+        "answer": "Lightblue"
+      },
+      {
+        "question": "Describe the length of the brush handle relative to the head.",
+        "answer": "Long"
+      },
+      {
+        "question": "Does the brush handle show any visible markings besides branding?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general appearance of the brush's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image's context, what is the brush intended for?",
+        "answer": "Lips"
+      },
+      {
+        "question": "What is the overall design aesthetic of this brush?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

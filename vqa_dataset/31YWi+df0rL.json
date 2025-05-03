@@ -1,0 +1,61 @@
+[
+  {
+    "path": "images/small/1c/1c2b46a7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the label, as visibly shown in the image?",
+        "answer": "Cinnamon"
+      },
+      {
+        "question": "Considering the label's text, what adjective describes the nature of the cinnamon present?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the image, what is the overall color of the background on which the text is printed?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "In terms of typography, what style of text is predominantly used for the label's content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text's case (uppercase, lowercase, etc.) as visually observed on the product label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What word immediately precedes the specification of the ingredient, as shown in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the image carefully, what punctuation mark ends the ingredient statement on the label?",
+        "answer": "Period"
+      },
+      {
+        "question": "Considering the visual appearance, what is the font weight (bold, regular, etc.) of the label's text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the visual clarity and sharpness of the label's text as presented in the image.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the approximate size of the text in relation to the overall label area, as visually apparent?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging by the image alone, does the label's text seem to be printed or hand-written?",
+        "answer": "Printed"
+      },
+      {
+        "question": "If observing the alignment of the words, what style is the label's text arranged in?",
+        "answer": "Left-aligned"
+      },
+      {
+        "question": "What is the apparent spacing between the words composing the label's textual content?",
+        "answer": "Even"
+      }
+    ]
+  }
+]

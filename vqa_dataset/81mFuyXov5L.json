@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6a77f99a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the monitor arm, as visibly depicted in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used in the construction of the monitor arm?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the image, what is the overall design style of the monitor arm, considering its shape and articulation?",
+        "answer": "Articulating"
+      },
+      {
+        "question": "As shown in the image, what is the apparent method of attachment for this monitor arm to the desk?",
+        "answer": "Clamp"
+      },
+      {
+        "question": "Judging by the image alone, what seems to be the most prominent functional feature of this monitor arm?",
+        "answer": "Adjustment"
+      },
+      {
+        "question": "From the image, what is the general shape or form factor of this monitor arm's primary component?",
+        "answer": "Arm"
+      },
+      {
+        "question": "What is the apparent finish or surface texture of the monitor arm, judging by its visual appearance in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In the image, what seems to be the orientation or position of the monitor relative to the desk surface?",
+        "answer": "Tilted"
+      },
+      {
+        "question": "Based solely on the image, what is the apparent size or scale of the monitor arm relative to the other objects in the picture?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the provided image, what seems to be the level of complexity in the mechanical design of the monitor arm?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "In the image, what is the apparent number of joints or pivot points present in the monitor arm?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based solely on the image, describe the type of movement facilitated by the monitor arm's design.",
+        "answer": "Swivel"
+      },
+      {
+        "question": "From the image, what is the apparent level of visual obstruction caused by the monitor arm on the desk?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "In the supplied image, does the monitor arm display any noticeable markings, branding, or labels?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what seems to be the overall condition of the displayed monitor arm?",
+        "answer": "New"
+      }
+    ]
+  }
+]

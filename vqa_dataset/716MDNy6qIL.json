@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b8f120ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cooking pot's interior?",
+        "answer": "Cream"
+      },
+      {
+        "question": "What material appears to constitute the pot's primary construction?",
+        "answer": "CastIron"
+      },
+      {
+        "question": "Describe the overall shape of the presented cooking vessel?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color is the trim encircling the cooking pot's inner surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "How many handles are visibly attached to the sides of this pot?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent texture of the pot's outer surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general shape of the handles attached to the pot?",
+        "answer": "Arched"
+      },
+      {
+        "question": "What color are the handles on the cooking pot?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what is the apparent material of the handles?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Does the pot exhibit any noticeable markings or patterns on its interior?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from the image, how deep is the cooking pot?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "What is the apparent finish of the pot's interior surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general style of the cooking pot presented in this image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Describe the rim surrounding the cooking surface of the pot.",
+        "answer": "Defined"
+      },
+      {
+        "question": "What is the apparent weight of the cooking pot based on the material?",
+        "answer": "Heavy"
+      }
+    ]
+  }
+]

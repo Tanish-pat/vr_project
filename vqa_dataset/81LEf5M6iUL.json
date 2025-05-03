@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4ad7154b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible speaker unit?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the main speaker component?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material composing the speaker's exterior?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the surface texture, is the speaker glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What kind of connector is visibly attached to the rear of the speaker?",
+        "answer": "Power"
+      },
+      {
+        "question": "Considering the visible design, what is the speaker's apparent orientation (horizontal or vertical)?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What shape is the central, most prominent feature on the speaker's front panel?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Observing the power cord, what color is it?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of power plug is shown connected to the wall outlet?",
+        "answer": "US"
+      },
+      {
+        "question": "Considering its size, is this speaker designed for portable or desktop use?",
+        "answer": "Desktop"
+      },
+      {
+        "question": "What is the apparent surface finish of the speaker's circular central element?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible components, is this a single speaker or part of a stereo system?",
+        "answer": "Single"
+      },
+      {
+        "question": "Judging by its appearance, is this speaker unit intended for high-fidelity audio or general sound reproduction?",
+        "answer": "General"
+      },
+      {
+        "question": "What is the visible number of control knobs or buttons on the speaker's surface?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the speaker's design incorporate any visible branding or logos?",
+        "answer": "No"
+      }
+    ]
+  }
+]

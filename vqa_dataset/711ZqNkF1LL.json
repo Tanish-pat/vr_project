@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2b091dfa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the intricate geometric pattern, what is the dominant design element visibly present on the shoe's sole?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Observing the repeating motif, what specific shape constitutes the core unit of the pattern etched into the outsole?",
+        "answer": "Hexagon"
+      },
+      {
+        "question": "Based on the image's visual characteristics, what appears to be the primary material used in the shoe's sole construction?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Judging from the shade and tone displayed, what color best describes the overall hue of the shoe's outsole?",
+        "answer": "Brown"
+      },
+      {
+        "question": "From a purely visual perspective, what texture best characterizes the surface of the shoe's outsole?",
+        "answer": "Textured"
+      },
+      {
+        "question": "In terms of its form, what is the overall shape of the displayed shoe component shown in the provided image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Regarding the pattern's visual depth, how would you describe the level of relief or embossing evident on the shoe's sole?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "Given the image, what is the general appearance or finish of the sole's surface\u2014glossy, matte, or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent manufacturing method indicated by the consistent and uniform pattern on the shoe's outsole?",
+        "answer": "Molded"
+      },
+      {
+        "question": "Focusing on the outsole's design, what specific word describes the overall style or aesthetic of the pattern's arrangement?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "Considering the image's clarity, how much visual contrast is there between the pattern and the background color of the outsole?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the visible characteristics, what seems to be the primary function of the textured pattern on the shoe's sole?",
+        "answer": "Grip"
+      },
+      {
+        "question": "Disregarding any potential branding, what is the predominant visual characteristic of this shoe's outsole?",
+        "answer": "Pattern"
+      },
+      {
+        "question": "What is the most apparent visual characteristic of the sole's edge in this image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a purely visual assessment, how would you describe the density of the repeating pattern on the outsole?",
+        "answer": "High"
+      }
+    ]
+  }
+]

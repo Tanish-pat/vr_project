@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the handbag shown in the image?",
+        "question": "What is the dominant color of the purse's exterior?",
         "answer": "Beige"
       },
       {
-        "question": "What kind of closure mechanism is prominently displayed on the handbag?",
-        "answer": "Zipper"
-      },
-      {
-        "question": "What material appears to be the primary construction material of this purse?",
+        "question": "What appears to be the primary material of the handbag?",
         "answer": "Leather"
       },
       {
-        "question": "Considering the image, what is the overall shape of the presented handbag?",
+        "question": "Describe the overall shape and form of the clutch?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the visual details, what type of strap does the bag include?",
+        "question": "What type of closure mechanism is visible on the purse?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "What kind of strap or handle is attached to the purse?",
         "answer": "Chain"
       },
       {
-        "question": "Describe the apparent texture of the exterior surface of the shown handbag.",
+        "question": "Considering the texture, how would you describe the purse's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent finish of the visible metallic components on the handbag?",
-        "answer": "Gold"
+        "question": "What design element is present near the top of the purse?",
+        "answer": "Rings"
       },
       {
-        "question": "Judging from the image, how many visible compartments does the handbag have?",
+        "question": "How many visible compartments or sections does the purse have?",
         "answer": "Three"
       },
       {
-        "question": "What is the style of the visible zipper pull on the handbag?",
-        "answer": "Metal"
+        "question": "What is the apparent finish or sheen of the bag's surface?",
+        "answer": "Matte"
       },
       {
-        "question": "Does the image show any visible logos or branding on the handbag?",
+        "question": "What color is the hardware (zipper, chain) on the purse?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Based on the image, what is the purse's primary function?",
+        "answer": "Carrying"
+      },
+      {
+        "question": "Does the purse appear to have any noticeable patterns or prints?",
         "answer": "No"
       },
       {
-        "question": "Based on visual observation, what is the apparent size of the presented handbag?",
-        "answer": "Medium"
-      },
-      {
-        "question": "Considering the side view shown, what is the handbag's approximate thickness?",
-        "answer": "Thick"
-      },
-      {
-        "question": "What kind of stitching is visible along the seams of the handbag?",
-        "answer": "Straight"
-      },
-      {
-        "question": "Judging from the image, what is the style of the handbag's overall design?",
+        "question": "What is the general style of the purse, considering its design?",
         "answer": "Classic"
       },
       {
-        "question": "What is the apparent overall condition of the presented handbag?",
-        "answer": "New"
+        "question": "Judging by its size and features, how would you classify this bag?",
+        "answer": "Clutch"
+      },
+      {
+        "question": "What is the orientation of the zipper pull on the bag?",
+        "answer": "Vertical"
       }
     ]
   }

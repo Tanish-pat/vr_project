@@ -13,56 +13,56 @@
         "answer": "Blue"
       },
       {
-        "question": "What is the overall shape of the packaging shown in the image?",
+        "question": "What is the overall shape of the product packaging?",
         "answer": "Rectangular"
       },
       {
-        "question": "What type of product is contained within the packaging?",
-        "answer": "Medication"
-      },
-      {
-        "question": "What is indicated on the front of each box regarding time of use?",
-        "answer": "Daytime/Nighttime"
-      },
-      {
-        "question": "What illness is this medication intended to treat, as shown on the box?",
-        "answer": "Cold"
-      },
-      {
-        "question": "What additional ailment is indicated on the boxes, beside cold?",
-        "answer": "Flu"
-      },
-      {
-        "question": "What word describes the general format of the packaging shown?",
-        "answer": "Box"
-      },
-      {
-        "question": "What is the brand name visible on the packaging?",
-        "answer": "BasicCare"
-      },
-      {
-        "question": "What is the apparent material of the product's packaging?",
-        "answer": "Cardboard"
-      },
-      {
-        "question": "What is the general size of the product in relation to a human hand?",
-        "answer": "Small"
-      },
-      {
-        "question": "Considering the overall presentation, what is the apparent form of the medicine contained?",
-        "answer": "Capsules"
-      },
-      {
-        "question": "How many separate boxes of medication are shown in the image?",
-        "answer": "Two"
-      },
-      {
-        "question": "Describe the texture of the boxes, judging from the visual representation.",
+        "question": "What word describes the texture of the cardboard packaging?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the overall style of the product packaging, in a single word?",
-        "answer": "Simple"
+        "question": "What is the dominant text indicating the time of day for the first box?",
+        "answer": "Daytime"
+      },
+      {
+        "question": "What is the dominant text indicating the time of day for the second box?",
+        "answer": "Nighttime"
+      },
+      {
+        "question": "What ailment does the packaging claim to treat?",
+        "answer": "Cold"
+      },
+      {
+        "question": "What is the brand name visible on the packaging?",
+        "answer": "Basicare"
+      },
+      {
+        "question": "What additional ailment is mentioned on the packaging?",
+        "answer": "Flu"
+      },
+      {
+        "question": "What is the form of the medication as shown on the packaging?",
+        "answer": "Capsules"
+      },
+      {
+        "question": "What material is the product packaged in?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the approximate number of capsules?",
+        "answer": "24"
+      },
+      {
+        "question": "How many distinct boxes are included in the package?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the general arrangement of the two boxes?",
+        "answer": "Side-by-side"
+      },
+      {
+        "question": "What is depicted visually alongside the product to give a size perspective?",
+        "answer": "Hand"
       }
     ]
   }

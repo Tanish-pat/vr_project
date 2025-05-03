@@ -9,60 +9,60 @@
         "answer": "Yellow"
       },
       {
-        "question": "What agricultural product is primarily featured in the phone case design?",
+        "question": "What agricultural product is predominantly featured in the phone case's design?",
         "answer": "Corn"
       },
       {
-        "question": "What is the general shape or form of the items shown on the phone case?",
-        "answer": "Ears"
+        "question": "What is the overall shape or form factor of the depicted product?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Describe the texture evident in the visual representation of the corn kernels?",
-        "answer": "Rough"
-      },
-      {
-        "question": "What color variations are present among the corn cobs in the phone case image?",
-        "answer": "Orange"
-      },
-      {
-        "question": "Considering the overall design, what is the implied setting of the phone case's image?",
-        "answer": "Farm"
-      },
-      {
-        "question": "What is the apparent state of the corn, considering how it appears visually?",
-        "answer": "Dried"
-      },
-      {
-        "question": "Based on the image, what appears to be the primary material used for the phone case itself?",
+        "question": "Considering the image, what appears to be the primary material of the phone case itself?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the visual pattern or arrangement of the corn on the phone case?",
+        "question": "Based on visual inspection, what is the texture of the corn cobs in the design?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the visual arrangement of the corn cobs shown in the phone case's image.",
         "answer": "Clustered"
       },
       {
-        "question": "What is the level of detail visible in the representation of the corn kernels?",
+        "question": "What color variations are visible among the corn cobs on the phone case?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the apparent style or aesthetic of the phone case's design?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the apparent condition of the corn displayed in the phone case design?",
+        "answer": "Dried"
+      },
+      {
+        "question": "Does the design on the phone case appear to be a photograph or an illustration?",
+        "answer": "Photo"
+      },
+      {
+        "question": "Judging by the image, what is the level of detail in the corn cob depiction?",
         "answer": "High"
       },
       {
-        "question": "What might the phone case's design evoke in a consumer's mind?",
-        "answer": "Harvest"
+        "question": "What parts of the corn plant are shown in the phone case's design?",
+        "answer": "Ears"
       },
       {
-        "question": "What is the main visual component that dominates the case's surface area?",
-        "answer": "CoBS"
-      },
-      {
-        "question": "How many individual corn cobs are prominently visible on the phone case?",
-        "answer": "Seven"
-      },
-      {
-        "question": "What is the visible arrangement of the corn cobs in terms of positioning?",
+        "question": "What is the apparent orientation of the corn cobs on the phone case?",
         "answer": "Vertical"
       },
       {
-        "question": "What kind of visual effect is created by the color variation of the corn cobs?",
-        "answer": "Depth"
+        "question": "How many corn cobs are clearly visible in the phone case's design?",
+        "answer": "Seven"
+      },
+      {
+        "question": "What type of visual representation is used to showcase the product?",
+        "answer": "Image"
       }
     ]
   }

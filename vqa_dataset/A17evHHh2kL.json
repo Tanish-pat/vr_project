@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/00234b97.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture depicted across the entire fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the overall color family of the displayed fabric swatch?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the repeating pattern, what is the primary geometric motif observed?",
+        "answer": "Chevron"
+      },
+      {
+        "question": "What is the apparent visual weight or density of the fabric's weave?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the visual appearance, what is the likely material of this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describe the directionality of the repeating geometric pattern within the fabric?",
+        "answer": "Angled"
+      },
+      {
+        "question": "Considering the image, does the fabric exhibit a subtle sheen or a matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the implied scale of the repeating pattern in relation to the entire sample?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric; is it busy or subdued?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "From the image, is the fabric's surface consistent in texture or noticeably varied?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based solely on visual observation, what is the suggested application of this fabric?",
+        "answer": "Upholstery"
+      },
+      {
+        "question": "Describe the visual regularity or irregularity of the repeating geometric pattern.",
+        "answer": "Regular"
+      },
+      {
+        "question": "Does the fabric show any noticeable imperfections or inconsistencies in its weave?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the predominant visual element that makes up the fabric's pattern?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Considering the image, what is the visual uniformity of the fabric's coloration?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

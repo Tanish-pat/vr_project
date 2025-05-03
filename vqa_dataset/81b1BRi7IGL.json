@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/db83c1ad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the prominent number displayed on the chip?",
+        "answer": "White"
+      },
+      {
+        "question": "What version of Bluetooth technology is explicitly indicated on the chip?",
+        "answer": "5.0"
+      },
+      {
+        "question": "What is the overall shape of the featured Bluetooth chip component?",
+        "answer": "Square"
+      },
+      {
+        "question": "What appears to be the primary material of the circuit board surrounding the chip?",
+        "answer": "Green"
+      },
+      {
+        "question": "Describe the visual texture of the circuitry visible around the chip.",
+        "answer": "Linear"
+      },
+      {
+        "question": "What color are the fine lines composing the circuit board's pathways?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What graphic element accompanies the numerical version identifier on the chip?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Describe the appearance of the text labeling 'Bluetooth 5.0' on the chip.",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the dominant color in the graphical representation of the data transfer?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the size, how many components are visually prominent in the image?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the overall visual impression of the circuitry surrounding the chip?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What type of technology is prominently featured in the provided image?",
+        "answer": "Bluetooth"
+      },
+      {
+        "question": "What seems to be the function of the displayed electronic component?",
+        "answer": "Wireless"
+      },
+      {
+        "question": "What is the visual state of the displayed circuitry, is it functioning?",
+        "answer": "Static"
+      },
+      {
+        "question": "Given the image, what is the likely application of this chip?",
+        "answer": "Audio"
+      }
+    ]
+  }
+]

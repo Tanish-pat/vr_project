@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/32aad36e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary visual element displayed prominently on the presented product image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the text on the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of information does the text predominantly convey, in terms of its functional role on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual layout, what is the style of the lettering used in the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of background does the displayed text appear against, judging purely from the visual appearance?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Given the image, how would you describe the visual texture or appearance of the text?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image only, what kind of visual organization or arrangement does the text follow?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging only from visual characteristics, what is the general size of the text in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visual weight or prominence given to the word 'INGREDIENTS' in relation to the rest of the text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the overall visual impression, what's the implied visual tone or feeling conveyed by the text layout?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Focusing on visual aspects alone, what level of visual detail or intricacy is present in the text style?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "If you only consider the visual, what does the font seem to express or communicate from a visual perspective?",
+        "answer": "Clarity"
+      },
+      {
+        "question": "Based solely on visual evidence, what's the approximate number of lines of text contained within the product image?",
+        "answer": "Nine"
+      },
+      {
+        "question": "Considering only the visual data, what is the implied reading direction indicated by the text arrangement?",
+        "answer": "Left-to-right"
+      },
+      {
+        "question": "From visual observation, is the text arrangement justified (aligned) to the left, right, or center?",
+        "answer": "Left"
+      }
+    ]
+  }
+]

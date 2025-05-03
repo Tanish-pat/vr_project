@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/06554d9d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant visible surface texture of the item shown?",
+        "answer": "Cracked"
+      },
+      {
+        "question": "What is the overall color family of the depicted product?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the apparent finish or glaze effect on the item's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible design, what is the primary shape motif?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the main material of construction?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "What is the visible style of the decorative elements' arrangement?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "Characterize the tone of the lighter areas within the object's design?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Describe the visual effect of the crackle glaze on the surface?",
+        "answer": "Networked"
+      },
+      {
+        "question": "What type of visible pattern does the item's surface prominently exhibit?",
+        "answer": "Crazing"
+      },
+      {
+        "question": "Judging from the image, how would you describe the color depth of the glaze?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Considering the visible detail, what is the shape of individual design elements?",
+        "answer": "Blocks"
+      },
+      {
+        "question": "What is the visible visual effect on the borders between lighter and darker areas?",
+        "answer": "Blurred"
+      },
+      {
+        "question": "How would you describe the overall aesthetic impression of this item?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the visual impression regarding the manufacturing process of this item?",
+        "answer": "Handcrafted"
+      },
+      {
+        "question": "Considering the visible detail, what is the orientation of the repeating pattern?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overarching style of the chair, considering its shape and design elements?",
-        "answer": "Recliner"
-      },
-      {
-        "question": "What is the primary color of the chair's upholstery?",
+        "question": "What is the primary color of the fabric covering the chair?",
         "answer": "Blue"
       },
       {
-        "question": "What appears to be the texture of the fabric covering the chair?",
-        "answer": "Textured"
+        "question": "What is the overall shape of the chair's back?",
+        "answer": "Winged"
       },
       {
-        "question": "What type of armrests does the chair feature, considering their shape and size?",
-        "answer": "Rolled"
+        "question": "What type of reclining mechanism does the chair appear to have?",
+        "answer": "Recliner"
       },
       {
-        "question": "Describing its form, what kind of back does the chair possess?",
-        "answer": "Wingback"
-      },
-      {
-        "question": "What is the apparent material of the chair's upholstery, based on its visual characteristics?",
+        "question": "What is the apparent texture of the chair's upholstery?",
         "answer": "Fabric"
       },
       {
-        "question": "Considering its base, how does the chair rotate?",
-        "answer": "Swivel"
+        "question": "What is the dominant material of the chair's visible construction?",
+        "answer": "Fabric"
       },
       {
-        "question": "What mechanism is visible for reclining the chair?",
-        "answer": "Lever"
+        "question": "What is the visible shape of the chair's base?",
+        "answer": "Round"
       },
       {
-        "question": "What shape best describes the overall silhouette of the chair?",
-        "answer": "Curved"
+        "question": "Does the chair appear to have armrests?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the apparent base material of the chair?",
+        "question": "What is the visible style of the chair's armrests?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Is the chair's base visible in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the material of the chair's base?",
         "answer": "Metal"
       },
       {
-        "question": "What is the general padding level of the chair's seat and back?",
+        "question": "What type of visible mechanism is used for reclining?",
+        "answer": "Lever"
+      },
+      {
+        "question": "Does the chair appear to swivel?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible stitching pattern on the chair's cushions?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the general style of the chair's design?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What is the apparent density of the chair's padding?",
         "answer": "Plush"
-      },
-      {
-        "question": "Judging by its features, what is the likely intended use of this chair?",
-        "answer": "Seating"
-      },
-      {
-        "question": "What is the visual appearance of the stitching on the chair's upholstery?",
-        "answer": "Subtle"
-      },
-      {
-        "question": "What is the apparent color of the base of the chair?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the overall impression of the chair's design aesthetic?",
-        "answer": "Relaxed"
       }
     ]
   }

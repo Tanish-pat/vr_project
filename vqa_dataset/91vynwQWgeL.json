@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b5938f10.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible suitcase exterior?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the suitcase's shell?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the apparent texture of the suitcase's outer surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary material of the retractable handle?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What color is the top handle grip on the suitcase?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering its shape, what type of luggage is depicted?",
+        "answer": "Suitcase"
+      },
+      {
+        "question": "What is the overall shape of the suitcase's main body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What design feature is observed along the suitcase's sides?",
+        "answer": "Grooves"
+      },
+      {
+        "question": "How many visible sections does the retractable handle possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "What seems to be the finish of the suitcase's metallic components?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the color of the plastic accents around the handle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the image, is the suitcase hard-sided or soft-sided?",
+        "answer": "Hard"
+      },
+      {
+        "question": "Describe the apparent quality of the suitcase's construction.",
+        "answer": "Durable"
+      },
+      {
+        "question": "Based on visible features, what is the suitcase's style?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What type of wheels are visible on the suitcase?",
+        "answer": "None"
+      }
+    ]
+  }
+]
