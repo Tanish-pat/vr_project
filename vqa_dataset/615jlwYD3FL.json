@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of each individual lightbulb presented in the image?",
-        "answer": "Round"
+        "question": "What is the overarching shape of each individual lightbulb depicted in the provided image?",
+        "answer": "Sphere"
       },
       {
-        "question": "What is the predominant color of the lightbulbs shown in the provided image?",
+        "question": "What is the primary color of the visible lightbulb components shown in the image?",
         "answer": "White"
       },
       {
-        "question": "Based on the image, what appears to be the material composing the outer shell of each bulb?",
+        "question": "Considering the image, what appears to be the material composition of the lightbulb casing?",
         "answer": "Glass"
       },
       {
-        "question": "Considering the visual details, what type of base does each lightbulb seem to possess?",
-        "answer": "Screw"
-      },
-      {
-        "question": "What is the apparent surface texture of the lightbulbs depicted in the product image?",
+        "question": "Based on the image, what is the apparent finish or texture of the external lightbulb surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Judging from the image, how many individual lightbulbs are displayed in total?",
+        "question": "What kind of base is visible at the bottom of each of the lightbulbs in the picture?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Judging from the image, what is the apparent quantity of lightbulbs presented in the product shot?",
         "answer": "Twelve"
       },
       {
-        "question": "From the image, can you describe the arrangement of the lightbulbs?",
+        "question": "In the given image, what seems to be the arrangement of the lightbulbs?",
         "answer": "Grid"
       },
       {
-        "question": "What is the visible finish of the lightbulb surface, based on the provided image?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Considering the visible elements, does the bulb have any noticeable markings?",
+        "question": "Based on the image, are there any discernible markings or labels on the bulbs themselves?",
         "answer": "No"
       },
       {
-        "question": "Based on visual inspection, what is the apparent size consistency among the lightbulbs?",
+        "question": "What is the apparent size of each lightbulb relative to the other lightbulbs in the image?",
         "answer": "Uniform"
       },
       {
-        "question": "What is the suggested lightbulb type based on the visual characteristics?",
-        "answer": "LED"
-      },
-      {
-        "question": "Considering the image, what is the overall appearance of the lightbulbs?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Based on the image, are there any visible internal components of the lightbulbs?",
+        "question": "Based on the image, is there evidence of any noticeable damage or imperfections to any bulbs?",
         "answer": "No"
       },
       {
-        "question": "Does the image suggest any significant variations in the shape of the lightbulbs?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent level of transparency of the lightbulb material?",
+        "question": "Considering the image, what seems to be the overall level of brightness or luminescence of the displayed lightbulbs?",
         "answer": "Opaque"
+      },
+      {
+        "question": "Based on the image, what is the apparent transparency or opacity of the lightbulb glass?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "In the product image, what appears to be the position of the lightbulbs relative to the camera angle?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the dominant visual element throughout the image, aside from the lightbulbs?",
+        "answer": "Background"
+      },
+      {
+        "question": "Based solely on visual characteristics in the image, what is the apparent style of these lightbulbs?",
+        "answer": "Standard"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/905ed034.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material visibly comprising the filter's core structure?",
+        "answer": "Steel"
+      },
+      {
+        "question": "What color is the noticeable rubber gasket or seal located at the base of the filter assembly?",
+        "answer": "Red"
+      },
+      {
+        "question": "Describing the overall shape of the assembled filter unit, what geometric form best represents it?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the majority of the filter components?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visible layering, how many distinct filter components are clearly evident in the image?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the apparent texture of the metallic filter element, based on the image's visual detail?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible design, does the filter seem intended for single or multiple uses, based purely on visual attributes?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the general visual characteristic of the filter's central cylindrical component?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "Judging from the image, what is the apparent density of the filter's visible perforations or openings?",
+        "answer": "Sparse"
+      },
+      {
+        "question": "From the image, what is the general appearance of the topmost filter component, disregarding other components?",
+        "answer": "Disc-shaped"
+      },
+      {
+        "question": "How many distinct visible layers of filter media are clearly present in the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "Visually assessing the image's clarity, is the image exceptionally sharp and detailed or rather blurry?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Based only on the visible elements, what seems to be the primary function of the device, according to visual cues?",
+        "answer": "Filtration"
+      },
+      {
+        "question": "What is the apparent surface finish of the visible metal parts, considering visible reflections and texture?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Observing the image, what color is the visible inner portion of the filter assembly?",
+        "answer": "Silver"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b533309e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the folder's main body?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the folder?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the overall shape of this file storage device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the tab's position, what is the folder's orientation?",
+        "answer": "Portrait"
+      },
+      {
+        "question": "What color is the visible portion of the folder's tab?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the apparent texture of the folder's surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many visible tabs does this file folder possess?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on its design, what is the intended function of this item?",
+        "answer": "Filing"
+      },
+      {
+        "question": "What is the visual appearance of the folder's edges?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the folder exhibit any noticeable patterns or prints?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent thickness of the file folder?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Is the folder's color uniformly distributed across its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visual state of the folder, new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the general size and scale suggested by the image?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Are there any visible perforations, holes, or tears in the folder?",
+        "answer": "No"
+      }
+    ]
+  }
+]

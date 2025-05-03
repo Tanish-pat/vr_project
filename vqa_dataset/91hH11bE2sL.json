@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d88cc74d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sofa's upholstery?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the overall shape of the sofa's seating area?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the sofa's cushions?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the apparent texture of the sofa's upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many distinct seating sections does the sofa visually possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "What color are the visible wooden elements of the sofa's structure?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What kind of armrests does the sofa visually present?",
+        "answer": "Squared"
+      },
+      {
+        "question": "Is the back of the sofa straight or curved?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What kind of legs does the sofa appear to have?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "Based on the image, what is the style of the sofa?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent material of the sofa's legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the visible seams on the sofa's cushions.",
+        "answer": "Straight"
+      },
+      {
+        "question": "What kind of feet does the sofa appear to have?",
+        "answer": "Block"
+      },
+      {
+        "question": "What is the overall visual impression of the sofa's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the sofa have visible decorative elements?",
+        "answer": "No"
+      }
+    ]
+  }
+]

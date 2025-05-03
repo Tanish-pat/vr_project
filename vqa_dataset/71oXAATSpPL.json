@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8aced570.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the food items contained within the transparent plastic container, as visually apparent in the provided image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the overall form of the food items, what single word best describes their general shape, as observed in the image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the visual texture evident in the image, what single word best describes the surface appearance of these food products?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the food items in the image, what is the apparent material composition of these products?",
+        "answer": "Pasta"
+      },
+      {
+        "question": "What is the most apparent type of container used to hold the food items, shown in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visual presentation, what is the most obvious arrangement or pattern of the food items within the container?",
+        "answer": "Layered"
+      },
+      {
+        "question": "What is the primary visual characteristic that defines the external structure of each individual food item?",
+        "answer": "Folded"
+      },
+      {
+        "question": "From the image, what best describes the visual condition or state of the food products shown?",
+        "answer": "Raw"
+      },
+      {
+        "question": "Describe the visual clarity or transparency of the container holding the food items shown in the image.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging by the image, what single word best characterizes the overall visual impression of the food items\u2019 arrangement?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What is the most noticeable characteristic of the edges or boundaries of each individual food item in the image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the color uniformity observed in the image, describe the variation in the shade of yellow among the food items.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the most apparent visual attribute regarding the sizes of the individual food items contained in the container?",
+        "answer": "Similar"
+      },
+      {
+        "question": "In the image, what single-word description best captures the overall visual impression of the food items' surface?",
+        "answer": "Unblemished"
+      },
+      {
+        "question": "What is the most evident visual characteristic regarding the internal structure or consistency of each food item shown?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

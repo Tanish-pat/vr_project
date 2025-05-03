@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant metal finish of the wall-mounted light fixture?",
+        "question": "What is the dominant color of the wall lamp's metal base?",
         "answer": "Nickel"
       },
       {
-        "question": "Describing the shade's shape, what geometric form best fits?",
-        "answer": "Cylinder"
+        "question": "What is the overall shape of the lampshade?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "What single word describes the overall style of the lamp?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What color is the lampshade material primarily?",
-        "answer": "White"
-      },
-      {
-        "question": "Considering the arm's extension, what is its most noticeable attribute?",
-        "answer": "Swivel"
+        "question": "What material appears to constitute the lampshade?",
+        "answer": "Fabric"
       },
       {
         "question": "What is the apparent texture of the lampshade fabric?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the primary material of the lamp's main body?",
-        "answer": "Metal"
+        "question": "What color is the lampshade?",
+        "answer": "White"
       },
       {
-        "question": "Regarding the light fixture's orientation, is it predominantly vertical or horizontal?",
-        "answer": "Vertical"
+        "question": "Describing the arm's extension from the wall mount, what is its style?",
+        "answer": "Swinging"
       },
       {
-        "question": "Characterizing the lamp's design aesthetic, which word applies?",
-        "answer": "Minimalist"
+        "question": "What is the finish of the lamp's metal components?",
+        "answer": "Brushed"
       },
       {
-        "question": "What is the apparent light source type used in this fixture?",
-        "answer": "Incandescent"
+        "question": "Considering the lamp's design, what is its primary function?",
+        "answer": "Illumination"
       },
       {
-        "question": "What single word best represents the shade's attachment mechanism?",
-        "answer": "Clip"
+        "question": "What kind of light fixture is depicted in the image?",
+        "answer": "Sconce"
       },
       {
-        "question": "What type of mounting is used by the light fixture?",
+        "question": "What is the most prominent geometric shape in this light fixture's design?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Based on the image, what is the style of the wall lamp?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What type of mounting system does the lamp employ?",
         "answer": "Wall"
       },
       {
-        "question": "What single word best describes the arm\u2019s visual profile?",
-        "answer": "Sleek"
+        "question": "What is the visual appearance of the metal surface?",
+        "answer": "Matte"
       },
       {
-        "question": "What material is suggested by the lampshade's visual appearance?",
-        "answer": "Fabric"
+        "question": "Considering the lampshade and metal, what is the overall aesthetic?",
+        "answer": "Minimalist"
       },
       {
-        "question": "Considering the overall design, is the lamp ornate or simple?",
-        "answer": "Simple"
+        "question": "Judging from the image, what is the main material of the fixture's arm?",
+        "answer": "Metal"
       }
     ]
   }

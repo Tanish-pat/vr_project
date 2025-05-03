@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4aac4d3a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible upper fabric of the shoe?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Describe the texture of the visible upper material of the shoe?",
+        "answer": "Linen"
+      },
+      {
+        "question": "What is the apparent material of the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the design pattern on the shoe's outsole?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What type of closure mechanism does the shoe employ?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What color is the visible stitching visible on the shoe's upper?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the shoe's toe?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the color of the midsole surrounding the outsole?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the shoe's inner lining (partially visible)?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the primary design element visible on the insole?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Describe the shape of the pattern on the outsole?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Is the shoe's lacing system visible and functional?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general style of the shoe?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Does the visible branding appear to be embossed or printed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the number of visible eyelets in the shoe's lacing system?",
+        "answer": "Five"
+      }
+    ]
+  }
+]

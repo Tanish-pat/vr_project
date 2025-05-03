@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/3241a3c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the product depicted in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the primary physical form of the product as depicted in the image?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Based on the image's visual evidence, what kind of packaging is the product contained within?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "Judging from the visual texture shown in the image, what would you describe the product's texture as?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What is the apparent overall shape of the individual product packaging units shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the label's design, what is the predominant color scheme used for the product branding?",
+        "answer": "Green"
+      },
+      {
+        "question": "From the visual features, what seems to be the material of the primary packaging used for the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual aspects of the label, what seems to be the product name depicted?",
+        "answer": "Bulgar"
+      },
+      {
+        "question": "Judging by the image's visuals, what seems to be the primary method of sealing the packaging?",
+        "answer": "Heat-sealed"
+      },
+      {
+        "question": "Observing the label's design, is there any prominent logo or graphic element present?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual details, does the product seem to exhibit any specific visual pattern or arrangement?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what does the product appear to be, from a food category perspective?",
+        "answer": "Grain"
+      },
+      {
+        "question": "Judging by the label design, is there any indication of weight or quantity shown?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual features of the product and packaging, is there any clear indication of any certifications?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent number of product units in the image?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

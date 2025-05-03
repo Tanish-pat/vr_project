@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/496272bf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the displayed nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color of the text on the supplement facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the supplement facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style used for the 'Supplement Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary unit of measurement used for the listed dosages?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the serving size indicated for the supplement?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What is the main nutrient highlighted by its percentage daily value?",
+        "answer": "VitaminC"
+      },
+      {
+        "question": "What is the format of the data presented on the panel?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the text indicating the lack of an established daily value?",
+        "answer": "Asterisk"
+      },
+      {
+        "question": "What is the type of information presented on the panel?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the style of the text's presentation on the panel?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is visible at the top of the nutritional information panel?",
+        "answer": "Heading"
+      },
+      {
+        "question": "What is the printed word at the very top of this panel?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the nature of the information provided below 'Serving Size'?",
+        "answer": "Quantitative"
+      },
+      {
+        "question": "What is the term used to describe the information provided on this panel?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

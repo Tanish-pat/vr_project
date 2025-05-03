@@ -5,11 +5,11 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the power strip's casing?",
+        "question": "What is the predominant color of the power strip's casing?",
         "answer": "White"
       },
       {
-        "question": "What is the overall shape of the depicted power strip?",
+        "question": "What is the overall shape of the power strip's body?",
         "answer": "Rectangular"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "Five"
       },
       {
-        "question": "What type of switch is present for power control on the device?",
+        "question": "What type of switch is incorporated for power control?",
         "answer": "Toggle"
       },
       {
-        "question": "What color is the visible portion of the power switch?",
+        "question": "What appears to be the color of the power switch?",
         "answer": "Red"
       },
       {
-        "question": "What appears to be the primary material of the power strip's body?",
+        "question": "What material seems to constitute the power strip's exterior?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the outlets, what is the configuration of the grounding pins?",
-        "answer": "Round"
-      },
-      {
-        "question": "Does the power strip have any visible text or markings on its surface?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent finish of the power strip's external surface?",
+        "question": "Does the power strip's surface appear glossy or matte?",
         "answer": "Matte"
       },
       {
-        "question": "Is there a visible cord or cable extending from the power strip?",
+        "question": "What is the apparent orientation of the power cord's exit point?",
+        "answer": "Side"
+      },
+      {
+        "question": "Are the power outlets arranged in a single, continuous row?",
         "answer": "Yes"
       },
       {
-        "question": "Judging from the image, what is the apparent length of the power strip?",
+        "question": "Considering the visual detail, does the plug configuration appear to be European?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible shape of each individual power outlet?",
+        "answer": "Round"
+      },
+      {
+        "question": "Is there any visible text or branding on the power strip's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, is the power strip design minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the power strip's construction appear robust or flimsy?",
+        "answer": "Robust"
+      },
+      {
+        "question": "What is the general length of the visible power strip?",
         "answer": "Long"
-      },
-      {
-        "question": "What is the apparent width of the power strip in relation to its length?",
-        "answer": "Narrow"
-      },
-      {
-        "question": "Describe the arrangement of the power outlets along the strip's length",
-        "answer": "Linear"
-      },
-      {
-        "question": "What is the visual impression of the power strip's construction?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What kind of electrical connection does the power strip appear to utilize?",
-        "answer": "Plugs"
       }
     ]
   }

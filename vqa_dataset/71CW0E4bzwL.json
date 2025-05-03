@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b9/b9d242a1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the shoe's upper?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "Describe the color of the shoe's sole.",
+        "answer": "Tan"
+      },
+      {
+        "question": "What material appears to constitute the main body of the shoe?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "What color are the accent stripes on the sides of the shoe?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What is the overall shape of the shoe's toe?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the type of closure system used on the shoe?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What color is the heel counter?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What is the apparent texture of the shoe's upper?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the color of the laces?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "Describe the material that seems to form the shoe's sole.",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Is there any visible branding on the shoe?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the style of the shoe's overall design?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Describe the visible stitching on the shoe.",
+        "answer": "Visible"
+      },
+      {
+        "question": "What is the apparent thickness of the shoe's sole?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is the general condition of the visible shoe?",
+        "answer": "New"
+      }
+    ]
+  }
+]

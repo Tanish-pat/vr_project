@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/42e4a717.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the primary shape of this object, taking into account its curved and elongated design?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Examining the surface, what material appears to have been used in the construction of this product, based purely on its visual properties?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "From a visual perspective, what color is predominantly displayed across the entirety of the product's visible surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on visual inspection, how many distinct, visibly separate structural components comprise this product?",
+        "answer": "Three"
+      },
+      {
+        "question": "Considering the design, what is the most apparent and functionally relevant characteristic of this item's overall configuration?",
+        "answer": "Nested"
+      },
+      {
+        "question": "Analyzing the image, what can be observed regarding the apparent surface texture or finish of this item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the structural elements, what is the most descriptive term for the relationship between the three visible parts?",
+        "answer": "Parallel"
+      },
+      {
+        "question": "What is the visual impression regarding the structural integrity and robustness of this object based on its design and form?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From a visual standpoint, is there any indication of embellishments or decorations on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by its form, what might be the most likely intended orientation of this object when in use?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the visual appearance of the ends of the elongated structural components, considering their shape and finish?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Visually assessing the product, how would you describe the degree of surface reflectivity or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based only on visual characteristics, does the object present any discernible markings, patterns, or text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the manufacturing process, how does the visual consistency of the surfaces indicate its fabrication technique?",
+        "answer": "Moulded"
+      },
+      {
+        "question": "Observing the object's structure, what best describes the overall arrangement of its components?",
+        "answer": "Layered"
+      }
+    ]
+  }
+]

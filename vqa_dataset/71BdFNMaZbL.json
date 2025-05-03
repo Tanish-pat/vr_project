@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the face mask's pattern?",
+        "question": "What is the dominant color of the face mask's primary pattern?",
         "answer": "Teal"
       },
       {
-        "question": "What is the overall shape of the face mask?",
+        "question": "Describe the overall shape of this particular face covering?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the primary design element of the face mask's print?",
-        "answer": "Floral"
-      },
-      {
-        "question": "What secondary color accents the teal in the printed design?",
-        "answer": "Olive"
-      },
-      {
-        "question": "What appears to be the texture of the face mask fabric?",
+        "question": "What is the apparent texture of the fabric used in the mask?",
         "answer": "Soft"
       },
       {
-        "question": "What type of material does the face mask seem to be made from?",
-        "answer": "Knit"
+        "question": "What is the main style of the printed design on the mask?",
+        "answer": "Floral"
       },
       {
-        "question": "What is the style of the ear loops on the mask?",
-        "answer": "Elastic"
+        "question": "What secondary color accents the teal base of the face mask?",
+        "answer": "Olive"
       },
       {
-        "question": "How many layers of fabric does the image suggest the mask has?",
-        "answer": "One"
+        "question": "What material appears to be used for constructing this mask?",
+        "answer": "Fabric"
       },
       {
-        "question": "What is the apparent level of thickness of the face mask material?",
-        "answer": "Lightweight"
+        "question": "What type of pattern is primarily visible across the mask's surface?",
+        "answer": "Repeating"
       },
       {
-        "question": "Does the mask show any visible seams or stitching?",
+        "question": "Considering the ear loops, what is the style of this protective garment?",
+        "answer": "Earloop"
+      },
+      {
+        "question": "What is the general color family of the secondary design element?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the construction, how many layers does the mask seem to have?",
+        "answer": "Single"
+      },
+      {
+        "question": "Describe the visual impression of the fabric's weave or knit?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Are there any visible seams or stitching details evident on the mask?",
         "answer": "Yes"
       },
       {
-        "question": "Describe the print style of the floral pattern on the mask?",
-        "answer": "Subtle"
+        "question": "Describe the visual appearance of the ear loops on the mask?",
+        "answer": "Thin"
       },
       {
-        "question": "Is the print on the mask a solid block or varied pattern?",
-        "answer": "Varied"
-      },
-      {
-        "question": "What is the general tone of the mask's color scheme?",
-        "answer": "Muted"
-      },
-      {
-        "question": "Does the fabric of the mask display a noticeable sheen?",
+        "question": "Does the design include any other shapes besides the primary pattern?",
         "answer": "No"
       },
       {
-        "question": "Considering the material, would you describe the mask as rigid or flexible?",
-        "answer": "Flexible"
+        "question": "What is the level of pattern density across the mask's surface?",
+        "answer": "High"
       }
     ]
   }
