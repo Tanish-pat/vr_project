@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the style of the illustration featured on the phone case?",
+        "question": "What is the style of the illustration featured on the case?",
         "answer": "Sketch"
       },
       {
-        "question": "Describe the color of the illustration's linework on the phone case?",
-        "answer": "White"
-      },
-      {
-        "question": "What celestial body is depicted in the illustration on the case?",
+        "question": "What celestial body is depicted in the illustration on the phone case?",
         "answer": "Moon"
       },
       {
-        "question": "How many children are illustrated on the phone case's design?",
+        "question": "What is the primary color of the illustration on the phone case?",
+        "answer": "White"
+      },
+      {
+        "question": "How many figures are illustrated sitting under the moon?",
         "answer": "Two"
       },
       {
-        "question": "What appears to be on the children's backs in the illustration?",
+        "question": "What appears to be on the backs of the illustrated figures?",
         "answer": "Backpacks"
       },
       {
-        "question": "What is the apparent material of the depicted phone case?",
+        "question": "What material does the phone case appear to be constructed from?",
         "answer": "Plastic"
       },
       {
-        "question": "What shape best describes the overall form of the phone case?",
+        "question": "What seems to be the texture of the depicted phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What shape is the overall form of the product?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is suggested by the presence of the additional side views?",
-        "answer": "Protection"
+        "question": "What type of product is depicted in the image?",
+        "answer": "Case"
       },
       {
-        "question": "What is the apparent finish of the phone case's surface?",
-        "answer": "Matte"
+        "question": "What is the apparent finish of the phone case's sides?",
+        "answer": "Glossy"
       },
       {
-        "question": "What kind of scene is depicted in the phone case's illustration?",
-        "answer": "Nocturnal"
+        "question": "Does the phone case have a matte or glossy finish?",
+        "answer": "Glossy"
       },
       {
-        "question": "What seems to be the subject matter of the phone case's art?",
-        "answer": "Children"
+        "question": "What device does the case appear to be designed for?",
+        "answer": "Phone"
       },
       {
-        "question": "What small details are visible in the illustration's background?",
-        "answer": "Stars"
+        "question": "What seems to be the overall aesthetic of the case design?",
+        "answer": "Minimalist"
       },
       {
-        "question": "What object is one child seemingly holding in the illustration?",
-        "answer": "Fishing"
-      },
-      {
-        "question": "Considering the design, what is the case's likely target audience?",
-        "answer": "Youth"
+        "question": "Considering the image, what is the apparent design theme of the phone case?",
+        "answer": "Romantic"
       }
     ]
   }

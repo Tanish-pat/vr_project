@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a9db0abd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the outer frame surrounding the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the material of the outer frame, judging by its appearance?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What color is the iconic telephone booth depicted in the print?",
+        "answer": "Red"
+      },
+      {
+        "question": "What seems to be the material of the backing board behind the printed image?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the apparent material of the protective layer over the print?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What style of image is primarily shown within the frame?",
+        "answer": "Photographic"
+      },
+      {
+        "question": "What is the general shape of the overall product, frame and all?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What city is suggested by the depicted telephone booth and buildings?",
+        "answer": "London"
+      },
+      {
+        "question": "Considering the image's style, what is the overall aesthetic of the framed product?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What color is the inner frame immediately behind the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What seems to be the printing technique used for the London street scene?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Describe the texture of the outermost frame based on visual cues.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall orientation of the framed product shown?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, is the frame's profile thin or thick?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the visible overall composition of the framed product?",
+        "answer": "Layered"
+      }
+    ]
+  }
+]

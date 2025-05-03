@@ -1,0 +1,65 @@
+[
+  {
+    "path": "images/small/d6/d64d90b1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image's texture, what fabric type is suggested?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Based on the visual appearance, what is the overall finish of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, is there any visible pattern or print on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image show any visible sheen or glossiness in the fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, can you determine if the fabric appears to be thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the visual texture, does the fabric appear soft or rough?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image reveal any visible flaws or imperfections in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the visual information, what is the implied drape of the fabric?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric in the image?",
+        "answer": "Luxurious"
+      },
+      {
+        "question": "Judging by the image, is the fabric opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image suggest any visible fiber direction or pile?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the appearance, is the surface even or uneven?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the apparent texture of the material shown in the image?",
+        "answer": "Fuzzy"
+      }
+    ]
+  }
+]

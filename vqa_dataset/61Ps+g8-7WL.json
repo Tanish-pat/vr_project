@@ -9,60 +9,60 @@
         "answer": "Brown"
       },
       {
-        "question": "What material gives the phone case its textured appearance?",
+        "question": "What material appears to be primarily used for the case's outer covering?",
         "answer": "Leather"
       },
       {
-        "question": "What color is the phone case's protective border?",
+        "question": "What color is the phone case's frame or border?",
         "answer": "Black"
       },
       {
-        "question": "Describe the overall shape of this protective phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What type of stitching is visible on the phone case's back?",
-        "answer": "Horizontal"
-      },
-      {
-        "question": "What design element is present along the phone's vertical edge?",
-        "answer": "Stripe"
-      },
-      {
-        "question": "What is the apparent texture of the leather-like material?",
-        "answer": "Stitched"
-      },
-      {
-        "question": "Is the camera cutout aligned perfectly with phone's camera lens?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Does the case feature a raised lip or edge around the screen?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What kind of finish does the black border appear to have?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "How many cutouts are visible for the phone's rear camera?",
-        "answer": "Three"
-      },
-      {
-        "question": "Describe the overall visual style of the case's design?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Is the back of the case completely flat or does it have any texture?",
+        "question": "Describe the overall texture of the phone case's exterior surface.",
         "answer": "Textured"
       },
       {
-        "question": "Does the brown material appear to be a single solid piece or multiple panels?",
-        "answer": "Single"
+        "question": "What is the general shape of the phone case in the image?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Based on the image, is the phone case rigid or flexible?",
-        "answer": "Rigid"
+        "question": "Are there any visible stitching details on the case's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the primary design element on the back of the case?",
+        "answer": "Stitching"
+      },
+      {
+        "question": "What type of camera cutouts are present on the case?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Does the phone case appear to have any visible branding or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, how many cutouts are present for the camera system?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the case seem to offer protection for the sides of the phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent thickness of the phone case's protective layer?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What material seems to be used for the protective frame around the case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent style of the phone case design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the visible stitching, what is the stitching style?",
+        "answer": "Straight"
       }
     ]
   }

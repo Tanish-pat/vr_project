@@ -9,19 +9,19 @@
         "answer": "Black"
       },
       {
-        "question": "What type of animal is depicted on the phone case?",
+        "question": "What animal is depicted in a stylized design on the case?",
         "answer": "Panda"
       },
       {
-        "question": "Describe the stylistic design of the panda image?",
+        "question": "Describe the artistic style of the panda's design on the phone case?",
         "answer": "SugarSkull"
       },
       {
-        "question": "What are the primary colors used in the panda's design?",
+        "question": "What are the primary colors used in the panda's illustration?",
         "answer": "White"
       },
       {
-        "question": "What appears to be the material of the phone case?",
+        "question": "What is the apparent material of the phone case?",
         "answer": "Plastic"
       },
       {
@@ -29,40 +29,40 @@
         "answer": "Rectangular"
       },
       {
-        "question": "Is the panda image centered on the phone case?",
-        "answer": "Yes"
+        "question": "Considering the image, what level of detail is present in the panda design?",
+        "answer": "High"
       },
       {
-        "question": "Considering the design, what is the overall aesthetic of the case?",
-        "answer": "Gothic"
+        "question": "What type of design is found on the panda's face and ears?",
+        "answer": "Floral"
       },
       {
-        "question": "Does the phone case show any visible texture?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Are there any additional design elements besides the panda?",
+        "question": "Does the case design feature any text or branding elements?",
         "answer": "No"
       },
       {
-        "question": "What is the approximate size ratio of the panda to the case?",
-        "answer": "Medium"
+        "question": "Is the image of the panda centered on the phone case?",
+        "answer": "Yes"
       },
       {
-        "question": "Does the phone case appear to have a matte or glossy finish?",
+        "question": "What is the texture of the panda design, judging by the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many sides of the phone case are visible in the provided image?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on appearance, what's the general finish of the case?",
         "answer": "Matte"
       },
       {
-        "question": "Based on its form, what is the phone case's intended function?",
-        "answer": "Protection"
+        "question": "What kind of image is predominantly displayed on the phone case?",
+        "answer": "Animal"
       },
       {
-        "question": "Considering the image, is the print single-sided or double-sided?",
-        "answer": "Single"
-      },
-      {
-        "question": "What level of detail is present in the panda's facial features?",
-        "answer": "High"
+        "question": "Judging by the visual presentation, is the case rigid or flexible?",
+        "answer": "Rigid"
       }
     ]
   }

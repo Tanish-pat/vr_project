@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/09abd1b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the quilted pillow cover, as shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary textural characteristic visually apparent on the pillow?",
+        "answer": "Quilted"
+      },
+      {
+        "question": "What geometric pattern is prominently displayed across the pillow's surface?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "What fabric appears to constitute the pillow cover based on visual texture?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describing the overall shape of the presented pillow cover, what is it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent stitching style outlining the diamond pattern on the pillow?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "Based on the image, what is the visible trim along the pillow's edge?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the image provided, what is the apparent finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visual impression of the pillow's overall softness, as seen in the photograph?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the level of visible sheen or gloss on the pillow's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging from the image, is the design of the pillow cover simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary visible decorative element on the pillow cover?",
+        "answer": "Pattern"
+      },
+      {
+        "question": "What single word best describes the style of the pillow's design?",
+        "answer": "Classic"
+      },
+      {
+        "question": "What is the apparent weight or density of the pillow cover fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image only, what is the overall visual impression of the pillow?",
+        "answer": "Subdued"
+      }
+    ]
+  }
+]

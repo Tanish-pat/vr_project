@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the basketball's surface?",
+        "question": "What is the predominant color of the basketball's surface?",
         "answer": "Orange"
       },
       {
-        "question": "What is the overall shape of the depicted sports ball?",
-        "answer": "Sphere"
-      },
-      {
-        "question": "What material appears to constitute the basketball's exterior?",
+        "question": "What material appears to constitute the basketball's outer layer?",
         "answer": "Leather"
       },
       {
-        "question": "What is the texture of the basketball's visible surface?",
+        "question": "What is the overall geometric shape of the depicted sports equipment?",
+        "answer": "Sphere"
+      },
+      {
+        "question": "What is the texture of the outer surface of the displayed basketball?",
         "answer": "Pebbled"
       },
       {
-        "question": "What color are the lines marking the panels of the basketball?",
+        "question": "What is the color of the prominent lines running across the basketball?",
         "answer": "Black"
       },
       {
-        "question": "Can you identify any branding visible on the basketball's surface?",
+        "question": "What brand name is subtly imprinted on the basketball's surface?",
         "answer": "Amazonbasics"
       },
       {
-        "question": "Considering the image, what is the apparent condition of the basketball?",
-        "answer": "New"
+        "question": "Considering the design, what sport is this ball primarily intended for?",
+        "answer": "Basketball"
       },
       {
-        "question": "How many distinct panels are visibly present on the basketball?",
-        "answer": "Eight"
+        "question": "What is the visible pattern formed by the lines on the basketball's surface?",
+        "answer": "Panels"
       },
       {
-        "question": "What is the overall tone or shade of the orange visible on the ball?",
-        "answer": "Russet"
+        "question": "Based on the image, does the basketball appear to be inflated or deflated?",
+        "answer": "Inflated"
       },
       {
-        "question": "What kind of stitching is visible between the basketball's panels?",
-        "answer": "None"
-      },
-      {
-        "question": "Describe the depth of the markings on the basketball's surface.",
-        "answer": "Shallow"
-      },
-      {
-        "question": "What is the apparent size of the AmazonBasics logo relative to the ball?",
-        "answer": "Small"
-      },
-      {
-        "question": "What is the visual pattern formed by the panels on the basketball?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "Considering the image, what is the apparent finish of the basketball's surface?",
+        "question": "What is the apparent finish or sheen of the basketball's exterior?",
         "answer": "Matte"
       },
       {
-        "question": "What is the apparent level of wear or damage to the basketball's exterior?",
-        "answer": "None"
+        "question": "Describe the pattern of the black lines on the ball's surface.",
+        "answer": "Gridded"
+      },
+      {
+        "question": "Can you describe the size of the Amazonbasics logo compared to the ball?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the implied primary function of the pictured item?",
+        "answer": "Playing"
+      },
+      {
+        "question": "Judging by the image, what is the basketball's approximate condition?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the general condition of the ball's visible surface?",
+        "answer": "Clean"
       }
     ]
   }

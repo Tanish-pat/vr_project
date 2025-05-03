@@ -1,0 +1,45 @@
+[
+  {
+    "path": "images/small/a9/a9eb735c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly mentioned on the label, as visually apparent?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "Considering the visual information, what adjective describes the chicken's origin?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall shape of the label visible in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what color is the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the product label shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Based solely on what is shown in the image, what word precedes the ingredient list?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Disregarding context, what font style seems to be used for the label text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text's case (uppercase or lowercase) in the provided label image?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging from the image, what is the apparent texture of the label's background?",
+        "answer": "Grainy"
+      }
+    ]
+  }
+]
