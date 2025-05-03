@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the clamp's metal components?",
+        "question": "What is the predominant color of the clamp's metallic components?",
         "answer": "Silver"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Metal"
       },
       {
-        "question": "Describe the overall shape of the clamping mechanism itself?",
+        "question": "What is the overall shape of the clamping mechanism?",
         "answer": "Linear"
       },
       {
-        "question": "What is the apparent material of the clamping handles?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What color are the end caps on the clamping mechanism?",
+        "question": "What color are the ergonomic grips affixed to the clamp handles?",
         "answer": "Black"
       },
       {
-        "question": "What is the apparent texture of the handle grips?",
+        "question": "What seems to be the material of the clamping pads at the ends?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describe the texture of the handle's grip surface, based solely on the image.",
         "answer": "Rough"
       },
       {
-        "question": "What is the visible branding or logo on the handle?",
+        "question": "What brand name is visible on the clamp's handles?",
         "answer": "Denali"
       },
       {
-        "question": "What is the shape of the tightening knob on the clamp?",
+        "question": "What is the apparent material of the clamping mechanism's body?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What shape are the adjustment knobs on the clamp?",
         "answer": "Round"
       },
       {
-        "question": "What kind of mechanism is used for adjusting the clamp?",
-        "answer": "Screw"
-      },
-      {
-        "question": "What is the apparent finish of the metal parts of the clamp?",
+        "question": "Describe the finish of the metal components; is it matte or glossy?",
         "answer": "Matte"
       },
       {
-        "question": "What is the overall construction style of the clamp?",
-        "answer": "Industrial"
+        "question": "What is the general design style of the clamps, simple or ornate?",
+        "answer": "Simple"
       },
       {
-        "question": "What type of clamping system is this?",
-        "answer": "Bar"
-      },
-      {
-        "question": "How many clamps are shown in the image?",
+        "question": "How many clamps are shown in the provided product image?",
         "answer": "Three"
       },
       {
-        "question": "What is the shape of the clamping jaws?",
-        "answer": "Rectangular"
+        "question": "What is the function of the device depicted in the image?",
+        "answer": "Clamping"
       },
       {
-        "question": "What is the visible design element near the tightening mechanism?",
-        "answer": "Knurling"
+        "question": "What kind of clamping mechanism does this tool seem to utilize?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the most noticeable feature on the black handles?",
+        "answer": "Text"
       }
     ]
   }

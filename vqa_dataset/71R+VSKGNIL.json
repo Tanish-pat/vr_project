@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color displayed across the phone case's surface?",
+        "question": "What is the predominant color depicted on the phone case's surface?",
         "answer": "Red"
       },
       {
-        "question": "What type of food item is depicted in the main design of the phone case?",
+        "question": "What specific type of food appears to be the main design element?",
         "answer": "Beetroot"
       },
       {
-        "question": "Describe the visual texture of the depicted beetroot slices on the phone case.",
+        "question": "Describe the overall visual texture of the printed design on the case?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the overall shape of the phone case itself, excluding the design?",
-        "answer": "Rectangular"
+        "question": "What shape do the slices of food predominantly exhibit in the image?",
+        "answer": "Circular"
       },
       {
-        "question": "Considering the beetroot slices, what is the general design style of the case?",
-        "answer": "Photorealistic"
+        "question": "Considering the design, what is the overall aesthetic style of the case?",
+        "answer": "Natural"
       },
       {
-        "question": "Based on the image, what appears to be the material of this phone case?",
+        "question": "What seems to be the primary material used in the construction of the case?",
         "answer": "Plastic"
       },
       {
-        "question": "How many clearly visible beetroot slices are prominently featured on the case?",
+        "question": "How many noticeably distinct slices of food are clearly visible on the back?",
         "answer": "Three"
       },
       {
-        "question": "What is the visual appearance of the edges of the beetroot slices in the image?",
-        "answer": "Rounded"
+        "question": "What is the apparent finish or coating of the phone case's surface?",
+        "answer": "Matte"
       },
       {
-        "question": "Does the phone case design feature any additional elements beyond the beetroot?",
-        "answer": "No"
+        "question": "What color are the visible edges or borders of the displayed food slices?",
+        "answer": "Brown"
       },
       {
-        "question": "Considering the color saturation, how intense is the red shade on the case?",
-        "answer": "Deep"
+        "question": "Based on the image, is the phone case design highly detailed or simplistic?",
+        "answer": "Simple"
       },
       {
-        "question": "What is the arrangement of the beetroot slices in the phone case's design?",
-        "answer": "Overlapping"
+        "question": "Considering the style, what is the likely target audience for this phone case?",
+        "answer": "Adults"
       },
       {
-        "question": "Is there any noticeable pattern to the color variations within the beetroot slices?",
-        "answer": "Marbled"
-      },
-      {
-        "question": "Does the image show any visible brand markings or logos on the phone case?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent level of detail in the rendering of the beetroot slices?",
+        "question": "What level of contrast is there between the food and the background of the design?",
         "answer": "High"
       },
       {
-        "question": "Judging by the image, does the phone case seem to have a matte or glossy finish?",
-        "answer": "Glossy"
+        "question": "Does the printed design on the case appear to be sharp, blurry, or grainy?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What kind of photographic technique seems to have been used for the image?",
+        "answer": "Macro"
+      },
+      {
+        "question": "Describe the apparent pattern or arrangement of the food slices on the case.",
+        "answer": "Overlapping"
       }
     ]
   }

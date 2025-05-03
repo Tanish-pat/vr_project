@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6c/6cbf45cf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the repeating design element on the phone case?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the phone case, ignoring the design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the main material used for the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the design pattern covering the entire surface of the phone case?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "Describe the style of the repeated graphic image on the case?",
+        "answer": "Cartoonish"
+      },
+      {
+        "question": "What color are the smaller accents within the main graphic design element?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the shape of each individual repeated design element?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the background, what is the overall color scheme of the phone case?",
+        "answer": "Bicolour"
+      },
+      {
+        "question": "What object is depicted in the repeated design element on the phone case?",
+        "answer": "Handbag"
+      },
+      {
+        "question": "What is the texture implied by the image of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual appearance of the background color on the phone case?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the lines used in the design elements of the phone case?",
+        "answer": "Outlined"
+      },
+      {
+        "question": "Considering the visual style, how would you classify the overall aesthetic?",
+        "answer": "Cute"
+      },
+      {
+        "question": "What is the general level of detail seen in the graphic design on the phone case?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image, is the design symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      }
+    ]
+  }
+]

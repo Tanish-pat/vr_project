@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall presentation, what is the primary information conveyed by the textual content shown in this image?",
-        "answer": "Ingredients"
+        "question": "What is the primary ingredient conspicuously displayed on the packaging?",
+        "answer": "Flour"
       },
       {
-        "question": "Focusing on the ingredient list, what is the main flour type used in this product's formulation?",
+        "question": "Considering the listed ingredients, what type of flour is predominantly used?",
         "answer": "Wheat"
       },
       {
-        "question": "Examining the list of ingredients, what type of oil is specifically mentioned as a component?",
-        "answer": "Olive"
+        "question": "What secondary ingredient is explicitly mentioned as being extra virgin?",
+        "answer": "Oil"
       },
       {
-        "question": "Based on the ingredient list, what seasoning is incorporated into this product's recipe?",
-        "answer": "Garlic"
-      },
-      {
-        "question": "According to the label, what salt variety is among the ingredients used in the product?",
-        "answer": "Sea"
-      },
-      {
-        "question": "From the ingredient listing, which leavening agent is included in this food product's recipe?",
-        "answer": "Yeast"
-      },
-      {
-        "question": "Regarding the processing information, does the product contain any wheat-based components?",
-        "answer": "Yes"
-      },
-      {
-        "question": "According to the manufacturing details, what type of nuts are processed in the same facility where this product is made?",
-        "answer": "Tree"
-      },
-      {
-        "question": "What specific nut, mentioned in parenthesis, is included in the facility's processing?",
+        "question": "Aside from wheat, what other nut-based ingredient is processed in the facility?",
         "answer": "Coconut"
       },
       {
-        "question": "In addition to nuts, what dairy product is potentially handled in the same processing facility?",
+        "question": "What additional spice is visibly included in the product's ingredient list?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What common baking ingredient is listed as part of the composition?",
+        "answer": "Yeast"
+      },
+      {
+        "question": "What is the form of the salt included in this food product?",
+        "answer": "Sea"
+      },
+      {
+        "question": "Based on the visible text, which dairy product is processed in the same facility?",
         "answer": "Milk"
       },
       {
-        "question": "Besides nuts and dairy, which other legume is processed in the same manufacturing location?",
+        "question": "What other allergen, besides tree nuts, is processed at the manufacturing site?",
         "answer": "Soy"
       },
       {
-        "question": "What is the overall color scheme or tone used for the product's text?",
-        "answer": "Black"
+        "question": "What is the descriptive term used for the quality of the olive oil?",
+        "answer": "Virgin"
       },
       {
-        "question": "Considering the text's style, what type of font seems to be employed?",
-        "answer": "Sans-serif"
+        "question": "According to the packaging, is the wheat flour subjected to a bleaching process?",
+        "answer": "Unbleached"
       },
       {
-        "question": "Describing the text's layout, what is the arrangement of the information presented on the label?",
-        "answer": "Vertical"
+        "question": "Based on the text, is the wheat flour treated with any bleaching agent?",
+        "answer": "No"
       },
       {
-        "question": "What is the general background color of the area where the text is displayed?",
-        "answer": "White"
+        "question": "What is the word describing the type of wheat included in the ingredients?",
+        "answer": "Unbleached"
+      },
+      {
+        "question": "Does the label clearly indicate any wheat-based components in the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the text, is there an indication of potential cross-contamination?",
+        "answer": "Yes"
       }
     ]
   }

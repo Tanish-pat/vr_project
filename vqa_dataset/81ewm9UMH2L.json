@@ -9,60 +9,60 @@
         "answer": "Snakeskin"
       },
       {
-        "question": "What color are the primary sandal straps and sole?",
-        "answer": "Brown"
+        "question": "Describe the overall color scheme of the sandals.",
+        "answer": "Tan"
       },
       {
-        "question": "Describe the overall shape of the sandal's footbed.",
+        "question": "What appears to be the primary material used for the sandal base?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What is the primary shape of the sandal's footbed?",
         "answer": "Rectangular"
       },
       {
-        "question": "What material appears to constitute the sandal's straps?",
-        "answer": "Leather"
-      },
-      {
-        "question": "How many straps encircle the toes and foot?",
+        "question": "How many straps are there across the top of each sandal?",
         "answer": "Three"
       },
       {
-        "question": "What is the apparent texture of the sandal's sole?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What design element is prominently featured on the straps?",
-        "answer": "Pattern"
-      },
-      {
-        "question": "What is the style of the visible fastening mechanism?",
+        "question": "What style of closure do these sandals appear to have?",
         "answer": "Slip-on"
       },
       {
-        "question": "Considering the straps' arrangement, what is the sandal's type?",
+        "question": "What is the apparent texture of the sandal straps?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "Considering the design, what is the likely style of these sandals?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent thickness of the sandal sole?",
         "answer": "Flat"
       },
       {
-        "question": "Describe the general form factor of the presented footwear.",
-        "answer": "Sandals"
-      },
-      {
-        "question": "What color variations are present within the snakeskin pattern?",
-        "answer": "Beige"
-      },
-      {
-        "question": "What is the apparent material of the sandal's sole?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Based on the image, are the sandals open or closed-toe?",
+        "question": "Describe the toe configuration of the sandals.",
         "answer": "Open"
       },
       {
-        "question": "What is the visible construction of the toe-post area?",
+        "question": "What type of heel does this sandal appear to possess?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the overall design aesthetic of the sandal?",
         "answer": "Simple"
       },
       {
-        "question": "Considering the design, are these sandals suitable for formal wear?",
-        "answer": "No"
+        "question": "Considering the straps, what is the sandal's fit around the foot?",
+        "answer": "Secure"
+      },
+      {
+        "question": "Judging by the image, what appears to be the sandal's construction?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "What is the apparent style of the straps' wrapping pattern around the foot?",
+        "answer": "Wrapped"
       }
     ]
   }

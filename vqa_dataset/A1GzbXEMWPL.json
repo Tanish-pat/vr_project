@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f298c2d1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible upholstery?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What kind of fabric texture is apparent on the cushion?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the overall shape of the visible cushion section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent weave structure of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the image, what is the apparent material of the upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the visible seams, what is the construction style?",
+        "answer": "Tailored"
+      },
+      {
+        "question": "Describe the visible level of padding or filling in the cushion?",
+        "answer": "Plump"
+      },
+      {
+        "question": "Based on the image, how would you describe the fabric's visual density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the visible color saturation of the upholstery fabric?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Does the visible fabric appear to have a discernible pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible sheen or luster level of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible seams, how neatly are they finished?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Does the fabric show any visible signs of wrinkling or creasing?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you describe the overall visual softness of the cushion?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the fabric display any visible embellishments or details?",
+        "answer": "No"
+      }
+    ]
+  }
+]

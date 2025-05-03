@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0f0e26d9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sofa's upholstery, as shown in the close-up image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent weave type of the sofa fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the sofa's armrest?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible stitching pattern on the sofa's armrest, as it appears in the close-up.",
+        "answer": "Straight"
+      },
+      {
+        "question": "Judging from the image, what appears to be the primary material of the sofa's covering?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the apparent overall visual style of the sofa's armrest design?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What seems to be the general feel or look of the sofa's fabric texture?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Can you describe the density of the visible weave pattern in the sofa's upholstery?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Focusing solely on the visible portion, what is the color uniformity of the sofa's fabric?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on the image, what is the visual appearance of the visible seams of the sofa?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From the image, what appears to be the overall aesthetic of the sofa's design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Judging by the close-up image, what is the visible thickness of the sofa's fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visual impression regarding the softness of the sofa's fabric based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What would you describe as the visible sheen or glossiness of the sofa's fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What appears to be the visible level of pattern detail in the sofa's upholstery?",
+        "answer": "Fine"
+      }
+    ]
+  }
+]

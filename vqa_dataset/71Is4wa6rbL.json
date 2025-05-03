@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b2203c16.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the gaming chair, as visibly apparent in the main and supplementary images?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material primarily constitutes the chair's seating surface and backrest, based on visual texture and appearance?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall structure and form, what is the most apparent style of this chair?",
+        "answer": "Racing"
+      },
+      {
+        "question": "Judging by the image, what is the primary functional purpose of the chair's integrated armrests?",
+        "answer": "Support"
+      },
+      {
+        "question": "Based on the visual details, what design element is prominently featured on the chair's headrest and backrest?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What is the visible shape of the chair's backrest, as observed in multiple angles within the provided images?",
+        "answer": "Contoured"
+      },
+      {
+        "question": "What is the apparent texture of the chair's upholstery, as judged from visual details such as sheen and folds?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the secondary accent color, which complements the primary color on the chair, according to the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visible design feature located at the side of the seat, which appears to support lumbar alignment?",
+        "answer": "Padding"
+      },
+      {
+        "question": "Considering the images provided, what appears to be the material of the headrest pillow?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the visible shape of the chair's base, as depicted in the provided images?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the apparent type of the chair's adjustable components, as they appear in the multiple images?",
+        "answer": "Levers"
+      },
+      {
+        "question": "Judging by the image, what is the visible feature at the base of the backrest, suggesting adjustability?",
+        "answer": "Mechanism"
+      },
+      {
+        "question": "What additional functional component is noticeably present in the close-up image of the chair's side?",
+        "answer": "Speakers"
+      },
+      {
+        "question": "What is the visible brand name displayed on the chair, as clearly shown in the images?",
+        "answer": "UMI"
+      }
+    ]
+  }
+]

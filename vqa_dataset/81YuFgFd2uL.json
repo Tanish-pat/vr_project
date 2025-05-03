@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d89b1c21.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the quilted blanket shown in the image?",
+        "answer": "Cream"
+      },
+      {
+        "question": "What is the apparent texture of the fabric comprising the blanket?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What geometric pattern is prominently displayed across the blanket's surface?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the folded textile product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual inspection, what appears to be the material of the blanket?",
+        "answer": "Microfiber"
+      },
+      {
+        "question": "What is the style of stitching used to create the pattern on the blanket?",
+        "answer": "Quilted"
+      },
+      {
+        "question": "Observing the product's presentation, what is the apparent thickness of the blanket?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Can you describe the visual impression of the blanket's surface based on the image?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging by the image, how is the blanket folded for display to consumers?",
+        "answer": "Neatly"
+      },
+      {
+        "question": "What type of design element is most apparent on this item's surface?",
+        "answer": "Pattern"
+      },
+      {
+        "question": "What is the primary visual characteristic of the fabric's surface appearance?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "Describe the overall presentation style of the blanket in the photograph provided.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the perceived weight of the blanket according to its visual representation?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the apparent level of detail in the diamond pattern on the blanket?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From the image, describe the condition of the blanket presented to the viewer.",
+        "answer": "New"
+      }
+    ]
+  }
+]

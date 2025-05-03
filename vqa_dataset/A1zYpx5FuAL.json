@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a7/a73b8e6a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the entire rug's surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What geometric pattern is prominently featured in the rug's design?",
+        "answer": "Diamonds"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface feel of the rug?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the overall shape of the floor covering shown in the image.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what is the primary material composing this floor covering?",
+        "answer": "Textile"
+      },
+      {
+        "question": "Judging by the image, what is the style of the rug's pattern?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the visual density of the pattern across the rug's surface?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the color contrast, how would you describe the pattern's visual presence?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the rug's pattern show any signs of irregularity or asymmetry?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied directionality of the repeating pattern elements?",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "Based on the image alone, how would you describe the visual weight of the rug's design?",
+        "answer": "Light"
+      },
+      {
+        "question": "What single adjective describes the design's overall visual appeal?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging from the image, is the texture of the rug consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image reveal any discernible fringe or tassels on the rug?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual effect created by the subtle color variations within the pattern?",
+        "answer": "Depth"
+      }
+    ]
+  }
+]

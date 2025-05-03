@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the depicted footwear?",
+        "question": "What is the predominant color of the depicted footwear?",
         "answer": "Black"
       },
       {
-        "question": "What is the apparent material of the shoe's upper?",
-        "answer": "Leather"
-      },
-      {
-        "question": "What is the primary textural pattern on the shoe's surface?",
+        "question": "What textural pattern is prominently displayed on the shoe's upper?",
         "answer": "Snakeskin"
       },
       {
-        "question": "What type of closure mechanism does the shoe employ?",
+        "question": "What is the primary material seemingly used in the construction of the shoe?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What type of closure mechanism is visible on the shoe's vamp?",
         "answer": "Lace-up"
       },
       {
-        "question": "What is the overall shape of the shoe's toe box?",
-        "answer": "Rounded"
+        "question": "What is the overall shape of the shoe's toe?",
+        "answer": "Pointed"
       },
       {
-        "question": "Describe the heel's height relative to the sole",
+        "question": "Considering the heel's height, how would you classify this footwear style?",
         "answer": "Low"
       },
       {
-        "question": "What design element is visible near the shoe's vamp?",
-        "answer": "Stitching"
+        "question": "Based on the visual, what is the apparent style of the displayed footwear?",
+        "answer": "Oxford"
       },
       {
-        "question": "What is the apparent material of the shoe's sole?",
-        "answer": "Rubber"
+        "question": "What kind of sole is visible beneath the shoe's heel and forepart?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the style, for what occasion would these be suitable?",
+        "question": "Describe the finish of the leather used on the visible sections of the shoe.",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the visual appearance of the eyelets through which the laces are threaded?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "Does the shoe design incorporate any visible perforations or brogueing?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, how would you describe the overall condition of the shoe?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the construction style of the shoe's visible seams and stitching?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "What design element is noticeable at the top of the shoe's vamp?",
+        "answer": "V-shaped"
+      },
+      {
+        "question": "Judging from the visual, what is the likely intended use of the footwear?",
         "answer": "Formal"
-      },
-      {
-        "question": "What is the most noticeable feature of the shoe's texture?",
-        "answer": "Embossed"
-      },
-      {
-        "question": "What is the shape of the shoes' overall profile?",
-        "answer": "Oxfords"
-      },
-      {
-        "question": "What is the apparent finish of the leather material?",
-        "answer": "Matte"
-      },
-      {
-        "question": "How many eyelets are visibly present for the laces?",
-        "answer": "Five"
-      },
-      {
-        "question": "What is the predominant color of the shoe's laces?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering its details, what is the style of this shoe?",
-        "answer": "Dress"
       }
     ]
   }

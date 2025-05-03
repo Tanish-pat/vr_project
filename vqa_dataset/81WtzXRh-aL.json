@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/30/30ba6719.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material composing the lamp's central body?",
+        "answer": "Acrylic"
+      },
+      {
+        "question": "Describe the geometric form of the acrylic section of the lamp base?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What material constitutes the bottom, square-shaped base of the lamp?",
+        "answer": "Marble"
+      },
+      {
+        "question": "What color is the marble base of the table lamp, as seen in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the dominant color of the lampshade material, visually apparent?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the marble base of the lamp?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the finish of the metallic connecting rod between the shade and base?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Considering the lampshade, what is its overall shape described as?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What is the texture of the lampshade fabric, based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the appearance of the acrylic block: transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "How many distinct material types are visibly present in the lamp's construction?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the general style of the lamp's design, minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is there any visible pattern or design on the lampshade itself?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the shape of the overall lamp base, combining both materials?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Besides the base and shade, is there any other noticeable structural component?",
+        "answer": "Rod"
+      }
+    ]
+  }
+]

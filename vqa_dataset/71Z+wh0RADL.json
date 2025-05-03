@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the main body of the lunch bag?",
+        "question": "What is the predominant color of the main body of this lunch bag?",
         "answer": "Yellow"
       },
       {
-        "question": "What material appears to constitute the lunch bag's exterior?",
+        "question": "What material appears to be used for constructing the lunch bag's outer shell?",
         "answer": "Canvas"
       },
       {
-        "question": "Describe the shape of the lunch bag's main compartment?",
+        "question": "Describe the overall shape or form of the presented lunch bag?",
         "answer": "Cuboid"
       },
       {
-        "question": "What color are the handles of the lunch bag?",
+        "question": "What color are the handles of the lunch bag, contrasting with the main body?",
         "answer": "Navy"
       },
       {
-        "question": "What material seems to be used for the handles of the lunch bag?",
-        "answer": "Rope"
-      },
-      {
-        "question": "What type of closure mechanism is visible on the lunch bag?",
+        "question": "What kind of fastening mechanism is visible on the lunch bag, suggesting closure?",
         "answer": "Zipper"
       },
       {
-        "question": "What color is the trim outlining the lunch bag's edges?",
+        "question": "What is the apparent texture of the fabric composing the bag's exterior?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the color of the visible trim or binding around the edges of the lunch bag?",
         "answer": "Black"
       },
       {
-        "question": "Considering the visible stitching, what would you describe the overall construction quality as?",
-        "answer": "Neat"
+        "question": "What is the apparent style of the handles\u2014is it a single or multiple-piece construction?",
+        "answer": "Rope"
       },
       {
-        "question": "What is the apparent texture of the lunch bag's outer fabric?",
-        "answer": "Smooth"
+        "question": "Considering the size and design, what is the likely intended use for this bag?",
+        "answer": "Lunch"
       },
       {
-        "question": "How many handles does this lunch bag visibly possess for carrying?",
+        "question": "Describe the visible stitching present on the main body of the lunch bag?",
+        "answer": "Straight"
+      },
+      {
+        "question": "How many handles or carrying options are visibly present on this lunch bag?",
         "answer": "Two"
       },
       {
-        "question": "Describe the style of handles attached to the lunch bag?",
-        "answer": "Thick"
+        "question": "Based on the image, what seems to be the general condition of this lunch bag?",
+        "answer": "New"
       },
       {
-        "question": "Is there any visible logo or branding on the lunch bag's exterior?",
+        "question": "Are there any visible logos, patterns, or designs printed on the lunch bag's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the lunch bag appear to have any noticeable external pockets or compartments?",
         "answer": "No"
       },
       {
-        "question": "Judging from the image, what is the apparent size of the lunch bag?",
-        "answer": "Small"
-      },
-      {
-        "question": "What design element adds visual contrast to the yellow canvas?",
-        "answer": "Trim"
-      },
-      {
-        "question": "Does the bag appear to be insulated or non-insulated?",
-        "answer": "Non-insulated"
+        "question": "What kind of closure system secures the zipper, such as a pull tab?",
+        "answer": "Metal"
       }
     ]
   }
