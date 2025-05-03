@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form and function, what is the primary purpose of this piece of furniture?",
+        "question": "Considering the overall form, what is the primary function of this piece of furniture?",
         "answer": "Stool"
       },
       {
-        "question": "What is the predominant color of the upholstered seat and back?",
+        "question": "What is the dominant color of the upholstered seating surface?",
         "answer": "Off-white"
       },
       {
-        "question": "Describe the apparent texture of the upholstery fabric covering the seat and backrest?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What kind of wood seems to have been used in constructing the legs and frame?",
-        "answer": "Dark"
-      },
-      {
-        "question": "What is the general shape of the backrest, considering its curvature and height?",
-        "answer": "Curved"
-      },
-      {
-        "question": "How many horizontal supports or rungs are visible in the wooden frame beneath the seat?",
-        "answer": "One"
-      },
-      {
-        "question": "Based on the leg style and arrangement, what would you classify the chair's base type as?",
-        "answer": "Four"
-      },
-      {
-        "question": "Considering the leg's angle and design, how would you describe the legs' style?",
-        "answer": "Slanted"
-      },
-      {
-        "question": "What is the visual texture of the wood, is it visibly smooth or rough?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the seat's proportions relative to the overall height, how would you describe the seat's depth?",
-        "answer": "Shallow"
-      },
-      {
-        "question": "If one were to touch the upholstery, how would you describe the expected feel of the fabric?",
-        "answer": "Soft"
-      },
-      {
-        "question": "What is the shape of the legs from the base to the seat support?",
+        "question": "Describing the leg structure, what is the geometric form of the supporting base?",
         "answer": "Tapered"
       },
       {
-        "question": "Disregarding the backrest, what geometric shape best describes the seat cushion?",
-        "answer": "Rectangular"
+        "question": "What natural material is predominantly used in constructing the frame?",
+        "answer": "Wood"
       },
       {
-        "question": "Observing the wood tone, how would you describe the shade of the wooden frame?",
+        "question": "Observing the seat cushion, what is the visible texture of the upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of form, what is the general shape of the chair back?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent color of the wooden frame?",
         "answer": "Brown"
       },
       {
-        "question": "What is the style of the chair's backrest, is it high or low, rounded or straight?",
-        "answer": "High"
+        "question": "What type of material seems to be used for the seat padding?",
+        "answer": "Foam"
+      },
+      {
+        "question": "Considering the wood, what appears to be the wood finish?",
+        "answer": "Stained"
+      },
+      {
+        "question": "How many horizontal supports are visible beneath the seat?",
+        "answer": "One"
+      },
+      {
+        "question": "Judging by the overall height, what is this stool best suited for?",
+        "answer": "Counter"
+      },
+      {
+        "question": "Regarding the upholstery, what is the likely fabric type?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Describe the visible joints between the wooden legs and frame",
+        "answer": "Mortise"
+      },
+      {
+        "question": "What style characteristic best describes the overall design aesthetic?",
+        "answer": "Mid-century"
+      },
+      {
+        "question": "What is the shape of the seat cushion, ignoring the backrest?",
+        "answer": "Rectangular"
       }
     ]
   }

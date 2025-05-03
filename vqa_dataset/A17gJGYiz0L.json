@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the fabric covering the depicted product component?",
-        "answer": "Teal"
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Blue"
       },
       {
-        "question": "What appears to be the primary material of the larger, surrounding element?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "What is the apparent texture of the material surrounding the central component?",
-        "answer": "Textured"
-      },
-      {
-        "question": "Describe the shape of the metallic central component in the image.",
-        "answer": "Oval"
-      },
-      {
-        "question": "What is the apparent material of the small, central, metallic feature?",
-        "answer": "Metal"
-      },
-      {
-        "question": "How many small, round protrusions are visible on the metallic element?",
-        "answer": "Five"
-      },
-      {
-        "question": "What is the overall shape of the entire visible area in the product image?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What color is the smaller, metallic component within the larger oval element?",
-        "answer": "Silver"
-      },
-      {
-        "question": "What descriptive term best captures the surface texture of the larger fabric element?",
+        "question": "What appears to be the texture of the upholstery fabric?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the image, what might be the functional purpose of the smaller, central component?",
-        "answer": "Control"
+        "question": "What metal finish is observed on the central control element?",
+        "answer": "Silver"
       },
       {
-        "question": "Describe the arrangement of the small, round protrusions on the metallic piece.",
+        "question": "What is the overall shape of the central control component?",
+        "answer": "Oval"
+      },
+      {
+        "question": "How many small, round protrusions are visible on the central control?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the apparent material of the central control's surrounding element?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the visual pattern of the fabric, if any, in this close-up?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the image detail, what might this control be used for?",
+        "answer": "Massage"
+      },
+      {
+        "question": "What is the apparent sheen of the fabric shown in the product image?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Describe the arrangement of the small protrusions on the control unit?",
         "answer": "Clustered"
       },
       {
-        "question": "What is the apparent finish of the metal component in the center of the image?",
-        "answer": "Shiny"
+        "question": "Does the image reveal any seams or visible stitching in the fabric?",
+        "answer": "No"
       },
       {
-        "question": "What is the visual impression regarding the depth of the metallic element in the image?",
-        "answer": "Recessed"
+        "question": "Based on appearance, what is the probable material of the upholstery?",
+        "answer": "Fabric"
       },
       {
-        "question": "What seems to be the general state of the product in the provided close-up view?",
-        "answer": "Intact"
+        "question": "What is the overall design aesthetic that is evident in the image?",
+        "answer": "Minimalist"
       },
       {
-        "question": "Does the fabric covering appear to be patterned or solid in the presented image?",
-        "answer": "Solid"
+        "question": "What type of visual details are largely absent from this product section?",
+        "answer": "Patterns"
+      },
+      {
+        "question": "What visual impression does the color combination convey?",
+        "answer": "Calm"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/66/66e2b3ae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the vegetables in the container?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of vegetable is prominently featured, exhibiting long, slender stalks?",
+        "answer": "Asparagus"
+      },
+      {
+        "question": "What kind of fungi are visible among the other vegetables?",
+        "answer": "Mushrooms"
+      },
+      {
+        "question": "What is the apparent shape of the clear plastic food container?",
+        "answer": "Square"
+      },
+      {
+        "question": "What color are the thinly sliced pieces of onion visible amongst the other vegetables?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the apparent texture of the visible vegetables?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "What seems to be the overall cooking state of these vegetables?",
+        "answer": "Raw"
+      },
+      {
+        "question": "Considering the arrangement, how would you describe the presentation of the vegetables?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "What type of vegetable, featuring a root-like form, is visible, offering a light orange hue?",
+        "answer": "Carrots"
+      },
+      {
+        "question": "What appears to be the material of the container holding the vegetables?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall visual condition of the vegetables in the package",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What appears to be the transparency level of the food container?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What additional seasoning appears to be sprinkled over the vegetables?",
+        "answer": "Sesame"
+      },
+      {
+        "question": "Considering the image, what type of food preparation is represented?",
+        "answer": "Pre-cut"
+      },
+      {
+        "question": "What is the apparent size of the container relative to a standard hand?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

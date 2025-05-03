@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/43/43870e10.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric composing this rectangular pillowcase, as observed in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image, what is the most apparent textile used in the construction of this pillowcase?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based solely on the visual details, what is the overall shape of the presented bedding item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the provided image, what kind of seam or stitching is visible along the edges of this pillowcase?",
+        "answer": "Double"
+      },
+      {
+        "question": "From the picture, describe the general texture apparent on the surface of this pillow cover, considering its smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image reveal any patterns or designs printed or woven into the fabric of the depicted pillowcase?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual finish of the edges in the image, referring to their neatness or rawness?",
+        "answer": "Neat"
+      },
+      {
+        "question": "According to the image, describe the light reflection or sheen on the pillowcase's surface, indicating glossiness or matte quality?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's weight based on its drape and fold shown in the image?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Judging by the image, how many visible seams are present on the pillowcase, given its rectangular construction?",
+        "answer": "Four"
+      },
+      {
+        "question": "From the picture, does the pillowcase exhibit any visible wrinkling or creasing, indicating its state of use or newness?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Describe the visual depth or thickness of this pillowcase as depicted in the provided image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the overall visual impression of the pillowcase's construction quality based solely on the image?",
+        "answer": "Good"
+      },
+      {
+        "question": "Considering the image, describe the visible color uniformity or variation across the surface of this pillowcase.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the image, what is the apparent level of detail in the fabric's weave or texture?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

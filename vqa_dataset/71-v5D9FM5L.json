@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbcff217.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle containing the cleaning solution?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material from which the bottle appears to be constructed?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of dispensing mechanism is visibly attached to the container?",
+        "answer": "Sprayer"
+      },
+      {
+        "question": "What is the overall shape of the product's primary packaging?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Considering the visible text, what is the product's stated primary function?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "What specific type of stain removal is prominently advertised on the label?",
+        "answer": "Urine"
+      },
+      {
+        "question": "Describe the texture of the bottle's surface as shown in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the cap or lid situated atop the bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent design of the handle integrated into the bottle?",
+        "answer": "Trigger"
+      },
+      {
+        "question": "Judging from the image, is the bottle transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the bottle exhibit any noticeable curves or pronounced contours?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general form factor of the container's main body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Are there any visible markings aside from the product's name and purpose?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, estimate the size of the bottle in terms of volume.",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the bottle show any significant signs of wear or damage?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3ea46cca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted phone case?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary material of the phone case?",
+        "answer": "Silicone"
+      },
+      {
+        "question": "What is the overall shape of the presented phone case?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the image, how would you describe the texture of the case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the phone case show any visible cutouts or openings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the exterior surface of the case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, are there any noticeable patterns on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent style of this phone case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging from the visual details, what is the presumed thickness of the case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "How many visible cutouts or openings can be observed on the product?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the shape of the top and bottom ends of the phone case?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the case seem to exhibit any gloss or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent length to width ratio of the depicted case?",
+        "answer": "High"
+      },
+      {
+        "question": "Is the phone case uniformly colored across its entirety?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any noticeable logos or branding elements visible?",
+        "answer": "No"
+      }
+    ]
+  }
+]

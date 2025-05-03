@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the sandal's upper?",
+        "question": "What is the predominant color of the visible sandal upper?",
         "answer": "White"
       },
       {
-        "question": "What material appears to be used for the sandal's sole?",
-        "answer": "Beige"
-      },
-      {
-        "question": "Describe the overall shape of the sandal's heel?",
-        "answer": "Wedged"
-      },
-      {
-        "question": "What type of fastening mechanism is visible on the sandal?",
-        "answer": "Buckle"
-      },
-      {
-        "question": "What color is the buckle on the sandal's strap?",
-        "answer": "Gold"
-      },
-      {
-        "question": "What is the apparent texture of the sandal's upper material?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the style of the toe opening of the sandal?",
-        "answer": "Open"
-      },
-      {
-        "question": "What is the apparent material of the sandal's strap?",
+        "question": "What is the primary material appearing to constitute the sandal's upper?",
         "answer": "Leather"
       },
       {
-        "question": "What is written on the insole of the sandal?",
-        "answer": "Flavia"
+        "question": "Describe the shape of the sandal's heel and platform combination?",
+        "answer": "Wedged"
       },
       {
-        "question": "What is the color of the platform portion of the heel?",
+        "question": "What color is the visible portion of the sandal's sole?",
         "answer": "Beige"
       },
       {
-        "question": "Describe the design of the sandal's ankle strap?",
-        "answer": "Single"
+        "question": "What type of fastening mechanism is present on the sandal's ankle strap?",
+        "answer": "Buckle"
       },
       {
-        "question": "What is the visible texture of the sandal's sole edge?",
+        "question": "What is the apparent texture of the sandal's footbed?",
+        "answer": "Suede"
+      },
+      {
+        "question": "What metal finish is observed on the sandal's buckle?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the style of the sandal's toe enclosure?",
+        "answer": "Open"
+      },
+      {
+        "question": "What brand name is subtly embossed on the footbed?",
+        "answer": "Flavia"
+      },
+      {
+        "question": "What is the overall design of the sandal's straps?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the visible pattern on the sandal's outsole edge?",
         "answer": "Stitched"
       },
       {
-        "question": "How many straps does the sandal feature?",
-        "answer": "Two"
+        "question": "What is the apparent height of the sandal's platform?",
+        "answer": "Thick"
       },
       {
-        "question": "What is the style of the sandal's sole?",
-        "answer": "Platform"
+        "question": "What appears to be the material of the sandal's platform?",
+        "answer": "Rubber"
       },
       {
-        "question": "What is the general design of the sandal?",
-        "answer": "Minimalist"
+        "question": "What is the visible ankle strap's width?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "What is the general shape of the sandal's visible silhouette?",
+        "answer": "Rectangular"
       }
     ]
   }

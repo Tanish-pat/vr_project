@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3a057941.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the suitcase shown in the 'after' image?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the apparent material of the suitcase's exterior?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the suitcase depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary function of the packing cubes shown inside?",
+        "answer": "Organization"
+      },
+      {
+        "question": "What color are the majority of the packing cubes inside the suitcase?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the packing cubes?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the 'before' image, what is the state of the suitcase's contents?",
+        "answer": "Messy"
+      },
+      {
+        "question": "Describe the arrangement of items in the suitcase's 'after' image.",
+        "answer": "Organized"
+      },
+      {
+        "question": "What kind of items seem to be inside the packing cubes?",
+        "answer": "Clothes"
+      },
+      {
+        "question": "How many visibly distinct packing cubes are there in the 'after' image?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent texture of the suitcase's exterior?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the wheels visible, what type of suitcase is this?",
+        "answer": "Rolling"
+      },
+      {
+        "question": "In the 'before' image, what electronic device is partially visible?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What is the general color scheme of the clothing in the 'before' image?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is written on the label above the 'after' image?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

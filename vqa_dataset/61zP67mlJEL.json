@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/58387c28.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the cereal pieces shown in the bowl?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the shape of the individual cereal pieces?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the apparent texture of the cereal pieces, based on their visual appearance?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What type of food is being shown in the preparation steps?",
+        "answer": "Cereal"
+      },
+      {
+        "question": "What liquid is being added to the cereal in step two of the image?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What utensil is used to eat the cereal in the final step shown?",
+        "answer": "Spoon"
+      },
+      {
+        "question": "What is the general shape of the bowl containing the cereal?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color is the packaging shown in the upper left corner?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What seems to be the material of the bowl holding the cereal?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "What is the overall appearance of the cereal in terms of its uniformity?",
+        "answer": "Inconsistent"
+      },
+      {
+        "question": "Describe the color of the liquid added to the cereal.",
+        "answer": "White"
+      },
+      {
+        "question": "What is the number indicating the final preparation step?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is depicted in the top-left corner, besides the cereal?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What is the apparent visual consistency of the cereal?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What seems to be the overall visual size of the cereal pieces?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

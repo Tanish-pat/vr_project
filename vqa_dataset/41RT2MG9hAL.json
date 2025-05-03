@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/79/79a903bf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information displayed, what primary ingredient is prominently featured in this product's composition?",
+        "answer": "Corn"
+      },
+      {
+        "question": "Based on the textual details provided, what type of sweetener is utilized in this particular food item?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What specific type of sugar is listed as an ingredient, according to the label's description?",
+        "answer": "Cane"
+      },
+      {
+        "question": "As indicated on the label, what additional ingredient is included to enhance the taste?",
+        "answer": "Salt"
+      },
+      {
+        "question": "According to the image's information, what common grain could potentially be present as a contaminant?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Does the label specify any other types of nuts involved in this product's production?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "What other type of nuts are mentioned in the production notes visible in the image?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What is the descriptive term used to characterize the form of corn in the ingredients list?",
+        "answer": "Milled"
+      },
+      {
+        "question": "According to the text, what is the status of the corn used in the production process?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the status of the cane sugar, as stated on the packaging's ingredients section?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the label, what is the status of the salt used in the recipe?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What is the background color of the label displayed in the product image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall style of the font used in the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant color of the text on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the information panel visible in the image?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

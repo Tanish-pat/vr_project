@@ -6,63 +6,63 @@
     "questions": [
       {
         "question": "What is the predominant color of the lollipop depicted on the phone case?",
-        "answer": "Red"
-      },
-      {
-        "question": "What shape is the lollipop featured in the phone case design?",
-        "answer": "Heart"
-      },
-      {
-        "question": "What is the overall color scheme of the phone case's background?",
-        "answer": "Pastel"
-      },
-      {
-        "question": "What appears to be the primary material of this phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the style of the graphic design on the phone case?",
-        "answer": "Whimsical"
-      },
-      {
-        "question": "Describe the texture implied by the lollipop's visual representation.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the shape of the phone case itself, considering its overall form?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What color is the bottom portion of the phone case's background?",
         "answer": "Pink"
       },
       {
-        "question": "What design element is positioned below the lollipop in the image?",
-        "answer": "Stick"
+        "question": "What shape is the lollipop design featured prominently on the phone case?",
+        "answer": "Heart"
       },
       {
-        "question": "What is the apparent finish of the phone case's surface?",
-        "answer": "Matte"
+        "question": "What appears to be the primary material of the phone case itself?",
+        "answer": "Plastic"
       },
       {
-        "question": "What color is the top portion of the phone case background?",
-        "answer": "Teal"
+        "question": "What is the overall design style of the phone case's graphic?",
+        "answer": "Cute"
       },
       {
-        "question": "What type of candy is depicted on the phone case?",
+        "question": "What is the color of the background behind the lollipop on the phone case?",
+        "answer": "Mint"
+      },
+      {
+        "question": "What type of candy is illustrated on the phone case?",
         "answer": "Lollipop"
       },
       {
-        "question": "What is the pattern on the lollipop graphic?",
-        "answer": "Swirled"
+        "question": "Describe the texture implied by the swirl pattern on the lollipop graphic?",
+        "answer": "Smooth"
       },
       {
-        "question": "How many sides of the phone case are shown in this image?",
+        "question": "What is the color of the stick on which the lollipop is impaled?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the bottom band of the phone case design?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the general shape of the product being shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many sides of the phone case are shown in this product image?",
         "answer": "Three"
       },
       {
-        "question": "Besides the lollipop, what other design element is notably present?",
-        "answer": "Lines"
+        "question": "What is the style of the graphic on the phone case?",
+        "answer": "Illustrative"
+      },
+      {
+        "question": "What seems to be the finish of the depicted phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the implied pattern of the pink and red stripes on the lollipop?",
+        "answer": "Swirled"
+      },
+      {
+        "question": "What is the approximate aspect ratio of the phone case itself?",
+        "answer": "2:1"
       }
     ]
   }

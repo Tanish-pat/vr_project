@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/feb938be.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted power source?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What dominant color is observed on the battery's exterior?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the visible branding present on the battery's label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What size designation is clearly printed on the battery casing?",
+        "answer": "AA"
+      },
+      {
+        "question": "What material appears to constitute the battery's outer covering?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What symbol indicates the positive terminal of the battery?",
+        "answer": "Plus"
+      },
+      {
+        "question": "What symbol indicates the negative terminal of the battery?",
+        "answer": "Minus"
+      },
+      {
+        "question": "What is the general texture of the battery's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What voltage is specified on the battery's label?",
+        "answer": "1.5V"
+      },
+      {
+        "question": "What is the primary function of this cylindrical object?",
+        "answer": "Power"
+      },
+      {
+        "question": "What kind of text is predominantly used for labeling?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Besides the branding, what other information is prominently printed?",
+        "answer": "Specifications"
+      },
+      {
+        "question": "What is the general appearance of the battery's ends?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the color of the positive terminal markings?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the color of the negative terminal markings?",
+        "answer": "Gray"
+      }
+    ]
+  }
+]

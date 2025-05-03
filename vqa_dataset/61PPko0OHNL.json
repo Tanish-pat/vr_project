@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/130ff58e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the detergent bottle?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall shape of the detergent container?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What material appears to comprise the detergent bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of cap is present on the detergent bottle?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "What is the text prominently displayed on the front of the bottle?",
+        "answer": "Solimo"
+      },
+      {
+        "question": "What is the explicitly stated function of the product?",
+        "answer": "Detergent"
+      },
+      {
+        "question": "What descriptive term appears next to the product name?",
+        "answer": "Laundry"
+      },
+      {
+        "question": "What is the concentration level of the laundry detergent?",
+        "answer": "Super"
+      },
+      {
+        "question": "What design element is visibly repeated on the bottle's surface?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the indicated number of loads the product yields?",
+        "answer": "Sixty-four"
+      },
+      {
+        "question": "What is the scent type of the laundry detergent?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What kind of product label is present on the bottle?",
+        "answer": "Cautionary"
+      },
+      {
+        "question": "What is the visible labeling beneath the product name?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the size of the detergent bottle indicated on the label?",
+        "answer": "64oz"
+      },
+      {
+        "question": "What is the texture of the plastic bottle, based on the visual information?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

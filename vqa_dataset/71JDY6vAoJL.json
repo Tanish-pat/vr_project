@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/628036fa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device's outer casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the presented electronic device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the product?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the visible ports, what video standard is primarily supported?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "Based on the text on the top surface, what is the device's main function?",
+        "answer": "Converter"
+      },
+      {
+        "question": "Describe the texture of the device's exterior surface based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of connector is visible on the left side of the device?",
+        "answer": "DC"
+      },
+      {
+        "question": "What is the general orientation of the visible text on the device's top surface?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is there any visible branding or logo on the device's top panel?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the ports, what type of input does this device appear to accept?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "Are there any visible ventilation or heat dissipation features?",
+        "answer": "No"
+      },
+      {
+        "question": "How many HDMI ports are visibly present on this device's exterior?",
+        "answer": "Two"
+      },
+      {
+        "question": "Is the device's exterior casing matte or glossy in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the device have sharp or rounded corners and edges?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the approximate size of the device in relation to a human hand?",
+        "answer": "Small"
+      }
+    ]
+  }
+]
