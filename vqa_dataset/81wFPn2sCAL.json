@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f4/f46376d3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted bicycle lock?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing this folding lock?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering its design, what is the most apparent function of this item?",
+        "answer": "Securing"
+      },
+      {
+        "question": "Based on the image, what mechanism is used to lock and unlock the device?",
+        "answer": "Key"
+      },
+      {
+        "question": "What type of fastening straps are visibly attached to the lock's body?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by its form, what is the general shape of the folded bicycle lock?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the texture of the fabric straps on the presented lock?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Examining the image, are there any visible branding elements on the lock?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent design of the locking mechanism as shown in the image?",
+        "answer": "Folding"
+      },
+      {
+        "question": "Describe the apparent surface texture of the main body of the lock.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible state of the locking mechanism in the provided image?",
+        "answer": "Closed"
+      },
+      {
+        "question": "What kind of fastener is present on one end of the device?",
+        "answer": "Bolt"
+      },
+      {
+        "question": "Considering the overall structure, how many distinct sections comprise the lock?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What component, shown in the image, holds the key in place?",
+        "answer": "Housing"
+      },
+      {
+        "question": "What seems to be the overall style of the lock's external appearance?",
+        "answer": "Sleek"
+      }
+    ]
+  }
+]

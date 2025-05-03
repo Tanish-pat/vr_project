@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the metal table frame?",
+        "question": "What is the predominant color of the metal frame of the bistro set?",
         "answer": "Black"
       },
       {
-        "question": "What shape is the tabletop of the outdoor bistro set?",
+        "question": "What shape is the tabletop of this outdoor bistro table?",
         "answer": "Round"
       },
       {
-        "question": "What material appears to be used for the chairs' seating?",
-        "answer": "Beige"
+        "question": "What material appears to constitute the tabletop's construction?",
+        "answer": "Metal"
       },
       {
-        "question": "Describe the pattern of the slats on the table's surface?",
+        "question": "What is the primary material used in the construction of the chairs?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the pattern visible on the surface of the round table top?",
         "answer": "Striped"
       },
       {
-        "question": "What type of metal appears to be used for the furniture's construction?",
-        "answer": "Wrought"
+        "question": "What color are the chair seat cushions in this patio set?",
+        "answer": "Beige"
       },
       {
-        "question": "What is the overall style of the chairs, considering their design?",
-        "answer": "X-Back"
+        "question": "What is the design style of the cross-supports on the chairs?",
+        "answer": "X-shaped"
       },
       {
-        "question": "What seems to be the intended use of this three-piece set?",
+        "question": "What is the overall design aesthetic of this outdoor dining set?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the material, what is the likely intended use of this furniture?",
         "answer": "Outdoor"
       },
       {
-        "question": "What is the apparent texture of the cushions on the bar stools?",
-        "answer": "Smooth"
+        "question": "What is the general height of the chairs in relation to the table?",
+        "answer": "High"
       },
       {
-        "question": "How would you describe the overall design aesthetic of the furniture set?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What is the primary function of the smaller, circular table?",
-        "answer": "Dining"
-      },
-      {
-        "question": "Considering the height of the chairs, what is their style category?",
-        "answer": "Bar"
-      },
-      {
-        "question": "How many chairs are included in this particular furniture set?",
+        "question": "Considering the design, what is the seating capacity of this bistro set?",
         "answer": "Two"
       },
       {
-        "question": "What design element is repeated on both the table and chairs?",
-        "answer": "X-frame"
+        "question": "What appears to be the texture of the metal components of this set?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the setting, where is this furniture best suited?",
+        "question": "Describe the style of the legs supporting the round table top?",
+        "answer": "Single"
+      },
+      {
+        "question": "Based on the image, where might one typically use this type of furniture?",
         "answer": "Patio"
       },
       {
-        "question": "What is the apparent finish of the metal components of the set?",
-        "answer": "Matte"
+        "question": "What type of seating does this outdoor set provide?",
+        "answer": "Bar"
       }
     ]
   }

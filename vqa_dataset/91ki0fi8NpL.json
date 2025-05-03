@@ -9,60 +9,60 @@
         "answer": "Navy"
       },
       {
-        "question": "What material appears to be used for the backpack's exterior?",
+        "question": "What fabric gives the backpack its plush appearance?",
         "answer": "Velvet"
       },
       {
-        "question": "What is the overall shape of the presented backpack?",
+        "question": "Describe the overall shape of this backpack design?",
         "answer": "Rounded"
       },
       {
-        "question": "Describe the texture evident on the backpack's surface?",
-        "answer": "Soft"
+        "question": "What material appears to be used for the backpack straps?",
+        "answer": "Fabric"
       },
       {
         "question": "What color are the backpack's shoulder straps?",
         "answer": "Blue"
       },
       {
-        "question": "What type of closure is visible on the backpack's main compartment?",
+        "question": "What type of closure is featured on the main compartment?",
         "answer": "Zipper"
       },
       {
-        "question": "How many main compartments are visibly present on the backpack?",
-        "answer": "One"
+        "question": "What is the apparent texture of the backpack's exterior?",
+        "answer": "Soft"
       },
       {
-        "question": "Is there a smaller pocket visible on the front of the backpack?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What appears to be the material of the zipper pulls?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What color is the trim along the front pocket of the bag?",
+        "question": "What is the color of the zipper pull on the main compartment?",
         "answer": "Silver"
       },
       {
-        "question": "Describe the style of the backpack's straps at the top?",
-        "answer": "Flat"
+        "question": "What additional pocket is visible on the backpack's front?",
+        "answer": "Zippered"
       },
       {
-        "question": "What is the overall size of the backpack, relative to typical backpacks?",
+        "question": "What is the style of this bag, based on its straps and carrying method?",
+        "answer": "Backpack"
+      },
+      {
+        "question": "What seems to be the primary material of the small front pocket?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Describe the contrast visible at the backpack's top edge?",
+        "answer": "Darker"
+      },
+      {
+        "question": "How many main compartments are clearly visible on this backpack?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent size of this backpack, considering its proportions?",
         "answer": "Small"
       },
       {
-        "question": "Does the backpack have any visible branding or logos?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the visible color of the top portion near the straps?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the materials, what would the likely weight of the backpack be?",
-        "answer": "Light"
+        "question": "What is the overall aesthetic of this backpack's design?",
+        "answer": "Casual"
       }
     ]
   }

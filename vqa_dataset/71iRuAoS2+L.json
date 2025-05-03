@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall shape and form, what is the most accurate geometrical description of the product's packaging?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What color is the prominent band at the top of the product's packaging?",
-        "answer": "Green"
-      },
-      {
-        "question": "What is the main food product explicitly mentioned on the packaging?",
+        "question": "What is the primary food product depicted on this packaging, clearly indicated by prominent text?",
         "answer": "Cheese"
       },
       {
-        "question": "What specific type of cheese is indicated on the packaging?",
+        "question": "What specific type of cheese is showcased, as explicitly stated on the label?",
         "answer": "Neufchatel"
       },
       {
-        "question": "Based on the text visible, what is the weight of the package's contents in ounces?",
-        "answer": "Eight"
+        "question": "Describing the overall shape of the container, ignoring any text or logos, what geometric form best fits the product's packaging?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What word on the label signifies the production method?",
-        "answer": "Organic"
+        "question": "Considering the top band's color, what single word best captures its hue?",
+        "answer": "Green"
       },
       {
-        "question": "What color is the text denoting the cheese type?",
-        "answer": "Purple"
-      },
-      {
-        "question": "What is the dominant color of the background of the packaging?",
+        "question": "What is the dominant color used for the majority of the product packaging background?",
         "answer": "White"
       },
       {
-        "question": "What brand is associated with this product, as shown on the packaging?",
+        "question": "Observing the text detailing the product's weight, what is the unit of measurement used?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "Based on the prominent logo present, what is the name of the brand manufacturing this cheese?",
         "answer": "365"
       },
       {
-        "question": "Describe the style of the vertical lines subtly present on the packaging.",
-        "answer": "Striped"
+        "question": "Referring to the product's description, what adjective modifies the term 'cheese', signifying a production method?",
+        "answer": "Organic"
       },
       {
-        "question": "What is the general texture of the packaging, judging from the image?",
+        "question": "What is the texture of the packaging, that is visibly apparent to the eye and seemingly is matte in appearance?",
         "answer": "Smooth"
       },
       {
-        "question": "What unit of measurement is used after the net weight in the description?",
-        "answer": "Grams"
+        "question": "Looking at the textual elements, what word signifies the net quantity of the product inside the packaging?",
+        "answer": "Net"
       },
       {
-        "question": "What is the overall tone or style of the packaging design?",
-        "answer": "Minimalist"
+        "question": "What is the material the packaging is primarily made of, apparent by visual inspection of its surface?",
+        "answer": "Cardboard"
       },
       {
-        "question": "What is the shape of the logo on the left side?",
-        "answer": "Square"
+        "question": "Regarding the logo, what shape best describes the main element containing the brand number?",
+        "answer": "Circular"
       },
       {
-        "question": "Based on the information displayed, what is the net weight in grams?",
-        "answer": "227"
+        "question": "Examining the font used, what describes the style of the lettering for the cheese type?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the orientation of the product packaging in the provided image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Observing the thin lines present on the label, what is their visual pattern?",
+        "answer": "Vertical"
       }
     ]
   }

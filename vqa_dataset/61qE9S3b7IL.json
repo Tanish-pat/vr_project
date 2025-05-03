@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the depicted device's outer casing?",
+        "question": "What is the dominant color of the device's exterior?",
         "answer": "Black"
       },
       {
-        "question": "Considering the overall form factor, what geometric shape best describes the product?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What type of port is visibly present on the device's surface?",
+        "question": "What type of connector is visibly present on the device?",
         "answer": "USB-C"
       },
       {
-        "question": "Based on visual inspection, what appears to be the predominant material used in the device's construction?",
+        "question": "What is the overall shape of the device's main body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used in the device's construction?",
         "answer": "Plastic"
       },
       {
-        "question": "Observing the surface texture, is the finish of the device glossy or matte?",
+        "question": "Considering the visible surface, what is the apparent texture of the device?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any noticeable branding or logo on the device's visible surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the device exhibit any visible seams or joints in its construction?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the overall finish of the visible device surfaces.",
         "answer": "Matte"
       },
       {
-        "question": "Does the device show any visible branding, logos, or markings on its exterior?",
+        "question": "Are there any noticeable markings or indentations other than the connector?",
         "answer": "No"
       },
       {
-        "question": "What is the approximate aspect ratio of the rectangular device, considering its length and width?",
-        "answer": "Vertical"
+        "question": "What is the approximate aspect ratio of the device's rectangular shape?",
+        "answer": "Tall"
       },
       {
-        "question": "Are there any noticeable protrusions, buttons, or other physical controls on the object's surface?",
-        "answer": "No"
+        "question": "Considering the materials and design, what is the inferred weight class of this device?",
+        "answer": "Lightweight"
       },
       {
-        "question": "What is the apparent thickness of the device, relative to its length and width dimensions?",
-        "answer": "Thin"
+        "question": "How many distinct visible ports or connectors are present on the device?",
+        "answer": "One"
       },
       {
-        "question": "Judging by the image, does the device seem to be constructed from a single piece of material or multiple parts?",
-        "answer": "Single"
+        "question": "Does the connector appear recessed or flush with the surface?",
+        "answer": "Recessed"
       },
       {
-        "question": "If the device were to be described as having a particular edge treatment, which one would that be?",
-        "answer": "Rounded"
+        "question": "What is the apparent size of the device relative to common objects?",
+        "answer": "Small"
       },
       {
-        "question": "Can you identify any visible seams, joints, or gaps on the device's external surface?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering the object's overall size and proportions, would it be considered compact or bulky?",
-        "answer": "Compact"
-      },
-      {
-        "question": "What seems to be the general design aesthetic of the object: sleek, rugged, or ornate?",
-        "answer": "Sleek"
-      },
-      {
-        "question": "Does the image reveal any evidence of internal components through the casing?",
-        "answer": "No"
+        "question": "Judging by the appearance, what is the likely function of the device?",
+        "answer": "Adapter"
       }
     ]
   }

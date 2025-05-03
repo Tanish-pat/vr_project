@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c0de2f8c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main body of the cover?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the color of the bottom band or trim of the cover?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material of this protective cover?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the overall shape or form of the item being covered?",
+        "answer": "Square"
+      },
+      {
+        "question": "Describe the texture of the fabric that appears to be used?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many access openings or vents are visible on the cover?",
+        "answer": "One"
+      },
+      {
+        "question": "What shape is the small access panel or opening visible on the cover?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent function of this item based on visual cues?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Considering the item's appearance, what is it likely designed to cover?",
+        "answer": "Outdoor"
+      },
+      {
+        "question": "Are there any visible fastening mechanisms or closures on the cover?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the purpose of the lower band of a different color?",
+        "answer": "Reinforcement"
+      },
+      {
+        "question": "Based on the image, is the cover tailored or loose fitting?",
+        "answer": "Loose"
+      },
+      {
+        "question": "Describe the overall visual style or aesthetic of the cover",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the cover show any patterns, logos, or branding visible?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the materials, is this cover likely waterproof?",
+        "answer": "No"
+      }
+    ]
+  }
+]

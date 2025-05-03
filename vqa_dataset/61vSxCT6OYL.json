@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/1184beae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text prominently displayed on the packaging?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the dominant color of the lentils described on the package, as visually suggested by the image?",
+        "answer": "Red"
+      },
+      {
+        "question": "What type of food product does the packaging depict as its contents?",
+        "answer": "Lentils"
+      },
+      {
+        "question": "What word is used to describe the lentils, indicating their cultivation method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the bag's appearance, what material seems to have been used in its construction?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall shape of the product packaging shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what is the general texture of the outer packaging material?",
+        "answer": "Papery"
+      },
+      {
+        "question": "What brand name is visibly printed on the front of the food product's packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Observing the fine print, what information section is prominently featured on the back of the packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What type of seal or certification is visible to indicate product quality or origin?",
+        "answer": "USDA"
+      },
+      {
+        "question": "What is the overall design style of the packaging in terms of aesthetic look and feel?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Describe the visual appearance of the nutritional information panel in terms of its color scheme and text font.",
+        "answer": "Brown"
+      },
+      {
+        "question": "What type of graphic or visual element is used to decorate or enhance the visual appeal of the packaging?",
+        "answer": "Illustrations"
+      },
+      {
+        "question": "What is the implied form or shape of the contents of the package judging from the bag's shape?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What are the main colors used in the background design of the packaging?",
+        "answer": "Beige"
+      }
+    ]
+  }
+]

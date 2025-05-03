@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/22386627.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall texture of the displayed fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What natural fiber appears to be a prominent component of the fabric's weave?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Considering the weave and color, what is the fabric's general visual appearance?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image, what kind of visual pattern does the fabric exhibit?",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "Describe the apparent density of the weave within the fabric sample displayed?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Does the fabric show a smooth or rough surface based solely on the provided image?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Observing the image, is the color of the fabric uniform or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Can subtle variations in shade be detected within the fabric\u2019s coloration?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the general thickness or weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the weave pattern create any visually noticeable lines or streaks?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visual direction of the predominant weave lines in the fabric.",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Is the fabric depicted in the picture plain or patterned in its design?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent softness of the fabric?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

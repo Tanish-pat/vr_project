@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/09bbd8ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the wallet's exterior?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material of the wallet?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the texture visible on the wallet's surface.",
+        "answer": "Grained"
+      },
+      {
+        "question": "What shape best describes the overall form of the wallet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the visible trim along the edges of the wallet?",
+        "answer": "Red"
+      },
+      {
+        "question": "What type of closure mechanism is visible on the wallet?",
+        "answer": "Foldover"
+      },
+      {
+        "question": "Is there a noticeable design element on the front of the wallet?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent shape of the central design element?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What color is the metallic feature at the center of the wallet?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Describe the style of the central decorative element on the wallet.",
+        "answer": "Filigree"
+      },
+      {
+        "question": "How many visible compartments or sections are apparent on the exterior?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent finish of the metallic element on the wallet?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Does the wallet have any visible stitching details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall size impression of this wallet?",
+        "answer": "Compact"
+      },
+      {
+        "question": "What is the orientation of the wallet in the image?",
+        "answer": "Angled"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the main body of this elongated, cylindrical travel bag, designed for carrying long, slender items, with reinforced side panels and a carrying handle?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the overall shape and construction, what is the most probable intended use for this bag with a padded interior, reinforced seams, and side carry straps?",
-        "answer": "Ski"
-      },
-      {
-        "question": "What material seems to primarily comprise the body of this carrying device, judging by its appearance of smooth texture and relative lack of visible stitching besides the side accents?",
-        "answer": "Nylon"
-      },
-      {
-        "question": "Observing the visible components, what is the color of the two robust, parallel side stripes running along the length of this elongated carrying case?",
-        "answer": "Grey"
-      },
-      {
-        "question": "What seems to be the texture of the bag's external surface, as indicated by its smooth look and reflection in the image, suggesting a potentially water-resistant finish?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What kind of handle does this bag primarily use for carrying, judging from its visual appearance of being both padded and securely attached?",
-        "answer": "Carry"
-      },
-      {
-        "question": "Describe the shape of the bag, considering its long, cylindrical form and tapered ends, which seem suitable for protecting long, slender objects?",
+        "question": "Considering the overall form, what is the dominant shape of this item, as seen in the image?",
         "answer": "Cylindrical"
       },
       {
-        "question": "Based on the visual prominence and placement, what is the likely purpose of the logo on the central section of the bag's exterior?",
-        "answer": "Brand"
+        "question": "What appears to be the primary color of the main body of the product shown?",
+        "answer": "Black"
       },
       {
-        "question": "What is the apparent degree of padding or protection offered by the bag's body, considering the general shape and the material's visible smoothness?",
-        "answer": "Padded"
+        "question": "Judging by the visual texture, what material seems most likely to constitute the bag's exterior?",
+        "answer": "Nylon"
       },
       {
-        "question": "What structural feature is suggested by the visual presence of reinforced side panels, which are likely meant to enhance the durability and stability of the product?",
-        "answer": "Reinforced"
+        "question": "Based on the image, what kind of carrying mechanism is visibly attached to the product?",
+        "answer": "Handle"
       },
       {
-        "question": "Judging by the image, what type of closure is apparent on this carrying device, given the lack of visible zippers, buckles, or other fastening mechanisms?",
-        "answer": "None"
+        "question": "Considering the visual details, what seems to be the most prominent design feature on this item?",
+        "answer": "Stripes"
       },
       {
-        "question": "What does the visible presence of the two grey straps running down the sides of the bag most likely indicate in terms of its functionality?",
-        "answer": "Support"
+        "question": "According to the image, what secondary color is incorporated into the design of the carrying straps?",
+        "answer": "Grey"
       },
       {
-        "question": "Considering the image, describe the primary style of this bag given its long, narrow, simple design, and lack of excessive decoration or embellishment?",
-        "answer": "Simple"
+        "question": "What is the apparent primary purpose or function of this visually depicted item, judging solely from the image?",
+        "answer": "Storage"
       },
       {
-        "question": "What visible feature of the bag suggests a method for carrying it that is different from the main handle?",
-        "answer": "Straps"
+        "question": "From a visual perspective, what type of closure mechanism appears to be lacking in the design of this product?",
+        "answer": "Zipper"
       },
       {
-        "question": "Based on the visible design elements, what is the general impression of the bag's intended market position considering the simple design and choice of materials?",
-        "answer": "Functional"
+        "question": "Considering the visual clues, how many distinct sections or compartments appear to be present in the bag's design?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the visual features, what seems to be the texture of the grey accents on the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of label or branding is subtly visible on the central section of this product shown?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based solely on the image, can you describe the visible state of the product, is it used or unused?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the overall visual impression of the item\u2019s condition based on what is shown in the image?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Judging from the image, does the product seem designed for carrying something long and thin?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size of the product relative to a typical adult human, based on common sense and the image provided?",
+        "answer": "Large"
       }
     ]
   }

@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the product packaging, as shown in the image?",
+        "question": "What is the dominant color of the packaging visually presented?",
         "answer": "Teal"
       },
       {
-        "question": "Considering the textual description and visual appearance, what is the primary function of this product?",
-        "answer": "Cleansing"
-      },
-      {
-        "question": "Based on the image and text, what key ingredient is prominently featured in this mask?",
-        "answer": "Charcoal"
-      },
-      {
-        "question": "What is the overall shape of the product packaging depicted in the provided image?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Describe the texture implied by the image's depiction of the product packaging's surface.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What language is used in the primary product description, based on visual inspection of the image?",
-        "answer": "English"
-      },
-      {
-        "question": "Observing the branding on the image, what is the name of the company producing this product?",
-        "answer": "BELEI"
-      },
-      {
-        "question": "Considering the visual style, what kind of overall aesthetic does the product packaging convey?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What type of material is most likely used for the packaging, judging from the image's appearance?",
+        "question": "What is the primary material suggested by the packaging's appearance?",
         "answer": "Cardboard"
       },
       {
-        "question": "Describe the font style used for the primary product name shown on the packaging in the image.",
-        "answer": "Sans-serif"
+        "question": "Considering the text, what is the mask's advertised function?",
+        "answer": "Cleansing"
       },
       {
-        "question": "What is the visual prominence of the company logo, relative to other text on the packaging?",
-        "answer": "Prominent"
+        "question": "What key ingredient is prominently highlighted on the packaging?",
+        "answer": "Charcoal"
       },
       {
-        "question": "What language other than English is used to describe the product's functionality, based on the image?",
-        "answer": "German"
+        "question": "Describe the overall shape of the product packaging shown in the image.",
+        "answer": "Rectangular"
       },
       {
-        "question": "Are there any noticeable design elements besides text and logo on the product packaging shown?",
+        "question": "What language is used in the prominent text describing the product's function?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the text style of the brand name\u00a0on the packaging, in terms of orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual texture of the packaging, considering its apparent material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the logo, what is the predominant visual element used to represent the brand?",
+        "answer": "Letters"
+      },
+      {
+        "question": "Based on the image, what seems to be the finish of the packaging's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visual presentation of the language on the packaging \u2014 is it capitalized or not?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "What is the colour of the text used for the product description on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Is there a noticeable texture or pattern on the mask's packaging based on visual observation?",
         "answer": "None"
       },
       {
-        "question": "Considering the visual clues, is the packaging design primarily focused on images or text?",
-        "answer": "Text"
+        "question": "Describe the overall style of the text font used for the product's name and description.",
+        "answer": "Sans-serif"
       },
       {
-        "question": "Does the image show any unique or identifying marks besides the logo and text?",
+        "question": "Does the packaging show any additional graphics beyond text and logo?",
         "answer": "No"
       }
     ]

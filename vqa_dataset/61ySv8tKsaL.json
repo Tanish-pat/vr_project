@@ -13,56 +13,56 @@
         "answer": "Glass"
       },
       {
-        "question": "What is the overall shape of the foldable compact mirror?",
+        "question": "What is the overall shape of the attached compact mirror?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the finish of the gold-colored metal frame?",
-        "answer": "Shiny"
-      },
-      {
-        "question": "What is the apparent design of the mirror's surface (not the frame)?",
-        "answer": "Plain"
-      },
-      {
-        "question": "What is the color of the smartphone shown in the image?",
-        "answer": "Black"
-      },
-      {
-        "question": "What seems to be the mechanism allowing the mirror to stand upright?",
-        "answer": "Hinge"
-      },
-      {
-        "question": "What kind of text is visible on the mirror's surface?",
-        "answer": "Logo"
-      },
-      {
-        "question": "Considering the orientation, what is the apparent functionality of the device?",
+        "question": "What seems to be the primary function of the small device attached to the phone?",
         "answer": "Mirror"
       },
       {
-        "question": "What seems to be the material of the smartphone's back?",
-        "answer": "Metal"
+        "question": "Describe the apparent finish of the compact mirror's metallic frame?",
+        "answer": "Shiny"
       },
       {
-        "question": "Describe the texture of the visible gold-colored metallic parts.",
+        "question": "What color is the smartphone shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the orientation of the mirror when attached to the phone?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is visible on the gold surface of the compact mirror?",
+        "answer": "Text"
+      },
+      {
+        "question": "What type of mechanism allows the mirror to stand on its own?",
+        "answer": "Hinge"
+      },
+      {
+        "question": "What is the apparent texture of the mirror's frame?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent orientation of the compact mirror relative to the phone?",
-        "answer": "Attached"
+        "question": "What seems to be the material of the smartphone shown?",
+        "answer": "Metal"
       },
       {
-        "question": "Based on the image, what is the size of the compact mirror?",
-        "answer": "Small"
+        "question": "Considering its size, what is the probable usage of the attached mirror?",
+        "answer": "Personal"
       },
       {
-        "question": "Describe the apparent state of the mirror's surface; is it clean?",
-        "answer": "Clean"
+        "question": "What technology brand's logo is displayed on the back of the phone?",
+        "answer": "Apple"
       },
       {
-        "question": "What is the apparent design style of the compact mirror (overall)?",
+        "question": "Based on its appearance, what is the general style of the compact mirror?",
         "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent position of the attached compact mirror relative to the phone?",
+        "answer": "Rear"
       }
     ]
   }

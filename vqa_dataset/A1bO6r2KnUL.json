@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9aca15ad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible upper portion of the footwear?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the majority of the boot's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the overall shape or silhouette of each individual boot.",
+        "answer": "High-top"
+      },
+      {
+        "question": "What color is the visible outsole or sole of the footwear?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of closure mechanism is utilized on the boots?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the apparent texture of the upper material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the secondary material visible at the boot's collar?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the approximate height of the boot from sole to top?",
+        "answer": "Mid-calf"
+      },
+      {
+        "question": "Describe the style of the toe on each boot.",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What seems to be the material of the midsole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Is the lacing system primarily composed of leather or synthetic material?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "What is the overall design aesthetic of the footwear?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Judging from the image, are the boots designed for formal or informal wear?",
+        "answer": "Informal"
+      },
+      {
+        "question": "Does the boot's sole appear to have a defined tread pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual details, are these boots suitable for hiking or urban settings?",
+        "answer": "Urban"
+      }
+    ]
+  }
+]
