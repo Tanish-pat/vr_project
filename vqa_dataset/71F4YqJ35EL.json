@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant visual texture depicted across the surfaces of these items?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the overall form, what best describes the primary geometric shape of each individual sheet?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Based on the image, what appears to be the most prevalent color among this collection of sheets?",
-        "answer": "Blue"
-      },
-      {
-        "question": "What color is the sheet positioned directly below the light blue sheet in the stack?",
-        "answer": "Orange"
-      },
-      {
-        "question": "Disregarding the branding, what is the visual pattern subtly printed on the sheets?",
+        "question": "What is the dominant pattern subtly imprinted across the sheets?",
         "answer": "Floral"
       },
       {
-        "question": "What is the apparent material of the sheets shown, judging from their visual characteristics?",
+        "question": "What is the most prominent color among the displayed sheets?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of these sheets?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the apparent level of transparency exhibited by each individual sheet in this set?",
-        "answer": "Translucent"
-      },
-      {
-        "question": "What is the general shape when considering the entire stack of rectangular sheets?",
+        "question": "What is the general shape of each individual sheet in the stack?",
         "answer": "Rectangular"
       },
       {
-        "question": "Judging by appearance, what seems to be the relative thickness of a single sheet in the shown stack?",
-        "answer": "Thin"
+        "question": "What secondary color is prominently featured besides the blue?",
+        "answer": "Orange"
       },
       {
-        "question": "What is the color of the sheet that is visibly at the bottom of the entire stack?",
-        "answer": "White"
-      },
-      {
-        "question": "What small visual element is visible at the bottom edge of each sheet?",
-        "answer": "Labels"
-      },
-      {
-        "question": "What is the overall arrangement or configuration of the multiple sheets, as displayed in the picture?",
+        "question": "What is the overall arrangement of the multiple sheets in the image?",
         "answer": "Stacked"
       },
       {
-        "question": "Considering the light reflecting off the surfaces, what seems to be the overall visual sheen or glossiness?",
-        "answer": "Glossy"
+        "question": "Describing the sheets' transparency, what level of translucence do they exhibit?",
+        "answer": "Translucent"
       },
       {
-        "question": "What is the general visual impression of the color palette used in designing these sheets?",
-        "answer": "Pastel"
+        "question": "What subtle design feature is visible near the bottom edge of each sheet?",
+        "answer": "Label"
       },
       {
-        "question": "What is the overall visual impression of the arrangement of the stack of sheets?",
-        "answer": "Neat"
+        "question": "What is the overall visual impression regarding the apparent thickness of each sheet?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What color is the sheet located directly beneath the prominent blue one?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Excluding the main colors, what additional color is present in a muted shade?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the image, what is the approximate number of sheets visible?",
+        "answer": "Five"
+      },
+      {
+        "question": "Considering the subtle design, what could be the primary function of these sheets?",
+        "answer": "Protective"
+      },
+      {
+        "question": "What is the implied surface texture of the sheets, smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the apparent sheen level of the sheets?",
+        "answer": "Slight"
       }
     ]
   }

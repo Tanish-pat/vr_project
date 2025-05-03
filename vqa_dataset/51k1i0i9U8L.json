@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf688106.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the yogurt cup's label?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What type of yogurt is predominantly indicated on the label?",
+        "answer": "Greek"
+      },
+      {
+        "question": "What fruit is depicted prominently on the cup's label, besides blueberries?",
+        "answer": "Pomegranate"
+      },
+      {
+        "question": "What is the primary material of the yogurt container itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is explicitly stated as a characteristic of the yogurt's fat content?",
+        "answer": "Nonfat"
+      },
+      {
+        "question": "What word describes the cultivation method of the yogurt's ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What design element is repeated along the bottom of the yogurt cup?",
+        "answer": "Greek-key"
+      },
+      {
+        "question": "What is the shape of the yogurt container shown in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the secondary fruit prominently displayed on the label?",
+        "answer": "Blueberry"
+      },
+      {
+        "question": "What brand name is prominently featured on the label?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "What unit of weight is used to express the yogurt's net weight on the label?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the color of the lid on the yogurt container?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the texture of the yogurt implied by the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall design style of the product label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the shape of the fruits illustrated on the label?",
+        "answer": "Round"
+      }
+    ]
+  }
+]

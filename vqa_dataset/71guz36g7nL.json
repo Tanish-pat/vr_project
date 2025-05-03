@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/02a576b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the picture frame's border?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What shape is the overall external frame of the picture?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for decorative embellishments?",
+        "answer": "Pearls"
+      },
+      {
+        "question": "Describe the texture of the border's decorative elements.",
+        "answer": "Beaded"
+      },
+      {
+        "question": "What is the apparent material of the main frame structure?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of image is displayed within the frame?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the dominant color of the image inside the frame?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the orientation of the frame in the displayed image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general style or aesthetic of the frame?",
+        "answer": "Ornate"
+      },
+      {
+        "question": "Does the frame include a visible mat or backing board?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any noticeable markings or engravings on the frame?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual effect created by the beading on the frame?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What seems to be the main function of this product?",
+        "answer": "Display"
+      },
+      {
+        "question": "Is the frame design symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "What kind of photo is suggested by the example inside?",
+        "answer": "Flowers"
+      }
+    ]
+  }
+]

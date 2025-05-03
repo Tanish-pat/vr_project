@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ad4cb845.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's background, excluding text and graphics?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the food packaging box as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material that the product packaging appears to be made from?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the text and design, what type of food product does this packaging contain?",
+        "answer": "Mix"
+      },
+      {
+        "question": "What is the predominant texture of the packaging surface, as visually observed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of visual elements (pictures or drawings) are shown on the packaging to explain preparation?",
+        "answer": "Drawings"
+      },
+      {
+        "question": "Besides the brand name, what other textual information is prominently featured on the box?",
+        "answer": "Instructions"
+      },
+      {
+        "question": "What is the color of the text used for the nutritional information section on the package?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visual style of the font used throughout the packaging text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Are there any noticeable markings or logos aside from the text and ingredient illustrations?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the packaging relative to a typical human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Describe the general condition of the packaging as shown in the provided image.",
+        "answer": "New"
+      },
+      {
+        "question": "What is the level of detail in the small graphics depicting preparation ingredients?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is the color of the text consistent throughout the different sections of the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual impression created by the packaging design \u2013 minimalist or busy?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

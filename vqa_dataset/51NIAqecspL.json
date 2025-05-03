@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c4/c4251ef1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed text regarding the drug facts?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the background color that the drug facts are displayed on?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the text block's shape, what geometric form best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the text that details the active ingredient?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the text that states the purposes of the medication?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font style used for the 'Drug Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall textual alignment of the information provided?",
+        "answer": "Left"
+      },
+      {
+        "question": "Observing the text, what is the case of the letters used for the active ingredient?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the text style for the 'Purposes' section heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the format of the information presented about the active ingredient?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on visual observation, what kind of information is shown?",
+        "answer": "Text"
+      },
+      {
+        "question": "What kind of information is provided for the purposes?",
+        "answer": "Description"
+      },
+      {
+        "question": "What is the style of the line separating the active ingredient and purposes?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the texture of the presented information, given its digital nature?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the layout style of the presented drug facts?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

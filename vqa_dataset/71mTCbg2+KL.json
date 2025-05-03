@@ -9,60 +9,60 @@
         "answer": "Red"
       },
       {
-        "question": "What is the overall shape of the protective phone case itself?",
+        "question": "What is the overall shape of the phone case being shown in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the most prominent graphic design element featured on the case?",
+        "question": "What shapes are repeatedly displayed across the phone case's surface?",
         "answer": "Hearts"
       },
       {
-        "question": "What appears to be the primary material used in the phone case's construction?",
+        "question": "What appears to be the primary material used in the construction of this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the background, what shapes besides hearts are visible?",
-        "answer": "Squares"
+        "question": "Describe the background pattern behind the larger heart shapes on the case?",
+        "answer": "Mosaic"
       },
       {
-        "question": "Describe the visual texture of the background pattern on the case?",
+        "question": "What colors are the smaller shapes within the background design of this phone cover?",
         "answer": "Multicolored"
       },
       {
-        "question": "What color are many of the smaller shapes in the background?",
-        "answer": "Red"
+        "question": "Considering the design, what is the likely intended audience for this phone case?",
+        "answer": "Romantic"
       },
       {
-        "question": "What is the style of the hearts; are they realistic or cartoonish?",
-        "answer": "Cartoonish"
-      },
-      {
-        "question": "In terms of the hearts, what kind of visual effect is created by their distribution?",
-        "answer": "Scattered"
-      },
-      {
-        "question": "Considering the phone's depiction, what is the design's overall aesthetic?",
-        "answer": "Playful"
-      },
-      {
-        "question": "Based on the image, what is the visual impression of the case's surface?",
+        "question": "What is the visual texture of the hearts depicted on this phone case?",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the appearance of the edges of the phone case shown in the image",
-        "answer": "Rounded"
+        "question": "What is the apparent finish of the phone case's external surface?",
+        "answer": "Glossy"
       },
       {
-        "question": "What seems to be the general color scheme of the background pattern?",
-        "answer": "Varied"
+        "question": "Does the phone case design feature any geometric shapes besides hearts?",
+        "answer": "Squares"
       },
       {
-        "question": "What is the apparent level of detail in the heart designs on the case?",
-        "answer": "Simple"
+        "question": "Based on the image, how many sides does the phone case appear to have?",
+        "answer": "Four"
       },
       {
-        "question": "What is suggested by the way the case is presented in the image?",
+        "question": "What is the style of the design that features prominently on this mobile case?",
+        "answer": "Cute"
+      },
+      {
+        "question": "Considering the color scheme, how would you describe the overall aesthetic?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "What is the implied function of this product shown in the image?",
         "answer": "Protection"
+      },
+      {
+        "question": "Are the hearts illustrated on the phone case uniformly sized or varied?",
+        "answer": "Varied"
       }
     ]
   }
