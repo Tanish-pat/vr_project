@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/33a8d5bc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of supplement is indicated on the label?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the specific vitamin featured prominently on the label?",
+        "answer": "E"
+      },
+      {
+        "question": "What is the dosage of the vitamin, as explicitly stated?",
+        "answer": "200"
+      },
+      {
+        "question": "What unit of measurement follows the vitamin dosage?",
+        "answer": "IU"
+      },
+      {
+        "question": "What additional ingredient is mentioned alongside the vitamin?",
+        "answer": "Tocopherols"
+      },
+      {
+        "question": "What is the shape of the supplement container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary material of the supplement container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the cap of the supplement bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall texture of the bottle's label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the type of product as stated on the label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What brand name is displayed on the label?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the number of capsules indicated?",
+        "answer": "120"
+      },
+      {
+        "question": "What is the color of the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of design elements are on the label besides text?",
+        "answer": "Floral"
+      }
+    ]
+  }
+]

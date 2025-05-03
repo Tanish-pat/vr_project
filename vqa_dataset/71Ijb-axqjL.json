@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6b69c142.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the notebook's cover design?",
+        "answer": "Coral"
+      },
+      {
+        "question": "What is the primary geometric pattern on the notebook's cover?",
+        "answer": "Polka-dots"
+      },
+      {
+        "question": "What type of binding does this notebook appear to utilize?",
+        "answer": "Spiral"
+      },
+      {
+        "question": "What material seems to be used for the notebook's cover?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What brand is prominently displayed on the notebook's cover?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Describing the overall texture of the notebook's cover, is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What shape are the reinforced holes near the binding of the notebook?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color is the brand label on the notebook's cover?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of this AmazonBasics notebook?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the cover's design, what is the overall style of the notebook?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What color are the small dots within the notebook's cover design?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the spiral binding of the notebook?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the overall size of this notebook?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent finish of the notebook's cover; glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, what is the likely function of this item?",
+        "answer": "Notetaking"
+      }
+    ]
+  }
+]

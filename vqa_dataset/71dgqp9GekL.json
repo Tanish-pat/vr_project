@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/19ada280.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the most accurate description of the bottle's shape, as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the plastic bottle predominantly showcasing in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on visual observation, what material appears to constitute the primary component of this product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What specific type of cap is affixed to the top of the bottle shown in the image?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Observing the label closely, what is the most prominent characteristic of the text's orientation on the bottle?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What color is the cap on the bottle in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding any text, what is the overall texture of the bottle as shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the size, would you describe the bottle as small, medium or large?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based solely on the visual appearance, what is the apparent condition of the bottle in the image?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the apparent finish of the bottle, glossy, matte, or satin?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Describing the label, what is the prevailing background color visible in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the bottle exhibit any noticeable scratches or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual density of the liquid inside the bottle?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent print quality of the text on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the image show any additional items besides the bottle?",
+        "answer": "No"
+      }
+    ]
+  }
+]

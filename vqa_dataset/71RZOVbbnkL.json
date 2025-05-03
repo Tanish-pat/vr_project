@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the butterflies depicted on the phone case?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Gold"
       },
       {
-        "question": "What is the background color of the phone case design?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the overall shape of the phone case itself?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What appears to be the material of the phone case's outer layer?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the primary motif or design element showcased on the phone case?",
+        "question": "What is the primary design element depicted on the phone case?",
         "answer": "Butterflies"
       },
       {
-        "question": "What is the apparent finish or texture of the butterflies in the design?",
-        "answer": "Shiny"
-      },
-      {
-        "question": "Considering the design, what is the overall aesthetic of this phone case?",
-        "answer": "Elegant"
-      },
-      {
-        "question": "What color are the smaller, less prominent butterflies on the phone case?",
+        "question": "What color are the butterflies predominantly illustrated as?",
         "answer": "Gold"
       },
       {
-        "question": "Describe the visual effect created by the smaller butterflies on the phone case?",
-        "answer": "Scattered"
+        "question": "What appears to be the base color of the phone case background?",
+        "answer": "Black"
       },
       {
-        "question": "What seems to be the level of detail in the butterfly illustrations?",
+        "question": "What material seems to be used for the outer casing of the phone cover?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the protective phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the apparent texture of the case's surface, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the design, what is the style of the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What kind of finish does the gold coloring of the butterflies seem to have?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Are there any additional design elements besides butterflies on the case?",
+        "answer": "Glitter"
+      },
+      {
+        "question": "What is the apparent level of detail in the butterfly illustrations?",
         "answer": "High"
       },
       {
-        "question": "What kind of appearance do the highlights on the butterflies give off?",
-        "answer": "Sparkly"
+        "question": "How would you describe the arrangement of the butterflies on the case?",
+        "answer": "Scattered"
       },
       {
-        "question": "What is the apparent transparency of the phone case material itself?",
+        "question": "What is the apparent level of transparency of the phone case?",
         "answer": "Clear"
       },
       {
-        "question": "What is the color of the visible cutouts or openings on the phone case?",
-        "answer": "Clear"
+        "question": "Does the phone case image show any visible buttons or ports?",
+        "answer": "Yes"
       },
       {
-        "question": "How many visible cutouts are apparent for phone functionality?",
-        "answer": "Two"
-      },
-      {
-        "question": "What can be visually determined about the phone case\u2019s construction?",
-        "answer": "Layered"
+        "question": "Judging by the image, what is the case's apparent overall aesthetic?",
+        "answer": "Elegant"
       }
     ]
   }

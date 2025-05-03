@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/31/31d3e6a0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the shoe's upper?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the material of the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describe the pattern on the shoe's outsole, considering its design elements?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the visible textures, what is the overall feel of the shoe's sole?",
+        "answer": "Grippy"
+      },
+      {
+        "question": "What seems to be the primary material of the shoe's upper section?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "What is the general shape of the shoe's overall profile?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the visible sole, what is the suggested functionality of this shoe?",
+        "answer": "Walking"
+      },
+      {
+        "question": "Considering the sole's design, what kind of surface might this shoe grip well on?",
+        "answer": "Wet"
+      },
+      {
+        "question": "What secondary color accents are visible on the shoe's sole?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the visible fastening mechanism on the shoe's upper?",
+        "answer": "Strap"
+      },
+      {
+        "question": "Judging from the image, what is the overall design style of this shoe?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Describe the texture of the upper part of the shoe's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent condition of the shoe based on the image clarity?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the shoe's sole exhibit any specific tread pattern for enhanced grip?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the design, what is the likely intended use of this type of shoe?",
+        "answer": "Sporty"
+      }
+    ]
+  }
+]
