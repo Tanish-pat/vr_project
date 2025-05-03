@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the shoe's upper?",
+        "question": "What is the dominant color of the visible upper shoe section?",
         "answer": "Gray"
       },
       {
-        "question": "What material appears to constitute the shoe's main body?",
+        "question": "What color are the laces prominently displayed on the shoe?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What appears to be the primary material of the shoe's upper?",
         "answer": "Suede"
       },
       {
-        "question": "Describe the overall shape of the shoe's profile?",
-        "answer": "High-top"
-      },
-      {
-        "question": "What is the color of the laces and the zipper pull?",
-        "answer": "Teal"
-      },
-      {
-        "question": "What type of closure mechanism is prominently displayed?",
+        "question": "What type of closure mechanism is partially visible on the shoe?",
         "answer": "Zipper"
       },
       {
-        "question": "What is the apparent texture of the shoe's upper surface?",
-        "answer": "Smooth"
+        "question": "Describe the overall shape or style of the footwear displayed?",
+        "answer": "High-top"
       },
       {
-        "question": "What color is the visible inner lining of the shoe?",
-        "answer": "Teal"
-      },
-      {
-        "question": "What design element is subtly embossed on the shoe's side?",
+        "question": "What design element is subtly embossed on the gray upper?",
         "answer": "Pattern"
       },
       {
-        "question": "What is the color of the shoe's midsole?",
+        "question": "What is the apparent color of the shoe's inner lining, partially visible?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the color of the sole visible at the shoe's base?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent material of the shoe's sole?",
-        "answer": "Rubber"
+        "question": "What appears to be the texture of the gray upper material?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the style of the laces used on the shoe?",
+        "question": "What is the style of the laces used in the shoe's lacing system?",
         "answer": "Flat"
       },
       {
-        "question": "Describe the overall design aesthetic of the shoe?",
-        "answer": "Casual"
+        "question": "What additional fastening system is visible besides the laces?",
+        "answer": "Strap"
       },
       {
-        "question": "What type of fastener, besides the zipper, is present?",
-        "answer": "Straps"
+        "question": "What is the apparent material of the sole of the shoe?",
+        "answer": "Rubber"
       },
       {
-        "question": "What is the visible branding or marking on the inside?",
+        "question": "Describe the design of the strap on the shoe's upper section",
+        "answer": "Hook-and-loop"
+      },
+      {
+        "question": "What is the visible branding on the inner side of the shoe?",
         "answer": "Skechers"
       },
       {
-        "question": "What is the apparent condition of the shoe shown?",
-        "answer": "New"
+        "question": "What is the overall impression of the shoe's style in the image?",
+        "answer": "Casual"
       }
     ]
   }

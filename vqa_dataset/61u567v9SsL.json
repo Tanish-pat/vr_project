@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/53/5371876a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material composing the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape or form factor of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible design elements, what is the case's style?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Based on the image, what is the finish of the phone case's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What secondary color accents are visible on the phone's back panel?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Can you describe the texture of the phone's back panel, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the type of the visible buttons on the side of the phone?",
+        "answer": "Physical"
+      },
+      {
+        "question": "Does the phone case seem to offer significant protection, considering its visual appearance?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Judging by the image, how would you describe the overall aesthetic of the case?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What graphic element is centrally located on the phone's rear surface?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Does the case seem to cover the entire phone's body judging from the picture?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What design style is evident in the visible logo and accents on the case?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the apparent thickness of the phone case, based on visual observation?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the image, does the case seem to provide a grip enhancement?",
+        "answer": "No"
+      }
+    ]
+  }
+]

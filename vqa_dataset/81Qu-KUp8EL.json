@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/daff3502.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary type of cheese depicted on the product packaging?",
+        "answer": "Mozzarella"
+      },
+      {
+        "question": "What is the stated preparation method of the cheese shown on the package?",
+        "answer": "Part-skim"
+      },
+      {
+        "question": "What is the moisture level indicated for the cheese on the box?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color of the background on the product's packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What certification logo is prominently displayed on the packaging?",
+        "answer": "USDA"
+      },
+      {
+        "question": "What descriptive term indicates the texture of the cheese, shown in the image?",
+        "answer": "String"
+      },
+      {
+        "question": "What is the color of the text 'Organic' on the product box?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the main color used to represent the cow illustration on the box?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What color is the top border of the product's packaging?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "What is the most prominent brand displayed on the product's packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What word describes the style of cheese shown in the image?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall color scheme of the product label, including text and illustrations?",
+        "answer": "Muted"
+      },
+      {
+        "question": "What animal is illustrated on the product's packaging?",
+        "answer": "Cow"
+      },
+      {
+        "question": "What is the texture of the main illustration on the product box, as presented in the image?",
+        "answer": "Flat"
+      }
+    ]
+  }
+]

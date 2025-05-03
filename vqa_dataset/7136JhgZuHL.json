@@ -9,60 +9,60 @@
         "answer": "White"
       },
       {
-        "question": "What are the two additional colors of sprinkles found on the cupcakes?",
+        "question": "What are the primary colors of the sprinkles adorning the cupcakes?",
         "answer": "Red"
       },
       {
-        "question": "What is the other additional color of sprinkles found on the cupcakes?",
+        "question": "What is the secondary color of the sprinkles on the cupcakes?",
         "answer": "Blue"
       },
       {
-        "question": "What is the overall shape of each individual cupcake?",
+        "question": "What is the shape of the individual cupcakes in this package?",
         "answer": "Round"
       },
       {
-        "question": "What type of container are the cupcakes packaged in?",
+        "question": "What type of container are the cupcakes presented in?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the texture of the frosting as visually apparent?",
+        "question": "What is the overall shape of the cupcake container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the frosting on the cupcakes?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent flavor of the cupcakes as indicated on the packaging?",
+        "question": "What is the flavor of the cupcakes, as indicated on the label?",
         "answer": "Vanilla"
       },
       {
-        "question": "What size are the cupcakes, as visibly indicated on the packaging?",
+        "question": "What is the size designation of these cupcakes, as seen on the packaging?",
         "answer": "Mini"
       },
       {
-        "question": "What is the visible design pattern created by the sprinkles?",
-        "answer": "Scattered"
+        "question": "What design element is prominent on the label of this package?",
+        "answer": "Stars"
       },
       {
-        "question": "What is the overall shape of the packaging tray holding the cupcakes?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the apparent brand, as visibly indicated on the packaging?",
+        "question": "What word appears prominently on the green label of the package?",
         "answer": "Fresh"
       },
       {
-        "question": "What is the indicated edition of these cupcakes?",
+        "question": "What term describes the cupcakes' edition based on the label?",
         "answer": "Limited"
       },
       {
-        "question": "What is the material of the label on the packaging?",
-        "answer": "Paper"
+        "question": "What is the presumed consistency of the cupcake filling (inside) ?",
+        "answer": "Soft"
       },
       {
-        "question": "What appears to be the main ingredient of the cupcakes?",
-        "answer": "Vanilla"
+        "question": "What is the apparent material of the package's transparent top?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the visible shape of the label?",
-        "answer": "Rectangular"
+        "question": "Considering the sprinkles, what is the suggested celebratory theme?",
+        "answer": "Patriotic"
       }
     ]
   }

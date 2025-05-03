@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0fe22de3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text indicating the butter percentage?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What language is used for the primary description of the product?",
+        "answer": "English"
+      },
+      {
+        "question": "What percentage of Swiss butter is prominently featured in the product description?",
+        "answer": "23"
+      },
+      {
+        "question": "What is the main ingredient highlighted on the product packaging?",
+        "answer": "Butter"
+      },
+      {
+        "question": "What adjective describes the origin of the butter used in the product?",
+        "answer": "Swiss"
+      },
+      {
+        "question": "What is the type of dairy product mentioned prominently on the packaging?",
+        "answer": "Butter"
+      },
+      {
+        "question": "Besides English, how many other languages are used in the product description?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the overall font style of the text in the image, describing the butter content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the casing or style of the text indicating the butter's percentage?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering the overall visual design, what is the primary color scheme in the packaging?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "What is the text weight of the main statement related to the butter percentage?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What language is used in the square bracket after 'DE'?",
+        "answer": "German"
+      },
+      {
+        "question": "What is the overall visual impression given by the information on the image?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What type of text is primarily used for additional language specifications?",
+        "answer": "SquareBracketed"
+      },
+      {
+        "question": "What is the general layout of the text information on the product packaging?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

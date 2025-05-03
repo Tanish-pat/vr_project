@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b034938f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the notebook's cover?",
+        "answer": "Coral"
+      },
+      {
+        "question": "What is the binding mechanism of this notebook?",
+        "answer": "Spiral"
+      },
+      {
+        "question": "What is the overall shape of the notebook when closed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the notebook's cover?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary material of the notebook's pages?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the pattern on the notebook's cover?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What color are the lines ruling the notebook pages?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent weight or thickness of the notebook?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What type of ruling is visible on the notebook's pages?",
+        "answer": "Lined"
+      },
+      {
+        "question": "Based on the visible holes, what is the number of page sections?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the size and features, what is the likely purpose of this notebook?",
+        "answer": "Writing"
+      },
+      {
+        "question": "Is the cover glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible brand or label on the cover?",
+        "answer": "Mead"
+      },
+      {
+        "question": "What material is the binding made of?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall visual style of the notebook cover design.",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

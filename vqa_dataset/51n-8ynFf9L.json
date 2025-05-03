@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b5691e1c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the shampoo bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the shampoo bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the shampoo container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the flip-top cap on the shampoo bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary text displayed prominently on the bottle?",
+        "answer": "Shampoo"
+      },
+      {
+        "question": "What is the color of the smaller text and design elements on the bottle?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the texture of the bottle's surface, visually apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual style of the text font used on the label.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What specific claim is highlighted regarding the shampoo's ingredients?",
+        "answer": "Plant-derived"
+      },
+      {
+        "question": "What is the shape of the logo on the shampoo bottle?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What design element appears to be below the main text on the label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What type of closure mechanism does the bottle have on its top?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Is the bottle transparent or opaque in its visual appearance?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What brand name is visible on the shampoo bottle?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "What is the general design aesthetic conveyed by the product's packaging?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

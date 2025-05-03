@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4d/4d9ffbbe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the iPad case, as shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used for the case's outer covering?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the provided image, what is the overall shape of the protective iPad case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the image, what design feature is visible on the back of the case, seemingly for holding the device?",
+        "answer": "Stand"
+      },
+      {
+        "question": "Judging from the image, how many visible sections or panels comprise the foldable front cover of the case?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent texture of the material used in the outer layer of the iPad case, as depicted in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "According to the image, what seems to be the method of closure for the front cover of the iPad case?",
+        "answer": "Fold"
+      },
+      {
+        "question": "Does the image clearly show any noticeable logos, branding, or markings on the iPad case?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent level of gloss or sheen on the case's exterior?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, does the case appear to offer complete or partial protection for the iPad's screen?",
+        "answer": "Partial"
+      },
+      {
+        "question": "What is the visual appearance of the edges of the iPad case as seen in the accompanying image?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the image of the iPad case show any visible openings, such as for the iPad's camera or ports?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the main image, what style would best characterize the design aesthetic of the iPad case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging from the image, how does the protective case seem to attach to the iPad device?",
+        "answer": "Snap"
+      },
+      {
+        "question": "Based on the provided image, does the iPad case's design include any visible decorative elements or embellishments?",
+        "answer": "No"
+      }
+    ]
+  }
+]

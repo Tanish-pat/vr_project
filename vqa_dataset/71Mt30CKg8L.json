@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted in the printed landscape?",
+        "question": "What is the dominant color scheme depicted in the scenic image on the phone case?",
         "answer": "Yellow"
       },
       {
-        "question": "What natural geographical feature is prominently displayed on the case?",
-        "answer": "Mountain"
+        "question": "What natural geological formation is prominently featured in the phone case's image?",
+        "answer": "Cliff"
       },
       {
-        "question": "What celestial body is shown setting behind the mountain range?",
+        "question": "What celestial body is shown partially obscured behind the cliff in the phone case design?",
         "answer": "Sun"
       },
       {
-        "question": "What is the apparent texture of the mountainside depicted in the image?",
+        "question": "What atmospheric phenomenon is visible above the distant mountain range on the phone case?",
+        "answer": "Mist"
+      },
+      {
+        "question": "Describe the overall texture implied by the cliff face in the phone case's scenery?",
         "answer": "Rough"
       },
       {
-        "question": "What type of vegetation is visible at the base of the rocky cliff?",
+        "question": "What type of vegetation is visible near the base of the cliff in the phone case's image?",
         "answer": "Grass"
       },
       {
-        "question": "What appears to be the overall shape of this phone case?",
-        "answer": "Rectangular"
+        "question": "What is the apparent orientation of the sun in relation to the cliff in the design?",
+        "answer": "Setting"
       },
       {
-        "question": "What is the general color of the protective phone case's border?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the image, what is the apparent material of the phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Describe the overall lighting conditions illustrated in the printed scenery.",
-        "answer": "Sunset"
-      },
-      {
-        "question": "What is the style of the photograph printed on the phone case?",
-        "answer": "Landscape"
-      },
-      {
-        "question": "What is the visual quality of the printed image on the case?",
-        "answer": "Clear"
-      },
-      {
-        "question": "What atmospheric perspective is suggested in the background of the picture?",
-        "answer": "Misty"
-      },
-      {
-        "question": "What kind of horizon line is portrayed in the background scene?",
-        "answer": "Low"
-      },
-      {
-        "question": "Describe the color of the sky near the setting sun in the image?",
+        "question": "What is the general color tone of the distant mountains in the phone case's landscape?",
         "answer": "Orange"
       },
       {
-        "question": "Is there a visible camera hole in the upper section of the printed case?",
-        "answer": "Yes"
+        "question": "What is the apparent material of the phone case itself, excluding the printed image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the printed image on the product, overall?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the general style or aesthetic of the phone case's depicted scenery?",
+        "answer": "Nature"
+      },
+      {
+        "question": "Considering the overall colors, what season does the image on the case evoke?",
+        "answer": "Autumn"
+      },
+      {
+        "question": "What is the inferred depth of field in the image printed on the case?",
+        "answer": "Deep"
+      },
+      {
+        "question": "What is the inferred distance between the viewer and the cliff in the phone case's image?",
+        "answer": "Far"
+      },
+      {
+        "question": "What is the overall form factor of the object shown in the product image?",
+        "answer": "Case"
       }
     ]
   }

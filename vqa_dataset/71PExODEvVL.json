@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6f89cde5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the telephone's body?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the telephone's base unit?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the telephone's housing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the surface texture of the telephone's keypad.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent design style of the telephone?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of display is featured on the handset?",
+        "answer": "Digital"
+      },
+      {
+        "question": "How many buttons are visibly present on the telephone's keypad?",
+        "answer": "Many"
+      },
+      {
+        "question": "What is the visible shape of the handset?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What brand name is subtly displayed on the handset?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Considering the image, is the telephone cordless or corded?",
+        "answer": "Cordless"
+      },
+      {
+        "question": "What is the apparent size of the base unit relative to the handset?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What color are the markings on the keypad?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Is there a visible indicator light or feature on the base?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the base unit have a noticeable outward curve or slope?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the keypad arranged in a standard numerical layout?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

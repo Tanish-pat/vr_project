@@ -9,7 +9,7 @@
         "answer": "Gray"
       },
       {
-        "question": "What animal is prominently featured in the design of the phone case?",
+        "question": "What animal is prominently featured in the phone case design?",
         "answer": "Elephant"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape or form factor of the phone case?",
+        "question": "What is the overall shape of the phone case, considering its form factor?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the background, what kind of environment is suggested in the case's design?",
-        "answer": "Forest"
-      },
-      {
-        "question": "What is the apparent texture of the printed image on the phone case?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Describe the lighting depicted in the background of the phone case's design?",
+        "question": "Describing the background scene, what atmospheric effect is visible?",
         "answer": "Misty"
       },
       {
-        "question": "Based on the image, what is the design style of the phone case?",
+        "question": "Considering the design, what is the artistic style of the phone case image?",
         "answer": "Photographic"
       },
       {
-        "question": "What appears to be the finish or coating of the phone case\u2019s surface?",
-        "answer": "Matte"
+        "question": "What seems to be the texture of the phone case's surface, based on the image?",
+        "answer": "Smooth"
       },
       {
-        "question": "Judging by the image, what is the level of detail in the printed design?",
-        "answer": "High"
+        "question": "What color is the side of the phone case shown in the image?",
+        "answer": "Black"
       },
       {
-        "question": "Does the image on the case appear to be a full-color photograph or illustration?",
-        "answer": "Photograph"
-      },
-      {
-        "question": "What is the position of the featured animal in the phone case\u2019s imagery?",
-        "answer": "Center"
-      },
-      {
-        "question": "What seems to be the general mood or feeling evoked by the phone case's design?",
-        "answer": "Serene"
-      },
-      {
-        "question": "What is the apparent orientation of the animal in the design of the phone case?",
+        "question": "What is the apparent orientation of the elephant in the phone case's image?",
         "answer": "Standing"
       },
       {
-        "question": "Considering the sides, what is the design style of the phone case\u2019s borders?",
-        "answer": "Subtle"
+        "question": "Considering the surroundings, where does the elephant appear to be located?",
+        "answer": "Forest"
+      },
+      {
+        "question": "What is the overall visual impression projected by the phone case's design?",
+        "answer": "Serene"
+      },
+      {
+        "question": "What type of environment is suggested by the background of the phone case?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the apparent size of the elephant relative to the phone case?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the visual details, how would you describe the image's lighting?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the most noticeable feature of the elephant in the design?",
+        "answer": "Trunk"
       }
     ]
   }

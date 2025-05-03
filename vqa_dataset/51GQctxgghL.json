@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4f9d63f5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle containing the supplement?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the container holding the dietary supplement?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the material that appears to constitute the supplement container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the prominent text on the supplement bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary color of the design element below the brand name?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the type of closure on the top of the supplement bottle?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is the color of the cap on top of the supplement bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is indicated as the number of capsules inside the container?",
+        "answer": "60"
+      },
+      {
+        "question": "What is the word prominently displayed as the product type?",
+        "answer": "Collagen"
+      },
+      {
+        "question": "What is the word displayed beneath 'Collagen', indicating the product form?",
+        "answer": "Complex"
+      },
+      {
+        "question": "What is the name of the brand as shown on the product label?",
+        "answer": "Revly"
+      },
+      {
+        "question": "What is specified as a characteristic of the supplement formulation?",
+        "answer": "Gluten-free"
+      },
+      {
+        "question": "What is printed at the bottom of the label regarding the product?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What is the type of product, as indicated on the label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the texture of the bottle's surface, as visually apparent?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

@@ -9,60 +9,60 @@
         "answer": "Gray"
       },
       {
-        "question": "Describe the overall shape of the sofa's back cushions?",
+        "question": "Describe the overall shape of the sofa's backrest and seat cushions?",
         "answer": "Rounded"
       },
       {
-        "question": "What material appears to be used for the sofa's legs?",
+        "question": "What material appears to constitute the sofa's legs?",
         "answer": "Metal"
       },
       {
-        "question": "What color are the visible wooden base elements of the sofa?",
-        "answer": "Beige"
-      },
-      {
-        "question": "Considering the upholstery, what is the apparent texture of the sofa?",
+        "question": "What is the apparent texture of the sofa's upholstery?",
         "answer": "Smooth"
       },
       {
-        "question": "How many distinct seating areas does the sofa visually possess?",
-        "answer": "Two"
+        "question": "What color is the visible trim along the sofa's base?",
+        "answer": "Beige"
       },
       {
-        "question": "What is the general style of the sofa's armrests, considering their form?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What appears to be the primary material of the sofa's cushions?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Considering the legs and base, what design aesthetic is suggested?",
+        "question": "What is the general style of the sofa's design?",
         "answer": "Modern"
       },
       {
-        "question": "Describe the overall form of the sofa's base, along its perimeter?",
-        "answer": "Rectangular"
+        "question": "How many distinct seat cushions are visibly present on the sofa?",
+        "answer": "Two"
       },
       {
-        "question": "What is the color of the sofa's metal leg supports?",
+        "question": "What is the apparent material of the trim along the sofa base?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the shape of the sofa's armrests, relative to the seat?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent finish of the metal legs?",
         "answer": "Black"
       },
       {
-        "question": "What is the visual height of the sofa's back relative to its seat?",
-        "answer": "Medium"
+        "question": "Considering the overall aesthetic, what is the sofa's likely primary function?",
+        "answer": "Seating"
       },
       {
-        "question": "What is the apparent finish of the wooden base along the bottom?",
-        "answer": "Matte"
+        "question": "Based on visible features, what is the approximate size of this sofa?",
+        "answer": "Large"
       },
       {
-        "question": "Describe the apparent thickness of the sofa's cushions overall?",
-        "answer": "Plump"
+        "question": "How would you characterize the height of the sofa's legs?",
+        "answer": "Low"
       },
       {
-        "question": "What is the apparent visual depth of the sofa's seating area?",
-        "answer": "Deep"
+        "question": "What is the apparent number of legs supporting the sofa?",
+        "answer": "Four"
+      },
+      {
+        "question": "Does the sofa appear to have any visible seams or stitching in the upholstery?",
+        "answer": "No"
       }
     ]
   }

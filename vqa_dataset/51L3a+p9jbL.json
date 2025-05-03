@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the tabletop surface, as visibly shown in the image?",
+        "question": "What is the dominant color of the circular tabletop?",
         "answer": "Brown"
       },
       {
-        "question": "What appears to be the material composition of the round tabletop?",
+        "question": "What appears to be the primary material of the tabletop?",
         "answer": "Glass"
       },
       {
-        "question": "Considering the image, what is the apparent finish of the supporting legs?",
+        "question": "What is the finish of the supporting metal legs?",
         "answer": "Gold"
       },
       {
-        "question": "Judging by the image, what seems to be the material of the legs supporting the glass top?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Based on the visible structure, what is the overall shape of the tabletop?",
+        "question": "What is the overall shape of the visible portion of the table?",
         "answer": "Round"
       },
       {
-        "question": "What is the visible texture of the glass top, based on the provided image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "From the image, what seems to be the style of the legs' design?",
-        "answer": "Cylindrical"
-      },
-      {
-        "question": "What color best describes the metallic supporting legs?",
-        "answer": "Gold"
-      },
-      {
-        "question": "What is the apparent sheen of the glass tabletop surface in the provided close-up?",
+        "question": "What kind of sheen does the glass tabletop possess?",
         "answer": "Glossy"
       },
       {
-        "question": "What kind of fastening system seems to be used for the glass to the metal legs?",
-        "answer": "Screws"
+        "question": "What is the apparent metal leg profile?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "What is the most noticeable shade present in the tabletop's reflective surface?",
-        "answer": "Bronze"
+        "question": "How many visible legs support the glass top?",
+        "answer": "Two"
       },
       {
-        "question": "How many visible legs are providing support to the tabletop?",
-        "answer": "One"
+        "question": "Describe the visible connection between the legs and the glass top.",
+        "answer": "Attached"
       },
       {
-        "question": "What is the overall visible style of this furniture piece?",
+        "question": "What is the apparent thickness of the glass top?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the texture of the metal legs?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the tabletop seem transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What color are the small visible fasteners holding the glass?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent style of the table's design?",
         "answer": "Modern"
       },
       {
-        "question": "Describe the edge profile of the glass tabletop shown in the picture.",
-        "answer": "Rounded"
+        "question": "Is the table's base design visible in the image?",
+        "answer": "Partially"
       },
       {
-        "question": "What is the apparent condition of the visible metal and glass components?",
-        "answer": "New"
+        "question": "What is the apparent overall height of the visible table portion?",
+        "answer": "Short"
       }
     ]
   }
