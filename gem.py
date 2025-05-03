@@ -105,6 +105,14 @@ def generate_vqa(image_path, metadata, output_json_path):
                         model_name="models/gemini-1.5-flash",
                         safety_settings=safety_settings,
                     )
+                elif "400" in str(e):
+                    print("⚠️ API key Expired. Rotating API key...")
+                    api_keys = rotate_api_key(api_keys)
+                    genai.configure(api_key=api_keys[0])
+                    model = genai.GenerativeModel(
+                        model_name="models/gemini-1.5-flash",
+                        safety_settings=safety_settings,
+                    )
                 else:
                     print("❌ Error during generation:", str(e))
                     return
