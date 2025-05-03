@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the heart-shaped lollipops depicted on the phone case?",
+        "question": "What is the dominant color of the depicted heart-shaped lollipops on the phone case?",
         "answer": "Red"
       },
       {
-        "question": "What appears to be the primary material of the phone case itself?",
+        "question": "What is the primary material visibly composing the protective phone case?",
         "answer": "Silicone"
       },
       {
-        "question": "What is the overall shape of the protective phone case shown?",
+        "question": "What is the overall shape of the illustrated product in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the texture of the background design printed on the phone case?",
+        "question": "What appears to be the texture of the background design printed on the case?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the visual style of the printed design on the phone case's back.",
-        "answer": "Cute"
+        "question": "What design element is prominently featured on the back of the phone case?",
+        "answer": "Lollipops"
       },
       {
-        "question": "What small textual elements are visible on the lollipops in the image?",
-        "answer": "Labels"
+        "question": "What shape are the featured lollipops on the back of the phone case?",
+        "answer": "Hearts"
       },
       {
-        "question": "What is the apparent design theme suggested by the imagery on the case?",
-        "answer": "Candy"
+        "question": "What is the apparent overall transparency of the phone case sides?",
+        "answer": "Transparent"
       },
       {
-        "question": "What is the apparent color of the sides of the phone case as visually confirmed?",
-        "answer": "Clear"
+        "question": "What small text is present on the lollipop sticks in the phone case's design?",
+        "answer": "Text"
       },
       {
-        "question": "Considering the image, what kind of finish does the phone case seem to possess?",
+        "question": "What kind of finish does the phone case appear to have based on its visual properties?",
         "answer": "Glossy"
       },
       {
-        "question": "What is the apparent shape of the individual lollipops on the phone case?",
-        "answer": "Heart"
+        "question": "What is the color of the text labels on the lollipop sticks?",
+        "answer": "Pink"
       },
       {
-        "question": "What appears to be the printing method used for the design on the case?",
-        "answer": "Digital"
+        "question": "Considering the image, does the phone case appear to be thick or thin?",
+        "answer": "Thin"
       },
       {
-        "question": "What is the suggested purpose of this product according to its image?",
+        "question": "What is the general style of the phone case design judging from the image?",
+        "answer": "Cute"
+      },
+      {
+        "question": "What seems to be the primary function of the illustrated product?",
         "answer": "Protection"
       },
       {
-        "question": "Based on the image, does the case seem to fully enclose the phone?",
+        "question": "Based on the image, does the case seem to fully cover the phone's edges?",
         "answer": "Yes"
       },
       {
-        "question": "What is the apparent style of the text printed on the lollipops?",
-        "answer": "Handwritten"
-      },
-      {
-        "question": "What is the apparent level of detail in the printed wooden background?",
-        "answer": "High"
+        "question": "Considering the visual details, is the printing on the case sharp or blurry?",
+        "answer": "Sharp"
       }
     ]
   }

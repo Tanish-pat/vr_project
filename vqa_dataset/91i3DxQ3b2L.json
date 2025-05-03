@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the fabric covering the recliner?",
-        "answer": "Beige"
-      },
-      {
-        "question": "What type of mechanism is visible on the side of the recliner for reclining?",
-        "answer": "Lever"
-      },
-      {
-        "question": "Describe the overall shape of the chair's back rest?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What is the apparent texture of the upholstery fabric?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Does the chair appear to be designed for swiveling or rotating?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the general style of this piece of furniture?",
+        "question": "What is the overarching shape of the presented furniture piece?",
         "answer": "Recliner"
       },
       {
-        "question": "What appears to be the primary material used for the chair's seating surface?",
+        "question": "What single word best describes the chair's primary color?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What fabric type appears to be used for the chair's upholstery?",
         "answer": "Fabric"
       },
       {
-        "question": "Considering the armrests, what is the design style of the chair's arms?",
-        "answer": "Curved"
+        "question": "Considering the visual texture, what is the apparent fabric weave?",
+        "answer": "Linen"
       },
       {
-        "question": "What kind of base supports the swiveling action of the chair?",
-        "answer": "Circular"
+        "question": "What mechanical feature is clearly visible on the armrest?",
+        "answer": "Lever"
       },
       {
-        "question": "Based on its visual appearance, what is the approximate size of the chair?",
-        "answer": "Large"
+        "question": "Does the chair possess a swivel mechanism, evident from the image?",
+        "answer": "Yes"
       },
       {
-        "question": "Describe the color of the small handle/lever on the side of the chair?",
-        "answer": "Dark"
-      },
-      {
-        "question": "What is the apparent overall design of this furniture piece?",
+        "question": "What is the predominant design style showcased by this chair?",
         "answer": "Modern"
       },
       {
-        "question": "What seems to be the construction material of the chair's frame?",
+        "question": "What is the visible material composition of the chair's base?",
         "answer": "Metal"
       },
       {
-        "question": "Considering the back and seat cushions, what would you describe the overall form?",
-        "answer": "Plush"
+        "question": "Considering its shape and size, what is this chair's intended function?",
+        "answer": "Seating"
       },
       {
-        "question": "Observing the seams, what would you characterize the stitching quality?",
-        "answer": "Neat"
+        "question": "Based on the image, is the chair's padding visibly thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the apparent material of the armrest's accent detail?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What word describes the visual feel of the upholstery texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual condition of the chair's overall finish?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Describe the overall aesthetic of the piece\u2014minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What single word best describes the chair's backrest design?",
+        "answer": "Rounded"
       }
     ]
   }

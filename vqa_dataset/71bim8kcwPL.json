@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case's main design element?",
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the color of the donut depicted on the case?",
         "answer": "Pink"
       },
       {
-        "question": "What baked confectionery is depicted on the phone case?",
+        "question": "What type of confectionery is featured in the phone case design?",
         "answer": "Donut"
       },
       {
-        "question": "What is the overall shape of the depicted baked good?",
-        "answer": "Circular"
+        "question": "Describe the sprinkles on the donut in terms of color variety?",
+        "answer": "Multicolored"
       },
       {
-        "question": "What color is the background of the phone case design?",
-        "answer": "LightBlue"
+        "question": "What is the apparent texture of the donut's icing, based on the image?",
+        "answer": "Glazed"
       },
       {
-        "question": "What kind of sprinkles are on the donut design?",
-        "answer": "Rainbow"
+        "question": "What shape best describes the overall form of the depicted donut?",
+        "answer": "Annular"
       },
       {
-        "question": "What appears to be the main material of the phone case?",
+        "question": "What material does the phone case appear to be made of, judging by the image?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the general texture implied by the donut's icing?",
-        "answer": "Smooth"
+        "question": "Considering the image, what is the finish of the phone case?",
+        "answer": "Matte"
       },
       {
-        "question": "Describe the visual style of the donut illustration.",
-        "answer": "Cartoonish"
-      },
-      {
-        "question": "How many sides of the phone case are shown in the image?",
+        "question": "How many sides of the phone case are shown in the provided image?",
         "answer": "Three"
       },
       {
-        "question": "What shape is the phone case itself?",
+        "question": "What is the general style of the phone case design?",
+        "answer": "Illustrative"
+      },
+      {
+        "question": "Based on its visual presentation, describe the phone case's design aesthetic?",
+        "answer": "Whimsical"
+      },
+      {
+        "question": "Considering the visual details, what is the case's form factor?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the color of the phone case's side borders?",
-        "answer": "LightBlue"
+        "question": "What is the apparent level of detail in the donut's depiction on the case?",
+        "answer": "High"
       },
       {
-        "question": "What is the apparent finish of the phone case's surface?",
-        "answer": "Matte"
+        "question": "Considering the image, does the case seem to have a raised design or a flat print?",
+        "answer": "Flat"
       },
       {
-        "question": "Considering the image, is the phone case design glossy or matte?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the central focus of the phone case design?",
-        "answer": "Donut"
-      },
-      {
-        "question": "Is there a noticeable pattern on the phone case's design?",
-        "answer": "No"
+        "question": "Judging from the visual cues, what is the general thickness of the phone case?",
+        "answer": "Slim"
       }
     ]
   }
