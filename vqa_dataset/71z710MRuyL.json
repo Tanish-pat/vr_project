@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the fabric drawers?",
+        "question": "What is the predominant color of the fabric drawers?",
         "answer": "Gray"
       },
       {
@@ -21,47 +21,47 @@
         "answer": "Black"
       },
       {
-        "question": "What is the apparent construction material of the frame?",
+        "question": "What material seems to compose the unit's frame?",
         "answer": "Metal"
       },
       {
-        "question": "What is the design style of the drawer pulls/handles?",
-        "answer": "Simple"
-      },
-      {
-        "question": "How many drawers are visibly present in the unit?",
-        "answer": "Five"
-      },
-      {
-        "question": "What is the arrangement of the drawers (horizontal/vertical)?",
-        "answer": "Horizontal"
-      },
-      {
-        "question": "What is the texture of the fabric drawer fronts?",
+        "question": "Characterize the texture of the drawer fabric?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the base, does it have visible feet or legs?",
-        "answer": "Yes"
+        "question": "How many individual drawers are visibly present?",
+        "answer": "Five"
       },
       {
-        "question": "What appears to be the finish of the metal frame?",
+        "question": "What is the style of the drawer pulls or handles?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent finish of the metal frame?",
         "answer": "Matte"
       },
       {
-        "question": "Do the drawers appear to be made from a single piece of fabric?",
-        "answer": "No"
+        "question": "Does the unit appear to have any visible feet or legs?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the overall size of the storage unit (relative to the image)?",
-        "answer": "Medium"
+        "question": "What is the arrangement of the drawers; horizontal or vertical?",
+        "answer": "Horizontal"
       },
       {
-        "question": "What is the design of the drawer pulls, considering their form?",
-        "answer": "Rectangular"
+        "question": "Is the style of the unit modern or traditional?",
+        "answer": "Modern"
       },
       {
-        "question": "Is there any visible pattern on the fabric drawer fronts?",
+        "question": "What is the size of the drawers, relatively speaking?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the image show any visible seams on the drawer fronts?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any visible branding or labeling on the unit itself?",
         "answer": "No"
       }
     ]

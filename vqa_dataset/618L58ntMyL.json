@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/26/26a09b07.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the text printed on the phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What material appears to be used for this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the style of the text on the phone case?",
+        "answer": "Handwritten"
+      },
+      {
+        "question": "What is the primary message conveyed by the text?",
+        "answer": "I'mMe"
+      },
+      {
+        "question": "Is the phone case design minimalistic or elaborate?",
+        "answer": "Minimalistic"
+      },
+      {
+        "question": "Considering the surface, what is the apparent texture of the case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show the phone case from multiple angles?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Focusing on the sides, what is the apparent thickness of the phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Based on the image, does it appear to be a hard or soft case?",
+        "answer": "Hard"
+      },
+      {
+        "question": "What type of phone model does the case appear designed for?",
+        "answer": "Xiaomi"
+      },
+      {
+        "question": "Judging by the image, does the case cover the entire phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the text on the case appear to be embossed or printed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Is there any noticeable pattern or design besides the text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the coffee table's main structure?",
+        "question": "What is the predominant color of the coffee table shown in the image?",
         "answer": "White"
       },
       {
-        "question": "What geometric shape best describes the overall form of the coffee table?",
+        "question": "Considering the overall structure, what is the geometric shape of the table's primary body?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the visible structure, what material appears to be used in its construction?",
+        "question": "Based on the visible edges and surfaces, what appears to be the material of the coffee table?",
         "answer": "Wood"
       },
       {
-        "question": "How many distinct open compartments or shelves are integrated into the coffee table design?",
+        "question": "Observing the image, how many distinct storage compartments does the coffee table possess?",
         "answer": "Two"
       },
       {
-        "question": "Describe the apparent finish or texture of the coffee table's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the most noticeable visual characteristic of the table's structural supports?",
-        "answer": "Open"
-      },
-      {
-        "question": "Based on the image, what is the apparent style of the coffee table's design?",
+        "question": "Focusing on the table's construction, what is the apparent style of the open shelving design?",
         "answer": "Minimalist"
       },
       {
-        "question": "Judging by its visual proportions, what is the coffee table's height relative to its width?",
+        "question": "Judging by the image, what is the visible finish or coating on the coffee table's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Examining the table's design, what is the visual impression of the height in relation to its length?",
         "answer": "Low"
       },
       {
-        "question": "What seems to be the primary function of the open shelves on the coffee table?",
-        "answer": "Storage"
+        "question": "Considering the open shelves, what is the visible depth of each compartment?",
+        "answer": "Shallow"
       },
       {
-        "question": "Does the coffee table feature any visible handles, knobs, or prominent hardware?",
-        "answer": "No"
+        "question": "From the image, how many visible sides of the coffee table are entirely closed?",
+        "answer": "Four"
       },
       {
-        "question": "Based on the visible structure, is the coffee table's design symmetrical or asymmetrical?",
-        "answer": "Symmetrical"
+        "question": "Observing the construction, what is the apparent style of the table's legs or base?",
+        "answer": "Legless"
       },
       {
-        "question": "Considering the overall aesthetic, would the table's style be categorized as modern or antique?",
+        "question": "Judging by the image, what is the overall visual impression of the coffee table's aesthetic?",
         "answer": "Modern"
       },
       {
-        "question": "From the image, what is the apparent thickness of the coffee table's top surface?",
-        "answer": "Thick"
+        "question": "Considering the open design, what is the visual emphasis on the coffee table's functionality?",
+        "answer": "Storage"
       },
       {
-        "question": "Does the coffee table display any visible branding, labels, or logos?",
-        "answer": "No"
+        "question": "From the image, what kind of visible texture is present on the coffee table's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the design, how would you characterize the coffee table's visual weight or presence?",
+        "question": "Based on the image, what is the apparent weight or visual mass of the coffee table?",
         "answer": "Light"
+      },
+      {
+        "question": "Considering the image's context, what is the likely intended use of this furniture piece?",
+        "answer": "Coffee"
       }
     ]
   }

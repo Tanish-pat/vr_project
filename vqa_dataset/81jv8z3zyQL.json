@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case design?",
+        "question": "What is the dominant color scheme of the depicted phone case design?",
         "answer": "Pastel"
       },
       {
-        "question": "What artistic style is predominantly featured on the phone case?",
+        "question": "What artistic style is primarily featured on the phone case's surface?",
         "answer": "Graffiti"
       },
       {
-        "question": "What type of surface is depicted in the background of the phone case's design?",
-        "answer": "Brick"
+        "question": "Considering the overall aesthetics, what is the predominant design theme?",
+        "answer": "Science"
       },
       {
-        "question": "What is the shape of the depicted molecules in the design?",
-        "answer": "Spherical"
-      },
-      {
-        "question": "What appears to be floating amongst the clouds in the artwork?",
+        "question": "What specific chemical structures are illustrated in the phone case's artwork?",
         "answer": "Molecules"
       },
       {
-        "question": "What color are the clouds depicted in the phone case design?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "What is the overall texture implied by the case's design?",
+        "question": "Describe the texture implied by the brick-like background in the design.",
         "answer": "Rough"
       },
       {
-        "question": "What kind of design elements are included besides clouds and molecules?",
-        "answer": "Geometric"
+        "question": "What is the geometric shape of the illustrated structures in the design?",
+        "answer": "Three-dimensional"
       },
       {
-        "question": "What is the primary color of the brickwork in the phone case design?",
-        "answer": "LightBlue"
+        "question": "What color are the stylized clouds depicted in the phone case artwork?",
+        "answer": "Yellow"
       },
       {
-        "question": "Besides brickwork and clouds, what other element is prominently featured?",
-        "answer": "Molecules"
-      },
-      {
-        "question": "What color are the larger molecules in the phone case design?",
-        "answer": "Grey"
-      },
-      {
-        "question": "What is the apparent material of the depicted phone case?",
+        "question": "What is the apparent material of the phone case itself, based on image features?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the implied form factor of the device the case fits?",
-        "answer": "Phone"
-      },
-      {
-        "question": "What seems to be the style of the depicted molecules?",
-        "answer": "Artistic"
-      },
-      {
-        "question": "What is suggested by the design's overall color palette?",
+        "question": "Considering the design, what is the overall aesthetic mood evoked?",
         "answer": "Playful"
+      },
+      {
+        "question": "Based solely on the visual information, what appears to be the primary color of the brickwork?",
+        "answer": "Light-blue"
+      },
+      {
+        "question": "Describe the visible surface finish or texture of the case in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general shape of the item shown in this product image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the design, what is the implied style or aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What type of image is used predominantly across the phone case design?",
+        "answer": "Drawing"
+      },
+      {
+        "question": "What color are the majority of the molecules depicted on the case?",
+        "answer": "Gray"
       }
     ]
   }

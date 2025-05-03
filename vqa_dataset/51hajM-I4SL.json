@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the lamp's body and base?",
+        "question": "What is the predominant color of the desk lamp's body?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material used in the lamp's construction?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Describe the overall shape of the lamp's base.",
+        "question": "What is the overall shape of the lamp's base?",
         "answer": "Circular"
       },
       {
-        "question": "What type of switch mechanism is visibly present on the lamp?",
+        "question": "What material appears to constitute the lamp's structure?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What type of switch is integrated into the lamp's base?",
         "answer": "Rotary"
       },
       {
-        "question": "What electrical component is integrated into the lamp's base?",
-        "answer": "Outlet"
-      },
-      {
-        "question": "What is the apparent finish of the lamp's metallic surfaces?",
+        "question": "Describing the finish, what is the apparent surface texture?",
         "answer": "Matte"
       },
       {
-        "question": "How would you characterize the texture of the lamp's base?",
-        "answer": "Smooth"
+        "question": "What electrical feature is visible on the lamp's base?",
+        "answer": "Outlet"
       },
       {
-        "question": "Considering the lamp's design, what is its most likely intended use?",
-        "answer": "Desk"
-      },
-      {
-        "question": "What is the shape of the lamp's main supporting shaft?",
+        "question": "What is the visible configuration of the lamp's support pole?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What is the general style of the lamp's design?",
+        "question": "What is the apparent style of the lamp's design?",
         "answer": "Minimalist"
       },
       {
-        "question": "What type of cord is attached to the lamp's base?",
-        "answer": "Power"
+        "question": "Considering the base, what is its relative size compared to the pole?",
+        "answer": "Wide"
       },
       {
-        "question": "Based on the image, is the lamp shade included?",
-        "answer": "No"
+        "question": "What is the apparent method of power connection for this lamp?",
+        "answer": "Corded"
       },
       {
-        "question": "Describe the visible connection between the lamp's base and shaft.",
-        "answer": "Seamless"
+        "question": "Based on appearance, what kind of light source does this lamp seem to support?",
+        "answer": "Bulb"
       },
       {
-        "question": "Does the lamp's base exhibit any noticeable markings?",
-        "answer": "No"
+        "question": "Observing the base, what is its apparent height compared to the pole?",
+        "answer": "Low"
       },
       {
-        "question": "What is the apparent position of the rotary switch on the base?",
-        "answer": "Side"
+        "question": "What is the visible orientation of the lamp's power cord?",
+        "answer": "Lateral"
+      },
+      {
+        "question": "What is the overall visual impression of the lamp's design aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by appearance, what is the likely intended use of this lamp?",
+        "answer": "Desk"
       }
     ]
   }

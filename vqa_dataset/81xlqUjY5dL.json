@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d8303015.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible upholstery fabric?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the apparent texture of the fabric covering the main body?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What material appears to constitute the square-shaped legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the furniture piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the legs, what is the apparent height relative to the seat?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the visible color of the wooden support components?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the general style of the visible upholstery, simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the fabric's weave, is it visibly loose or tightly woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the shape of the individual supporting legs?",
+        "answer": "Square"
+      },
+      {
+        "question": "Regarding the legs, what is their finish, glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible pattern in the upholstery fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by the image, does the fabric look plush or thin?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Based on the visible image, what seems to be the main material used?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What kind of visible seams or stitching is present in the upholstery?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the visible construction of the seating element's edges?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the clock's outer frame?",
+        "question": "What is the predominant color of the wall clock's outer frame?",
         "answer": "Black"
       },
       {
-        "question": "What color are the decorative cutouts on the clock face?",
-        "answer": "Brown"
+        "question": "What is the color of the main clock face, the area displaying the numbers?",
+        "answer": "Beige"
       },
       {
-        "question": "What is the overall shape of the clock?",
-        "answer": "Round"
-      },
-      {
-        "question": "What material appears to be used for the clock's face?",
+        "question": "What material appears to constitute the clock's decorative border?",
         "answer": "Wood"
       },
       {
-        "question": "What style are the numerals on the clock face?",
-        "answer": "Arabic"
+        "question": "Describe the overall shape of the presented wall clock.",
+        "answer": "Round"
       },
       {
-        "question": "What is the apparent material of the clock's bezel?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Describe the pattern of the decorative cutouts.",
+        "question": "What is the style of the decorative cut-out pattern encircling the clock face?",
         "answer": "Floral"
       },
       {
-        "question": "What type of hands does the clock possess?",
+        "question": "What color are the decorative cut-out elements on the clock face?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What type of hands are used to indicate the time on this timepiece?",
         "answer": "Simple"
       },
       {
-        "question": "What is the brand name visible on the clock face?",
-        "answer": "SOLMO"
+        "question": "What is the apparent material of the clock hands themselves?",
+        "answer": "Metal"
       },
       {
-        "question": "What is the color of the numbers on the clock face?",
-        "answer": "Black"
+        "question": "What is the general design aesthetic of the presented clock, considering its pattern and color?",
+        "answer": "Ornate"
       },
       {
-        "question": "What is the general design aesthetic of the clock?",
-        "answer": "Modern"
+        "question": "Considering the image, what numbers are visibly displayed on the clock face?",
+        "answer": "Arabic"
       },
       {
-        "question": "Does the clock face show any visible texture?",
-        "answer": "Yes"
+        "question": "What is the brand name subtly displayed on the clock's face?",
+        "answer": "Solmo"
       },
       {
-        "question": "What is the apparent finish of the outer frame?",
+        "question": "What is the visible texture of the clock's outer frame, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the style of the numerals on the clock's face in terms of their font or typeface.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based solely on the visual presentation, what seems to be the apparent manufacturing technique for the decorative elements?",
+        "answer": "Laser-cut"
+      },
+      {
+        "question": "What is the general appearance of the clock's surface finish, given the image?",
         "answer": "Matte"
-      },
-      {
-        "question": "How many numbers are displayed on the clock face?",
-        "answer": "Twelve"
-      },
-      {
-        "question": "What is the primary function of this object?",
-        "answer": "Timekeeping"
       }
     ]
   }
