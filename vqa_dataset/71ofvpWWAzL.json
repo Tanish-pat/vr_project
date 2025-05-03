@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cd9c07e5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the corner shelving unit, as shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image, what appears to be the dominant material used in the construction of this shelf?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Based on the visual representation, what is the overall shape or configuration of the presented shelving unit?",
+        "answer": "Spiral"
+      },
+      {
+        "question": "Judging from the provided image, how many individual shelves comprise this corner shelving unit?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the apparent design style or aesthetic of the shelving unit in the provided image?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the orientation of the shelves in this image; how are they arranged in relation to a corner?",
+        "answer": "Corner"
+      },
+      {
+        "question": "Describe the curvature of each individual shelf on the corner unit shown in the image.",
+        "answer": "Curved"
+      },
+      {
+        "question": "From the image, what seems to be the overall finish of the shelves; gloss, matte etc.?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent depth of each individual shelf of the corner shelving unit shown?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Judging by the image, what is the visible structural support of the corner shelf unit?",
+        "answer": "None"
+      },
+      {
+        "question": "From the visual evidence, what is the apparent texture of the shelving unit's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any visible hardware or fixing elements on the shelving unit?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general appearance of the wood grain on the shelves as visually observed?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering only the visual information, does this shelving unit include any decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection of the image, is the shelving unit assembled or unassembled?",
+        "answer": "Assembled"
+      }
+    ]
+  }
+]

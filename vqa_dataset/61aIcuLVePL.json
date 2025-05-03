@@ -9,60 +9,60 @@
         "answer": "Blue"
       },
       {
-        "question": "What uppercase letter is centrally featured on the phone case design?",
+        "question": "What letter is centrally featured in a bold, serif typeface?",
         "answer": "N"
       },
       {
-        "question": "What metallic color are the decorative flourishes bordering the central letter?",
+        "question": "What metallic color outlines the central design element on the case?",
         "answer": "Gold"
       },
       {
-        "question": "What appears to be the primary material of this phone case?",
-        "answer": "Plastic"
+        "question": "What is the apparent texture of the gold design elements?",
+        "answer": "Swirled"
       },
       {
-        "question": "What is the overall shape of the phone case in this image?",
+        "question": "What is the overall shape of the protective phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent finish of the background color in this image?",
-        "answer": "Matte"
+        "question": "What seems to be the material of the phone case's transparent border?",
+        "answer": "Plastic"
       },
       {
-        "question": "Describe the style of the decorative elements surrounding the letter?",
+        "question": "What is the style of the decorative flourishes surrounding the letter?",
         "answer": "Floral"
       },
       {
-        "question": "What color is the small logo visible near the top of the phone case?",
+        "question": "What color is the small logo visible near the top of the case?",
         "answer": "Red"
       },
       {
-        "question": "What is the general aesthetic of the phone case design, for example, modern or classic?",
-        "answer": "Classic"
+        "question": "What is the apparent finish of the primary blue background color?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the apparent level of shine or gloss on the gold accents?",
-        "answer": "Glossy"
+        "question": "What type of design best describes the artistic style of the decoration?",
+        "answer": "Ornate"
       },
       {
-        "question": "Considering the design, what is the likely intended audience for this product?",
-        "answer": "Adults"
+        "question": "What is the color of the letter prominently displayed in the center?",
+        "answer": "Beige"
       },
       {
-        "question": "What kind of printing technique seems to be used for the phone case's design?",
-        "answer": "Digital"
-      },
-      {
-        "question": "What is the apparent thickness of the phone case's protective layer?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Considering the case's design and materials, what is its implied purpose?",
+        "question": "Considering the image, what seems to be the case's primary function?",
         "answer": "Protection"
       },
       {
-        "question": "Excluding the letter, what is the most repeating visual element on the case?",
-        "answer": "Swirls"
+        "question": "What is the apparent level of detail in the decorative elements?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the background color display any visible patterns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the background's apparent texture beyond the main color.",
+        "answer": "Patterned"
       }
     ]
   }

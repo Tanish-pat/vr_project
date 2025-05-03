@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the fabric drawer shown?",
+        "question": "What is the predominant color of the fabric used in the depicted closet organizer?",
         "answer": "Gray"
       },
       {
-        "question": "What appears to be the primary material of the hanging storage unit?",
+        "question": "What appears to be the primary material of the hanging organizer's main body?",
         "answer": "Fabric"
       },
       {
-        "question": "Considering the visible construction, what is the overall shape of the storage component?",
+        "question": "Considering the visible construction, what is the overall shape of the displayed storage compartment?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of texture does the visible fabric of the drawer seem to possess?",
-        "answer": "Non-woven"
-      },
-      {
-        "question": "Judging by the image, what seems to be the function of the white fabric insert?",
-        "answer": "Reinforcement"
-      },
-      {
-        "question": "Based on the visible design elements, how is the drawer attached to the rod?",
-        "answer": "Sliding"
-      },
-      {
-        "question": "What is the apparent color of the rod or support structure for the drawer?",
-        "answer": "Black"
-      },
-      {
-        "question": "What appears to be the material of the visible support rod or bar?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Looking at the image, what design feature is visible on the side of the drawer?",
-        "answer": "Seams"
-      },
-      {
-        "question": "From the provided image, what type of fastening is visible on the drawer?",
-        "answer": "None"
-      },
-      {
-        "question": "What is the visible texture of the gray fabric section of the storage unit?",
+        "question": "Based on the image, what seems to be the texture of the outer fabric component?",
         "answer": "Smooth"
       },
       {
-        "question": "What kind of design element is apparent on the corner of the gray fabric section?",
-        "answer": "Fold"
+        "question": "What color is the visible reinforcing or stiffening material inside the hanging section?",
+        "answer": "White"
       },
       {
-        "question": "Observing the image, what material seems to reinforce the top edge of the drawer?",
-        "answer": "Fabric"
+        "question": "Judging by the image, what type of fastener is used to attach the organizer to the rod?",
+        "answer": "Hooks"
       },
       {
-        "question": "What appears to be the overall weight of the storage component displayed?",
-        "answer": "Light"
+        "question": "What is the visible material of the closet rod or support shown in the picture?",
+        "answer": "Metal"
       },
       {
-        "question": "What is the visible fastening mechanism for the white fabric piece?",
+        "question": "What is the apparent design element on the visible inner section of the storage container?",
         "answer": "Stitching"
+      },
+      {
+        "question": "From the image, what seems to be the functionality of the shown component?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering the visible details, how would you describe the overall design style of the storage unit?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visible construction method of the attached fabric sections of the shown item?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "What is the apparent finish of the closet rod shown in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What seems to be the visible number of compartments in this particular closet organizer view?",
+        "answer": "One"
+      },
+      {
+        "question": "Based solely on visual observation, what is the apparent thickness of the fabric?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by the provided close-up, what seems to be the main purpose of the white fabric reinforcement?",
+        "answer": "Support"
       }
     ]
   }

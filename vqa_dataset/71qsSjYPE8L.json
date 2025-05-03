@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ade7bfaf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the charging cable shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of connector is present at one end of the cable?",
+        "answer": "USB"
+      },
+      {
+        "question": "What type of connector is visible at the other end of the cable?",
+        "answer": "Lightning"
+      },
+      {
+        "question": "What appears to be the material of the cable's outer sheath?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the cable's outer covering near the connectors?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "What is the overall shape of the cable when it's coiled on a flat surface?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the cable's length, what would you describe its general form?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the apparent condition of the cable; is it new or worn?",
+        "answer": "New"
+      },
+      {
+        "question": "Focusing on the USB connector end, what is the overall color?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visible finish of the metallic parts of both connectors?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what is the cable's primary function, according to its design?",
+        "answer": "Charging"
+      },
+      {
+        "question": "What seems to be the manufacturing quality of the cable based on the image?",
+        "answer": "High"
+      },
+      {
+        "question": "What small details are present on the outer layer of the cable besides the ribbed texture?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the cable's flexibility suggested by its curvature in the image?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the image, what is the cable's approximate thickness?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

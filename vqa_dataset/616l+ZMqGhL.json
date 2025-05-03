@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5afcf856.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the background on which the world map is displayed?",
+        "answer": "Black"
+      },
+      {
+        "question": "What metallic color is used for the world map's geographical details?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the overall shape of the presented cartographic item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of map is depicted, showing the entire planet?",
+        "answer": "World"
+      },
+      {
+        "question": "What appears at the bottom of the map, resembling a reference or index?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What navigational tool is subtly featured in a corner of the map?",
+        "answer": "Compass"
+      },
+      {
+        "question": "What seems to be the texture of the gold-colored map elements?",
+        "answer": "Scratch-off"
+      },
+      {
+        "question": "What is the apparent material of this product, considering its flat nature?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the image, what style could best describe the overall aesthetic?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "Considering its design, what is the intended function of this item?",
+        "answer": "Travel"
+      },
+      {
+        "question": "What is the visual effect created by the contrast between the gold and black?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Is there a noticeable border surrounding the map itself?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What level of detail is shown in the depiction of geographical features?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the map depict landmasses and bodies of water accurately?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the grid at the bottom, what is its likely purpose?",
+        "answer": "Reference"
+      }
+    ]
+  }
+]

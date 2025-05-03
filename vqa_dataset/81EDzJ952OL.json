@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd319abc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the coffee table's upholstery?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to be used for the table's top surface?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the overall shape of the coffee table's body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many drawers are visibly present on the coffee table?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent material of the drawer pulls or handles?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What design element is visible along the edges of the tabletop?",
+        "answer": "Studs"
+      },
+      {
+        "question": "Does the coffee table include an open lower shelf for storage?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general style or aesthetic of this coffee table?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the material, what would you describe the texture of the tabletop?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the visible color of the metal accents on the drawers?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the approximate number of visible studs along each table edge?",
+        "answer": "Many"
+      },
+      {
+        "question": "Characterize the shape of the drawers themselves.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the overall height of the coffee table relative to its length.",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the apparent construction of the coffee table's legs?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image, what could the table's main function be?",
+        "answer": "Storage"
+      }
+    ]
+  }
+]

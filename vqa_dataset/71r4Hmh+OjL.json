@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d7/d721ed2c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case's background?",
+        "answer": "White"
+      },
+      {
+        "question": "What text is prominently displayed on the phone case?",
+        "answer": "Magic"
+      },
+      {
+        "question": "What material appears to make up the letters on the case?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the arrangement of the words on the phone case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What color are the letters spelling out the phrase?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What kind of letters are used to display the words?",
+        "answer": "Tiles"
+      },
+      {
+        "question": "Considering the overall design, what is the phone case's style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent texture of the background of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the phone case's finish, considering the image's quality?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How many words are displayed on the phone case's surface?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the approximate size of each letter tile on the case?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the visible casing material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the side shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what seems to be the printing technique used?",
+        "answer": "Digital"
+      }
+    ]
+  }
+]

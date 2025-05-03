@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3cc853c7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rug's main field?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What color is the border that surrounds the rug's central area?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the rug as presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the texture, what is the apparent feel of the rug's surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the rug's border style; is it solid or patterned?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent thickness or pile height of the rug's fibers?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the general visual appearance of the rug's weave or texture?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the image, what material appears most likely to be used?",
+        "answer": "Wool"
+      },
+      {
+        "question": "What is the width of the border in comparison to the main field?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Does the rug's color appear to have any variations or inconsistencies?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's perspective, what is the apparent rug's orientation?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the rug show any visible visible fraying or damage?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual level of gloss or sheen on the rug's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent style of the rug based on visual appearance?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What design elements are visible besides the main color and border?",
+        "answer": "None"
+      }
+    ]
+  }
+]

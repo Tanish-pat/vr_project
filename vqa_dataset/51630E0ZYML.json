@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the metal frame?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What is the overall shape of the seating area?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What is the style of the decorative metalwork?",
+        "question": "What is the overarching style of the decorative metalwork on the bench?",
         "answer": "Floral"
       },
       {
-        "question": "What material appears to compose the seat cushion?",
-        "answer": "Fabric"
+        "question": "What primary color describes the metal frame of this outdoor bench?",
+        "answer": "Gray"
       },
       {
-        "question": "What is the apparent material of the bench's frame?",
-        "answer": "Metal"
+        "question": "What material appears to constitute the primary structure of the bench?",
+        "answer": "Aluminum"
       },
       {
-        "question": "What color is the fabric of the seat cushion?",
+        "question": "What is the predominant texture of the seat cushion fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "What color is the fabric covering the seat cushions of the bench?",
         "answer": "Beige"
       },
       {
-        "question": "Describe the texture of the metal frame's surface?",
-        "answer": "Smooth"
+        "question": "Considering the design, what is the likely intended use of this seating?",
+        "answer": "Outdoor"
       },
       {
-        "question": "How many armrests does the bench possess?",
+        "question": "What shape best describes the overall form of the bench's back?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Describe the shape of the armrests on either side of this bench?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent finish of the metal framework on the bench?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How many cushions are visibly present on this particular bench?",
         "answer": "Two"
       },
       {
-        "question": "What is the general design aesthetic of the bench?",
+        "question": "What is the general design aesthetic of the bench's metalwork?",
         "answer": "Ornate"
       },
       {
-        "question": "Does the bench appear to have any visible welds?",
-        "answer": "No"
+        "question": "What is the orientation of the bench's seat relative to the ground?",
+        "answer": "Horizontal"
       },
       {
-        "question": "What is the visible orientation of the leg supports?",
-        "answer": "Slightlycurved"
-      },
-      {
-        "question": "Describe the pattern of the decorative metalwork?",
-        "answer": "Swirls"
-      },
-      {
-        "question": "What is the apparent thickness of the metal frame?",
-        "answer": "Moderate"
-      },
-      {
-        "question": "What is the apparent height of the back rest?",
-        "answer": "Moderate"
-      },
-      {
-        "question": "How many visible decorative elements are on each side of the back?",
+        "question": "Considering the design, what is the seating capacity of this bench?",
         "answer": "Two"
+      },
+      {
+        "question": "What kind of feet support the bench's frame at its base?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What seems to be the construction method of the frame, based on its visible joints?",
+        "answer": "Welded"
       }
     ]
   }

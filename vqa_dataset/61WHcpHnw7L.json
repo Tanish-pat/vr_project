@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cf/cf92e1b2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted footwear?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material composing the slide's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the overall shape of the sandal's footbed, considering its outline and curves?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible construction, what type of footwear is shown in the image?",
+        "answer": "Slides"
+      },
+      {
+        "question": "Focusing on the upper part, what design feature is prominently displayed across the strap?",
+        "answer": "Cutouts"
+      },
+      {
+        "question": "What is the apparent texture of the sandal's outer sole, based on visual inspection?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the sole's structure, is it noticeably thick or thin in relation to the slide's upper?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Based on the image, does the sole seem to have a patterned or a uniform surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Observing the strap's connection to the footbed, how would you characterize the joinery style?",
+        "answer": "Seamless"
+      },
+      {
+        "question": "Analyzing the insole's visual attributes, what is its apparent texture or finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall design, would you classify the slides as minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the general appearance of the visible branding or markings on the footbed?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Judging by the visual profile of the footbed, is it noticeably contoured or flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent finish of the outer material, is it glossy, matte or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the construction, how would you describe the visible stitching or seams on the upper?",
+        "answer": "Hidden"
+      }
+    ]
+  }
+]

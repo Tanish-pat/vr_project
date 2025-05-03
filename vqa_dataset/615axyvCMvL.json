@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5fd6e1d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color used extensively throughout the labeling of this laundry powder container, as prominently displayed in the text and hazard warnings?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall design, what is the predominant shape of the packaging depicted in this image, assuming a flat, rectangular container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual cues, what is the net weight of the laundry detergent powder contained within this package, as clearly indicated in bold lettering?",
+        "answer": "2.6kg"
+      },
+      {
+        "question": "Focusing on the upper left quadrant, what type of symbol, conveying safety precautions, is displayed using a prominent diamond shape and black-and-red color scheme?",
+        "answer": "Hazard"
+      },
+      {
+        "question": "What is the apparent texture of the information printed on this laundry powder packaging, based on its visual clarity and lack of apparent irregularities?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the style, what is the general typeface used for the majority of the text present on the laundry powder packaging in this image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of informational categories, what is the heading placed at the bottom of the packaging, encompassing details of the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Looking at the visual layout, what is the descriptive term used to label the set of instructions regarding the product's post-usage care, clearly presented in a boxed section?",
+        "answer": "Care"
+      },
+      {
+        "question": "What is the apparent material of the packaging for this product, considering the surface appears to be non-textured and reflective of the printed content?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the section heading before the list of components making up this laundry powder, as clearly visible on the product packaging?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the general tone of the text on the laundry product packaging, in terms of whether the information provided is concise and directly informative?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the type of product denoted by the prominent labeling and descriptive text visible on the container in this image?",
+        "answer": "Detergent"
+      },
+      {
+        "question": "What is the explicit term used to specify instructions related to the appropriate conditions for storing this laundry powder, as explicitly marked?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Referring to the product packaging, what is the category of this product, clearly identified using easily visible wording?",
+        "answer": "Laundry"
+      },
+      {
+        "question": "What is the grammatical case and number of the prominent textual element on the label that indicates the weight of the contents?",
+        "answer": "Singular"
+      }
+    ]
+  }
+]

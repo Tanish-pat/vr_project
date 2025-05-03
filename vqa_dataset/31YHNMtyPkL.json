@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual appearance, what is the dominant textual characteristic of this item?",
+        "question": "Considering the overall presentation, what is the primary visual characteristic of this item?",
         "answer": "Linear"
       },
       {
-        "question": "Based on the visual pattern, what is the primary mode of information presentation?",
-        "answer": "Textual"
-      },
-      {
-        "question": "Examining the image, what best describes the density of the presented text?",
-        "answer": "High"
-      },
-      {
-        "question": "If one were to categorize the style of lettering, what descriptive term would best apply?",
-        "answer": "Uniform"
-      },
-      {
-        "question": "Given its structural composition, what can be deduced about the format of this item?",
-        "answer": "Printed"
-      },
-      {
-        "question": "Discerning the visual features, what appears to be the surface material of this product?",
-        "answer": "Paper"
-      },
-      {
-        "question": "Based on its visual aspects, what is the apparent physical state of this product?",
-        "answer": "Flat"
-      },
-      {
-        "question": "Judging solely by the image, how would one characterize the general orientation of the text?",
-        "answer": "Horizontal"
-      },
-      {
-        "question": "Analyzing the visual design, what is the predominant color observed across the item?",
+        "question": "Observing the image closely, what appears to be the dominant color palette used in the design?",
         "answer": "Gray"
       },
       {
-        "question": "What would you describe as the most visually striking aspect of this product?",
-        "answer": "Stripes"
-      },
-      {
-        "question": "Considering the visual appearance, how could the item's texture be best described?",
+        "question": "Based on the visual texture, what is the apparent surface quality of the majority of this product?",
         "answer": "Smooth"
       },
       {
-        "question": "In terms of its visual components, what is the primary form of the item?",
+        "question": "Focusing on the composition of the visual, can you describe the primary geometric form of the item presented?",
         "answer": "Rectangular"
       },
       {
-        "question": "Judging from its visual elements, how would you classify the information display within the product?",
-        "answer": "Dense"
+        "question": "Analyzing the details shown, what can you describe the primary visible elements of the product?",
+        "answer": "Text"
       },
       {
-        "question": "Analyzing its visual appearance, what is the product's likely intended function?",
-        "answer": "Label"
+        "question": "Examining the presented material, what is the apparent material from which this item seems to be made?",
+        "answer": "Paper"
       },
       {
-        "question": "Considering its visual features, what best describes the item's overall legibility?",
-        "answer": "Low"
+        "question": "Based on the visible details, what can be observed regarding the product's overall dimensions?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Observing the text's visual attributes, can you describe the apparent typeface used in the label's design?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the product's image and its apparent texture, is this item matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual attributes, what is the discernible print quality of the text on the item shown?",
+        "answer": "High"
+      },
+      {
+        "question": "From the image's visual characteristics, what can you say about the apparent thickness of this product?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Examining the text's layout in the image, what is the apparent alignment of the text on the product?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging by the image, what seems to be the overall condition of the item displayed?",
+        "answer": "New"
+      },
+      {
+        "question": "From the visual information, what is the apparent style of the text present on the product?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Based on the visible details, what is the overall visual impression of the item presented?",
+        "answer": "Simple"
       }
     ]
   }

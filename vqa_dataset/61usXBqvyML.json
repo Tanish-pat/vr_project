@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/24140650.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme visually dominating the product advertisement, as shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the visual elements, what is the overall style or aesthetic of the product's branding, as depicted in the image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, what is the dominant text color used for product information and branding, as presented visually?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most prominent logo visible on the advertising material in the image?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Describe the typeface or font style used for the product name 'basic@care', as visually apparent in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what is the general shape of the design elements (like the wavy lines) used in the background?",
+        "answer": "Curved"
+      },
+      {
+        "question": "From the visual representation, what appears to be the main function or purpose of this product, based on the text?",
+        "answer": "Relief"
+      },
+      {
+        "question": "What is the visual texture or finish of the background behind the text in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the Amazon logo visually displayed in the advertisement?",
+        "answer": "Smile"
+      },
+      {
+        "question": "What design element is repeatedly used within the background of the image, aside from the wavy lines?",
+        "answer": "Plus"
+      },
+      {
+        "question": "Describe the visual style of the plus signs incorporated into the background design of the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What language, besides English, is visibly used in the text displayed on the image?",
+        "answer": "German"
+      },
+      {
+        "question": "Considering the color palette, what additional tone complements the main green hue used in the background?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the apparent overall feel or impression created by the color scheme in the image?",
+        "answer": "Soothing"
+      },
+      {
+        "question": "Based on the visual representation, what is the style of the advertising text's presentation; is it formal or informal?",
+        "answer": "Informal"
+      }
+    ]
+  }
+]
