@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the dominant shape of this footwear item, as seen in the provided image?",
-        "answer": "Slipper"
+        "question": "Considering the overall design, what is the predominant style of this slipper?",
+        "answer": "Casual"
       },
       {
-        "question": "Focusing on the upper material, what textile appears to be the primary component of the slipper's construction, as visually apparent?",
-        "answer": "Suede"
-      },
-      {
-        "question": "Observing the color palette, what single word best encapsulates the predominant shade of the slipper's body?",
+        "question": "What color best describes the main body of the slipper?",
         "answer": "Brown"
       },
       {
-        "question": "Examining the design element at the top, what is the descriptive term for the decorative stitch or trim around the edge?",
-        "answer": "Braiding"
+        "question": "Observing the material closely, what appears to be the primary textile used?",
+        "answer": "Suede"
       },
       {
-        "question": "Regarding the sole's visual characteristics, what is the most apparent material composition of the slipper's base?",
+        "question": "Focusing on the upper part, what type of stitching or trim decorates the edge?",
+        "answer": "Braided"
+      },
+      {
+        "question": "What is the shape of the slipper\u2019s sole, looking from the side?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Analyzing the sole\u2019s color, what shade is most prominent?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the texture, how would you describe the surface of the upper?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What seems to be the material of the slipper's sole?",
         "answer": "Rubber"
       },
       {
-        "question": "Analyzing the texture of the upper material, what tactile quality is primarily conveyed by the appearance of the suede?",
-        "answer": "Napped"
+        "question": "Describe the pattern of the decorative stitching on the slipper's upper.",
+        "answer": "Geometric"
       },
       {
-        "question": "What is the overall visual impression of the slipper's color?",
+        "question": "What is the overall design of the slipper?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the slipper's construction, is it a closed or open-toe design?",
+        "answer": "Closed"
+      },
+      {
+        "question": "What colors are incorporated into the decorative stitching on the upper?",
         "answer": "Tan"
       },
       {
-        "question": "Based on the image, what is the most striking feature in the design of the slipper?",
-        "answer": "Stitching"
+        "question": "Is the slipper's sole flexible or rigid in appearance?",
+        "answer": "Flexible"
       },
       {
-        "question": "From the image, what can be seen as the slipper's construction?",
-        "answer": "Seamless"
+        "question": "Judging by the slipper's form, what is its most likely intended use?",
+        "answer": "Indoor"
       },
       {
-        "question": "What type of footwear is clearly shown in the image?",
-        "answer": "Clogs"
-      },
-      {
-        "question": "What style of decorative trim is visually prominent on the slipper?",
-        "answer": "Tribal"
-      },
-      {
-        "question": "Describe the texture of the slipper's sole from the image.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the main color of the decorative stitching?",
-        "answer": "Beige"
-      },
-      {
-        "question": "Describe the color of the sole of the slipper based on the image.",
-        "answer": "Dark"
-      },
-      {
-        "question": "What is the style of the slipper based on its shape and design?",
-        "answer": "Casual"
+        "question": "Does the slipper have any noticeable logos or branding displayed?",
+        "answer": "No"
       }
     ]
   }

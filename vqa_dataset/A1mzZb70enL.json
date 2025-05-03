@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2d/2d20fbca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible upholstery fabric?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What kind of weave is apparent in the chair's fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describe the overall texture of the visible fabric surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the dominant shape of the armrest's visible section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the primary material of the chair's structure?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "How would you characterize the visible seams in the upholstery?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What design style is suggested by the armrest's profile?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the visible pattern on the fabric's surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent level of fabric pile or nap?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the visible armrest appear padded or firm?",
+        "answer": "Padded"
+      },
+      {
+        "question": "Considering the armrest, what is the fabric's visual weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "How would you describe the visual thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the overall visual impression of the chair's fabric?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Based on visual observation, is the material shiny or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How does the visible fabric appear in terms of light reflection?",
+        "answer": "Diffuse"
+      }
+    ]
+  }
+]

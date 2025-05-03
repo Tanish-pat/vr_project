@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall design, what is the predominant style of this footwear?",
-        "answer": "Sandals"
-      },
-      {
-        "question": "Observing the material, what appears to be the primary substance used in the sandal's construction?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Focusing on the color, what single word best describes the shade of the sandal?",
-        "answer": "Black"
-      },
-      {
-        "question": "Examining the fastening mechanism, what type of closure is visible on the sandal's strap?",
+        "question": "Considering the overall design, what is the most prominent feature of this sandal, visually speaking?",
         "answer": "Buckle"
       },
       {
-        "question": "Regarding the sole's edge, what color trim is visible along its perimeter?",
+        "question": "Observing the primary material, what appears to be the shoe's outer construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the visible color palette, what is the dominant shade of this footwear?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the sole's edge, what color trim is noticeable along its perimeter?",
         "answer": "Blue"
       },
       {
-        "question": "Analyzing the sandal's structure, what specific type of sandal is this, considering its heel and straps?",
-        "answer": "Slip-on"
+        "question": "Focusing on the sandal's fastening mechanism, what type of closure is employed?",
+        "answer": "Strap"
       },
       {
-        "question": "What is the texture of the leather, based on the visual appearance of the sandal's upper?",
+        "question": "Regarding the sandal's shape, what is the overall silhouette or form?",
+        "answer": "Sandal"
+      },
+      {
+        "question": "Analyzing the texture of the upper material, how would you describe its surface appearance?",
         "answer": "Smooth"
       },
       {
-        "question": "Looking at the sole, what appears to be the material of the outsole of the sandal?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Considering the design elements, what shape are the decorative perforations on the sandal's strap?",
-        "answer": "Round"
-      },
-      {
-        "question": "Observing the sandal's overall shape, what best describes its form?",
-        "answer": "Flat"
-      },
-      {
-        "question": "Focusing on the buckle, what material is it seemingly made from based on its visual appearance?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Inspecting the sole's design, what descriptive term best describes its construction?",
+        "question": "Looking at the sole's texture, what is its tread pattern like?",
         "answer": "Stitched"
       },
       {
-        "question": "Analyzing the heel area, is there a noticeable heel height on this sandal?",
-        "answer": "None"
+        "question": "Observing the design details on the upper, what small decorative elements are present?",
+        "answer": "Holes"
       },
       {
-        "question": "What is the overall shape of the sandal's toe area?",
-        "answer": "Rounded"
+        "question": "Inspecting the heel counter, what style is this part of the sandal?",
+        "answer": "Backstrap"
       },
       {
-        "question": "Observing the strap design, what type of strap configuration does this sandal employ?",
-        "answer": "Single"
+        "question": "Analyzing the sandal's structure, how many straps are visible on the upper?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the footwear type, what specific kind of sandal is pictured?",
+        "answer": "Men's"
+      },
+      {
+        "question": "Judging by the visible construction, what is the apparent build of the sole unit?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Based on the design elements, how would you categorize the overall style of this sandal?",
+        "answer": "Casual"
+      },
+      {
+        "question": "In observing the buckle closely, what is its visible metal finish?",
+        "answer": "Silver"
       }
     ]
   }

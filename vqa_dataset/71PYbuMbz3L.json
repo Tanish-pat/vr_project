@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the depicted canine on the phone case?",
+        "question": "What is the predominant color of the puppy depicted on the phone case?",
         "answer": "White"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Maltese"
       },
       {
-        "question": "What is the apparent texture of the dog's fur as illustrated on the phone case?",
+        "question": "What is the apparent texture of the puppy's fur as shown on the phone case?",
         "answer": "Fluffy"
       },
       {
-        "question": "Describe the overall shape of the phone case itself, ignoring the image.",
+        "question": "Describe the overall shape of the phone case itself, ignoring the design?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent material of the phone case, judging by its transparency?",
+        "question": "What appears to be the material of the phone case, based on its visual transparency?",
         "answer": "Plastic"
       },
       {
-        "question": "What color is the background visible through the clear phone case?",
-        "answer": "Green"
+        "question": "What color is the background visible through the transparent sections of the case?",
+        "answer": "Clear"
       },
       {
-        "question": "What is the apparent setting where the dog is photographed, as displayed on the phone case?",
+        "question": "What is the apparent background setting in which the puppy is depicted?",
         "answer": "Grass"
       },
       {
-        "question": "Considering the image, what is the overall tone or feeling evoked by the phone case design?",
+        "question": "Considering the design, what is the main subject of the phone case image?",
+        "answer": "Puppy"
+      },
+      {
+        "question": "What is the overall visual style or aesthetic of the phone case design?",
         "answer": "Cute"
       },
       {
-        "question": "What is the apparent position of the dog in the photograph shown on the case?",
-        "answer": "Sitting"
-      },
-      {
-        "question": "Disregarding the dog, what is the most prominent secondary color on the image?",
-        "answer": "Black"
-      },
-      {
-        "question": "What seems to be the overall photographic style of the featured dog on the case?",
-        "answer": "Natural"
-      },
-      {
-        "question": "What is the visible state of the dog's fur, is it matted or groomed?",
-        "answer": "Groomed"
-      },
-      {
-        "question": "Based on the image quality, how would you describe the print resolution on the case?",
+        "question": "Considering the clarity, what is the print quality of the image on the case?",
         "answer": "High"
       },
       {
-        "question": "What is the visible style of the dog's facial expression on the phone case?",
-        "answer": "Calm"
+        "question": "Based on the image, what is the overall condition of the phone case shown?",
+        "answer": "New"
       },
       {
-        "question": "Ignoring the design, what type of opening is visible on the top of the phone case?",
-        "answer": "Circular"
+        "question": "What is the position of the puppy shown in the phone case's image?",
+        "answer": "Sitting"
+      },
+      {
+        "question": "What is the apparent lighting conditions in the image on the phone case?",
+        "answer": "Bright"
+      },
+      {
+        "question": "What type of photographic style is used in the picture on the phone case?",
+        "answer": "Nature"
+      },
+      {
+        "question": "Does the case show any visible scratches or imperfections on the surface?",
+        "answer": "No"
       }
     ]
   }

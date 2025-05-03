@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the rug's central design?",
+        "question": "What is the dominant color observed across the rug's main field?",
         "answer": "Lavender"
       },
       {
-        "question": "What color forms the rug's prominent border?",
+        "question": "Describe the primary color outlining the rug's central design?",
         "answer": "Coral"
       },
       {
-        "question": "What is the overall shape of the depicted floor covering?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What appears to be the primary material of the rug?",
-        "answer": "Polyester"
-      },
-      {
-        "question": "Describe the visual texture of the rug's design elements.",
-        "answer": "Distressed"
-      },
-      {
-        "question": "What kind of pattern dominates the rug's visual appeal?",
+        "question": "What design style is predominantly featured in the rug's central motif?",
         "answer": "Floral"
       },
       {
-        "question": "What color are the smaller, accent details within the rug?",
-        "answer": "Burgundy"
+        "question": "What is the overall shape of the displayed area rug?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Considering its design, what is the rug's style?",
-        "answer": "Traditional"
+        "question": "What textile material appears to be used in manufacturing this rug?",
+        "answer": "Polyester"
       },
       {
-        "question": "How would you describe the visual complexity of the rug's design?",
-        "answer": "Intricate"
+        "question": "What is the apparent texture of the rug's surface, based solely on the image?",
+        "answer": "Woven"
       },
       {
-        "question": "What is the dominant color scheme within the border design?",
+        "question": "Characterize the visual appearance of the rug's border relative to its center?",
         "answer": "Muted"
       },
       {
-        "question": "Describe the visual aesthetic of the overall rug pattern?",
+        "question": "Considering the image, what color is most prevalent within the rug's border?",
+        "answer": "Red"
+      },
+      {
+        "question": "Describe the level of detail present in the rug's patterned design?",
+        "answer": "Intricate"
+      },
+      {
+        "question": "What is the apparent color of the detailed patterns within the central area?",
+        "answer": "Dusty"
+      },
+      {
+        "question": "What color appears as a secondary accent within the rug's border design?",
+        "answer": "Beige"
+      },
+      {
+        "question": "How would you characterize the overall color palette of this rug?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "What seems to be the style of the rug's ornate design elements?",
         "answer": "Antique"
       },
       {
-        "question": "How would you describe the density of the patterns on the rug?",
-        "answer": "Dense"
+        "question": "What is the general orientation of the rug's primary design motif?",
+        "answer": "Vertical"
       },
       {
-        "question": "What is the visual quality of the color transitions on the rug?",
-        "answer": "Gradual"
-      },
-      {
-        "question": "How many distinct colors are primarily visible in the rug?",
-        "answer": "Three"
-      },
-      {
-        "question": "Is the rug's design symmetrical or asymmetrical?",
-        "answer": "Symmetrical"
+        "question": "What appears to be the overall condition of the rug based on its appearance?",
+        "answer": "New"
       }
     ]
   }

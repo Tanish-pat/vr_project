@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the depicted footwear?",
+        "question": "What is the predominant color of the shoe's upper?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material composing the upper shoe?",
+        "question": "What material appears to constitute the shoe's upper?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the texture of the sole's outer surface, as visually apparent?",
+        "question": "Describe the texture of the shoe's sole, considering its visible ridges?",
         "answer": "Ribbed"
       },
       {
-        "question": "What type of closure mechanism is visibly present on the shoe?",
+        "question": "What type of closure mechanism is used on this shoe?",
         "answer": "Lace"
       },
       {
-        "question": "Considering the shoe's overall form, what is its style category?",
+        "question": "Considering the overall style, what shoe type is depicted?",
         "answer": "Sneaker"
       },
       {
-        "question": "What is the apparent shape of the shoe's toe?",
+        "question": "What is the apparent finish of the leather upper, considering light reflection?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the shoe's toe cap, from a frontal perspective?",
         "answer": "Rounded"
       },
       {
-        "question": "Based on the image, is the shoe's design minimalist or ornate?",
-        "answer": "Minimalist"
+        "question": "How many sets of eyelets are visible for the laces?",
+        "answer": "Six"
       },
       {
-        "question": "Describe the visible stitching details on the shoe's upper, if any?",
-        "answer": "Minimal"
-      },
-      {
-        "question": "What seems to be the overall height of the shoe, categorized as high, medium, or low?",
-        "answer": "Low"
-      },
-      {
-        "question": "Does the sole appear to have any discernible pattern besides its texture?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent finish of the leather upper \u2013 glossy or matte?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Judging by the image, what is the thickness of the sole, relative to the upper?",
+        "question": "Describe the visible thickness of the shoe's sole?",
         "answer": "Thick"
       },
       {
-        "question": "Are there any visible logos or brand markings displayed on the shoe?",
-        "answer": "No"
+        "question": "What color are the laces on the shoe?",
+        "answer": "Black"
       },
       {
-        "question": "What is the apparent condition of the shoe\u2014new or worn?",
-        "answer": "New"
+        "question": "Describe the overall design aesthetic of the shoe?",
+        "answer": "Minimalist"
       },
       {
-        "question": "Considering the visual details, what is the shoe's likely intended use?",
+        "question": "What is the apparent height of the shoe's upper?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the sole design, what is likely the intended use?",
         "answer": "Casual"
+      },
+      {
+        "question": "Does the sole appear to be made of a single or multiple materials?",
+        "answer": "Single"
+      },
+      {
+        "question": "Are there any noticeable visible brand markings or logos?",
+        "answer": "No"
       }
     ]
   }

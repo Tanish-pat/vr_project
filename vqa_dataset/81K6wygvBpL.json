@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the outerwear garment shown in the image?",
-        "answer": "Camel"
+        "question": "What is the predominant color of the outerwear garment shown?",
+        "answer": "Beige"
       },
       {
-        "question": "What is the overall shape or silhouette of the coat?",
-        "answer": "Oversized"
+        "question": "What is the overall length of the coat, relative to the model?",
+        "answer": "Long"
       },
       {
-        "question": "What appears to be the primary material of the coat's construction?",
-        "answer": "Wool"
-      },
-      {
-        "question": "Describe the visible collar style present on the outerwear?",
+        "question": "What type of collar is featured on the outerwear garment?",
         "answer": "Lapel"
       },
       {
-        "question": "What type of closure mechanism is apparent on the coat's front?",
+        "question": "Describe the sleeve style of the outerwear garment.",
+        "answer": "Long"
+      },
+      {
+        "question": "What appears to be the primary material of the coat?",
+        "answer": "Wool"
+      },
+      {
+        "question": "What is the apparent closure mechanism of the coat?",
         "answer": "Buttons"
       },
       {
-        "question": "What is the sleeve length of the coat as depicted in the image?",
-        "answer": "Long"
+        "question": "What is the shape of the coat's silhouette?",
+        "answer": "Oversized"
       },
       {
-        "question": "Characterize the visual texture of the coat's outer surface?",
-        "answer": "Smooth"
+        "question": "Considering the visible texture, what is the likely feel of the coat?",
+        "answer": "Soft"
       },
       {
-        "question": "What style of pockets are visibly present on the coat?",
-        "answer": "Patch"
+        "question": "What is the visible style of the coat's pockets (if any)?",
+        "answer": "Welt"
       },
       {
-        "question": "What color are the visible buttons on the coat's front?",
-        "answer": "Brown"
+        "question": "What is the general fit of the coat on the model?",
+        "answer": "Relaxed"
       },
       {
-        "question": "What is the apparent length of the coat as shown on the model?",
-        "answer": "Long"
-      },
-      {
-        "question": "Can you describe the cuffs of the long sleeves of the coat?",
+        "question": "What style are the cuffs of the coat?",
         "answer": "Turn-up"
       },
       {
-        "question": "Based on the image, what is the general fit of the coat?",
-        "answer": "Loose"
+        "question": "What seems to be the design style of the coat?",
+        "answer": "Classic"
       },
       {
-        "question": "What is the overall design aesthetic of this coat?",
-        "answer": "Minimalist"
+        "question": "What appears to be the level of detail in the coat's design?",
+        "answer": "Minimal"
       },
       {
-        "question": "Does the coat appear to have a lining based on visible details?",
-        "answer": "Yes"
+        "question": "Describe the apparent texture of the outerwear fabric.",
+        "answer": "Smooth"
       },
       {
-        "question": "What kind of fabric seems to be used for the coat's lining (based on the visible edges)?",
-        "answer": "Fuzzy"
+        "question": "What kind of lining is visible at the cuffs of the coat?",
+        "answer": "Ribbed"
       }
     ]
   }

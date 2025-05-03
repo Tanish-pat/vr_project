@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8d70134c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometrical shape of the handbag depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the bag's body?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What color best describes the visible exterior surface of the handbag?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the handle, what type of metallic element is prominently featured?",
+        "answer": "Rings"
+      },
+      {
+        "question": "Describe the apparent texture of the bag's main compartment, based on visual cues?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In relation to the bag's structure, what is the style of the visible top closure?",
+        "answer": "Open"
+      },
+      {
+        "question": "What is the overall visual aesthetic or style of the pictured handbag?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the bag's appearance, what is the general size classification?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the handle's design, how many circular rings constitute the carrying feature?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent finish of the metallic rings that compose the handbag's handle?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Judging by visual details, what type of handle does the bag primarily feature?",
+        "answer": "Top"
+      },
+      {
+        "question": "What single word accurately captures the bag's apparent visual appeal?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Considering the overall construction, how many main compartments are visibly apparent?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on its presentation, what is the most likely usage scenario for this bag?",
+        "answer": "Everyday"
+      },
+      {
+        "question": "From the provided image, what is the most prominent feature of the handbag's design?",
+        "answer": "Handle"
+      }
+    ]
+  }
+]

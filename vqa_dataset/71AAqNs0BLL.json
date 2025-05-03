@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1debd7c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme observed across the phone case's surface?",
+        "answer": "Red"
+      },
+      {
+        "question": "Describe the visual texture or pattern imprinted on the phone case's exterior?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What secondary color accents the main color in the design of the phone cover?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What is the overall shape of the presented mobile phone protective case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the appearance, what material seems most likely used for this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What style of design pattern is predominantly visible across the phone case's surface?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Based on visual inspection, how would you describe the phone case's surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is the design on the phone case primarily geometric or organic in form?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the image, what is the general level of detail in the case's print?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the phone case display any visible text or logos on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the displayed phone case?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the visual details, how would you describe the case's print clarity?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "How would you characterize the visual style of the design on the phone case?",
+        "answer": "Grunge"
+      },
+      {
+        "question": "What is the implied function of the object shown in the image?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Considering the image, is the phone case design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e115b16e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the mayonnaise inside the jar?",
+        "answer": "PaleYellow"
+      },
+      {
+        "question": "What color is the plastic screw-top lid of the jar?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall shape of the mayonnaise container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary material of the mayonnaise jar?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the text prominently displayed on the jar's label?",
+        "answer": "Mayonnaise"
+      },
+      {
+        "question": "What brand name is featured on the product's label?",
+        "answer": "365"
+      },
+      {
+        "question": "What additional phrase clarifies the egg source on the label?",
+        "answer": "Cage-Free"
+      },
+      {
+        "question": "Describe the style of the leaves depicted on the label?",
+        "answer": "Stylized"
+      },
+      {
+        "question": "What is the texture of the mayonnaise as visually suggested?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What color are the stylized leaves on the label?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "Is the jar's label predominantly white or off-white?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the general shape of the leaf design elements on the jar?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What type of container is used for the product?",
+        "answer": "Jar"
+      },
+      {
+        "question": "What is the visible overall opacity of the mayonnaise?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent consistency of the mayonnaise?",
+        "answer": "Thick"
+      }
+    ]
+  }
+]

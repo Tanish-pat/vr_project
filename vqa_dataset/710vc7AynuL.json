@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c51abf29.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the dog depicted on the phone case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What breed of dog is primarily featured in the phone case's design?",
+        "answer": "Labrador"
+      },
+      {
+        "question": "What appears to be the texture of the dog's fur as shown on the case?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the apparent material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the phone case, disregarding the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What brand's logo is subtly visible on the phone case?",
+        "answer": "Apple"
+      },
+      {
+        "question": "What is the background color visible behind the dog in the case's image?",
+        "answer": "White"
+      },
+      {
+        "question": "What seems to be the surface finish of the phone case, glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the phone case show any visible seams or joints?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general style of the image on the phone case?",
+        "answer": "Photographic"
+      },
+      {
+        "question": "Considering the case's image, what season is implied by the scene?",
+        "answer": "Winter"
+      },
+      {
+        "question": "Is the image on the case in color or monochrome?",
+        "answer": "Color"
+      },
+      {
+        "question": "What kind of details are visible on the dog's fur in the image?",
+        "answer": "Snow"
+      },
+      {
+        "question": "What is the position of the dog's head in the image on the case?",
+        "answer": "Tilted"
+      },
+      {
+        "question": "What color is the small portion of the dog's fur visible near the dog's chin?",
+        "answer": "White"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/099671b7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the primary shape of this packaged item, as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual appearance, what seems to be the predominant color of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the image, what material appears to constitute the external packaging of this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "From the provided image, what is the apparent texture of the outer packaging material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the most prominent design feature visible on the external wrapping of this item?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Observing the image closely, what can you infer about the transparency or opacity of the product's wrapping?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Considering the visible contents, what might be the general nature of the items contained within the packaging?",
+        "answer": "Utensils"
+      },
+      {
+        "question": "Based on the visual representation, what is the apparent number of individual units visible inside the packaging?",
+        "answer": "Four"
+      },
+      {
+        "question": "Looking at the image, what type of packaging appears to be employed for this product?",
+        "answer": "Bundle"
+      },
+      {
+        "question": "Judging by its form and contents, what is the likely intended use or function of this bundled product?",
+        "answer": "Disposable"
+      },
+      {
+        "question": "From the given image, can you describe the discernible visual arrangement of the individual items inside the packaging?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Based on the image alone, what seems to be the approximate size relative to a human hand of the object shown in the packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "Focusing on the image, what would you characterize as the general condition of the outer packaging based on its visual appearance?",
+        "answer": "New"
+      },
+      {
+        "question": "From the visual evidence provided, what is the apparent level of detail or decoration of the product's packaging?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Judging from the clarity of the image, how would you describe the apparent quality of the image itself?",
+        "answer": "Blurry"
+      }
+    ]
+  }
+]

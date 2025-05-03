@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the container?",
+        "question": "What is the predominant color of the container's body?",
         "answer": "White"
       },
       {
-        "question": "What material appears to be used for the container?",
+        "question": "What appears to be the primary material used for construction?",
         "answer": "Plastic"
       },
       {
-        "question": "Does the container have a lid?",
+        "question": "Considering its shape, what is the most accurate geometric descriptor?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describe the overall transparency of the container's main body?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What is the apparent texture of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure mechanism does the container possess?",
+        "answer": "Snap-on"
+      },
+      {
+        "question": "Is there an integrated dispensing feature on the lid?",
         "answer": "Yes"
       },
       {
-        "question": "Is there a dispensing mechanism visible?",
-        "answer": "Yes"
+        "question": "Describe the shape of the dispensing mechanism on the lid?",
+        "answer": "Circular"
       },
       {
-        "question": "What shape is the main body of the container?",
-        "answer": "Round"
+        "question": "What color is the lid of the container?",
+        "answer": "White"
       },
       {
-        "question": "Is the lid transparent or opaque?",
-        "answer": "Opaque"
+        "question": "What is the primary function suggested by its design?",
+        "answer": "Storage"
       },
       {
-        "question": "Does the lid have any additional features?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the apparent function of the small opening?",
-        "answer": "Dispensing"
-      },
-      {
-        "question": "Describe the overall design of the container?",
-        "answer": "Simple"
-      },
-      {
-        "question": "How many parts can you clearly identify?",
-        "answer": "Two"
-      },
-      {
-        "question": "Is the container likely designed for liquids or powders?",
-        "answer": "Powders"
-      },
-      {
-        "question": "What is the purpose of the handle or lever on the lid?",
-        "answer": "Opening"
-      },
-      {
-        "question": "Does the container appear to be airtight?",
+        "question": "Does the lid have any visible texturing or patterns?",
         "answer": "No"
       },
       {
-        "question": "Is the container tall or short?",
-        "answer": "Short"
+        "question": "What is the shape of the small opening on the lid?",
+        "answer": "Round"
       },
       {
-        "question": "Would this container be suitable for travel?",
-        "answer": "Yes"
+        "question": "What is the apparent material of the lid?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the handle or carrying feature on the lid.",
+        "answer": "Small"
+      },
+      {
+        "question": "How many distinct parts comprise this container?",
+        "answer": "Two"
       }
     ]
   }

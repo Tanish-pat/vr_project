@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c9/c94352ad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the earplugs visible inside the container?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the apparent shape of the individual earplugs as seen through the container?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What material are the earplugs described as on the label?",
+        "answer": "Foam"
+      },
+      {
+        "question": "What is the overall shape of the container holding the earplugs?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the plastic lid or cap on the container?",
+        "answer": "White"
+      },
+      {
+        "question": "What brand name is prominently displayed on the label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the described shape of the earplugs according to the label?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What is the primary function of the product as stated on the container?",
+        "answer": "Earplugs"
+      },
+      {
+        "question": "What number is specified on the label, likely representing a noise reduction rating?",
+        "answer": "28"
+      },
+      {
+        "question": "What is the approximate number of earplugs indicated on the label?",
+        "answer": "50"
+      },
+      {
+        "question": "What language, other than English, is used on the product label?",
+        "answer": "Spanish"
+      },
+      {
+        "question": "What is the material of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the texture of the earplugs, visually inferring from their appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual appearance of the text on the Amazonbasics label",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the general visual presentation of the product information on the label?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]
