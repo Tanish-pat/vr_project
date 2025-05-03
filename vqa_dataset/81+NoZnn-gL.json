@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c8/c833de04.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the textile shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall texture of the fabric depicted?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual appearance, what kind of fiber is most likely used?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describing the weave pattern, is it tightly or loosely constructed?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the primary visual characteristic concerning the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing closely, is there a significant sheen or gloss present?",
+        "answer": "Slight"
+      },
+      {
+        "question": "How would you characterize the overall visual tone of the fabric?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric show any discernible patterns or designs apart from the weave?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the predominant visual impression created by the texture of this fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Judging by the image, is the fabric opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering visual evidence, what is the fabric's apparent drape or stiffness?",
+        "answer": "Stiff"
+      },
+      {
+        "question": "In terms of visible detail, how would you describe the appearance of the threads?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the visual impression of the fabric's uniformity in terms of texture and color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the fabric's appearance suggest it is designed for upholstery or apparel?",
+        "answer": "Upholstery"
+      }
+    ]
+  }
+]

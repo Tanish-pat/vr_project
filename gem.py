@@ -183,6 +183,7 @@ def main(check_main_image_id=0):
         elif check_main_image_id == 0:
             metadata = None  # skip lookup entirely
 
+        print(f"✅ current api key is {api_keys[0]}")
         print(f"✅ Image {'and metadata ' if metadata else ''}found. Proceeding to VQA generation.")
         output_json_path = os.path.join(output_folder, f"{image_id}.json")
         generate_vqa(image_path, metadata, output_json_path)

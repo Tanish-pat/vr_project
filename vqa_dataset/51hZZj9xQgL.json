@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/23/23730dac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case, as shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used for the construction of this phone case?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the provided image, what is the overall shape or form factor of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what design element is prominently featured on the exterior of the phone case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From the image, what kind of closure mechanism is visible on this phone case?",
+        "answer": "Magnetic"
+      },
+      {
+        "question": "Does the image show any noticeable texture on the surface of the phone case?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's outer layer, based on the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "According to the image, how many compartments or sections appear to be present in the phone case?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the style of the depicted phone case, as indicated by its image?",
+        "answer": "Wallet"
+      },
+      {
+        "question": "Based on the image, what is the visible method of attaching the phone to the case?",
+        "answer": "Snap"
+      },
+      {
+        "question": "Does the image depict any branding or logos on the phone case?",
+        "answer": "None"
+      },
+      {
+        "question": "What seems to be the overall thickness of the phone case in the given image?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the image clearly show any visible stitching or seams on the case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual provided, what appears to be the level of protection afforded to the phone?",
+        "answer": "High"
+      },
+      {
+        "question": "From this image, what is the style of the flap on the phone case?",
+        "answer": "Overlapping"
+      }
+    ]
+  }
+]

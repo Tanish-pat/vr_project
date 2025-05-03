@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d1/d1c11d74.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant pattern visibly present across the entire dress?",
+        "answer": "Plaid"
+      },
+      {
+        "question": "What is the primary color of the dress's plaid pattern?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall silhouette or shape of the midi dress presented?",
+        "answer": "A-line"
+      },
+      {
+        "question": "Describe the sleeve style featured on this particular garment.",
+        "answer": "Puff"
+      },
+      {
+        "question": "What type of neckline is displayed on the dress in the provided image?",
+        "answer": "Square"
+      },
+      {
+        "question": "What appears to be the main fabric or material of the dress?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Considering the image, what length best describes this dress?",
+        "answer": "Midi"
+      },
+      {
+        "question": "Identify the visible construction detail at the dress's waistline.",
+        "answer": "Smocked"
+      },
+      {
+        "question": "How many tiers or layers can be visually distinguished in the skirt?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent secondary color subtly woven into the plaid?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the sleeve length of the dress shown in the image?",
+        "answer": "Short"
+      },
+      {
+        "question": "Based on visual observation, what is the dress's overall fit?",
+        "answer": "Relaxed"
+      },
+      {
+        "question": "Does the dress exhibit any noticeable texture based on the image?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What kind of footwear is the model wearing in the photo?",
+        "answer": "Sandals"
+      },
+      {
+        "question": "What is the style of the shoulder area of the garment?",
+        "answer": "Set-in"
+      }
+    ]
+  }
+]

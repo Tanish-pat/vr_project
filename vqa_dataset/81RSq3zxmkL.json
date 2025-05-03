@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a29d192c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant design element covering the entire phone case?",
+        "answer": "Stars"
+      },
+      {
+        "question": "Describe the overall color scheme of the phone case's pattern?",
+        "answer": "Rainbow"
+      },
+      {
+        "question": "What specific colors are prominently displayed in the gradient design?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "What gives the appearance of sparkle or shine to the star pattern?",
+        "answer": "Glitter"
+      },
+      {
+        "question": "What is the apparent texture of the phone case's surface?",
+        "answer": "Glittery"
+      },
+      {
+        "question": "What is the basic geometric shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material used for the phone case's outer layer?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the phone case appear to have any raised or 3D elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is the case's design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the general direction of the color gradient on the case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are the stars uniformly sized or do they vary in size?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Does the image suggest any kind of phone model compatibility?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color star is most frequent among the others visible?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the case's intended function or purpose?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Is the background behind the case visible?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the word search grid itself?",
+        "question": "What is the dominant color of the word search grid itself?",
         "answer": "Yellow"
       },
       {
-        "question": "What is the overall shape of the main word search puzzle area?",
+        "question": "What is the overall shape of this Wild Kratts product?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the background color of the outer border surrounding the entire game?",
+        "question": "What is the primary material of this Wild Kratts game?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall background color of the boarder?",
         "answer": "Green"
       },
       {
-        "question": "What is the primary color used in the circular icons at the top of the game?",
-        "answer": "Teal"
-      },
-      {
-        "question": "What appears to be the texture of the main word search puzzle area?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the design style of the artwork surrounding the word search?",
-        "answer": "Cartoonish"
-      },
-      {
-        "question": "What type of game is depicted on the front of this item?",
+        "question": "What style of puzzle is depicted on the main area of the product?",
         "answer": "Wordsearch"
       },
       {
-        "question": "What is the primary color used for the letters in the word search puzzle?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the apparent material of the game shown in this image?",
-        "answer": "Cardboard"
-      },
-      {
-        "question": "What is the overall theme or subject matter depicted in the illustration?",
+        "question": "What cartoon characters are subtly presented at the bottom?",
         "answer": "Animals"
       },
       {
-        "question": "What seems to be the style of the characters at the bottom of the game?",
-        "answer": "Animated"
+        "question": "What is the text presented at the top of the product?",
+        "answer": "WildKratts"
       },
       {
-        "question": "Considering the illustrative style, what is the likely target audience?",
-        "answer": "Children"
+        "question": "What color are the four circular icons located in the upper section?",
+        "answer": "Blue"
       },
       {
-        "question": "What color are the smaller illustrative animals surrounding the word search grid?",
-        "answer": "Brown"
+        "question": "What is the general texture of the main game surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "Are the words in the word search capitalized or lowercase?",
-        "answer": "Capitalized"
+        "question": "Describe the visual style of the animal illustrations used.",
+        "answer": "Cartoon"
       },
       {
-        "question": "Based on the illustration's style and elements, what's the likely IP or franchise?",
-        "answer": "Wild Kratts"
+        "question": "What color are the letters within the word search puzzle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall theme or subject depicted on the item?",
+        "answer": "Animals"
+      },
+      {
+        "question": "What is the format of the word list presented to the side?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the background pattern around the main game area?",
+        "answer": "Jungle"
+      },
+      {
+        "question": "Besides the word search, what other information is presented?",
+        "answer": "Animals"
       }
     ]
   }

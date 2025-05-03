@@ -9,60 +9,60 @@
         "answer": "Blue"
       },
       {
-        "question": "What geographic region does the primary map in the artwork represent?",
+        "question": "What geographic region is the primary focus of the vintage-style map illustration?",
         "answer": "California"
       },
       {
-        "question": "What appears to be the primary artistic medium or style of the piece?",
-        "answer": "Print"
+        "question": "What appears to be the printing technique used for the map design on the canvas print?",
+        "answer": "Offset"
       },
       {
-        "question": "What is the overall shape of the presented artistic piece?",
+        "question": "What is the overall shape or form of the presented product?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the surface texture of the displayed artwork?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What style of map is prominently featured in the center of the artwork?",
-        "answer": "Vintage"
-      },
-      {
-        "question": "What kind of visual elements surround the main California map?",
-        "answer": "Advertisements"
-      },
-      {
-        "question": "What seems to be the material of the base upon which the artwork is printed?",
+        "question": "What material is predominantly used as the base for this wall art piece?",
         "answer": "Canvas"
       },
       {
-        "question": "What is the general orientation of the main map within the artwork\u2019s frame?",
-        "answer": "Vertical"
+        "question": "Considering the style, what era does the map design seem to evoke?",
+        "answer": "Vintage"
       },
       {
-        "question": "Describe the level of detail visible in the smaller surrounding advertisements",
-        "answer": "High"
+        "question": "What type of imagery surrounds the central California map within the artwork?",
+        "answer": "Advertisements"
       },
       {
-        "question": "What is the apparent artistic style employed in depicting the advertisements?",
+        "question": "Describe the texture of the surface bearing the map design, as seen in the image",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the primary method of display intended for this product?",
+        "answer": "Wall-mounted"
+      },
+      {
+        "question": "What is the overall visual style of the text and graphics in the artwork?",
         "answer": "Retro"
       },
       {
-        "question": "Considering the border, what type of frame encloses the artwork?",
-        "answer": "None"
+        "question": "What is the most prominent geographical feature depicted within the map's border?",
+        "answer": "Coastline"
       },
       {
-        "question": "What is the implied age or era evoked by the aesthetic of the piece?",
-        "answer": "Early"
+        "question": "What type of transportation is mentioned prominently among the surrounding advertisements?",
+        "answer": "Bicycle"
       },
       {
-        "question": "Based on visual details, what is the apparent subject matter's primary purpose?",
-        "answer": "Decorative"
+        "question": "Based on the image, describe the apparent finish of the artwork's surface.",
+        "answer": "Matte"
       },
       {
-        "question": "What might be the intended display context for this type of artwork?",
-        "answer": "Wall"
+        "question": "What is the apparent visual style or aesthetic of the presented California map?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "What kind of detail is shown on the map besides the main roads and coast?",
+        "answer": "Mountains"
       }
     ]
   }

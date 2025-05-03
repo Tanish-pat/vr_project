@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c56b3542.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the door knob's finish?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the door knob?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall shape of the door knob's visible component?",
+        "answer": "Round"
+      },
+      {
+        "question": "How many concentric rings or grooves are visibly present on the main body?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the apparent finish texture of the door knob's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the smaller, central, functional component?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the apparent style of the door knob's design?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Does the door knob appear to have a keyhole or similar opening?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the door knob relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What type of mounting hardware is visible around the knob's edge?",
+        "answer": "Hidden"
+      },
+      {
+        "question": "Is there any visible text or branding on the door knob?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible details, what is the overall impression of the knob?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the color of the visible area beneath the main knob section?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Does the knob seem to exhibit any decorative elements besides concentric rings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent type of door knob based on its visible design?",
+        "answer": "Privacy"
+      }
+    ]
+  }
+]

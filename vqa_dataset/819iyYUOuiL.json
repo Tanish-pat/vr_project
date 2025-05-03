@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fd6b1b1c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sticks contained within the transparent jar, considering their overall hue and subtle variations in shading?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the jar's material and its visual clarity, what is the primary substance from which the container appears to be manufactured?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describe the overall shape of the transparent container holding the sticks, ignoring the lid for now.",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the apparent texture of the multiple sticks inside the glass container, based on the visible surface details?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What appears to be the primary material composing the cylindrical sticks within the glass container, judging by their physical appearance?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the shape of the individual sticks visible inside the glass container, focusing on their basic geometric form?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the image, what seems to be the metallic material used for the jar's lid, considering its color and reflectivity?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the most prominent design feature of the lid on the spice container shown in the picture, in relation to its shape and construction?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Focusing on the cylindrical sticks alone, disregarding the jar, what is their approximate length in relation to the height of the container?",
+        "answer": "Equal"
+      },
+      {
+        "question": "Describe the arrangement of the multiple sticks inside the glass jar in terms of their spatial organization and proximity to one another.",
+        "answer": "Bunched"
+      },
+      {
+        "question": "What is the overall visual impression of the number of sticks present inside the glass jar, based on what is readily visible?",
+        "answer": "Several"
+      },
+      {
+        "question": "Considering the jar's form, describe its profile in relation to its width and height, specifically whether it appears taller than it is wide or vice-versa.",
+        "answer": "Taller"
+      },
+      {
+        "question": "Disregarding the lid, describe the base of the glass container, taking into account its shape and relation to the overall structure.",
+        "answer": "Square"
+      },
+      {
+        "question": "Considering the visible part of the sticks, what is their texture, taking into account their visible surface and apparent grain?",
+        "answer": "Woody"
+      },
+      {
+        "question": "What is the overall form of the spice container, encompassing both the jar and its lid?",
+        "answer": "Cylindrical"
+      }
+    ]
+  }
+]
