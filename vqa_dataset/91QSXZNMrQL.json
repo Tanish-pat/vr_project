@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8f55d4ba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the larger tote bag?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the contrasting trim on the larger bag?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the material of the main tote bag?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What shape best describes the larger tote bag?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the handle type of the larger tote bag.",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Is there a smaller accompanying bag included in the set?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the smaller handbag?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the larger bag have any noticeable accents or embellishments?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent texture of the bag's material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of closure system is present on the larger tote?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "How many main compartments are visually apparent on the larger bag?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the smaller bag have a detachable strap?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the shape of the smaller handbag.",
+        "answer": "Boxy"
+      },
+      {
+        "question": "What type of handle does the smaller bag possess?",
+        "answer": "Top"
+      },
+      {
+        "question": "Considering the smaller bag, is it likely to be used as a purse?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

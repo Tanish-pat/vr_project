@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the depicted phone case?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Purple"
       },
       {
-        "question": "What natural phenomenon is prominently featured in the phone case's design?",
-        "answer": "Sunset"
-      },
-      {
-        "question": "What type of tree is illustrated in the phone case's imagery?",
-        "answer": "Silhouette"
-      },
-      {
-        "question": "What is the apparent material of the phone case itself?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What shape best describes the overall form of the depicted product?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What technology brand's logo is visible on the phone case?",
-        "answer": "Apple"
-      },
-      {
-        "question": "What body of water is visually suggested in the lower portion of the design?",
-        "answer": "Ocean"
-      },
-      {
-        "question": "Describe the texture implied by the image of the phone case.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the general artistic style of the phone case design?",
-        "answer": "Nature"
-      },
-      {
-        "question": "What is the primary subject of the image printed on the phone case?",
+        "question": "What natural element is prominently featured in the phone case's image?",
         "answer": "Tree"
       },
       {
-        "question": "What color is the sun or light source in the phone case's design?",
-        "answer": "Orange"
+        "question": "What celestial event is depicted in the background of the phone case's image?",
+        "answer": "Sunset"
       },
       {
-        "question": "What is the overall visual impression or mood evoked by the case's design?",
+        "question": "What type of body of water is visible in the bottom portion of the phone case's print?",
+        "answer": "Ocean"
+      },
+      {
+        "question": "What appears to be the primary material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape does the overall phone case possess?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What technology company's logo is visible on the phone case's back?",
+        "answer": "Apple"
+      },
+      {
+        "question": "What is the apparent texture of the phone case, based on visual cues?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the silhouette of the tree in the phone case's image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall style of the design on the phone case?",
+        "answer": "Nature"
+      },
+      {
+        "question": "Considering the image, what is the implied location of the scene?",
+        "answer": "Seashore"
+      },
+      {
+        "question": "What color are the clouds depicted in the phone case\u2019s sky?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the general visual impression given by the color palette of the design?",
         "answer": "Serene"
       },
       {
-        "question": "Considering the design, what is the likely use of this product?",
-        "answer": "Protection"
+        "question": "What kind of light source is visible behind the tree in the image?",
+        "answer": "Sun"
       },
       {
-        "question": "What is the general format of the image printed on the phone case?",
-        "answer": "Landscape"
-      },
-      {
-        "question": "What kind of landform is depicted beneath the tree in the image?",
-        "answer": "Island"
+        "question": "What is the predominant color of the water in the design?",
+        "answer": "Purple"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/70c719aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the flexible tube depicted in the provided image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the primary material composing the length of the coiled hose?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Considering the image, what is the overall shape or form of the product presented?",
+        "answer": "Coil"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the texture of the flexible tubing shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the apparent diameter of the flexible hose illustrated in the image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What color are the fittings visible at each end of the flexible tubing?",
+        "answer": "Brass"
+      },
+      {
+        "question": "Describe the apparent finish or surface treatment of the metallic connectors seen?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the visible connection type at the end furthest from the camera?",
+        "answer": "Coupling"
+      },
+      {
+        "question": "What type of end fitting is apparent on the closest end of the hose?",
+        "answer": "Clamp"
+      },
+      {
+        "question": "Considering the image, what is the approximate length of the coiled hose?",
+        "answer": "Long"
+      },
+      {
+        "question": "Does the hose exhibit any visible markings or imprints along its length?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the level of flexibility or pliability of the hose?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the image, what might be the likely intended application of this hose?",
+        "answer": "Industrial"
+      },
+      {
+        "question": "In terms of its physical structure, how many visible fittings does the hose appear to have?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the overall visual impression, what might be the intended function of this product?",
+        "answer": "Conduit"
+      }
+    ]
+  }
+]

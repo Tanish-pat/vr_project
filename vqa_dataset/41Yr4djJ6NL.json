@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the intricate facets and brilliance, what is the dominant visual characteristic of the central stone in these earrings?",
-        "answer": "Sparkle"
-      },
-      {
-        "question": "What is the overall shape of each individual earring stone, as clearly depicted in the product image?",
+        "question": "Considering the intricate facet pattern, what is the predominant shape of the central gemstone in these earrings?",
         "answer": "Round"
       },
       {
-        "question": "Based on the image's lighting and reflection, what seems to be the main material used in the construction of the earrings?",
-        "answer": "Diamond"
+        "question": "Based on the image's clarity, what appears to be the primary material of the visible components?",
+        "answer": "Metal"
       },
       {
-        "question": "Considering the smoothness and uniformity, how would you describe the surface texture of the main gemstone in the earrings?",
-        "answer": "Smooth"
+        "question": "Given the reflective surfaces, what seems to be the overall visual finish of the metal?",
+        "answer": "Shiny"
       },
       {
-        "question": "Observing the earring's components, what kind of metal appears to form the setting and post?",
-        "answer": "Silver"
+        "question": "Judging from the image, what color best describes the metal setting of the gemstones?",
+        "answer": "White"
       },
       {
-        "question": "From a visual standpoint, what appears to be the cut style of the central gemstone in the image?",
+        "question": "Observing the gemstone's structure, what kind of cut is prominently displayed?",
         "answer": "Brilliant"
       },
       {
-        "question": "What is the apparent color of the central gemstone, judging from the image's contrast and illumination?",
-        "answer": "Clear"
-      },
-      {
-        "question": "Based on the image, what is the apparent style or type of the earrings shown, focusing on their visual construction?",
-        "answer": "Studs"
-      },
-      {
-        "question": "Judging from the image alone, what is the overall setting of the main stone, considering the visible metal components?",
+        "question": "What is the apparent setting style used to secure the central gemstones in each earring?",
         "answer": "Prong"
       },
       {
-        "question": "What is the visual nature of the surface of the central gemstone, as observed through the image's reflective properties?",
-        "answer": "Faceted"
+        "question": "Based on visual inspection, what is the apparent number of prongs holding each gemstone?",
+        "answer": "Four"
       },
       {
-        "question": "In terms of the design, how many main stones are present in each visible earring in the supplied image?",
-        "answer": "One"
+        "question": "From the image, describe the texture of the central gemstone's facets.",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the visible metal and stone, what is the general visual size of the earrings depicted?",
+        "question": "Judging by the image, what is the overall style of these earrings?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Analyzing the earring's structure, what type of fastening mechanism is depicted?",
+        "answer": "Post"
+      },
+      {
+        "question": "Considering the reflected light, what can be said about the apparent clarity of the central gemstones?",
+        "answer": "High"
+      },
+      {
+        "question": "What seems to be the general size and scale of these earrings, relative to a typical adult ear?",
         "answer": "Small"
       },
       {
-        "question": "Based on the image, what is the apparent shape of the metal post on the back of each earring?",
-        "answer": "Cylinder"
-      },
-      {
-        "question": "How would you visually describe the overall visual symmetry of each individual earring, regarding the stone and setting?",
-        "answer": "Symmetrical"
-      },
-      {
-        "question": "Judging from the image, what is the apparent luster or shine of the metal components of the earrings?",
+        "question": "What does the image suggest about the symmetry of the gemstone's facets?",
         "answer": "High"
+      },
+      {
+        "question": "From a purely visual perspective, what is the apparent color of the central gemstones?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the overall visual impression created by the combination of the metal and gemstones?",
+        "answer": "Elegant"
       }
     ]
   }
