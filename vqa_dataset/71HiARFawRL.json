@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the hammer's head?",
+        "question": "What is the primary metallic component's apparent finish, based solely on visual observation of its reflective properties?",
         "answer": "Silver"
       },
       {
-        "question": "What material appears to constitute the hammer's handle?",
+        "question": "Considering the handle's visual texture and the image's resolution, what material appears to compose the majority of the handle?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall shape of the hammer's striking face?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What color is the majority of the hammer's handle?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the apparent texture of the hammer's handle?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What type of hammer is depicted in the image?",
+        "question": "Disregarding any branding, what is the most prominent shape of the striking head of the hammer?",
         "answer": "Claw"
       },
       {
-        "question": "What is the overall design of the hammer's head?",
-        "answer": "Classic"
-      },
-      {
-        "question": "What color is a secondary portion of the hammer's handle?",
-        "answer": "Grey"
-      },
-      {
-        "question": "How would you describe the hammer's handle's grip design?",
+        "question": "Based on visual inspection, what is the overall design of the hammer's handle, describing its contours and divisions?",
         "answer": "Ergonomic"
       },
       {
-        "question": "What is the apparent material of the hammer's striking face?",
+        "question": "What color is predominantly observed on the handle's visible surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the head's structure, what is the most apparent material used for the hammer's striking face?",
         "answer": "Steel"
       },
       {
-        "question": "What is the shape of the hammer's claw?",
-        "answer": "Curved"
+        "question": "What secondary color is visible on the hammer handle, besides the primary color?",
+        "answer": "Grey"
       },
       {
-        "question": "Does the hammer head show any significant markings?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the primary function of the hammer's claw?",
-        "answer": "Pulling"
-      },
-      {
-        "question": "Describe the overall condition of the hammer shown?",
+        "question": "Considering the image's lighting and clarity, what appears to be the overall condition of the hammer, disregarding any external factors?",
         "answer": "New"
       },
       {
-        "question": "What is the hammer's handle's most prominent design feature?",
-        "answer": "Stripes"
+        "question": "What is the apparent shape of the hammer's head in its entirety, considering both the claw and striking face?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based purely on visual assessment, how many distinct sections or zones can be visually distinguished on the hammer's handle?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the hammer's handle, what is the most evident design aspect related to its grip and usability?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What type of hammer is depicted, primarily based on its visible functional features?",
+        "answer": "Claw"
+      },
+      {
+        "question": "What is the apparent overall size of the hammer, relative to the surrounding white background in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What material seems to be used for the main body of the hammer, ignoring the handle?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the apparent style of the hammer's head, given the features visually presented?",
+        "answer": "Smooth"
       }
     ]
   }

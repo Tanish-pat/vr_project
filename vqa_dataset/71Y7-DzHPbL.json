@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme depicted on the phone case's surface?",
+        "question": "What is the dominant color scheme of the depicted phone case design?",
         "answer": "Black"
       },
       {
-        "question": "What type of animal is repeatedly illustrated across the phone case's design?",
+        "question": "What animal is repeatedly illustrated across the phone case's surface?",
         "answer": "Panda"
       },
       {
-        "question": "Describe the style of the panda illustrations on the phone case surface.",
-        "answer": "Cartoon"
+        "question": "What is the primary visual style of the panda illustrations on the phone case?",
+        "answer": "Cartoonish"
       },
       {
-        "question": "What is the primary background color of the phone case's design?",
-        "answer": "White"
-      },
-      {
-        "question": "Considering the image, what appears to be the phone case's material?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the overall aesthetic, what best describes the phone case's design?",
+        "question": "Considering the phone case's design, what is its overall aesthetic?",
         "answer": "Cute"
       },
       {
-        "question": "What shape is the main part of the phone case?",
-        "answer": "Rectangular"
+        "question": "Based on the image, what appears to be the material of the phone case?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the apparent texture of the illustrated pandas on the phone case?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the design arrangement of the illustrated pandas across the phone case surface?",
+        "question": "What is the pattern arrangement of the panda illustrations on the case?",
         "answer": "Repeating"
       },
       {
-        "question": "Based on the visible elements, what is the phone case primarily designed to protect?",
-        "answer": "Phone"
+        "question": "Describing the panda illustrations, what are their primary colors?",
+        "answer": "Monochromatic"
       },
       {
-        "question": "What are the depicted panda illustrations primarily composed of?",
-        "answer": "Lines"
+        "question": "What shape does the phone case's main body approximately take?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What design aspect is used to indicate the position of the camera?",
-        "answer": "Hole"
+        "question": "Observing the side views, what can be seen on the phone case's edges?",
+        "answer": "Thin"
       },
       {
-        "question": "Aside from the primary design, are there any additional visible markings?",
-        "answer": "None"
+        "question": "Does the case's design include any text elements or words?",
+        "answer": "No"
       },
       {
-        "question": "What kind of visual effect is used to give the pandas dimension?",
-        "answer": "Shading"
+        "question": "What type of camera cutout is present on the back of the case?",
+        "answer": "Single"
       },
       {
-        "question": "What is the overall visual impression conveyed by the phone case's design?",
-        "answer": "Playful"
+        "question": "Considering the illustrations, what is the overall texture implied?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the implied finish of the case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Regarding the panda illustrations, what is their level of detail?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the general style of the illustration design?",
+        "answer": "Minimalist"
       }
     ]
   }

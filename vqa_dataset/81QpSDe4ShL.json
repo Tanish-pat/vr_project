@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual design, what is the predominant style of this shoe?",
-        "answer": "Formal"
-      },
-      {
-        "question": "Based on the visible texture, what material appears to constitute the upper portion of the shoe?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Focusing on the color, what single word best describes the shade of the shoe's primary surface?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What is the primary closure mechanism utilized on this pair of shoes, as evidenced by the image?",
-        "answer": "Lace"
-      },
-      {
-        "question": "Observing the toe-cap region, what pattern is noticeably perforated into the shoe's surface?",
-        "answer": "Brogue"
-      },
-      {
-        "question": "Describing the shape of the toe, what term most accurately depicts its form?",
-        "answer": "Round"
-      },
-      {
-        "question": "What is the overall design of the shoe's sole unit, as visible from its profile?",
-        "answer": "Flat"
-      },
-      {
-        "question": "Regarding the surface texture, how would you characterize the feel of the shoe's upper material?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Inspecting the laces, what is their apparent color and/or shade?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What is the visible shape of the shoe's heel counter?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "Based on the visible stitching, what is the apparent construction method of this shoe?",
-        "answer": "Stitched"
-      },
-      {
-        "question": "Observing the sole, what material seems to constitute the outsole component?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "What type of eyelets are used to secure the laces, considering their form?",
-        "answer": "Round"
-      },
-      {
-        "question": "Analyzing the visible elements of this shoe, what specific shoe type does the image depict?",
+        "question": "Considering the overall style, what is the predominant design classification of this footwear?",
         "answer": "Oxford"
       },
       {
-        "question": "In terms of the shoe's appearance, is it best described as casual or formal?",
+        "question": "What is the primary color of the leather upper, based on visual observation?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the pattern of perforations visible on the shoe's vamp and toe cap.",
+        "answer": "Brogue"
+      },
+      {
+        "question": "What material appears to constitute the majority of the shoe's visible upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on its shape and profile, what is the most accurate description of the shoe's toe?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What type of closure system is used to secure the shoe onto the foot?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Characterize the visual texture of the leather upper, as observed in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the sole's apparent construction and material based on its appearance.",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Judging by the image, what is the implied gender of the intended wearer?",
+        "answer": "Male"
+      },
+      {
+        "question": "What style of heel is present on this pair of shoes?",
+        "answer": "Low"
+      },
+      {
+        "question": "What type of stitching is apparent in the visible seams of the shoe?",
+        "answer": "Blind"
+      },
+      {
+        "question": "What is the apparent overall condition of the shoe, based on its visual presentation?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the visual details, what is the likely intended use of this type of shoe?",
         "answer": "Formal"
+      },
+      {
+        "question": "Describe the shape of the shoe's last, based on the overall form of the shoe?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What is the most prominent visible feature on the shoe's toe cap?",
+        "answer": "Perforations"
       }
     ]
   }

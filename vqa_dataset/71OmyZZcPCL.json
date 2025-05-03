@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a3607aab.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual aesthetic, what single word best describes the shoe's style?",
+        "answer": "Studded"
+      },
+      {
+        "question": "Focusing on the dominant shade, what color is the primary material of the shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on its appearance and texture, what material seems to constitute the shoe's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the shape of the shoe's toe in one word, as seen from the image?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the most noticeable embellishment on the shoe's surface?",
+        "answer": "Studs"
+      },
+      {
+        "question": "What type of closure mechanism is visually apparent on the shoe?",
+        "answer": "Strap"
+      },
+      {
+        "question": "Characterizing the shoe's sole, what single word best describes its appearance?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What single word best describes the heel type of this shoe?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Disregarding the studs, what is the predominant texture of the shoe's upper?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the strap's material, what single word seems to best match its visual appearance?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Focusing solely on the metallic accents, what material are they seemingly composed of?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall shape of the shoe when viewed from the side?",
+        "answer": "Pointed"
+      },
+      {
+        "question": "What color are the studs adorning the shoe?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the type of shoe shown in the image?",
+        "answer": "Flats"
+      },
+      {
+        "question": "Considering the shoe's overall construction, what is the apparent style?",
+        "answer": "MaryJane"
+      }
+    ]
+  }
+]

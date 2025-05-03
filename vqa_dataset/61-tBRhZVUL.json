@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the sideboard's exterior?",
+        "question": "What is the predominant color of the sideboard's main body?",
         "answer": "White"
       },
       {
-        "question": "What is the color of the interior shelving visible through the open section?",
-        "answer": "Gray"
+        "question": "What color are the interior shelves and visible side panels?",
+        "answer": "Grey"
       },
       {
-        "question": "What appears to be the primary material used in the sideboard's construction?",
-        "answer": "Wood"
-      },
-      {
-        "question": "Considering the visible design, what is the overall shape of the sideboard?",
+        "question": "Describe the overall shape of the presented furniture piece?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many distinct sections or compartments are clearly visible on the sideboard's front?",
-        "answer": "Three"
+        "question": "What appears to be the primary material used in its construction?",
+        "answer": "Wood"
       },
       {
-        "question": "What type of door mechanism is present on the larger left-hand compartment?",
-        "answer": "Hinge"
-      },
-      {
-        "question": "Describe the visible style of the door handles or pulls on the sideboard.",
-        "answer": "Recessed"
-      },
-      {
-        "question": "What seems to be the finish of the sideboard's surface, based on visual texture?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "How many visible shelves are inside the central open compartment?",
-        "answer": "Two"
-      },
-      {
-        "question": "What kind of opening mechanism does the smaller right-hand compartment seem to use?",
-        "answer": "Sliding"
-      },
-      {
-        "question": "Does the sideboard have any visible decorative elements or patterns on its surface?",
-        "answer": "No"
-      },
-      {
-        "question": "Judging by the image, what is the apparent style of the sideboard?",
+        "question": "Considering the visible door designs, what style would best describe it?",
         "answer": "Modern"
       },
       {
-        "question": "Considering its visible features, what is the likely function of this piece of furniture?",
-        "answer": "Storage"
+        "question": "How many distinct doors are visibly present on the sideboard?",
+        "answer": "Three"
       },
       {
-        "question": "Is there any visible evidence of visible grain in the sideboard's material?",
+        "question": "Is there a drawer incorporated into the sideboard's design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent texture of the sideboard's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the visible structural elements, how many shelves are there?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the sideboard exhibit any visible handles or knobs?",
         "answer": "No"
       },
       {
-        "question": "Based solely on the image, what is the approximate height of the sideboard relative to its width?",
-        "answer": "Low"
+        "question": "Describe the visible lines or separations between sections of the sideboard.",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the visible design, what is the furniture's intended function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What type of opening mechanism is suggested by the doors' appearance?",
+        "answer": "Push"
+      },
+      {
+        "question": "Does the image showcase any noticeable decorative elements or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visible construction, how many sections does the unit seem to have?",
+        "answer": "Four"
       }
     ]
   }

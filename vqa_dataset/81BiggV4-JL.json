@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color prominently featured across the phone case's design?",
+        "question": "What is the predominant color dominating the phone case's design?",
         "answer": "Red"
       },
       {
-        "question": "Considering the artistic style, what painting technique is predominantly emulated on the case?",
-        "answer": "Impasto"
-      },
-      {
-        "question": "Describe the overall shape and form of the protective mobile phone accessory shown?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the apparent material used for the creation of this phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the color palette, what secondary color is frequently used as an accent?",
-        "answer": "Blue"
-      },
-      {
-        "question": "What is the apparent finish of the outer surface of this phone case?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Based on the image, what is the design style of the phone case's outer layer?",
+        "question": "What artistic style is predominantly depicted on the phone case surface?",
         "answer": "Abstract"
       },
       {
-        "question": "What additional color is noticeable in the vertical streaks of paint across the case?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "What is the visual texture suggested by the paint strokes on the phone case?",
+        "question": "Describe the overall texture implied by the paint strokes on the phone case?",
         "answer": "Rough"
       },
       {
-        "question": "What kind of mobile device does this protective cover appear designed to fit?",
-        "answer": "Smartphone"
+        "question": "What is the apparent material of this protective phone covering?",
+        "answer": "Plastic"
       },
       {
-        "question": "What other color is subtly used within the paint-like design of this cover?",
-        "answer": "Green"
+        "question": "Considering the image, what colors are most prominently used in the abstract design?",
+        "answer": "Multicolored"
       },
       {
-        "question": "What is the style of the artistic representation on the phone's case?",
-        "answer": "Modern"
+        "question": "What shape best describes the overall form of this product?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Does the phone case's design present any particular patterns or uniformity?",
+        "question": "What is the main visual element conveying the case's protective function?",
+        "answer": "Encasement"
+      },
+      {
+        "question": "Does the design on the phone case seem to be hand-painted or machine-printed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Considering the visual details, what is the primary design technique employed?",
+        "answer": "Brushstrokes"
+      },
+      {
+        "question": "Aside from red, what other color is noticeably abundant in the design?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What kind of pattern does the case predominantly show?",
+        "answer": "Painterly"
+      },
+      {
+        "question": "Does the phone case design feature any discernible geometric shapes?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent primary function of this product as shown in the image?",
-        "answer": "Protection"
+        "question": "What is the general visual impression created by the case's design?",
+        "answer": "Vibrant"
       },
       {
-        "question": "Considering the visual clues, is the phone case design symmetrical or asymmetrical?",
-        "answer": "Asymmetrical"
+        "question": "What is the overall aesthetic that the phone case is aiming for?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Based on its appearance, what seems to be the main function of this item?",
+        "answer": "Protection"
       }
     ]
   }

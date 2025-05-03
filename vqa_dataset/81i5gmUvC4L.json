@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f4/f4f042ff.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's background?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the texture of the packaging's surface, considering the visible image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What language is prominently displayed on the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the visible weight of the product, as indicated on the bag?",
+        "answer": "1kg"
+      },
+      {
+        "question": "What is the brand name as printed on the packaging?",
+        "answer": "Vedokka"
+      },
+      {
+        "question": "What is the main color of the text on the packaging?",
+        "answer": "DarkBrown"
+      },
+      {
+        "question": "Is there a noticeable symbol or logo on the package, and what might its significance be?",
+        "answer": "Vegetarian"
+      },
+      {
+        "question": "What type of information is included on the packaging, aside from branding?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What style of font is used for the brand name, describing its aesthetic?",
+        "answer": "Script"
+      },
+      {
+        "question": "Does the packaging show any markings related to recycling?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the packaging design, what is the overall aesthetic?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Are there any noticeable borders or lines visually separating sections of text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary method of sealing, as observed on the packaging?",
+        "answer": "HeatSealed"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the floral pattern depicted on the phone case?",
+        "question": "What is the dominant color scheme of the floral design on the phone case?",
         "answer": "Pink"
       },
       {
-        "question": "What type of floral elements are predominantly featured in the design?",
-        "answer": "Petals"
+        "question": "What type of flowers are predominantly depicted on the phone case?",
+        "answer": "Roses"
       },
       {
-        "question": "What is the overall shape of the product being showcased in the image?",
+        "question": "What is the overall shape of the phone case shown in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the primary material used for the phone case's construction?",
+        "question": "What appears to be the material of the phone case itself, based on the image?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the general texture of the printed design on the case?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Based on the visual, what colors are the petals on the phone case?",
-        "answer": "Multicolored"
-      },
-      {
-        "question": "What is the style of the floral arrangement depicted on the phone cover?",
+        "question": "Describe the arrangement of the flower petals on the phone case's design.",
         "answer": "Scattered"
       },
       {
-        "question": "What is the apparent finish of the phone case surface?",
+        "question": "What is the general texture of the petals in the design on the phone case?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the image, what color petals are least prominent in the design?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the apparent print style of the flower pattern on the phone case?",
+        "answer": "Photographic"
+      },
+      {
+        "question": "Are there any noticeable patterns or symmetries in the flower arrangement?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the phone case have a matte or glossy finish, according to the image?",
         "answer": "Matte"
       },
       {
-        "question": "What kind of background is suggested by the colors in the image?",
-        "answer": "Pastel"
+        "question": "What other colors besides pink are visible in the flower petals?",
+        "answer": "Red"
       },
       {
-        "question": "Can you describe the arrangement of the flower petals on the phone case?",
-        "answer": "Overlapping"
+        "question": "Based on the image, does the phone case have a raised or flat print?",
+        "answer": "Flat"
       },
       {
-        "question": "What is the implied depth of field of the floral design on the phone case?",
-        "answer": "Shallow"
+        "question": "What is the apparent condition of the flower petals shown in the design?",
+        "answer": "Fresh"
       },
       {
-        "question": "Does the phone case show any noticeable pattern repetitions?",
-        "answer": "Yes"
+        "question": "What could be considered the background of the floral design on the case?",
+        "answer": "Grey"
       },
       {
-        "question": "What is the primary visual focus in the image, considering the phone case?",
-        "answer": "Flowers"
-      },
-      {
-        "question": "Describe the visual effect that the flower petals' different shades create on the case.",
-        "answer": "Gradient"
-      },
-      {
-        "question": "What is the general aesthetic of the phone case design, from what's visually displayed?",
-        "answer": "Romantic"
+        "question": "Ignoring the design, what is the case's primary form factor?",
+        "answer": "Cover"
       }
     ]
   }
