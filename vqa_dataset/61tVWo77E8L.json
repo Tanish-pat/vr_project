@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/62bbecdb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color of the cat tree, as shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What primary material appears to constitute the cat tree's covering?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Describing the cat tree's shape, what geometric form best represents its overall structure?",
+        "answer": "Curved"
+      },
+      {
+        "question": "How many distinct levels or platforms are visibly integrated into the cat tree's design?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent texture of the material used on the cat tree's platforms and posts?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the image, what is the most noticeable shape of the lower resting area?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What seems to be the most prominent feature for the cat to play with on this cat tree?",
+        "answer": "Ball"
+      },
+      {
+        "question": "Based on visual observation, what is the apparent style of the cat tree's design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the visual appearance of the base, where the cat tree stands?",
+        "answer": "Square"
+      },
+      {
+        "question": "Judging from the image, what kind of material seems to form the vertical posts?",
+        "answer": "Carpeted"
+      },
+      {
+        "question": "Describe the structural composition of the supporting posts of this cat tree.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visual details, what is the overall height of the cat tree?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What could be the purpose of the small, raised platform at the top?",
+        "answer": "Platform"
+      },
+      {
+        "question": "How many supporting posts are visually apparent in the image of the cat tree?",
+        "answer": "Four"
+      },
+      {
+        "question": "Describe the general visual aesthetic of the cat tree in the provided image.",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

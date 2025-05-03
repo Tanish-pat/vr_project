@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbcc8f23.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's design?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the pattern primarily composed of?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "Describe the style of the leaf pattern on the phone case.",
+        "answer": "Repeating"
+      },
+      {
+        "question": "What color are the leaves in the phone case's design?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the background color of the phone case's design?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the design appear to be printed or embossed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Considering the image, is the phone case textured or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How would you describe the visual weight of the design?",
+        "answer": "Light"
+      },
+      {
+        "question": "What kind of phone does this case seem designed to fit?",
+        "answer": "Smartphone"
+      },
+      {
+        "question": "Are there any noticeable gaps between the design elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the case show any clear brand markings or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the phone case design symmetrical across the case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, how many sides does the case show?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

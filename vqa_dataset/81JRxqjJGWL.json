@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the visible upper shoe section?",
+        "question": "What is the predominant color of the visible upper shoe textile?",
         "answer": "Gray"
       },
       {
-        "question": "What is the primary material appearing to compose the shoe's upper?",
+        "question": "What is the primary material of the shoe's outer surface?",
         "answer": "Knit"
       },
       {
-        "question": "Describe the texture of the visible upper fabric of the shoe.",
+        "question": "Describe the pattern on the visible upper shoe textile?",
         "answer": "Textured"
       },
       {
-        "question": "What design element is repeatedly present across the shoe's upper?",
-        "answer": "Holes"
-      },
-      {
-        "question": "What is the overall shape of the sole of the shoe?",
+        "question": "What is the overall shape of the shoe's sole?",
         "answer": "Curved"
       },
       {
-        "question": "What color is the interior visible portion of the shoe's heel?",
+        "question": "What color is the prominent brand label inside the shoe?",
         "answer": "Orange"
+      },
+      {
+        "question": "What design element is visible on the shoe's upper?",
+        "answer": "Perforations"
+      },
+      {
+        "question": "What is the color of the midsole around the shoe's perimeter?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visible texture of the shoe's outsole?",
+        "answer": "Wavy"
+      },
+      {
+        "question": "Describe the shoe's overall style or type?",
+        "answer": "Slip-on"
       },
       {
         "question": "What is the apparent material of the shoe's sole?",
         "answer": "Rubber"
       },
       {
-        "question": "What is the color of the midsole section visible on the sole?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the visible pattern on the outsole of the shoe?",
-        "answer": "Wavy"
-      },
-      {
-        "question": "Describe the style of the shoe's closure or entry system.",
-        "answer": "Slip-on"
-      },
-      {
-        "question": "What is the apparent material of the pull tab at the heel?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "What color is the pull tab located on the shoe's heel?",
+        "question": "What color is the pull tab at the back of the shoe?",
         "answer": "Gray"
       },
       {
-        "question": "What brand name is visible inside the shoe?",
-        "answer": "Fusefit"
+        "question": "What is the visible texture of the upper textile?",
+        "answer": "Breathable"
       },
       {
-        "question": "What is the overall style of the shoe?",
-        "answer": "Casual"
+        "question": "What is the shape of the individual perforations on the shoe's upper?",
+        "answer": "Round"
       },
       {
-        "question": "Describe the visible stitching present on the shoe's upper.",
-        "answer": "Minimal"
+        "question": "What is the style of the shoe's toe?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent material of the pull tab?",
+        "answer": "Fabric"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the background design on the phone case?",
+        "question": "What is the predominant color of the background on the phone case?",
         "answer": "Black"
       },
       {
-        "question": "What mythical creatures are repeatedly depicted in the phone case's design?",
-        "answer": "Unicorns"
+        "question": "What mythical creature is repeatedly depicted on the phone case?",
+        "answer": "Unicorn"
       },
       {
-        "question": "What meteorological phenomenon is visually represented alongside the unicorns?",
-        "answer": "Rainbows"
+        "question": "What meteorological phenomenon is depicted alongside the unicorns?",
+        "answer": "Rainbow"
       },
       {
-        "question": "What shapes are interspersed amongst the rainbows and unicorns?",
+        "question": "What shapes appear alongside the rainbows and unicorns?",
         "answer": "Hearts"
       },
       {
-        "question": "What celestial bodies appear as small accents throughout the design?",
+        "question": "What other small shapes are scattered across the case's design?",
         "answer": "Stars"
       },
       {
-        "question": "What is the overall design style of the phone case's pattern?",
+        "question": "What appears to be the primary material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall style or aesthetic of the phone case's design.",
         "answer": "Cute"
       },
       {
-        "question": "Describe the visual appearance of the phone case's outer material?",
-        "answer": "Clear"
-      },
-      {
-        "question": "What is the apparent texture of the phone case's transparent shell?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What shape best describes the overall form of the phone case?",
+        "question": "What is the general shape of the phone case itself?",
         "answer": "Rectangular"
       },
       {
-        "question": "What are the predominant colors found within the rainbows on the case?",
-        "answer": "Pastel"
+        "question": "What color are the unicorns depicted on the phone case?",
+        "answer": "White"
       },
       {
-        "question": "What is the apparent level of detail in the printed design?",
-        "answer": "High"
-      },
-      {
-        "question": "What type of image is used for the repeating pattern on the phone case?",
-        "answer": "Vector"
-      },
-      {
-        "question": "What style are the unicorns drawn in on the phone case?",
-        "answer": "Cartoon"
-      },
-      {
-        "question": "How would you describe the pattern arrangement on the phone case?",
-        "answer": "Repeated"
-      },
-      {
-        "question": "What color are the hearts scattered throughout the case's design?",
+        "question": "What color are the hearts on the phone case?",
         "answer": "Pink"
+      },
+      {
+        "question": "Describe the visual texture of the case's design, considering the image resolution.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are the colors of the rainbows vibrant or muted?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "Considering the overall look, what is the target demographic for this phone case?",
+        "answer": "Girls"
+      },
+      {
+        "question": "Does the phone case appear to be transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What is the overall pattern of elements across the phone case design?",
+        "answer": "Repeating"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b889ca15.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the shoe's upper?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What material appears to constitute the majority of the shoe's upper?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Describe the overall texture of the shoe's upper material.",
+        "answer": "Textured"
+      },
+      {
+        "question": "What color is the midsole of the sneaker?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent style of the shoe's lacing system?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the shape of the shoe's toe box?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the style of the sneaker, generally speaking?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Is there a visible logo or branding on the shoe's tongue?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the design of the sole's outer edge.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general height of the shoe's upper?",
+        "answer": "Low"
+      },
+      {
+        "question": "What seems to be the construction of the shoe's heel counter?",
+        "answer": "Padded"
+      },
+      {
+        "question": "What is the visible color of the heel pull tab?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Describe the pattern in the knitted upper material.",
+        "answer": "Heathered"
+      },
+      {
+        "question": "What is the apparent thickness of the midsole?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Does the shoe have a visible insole?",
+        "answer": "No"
+      }
+    ]
+  }
+]

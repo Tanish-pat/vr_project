@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1ef584e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the food containers shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What primary material appears to constitute these takeout containers?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the overall shape, what is the dominant geometric form of these containers?",
+        "answer": "Cubic"
+      },
+      {
+        "question": "Observing the design, what kind of folding pattern is evident on these containers?",
+        "answer": "Angled"
+      },
+      {
+        "question": "Based on the image, what is the apparent surface texture of these containers?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the apparent style or type of these containers?",
+        "answer": "Takeout"
+      },
+      {
+        "question": "What seems to be the intended use of the items presented in this image?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Considering the image, how many distinct sizes of containers are presented?",
+        "answer": "Three"
+      },
+      {
+        "question": "Looking at the image, what is the apparent print or design on the containers?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Analyzing the image, what seems to be the overall condition of the containers?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent stacking arrangement of the containers?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Judging from the image, what is the implied purpose of the flaps on top?",
+        "answer": "Closure"
+      },
+      {
+        "question": "From the image, are the containers uniformly sized or varied in size?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Considering the image, what is the apparent level of structural integrity of each container?",
+        "answer": "Solid"
+      },
+      {
+        "question": "According to the image, are there any visible markings, labels, or branding?",
+        "answer": "None"
+      }
+    ]
+  }
+]

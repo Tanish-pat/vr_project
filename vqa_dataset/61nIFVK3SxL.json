@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the portfolio's exterior?",
+        "question": "What is the dominant color of the displayed product?",
         "answer": "White"
       },
       {
-        "question": "What shape is the label affixed to the portfolio's exterior?",
+        "question": "What is the primary material seemingly used in the construction of this item?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering its structural integrity, what is the overall form of this product?",
+        "answer": "Envelope"
+      },
+      {
+        "question": "What shape best describes the supplemental label affixed to the item?",
         "answer": "Octagonal"
       },
       {
-        "question": "What material appears to constitute the main body of the portfolio?",
-        "answer": "Cardstock"
-      },
-      {
-        "question": "What is the overall texture of the portfolio's visible surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Describe the design style of the label on the portfolio?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What color is the text on the label affixed to the portfolio?",
+        "question": "What color is the text featured on the label attached to the product?",
         "answer": "Gray"
       },
       {
-        "question": "What appears to be the function of the main compartment of the portfolio?",
-        "answer": "Storage"
+        "question": "Based on the visible label, what design firm is associated with this product?",
+        "answer": "Mohocah"
       },
       {
-        "question": "What seems to be the primary purpose of this item, visually?",
-        "answer": "Organization"
+        "question": "What is the texture observed on the visible surface of the product?",
+        "answer": "Smooth"
       },
       {
-        "question": "What type of graphic element is used within the label's design?",
-        "answer": "Rectangle"
-      },
-      {
-        "question": "What is the visible style of the portfolio's construction?",
-        "answer": "Folded"
-      },
-      {
-        "question": "What is the apparent finish of the portfolio's outer layer?",
+        "question": "Describe the apparent finish of the outer surface of the product?",
         "answer": "Matte"
       },
       {
-        "question": "What is the apparent type of writing displayed on the label?",
-        "answer": "Sans-serif"
+        "question": "What kind of design element is visible on the attached label besides text?",
+        "answer": "Rectangle"
       },
       {
-        "question": "How many pockets are visually evident in this portfolio?",
-        "answer": "One"
+        "question": "Considering the function, what is the product's main purpose?",
+        "answer": "Storage"
       },
       {
-        "question": "Describe the relative thickness of the portfolio?",
-        "answer": "Thin"
+        "question": "What is the visible method of closure for this paper product?",
+        "answer": "Open"
       },
       {
-        "question": "What is the general form of the portfolio's visible external components?",
-        "answer": "Flat"
+        "question": "Is the product's construction visibly layered or single-layered?",
+        "answer": "Layered"
+      },
+      {
+        "question": "What appears to be the overall style or aesthetic of the presented product?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Observing the label, what is the role of Henry Fox in relation to the product?",
+        "answer": "Manager"
+      },
+      {
+        "question": "What seems to be the product's primary intended content based on the description?",
+        "answer": "Sheets"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/69/696dd8ac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the pen's body, as visibly apparent in the image?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Considering the pen's overall form, what is its most dominant shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on visual texture, what is the apparent finish of the pen's barrel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material appears to compose the visible, transparent section near the pen's tip?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the visible ink cartridge inside the transparent section?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the clip, what is its apparent primary function or purpose?",
+        "answer": "Attachment"
+      },
+      {
+        "question": "What writing implement type is shown, based on its visible components?",
+        "answer": "Gel"
+      },
+      {
+        "question": "From the image, what is the apparent overall length of the writing instrument?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the most apparent visible feature which helps the user grip the pen?",
+        "answer": "Grip"
+      },
+      {
+        "question": "What is the color of the clip located near the pen's top?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Judging by the image, what is the apparent material of the pen's clip?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the apparent style of the pen's overall design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visible writing point type of the pen shown?",
+        "answer": "Ballpoint"
+      },
+      {
+        "question": "What is the apparent condition of the pen's visible surface?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering its design, what is the pen's implied functionality?",
+        "answer": "Writing"
+      }
+    ]
+  }
+]

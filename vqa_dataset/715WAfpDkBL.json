@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/25b4e3dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the product's label, as visually apparent?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall shape, what geometrical form best describes the container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the primary material from which the product container is visibly constructed?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent finish of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual design style of the label on the container?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the visible text prominently displayed at the bottom of the label?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What is the color of the text on the nutrition facts panel, as clearly visible?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of information is prominently featured on the major part of the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Describe the visual style of the typography used in the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visible orientation of the text on the product label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are there any noticeable images or illustrations depicted on the label besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the text on the nutrition facts panel relative to the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the label's design, what is its overall visual density?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the shape of the nutrition facts panel area on the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible state of the product container; is it open or sealed?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

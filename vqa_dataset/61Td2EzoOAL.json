@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/46/46fb668d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual characteristic displayed prominently across the image, indicating the nature of the presented information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant organizational structure employed to present the listed components?",
+        "answer": "List"
+      },
+      {
+        "question": "What specific term denotes the category of substances detailed in the provided text, suggesting a nutritional or pharmaceutical context?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the textual content, what is the descriptive term used to classify the constituents that are not primary components?",
+        "answer": "Other"
+      },
+      {
+        "question": "Based on the visual presentation, what is the formatting style used for individual constituent components within the detailed list?",
+        "answer": "Enumeration"
+      },
+      {
+        "question": "Examining the textual information, what is the most frequent punctuation mark used for separating items in the detailed list?",
+        "answer": "Comma"
+      },
+      {
+        "question": "What is the visual property of the text that communicates to the viewer the type of material it is printed on and its visual texture?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the overall visual tone that the text suggests, indicating its role and overall purpose?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Disregarding the content, what color is primarily used to communicate the information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the typeface used to present the information to the viewer?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual style of the text in terms of weight and boldness; is it light, regular, bold, or something else?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Considering the text's position on the image, what is the alignment used to organize the information horizontally?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the visual property of the text's case, whether uppercase or lowercase or a mixture of both?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "In terms of visual characteristics, describe the textual spacing between words and lines within the list of items?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the visual property describing the level of detail in the text based on the image provided?",
+        "answer": "Detailed"
+      }
+    ]
+  }
+]

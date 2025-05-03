@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the main body of the binder?",
+        "question": "What is the predominant color of the main body of the binder carrying case?",
         "answer": "Blue"
       },
       {
-        "question": "What material appears to constitute the binder's exterior?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Describe the overall shape of the presented carrying case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the color of the lower, curved panel on the binder?",
+        "question": "What is the color of the lower curved section of the binder carrying case?",
         "answer": "Gray"
       },
       {
-        "question": "What type of closure mechanism is visible on the binder's front?",
+        "question": "What material appears to be used for the construction of this carrying case?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What is the overall shape of the carrying case presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the style of the carrying handle present at the top of the case.",
+        "answer": "Padded"
+      },
+      {
+        "question": "What type of closure system is prominently visible on the front of the case?",
         "answer": "Zipper"
       },
       {
-        "question": "What is the color of the carrying strap attached to the binder?",
-        "answer": "Black"
-      },
-      {
-        "question": "What kind of handle is present at the top of the binder?",
-        "answer": "Top"
-      },
-      {
-        "question": "Is the texture of the binder's surface smooth or rough?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent number of compartments present on the binder's front?",
-        "answer": "One"
-      },
-      {
-        "question": "What brand label is subtly present on the binder's lower section?",
-        "answer": "AmazonBasics"
-      },
-      {
-        "question": "What is the apparent primary function of this item?",
+        "question": "Considering the visible components, what is the apparent function of this item?",
         "answer": "Storage"
       },
       {
-        "question": "What is the design element separating the top and bottom sections?",
-        "answer": "Curve"
+        "question": "What is the texture of the main fabric on the carrying case, based on visual appearance?",
+        "answer": "Smooth"
       },
       {
-        "question": "What material appears to be used for the binder's zipper pulls?",
-        "answer": "Plastic"
+        "question": "Is there a shoulder strap attached to this carrying case for portability?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the general condition of the binder as visually displayed?",
+        "question": "What is the color of the shoulder strap attached to the carrying case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What brand name, if any, is visible on the carrying case?",
+        "answer": "AmazonBasics"
+      },
+      {
+        "question": "How many zipper compartments appear to be present on the front of the case?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the visible stitching present around the design elements of the bag.",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the style of the lower gray section of the binder carrying case?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent overall condition of the binder carrying case?",
         "answer": "New"
-      },
-      {
-        "question": "What is the style of the strap affixed to the carrying case?",
-        "answer": "Shoulder"
       }
     ]
   }

@@ -5,31 +5,31 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the chair's wooden frame?",
+        "question": "What is the dominant color of the chair's wooden frame?",
         "answer": "Brown"
       },
       {
-        "question": "What material primarily composes the chair's seat?",
+        "question": "What is the primary material used in the chair's construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the texture of the chair's seat cushion.",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the overall shape of the chair's back rest?",
+        "question": "What is the overall shape of the chair's backrest?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent texture of the chair's wooden frame?",
-        "answer": "Smooth"
+        "question": "What color is the upholstery fabric on the chair's seat?",
+        "answer": "Beige"
       },
       {
         "question": "How many chairs are depicted in the provided image?",
         "answer": "Two"
       },
       {
-        "question": "What is the color of the fabric used for the chair's seat cushion?",
-        "answer": "Beige"
-      },
-      {
-        "question": "What design element is visible on the chair's backrest?",
+        "question": "What is the visible design element on the chair's backrest?",
         "answer": "Slats"
       },
       {
@@ -37,32 +37,32 @@
         "answer": "Tapered"
       },
       {
-        "question": "What is the visible overall construction material of the chair?",
-        "answer": "Wood"
+        "question": "Describe the grain pattern visible in the wood of the chair?",
+        "answer": "Linear"
       },
       {
-        "question": "Considering the chair's design, what is its likely intended use?",
-        "answer": "Dining"
-      },
-      {
-        "question": "Describe the shape of the chair's legs at the base?",
-        "answer": "Straight"
-      },
-      {
-        "question": "What is the apparent finish of the wooden frame?",
+        "question": "What is the apparent finish on the wood of the chair frame?",
         "answer": "Matte"
       },
       {
-        "question": "What is the overall height of the chair relative to a person?",
-        "answer": "Seating"
+        "question": "What is the shape of the chair's seat cushion?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent fabric weave type of the seat cushion?",
-        "answer": "Plain"
+        "question": "How would you describe the overall design aesthetic of the chairs?",
+        "answer": "Modern"
       },
       {
-        "question": "Are there any noticeable decorative carvings on the wood?",
-        "answer": "No"
+        "question": "What is the apparent thickness of the wooden slats on the back?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is the type of joinery apparent in the chair's frame?",
+        "answer": "Mortise"
+      },
+      {
+        "question": "Considering the image, what is the chair's intended use?",
+        "answer": "Dining"
       }
     ]
   }

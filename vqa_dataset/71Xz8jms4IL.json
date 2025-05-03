@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9b/9bc73f01.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the rectangular nutrition facts label shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the textual content, what is the primary subject matter detailed on this label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the overall shape of the presented nutrition facts label, based on the image alone?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the text's primary font style used throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent texture of the surface on which the information is printed, as visibly observed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the format of the nutritional data presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the main visual element besides the text, notably on the right-hand side of the label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Considering only the visual elements, how would you describe the overall label style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary method of information organization used for data presentation?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What appears to be the physical condition of the nutrition facts label displayed in the image?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What unit of measurement is used primarily for the serving size indicated in the image?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What numerical value indicates the total number of calories per serving, as presented?",
+        "answer": "20"
+      },
+      {
+        "question": "Considering the image, what is the approximate number of sections or categories in the data table?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the prevalent color of the text employed in the nutrition facts label presented?",
+        "answer": "Black"
+      },
+      {
+        "question": "From a visual standpoint, what is the general level of detail provided in the text's presentation?",
+        "answer": "High"
+      }
+    ]
+  }
+]

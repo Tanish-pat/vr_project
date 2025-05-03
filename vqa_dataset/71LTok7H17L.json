@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e30037eb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the predominant style of this shoe?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the primary color of the shoe's upper material, as visually apparent?",
+        "answer": "Tan"
+      },
+      {
+        "question": "Observing the texture of the shoe's upper, what material appears to be used?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the visible construction, what type of closure mechanism does the shoe utilize?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the shape of the shoe's toe cap, as directly observed from the image?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Examining the sole, what color is the shoe's outsole, as visibly clear?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the approximate height of the shoe's heel, as visibly indicated?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the pattern, what is the visible surface texture of the shoe's upper?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Based on visible components, what type of sole does the shoe seem to have?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Judging by the shoe's overall look, what is its likely intended use?",
+        "answer": "Dress"
+      },
+      {
+        "question": "Considering the laces, what is the visible material they appear to be made from?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the overall look of the stitching on the visible parts of the shoe?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Based on visible construction, how many eyelets does the shoe's lacing system have?",
+        "answer": "Five"
+      },
+      {
+        "question": "Looking at the heel counter, what is its apparent design feature?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the leather used in the shoe's upper?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

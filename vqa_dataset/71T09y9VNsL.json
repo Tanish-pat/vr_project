@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case design?",
+        "question": "What is the dominant color scheme of the depicted phone case design?",
         "answer": "Pink"
       },
       {
-        "question": "What is the style of the main graphic on the phone case?",
+        "question": "What is the primary artistic style employed in the phone case's illustration?",
         "answer": "Silhouette"
       },
       {
-        "question": "What headwear is depicted on the female figure in the phone case image?",
+        "question": "What headwear is the illustrated woman wearing on the phone case?",
         "answer": "Hat"
       },
       {
-        "question": "What type of flower adorns the hat on the phone case design?",
+        "question": "What kind of flower is prominently featured in the phone case's design?",
         "answer": "Orchid"
       },
       {
-        "question": "What is the apparent texture of the hat on the phone case design?",
+        "question": "What is the apparent texture of the illustrated woman's hat in the phone case design?",
         "answer": "Shiny"
       },
       {
-        "question": "What is the overall shape of the phone case itself?",
+        "question": "What is the overall shape of the phone case as shown in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent material of the phone case itself?",
+        "question": "What material does the phone case seem to be made of, based on its appearance?",
         "answer": "Plastic"
       },
       {
-        "question": "Does the phone case design include any sparkling elements?",
-        "answer": "Yes"
+        "question": "What is the apparent finish of the phone case, based on the reflection?",
+        "answer": "Glossy"
       },
       {
-        "question": "What is the primary color of the woman's clothing in the design?",
-        "answer": "Purple"
+        "question": "What is the style of the woman's attire as portrayed in the phone case's image?",
+        "answer": "Elegant"
       },
       {
-        "question": "Is there a visible neck accessory on the female figure?",
-        "answer": "Yes"
+        "question": "What type of decorative elements are present on the woman's hat?",
+        "answer": "Stars"
       },
       {
-        "question": "What is the neck accessory depicted on the woman in the image?",
-        "answer": "Ribbon"
-      },
-      {
-        "question": "What is the style of the woman's hair in the phone case image?",
-        "answer": "Updo"
-      },
-      {
-        "question": "What is the orientation of the woman's face in the design?",
+        "question": "What is the illustrated woman's overall posture or pose in the phone case's artwork?",
         "answer": "Profile"
       },
       {
-        "question": "Considering the design, who is the target audience for this case?",
-        "answer": "Women"
+        "question": "What color are the woman's hair and dress in the phone case's picture?",
+        "answer": "Dark"
       },
       {
-        "question": "Are there any noticeable patterns on the sides of the phone case?",
-        "answer": "Yes"
+        "question": "Besides the hat, what other accessory does the woman in the image appear to wear?",
+        "answer": "Necklace"
+      },
+      {
+        "question": "What is the illustrated woman's facial expression in the phone case design?",
+        "answer": "Serene"
+      },
+      {
+        "question": "What is the design around the edges of the phone case?",
+        "answer": "Gradient"
       }
     ]
   }

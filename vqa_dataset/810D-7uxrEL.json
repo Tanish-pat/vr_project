@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f382b2f6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent text and numerical data displayed, what is the primary function of this rectangular product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the detailed layout and organized sections, what specific type of information is this product intended to convey?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the clear visual hierarchy and prominent number, what is the quantified value listed at the top of the item?",
+        "answer": "210"
+      },
+      {
+        "question": "Analyzing the typeface style and overall presentation, what is the most apparent characteristic of the text's appearance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Focusing on the text's properties and arrangement, what is the apparent orientation of the displayed information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Given the size and proportions of the rectangular item, what is its overall shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the surface and texture, what is the noticeable visual quality of the background of the product?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the clear and consistent font choice, what can be concluded about the uniformity of the textual elements?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Observing the repeated structure of values and percentages, what is the core organizational pattern used in this presentation?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Given the use of percentages alongside numeric values, what is the context of these numerical representations?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "Based on the repeated use of numerical data, what is the general theme of this informational display?",
+        "answer": "Quantitative"
+      },
+      {
+        "question": "Observing the multiple labeled sections, what is the overall structure of the presented data?",
+        "answer": "Categorical"
+      },
+      {
+        "question": "Considering the detailed listing of components, what is the implied intended audience for this type of information?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "In terms of design, what can be said about the arrangement of the elements in this product?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Considering the overall aesthetic and informational content, what is the general purpose of this item?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

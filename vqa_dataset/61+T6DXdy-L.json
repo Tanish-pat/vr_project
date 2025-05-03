@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd36fa76.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary visual element dominating the entire surface of this product, which provides detailed information regarding its nutritional composition?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the overall textual presentation style employed consistently throughout the nutritional data displayed on this product?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Considering the visual layout, what is the primary method used to organize and categorize the numerous nutritional components?",
+        "answer": "Rows"
+      },
+      {
+        "question": "What is the descriptive term used to visually denote the quantity of each specific nutrient present in a single serving of this product?",
+        "answer": "Amount"
+      },
+      {
+        "question": "What term is visually used to quantify the relative proportion of each nutrient in a serving compared to a recommended daily intake?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the visually presented unit of measurement consistently used to quantify the amount of each listed nutritional component?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What term is visually employed to denote the total weight or volume of a single unit or portion of this product?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Based on the visual layout, what is the descriptive term for the complete list of ingredients included in this product?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the visual label used to specifically indicate the total amount of ingredients contained within a single serving?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What visually apparent word indicates the reference point for daily nutrient intake percentages?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the term visually used to describe the ingredients' origin or characteristics (e.g., organic)?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What term visually represents the overall health benefits of specific components?",
+        "answer": "Value"
+      },
+      {
+        "question": "What is the visual term used to identify each individual nutritional element listed?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Considering the visual appearance, what term describes the size of the product's unit?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What is the visual term indicating the specific portion of the product's nutritional information?",
+        "answer": "Serving"
+      }
+    ]
+  }
+]

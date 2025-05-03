@@ -13,56 +13,56 @@
         "answer": "Glass"
       },
       {
-        "question": "Describe the finish of the legs' metallic framework?",
+        "question": "Describe the visual texture of the tabletop's surface design?",
+        "answer": "Marbled"
+      },
+      {
+        "question": "What metallic finish is predominantly visible on the legs?",
         "answer": "Gold"
       },
       {
-        "question": "What is the overall geometric shape of the table's top?",
-        "answer": "Square"
+        "question": "What is the general shape of the tabletop shown in the image?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What kind of wood is used for the supporting frame?",
-        "answer": "Pine"
+        "question": "What seems to be the primary material of the table's legs?",
+        "answer": "Metal"
       },
       {
-        "question": "What design is printed onto the glass tabletop?",
-        "answer": "Marble"
-      },
-      {
-        "question": "Considering the legs, what is the table's structural style?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Describe the visual texture of the marble-effect top?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "How many legs does this particular table possess?",
-        "answer": "Four"
-      },
-      {
-        "question": "What is the visual appearance of the metallic supports?",
-        "answer": "Sleek"
-      },
-      {
-        "question": "Describe the profile of the table's supporting elements?",
-        "answer": "Linear"
-      },
-      {
-        "question": "What is the apparent thickness of the glass top?",
-        "answer": "Thin"
-      },
-      {
-        "question": "What is the general style of the metal used in the legs?",
+        "question": "Considering the legs, what design style would best describe this table?",
         "answer": "Minimalist"
       },
       {
-        "question": "Does the tabletop have any visible seams or joints?",
+        "question": "What color best describes the metallic accents of the table?",
+        "answer": "Brass"
+      },
+      {
+        "question": "Judging by the image, how many visible legs does the table possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent thickness of the tabletop glass in millimeters?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the glass tabletop show any significant imperfections?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent grain direction of the wooden supports?",
-        "answer": "Vertical"
+        "question": "What is the approximate width of the visible table legs?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Based on the visual, what is the overall style of the table?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Describe the color scheme present in this piece of furniture?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What type of wood appears to be used in the visible table legs?",
+        "answer": "Unknown"
       }
     ]
   }

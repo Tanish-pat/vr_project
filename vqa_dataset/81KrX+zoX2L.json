@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2ba6b922.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color prominently displayed on the supplement bottle's label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What specific mineral is prominently featured in the product's labeling?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "What is the noticeable text indicating the release mechanism of the supplement?",
+        "answer": "Sustained"
+      },
+      {
+        "question": "What is the material that appears to compose the bottle of the dietary supplement?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the text indicating the dosage of the supplement?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the discernible graphic style utilized on the label's top part?",
+        "answer": "Botanical"
+      },
+      {
+        "question": "What is the predominant texture observable on the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual style of the packaging design?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the type of seal observed affixed to the bottle's cap?",
+        "answer": "Tamper"
+      },
+      {
+        "question": "What kind of supplement is indicated on the product label?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What is the shape of the supplement tablets as implied by the bottle shape?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the color of the brand logo visible on the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the style of the typography employed for the brand name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the unit of measurement stated for the potassium content?",
+        "answer": "mg"
+      }
+    ]
+  }
+]

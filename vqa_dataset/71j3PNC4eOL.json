@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c00e1fc7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the car charger's main body?",
+        "answer": "Black"
+      },
+      {
+        "question": "What metallic accent color is visible on the bottom of the car charger?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall shape of the car charger's design?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to be used for the construction of the charger?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What brand logo is prominently displayed on the charger's side?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What type of connector is implied by the shape of the charger's top?",
+        "answer": "USB"
+      },
+      {
+        "question": "What feature suggests its intended use in a vehicle?",
+        "answer": "Plug"
+      },
+      {
+        "question": "Describing the surface texture of the charger's body, what is it?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of the brand logo's placement on the product?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general appearance of the charger's design?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What seems to be the orientation of the Amazon logo on the body?",
+        "answer": "Rotated"
+      },
+      {
+        "question": "Considering the charger's size, what would its form factor be described as?",
+        "answer": "Compact"
+      },
+      {
+        "question": "What does the visible metallic section at the base seem to be made of?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What word describes the overall build of the car charger in appearance?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on its visual attributes, what is the likely function of this device?",
+        "answer": "Charging"
+      }
+    ]
+  }
+]

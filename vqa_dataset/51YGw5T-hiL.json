@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the platform bed's base?",
+        "question": "What is the predominant color of the main body of the slatted bed base?",
         "answer": "White"
       },
       {
-        "question": "What material appears to constitute the bed's slatted support?",
+        "question": "What material appears to compose the majority of the visible slats?",
         "answer": "Wood"
       },
       {
-        "question": "What is the overall shape of the storage base unit?",
+        "question": "What is the general shape of the storage unit's visible exterior?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describing the visible texture of the bed's white exterior, is it matte or glossy?",
-        "answer": "Matte"
+        "question": "What color is the visible portion of the bed base's connecting hardware?",
+        "answer": "Grey"
       },
       {
-        "question": "What color is the visible trim or accent piece along the bed's edge?",
-        "answer": "Gray"
+        "question": "What seems to be the texture of the visible surfaces of the storage unit?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the slatted support, what is its orientation relative to the bed's length?",
+        "question": "Describing the arrangement of the wooden slats, are they parallel or otherwise?",
         "answer": "Parallel"
       },
       {
-        "question": "What kind of handle or lift mechanism is integrated into the bed's design?",
-        "answer": "Loop"
+        "question": "What is the apparent material of the base supporting the wooden slats?",
+        "answer": "Plastic"
       },
       {
-        "question": "Judging by the image, is the bed frame's structure primarily solid or open?",
-        "answer": "Solid"
-      },
-      {
-        "question": "What seems to be the material of the visible handle of the bed?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Observing the base's edge profile, is it sharply angled or gently curved?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What is the apparent finish of the wooden slats supporting the mattress?",
-        "answer": "Natural"
-      },
-      {
-        "question": "From the image, how many visible slats form the bed's support structure?",
-        "answer": "Many"
-      },
-      {
-        "question": "What is the general style of the bed, given the design elements shown?",
+        "question": "Considering the overall style, would you describe the bed base as modern or antique?",
         "answer": "Modern"
       },
       {
-        "question": "Considering the entire visible structure, is it primarily high or low profile?",
+        "question": "What is the apparent function of the small, dark ring or loop at the head?",
+        "answer": "Handle"
+      },
+      {
+        "question": "Excluding the slats, what other prominent material seems to be used?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the visible shape of each individual slat in the bed base?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall impression of the bed base's height in relation to its width?",
         "answer": "Low"
       },
       {
-        "question": "Based on the visible construction, is the bed designed for easy assembly or complex setup?",
-        "answer": "Easy"
+        "question": "Are there any noticeable patterns or designs on the main body of the unit?",
+        "answer": "None"
+      },
+      {
+        "question": "Regarding the wooden slats, are they closely spaced or widely spaced?",
+        "answer": "Closely"
+      },
+      {
+        "question": "Considering the construction, does it appear sturdy or flimsy?",
+        "answer": "Sturdy"
       }
     ]
   }
