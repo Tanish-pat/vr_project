@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6adddde7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's contents as shown through the jar?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the product's container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the main body of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the lid of the product's container?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the product inside the jar?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the shape of the label on the jar.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the prominent text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of seal, if any, is visible on the jar's lid?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visible text, what is the brand name of this product?",
+        "answer": "Wholesome"
+      },
+      {
+        "question": "What seems to be the primary color accent on the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Does the jar exhibit any noticeable markings beyond the label?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visible material of the product's label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visible text, what is the likely form of this product?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What recycling symbol, if any, is displayed on the label?",
+        "answer": "PCR"
+      }
+    ]
+  }
+]

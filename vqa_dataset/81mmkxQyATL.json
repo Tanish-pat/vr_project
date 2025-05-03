@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5bbb76e0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary shape of the pendant depicted in the provided image?",
+        "answer": "Cross"
+      },
+      {
+        "question": "What specific color is the central design element of this pendant?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to compose the border of the pendant?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Can you describe the texture of the dark-colored inlay on the pendant?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What color is the visible metal surrounding the central black element?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What kind of chain is shown accompanying the cross pendant?",
+        "answer": "Box"
+      },
+      {
+        "question": "What is the apparent finish of the metallic parts of the pendant?",
+        "answer": "Polished"
+      },
+      {
+        "question": "Considering the image, what seems to be the overall style of the pendant?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent metal type used in the border?",
+        "answer": "Stainless"
+      },
+      {
+        "question": "Describe the visual pattern that is etched into the black portion of the cross.",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "What seems to be the clasp type used on the chain shown with the pendant?",
+        "answer": "Lobster"
+      },
+      {
+        "question": "How would you describe the overall visual impression of the pendant's color scheme?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Is the black inlay recessed or raised relative to the metal border?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "What is the apparent thickness of the metal border surrounding the black inlay?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the design elements, is this pendant likely intended for a male or female?",
+        "answer": "Male"
+      }
+    ]
+  }
+]

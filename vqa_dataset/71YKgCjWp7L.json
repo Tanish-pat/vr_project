@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1dbcec06.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the cereal squares shown on the box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the individual cereal pieces depicted?",
+        "answer": "Square"
+      },
+      {
+        "question": "Considering the texture, what is the apparent feel of the cereal pieces?",
+        "answer": "Crunchy"
+      },
+      {
+        "question": "What flavor is prominently displayed on the front of the cereal box?",
+        "answer": "Cinnamon"
+      },
+      {
+        "question": "What is the primary ingredient, as stated on the packaging?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What is the stated nature of the cereal, according to its label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the brand name visible on the cereal box's packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Based on the image, what is the style of the cereal pieces?",
+        "answer": "Squares"
+      },
+      {
+        "question": "What kind of container is the cereal presented in, as shown on the box?",
+        "answer": "Bowl"
+      },
+      {
+        "question": "Describe the overall color scheme of the box's design elements.",
+        "answer": "Green"
+      },
+      {
+        "question": "What word describes the overall texture implied by the cereal's appearance?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What kind of drink is shown alongside the cereal in the image?",
+        "answer": "Juice"
+      },
+      {
+        "question": "What material is primarily indicated for the cereal's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the shape of the cereal box itself, as viewed from the front?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What additional ingredient is mentioned alongside the primary ingredient?",
+        "answer": "Rice"
+      }
+    ]
+  }
+]

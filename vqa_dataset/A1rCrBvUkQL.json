@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf03e4c4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant shade observed across the entire fabric expanse?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible drape and folds, what is the apparent texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the fabric's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the subtle variations in tone, what is the fabric's implied surface character?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image, what is the general impression of the fabric's weight or density?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the most apparent pattern or design element seen on the fabric surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the fabric's drape and how it falls, what is the likely composition?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Observing the gentle folds, what is the fabric's implied flexibility and pliancy?",
+        "answer": "Drapable"
+      },
+      {
+        "question": "What is the visually apparent type of weave or textile construction?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging from the image, is there any noticeable sheen or luster on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the fabric exhibit any visible imperfections or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual cues, what is the fabric's implied softness or harshness?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the visible degree of transparency or opacity of the fabric?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the image, what is the overall impression of the fabric's structure?",
+        "answer": "Even"
+      },
+      {
+        "question": "Considering the image, what is the fabric's visible color saturation?",
+        "answer": "Low"
+      }
+    ]
+  }
+]
