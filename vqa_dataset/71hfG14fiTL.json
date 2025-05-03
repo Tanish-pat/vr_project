@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5a81efdd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted phone case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the main graphic design element featured on the phone case?",
+        "answer": "Gamepad"
+      },
+      {
+        "question": "What appears to be the material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the finish or texture implied by the gamepad image?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on the visible edges, what kind of design does the case have?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What color is the visible portion of the phone case's side?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Judging by the image, what style does the gamepad graphic evoke?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "Describe the lighting effect used in the gamepad's depiction.",
+        "answer": "Dramatic"
+      },
+      {
+        "question": "What is the apparent level of detail in the gamepad's image?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the background color of the gamepad image on the case?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the case appear to have any noticeable pattern besides the gamepad?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of buttons are shown on the depicted gamepad?",
+        "answer": "Analog"
+      },
+      {
+        "question": "What is the surface texture implied for the gamepad in the design?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what is the overall aesthetic of the design?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

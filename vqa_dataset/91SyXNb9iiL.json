@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the depicted travel bag?",
+        "question": "What is the predominant color of the carry-on bag shown in the image?",
         "answer": "Black"
       },
       {
-        "question": "Considering the bag's construction, what primary material is used?",
-        "answer": "Polyester"
-      },
-      {
-        "question": "What is the overall shape of the presented under-seat carry-on luggage?",
+        "question": "Considering the bag's overall form, what is its primary shape?",
         "answer": "Rectangular"
       },
       {
-        "question": "Observing the bag's external features, what type of closure system is visible?",
-        "answer": "Zipper"
+        "question": "Based on its appearance, what material seems to have been used in the bag's construction?",
+        "answer": "Polyester"
       },
       {
-        "question": "Based on the image, what is the apparent texture of the bag's outer fabric?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What kind of strap is prominently displayed for carrying the bag?",
+        "question": "Judging by the image, what is the primary type of strap visible on this travel bag?",
         "answer": "Shoulder"
       },
       {
-        "question": "Judging by the visual details, how many primary compartments does the bag possess?",
-        "answer": "One"
+        "question": "How many main compartments or sections are readily apparent on the front of the bag?",
+        "answer": "Two"
       },
       {
-        "question": "What is the apparent style of this carry-on bag, considering the visible design features?",
-        "answer": "Simple"
+        "question": "What is the apparent texture of the bag's outer fabric, considering the visual details?",
+        "answer": "Smooth"
       },
       {
-        "question": "Examining the bag's structure, what is the design of its handles or grips?",
-        "answer": "Top"
+        "question": "Does the carry-on bag seem to feature any visible zippers or closures?",
+        "answer": "Yes"
       },
       {
-        "question": "Can you describe the visible buckles or fasteners securing the bag's components?",
-        "answer": "Plastic"
+        "question": "Considering the design, does the bag appear to have any additional pockets or organizers on its surface?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the general look of the visible stitching throughout the bag's construction?",
-        "answer": "Straight"
-      },
-      {
-        "question": "Analyzing the exterior, does the bag feature any noticeable logos or branding?",
+        "question": "Is there any noticeable branding or logo visible on the main body of the product?",
         "answer": "No"
       },
       {
-        "question": "Considering its apparent size and style, what is the suggested use for this bag?",
-        "answer": "Travel"
+        "question": "Does the overall design of this travel bag suggest it is intended for carrying heavier items?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the apparent overall condition of the depicted carry-on bag?",
-        "answer": "New"
+        "question": "What is the apparent style of this travel bag \u2013 is it casual or formal in its presentation?",
+        "answer": "Casual"
       },
       {
-        "question": "Considering its design, what type of wheeled system does this bag have?",
-        "answer": "None"
+        "question": "Examining the image, does the bag exhibit any significant decorative elements or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visual details, what appears to be the bag's carrying capacity, small, medium, or large?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the visible features, is the bag designed for use as a carry-on on planes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, what type of closure mechanisms are evident on the main compartment?",
+        "answer": "Zipper"
       }
     ]
   }

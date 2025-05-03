@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/11b718d4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form factor, what is the predominant shape of this power adapter?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color observed across the device's visible surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the markings visible, what is the manufacturing location of this charger?",
+        "answer": "China"
+      },
+      {
+        "question": "What type of safety certification is clearly shown on the product's casing?",
+        "answer": "Intertek"
+      },
+      {
+        "question": "What does the prominent text indicate concerning this device's primary function?",
+        "answer": "Charger"
+      },
+      {
+        "question": "Focusing on the electrical interface, how many output ports are explicitly indicated?",
+        "answer": "Six"
+      },
+      {
+        "question": "Examining the text detailing the power specifications, what is the stated wattage?",
+        "answer": "60W"
+      },
+      {
+        "question": "From the image's visual details, what appears to be the material of the outer casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the text on the adapter, what is the model number assigned to this product?",
+        "answer": "AC13-02"
+      },
+      {
+        "question": "Based on the labeling, what is the visible indication of the serial number or similar identifier?",
+        "answer": "1015"
+      },
+      {
+        "question": "Considering the visible markings, what global regulatory compliance standard is indicated?",
+        "answer": "CE"
+      },
+      {
+        "question": "What is the apparent surface texture of the charger\u2019s outer shell?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual indication on the plug concerning its input voltage?",
+        "answer": "100-240V"
+      },
+      {
+        "question": "From the image, what is the design style of the input plug?",
+        "answer": "Double"
+      },
+      {
+        "question": "What is the visible textual descriptor suggesting the connector type?",
+        "answer": "DC"
+      }
+    ]
+  }
+]

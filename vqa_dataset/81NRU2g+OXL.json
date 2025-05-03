@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf20a073.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant upholstery texture of the dark-grey chair, seemingly smooth or subtly patterned?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the burgundy chair, what is the apparent material of its upholstery, velvet or linen?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "What is the primary color of the fabric covering the chair positioned furthest to the left?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Describe the overall shape of each of the shown accent chairs; are they rounded or angular?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What color is the upholstery of the accent chair in the center, displaying a more textured weave?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Focusing on the chair's legs, what material appears to constitute their construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the color of the visible wooden legs supporting the chairs?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the burgundy chair, what is the style of its button tufting; is it a high or low profile?",
+        "answer": "High"
+      },
+      {
+        "question": "What seems to be the most prevalent color across all the displayed chairs?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Describe the style of the armrests on the accent chairs; are they rolled or straight?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What is the overall design aesthetic suggested by the chairs, modern or traditional?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "In terms of size, are the chairs predominantly large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the primary function suggested by the visual characteristics of each chair?",
+        "answer": "Seating"
+      },
+      {
+        "question": "Describe the apparent construction of the chair backs; are they high or low?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the general arrangement of the chairs in the provided image; are they clustered or spaced?",
+        "answer": "Clustered"
+      }
+    ]
+  }
+]

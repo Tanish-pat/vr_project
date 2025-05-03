@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the textual information displayed, what primary ingredient is prominently featured in the product?",
-        "answer": "Tea"
-      },
-      {
-        "question": "Based on the visible text, what secondary ingredient is included among the components?",
-        "answer": "Peppermint"
-      },
-      {
-        "question": "According to the label, which additional organic component is listed as an ingredient?",
-        "answer": "Calendula"
-      },
-      {
-        "question": "What descriptor is consistently used to modify each ingredient listed on the label?",
-        "answer": "Organic"
-      },
-      {
-        "question": "What specific type of tea is explicitly mentioned as an ingredient?",
-        "answer": "Puerh"
-      },
-      {
-        "question": "What is the dominant color of the text displayed within the image?",
+        "question": "Considering the overall visual presentation, what single word best describes the dominant textual color observed in the provided image?",
         "answer": "Green"
       },
       {
-        "question": "What style of lettering is used throughout the textual information in the image?",
-        "answer": "Sans-serif"
+        "question": "Based on the visible text, what primary type of ingredient is prominently featured in this product?",
+        "answer": "Tea"
       },
       {
-        "question": "What is the overall presentation of the textual information on the label?",
+        "question": "Examining the textual details, can you identify one specific type of tea mentioned among the ingredients?",
+        "answer": "Puerh"
+      },
+      {
+        "question": "From the visible text, what additional aromatic herb is listed as an ingredient?",
+        "answer": "Peppermint"
+      },
+      {
+        "question": "According to the visible text, what edible flower is included in the ingredients list?",
+        "answer": "Calendula"
+      },
+      {
+        "question": "What descriptive word found within the text best qualifies the presence of each ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall layout of the text as displayed in the image?",
         "answer": "Linear"
       },
       {
-        "question": "Considering the text's visual characteristics, what is the text's apparent case?",
-        "answer": "Upper"
+        "question": "Judging from the visible text, what is the apparent purpose of the image?",
+        "answer": "Ingredients"
       },
       {
-        "question": "If the text were to be analyzed for its visual weight, how would one describe the style?",
-        "answer": "Light"
+        "question": "Considering the visual characteristics, what is the style of the text?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "What is the texture of the visible background surface on which the text is placed?",
+        "question": "Focusing on the typography, how would you describe the weight or boldness of the text?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What could be inferred about the size of the text based on its visual appearance?",
+        "answer": "Small"
+      },
+      {
+        "question": "How would you describe the overall clarity of the text presented in the image?",
+        "answer": "Blurry"
+      },
+      {
+        "question": "Judging solely by the image, what is the background color where the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "If you were to describe the texture of the text, using just one word, how would you describe the text?",
         "answer": "Smooth"
       },
       {
-        "question": "Analyzing the text's visual uniformity, what could be said about its alignment?",
-        "answer": "Left"
-      },
-      {
-        "question": "Focusing solely on visible elements, what would best describe the text density?",
-        "answer": "Sparse"
-      },
-      {
-        "question": "If the label were to be assessed for visual contrast, what would best characterize the lettering against the background?",
-        "answer": "High"
-      },
-      {
-        "question": "Considering the image content, what is the overall formatting of the list of ingredients?",
-        "answer": "List"
+        "question": "Based only on the visual presentation of the text, what best describes the density of the words?",
+        "answer": "Compact"
       }
     ]
   }

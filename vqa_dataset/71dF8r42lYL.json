@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme observed across the entire phone case surface?",
-        "answer": "Purple"
+        "question": "What is the dominant color visually displayed on the phone case?",
+        "answer": "Pink"
       },
       {
-        "question": "What textural effect is predominantly depicted on the phone case's outer layer?",
-        "answer": "Marbled"
-      },
-      {
-        "question": "Considering the visual pattern, what artistic style seems to have inspired the phone case design?",
+        "question": "What is the overall texture or style of the design on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "What appears to be the primary material used in the manufacturing of this phone case?",
+        "question": "Considering the appearance, what material seems most likely for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Based on the image, what is the overall shape or form factor of the protective case?",
+        "question": "Describe the visual pattern or style of the print on the phone case.",
+        "answer": "Marbled"
+      },
+      {
+        "question": "What is the general shape of the product shown in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "Judging from the image, what kind of finish does the phone case's surface appear to possess?",
+        "question": "Based on its visual features, what type of item is depicted?",
+        "answer": "Case"
+      },
+      {
+        "question": "What seems to be the primary design element covering the phone case?",
+        "answer": "Paint"
+      },
+      {
+        "question": "What could be the finish of the phone case's surface?",
         "answer": "Matte"
       },
       {
-        "question": "Does the depicted phone case show any noticeable logo, branding, or text?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the general visual impression regarding the phone case's level of detail in design?",
-        "answer": "High"
-      },
-      {
-        "question": "From the image, can you describe the intensity or vibrancy of the color displayed on the case?",
+        "question": "Describe the color saturation and brightness of the pink hue.",
         "answer": "Deep"
       },
       {
-        "question": "Does the visual pattern on the case seem to follow a regular, repeated motif or is it random?",
-        "answer": "Random"
+        "question": "Judging by the image, how many parts comprise the shown item?",
+        "answer": "One"
       },
       {
-        "question": "Observing the image, what is the approximate thickness or bulkiness of the phone case?",
-        "answer": "Slim"
+        "question": "If you were to touch the case, what texture would you expect?",
+        "answer": "Smooth"
       },
       {
-        "question": "Based on the image provided, what is the inferred level of protection offered by the phone case?",
-        "answer": "Moderate"
+        "question": "What type of phone model does the case appear to fit?",
+        "answer": "Samsung"
       },
       {
-        "question": "Does the phone case appear to have any visible openings or cutouts for ports or buttons?",
-        "answer": "Yes"
+        "question": "Considering the printing quality, how detailed is the artwork?",
+        "answer": "High"
       },
       {
-        "question": "Looking at the image, does the phone case design seem suitable for a particular gender?",
-        "answer": "Neutral"
+        "question": "Does the image show any noticeable defects on the case itself?",
+        "answer": "No"
       },
       {
-        "question": "Describe the visual clarity and sharpness of the printed design on the phone case.",
-        "answer": "Clear"
+        "question": "Based on the image, is the case design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
       }
     ]
   }
