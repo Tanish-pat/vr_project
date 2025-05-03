@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case's background?",
-        "answer": "Off-white"
+        "question": "What is the dominant color scheme of the phone case design?",
+        "answer": "Beige"
       },
       {
-        "question": "What material appears to be used for the lettering on the case?",
+        "question": "What material appears to constitute the letter tiles on the case?",
         "answer": "Wood"
       },
       {
-        "question": "What is the overall shape of the phone case itself?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Describe the arrangement of the letter blocks on the case?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What three words are displayed on the phone case?",
+        "question": "What is the primary message conveyed by the letter tiles on the phone case?",
         "answer": "Magic"
       },
       {
-        "question": "What color are the letters on the individual blocks?",
-        "answer": "Black"
+        "question": "Describe the typeface style used in the words on the phone case?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "What appears to be the texture of the letter blocks?",
+        "question": "What is the overall shape of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the letter tiles forming the words on the case?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the letter tiles on the phone case?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the sides, what is the phone case's apparent thickness?",
-        "answer": "Slim"
+        "question": "What specific word is presented immediately below the word 'Girl'?",
+        "answer": "Magic"
       },
       {
-        "question": "What style of lettering is used on the phone case?",
-        "answer": "Block"
+        "question": "What color is the background of the phone case design?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "How many words are displayed using the letter tiles on the phone cover?",
+        "answer": "Three"
       },
       {
         "question": "What is the apparent finish of the phone case's surface?",
         "answer": "Matte"
       },
       {
-        "question": "What is the case design primarily characterized by?",
-        "answer": "Text"
+        "question": "What is the arrangement of the letter tiles on the phone case?",
+        "answer": "Vertical"
       },
       {
-        "question": "Judging from the image, what is the phone case made of?",
-        "answer": "Plastic"
+        "question": "What is the size of the letter tiles relative to the phone case?",
+        "answer": "Small"
       },
       {
-        "question": "What is the visual style of the word arrangement?",
-        "answer": "Simple"
+        "question": "What word appears at the top of the three-word phrase?",
+        "answer": "Black"
       },
       {
-        "question": "What is the secondary color evident in the image?",
-        "answer": "Beige"
-      },
-      {
-        "question": "Based on the image, how many sides are shown of the phone case?",
-        "answer": "Three"
+        "question": "What word is positioned in between 'Black' and 'Magic'?",
+        "answer": "Girl"
       }
     ]
   }

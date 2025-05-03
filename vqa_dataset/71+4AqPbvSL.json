@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the handbag depicted in the provided image, considering its overall appearance and shade variations?",
+        "question": "What is the dominant color of the handbag's main body, as visibly apparent in the provided image?",
         "answer": "Mustard"
       },
       {
-        "question": "Considering the bag's construction, what is the primary material used in its manufacture as visually apparent in the image?",
+        "question": "Considering the image, what appears to be the primary material used in the construction of the handbag?",
         "answer": "Leather"
       },
       {
-        "question": "Focusing on the bag's bottom edge, what kind of embellishment or decorative element is noticeable along its perimeter?",
-        "answer": "Studs"
-      },
-      {
-        "question": "Describe the overall shape or silhouette of the handbag as presented in the product image.",
+        "question": "Based on visual inspection of the image, what is the overall shape of the presented handbag?",
         "answer": "Hobo"
       },
       {
-        "question": "What is the apparent texture of the handbag's exterior, as observed through the image's visual details?",
+        "question": "Describe the texture of the bag's exterior, as shown in the provided image, using a single word.",
         "answer": "Smooth"
       },
       {
-        "question": "Based on its structural features, what is the primary carrying method for this handbag, as evident from the picture?",
-        "answer": "Shoulder"
+        "question": "What decorative element is prominently visible along the lower edge of the handbag in the image?",
+        "answer": "Studs"
       },
       {
-        "question": "What color are the visible metallic accents on the handbag, focusing solely on what is visually present?",
-        "answer": "Silver"
+        "question": "What is the color of the visible strap and trim elements of this handbag, according to the image provided?",
+        "answer": "Brown"
       },
       {
-        "question": "Considering its construction, what is the apparent closure mechanism of this handbag?",
+        "question": "Judging by the image, what is the apparent closure mechanism for this hobo bag?",
         "answer": "Open"
       },
       {
-        "question": "What is the general design style that is clearly visible in the handbag image?",
-        "answer": "Casual"
+        "question": "According to what is visually evident in the picture, what material does the strap of the bag appear to be made of?",
+        "answer": "Leather"
       },
       {
-        "question": "Describe the visible stitching on the handbag, focusing on its prominence and characteristics in the provided image.",
-        "answer": "Subtle"
+        "question": "Based on the image, what kind of handle does the bag appear to have?",
+        "answer": "Shoulder"
       },
       {
-        "question": "Judging by the image, how would you describe the overall size of the handbag?",
-        "answer": "Medium"
-      },
-      {
-        "question": "Based on what's visually observable in the provided image, is there any noticeable pattern on the bag\u2019s surface?",
-        "answer": "None"
-      },
-      {
-        "question": "What is the shape of the bag's handle as shown in the image provided?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "Considering the visible features, is there any visible branding or logo on the handbag?",
+        "question": "As shown in the image, is there a noticeable pattern on the main body of the bag?",
         "answer": "No"
       },
       {
-        "question": "Based on the image, what is the apparent stiffness or flexibility of the handbag's material?",
-        "answer": "Soft"
+        "question": "From the image, what seems to be the overall style of the displayed handbag?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Does the image suggest any visible pockets or compartments on the exterior of the handbag?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the leather, judging by the visual appearance of the bag in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In the provided image, what is the approximate size of the handbag relative to typical handbags?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the shape of the studs along the bottom edge of the bag as depicted in the image?",
+        "answer": "Round"
       }
     ]
   }

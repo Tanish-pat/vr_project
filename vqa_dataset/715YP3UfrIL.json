@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8a2935c9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the jar's body?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What material appears to constitute the main jar structure?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the shape of the jar's primary container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describe the overall transparency of the jar's central section?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What color is the jar's lid or closure component?",
+        "answer": "Black"
+      },
+      {
+        "question": "What seems to be the material of the jar's lid?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent finish of the jar's lid surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, is the jar's surface textured or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the jar's construction, what is its apparent function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Does the jar exhibit any noticeable patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visible style of the label on the jar?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on the image, is the jar's base flat or curved?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent size of the printed text on the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Can you describe the jar's lid's profile or shape?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Considering the provided image, is the jar empty or full?",
+        "answer": "Empty"
+      }
+    ]
+  }
+]

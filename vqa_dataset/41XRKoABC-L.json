@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the packaged bedding?",
-        "answer": "Mustard"
+        "question": "What is the predominant color of the packaged bedding set?",
+        "answer": "Gold"
       },
       {
-        "question": "What appears to be the primary material of the blanket?",
+        "question": "What appears to be the primary material of the blanket inside?",
         "answer": "Silk"
       },
       {
-        "question": "What is the overall shape of the product packaging?",
+        "question": "What is the overall shape of the packaged item?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of wrapping is used for the product's packaging?",
+        "question": "What type of packaging is visible around the bedding set?",
         "answer": "Plastic"
       },
       {
-        "question": "What color is the ribbon accentuating the packaging?",
-        "answer": "Grey"
+        "question": "What color is the ribbon used for presentation?",
+        "answer": "Gray"
       },
       {
-        "question": "What is the texture of the outer packaging material?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What is the apparent sheen of the product inside?",
+        "question": "What kind of texture does the outer plastic wrapping appear to have?",
         "answer": "Shiny"
       },
       {
-        "question": "What is written prominently on the label of the package?",
+        "question": "What is the visible text on the label attached to the package?",
         "answer": "THXSilk"
       },
       {
-        "question": "What is the overall visual impression of the product's packaging?",
-        "answer": "Luxury"
+        "question": "What appears to be the main feature of the packaging design?",
+        "answer": "Ribbon"
       },
       {
-        "question": "Describe the style of the packaging's design elements?",
-        "answer": "Minimalist"
+        "question": "Is there any other noticeable marking or label besides the main one?",
+        "answer": "None"
       },
       {
-        "question": "What is the nature of the seal of the plastic packaging?",
-        "answer": "Sealed"
+        "question": "What seems to be the overall condition of the packaged product?",
+        "answer": "New"
       },
       {
-        "question": "What is the visual appearance of the label's material?",
-        "answer": "Cardboard"
+        "question": "Does the image suggest a solid color or patterned design on the bedding?",
+        "answer": "Solid"
       },
       {
-        "question": "What type of packaging is used for added presentation?",
-        "answer": "Gift"
-      },
-      {
-        "question": "What is the apparent state of the product inside the package?",
-        "answer": "Folded"
-      },
-      {
-        "question": "Considering the visual details, what is the intended use of the item?",
+        "question": "What is the presumed function of the product shown in the image?",
         "answer": "Bedding"
+      },
+      {
+        "question": "Does the packaging show any visible damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the package in comparison to a standard item?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the packaging, can you discern a specific weight or size measurement?",
+        "answer": "No"
       }
     ]
   }

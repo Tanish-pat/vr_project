@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d50cda6c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the phone case design?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary geometric pattern depicted on the phone case?",
+        "answer": "Rectangles"
+      },
+      {
+        "question": "What is the overall three-dimensional effect created by the design elements?",
+        "answer": "Brick-like"
+      },
+      {
+        "question": "Considering the visual texture, what material does the case seem to emulate?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the arrangement of the rectangular blocks in the design pattern.",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What is the implied depth created by the variation in shading on the rectangles?",
+        "answer": "Perspective"
+      },
+      {
+        "question": "What is the general shape of the phone case, excluding the design elements?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent surface finish of the phone case's printed design?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is visible along the sides of the depicted phone case?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What design element is repeated to create a uniform texture on the side of the phone case?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "What is the color of the stripes along the sides of the phone case?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the implied spatial relationship between the rectangular blocks?",
+        "answer": "Adjacent"
+      },
+      {
+        "question": "What is the orientation of the rectangular blocks throughout the design?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the design show any significant differences in the shades of gray used?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the design of the phone case primarily abstract or representational?",
+        "answer": "Abstract"
+      }
+    ]
+  }
+]

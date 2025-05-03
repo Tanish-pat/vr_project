@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/843ab766.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme depicted on the phone case, judging solely from the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What secondary color is prominently featured in the design of the phone case, based purely on visual observation?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering only the visual elements, what natural texture is mimicked in the phone case's design?",
+        "answer": "Stone"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the depicted mobile phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image alone, what appears to be the primary material of the phone case, considering its look and feel?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the visual style of the pattern on the phone case, judging from the image alone?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Judging only from the provided image, what is the general aesthetic effect of the case design?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Based on visual observation, describe the pattern's arrangement on the phone cover.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering purely visual characteristics, how would you describe the surface finish of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In the image, is there evidence of any noticeable gloss or shine on the phone case?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visual details are present on the phone case's design, judging only from what's visible?",
+        "answer": "Cracks"
+      },
+      {
+        "question": "What kind of image is used as the main design element on the phone case, considering visual analysis only?",
+        "answer": "Rock"
+      },
+      {
+        "question": "From the image, what can be said about the level of detail in the phone case's print?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the image closely, is the design on the phone case symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "Based purely on the image, does the phone case show any noticeable branding or logos?",
+        "answer": "No"
+      }
+    ]
+  }
+]

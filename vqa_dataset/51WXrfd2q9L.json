@@ -1,0 +1,65 @@
+[
+  {
+    "path": "images/small/19/1979d6b0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the dominant color scheme employed for the displayed text on the product label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What specific food category or type does the product packaging primarily identify?",
+        "answer": "Dairy"
+      },
+      {
+        "question": "Based on the visible text, what is a primary component mentioned among the product's ingredients?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the condition of the milk used as indicated by the visible text on the product label?",
+        "answer": "Pasteurized"
+      },
+      {
+        "question": "What is the fat content of the milk used as specified by the packaging text?",
+        "answer": "Part-skim"
+      },
+      {
+        "question": "What kind of enzyme is explicitly mentioned as a constituent of the item based on the packaging label?",
+        "answer": "Microbial"
+      },
+      {
+        "question": "According to the visible text on the package, what else besides milk is indicated as a listed ingredient?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Considering the text's style, what is the descriptive term used to characterize the milk treatment process?",
+        "answer": "Cultured"
+      },
+      {
+        "question": "What is the general state of the label's text based on its visible qualities?",
+        "answer": "Printed"
+      },
+      {
+        "question": "In terms of layout, what is the arrangement of the text across the product's label?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the overall format of the visible details, as presented on the product?",
+        "answer": "Textual"
+      },
+      {
+        "question": "Regarding the informational content, what significant ingredient is indicated as being present?",
+        "answer": "Enzymes"
+      },
+      {
+        "question": "Describe the case of the text on the label, based on its visual characteristics.",
+        "answer": "Upper"
+      },
+      {
+        "question": "Considering the text's clarity and legibility, what is the apparent quality of the printing?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

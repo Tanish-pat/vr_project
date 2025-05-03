@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the decorative border encircling the photo frame?",
+        "question": "What is the predominant color of the picture frame's border?",
         "answer": "Silver"
       },
       {
-        "question": "What is the dominant shape of the decorative elements adorning the frame's perimeter?",
-        "answer": "Round"
-      },
-      {
-        "question": "What appears to be the material of the small decorative beads on the frame?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the overall shape of the photo frame itself, excluding the border?",
+        "question": "What is the overall shape of the picture frame?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the texture implied by the visual appearance of the decorative elements on the frame?",
-        "answer": "Beaded"
+        "question": "What small decorative elements adorn the frame's border?",
+        "answer": "Beads"
       },
       {
-        "question": "What color is the background inside the photo frame, visible through the opening?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the apparent material of the frame's main structure, beneath the decorative layer?",
+        "question": "What appears to be the material of the decorative beads?",
         "answer": "Plastic"
       },
       {
-        "question": "Judging by the image, does the frame appear to be of simple or ornate design?",
+        "question": "What is the apparent texture of the frame's border?",
+        "answer": "Bumpy"
+      },
+      {
+        "question": "Describe the design pattern of the decorative elements around the frame.",
+        "answer": "Repeating"
+      },
+      {
+        "question": "What type of image is displayed within the frame?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What color are the flowers predominantly in the displayed image?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material does the frame appear to be constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Is the frame's border uniformly colored or does it contain variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the general style of the picture frame?",
         "answer": "Ornate"
       },
       {
-        "question": "What is the general style of the frame's decoration, considering its components?",
-        "answer": "Classical"
+        "question": "What is the relative thickness of the frame's border?",
+        "answer": "Thick"
       },
       {
-        "question": "Considering its ornamentation, what type of occasion might this frame suit?",
-        "answer": "Formal"
-      },
-      {
-        "question": "What does the image suggest is the intended function of this object?",
+        "question": "What is the primary function of this item?",
         "answer": "Display"
       },
       {
-        "question": "What is the visible orientation of this product in the image?",
-        "answer": "Vertical"
+        "question": "Does the frame exhibit any visible markings or inscriptions?",
+        "answer": "None"
       },
       {
-        "question": "Is the design of this frame primarily geometric or floral in nature?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "Describe the finish of the visible surfaces of the frame's outer border.",
+        "question": "How would you describe the overall finish of the picture frame?",
         "answer": "Glossy"
-      },
-      {
-        "question": "What is the apparent style of the design pattern on the border?",
-        "answer": "Repetitive"
       }
     ]
   }

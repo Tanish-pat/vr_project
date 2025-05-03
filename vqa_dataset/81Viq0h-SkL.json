@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4a1c734c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the intricate geometric pattern, what is the dominant design element on the shoe's outsole?",
+        "answer": "Triangles"
+      },
+      {
+        "question": "What is the primary color of the visible outsole, exhibiting a textured surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Observing the overall shape, what type of footwear is depicted in this image?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "Based on the visual texture, what material appears to constitute the shoe's outsole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Considering the detailed pattern, describe the outsole's texture, referring to its raised elements?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "What is the color of the visible portion of the shoe's midsole, as seen around the outsole?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the general form or shape of the footwear's outsole, ignoring minor irregularities?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Focusing on the outsole's surface, what is the style of the repeating geometric pattern?",
+        "answer": "Tessellated"
+      },
+      {
+        "question": "Disregarding color, what is the overall geometric structure of the outsole's pattern?",
+        "answer": "Repetitive"
+      },
+      {
+        "question": "Considering the visible elements, does the outsole present a high or low profile?",
+        "answer": "Low"
+      },
+      {
+        "question": "In terms of the visual appearance, how would you describe the outsole's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the subtle texture evident in the color transition at the outsole's edge.",
+        "answer": "Gradual"
+      },
+      {
+        "question": "What is the apparent depth or thickness of the outsole's embossed pattern?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Based on the visual appearance, is the outsole designed for indoor or outdoor use?",
+        "answer": "Outdoor"
+      },
+      {
+        "question": "Describing the pattern's arrangement, how would you characterize the outsole's markings?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3fa8c3e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rectangular device shown?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material composing the device's outer casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the device's overall form, what is its geometric shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of text is visibly printed on the top surface of the object?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "Based on the image, what seems to be the device's intended purpose, indicated by its shape and features?",
+        "answer": "Electrical"
+      },
+      {
+        "question": "Judging by its size and form, what might be the typical installation location of this product?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "Are there any visible connection points or terminals present on the sides of the device?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the general texture of the outer surface, considering the visible details in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of markings other than text can be identified on the unit's body?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the approximate length-to-width ratio of this device based solely on its visual dimensions?",
+        "answer": "Long"
+      },
+      {
+        "question": "Does the object's appearance suggest it is intended for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "Can you describe the overall style of this item as simple or complex in its visual design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the fine print visible on the item, what language is used for the text?",
+        "answer": "English"
+      },
+      {
+        "question": "Are there any noticeable protrusions or additional components other than the main body visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the device show signs of any damage or wear from prior use?",
+        "answer": "No"
+      }
+    ]
+  }
+]

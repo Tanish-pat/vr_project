@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6c/6cd9d530.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed across the entire surface of the object?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Considering the light reflection patterns, what is the apparent surface texture of the item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most evident shape of the object that is shown in the provided image?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Based on the visual sheen and reflective properties, what material could potentially compose this product?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Observing the concentric patterns, does the surface exhibit a high degree of polish or a matte finish?",
+        "answer": "Polished"
+      },
+      {
+        "question": "From the image's perspective, what is the overall visual aesthetic impression of the circular object?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Judging by its reflectivity, is the object's surface glossy, or does it possess a dull appearance?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the image suggest the presence of any discernible patterns or markings on the item's surface?",
+        "answer": "Radial"
+      },
+      {
+        "question": "Given its reflective properties, does the item appear to be made of a hard or soft material?",
+        "answer": "Hard"
+      },
+      {
+        "question": "Based on the image, is the item\u2019s form two-dimensional or three-dimensional?",
+        "answer": "Three-dimensional"
+      },
+      {
+        "question": "Judging by the visual clues, does the object seem to have any discernible thickness?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image quality, is the surface of the object textured or is it visually uniform?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the item show any visual evidence of significant scratches or blemishes across its entirety?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you describe the overall visual tone of the object in the image using a single word?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Does the central area of the object appear brighter or darker than its outer edge?",
+        "answer": "Brighter"
+      }
+    ]
+  }
+]
