@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/afdbe9bd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the cookware set shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary material appears to constitute the cooking pans and pot?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the apparent shape of the largest pan in the image, where a flatbread rests?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the cooking pot, what material is its lid seemingly made of?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describe the overall finish or texture of the cookware's surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the small pan used seemingly for spices or tempering?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color are the handles attached to the cooking pans and pot?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on visual assessment, what type of cooking surface is shown beneath the cookware?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What kind of food is visibly present being cooked or prepared in the largest pan?",
+        "answer": "Flatbread"
+      },
+      {
+        "question": "What is the apparent design style of this cookware, considering its shape and color?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the image, how many individual cooking vessels constitute this set?",
+        "answer": "Three"
+      },
+      {
+        "question": "What kind of visual detail is seen on the handles of the cookware, near the grips?",
+        "answer": "None"
+      },
+      {
+        "question": "What appears to be inside the small, round pan?",
+        "answer": "Spices"
+      },
+      {
+        "question": "What cooking utensil is being utilized to cook the flatbread in the image?",
+        "answer": "Tawa"
+      },
+      {
+        "question": "Describe the visible state or condition of the cookware, based on the image.",
+        "answer": "New"
+      }
+    ]
+  }
+]

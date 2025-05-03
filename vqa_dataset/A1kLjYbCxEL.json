@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the upholstered headboard and footboard?",
+        "question": "What is the predominant color of the upholstered headboard?",
         "answer": "Gray"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Fabric"
       },
       {
-        "question": "Considering the overall style, what design aesthetic best describes this bed?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Describe the shape of the headboard, specifically at its highest point?",
-        "answer": "Winged"
-      },
-      {
-        "question": "What is the apparent texture of the bed's upholstery?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "How many visible drawers are integrated into the bed's base?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the apparent material of the visible legs of the bed frame?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What color are the bed linens shown on the bed?",
-        "answer": "LightGray"
-      },
-      {
-        "question": "Based on its visible features, what is the likely overall size of this bed?",
-        "answer": "Queen"
-      },
-      {
-        "question": "What is the general shape of the bed's overall footprint?",
+        "question": "Describe the overall shape of the bed's headboard?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the style of the bed's feet, considering their visible design?",
+        "question": "What is the visible texture of the bed's upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many visible drawers are integrated into the bed frame?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent style of the bed's legs?",
         "answer": "Sleek"
       },
       {
-        "question": "What type of visible seams or stitching is present on the headboard?",
-        "answer": "Straight"
+        "question": "What color are the sheets on the bed?",
+        "answer": "LightGray"
       },
       {
-        "question": "What is the apparent height of the headboard relative to the mattress?",
+        "question": "What is the apparent height of the bed's headboard?",
         "answer": "Tall"
       },
       {
-        "question": "Does the bed appear to have any visible ornamentation or embellishments?",
-        "answer": "No"
+        "question": "What is the general shape of the bed frame's footboard?",
+        "answer": "Low"
       },
       {
-        "question": "Considering the visible construction, is the bed frame seemingly sturdy?",
-        "answer": "Yes"
+        "question": "What kind of visible detail is present on the bed's headboard?",
+        "answer": "Seamless"
+      },
+      {
+        "question": "What is the visible material of the bed's legs?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the visible elements, what is the bed's overall design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent position of the storage drawers in relation to the bed frame?",
+        "answer": "Underneath"
+      },
+      {
+        "question": "What is the apparent visible construction of the headboard?",
+        "answer": "Upholstered"
+      },
+      {
+        "question": "What is the visible state of the bedding; neat or rumpled?",
+        "answer": "Neat"
       }
     ]
   }

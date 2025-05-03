@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/2046bc09.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visible assembly and folding mechanism, what is the primary function of this wooden structure?",
+        "answer": "Chair"
+      },
+      {
+        "question": "Based on the image, what appears to be the predominant color of the wooden components?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Observing the grain and overall appearance, what seems to be the material used in the construction of this item?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape or form suggested by the assembled and folded configuration of the wooden pieces?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible design element that appears between the folding sections near the center of the structure?",
+        "answer": "Slats"
+      },
+      {
+        "question": "Judging by the visible hardware, what type of fasteners are used to connect the wooden components?",
+        "answer": "Bolts"
+      },
+      {
+        "question": "What is the texture of the wooden surface, considering visible signs of smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, how many major, discernible segments or panels make up this wooden item?",
+        "answer": "Five"
+      },
+      {
+        "question": "Observing the visible joints, what type of connection method appears to be used in this wooden furniture?",
+        "answer": "Mortise"
+      },
+      {
+        "question": "What is the apparent finish or treatment applied to the wooden surface to enhance its appearance or protection?",
+        "answer": "Stain"
+      },
+      {
+        "question": "What seems to be the degree of intricacy or complexity of the folding mechanism as shown in the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the overall aesthetic impression given by the color and material of this foldable wooden item?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the apparent method of adjustment for the folding mechanism of the wooden item?",
+        "answer": "Manual"
+      },
+      {
+        "question": "What is the visible state of the wooden structure in this particular product image, considering folding or assembly?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Considering the multiple connected parts, what seems to be the overall construction style or technique of this chair?",
+        "answer": "Jointed"
+      }
+    ]
+  }
+]

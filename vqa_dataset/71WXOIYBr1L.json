@@ -13,56 +13,56 @@
         "answer": "Motorcycle"
       },
       {
-        "question": "What appears to be the primary material of the phone case itself?",
+        "question": "What appears to be the material of the phone case itself, judging by its transparency?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall style of the motorcycle?",
+        "question": "Considering the image's clarity, what is the overall style of the depicted motorcycle?",
         "answer": "Cruiser"
       },
       {
-        "question": "What is the apparent design feature of the motorcycle's front end?",
-        "answer": "Headlight"
-      },
-      {
-        "question": "Based on the visual, what is the apparent finish of the motorcycle?",
+        "question": "Based on visual details, what is the apparent finish of the motorcycle in the phone case design?",
         "answer": "Metallic"
       },
       {
-        "question": "What is the shape of the phone case, judging by its outline?",
+        "question": "What is the general shape or form factor of the phone case as a whole?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of wheels does the depicted motorcycle possess?",
+        "question": "What design element is visible near the front wheel of the depicted motorcycle?",
+        "answer": "Headlight"
+      },
+      {
+        "question": "What kind of wheels are depicted on the motorcycle shown in the phone case's image?",
         "answer": "Spoked"
       },
       {
-        "question": "Describe the visual texture of the motorcycle's surface in the image.",
+        "question": "Judging by the visual details, what is the apparent texture of the motorcycle's body?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent level of detail in the motorcycle's rendering?",
+        "question": "What is the apparent level of detail in the motorcycle's rendering on the phone case?",
         "answer": "High"
       },
       {
-        "question": "What is the general perspective of the motorcycle's depiction?",
-        "answer": "Three-quarter"
-      },
-      {
-        "question": "Describe the background visible through the phone case's transparent area.",
+        "question": "What is the overall visual tone or mood conveyed by the phone case design?",
         "answer": "Dark"
       },
       {
-        "question": "What is the visible design element on the motorcycle's front forks?",
-        "answer": "Chrome"
+        "question": "What is the apparent position of the motorcycle depicted on the phone case?",
+        "answer": "Three-quarter"
       },
       {
-        "question": "What is the apparent visual style of the image's overall presentation?",
-        "answer": "Realistic"
+        "question": "What background elements can be discerned behind the motorcycle in the phone case image?",
+        "answer": "Grey"
       },
       {
-        "question": "Judging from the image, what seems to be the overall condition of the motorcycle?",
-        "answer": "New"
+        "question": "What part of the motorcycle seems most prominent or emphasized in the design?",
+        "answer": "Front"
+      },
+      {
+        "question": "Does the phone case seem to offer any significant textural features beyond smoothness?",
+        "answer": "No"
       }
     ]
   }

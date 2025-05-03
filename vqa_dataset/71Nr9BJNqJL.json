@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/0147baa7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the container's main body?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describe the texture of the visible container surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the text on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary type of information displayed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Is the container's lid visibly sealed or tamper-evident?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the container have any noticeable markings beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the product container (relative to a standard item)?",
+        "answer": "Large"
+      },
+      {
+        "question": "Is the container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent weight of the container (by visual estimation)?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Are there any images or icons on the container's label?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the product packaging show a clear brand name or logo?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the product container?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the container have a noticeable curve or any significant indentations?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fd5d30a9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text displayed on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the individual supplement unit as mentioned in the label's serving size description?",
+        "answer": "Softgel"
+      },
+      {
+        "question": "What is the format of the presented nutritional information on the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What specific vitamin is prominently featured in the listed nutrients?",
+        "answer": "D3"
+      },
+      {
+        "question": "What is the unit of measurement for the Vitamin D3 quantity shown on the label?",
+        "answer": "IU"
+      },
+      {
+        "question": "What is the background color of the supplement facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text's presentation, what is the overall style of the label's typography?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What term precedes the detailed breakdown of each nutrient's quantity?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What percentage of the daily value does the provided Vitamin D3 amount represent?",
+        "answer": "100%"
+      },
+      {
+        "question": "What is the form of presentation for the displayed daily value percentages?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the chemical name for Vitamin D3 as shown in parentheses on the label?",
+        "answer": "Cholecalciferol"
+      },
+      {
+        "question": "What is the term at the top of the supplement information panel?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Besides the vitamin content, what else is listed alongside the quantity?",
+        "answer": "Value"
+      },
+      {
+        "question": "What descriptive term is used to define the serving unit size?",
+        "answer": "Softgel"
+      },
+      {
+        "question": "What word indicates the amount of nutrients per serving?",
+        "answer": "Amount"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's design?",
+        "question": "What is the dominant color scheme of the depicted phone case design?",
         "answer": "Orange"
       },
       {
-        "question": "What is the overall style of the artistic print on the case?",
+        "question": "What overall artistic style characterizes the phone case's print?",
         "answer": "Abstract"
       },
       {
-        "question": "What shapes primarily constitute the artistic composition on the phone case?",
+        "question": "Considering the image, what shapes primarily constitute the design?",
         "answer": "Geometric"
       },
       {
-        "question": "What is the apparent texture of the phone case's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Describing the color palette, what other prominent colors appear besides orange?",
-        "answer": "Multicolored"
-      },
-      {
-        "question": "What type of material appears to be used for the phone case?",
+        "question": "What appears to be the primary material used for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the design, what artistic technique is suggested by the case print?",
-        "answer": "Painterly"
+        "question": "Based on visual inspection, what is the surface texture of the case?",
+        "answer": "Smooth"
       },
       {
-        "question": "Does the phone case appear to have any raised elements or embossing?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the general form or shape of the product itself?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Is the print on the phone case symmetrical or asymmetrical in nature?",
-        "answer": "Asymmetrical"
-      },
-      {
-        "question": "Are there any discernible repeating patterns within the artistic print?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the level of detail present in the phone case's artistic design?",
+        "question": "Describe the level of detail present in the design of the phone case.",
         "answer": "High"
       },
       {
-        "question": "Excluding the print, what is the color of the phone case's edges or frame?",
-        "answer": "Black"
+        "question": "What colors besides orange are prominently featured in the artwork?",
+        "answer": "Multiple"
       },
       {
-        "question": "What kind of artistic movement might this style of print be reminiscent of?",
-        "answer": "Cubism"
+        "question": "Considering the image provided, what is the shape of the product?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Are there clearly defined lines or borders between the color sections?",
+        "question": "Does the phone case design feature any discernible patterns?",
         "answer": "Yes"
+      },
+      {
+        "question": "From the image, is the phone case design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the apparent overall style of the artwork on the phone case?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Observing the image, what is the apparent finish of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are there any visible brand logos or markings on the case itself?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the primary method of design application to the phone case?",
+        "answer": "Print"
+      },
+      {
+        "question": "Does the phone case in the image appear to be flexible or rigid?",
+        "answer": "Rigid"
       }
     ]
   }

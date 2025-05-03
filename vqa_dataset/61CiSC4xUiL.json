@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b99521d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cable's outer sheath?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the cable's exterior?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What type of connector is visible at each end of the cable?",
+        "answer": "Lightning"
+      },
+      {
+        "question": "Describe the overall shape of the cable when laid out as shown.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent texture of the cable's outer covering?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What branding or logo is subtly visible on the connectors?",
+        "answer": "Espada"
+      },
+      {
+        "question": "Considering the connectors, what is the cable's likely function?",
+        "answer": "Charging"
+      },
+      {
+        "question": "What color are the connector housings at each end of the cable?",
+        "answer": "DarkGray"
+      },
+      {
+        "question": "Does the cable exhibit any visible signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "How many distinct connectors are visibly attached to this cable?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the approximate length of the visible cable section?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the cable's color appear uniform throughout its length?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the cable's outer covering visibly flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging by the image, is the cable designed for single or dual use?",
+        "answer": "Dual"
+      },
+      {
+        "question": "Considering the connectors, what device is it likely compatible with?",
+        "answer": "Apple"
+      }
+    ]
+  }
+]

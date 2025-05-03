@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa1bf31a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's main background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary color of the design elements on the bag?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What type of packaging is the product contained in?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "What is the stated flavor of the protein powder?",
+        "answer": "Cookies"
+      },
+      {
+        "question": "What kind of protein is indicated on the packaging?",
+        "answer": "Whey"
+      },
+      {
+        "question": "What word describes the type of protein, preceding 'Whey'?",
+        "answer": "Advanced"
+      },
+      {
+        "question": "What is the brand name printed prominently on the bag?",
+        "answer": "Amfit"
+      },
+      {
+        "question": "What material appears to be used for the bag's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape best describes the overall packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the secondary color used in the text on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Is the text on the packaging primarily uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What additional flavor descriptor accompanies 'Cookies'?",
+        "answer": "Cream"
+      },
+      {
+        "question": "Does the bag appear sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the imagery, is this product geared towards health or non-health?",
+        "answer": "Health"
+      },
+      {
+        "question": "Approximately how many grams of this product are represented in this image?",
+        "answer": "900"
+      }
+    ]
+  }
+]

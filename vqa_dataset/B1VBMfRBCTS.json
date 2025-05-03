@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0a3c4e90.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What natural material appears to constitute the primary surface?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the grain pattern, what is the apparent wood type?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describe the arrangement of the visible wooden planks or boards?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the overall textural impression of the wooden surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the color variations, what is the apparent wood finish?",
+        "answer": "Stained"
+      },
+      {
+        "question": "Considering the image, what is the approximate number of visible planks?",
+        "answer": "Five"
+      },
+      {
+        "question": "Based on the visible wood grain, what is the apparent wood cut?",
+        "answer": "Plank"
+      },
+      {
+        "question": "What is the visible shape of each individual wooden element?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the manufacturing technique or construction?",
+        "answer": "Plank"
+      },
+      {
+        "question": "Does the image suggest a high level of visible knots in the wood?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the variation in color intensity across the visible planks.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image, how would you describe the visible wood's luster?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible overall pattern of the wood grain across the surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the image show evidence of any visible surface imperfections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

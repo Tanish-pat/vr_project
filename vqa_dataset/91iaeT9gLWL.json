@@ -13,56 +13,56 @@
         "answer": "Cashews"
       },
       {
-        "question": "What is the primary text indicating the product's contents?",
+        "question": "What is the primary text indicating the product type?",
         "answer": "Cashew"
-      },
-      {
-        "question": "What is the brand name prominently displayed on the packaging?",
-        "answer": "Happy"
-      },
-      {
-        "question": "What is the secondary descriptive word for the nuts?",
-        "answer": "Unsalted"
-      },
-      {
-        "question": "What is the shape of the majority of the cashews shown?",
-        "answer": "Kidney"
       },
       {
         "question": "What is the overall shape of the product's packaging?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the texture implied by the cashew images?",
-        "answer": "Rough"
+        "question": "What word describes the nuts' preparation, as stated on the package?",
+        "answer": "Unsalted"
       },
       {
-        "question": "What color are the cashews depicted on the packaging?",
-        "answer": "Beige"
+        "question": "What is the brand name prominently displayed?",
+        "answer": "Happy"
       },
       {
-        "question": "What is the material of the primary packaging?",
-        "answer": "Foil"
+        "question": "What material appears to constitute the packaging?",
+        "answer": "Paper"
       },
       {
-        "question": "What is the type of graphic element accompanying text?",
-        "answer": "Leaf"
-      },
-      {
-        "question": "What is the indicated weight of the product, in grams?",
-        "answer": "200"
-      },
-      {
-        "question": "What adjective describes the source of fibre?",
+        "question": "What additional word describes the nuts' nature, according to the label?",
         "answer": "Natural"
       },
       {
-        "question": "What is the style of the brand's logo?",
-        "answer": "Circular"
+        "question": "What is the dominant shape of the individual nuts shown?",
+        "answer": "Kidney"
       },
       {
-        "question": "What is the overall color palette of the packaging design?",
-        "answer": "Warm"
+        "question": "What unit of weight is used to represent the package's contents?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the text indicating a nutritional benefit of the product?",
+        "answer": "Fibre"
+      },
+      {
+        "question": "What design element is used to decorate the packaging besides nuts?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What is the secondary color used in the brand logo and text?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the textual indication of the net weight in grams?",
+        "answer": "200"
+      },
+      {
+        "question": "What is the style of the text font on the packaging?",
+        "answer": "Sans-serif"
       }
     ]
   }

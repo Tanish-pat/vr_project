@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/72/720e969c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible product components?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the main seating structure?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What material is predominantly used for the foldable seat and back support?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape of the main supporting frame of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible fasteners, what type of connection is primarily used?",
+        "answer": "Bolts"
+      },
+      {
+        "question": "What is the apparent texture of the fabric used for the seating and backrest?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its construction, what is the likely function of this product?",
+        "answer": "Chair"
+      },
+      {
+        "question": "What is the visible color of the straps or bands on the fabric component?",
+        "answer": "DarkGreen"
+      },
+      {
+        "question": "Judging by the visible design, how is the seat likely to be adjusted?",
+        "answer": "Foldable"
+      },
+      {
+        "question": "What is the apparent finish of the visible metal components?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What design element is visible at the back top of the metal frame?",
+        "answer": "Bar"
+      },
+      {
+        "question": "Describe the general form factor of the overall product structure?",
+        "answer": "Compact"
+      },
+      {
+        "question": "What appears to be the method for securing the seat to the frame?",
+        "answer": "Straps"
+      },
+      {
+        "question": "Considering the material and build, is the product likely lightweight or heavy?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What is the visible design feature present at the bottom of the product\u2019s vertical support?",
+        "answer": "Joint"
+      }
+    ]
+  }
+]

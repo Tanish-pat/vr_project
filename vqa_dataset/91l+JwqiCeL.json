@@ -9,60 +9,60 @@
         "answer": "Olive"
       },
       {
-        "question": "What is the overall shape of the seating piece?",
+        "question": "What is the overall shape of the seating unit?",
         "answer": "Curved"
       },
       {
-        "question": "Describe the texture of the upholstery fabric apparent in the image?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What material appears to constitute the legs of the chair?",
+        "question": "What material appears to constitute the legs?",
         "answer": "Wood"
       },
       {
+        "question": "Describe the visible texture of the upholstery fabric.",
+        "answer": "Textured"
+      },
+      {
         "question": "What is the apparent color of the chair's legs?",
-        "answer": "Brown"
+        "answer": "Dark"
       },
       {
-        "question": "Considering the back design, what style best describes this chair?",
-        "answer": "High-back"
-      },
-      {
-        "question": "How many distinct seating sections does the chair feature?",
+        "question": "How many seating positions does this piece offer?",
         "answer": "Two"
       },
       {
-        "question": "What is the visible pattern on the upholstery fabric?",
-        "answer": "Speckled"
+        "question": "What kind of back design does the chair exhibit?",
+        "answer": "High"
       },
       {
-        "question": "Describe the general style of the armrests on the chair?",
+        "question": "What is the general style of the chair's arms?",
         "answer": "Rounded"
       },
       {
-        "question": "Based on the image, what is the apparent primary material of the upholstery?",
-        "answer": "Fabric"
+        "question": "Does the upholstery show any noticeable pattern?",
+        "answer": "Yes"
       },
       {
-        "question": "Judging by the image, what is the type of furniture depicted?",
-        "answer": "Loveseat"
-      },
-      {
-        "question": "What is the visible height of the back rest in comparison to the seat?",
+        "question": "Describe the height of the chair's back relative to the seat.",
         "answer": "Tall"
       },
       {
-        "question": "What is the visible construction of the legs; are they tapered or straight?",
+        "question": "What is the apparent material of the upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the overall style of the chair?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Are the legs tapered or straight?",
         "answer": "Tapered"
       },
       {
-        "question": "What is the apparent finish of the chair's wooden legs?",
-        "answer": "Stained"
+        "question": "How many legs does the chair possess?",
+        "answer": "Four"
       },
       {
-        "question": "Considering the overall design, what is the chair's aesthetic?",
-        "answer": "Modern"
+        "question": "What is the general design of the seat cushions?",
+        "answer": "Fixed"
       }
     ]
   }

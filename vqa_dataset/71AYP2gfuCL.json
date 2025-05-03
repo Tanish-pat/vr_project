@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e6/e6c888c2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall background color of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font color used for the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the predominant shape of the nutritional information section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the text style used for the header 'ALLERGY ADVICE'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the text and layout, what is the overall design style of the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the texture of the label's surface, based on the visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material that the label appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the type of information presented on the right side of the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the term used to highlight potential allergens in the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describing the style of the text within the nutritional information table, what is it?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the dietary suitability indicated for this product?",
+        "answer": "Vegetarian"
+      },
+      {
+        "question": "What unit is used for the energy content, indicated in the table?",
+        "answer": "kcal"
+      },
+      {
+        "question": "What is the unit of measurement used for the protein content?",
+        "answer": "g"
+      },
+      {
+        "question": "What other potential allergens are mentioned, besides those in bold?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What is the color of the text that mentions potential allergens?",
+        "answer": "Black"
+      }
+    ]
+  }
+]
