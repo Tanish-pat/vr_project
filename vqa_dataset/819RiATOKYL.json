@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/15410d36.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the phone case's design?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What natural-looking texture is prominently featured on the phone case?",
+        "answer": "Cracked"
+      },
+      {
+        "question": "What material appears to be the primary construction of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What geometric shape best describes the overall form of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of pattern is depicted across the surface of the phone case?",
+        "answer": "Stone"
+      },
+      {
+        "question": "What subtle color accents are visible within the cracks of the design?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Considering the image's scale, how many sides of the case are shown?",
+        "answer": "Three"
+      },
+      {
+        "question": "What design element suggests a rough or weathered appearance?",
+        "answer": "Cracks"
+      },
+      {
+        "question": "Does the image reveal any text or branding on the phone case?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of gloss or shine on the case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the case's implied primary function or purpose?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Does the design appear to be symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "Based on the image, is the case primarily opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What subtle details add depth and realism to the stone-like design?",
+        "answer": "Veins"
+      },
+      {
+        "question": "What type of camera cutout is visible on the case's back?",
+        "answer": "Circular"
+      }
+    ]
+  }
+]

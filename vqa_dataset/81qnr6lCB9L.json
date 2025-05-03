@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3dc8ceaf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the pasta sauce inside the jar?",
+        "answer": "Red"
+      },
+      {
+        "question": "What type of mushroom is prominently featured on the label?",
+        "answer": "Portobello"
+      },
+      {
+        "question": "What material is the jar primarily made of, judging by its appearance?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the shape of the container holding the pasta sauce?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the overall color scheme of the product's label design?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is stated as a key ingredient on the product label?",
+        "answer": "Mushrooms"
+      },
+      {
+        "question": "What word describes the overall texture of the sauce, as implied by the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the brand name featured prominently on the jar's label?",
+        "answer": "365"
+      },
+      {
+        "question": "What type of food product does the jar contain, as visually indicated?",
+        "answer": "Sauce"
+      },
+      {
+        "question": "What is the overarching descriptor of the product, as shown on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What kind of closure does the jar appear to have, based on the image?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What additional detail is mentioned about the olive oil used in the sauce?",
+        "answer": "Extra"
+      },
+      {
+        "question": "What is specified on the label regarding the sauce's intended use?",
+        "answer": "Pasta"
+      },
+      {
+        "question": "Describe the style of the label's typography and graphics design.",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What instruction is given regarding the sauce's storage after opening?",
+        "answer": "Refrigerate"
+      }
+    ]
+  }
+]

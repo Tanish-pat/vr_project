@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f0521c4f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the predominant style of this men's shoe?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Examining the material closely, what seems to be the primary construction material of the shoe's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the color displayed, what would you describe the shade of the shoe as?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Focusing on the toe cap, what type of decorative perforation pattern is noticeable?",
+        "answer": "Brogue"
+      },
+      {
+        "question": "Looking at the closure system, how are the shoes fastened onto the foot?",
+        "answer": "Laces"
+      },
+      {
+        "question": "Observing the sole of the shoe, what is the apparent material composition?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Regarding the shape of the toe, what style of toe is prominently featured?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging by the appearance of the leather, what is the overall texture of the upper?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual aspects, what is the apparent height of the shoe's heel?",
+        "answer": "Low"
+      },
+      {
+        "question": "Analyzing the design elements, does the shoe display any noticeable side seams?",
+        "answer": "No"
+      },
+      {
+        "question": "Examining the image closely, are there any visible brand markings or logos on the shoe?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual characteristics, what would you classify this shoe as, in terms of formality?",
+        "answer": "Dress"
+      },
+      {
+        "question": "Considering the visual details, is there any visible stitching along the edges of the shoe?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, does the shoe have a visible inner lining?",
+        "answer": "No"
+      },
+      {
+        "question": "Looking at the image, what type of shoe construction is visually evident?",
+        "answer": "Blake"
+      }
+    ]
+  }
+]

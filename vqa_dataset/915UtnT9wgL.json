@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d339a848.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's body, as observed in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the supplement container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible portion, what is the overall shape of the product's container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the image, what kind of closure mechanism does the bottle seem to possess?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is the color of the visible cap or lid on the supplement bottle?",
+        "answer": "DarkGray"
+      },
+      {
+        "question": "Observing the image, what appears to be printed on the bottle's label, in relation to the product's name?",
+        "answer": "CLA"
+      },
+      {
+        "question": "What is the apparent texture of the bottle's surface, as visible in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what kind of label is attached to the container?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall size of the supplement container, relative to standard containers?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the bottle exhibit any noticeable gloss or shine, according to the image?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Based on the image, are there any visible markings or symbols beyond text on the bottle?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what color are the printed details on the bottle\u2019s label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is there any visible damage or imperfections on the bottle's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the container, considering visible aspects?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Based solely on the visual evidence, does the bottle have a tamper-evident seal?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

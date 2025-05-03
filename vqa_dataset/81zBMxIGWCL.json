@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01f509d9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the primary purpose of this rectangular graphic?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the numerical data presented prominently, what is the total caloric content per serving?",
+        "answer": "380"
+      },
+      {
+        "question": "Examining the detailed breakdown of macronutrients, what is the total amount of fat in grams per serving?",
+        "answer": "20"
+      },
+      {
+        "question": "Observing the specific nutrient information, what is the amount of total sugars expressed in grams per serving?",
+        "answer": "26"
+      },
+      {
+        "question": "Based on the provided nutritional information, what is the protein content in grams per serving?",
+        "answer": "4"
+      },
+      {
+        "question": "Referring to the dietary fiber component, what is its quantity in grams per serving?",
+        "answer": "1"
+      },
+      {
+        "question": "Looking at the micronutrients, how much calcium (in milligrams) is present per serving?",
+        "answer": "30"
+      },
+      {
+        "question": "According to the micronutrient information, how much iron (in milligrams) does one serving contain?",
+        "answer": "1.2"
+      },
+      {
+        "question": "In terms of the daily value percentage, what percentage of total fat is provided by one serving?",
+        "answer": "26"
+      },
+      {
+        "question": "Considering the daily value percentage, what percentage of total carbohydrates are in each serving?",
+        "answer": "17"
+      },
+      {
+        "question": "Based on the percentages provided, what percentage of the daily value for added sugars is provided by one serving?",
+        "answer": "48"
+      },
+      {
+        "question": "What is the serving size specified in the provided nutritional information?",
+        "answer": "Muffin"
+      },
+      {
+        "question": "Referring to the serving size specification, how much does the serving weigh in grams?",
+        "answer": "99"
+      },
+      {
+        "question": "Considering the overall structure and the font style, what is the implied weight or authority of the information?",
+        "answer": "Official"
+      },
+      {
+        "question": "What is the overall color scheme of this product information panel?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

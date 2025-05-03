@@ -9,60 +9,60 @@
         "answer": "Beige"
       },
       {
-        "question": "Considering the image's detail, what appears to be the primary material of the shoe's upper?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Based on the visual evidence, what kind of metallic accent is present on the shoe's vamp?",
+        "question": "What kind of metallic accent is prominently displayed on the shoe's vamp?",
         "answer": "Gold"
       },
       {
-        "question": "Focusing on the close-up view, what is the shape of the metallic decorative element?",
-        "answer": "Horseshoe"
+        "question": "Considering the image's detail, what appears to be the primary material of the loafer's upper?",
+        "answer": "Leather"
       },
       {
-        "question": "What design feature is prominently displayed near the toe of the women's loafer?",
-        "answer": "Buckle"
-      },
-      {
-        "question": "Judging from the image, what is the overall style of the women's flat shoe depicted?",
-        "answer": "Loafer"
-      },
-      {
-        "question": "Describe the visible texture of the shoe's upper, as shown in the provided close-up image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color is the visible insole of the featured women's loafer?",
-        "answer": "Beige"
-      },
-      {
-        "question": "From the provided close-up, what is the apparent construction type of the loafer?",
-        "answer": "Slip-on"
-      },
-      {
-        "question": "In the image, what color is the outsole of the women's loafer visible near the heel?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What is the visible stitching pattern along the edge of the loafer's vamp?",
-        "answer": "Straight"
-      },
-      {
-        "question": "Based solely on the visual details, is the heel of this loafer high or low?",
-        "answer": "Low"
-      },
-      {
-        "question": "What is the apparent finish of the metallic buckle on the women's shoe?",
-        "answer": "Shiny"
-      },
-      {
-        "question": "Considering the close-up, what is the general shape of the toe of the women's loafer shown?",
+        "question": "Describe the overall shape of the toe of this particular women's loafer style?",
         "answer": "Rounded"
       },
       {
-        "question": "Does the image clearly show any visible patterns on the surface of the shoe's upper?",
-        "answer": "No"
+        "question": "Based on the visible stitching, what construction technique is evident in the loafer's design?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "What is the apparent texture of the material covering most of the loafer's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What style of closure mechanism is depicted on the visible portion of the women's loafer?",
+        "answer": "Buckle"
+      },
+      {
+        "question": "What is the apparent color of the visible sole of the women's loafer in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What design element, located near the vamp of the shoe, stands out as a decorative feature?",
+        "answer": "Ornament"
+      },
+      {
+        "question": "What is the general style category of the footwear presented in this close-up product shot?",
+        "answer": "Loafer"
+      },
+      {
+        "question": "Judging from its silhouette, what is the suggested heel height of this women's loafer?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent finish of the metallic buckle embellishment on the shoe?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Describe the visible stitching pattern along the edges of the loafer's upper.",
+        "answer": "Neat"
+      },
+      {
+        "question": "What type of sole is visible, judging from its color and apparent texture, on this product?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Considering the overall design, what is the suggested formality level of this women's footwear?",
+        "answer": "Casual"
       }
     ]
   }

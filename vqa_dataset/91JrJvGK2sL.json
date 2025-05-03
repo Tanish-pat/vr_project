@@ -5,11 +5,11 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's main body?",
+        "question": "What is the dominant color of the phone case's background?",
         "answer": "Blue"
       },
       {
-        "question": "What appears to be the primary material of the phone case?",
+        "question": "What material appears to be used in the construction of the phone case?",
         "answer": "Fabric"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the texture implied by the phone case's surface?",
+        "question": "Describe the texture that is visually apparent on the phone case's surface?",
         "answer": "Woven"
       },
       {
-        "question": "What design elements are prominently featured on the case's back?",
-        "answer": "Cameras"
+        "question": "What design element is prominently featured on the back of the case?",
+        "answer": "Camera"
       },
       {
-        "question": "What color are the graphically depicted cameras on the case?",
+        "question": "What appears to be the primary color of the design on the phone case?",
         "answer": "Silver"
       },
       {
-        "question": "What style is used to depict the camera iconography?",
-        "answer": "Lineart"
+        "question": "What is the style of the graphic design on the phone cover?",
+        "answer": "Linear"
       },
       {
-        "question": "Considering the visible cutouts, what phone model is it designed for?",
-        "answer": "Samsung"
+        "question": "Considering the image, how many camera icons are depicted on the case?",
+        "answer": "Two"
       },
       {
-        "question": "What kind of finish does the phone case's surface seem to possess?",
-        "answer": "Matte"
+        "question": "What seems to be the method used to apply the design onto the case?",
+        "answer": "Embroidered"
       },
       {
-        "question": "Judging by the image, how many camera cutouts are visible on the case?",
-        "answer": "Three"
+        "question": "What kind of device does this protective cover seem designed to fit?",
+        "answer": "Phone"
       },
       {
-        "question": "Does the phone case appear to have a raised or flat design?",
-        "answer": "Flat"
-      },
-      {
-        "question": "Based on the image, what is the apparent thickness of the case?",
-        "answer": "Slim"
-      },
-      {
-        "question": "What is the general style of the camera icon design on the case?",
+        "question": "Describe the visual form of the camera icon illustration on the case?",
         "answer": "Abstract"
       },
       {
-        "question": "What is the overall aesthetic impression of the design?",
-        "answer": "Minimalist"
+        "question": "Judging by the image, what is the overall finish of the phone case?",
+        "answer": "Matte"
       },
       {
-        "question": "Is there any noticeable grain visible on the phone case's surface?",
-        "answer": "Yes"
+        "question": "Based on the image, what is the apparent thickness of the phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What is the implied function of the object pictured in this image?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Does the phone case appear to have any noticeable perforations?",
+        "answer": "No"
       }
     ]
   }

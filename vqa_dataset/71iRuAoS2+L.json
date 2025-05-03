@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a238c04a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form, what is the most accurate geometrical description of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the prominent band at the top of the product's packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the main food product explicitly mentioned on the packaging?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "What specific type of cheese is indicated on the packaging?",
+        "answer": "Neufchatel"
+      },
+      {
+        "question": "Based on the text visible, what is the weight of the package's contents in ounces?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What word on the label signifies the production method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What color is the text denoting the cheese type?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the dominant color of the background of the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What brand is associated with this product, as shown on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Describe the style of the vertical lines subtly present on the packaging.",
+        "answer": "Striped"
+      },
+      {
+        "question": "What is the general texture of the packaging, judging from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What unit of measurement is used after the net weight in the description?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the overall tone or style of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the shape of the logo on the left side?",
+        "answer": "Square"
+      },
+      {
+        "question": "Based on the information displayed, what is the net weight in grams?",
+        "answer": "227"
+      }
+    ]
+  }
+]

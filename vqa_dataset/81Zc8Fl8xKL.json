@@ -6,7 +6,7 @@
     "questions": [
       {
         "question": "What is the predominant color of the chair's upholstery?",
-        "answer": "Mustard"
+        "answer": "Beige"
       },
       {
         "question": "What appears to be the primary material of the chair's upholstery?",
@@ -17,52 +17,52 @@
         "answer": "Rounded"
       },
       {
-        "question": "What is the visible texture of the chair's upholstery?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What is the apparent finish of the chair's base?",
-        "answer": "Metallic"
-      },
-      {
-        "question": "How many legs does the chair's base have?",
-        "answer": "Five"
-      },
-      {
-        "question": "What is the shape of the chair's base?",
-        "answer": "Star"
-      },
-      {
         "question": "What is the style of the chair's armrests?",
         "answer": "Curved"
       },
       {
-        "question": "Describe the overall style of the chair?",
-        "answer": "Relaxed"
+        "question": "What material seems to constitute the chair's base?",
+        "answer": "Metal"
       },
       {
-        "question": "What is the apparent material of the chair's armrests?",
-        "answer": "Wood"
+        "question": "What is the design of the chair's base?",
+        "answer": "Star"
       },
       {
-        "question": "What is the design of the chair's backrest cushions?",
+        "question": "What is the visible texture of the chair's upholstery?",
         "answer": "Tufted"
       },
       {
-        "question": "What is the overall visual impression of the seat cushion?",
-        "answer": "Plump"
-      },
-      {
-        "question": "Is the chair's base fixed or swiveling?",
-        "answer": "Swiveling"
-      },
-      {
-        "question": "Considering the overall appearance, is this chair's design modern or traditional?",
+        "question": "How would you characterize the chair's overall design?",
         "answer": "Modern"
       },
       {
-        "question": "What is the visible type of base support for the chair?",
-        "answer": "Pedestal"
+        "question": "What is the apparent height of the chair's backrest relative to the seat?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the general shape of the chair's seat cushion?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the chair appear to have any visible stitching on its upholstery?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the finish of the chair's metal base?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the apparent number of legs supporting the chair?",
+        "answer": "Five"
+      },
+      {
+        "question": "Considering the visible features, what is the likely type of chair?",
+        "answer": "Recliner"
+      },
+      {
+        "question": "Does the chair exhibit any noticeable patterns in its upholstery?",
+        "answer": "No"
       }
     ]
   }

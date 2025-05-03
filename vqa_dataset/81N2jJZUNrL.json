@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the vacuum cleaner bag's main body?",
+        "question": "What is the predominant color of the vacuum cleaner bag?",
         "answer": "White"
       },
       {
-        "question": "What color is the plastic collar/closure system on the bag?",
+        "question": "What color is the plastic collar or fitting on the bag?",
         "answer": "Green"
       },
       {
-        "question": "What appears to be the primary material of the dust bag itself?",
-        "answer": "Paper"
+        "question": "What appears to be the primary material of the bag itself?",
+        "answer": "Fabric"
       },
       {
-        "question": "What is the overall shape of the vacuum cleaner dust bag?",
+        "question": "What is the overall shape of the vacuum cleaner bag?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the seams and folds, what is the texture of the bag's surface?",
+        "question": "Describing the texture, is the bag smooth or rough?",
         "answer": "Smooth"
       },
       {
-        "question": "Is the dust bag design primarily characterized by curves or straight lines?",
-        "answer": "Straight"
+        "question": "Is there a visible opening or port on the bag's front?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the shape of the opening or collar where the vacuum hose connects?",
+        "question": "What shape is the opening/port on the vacuum cleaner bag?",
         "answer": "Circular"
       },
       {
-        "question": "Does the visible plastic component have any noticeable texture beyond smoothness?",
-        "answer": "Smooth"
+        "question": "Does the bag seem to be disposable or reusable?",
+        "answer": "Disposable"
       },
       {
-        "question": "What type of fastening mechanism appears to be present for closing the bag?",
-        "answer": "Plastic"
+        "question": "What type of closure or fastening mechanism is visible?",
+        "answer": "Clip"
       },
       {
-        "question": "Observing the bag's edges, how would you describe their overall condition?",
-        "answer": "Sealed"
-      },
-      {
-        "question": "What seems to be the function of the green plastic component?",
-        "answer": "Closure"
-      },
-      {
-        "question": "Based on the image, does the bag exhibit any noticeable patterns or prints?",
-        "answer": "None"
-      },
-      {
-        "question": "Describe the apparent overall condition of the vacuum bag in the image.",
-        "answer": "New"
-      },
-      {
-        "question": "Does the bag show any signs of damage, such as tears or holes?",
+        "question": "Are there any noticeable markings or labels on the bag?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent purpose of this product, judging by its visual attributes?",
-        "answer": "Cleaning"
+        "question": "Considering the overall construction, is it folded or flat?",
+        "answer": "Folded"
+      },
+      {
+        "question": "What is the apparent flexibility of the vacuum cleaner bag material?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the bag exhibit any visible seams or stitching?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, does the bag appear to be thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on its appearance, is the bag designed for wet or dry use?",
+        "answer": "Dry"
       }
     ]
   }

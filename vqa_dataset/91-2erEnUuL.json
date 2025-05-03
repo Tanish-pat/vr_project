@@ -13,56 +13,56 @@
         "answer": "Metal"
       },
       {
-        "question": "What geometric shape best describes the main structural supports?",
-        "answer": "Rectangular"
+        "question": "Describe the overall shape of the visible structural joint?",
+        "answer": "Triangular"
       },
       {
         "question": "What type of fasteners are visibly securing the structural components?",
         "answer": "Bolts"
       },
       {
-        "question": "Considering the visible joins, what seems to be the method of assembly?",
-        "answer": "Bolted"
-      },
-      {
-        "question": "What is the apparent finish of the metal surfaces, based on the image's reflection?",
+        "question": "What is the apparent surface finish of the metal components?",
         "answer": "Matte"
       },
       {
-        "question": "Observing the visible edges, what is the profile of the metal beams?",
+        "question": "Judging by the image, what is the number of visible bolt heads on the triangular brace?",
+        "answer": "Five"
+      },
+      {
+        "question": "Considering the visible details, what is the apparent type of metal used?",
+        "answer": "Steel"
+      },
+      {
+        "question": "What kind of profile do the larger rectangular structural members exhibit?",
         "answer": "Square"
       },
       {
-        "question": "What shape are the visible reinforcement plates connecting the supports?",
-        "answer": "Triangular"
+        "question": "Based on the image, what is the visible connection method between the main parts?",
+        "answer": "Bolted"
       },
       {
-        "question": "Judging by the visible bolts, what seems to be the size of the bolt heads?",
-        "answer": "Small"
+        "question": "What is the visible shape of the smaller, upright structural member?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Considering the overall structure shown, what might be its function or purpose?",
-        "answer": "Support"
+        "question": "What design feature is evident at the ends of the larger beams?",
+        "answer": "Squared"
       },
       {
-        "question": "What is the apparent texture of the metal, based on visual observation?",
+        "question": "What seems to be the method used to join the smaller and larger sections?",
+        "answer": "Bolting"
+      },
+      {
+        "question": "Considering the image, what is the general appearance of the visible welds?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visible details, what is the apparent thickness of the main beams?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the apparent surface texture of the visible metallic parts?",
         "answer": "Smooth"
-      },
-      {
-        "question": "Can you describe the visible pattern of the bolt hole distribution?",
-        "answer": "Regular"
-      },
-      {
-        "question": "What is the visible number of mounting holes on the largest visible plate?",
-        "answer": "Four"
-      },
-      {
-        "question": "Based solely on the image, what seems to be the weight-bearing capacity?",
-        "answer": "High"
-      },
-      {
-        "question": "How many primary support beams are visibly shown in this close-up?",
-        "answer": "Three"
       }
     ]
   }

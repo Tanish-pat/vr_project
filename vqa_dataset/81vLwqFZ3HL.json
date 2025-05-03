@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/51/515740d7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme prominently displayed on the packaging?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What type of pest control is indicated on the box's main label?",
+        "answer": "Topical"
+      },
+      {
+        "question": "What animal is depicted on the product's packaging for visual clarity?",
+        "answer": "Dog"
+      },
+      {
+        "question": "What is the brand name clearly visible on the packaging?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "Based on the image, what is the stated quantity of tubes included?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the shape of the packaging box, as visually apparent?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall texture of the box, from visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of pests does the product claim to eliminate, as shown on the packaging?",
+        "answer": "Fleas"
+      },
+      {
+        "question": "What additional pest does the product target, as shown on the label?",
+        "answer": "Ticks"
+      },
+      {
+        "question": "What is the target animal species for this topical treatment, as shown on the box?",
+        "answer": "Dogs"
+      },
+      {
+        "question": "What additional pest is mentioned as a target, besides fleas and ticks?",
+        "answer": "Lice"
+      },
+      {
+        "question": "Describe the style of the graphical elements on the box (geometric or other).",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What word indicates that the product's effect is rapid?",
+        "answer": "Fast-acting"
+      },
+      {
+        "question": "What is a key characteristic of the product's effect on the coat?",
+        "answer": "Waterproof"
+      },
+      {
+        "question": "What additional feature regarding duration is highlighted on the packaging?",
+        "answer": "Long-lasting"
+      }
+    ]
+  }
+]

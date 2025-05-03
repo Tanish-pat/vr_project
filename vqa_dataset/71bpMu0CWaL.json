@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color displayed on the phone case's main surface?",
+        "question": "What is the dominant color scheme depicted on the phone case?",
         "answer": "Purple"
       },
       {
-        "question": "What type of floral pattern is prominently featured on the phone case?",
+        "question": "What type of floral pattern is prominently displayed on the case?",
         "answer": "Lilac"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this phone case?",
+        "question": "What appears to be the primary material of the phone case itself?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall shape of the depicted phone case?",
+        "question": "Considering the image, what is the overall shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the visual details, what is the apparent finish of the phone case's surface?",
-        "answer": "Matte"
+        "question": "Based on the visuals, what is the texture of the phone case's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "Describe the visual texture of the lilac blossoms depicted on the phone case.",
-        "answer": "Soft"
+        "question": "What kind of photographic style is employed in the case's design?",
+        "answer": "Macro"
       },
       {
-        "question": "What is the apparent level of detail in the lilac flower print on the phone case?",
+        "question": "Judging from the image, is the phone case design predominantly monochromatic or polychromatic?",
+        "answer": "Polychromatic"
+      },
+      {
+        "question": "What is the apparent level of detail in the floral photographic print?",
         "answer": "High"
       },
       {
-        "question": "Judging by the image, what is the apparent style of the phone case's design?",
-        "answer": "Floral"
+        "question": "Describe the visual arrangement of the flowers in the design?",
+        "answer": "Dense"
       },
       {
-        "question": "Considering the multiple views, how many sides of the case are shown in the image?",
-        "answer": "Three"
+        "question": "What is the general visual style of the lilac flower depiction?",
+        "answer": "Realistic"
       },
       {
-        "question": "Does the phone case appear to have any visible text or logos?",
+        "question": "Considering the shades present, what is the range of purple hues in the design?",
+        "answer": "Varied"
+      },
+      {
+        "question": "From the image, what kind of finish does the phone case appear to have?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the case design include any text or logos visibly?",
         "answer": "No"
       },
       {
-        "question": "What is the visual tone or mood conveyed by the phone case's design?",
-        "answer": "Serene"
+        "question": "What is the visual orientation of the lilac flowers on the case?",
+        "answer": "Vertical"
       },
       {
-        "question": "What is the approximate number of individual lilac blossoms visible on the case?",
-        "answer": "Many"
-      },
-      {
-        "question": "What is the overall color saturation of the lilac blossoms depicted?",
-        "answer": "Rich"
-      },
-      {
-        "question": "Does the image display any visible camera cutouts on the phone case?",
-        "answer": "No"
-      },
-      {
-        "question": "Judging from the image, what range of purple hues are visible in the lilac print?",
-        "answer": "Dark"
+        "question": "Judging by the image, is the phone case design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
       }
     ]
   }

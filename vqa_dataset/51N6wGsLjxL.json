@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2aa12fce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the lamp base, as shown in the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the lamp's base?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Considering the shape of the lamp base, what descriptive adjective best captures its form?",
+        "answer": "Urn-shaped"
+      },
+      {
+        "question": "Describe the surface texture visible on the lamp base, based on the image's visual details.",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What color is the metal fitting at the top of the lamp base?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall style of the lamp base, considering its shape and color?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Based on the image, what seems to be the finish of the ceramic lamp base?",
+        "answer": "Glazed"
+      },
+      {
+        "question": "Judging from the image, does the lamp base exhibit any visible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent shape of the top part of the lamp base, just below the metal fitting?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the approximate shape of the base of the lamp base, visually observed?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the visual impression of the lamp base's overall smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, is the color of the lamp base uniform across its entire surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of light reflection is observed on the surface of the lamp base?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the image, is there any visible damage or imperfection to the lamp base?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the metal fitting, relative to the entire lamp base?",
+        "answer": "Small"
+      }
+    ]
+  }
+]
