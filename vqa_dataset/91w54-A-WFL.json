@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4a351342.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the container's top rim?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the primary color of the product label?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the declared type of the food product shown?",
+        "answer": "Hummus"
+      },
+      {
+        "question": "What is the apparent texture of the hummus shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the container holding the food product?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the general color of the hummus itself, as depicted?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the material that appears to compose the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is indicated regarding the amount of sodium in the product?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is stated about the presence of added oils in the product?",
+        "answer": "None"
+      },
+      {
+        "question": "What is mentioned regarding the fat content of this hummus?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the brand name prominently displayed on the label?",
+        "answer": "Engine"
+      },
+      {
+        "question": "What descriptive term follows the brand name on the label?",
+        "answer": "2"
+      },
+      {
+        "question": "What additional descriptive term qualifies the product type?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What type of image is included to visually suggest product ingredients?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "What other ingredient is visually represented on the label?",
+        "answer": "Chickpeas"
+      }
+    ]
+  }
+]

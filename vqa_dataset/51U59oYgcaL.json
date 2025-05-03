@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b2b3ab15.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the packaging of this topical antibiotic?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What specific type of antibiotic treatment does this product claim to be?",
+        "answer": "Triple"
+      },
+      {
+        "question": "Based on the packaging, what is the primary intended use for this ointment?",
+        "answer": "First-aid"
+      },
+      {
+        "question": "What is the textual indication of the brand name visibly displayed on the packaging?",
+        "answer": "Basic"
+      },
+      {
+        "question": "What shape best describes the overall form factor of this medical product's container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the product's visual design, what is its indicated primary function?",
+        "answer": "Antibiotic"
+      },
+      {
+        "question": "What is the color of the secondary accent color prominently featured on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the material of which the outer packaging seems to be predominantly made of?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the descriptive term for the packaging style used for this medical product?",
+        "answer": "Box"
+      },
+      {
+        "question": "What unit of weight is used for the product's net weight declaration on the packaging?",
+        "answer": "Ounce"
+      },
+      {
+        "question": "What number indicates the apparent ranking claim for this product based on the image?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the overall tone of the packaging's design aesthetic?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What text indicates a comparison to another antibiotic brand on the packaging?",
+        "answer": "Neosporin"
+      },
+      {
+        "question": "What is the general texture implied by the visual representation of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the prominent textual feature near the weight declaration, suggesting the usage instruction?",
+        "answer": "Net"
+      }
+    ]
+  }
+]

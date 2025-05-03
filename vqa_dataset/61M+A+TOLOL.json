@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/70226783.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall presentation, what is the primary color of the printed text shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the dominant descriptive term used to modify the milk specified in the ingredients list?",
+        "answer": "Reduced"
+      },
+      {
+        "question": "Based on the provided text, what fat content is indicated for the main milk component?",
+        "answer": "Fat"
+      },
+      {
+        "question": "According to the text, what vitamin, presented as a palmitate, is listed as an ingredient?",
+        "answer": "A"
+      },
+      {
+        "question": "In the list of ingredients, what other vitamin, specified by its number, is included?",
+        "answer": "D3"
+      },
+      {
+        "question": "What single word describes the background on which the text is printed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Disregarding spacing, how many words appear in the 'INGREDIENTS' section?",
+        "answer": "Eight"
+      },
+      {
+        "question": "In the concluding statement, which single dairy product is explicitly mentioned?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the case of the letters used for the word 'INGREDIENTS'?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What punctuation mark concludes the 'INGREDIENTS' statement?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the font style of the text (considering both size and weight)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the overall alignment of the text blocks presented in the image.",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent texture of the surface upon which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the spacing and overall text layout, how many lines of text are present?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the format of the information presented in the image?",
+        "answer": "List"
+      }
+    ]
+  }
+]

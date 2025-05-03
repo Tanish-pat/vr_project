@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the astrological sign depiction on the phone case?",
+        "question": "What is the primary color of the depicted zodiac sign on the phone case?",
         "answer": "Brown"
       },
       {
-        "question": "What is the overall design style of the phone case's graphic?",
-        "answer": "Vintage"
-      },
-      {
-        "question": "What zodiac sign is prominently featured on the phone case?",
+        "question": "What astrological sign is prominently featured in the design?",
         "answer": "Virgo"
       },
       {
-        "question": "What is the depicted figure's orientation on the phone case?",
+        "question": "What is the overall shape of the main design element on the phone case?",
         "answer": "Profile"
       },
       {
-        "question": "What is the texture implied by the background of the phone case image?",
+        "question": "Describe the texture of the background design on the phone case?",
         "answer": "Grunge"
       },
       {
-        "question": "What appears to be the main material of the phone case itself?",
+        "question": "What is the style of the art used to depict the Virgo sign?",
+        "answer": "Ornate"
+      },
+      {
+        "question": "What is the apparent material of the phone case, based on its appearance?",
         "answer": "Plastic"
       },
       {
-        "question": "What color is the small astrological symbol near the Virgo text?",
-        "answer": "Gold"
-      },
-      {
-        "question": "What is the style of the woman's hair in the design?",
-        "answer": "Curled"
-      },
-      {
-        "question": "What color are some of the accents in the woman's hair design?",
+        "question": "What color are the decorative elements within the hair of the Virgo design?",
         "answer": "Red"
       },
       {
-        "question": "Describe the shape of the phone case's design area.",
-        "answer": "Rectangular"
+        "question": "What color is the small astrological symbol located below the main design?",
+        "answer": "Brown"
       },
       {
-        "question": "What is the font style of the word 'Virgo' on the case?",
-        "answer": "Serif"
-      },
-      {
-        "question": "What is the overall color scheme of the phone case background?",
+        "question": "What is the general color palette of the background on the case?",
         "answer": "Beige"
       },
       {
-        "question": "What is the main subject depicted on the phone case?",
-        "answer": "Woman"
+        "question": "Considering the image, what is the style of the Virgo's hair?",
+        "answer": "Wavy"
       },
       {
-        "question": "What is the format of the design's presentation on the case?",
-        "answer": "Graphic"
+        "question": "What is the format of the Virgo symbol's placement on the case?",
+        "answer": "Circular"
       },
       {
-        "question": "What is the apparent finish of the phone case surface?",
+        "question": "Describe the color of the Virgo's face in the design?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based solely on the image, what appears to be the finish of the case?",
         "answer": "Matte"
+      },
+      {
+        "question": "What is the type of phone displayed (brand/model) whose shape is visible?",
+        "answer": "Samsung"
+      },
+      {
+        "question": "What is the overall aesthetic of the phone case's design?",
+        "answer": "Vintage"
       }
     ]
   }

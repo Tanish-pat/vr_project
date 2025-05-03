@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c311c9e5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the product's outer shell?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary function suggested by the central component?",
+        "answer": "Leveling"
+      },
+      {
+        "question": "What brand name is prominently displayed on the product?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Describe the shape of the main product body excluding any protruding elements?",
+        "answer": "Oblong"
+      },
+      {
+        "question": "What color is the visible fluid within the leveling vial?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent texture of the product's exterior surface?",
+        "answer": "Grippable"
+      },
+      {
+        "question": "What is the overall shape of the visible leveling vial?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the material surrounding the vial?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of markings are seen on the product's outer body?",
+        "answer": "None"
+      },
+      {
+        "question": "What design feature is suggested by the texturing on the sides?",
+        "answer": "Grip"
+      },
+      {
+        "question": "What color are the visible metallic elements around the vial?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Does the product feature any noticeable internal mechanisms visible through the casing?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size relative to a common handheld object?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the overall design aesthetic of the product?",
+        "answer": "Functional"
+      }
+    ]
+  }
+]

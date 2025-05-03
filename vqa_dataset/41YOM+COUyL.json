@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a9181bae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular trash can shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this tall, upright receptacle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the container's profile?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the top edge, what type of feature is visible for lifting or carrying the bin?",
+        "answer": "Handles"
+      },
+      {
+        "question": "Based on the image, how would you characterize the overall surface texture of the waste container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its size and structure, what is the most likely intended use of this item?",
+        "answer": "Trash"
+      },
+      {
+        "question": "Describe the visible design elements on the front surface of the black container, other than the handles.",
+        "answer": "Grooves"
+      },
+      {
+        "question": "What is the apparent rigidity or flexibility of the container, judging from its structure?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Considering the visible design, what style would best describe this waste receptacle?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From its appearance, is the container's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general shape of the top opening of the bin?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what is the approximate height to width ratio of the bin?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the container exhibit any noticeable patterns or decorative elements beyond the grooves?",
+        "answer": "None"
+      },
+      {
+        "question": "Is the overall appearance of the container sleek or bulky?",
+        "answer": "Bulky"
+      },
+      {
+        "question": "Considering the visual evidence, what is the most likely manufacturing process used for this container?",
+        "answer": "Molding"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/ef40f4cd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the preserved peppers depicted in the jar?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on the image, what appears to be the shape of the individual pepper pieces contained within the jar?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "From a visual assessment, what is the apparent texture of the peppers preserved in this glass container?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What kind of material seems to constitute the primary structure of the container holding the product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the product packaging including the container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the visible type of closure mechanism used to seal the jar's contents?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "Analyzing the image, is there any evidence of visible liquid medium surrounding the preserved peppers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visual perspective, what seems to be the approximate level of fill of the jar relative to the total volume?",
+        "answer": "Full"
+      },
+      {
+        "question": "Based solely on visual inspection of the jar's contents, what is the approximate size of the individual pepper pieces?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the visible contents, what appears to be the general condition or state of the preserved peppers?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "Judging from the image, does the label on the jar suggest any specific method of preservation?",
+        "answer": "Pickled"
+      },
+      {
+        "question": "What is the apparent clarity or transparency of the glass container showcasing the peppers?",
+        "answer": "Clear"
+      },
+      {
+        "question": "In terms of visual presentation, what type of seal or tamper-evident feature is visible on the jar?",
+        "answer": "None"
+      },
+      {
+        "question": "By visual observation, what is the estimated color of the liquid medium surrounding the peppers in the jar?",
+        "answer": "Yellowish"
+      },
+      {
+        "question": "From the image, what appears to be the overall condition of the packaging, neglecting the contents?",
+        "answer": "Intact"
+      }
+    ]
+  }
+]

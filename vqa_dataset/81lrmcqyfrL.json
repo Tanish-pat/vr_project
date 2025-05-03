@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the cabinet's exterior?",
+        "question": "What is the predominant color of the wooden cabinet's exterior?",
         "answer": "Brown"
       },
       {
-        "question": "What kind of doors does the cabinet feature for storage?",
+        "question": "What type of door mechanism is visibly present on the cabinet?",
         "answer": "Sliding"
       },
       {
-        "question": "Describe the overall shape of the cabinet's top surface.",
+        "question": "What is the overall shape of the cabinet's main body?",
         "answer": "Rectangular"
       },
       {
-        "question": "What material appears to be used for the cabinet's construction?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What is the style of the legs supporting the cabinet?",
-        "answer": "Tapered"
-      },
-      {
-        "question": "What is the finish or texture of the wood visible on the cabinet?",
+        "question": "Describe the visible texture of the wood grain on the cabinet's surface.",
         "answer": "Smooth"
       },
       {
-        "question": "What type of hardware is used for the sliding door mechanism?",
-        "answer": "Metal"
+        "question": "What material appears to constitute the cabinet's primary construction?",
+        "answer": "Wood"
       },
       {
-        "question": "What is the apparent grain direction visible on the cabinet's surface?",
-        "answer": "Vertical"
+        "question": "What is the apparent finish of the wooden cabinet's surface?",
+        "answer": "Glossy"
       },
       {
-        "question": "Considering the visual elements, what is the overall design aesthetic?",
-        "answer": "Mid-century"
+        "question": "What is the shape of the cabinet's legs or base supports?",
+        "answer": "Tapered"
       },
       {
-        "question": "What is the shape of the handles on the sliding doors?",
-        "answer": "Rectangular"
+        "question": "What kind of handles or pulls are attached to the sliding doors?",
+        "answer": "Bar"
       },
       {
-        "question": "Describe the color of the metallic door handles on the cabinet.",
-        "answer": "Silver"
-      },
-      {
-        "question": "What is the visible number of sliding doors on the cabinet?",
+        "question": "How many sliding doors are visibly present on the front of the cabinet?",
         "answer": "Two"
       },
       {
-        "question": "What is the general height of the cabinet's legs from the floor?",
-        "answer": "Low"
+        "question": "What style of design is most apparent in the cabinet's overall aesthetic?",
+        "answer": "Mid-century"
       },
       {
-        "question": "Based on visual appearance, how would you describe the cabinet's profile?",
-        "answer": "Sleek"
+        "question": "What is the general height of the cabinet shown in the image?",
+        "answer": "Tall"
       },
       {
-        "question": "Considering the image, does the cabinet appear to have any visible drawers?",
-        "answer": "No"
+        "question": "What is the approximate length of the cabinet as depicted?",
+        "answer": "Long"
+      },
+      {
+        "question": "Based on its features, what is the likely function of the cabinet?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Describe the visual tone created by the cabinet's color and style.",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the primary visual feature that distinguishes the legs from the body?",
+        "answer": "Slant"
       }
     ]
   }

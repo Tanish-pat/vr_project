@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8fac6413.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the jar's lid, as shown in the product image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What primary color is featured prominently on the product label, besides the blue?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what appears to be the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the image, what seems to be the material of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the jar's label based solely on the visual information provided.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent design style of the geometric pattern on the product label?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What color are the geometric shapes on the product's label?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Judging from the image, does the jar have a wide or narrow opening?",
+        "answer": "Wide"
+      },
+      {
+        "question": "What is the general visual impression of the product's overall aesthetic?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the image show any visible text on the container, besides the brand name?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the relative size of the product container as judged by the hand in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the image, does the label appear matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent condition of the product container?",
+        "answer": "New"
+      },
+      {
+        "question": "What kind of container is used to hold the product, judging from the image?",
+        "answer": "Jar"
+      },
+      {
+        "question": "What appears to be the relative weight of the container, given its size and visual attributes?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/1339b971.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the depicted phone case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What musical instrument is prominently featured in the phone case design?",
+        "answer": "Guitar"
+      },
+      {
+        "question": "Describe the artistic style used to portray the musical instrument on the case?",
+        "answer": "Line"
+      },
+      {
+        "question": "What color is the outline of the depicted musical instrument on the phone case?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the main material of the phone case itself, based on visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the design, what is the overall aesthetic of this phone case?",
+        "answer": "Ornate"
+      },
+      {
+        "question": "What type of guitar is illustrated on the phone case, acoustical or electric?",
+        "answer": "Acoustical"
+      },
+      {
+        "question": "Describe the pattern adorning the guitar on the phone case's design?",
+        "answer": "Paisley"
+      },
+      {
+        "question": "Is the image of the guitar on the phone case detailed or simplistic?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "What is the apparent texture of the phone case's surface, judging by the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the phone case design appear to be symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "What is the shape of the phone case itself, disregarding its design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, are there any noticeable three-dimensional elements to the design?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the level of visual clarity and definition in the printed design?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Considering the design style, which artistic period does it evoke?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

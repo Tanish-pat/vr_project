@@ -9,60 +9,60 @@
         "answer": "Silver"
       },
       {
-        "question": "What appears to be the material of the toothbrush cup itself?",
+        "question": "What is the apparent material of the toothbrush holder's cup?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall shape of the toothbrush holder's base?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the apparent texture of the toothbrush holder's base?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the mounting, how would you describe the holder's installation?",
-        "answer": "Wall-mounted"
-      },
-      {
-        "question": "What is the general shape of the toothbrush cup?",
+        "question": "Describe the overall shape of the toothbrush holder's cup?",
         "answer": "Square"
       },
       {
-        "question": "What color is the translucent toothbrush cup?",
-        "answer": "Clear"
+        "question": "What is the mounting style of this toothbrush holder?",
+        "answer": "Wall-mounted"
       },
       {
-        "question": "How many toothbrushes are visibly held within the cup?",
-        "answer": "Two"
+        "question": "What is the finish of the metallic base of the holder?",
+        "answer": "Chrome"
       },
       {
-        "question": "Based on its appearance, what is the primary function of this item?",
-        "answer": "Storage"
+        "question": "What seems to be the overall color of the cup itself?",
+        "answer": "Translucent"
       },
       {
-        "question": "What seems to be the material of the base's mounting hardware?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Does the base appear to have any visible seams or joints?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Describe the overall design style of the toothbrush holder?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What type of surface is the holder affixed to?",
-        "answer": "Tile"
-      },
-      {
-        "question": "Considering the colors, what's the overall aesthetic?",
+        "question": "Considering the wall and the holder, what is the primary color scheme?",
         "answer": "Neutral"
       },
       {
-        "question": "Is the cup's transparency uniform across its surface?",
-        "answer": "Yes"
+        "question": "Does the toothbrush holder seem to have any visible screws?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent material of the holder's mounting bracket?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the texture of the toothbrush holder's cup based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many toothbrushes are shown resting within the cup?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent design style of the toothbrush holder?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Does the toothbrush holder seem to have any visible patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general placement of this holder in the bathroom?",
+        "answer": "Sink"
+      },
+      {
+        "question": "Considering its function, what is this item primarily for?",
+        "answer": "Toothbrushes"
       }
     ]
   }

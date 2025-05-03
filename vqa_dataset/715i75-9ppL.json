@@ -5,15 +5,11 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's design?",
-        "answer": "Pink"
+        "question": "What is the dominant color scheme of the phone case design?",
+        "answer": "Purple"
       },
       {
-        "question": "What is the primary depicted scene on the phone case?",
-        "answer": "Silhouette"
-      },
-      {
-        "question": "What are the depicted figures in the phone case's design?",
+        "question": "What is the primary subject depicted in the phone case's illustration?",
         "answer": "Children"
       },
       {
@@ -21,48 +17,52 @@
         "answer": "Smooth"
       },
       {
-        "question": "What is the overall shape of the depicted phone case?",
+        "question": "What is the overall shape of the phone case as depicted?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the style of the artistic rendering on the phone case?",
+        "question": "What is the style of the illustration on the phone case?",
         "answer": "Silhouette"
       },
       {
-        "question": "What type of scene is illustrated on the phone case's design?",
-        "answer": "Romantic"
-      },
-      {
-        "question": "What is the apparent material of the depicted phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What kind of background is shown in the case's image?",
+        "question": "What type of scene is depicted in the phone case image?",
         "answer": "Landscape"
       },
       {
-        "question": "What are the small details shown near the children?",
-        "answer": "Flowers"
+        "question": "What seems to be the material of the phone case itself?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the action taking place between the children?",
+        "question": "What is the apparent finish of the phone case's printed design?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, what is the depicted activity of the children?",
         "answer": "Kissing"
       },
       {
-        "question": "What is the general color tone of the background?",
-        "answer": "Pastel"
+        "question": "What design elements are present aside from the central figures?",
+        "answer": "Flowers"
       },
       {
-        "question": "What is the form of the depicted plant life?",
-        "answer": "Branch"
+        "question": "What is the general aesthetic or mood evoked by the design?",
+        "answer": "Romantic"
       },
       {
-        "question": "What is the implied location of the scene on the phone case?",
-        "answer": "Outdoors"
+        "question": "Based on the image, what is the overall color saturation of the image?",
+        "answer": "Low"
       },
       {
-        "question": "What is the style of the children's depiction?",
-        "answer": "Cartoonish"
+        "question": "What are the children depicted as wearing in the phone case illustration?",
+        "answer": "Clothes"
+      },
+      {
+        "question": "What is the background of the image beyond the primary figures?",
+        "answer": "Hills"
+      },
+      {
+        "question": "What is the apparent printing quality or resolution of the design?",
+        "answer": "High"
       }
     ]
   }
