@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the headset and its microphone?",
+        "question": "What is the predominant color of the gaming headset?",
         "answer": "Black"
       },
       {
-        "question": "What material appears to be used in the construction of the earcups?",
+        "question": "What material appears to constitute the earcups and headband?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape of the headset's earcups, when viewed from the front?",
+        "question": "Describe the overall shape of the headset's earcups.",
         "answer": "Circular"
       },
       {
-        "question": "Describe the design of the headband's top section, considering its curves and thickness.",
-        "answer": "Curved"
-      },
-      {
-        "question": "What is the noticeable brand logo present on the earcup?",
-        "answer": "PlayStation"
-      },
-      {
-        "question": "Considering its flexibility, what is the type of microphone attached?",
+        "question": "What type of microphone is visibly attached to the headset?",
         "answer": "Boom"
       },
       {
-        "question": "What is the apparent texture of the headset's surface, based on the image?",
+        "question": "Is the PlayStation logo visible on the headset's earcups?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent texture of the headset's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What seems to be the connection method used to attach the headset to a device?",
+        "question": "What is the style of the headband's design?",
+        "answer": "Over-ear"
+      },
+      {
+        "question": "How would you describe the connection type of the microphone?",
         "answer": "Wired"
       },
       {
-        "question": "What is the visible shape and construction of the microphone's head?",
-        "answer": "Spherical"
+        "question": "What is the visible material of the microphone's tip?",
+        "answer": "Foam"
       },
       {
-        "question": "Based on the image, what appears to be the headset's main function?",
-        "answer": "Gaming"
+        "question": "What kind of cable is connected to the headset?",
+        "answer": "Wired"
       },
       {
-        "question": "What style of design elements are incorporated into the earcups, aside from the logo?",
-        "answer": "Geometric"
+        "question": "What is the apparent flexibility of the microphone boom?",
+        "answer": "Flexible"
       },
       {
-        "question": "What seems to be the type of padding used on the earcups, if any?",
+        "question": "What is the design of the earcups' outer surface?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What kind of padding is visible on the earcups?",
         "answer": "None"
       },
       {
-        "question": "What is the apparent material of the connecting wire between the headset and microphone?",
-        "answer": "Plastic"
+        "question": "How would you characterize the overall design aesthetic of the headset?",
+        "answer": "Minimalist"
       },
       {
-        "question": "Describe the design element at the junction where the headband meets the earcups.",
-        "answer": "Angled"
-      },
-      {
-        "question": "Considering its length and curvature, what is the form of the microphone arm?",
-        "answer": "Flexible"
+        "question": "Does the headset seem to have any visible adjustment mechanisms?",
+        "answer": "No"
       }
     ]
   }

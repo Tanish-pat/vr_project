@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the handbag, as shown in the image?",
+        "question": "What is the dominant color of the handbag shown in the image?",
         "answer": "Beige"
       },
       {
-        "question": "What appears to be the primary material used in constructing the handbag?",
+        "question": "What is the primary material appearing to constitute the handbag's body?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the overall shape or silhouette of the presented handbag.",
+        "question": "What is the overall shape of the handbag as presented in the provided image?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the central panel, what design element is prominently featured?",
-        "answer": "Laser-cut"
-      },
-      {
-        "question": "What kind of closure mechanism is visibly present on the handbag?",
-        "answer": "None"
-      },
-      {
-        "question": "What is the apparent finish or texture of the handbag's outer surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What metallic color is observed on the small circular pendant?",
-        "answer": "Rose-gold"
-      },
-      {
-        "question": "What is the shape of the decorative pendant attached to the bag?",
-        "answer": "Circular"
-      },
-      {
-        "question": "How many handles does the handbag seem to possess for carrying?",
-        "answer": "Two"
-      },
-      {
-        "question": "Considering the design, what style of handle is present on this handbag?",
-        "answer": "Shoulder"
-      },
-      {
-        "question": "What is the geometric pattern within the laser-cut section of the bag?",
+        "question": "Considering the image, what is the design pattern featured on the handbag's central panel?",
         "answer": "Geometric"
       },
       {
-        "question": "Is there a visible brand logo on the pendant of the bag?",
-        "answer": "Yes"
+        "question": "What kind of embellishment is visible on the handbag, hanging from a small chain?",
+        "answer": "Charm"
       },
       {
-        "question": "What is the general design style of the presented handbag?",
-        "answer": "Minimalist"
+        "question": "What seems to be the style of the bag's handles based on the visual provided?",
+        "answer": "Top"
       },
       {
-        "question": "Describe the pattern within the laser cut detail on the handbag.",
-        "answer": "Floral"
+        "question": "What type of visual detail is present on the central area of the handbag, aside from its color?",
+        "answer": "Cutouts"
       },
       {
-        "question": "What is the style of the bag's handles in relation to the bag's body?",
-        "answer": "Attached"
+        "question": "Judging by the image, what is the apparent texture of the handbag's outer material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What metal finish is observed on the small hanging charm attached to the bag?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Based on the image, describe the overall closure mechanism of this handbag?",
+        "answer": "Open"
+      },
+      {
+        "question": "What is the apparent sheen or finish of the handbag\u2019s main material?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the apparent size of the handbag presented in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the style of the handbag's design based on the visual evidence provided.",
+        "answer": "Classic"
+      },
+      {
+        "question": "What appears to be the general construction of the bag's body judging from the image?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What is the overall visual impression conveyed by the design of this handbag?",
+        "answer": "Elegant"
       }
     ]
   }

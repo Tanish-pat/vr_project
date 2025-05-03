@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the textual information provided in the image, what is the primary ingredient visually highlighted?",
-        "answer": "Shea"
+        "question": "Considering the provided text, what is the primary ingredient visibly listed, as per the image's text?",
+        "answer": "BUTTER"
       },
       {
-        "question": "Based on the image's text, can you identify a secondary ingredient used in the product's formulation?",
-        "answer": "Butter"
+        "question": "Based on the image, what appears to be one of the secondary ingredients, as identified by the text?",
+        "answer": "OIL"
       },
       {
-        "question": "What is one of the visible ingredients, indicated by the image's text, that contributes to the product's texture?",
-        "answer": "Sodium"
+        "question": "What word, repeatedly mentioned in the textual data within the image, suggests a type of ingredient?",
+        "answer": "SODIUM"
       },
       {
-        "question": "According to the textual information in the image, what oil is included in the product's composition?",
-        "answer": "Almond"
+        "question": "Examining the image's text, what other ingredient can be visually identified besides the already mentioned ones?",
+        "answer": "EXTRACT"
       },
       {
-        "question": "Based on the image's text, identify one of the ingredients that might function as an emollient in the product?",
-        "answer": "Cocoa"
+        "question": "According to the image, what additional ingredient is explicitly named in the provided text?",
+        "answer": "BUTTER"
       },
       {
-        "question": "From the text in the image, what plant extract is among the components of the product?",
-        "answer": "Rosemary"
+        "question": "What is the descriptive term for the primary ingredient, as shown in the product image's text?",
+        "answer": "ISOLATED"
       },
       {
-        "question": "What is one of the visible ingredients, indicated by the image's text, that might act as a preservative?",
-        "answer": "Gluconate"
+        "question": "What type of butter, as indicated in the image's text, is a component of this product?",
+        "answer": "SHEA"
       },
       {
-        "question": "According to the visible textual information, what is a potential ingredient that could provide moisturizing benefits?",
-        "answer": "Chlorate"
+        "question": "Judging by the image's text, what type of oil is present in the item's composition?",
+        "answer": "ALMOND"
       },
       {
-        "question": "What is one of the ingredients, visually presented in the image's text, that might contribute to the product's consistency?",
-        "answer": "Haluronate"
+        "question": "What word in the textual data within the image appears to function as a descriptor, modifying the main ingredients?",
+        "answer": "NATURAL"
       },
       {
-        "question": "Based solely on the text in the image, what substance could function as a thickener in this product?",
-        "answer": "Cocoate"
+        "question": "According to the textual data in the image, what is one of the components, likely an additive, included in the product?",
+        "answer": "CHLORIDE"
       },
       {
-        "question": "Considering the image's text, what is one of the components that contributes to the product\u2019s overall structure?",
-        "answer": "Butyrospermum"
+        "question": "What ingredient, as mentioned within the image's text, seems to contribute to the product's consistency or texture?",
+        "answer": "HALURONATE"
       },
       {
-        "question": "From the text visible in the image, name a potential ingredient contributing to the product's fragrance?",
-        "answer": "Fragrance"
+        "question": "Based on the visible text, what is a compound, possibly a salt, present in the product's composition?",
+        "answer": "GLUCONATE"
       },
       {
-        "question": "According to the image's text, which ingredient might have antioxidant properties?",
-        "answer": "Rosmarinus"
+        "question": "According to the text within the image, what is identified as a leaf-based additive to this product?",
+        "answer": "ROSMARINUS"
       },
       {
-        "question": "Based on the textual information in the image, what kind of oil is used in the product\u2019s formulation?",
-        "answer": "Sweet"
+        "question": "Considering the textual data, what is the name of the extract added to the product?",
+        "answer": "EXTRACT"
       },
       {
-        "question": "What is one of the components explicitly listed in the image that could have moisturizing properties?",
-        "answer": "Theobroma"
+        "question": "What word in the textual data describes the form of the Shea butter used?",
+        "answer": "ISOLATED"
       }
     ]
   }

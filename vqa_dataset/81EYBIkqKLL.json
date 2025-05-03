@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the tablet case's exterior?",
+        "question": "What is the dominant color of the tablet case's exterior?",
         "answer": "Brown"
       },
       {
-        "question": "What material appears to be used for the main body of the case?",
+        "question": "What appears to be the primary material of the case's construction?",
         "answer": "Leather"
       },
       {
-        "question": "What is the overall shape of the tablet case when closed?",
+        "question": "What is the overall shape of the folded tablet case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What color is the elastic band visible on the case's front?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the visible design, what is the primary function of this case?",
-        "answer": "Protection"
-      },
-      {
-        "question": "Describe the texture of the leather-like material used in the case's construction.",
+        "question": "Describe the texture evident on the visible leather surface of the case.",
         "answer": "Grained"
       },
       {
-        "question": "What appears to be the mechanism used to secure the case when closed?",
-        "answer": "Elastic"
+        "question": "What color is the elastic band visible on the case's exterior?",
+        "answer": "Black"
       },
       {
-        "question": "Are there any visible pockets or compartments on the outside of the case?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Based on the images, what seems to be a secondary function of this case?",
-        "answer": "Storage"
-      },
-      {
-        "question": "What kind of finish does the leather-like exterior of the case seem to have?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Does the case feature any visible stitching or seams along its edges?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Judging by the image, how many card slots are visible on the case?",
+        "question": "How many visible card slots are present on the case's interior?",
         "answer": "Two"
       },
       {
-        "question": "What is the visible orientation of the elastic closure band on the case?",
-        "answer": "Horizontal"
+        "question": "What type of closure mechanism is apparent for the case's flap?",
+        "answer": "None"
       },
       {
-        "question": "What type of device does the case appear to be designed for?",
-        "answer": "Tablet"
+        "question": "Does the case appear to offer any stand functionality?",
+        "answer": "Yes"
       },
       {
-        "question": "Is the case design primarily minimalistic or ornate?",
-        "answer": "Minimalist"
+        "question": "What seems to be the design style of the tablet case?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the image, is the case rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the visible features, what is the apparent function of the black elastic band?",
+        "answer": "Closure"
+      },
+      {
+        "question": "Based on visual observation, is the case designed for a tablet of what general size?",
+        "answer": "Small"
+      },
+      {
+        "question": "What seems to be the overall condition of the displayed tablet case?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the visible color of the stitching present on the case's exterior?",
+        "answer": "Brown"
+      },
+      {
+        "question": "From the image, what appears to be the orientation of the camera hole on the case?",
+        "answer": "Circular"
       }
     ]
   }

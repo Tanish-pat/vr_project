@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc21abfa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the presented information regarding the product's constituents?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the primary descriptive term employed to characterize the majority of the listed components?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the textual content, which type of sugar is explicitly identified as an ingredient?",
+        "answer": "Cane"
+      },
+      {
+        "question": "Focusing on the text, what specific component is noted for adding texture or viscosity to the product?",
+        "answer": "Pectin"
+      },
+      {
+        "question": "Which acidic compound is mentioned amongst the other ingredients?",
+        "answer": "Citric"
+      },
+      {
+        "question": "Amongst the ingredients listed, which one acts as a natural flavor enhancer?",
+        "answer": "Flavors"
+      },
+      {
+        "question": "What compound serves as a natural wax coating, as indicated by the text?",
+        "answer": "Carnauba"
+      },
+      {
+        "question": "According to the text, what kind of oil is included as an ingredient?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "From the textual description, what is the stated purpose of the ingredient 'Tapioca Syrup'?",
+        "answer": "Sweetener"
+      },
+      {
+        "question": "What salt is included amongst the ingredients of this product?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "What kind of text is predominantly used for denoting the product\u2019s ingredients?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the font style of the ingredient listing on the product packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text detailing the ingredients of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the textual presentation, how many distinct components compose the 'Other Ingredients' list?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Considering the textual presentation, what is the overall tone of the ingredient description?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the printer cartridge's main body?",
+        "question": "What is the dominant color of the printer cartridge casing?",
         "answer": "Black"
       },
       {
-        "question": "What is the shape of the main body of the printer cartridge?",
+        "question": "What is the color of the small, rectangular component near the top?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the primary material appearing to constitute the cartridge body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the protective latch located at the top of the cartridge?",
         "answer": "Rectangular"
       },
       {
-        "question": "What color is the small, rectangular component near the top?",
+        "question": "What color is the small, visible portion of the plastic tab near the bottom?",
         "answer": "Orange"
       },
       {
-        "question": "What is the material appearing to constitute the cartridge's outer shell?",
-        "answer": "Plastic"
+        "question": "What symbol is prominently displayed on the cartridge's side?",
+        "answer": "Recycle"
       },
       {
         "question": "What is the color of the recycling symbol printed on the cartridge?",
         "answer": "Green"
       },
       {
-        "question": "What is visible on the cartridge's side, indicating brand ownership?",
-        "answer": "Amazon"
+        "question": "What is the text visible on the cartridge's label, excluding the recycling symbol?",
+        "answer": "Amazonbasics"
       },
       {
-        "question": "What appears to be the function of the upward-hinged component?",
-        "answer": "Latch"
+        "question": "What appears to be the function of the top, hinged component of the cartridge?",
+        "answer": "Protection"
       },
       {
-        "question": "What color are the visible electrical contacts or chips?",
-        "answer": "Gold"
-      },
-      {
-        "question": "What seems to be the material of the latching mechanism?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is printed on the main body, indicating a product identifier?",
+        "question": "What seems to be the text indicating a model number or code on the cartridge?",
         "answer": "6.632"
       },
       {
-        "question": "What is the apparent texture of the cartridge's plastic casing?",
+        "question": "What is the apparent texture of the cartridge's plastic surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What appears to be the function of the teal-colored component?",
-        "answer": "Contact"
+        "question": "What seems to be the material of the small gold-colored contacts visible?",
+        "answer": "Metal"
       },
       {
-        "question": "What kind of symbol is shown to support environmental awareness?",
-        "answer": "Recycle"
+        "question": "What is the overall shape of the cartridge, disregarding minor features?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the overall form factor of the depicted item?",
-        "answer": "Cartridge"
+        "question": "What appears to be the purpose of the teal-colored element visible near the bottom?",
+        "answer": "Indicator"
       },
       {
-        "question": "What word is printed prominently near the bottom of the cartridge?",
-        "answer": "Basics"
+        "question": "What is the visible orientation of the smaller, orange component?",
+        "answer": "Horizontal"
       }
     ]
   }

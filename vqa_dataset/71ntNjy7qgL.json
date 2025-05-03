@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the depicted phone case's design?",
+        "question": "What is the dominant color scheme displayed on the phone case?",
         "answer": "Multicolored"
       },
       {
-        "question": "What artistic style is predominantly featured in the phone case's image?",
+        "question": "What artistic style is predominantly featured in the phone case's design?",
         "answer": "Abstract"
       },
       {
-        "question": "Considering the visual texture, what material appears to be used for the phone case?",
-        "answer": "Plastic"
+        "question": "What is the apparent texture of the phone case's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the overall shape of the product depicted in this image?",
+        "question": "What is the overall shape of the protective phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on visual inspection, what is the primary color used in the lower portion of the phone case's design?",
+        "question": "Considering the image, what material appears to be used in the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary color at the bottom of the phone case's design?",
         "answer": "Red"
       },
       {
-        "question": "Describe the predominant visual texture apparent across the case's surface?",
-        "answer": "Painted"
-      },
-      {
-        "question": "Considering the image, what is the apparent finish of the phone case surface?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What color appears most prominently in the upper section of the artistic design?",
+        "question": "What color is prominently featured in the top third of the phone case design?",
         "answer": "Teal"
       },
       {
-        "question": "Does the phone case design exhibit any apparent pattern or structure?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "Judging by the image, is the design primarily geometric or organic in its composition?",
-        "answer": "Organic"
-      },
-      {
-        "question": "What color is most frequently found in the mid-section of the phone case artwork?",
-        "answer": "Green"
-      },
-      {
-        "question": "Describe the visual clarity of the colors and patterns on the phone case?",
-        "answer": "Vibrant"
-      },
-      {
-        "question": "Does the image reveal any visible text or logos on the phone case itself?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering the image, is the phone case design symmetrical or asymmetrical?",
+        "question": "Is the design pattern on the phone case symmetrical or asymmetrical?",
         "answer": "Asymmetrical"
       },
       {
-        "question": "Based on visual observation, what is the apparent thickness of the phone case?",
-        "answer": "Thin"
+        "question": "What is the apparent finish of the phone case's exterior?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the phone case's design show any distinguishable repeating patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual density of the colors and brushstrokes in the phone case design.",
+        "answer": "Dense"
+      },
+      {
+        "question": "What kind of paint strokes are most apparent in the case's artwork?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What color occupies a significant portion of the middle section of the design?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on visual observation, how many distinct color zones are visible?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the phone case appear to be rigid or flexible based on its appearance?",
+        "answer": "Rigid"
       }
     ]
   }

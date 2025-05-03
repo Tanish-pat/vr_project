@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/74/74e15c2a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the product contained within the jar, as perceived through the transparent glass?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the visible contents, what appears to be the primary shape of the individual items within the jar?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What material seems to primarily constitute the outer packaging of the product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Judging by the appearance of the jar's seal, what color is the lid on top of the jar?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the texture of the liquid surrounding the product inside the jar?",
+        "answer": "Oily"
+      },
+      {
+        "question": "Observing the contents, what seems to be the general consistency or state of the items within the jar?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From a visual standpoint, what is the general shape of the product's outer packaging?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the label, what seems to be the method of packaging used for this product?",
+        "answer": "Jar"
+      },
+      {
+        "question": "What is the color of the primary text on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the visible details on the label, what appears to be the brand name printed there?",
+        "answer": "Kalamata"
+      },
+      {
+        "question": "What kind of food seems to be contained within the jar, as suggested by both the label and the visual appearance?",
+        "answer": "Olives"
+      },
+      {
+        "question": "Observing the label, what seems to be printed along with the brand and product name?",
+        "answer": "Olives"
+      },
+      {
+        "question": "What appears to be the format of the text at the bottom of the product label?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Based on the image, what is the presence of any significant design elements on the jar, besides the label?",
+        "answer": "None"
+      },
+      {
+        "question": "From the overall appearance, what is the apparent size and scale of the product, classifying it as a large, medium or small item?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

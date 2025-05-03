@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/24a798cb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rugby ball, as shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material seemingly used in the construction of this rugby ball?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What is the overall shape of the sporting equipment depicted in the image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the brand name prominently displayed on the surface of the rugby ball?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "Describe the pattern along the sides of the rugby ball, considering its visual characteristics?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What color are the stripes present on the side panels of the rugby ball, based on the provided image?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Considering the image, what is the color of the brand logo on the rugby ball?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the provided image, what is the texture of the rugby ball's surface seem to be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the style of the graphics design on the rugby ball in the image?",
+        "answer": "Tribal"
+      },
+      {
+        "question": "What is the apparent type of sport that this ball is designed for, based purely on visual cues?",
+        "answer": "Rugby"
+      },
+      {
+        "question": "Judging from the image, what is the general condition of the displayed rugby ball?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the rugby ball appear to have any noticeable stitching, according to the image?",
+        "answer": "No"
+      },
+      {
+        "question": "In the image, what seems to be the main graphical element besides the brand name?",
+        "answer": "Patterns"
+      },
+      {
+        "question": "Considering its visual appearance, does the rugby ball seem inflated or deflated?",
+        "answer": "Inflated"
+      },
+      {
+        "question": "What is the apparent size of the rugby ball shown in the image, relative to typical rugby balls?",
+        "answer": "Standard"
+      }
+    ]
+  }
+]

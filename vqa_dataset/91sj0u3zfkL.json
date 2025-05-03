@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the largest suitcase shown?",
+        "question": "What is the predominant color of the largest suitcase displayed?",
         "answer": "Orange"
       },
       {
-        "question": "What appears to be the primary material of construction for these suitcases?",
+        "question": "What appears to be the primary material used in constructing these suitcases?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the texture, how would you describe the surface of the suitcases?",
-        "answer": "Ribbed"
-      },
-      {
-        "question": "What is the general shape of each individual suitcase presented in the image?",
+        "question": "Describe the overall shape and form factor of each suitcase presented in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many suitcases of varying sizes are visibly stacked or arranged together?",
-        "answer": "Three"
+        "question": "Considering the surface, what is the texture of the exterior of the suitcases?",
+        "answer": "Ribbed"
       },
       {
-        "question": "What type of wheels are visible on the base of the largest suitcase?",
+        "question": "What type of wheels are visible on the larger suitcase at the bottom of the pile?",
         "answer": "Spinner"
       },
       {
-        "question": "What kind of handle is on the top of the suitcases; is it integrated or separate?",
-        "answer": "Integrated"
+        "question": "What seems to be the mechanism for opening and closing each of these suitcases?",
+        "answer": "Zipper"
       },
       {
-        "question": "Based on the image, what is the apparent overall condition of the suitcases?",
+        "question": "Based on what is visually evident, how many suitcases are shown in total in the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "Can you describe the handle system observable on the largest suitcase?",
+        "answer": "Extending"
+      },
+      {
+        "question": "What is the apparent size relationship between the three suitcases?",
+        "answer": "Nested"
+      },
+      {
+        "question": "What kind of protective covering is partially visible on some suitcases?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing solely on the image, what design feature is repeated across the suitcase surfaces?",
+        "answer": "Grooves"
+      },
+      {
+        "question": "Judging from the image, what is the apparent overall condition of these suitcases?",
         "answer": "New"
       },
       {
-        "question": "Are there any visible zippers or closures apparent on the suitcases?",
-        "answer": "Yes"
+        "question": "Based on the image, what color are the zippers or closure mechanisms visible?",
+        "answer": "Black"
       },
       {
-        "question": "Describe the style of the suitcases; are they hard-shell or soft-shell?",
-        "answer": "Hard-shell"
+        "question": "What is the apparent style or category of these pieces of luggage?",
+        "answer": "Hardside"
       },
       {
-        "question": "What is the approximate number of visible wheels on the largest suitcase?",
-        "answer": "Four"
-      },
-      {
-        "question": "What seems to be the general purpose of the suitcases shown in the picture?",
-        "answer": "Travel"
-      },
-      {
-        "question": "What is the apparent overall aesthetic of the suitcases' design?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Are there any noticeable external logos or branding details on the visible suitcases?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering the image, what is the apparent size range of the suitcases depicted?",
-        "answer": "Varied"
+        "question": "Disregarding the background, what is the general arrangement of the displayed items?",
+        "answer": "Stacked"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible furniture leg?",
+        "question": "What is the dominant color of the visible furniture leg?",
         "answer": "White"
       },
       {
-        "question": "What is the primary shape of the decorative elements on the leg?",
-        "answer": "Round"
+        "question": "Describe the overall shape of the visible structural support element?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "Describe the texture of the turned leg's surface, considering the image's resolution?",
+        "question": "What is the apparent texture of the turned leg's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What material appears to constitute the visible part of the furniture?",
+        "question": "What is the primary material seemingly used in constructing the visible leg?",
         "answer": "Wood"
       },
       {
-        "question": "What is the apparent finish of the visible furniture surface?",
-        "answer": "Matte"
-      },
-      {
-        "question": "How many distinct decorative sections are visible on the single leg shown?",
-        "answer": "Seven"
-      },
-      {
-        "question": "What is the general shape of the visible top surface of the piece of furniture?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Considering the leg's design, what style best describes the furniture piece?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "What is the visible structural element supporting the upper surface?",
-        "answer": "Leg"
-      },
-      {
-        "question": "Based on its visible elements, what is the probable function of this furniture?",
-        "answer": "Table"
-      },
-      {
-        "question": "What is the apparent form or design of the decorative elements on the supporting leg?",
+        "question": "Considering the visible portion, what kind of design is evident on the leg?",
         "answer": "Turned"
       },
       {
-        "question": "Describe the overall visual impression of the visible furniture element's surface?",
-        "answer": "Clean"
+        "question": "What is the most prominent decorative feature of the leg section displayed?",
+        "answer": "Beading"
       },
       {
-        "question": "What is the apparent height proportion of the decorative elements relative to the leg?",
-        "answer": "Tall"
+        "question": "How many distinct beaded sections are visible on the single leg shown?",
+        "answer": "Seven"
       },
       {
-        "question": "What is the observed pattern of the decorative molding along the supporting leg?",
-        "answer": "Repeating"
+        "question": "What shape is each individual bead on the turned leg?",
+        "answer": "Spherical"
       },
       {
-        "question": "Does the visible portion of the furniture display any noticeable wear and tear?",
-        "answer": "No"
+        "question": "Describe the surface finish of the visible portion of the furniture piece?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What seems to be the style of the visible furniture leg's design?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What is the shape of the supporting surface visible in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual appearance, how would you describe the furniture's apparent weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent overall condition of the displayed section of the furniture?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging only by the image, what seems to be the furniture's intended function?",
+        "answer": "Support"
+      },
+      {
+        "question": "What is the visible color of the supporting surface attached to the leg?",
+        "answer": "White"
       }
     ]
   }

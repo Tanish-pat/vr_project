@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8ab8e4b0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric covering the sofa?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of the sofa's upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape and design of the sofa?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many distinct seat cushions are visibly present on the sofa?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent finish or material of the sofa's legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What kind of armrests does the sofa possess, considering their style?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "Based on the visible texture, what is the likely feel of the upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the sofa's visual construction, what is its seating capacity?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the visible stitching details on the sofa's cushions.",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the general style of the sofa's design?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What color are the visible legs of the sofa?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Does the sofa show any noticeable patterns in its upholstery?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general height of the sofa's back rest?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What seems to be the overall condition of the sofa displayed?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the image, is the sofa design simplistic or ornate?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]
