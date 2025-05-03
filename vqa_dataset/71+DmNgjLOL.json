@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1671d06.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible suede upper?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What material appears to constitute the main body of the boot?",
+        "answer": "Suede"
+      },
+      {
+        "question": "What is the approximate height of the boot's heel in centimeters?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the shape of the visible toe-cap of the boot?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the overall style of the boot, considering the heel and shaft height?",
+        "answer": "Ankle"
+      },
+      {
+        "question": "What material seems to form the visible portion of the boot's heel?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the image, what is the visible surface texture of the boot?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible design feature present on the back of the boot?",
+        "answer": "Loop"
+      },
+      {
+        "question": "What is the general shape of the boot's overall silhouette?",
+        "answer": "Slender"
+      },
+      {
+        "question": "How would you describe the visible height of the boot shaft?",
+        "answer": "Short"
+      },
+      {
+        "question": "What type of closure is seemingly absent from the boot's design?",
+        "answer": "Laces"
+      },
+      {
+        "question": "What is the apparent finish of the wood on the boot's heel?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the general style or feel of the boot, considering all features?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Considering the heel, how would you describe the boot's intended use?",
+        "answer": "Walking"
+      },
+      {
+        "question": "Describe the color of the wooden heel relative to the boot's upper",
+        "answer": "Lighter"
+      }
+    ]
+  }
+]

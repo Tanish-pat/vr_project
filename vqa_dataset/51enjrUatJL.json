@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ffc6d05d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the phone case's visible material?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What seems to be the dominant material used in the phone case's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general shape of the phone case as depicted in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible camera cutouts, how many lenses does the phone appear to have?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the image, what is the overall transparency level of the phone case?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the image's perspective, what is the apparent finish of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent rigidity or flexibility of the phone case's material?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Does the phone case show any visible text or branding elements?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the phone case's protective border?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Are there any noticeable patterns or textures imprinted on the case's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the case seem to offer a raised edge around the camera area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the implied level of protection offered to the phone's camera area?",
+        "answer": "Partial"
+      },
+      {
+        "question": "From the image, does the case show any signs of color variations?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the primary function of the phone case?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Does the image provide evidence of a specific phone brand?",
+        "answer": "No"
+      }
+    ]
+  }
+]

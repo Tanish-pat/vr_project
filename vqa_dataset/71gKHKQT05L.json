@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's printed design?",
+        "question": "What is the predominant color scheme visually displayed on the phone case?",
         "answer": "Brown"
       },
       {
-        "question": "What material is visually suggested by the printed pattern on the phone case?",
+        "question": "What design pattern is prominently featured across the phone case surface?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the overall shape or form factor of the protective phone cover?",
+        "question": "What appears to be the primary material used for the phone case construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the depicted phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent texture depicted in the phone case's printed image?",
-        "answer": "Planked"
-      },
-      {
-        "question": "What color are the visible edges or borders of the phone case?",
+        "question": "Based on visual inspection, what color are the phone case edges?",
         "answer": "Purple"
       },
       {
-        "question": "Considering the design, what style is evoked by the phone case's aesthetic?",
-        "answer": "Rustic"
+        "question": "Judging by the image, what kind of texture does the phone case design simulate?",
+        "answer": "Plank"
       },
       {
-        "question": "What kind of pattern is predominantly featured across the phone case's surface?",
+        "question": "Does the phone case show any apparent glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visual orientation of the wood grain depicted on the case?",
         "answer": "Vertical"
       },
       {
-        "question": "Based on the image, what appears to be the primary function of this item?",
-        "answer": "Protection"
+        "question": "Observing the image closely, what seems to be the case's surface finish?",
+        "answer": "Printed"
       },
       {
-        "question": "Are there any noticeable markings, besides the wood grain, on the phone case?",
-        "answer": "None"
+        "question": "What is the approximate number of vertical wood planks visually represented on the phone case?",
+        "answer": "Seven"
       },
       {
-        "question": "How many distinct color tones are present in the simulated wooden design?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the orientation of the wood-like lines in the design?",
-        "answer": "Straight"
-      },
-      {
-        "question": "Does the case appear to completely cover the phone's camera?",
+        "question": "Is there any noticeable logo, branding, or text visible on the phone case?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent level of detail in the wood grain printed on the case?",
-        "answer": "Medium"
+        "question": "Judging from the image, are the wood planks in the design uniformly sized?",
+        "answer": "Yes"
       },
       {
-        "question": "Considering the phone case's aesthetic, which descriptive adjective applies best?",
+        "question": "Considering the visual elements, what protective function does this item appear to have?",
+        "answer": "Cover"
+      },
+      {
+        "question": "Is the overall visual aesthetic of the case mostly simple or complex?",
         "answer": "Simple"
       },
       {
-        "question": "What style of camera cutout is visible on the phone case?",
-        "answer": "Circular"
+        "question": "Based on the image, what is the overall aesthetic tone of the phone case?",
+        "answer": "Rustic"
       }
     ]
   }

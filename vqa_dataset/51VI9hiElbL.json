@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/33df5ba1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided, what is the primary cosmetic ingredient visibly listed?",
+        "answer": "Water"
+      },
+      {
+        "question": "Based on the image's text, what natural ingredient is prominently featured among the many components?",
+        "answer": "Aloe"
+      },
+      {
+        "question": "From the list of ingredients, what common cosmetic additive is explicitly mentioned?",
+        "answer": "Glycerin"
+      },
+      {
+        "question": "According to the label, what type of starch is used in the product's formulation?",
+        "answer": "Tapioca"
+      },
+      {
+        "question": "What wax, specifically named in the ingredients list, is present in this cosmetic product?",
+        "answer": "Beeswax"
+      },
+      {
+        "question": "Referring to the ingredient list, what alcohol is included in the product composition?",
+        "answer": "Cetyl"
+      },
+      {
+        "question": "What specific type of acid, clearly listed, is used in the cosmetic product shown?",
+        "answer": "Stearic"
+      },
+      {
+        "question": "According to the label, what is used as a preservative in this cosmetic formulation?",
+        "answer": "Phenoxyethanol"
+      },
+      {
+        "question": "Based on the image's text, which gum is used as a thickening or stabilizing agent?",
+        "answer": "Xanthan"
+      },
+      {
+        "question": "What type of powder, clearly indicated in the ingredient list, is included in the product?",
+        "answer": "Charcoal"
+      },
+      {
+        "question": "From the text provided, identify one specific antioxidant included in the formulation?",
+        "answer": "Tocopherol"
+      },
+      {
+        "question": "What chelating agent is specifically listed among the ingredients?",
+        "answer": "EDTA"
+      },
+      {
+        "question": "According to the image, what humectant is included in the product's formula?",
+        "answer": "Hyaluronate"
+      },
+      {
+        "question": "What is one of the listed iron oxides, as specified in the ingredient list?",
+        "answer": "CI77499"
+      },
+      {
+        "question": "Based on the image, what is one of the listed preservatives used in this product?",
+        "answer": "Ethylhexylglycerin"
+      }
+    ]
+  }
+]

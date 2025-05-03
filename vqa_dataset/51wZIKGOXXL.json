@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the displayed information panel?",
-        "answer": "Rectangular"
+        "question": "What is the primary color of the background surrounding the text?",
+        "answer": "Pink"
       },
       {
-        "question": "What is the primary color of the background behind the text?",
-        "answer": "Pink"
+        "question": "What is the overall shape of the information box displayed?",
+        "answer": "Rectangular"
       },
       {
         "question": "What is the font style used for the 'Drug Facts' heading?",
         "answer": "Sans-serif"
       },
       {
-        "question": "What is the color of the text within the information panel?",
+        "question": "What is the color of the text within the information box?",
         "answer": "Black"
       },
       {
-        "question": "What is the predominant text alignment within the panel?",
-        "answer": "Left"
+        "question": "What is the text indicating the active ingredient's purpose?",
+        "answer": "Antihistamine"
       },
       {
-        "question": "Considering the layout, what is the panel's apparent purpose?",
-        "answer": "Informational"
+        "question": "What is the stated active ingredient in the product?",
+        "answer": "Diphenhydramine"
       },
       {
-        "question": "What is the texture of the background; smooth or rough?",
+        "question": "What is the measurement unit for the active ingredient's quantity?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the specified quantity of the active ingredient per tablet?",
+        "answer": "25"
+      },
+      {
+        "question": "What is the text labeling the active ingredient section?",
+        "answer": "Active"
+      },
+      {
+        "question": "What is the style of the border around the information section?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall tone of the information presented?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual texture of the background?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the visual cues, is the information formal or informal?",
-        "answer": "Formal"
+        "question": "What is the implied format of the presented data?",
+        "answer": "Table"
       },
       {
-        "question": "What is the overall tone conveyed by the color scheme?",
-        "answer": "Serious"
+        "question": "What is the arrangement of information on the box?",
+        "answer": "Vertical"
       },
       {
-        "question": "Judging from the visual design, what is the intended audience?",
-        "answer": "Consumers"
-      },
-      {
-        "question": "Does the visual style suggest a specific industry?",
-        "answer": "Pharmaceutical"
-      },
-      {
-        "question": "What is the visual prominence of 'Active ingredient' section?",
-        "answer": "High"
-      },
-      {
-        "question": "Considering the context, what is the apparent state of the product?",
-        "answer": "Packaged"
-      },
-      {
-        "question": "What is the visual weight of the 'Purpose' section?",
-        "answer": "Moderate"
-      },
-      {
-        "question": "Is the layout of the information simple or complex?",
-        "answer": "Simple"
+        "question": "What is the general reading direction for the text?",
+        "answer": "Left-to-right"
       }
     ]
   }

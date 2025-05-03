@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a997d454.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case shown in the main image?",
+        "answer": "Rosegold"
+      },
+      {
+        "question": "Considering the primary image, what appears to be the material of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the main product image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, does the phone case have any visible texture or pattern?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the provided image, what is the apparent finish of the phone case surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the phone case in the image show any noticeable branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "According to the image, how many camera cutouts are visible on the phone case back?",
+        "answer": "Two"
+      },
+      {
+        "question": "Referencing only the provided image,  does the case appear to add significant bulk to the phone?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual, does the phone case design have any raised edges or bumpers?",
+        "answer": "No"
+      },
+      {
+        "question": "From the provided image, how would you describe the overall style of the phone case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the image clearly show any buttons or port cutouts on the phone case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the images, what seems to be the approximate thickness of the phone case?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the main image,  what is the apparent level of glossiness of the phone case?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the image, does the phone case seem to completely cover the phone's edges?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visual provided,  is the case design symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      }
+    ]
+  }
+]

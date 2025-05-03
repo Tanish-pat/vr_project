@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the headboard's main fabric?",
+        "question": "What is the dominant color of the headboard's main fabric?",
         "answer": "Beige"
       },
       {
-        "question": "What is the shape of the headboard's upper curve?",
-        "answer": "Arched"
-      },
-      {
-        "question": "What appears to be the texture of the main fabric?",
+        "question": "What is the apparent texture of the headboard's primary fabric?",
         "answer": "Velvet"
       },
       {
-        "question": "What color is the fabric used at the headboard's base?",
-        "answer": "Beige"
+        "question": "What shape best describes the headboard's top profile?",
+        "answer": "Curved"
       },
       {
-        "question": "What seems to be the material of the headboard's base section?",
-        "answer": "Linen"
+        "question": "What color is the fabric used for the headboard's base?",
+        "answer": "Tan"
       },
       {
-        "question": "Describe the overall shape of the entire headboard structure?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the visible color of the small feet at the bottom?",
-        "answer": "Dark"
-      },
-      {
-        "question": "How would you describe the style of the headboard's detailing?",
-        "answer": "Classic"
-      },
-      {
-        "question": "Is the headboard design mainly characterized by simple lines or ornate details?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Considering the image, what seems to be the material of the headboard's frame?",
+        "question": "What material appears to be used for the headboard's feet?",
         "answer": "Wood"
       },
       {
-        "question": "Does the headboard show any visible seams or stitching?",
+        "question": "How many visible support legs does the headboard possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the overall style of the headboard's design?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What is the visual prominence of the headboard's stitching?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the apparent height of the headboard relative to its width?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the headboard appear to be upholstered or solid wood?",
+        "answer": "Upholstered"
+      },
+      {
+        "question": "What is the apparent thickness of the headboard's frame?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the overall shape of the headboard's main panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the visible legs or feet of the headboard?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Is the headboard's base panel of a different material than the top?",
         "answer": "Yes"
       },
       {
-        "question": "What kind of visual effect is created by the contrasting fabric sections?",
-        "answer": "Layered"
-      },
-      {
-        "question": "What is the general overall impression of the headboard's design?",
-        "answer": "Elegant"
-      },
-      {
-        "question": "How many visible feet or supports are there at the base?",
-        "answer": "Four"
-      },
-      {
-        "question": "Judging from the image, is the headboard's height consistent across its width?",
-        "answer": "Yes"
+        "question": "What is the visual impression of the headboard's fabric's sheen?",
+        "answer": "Slight"
       }
     ]
   }

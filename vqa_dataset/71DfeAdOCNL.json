@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual presentation, what is the dominant color of this three-seater sofa?",
-        "answer": "Brown"
-      },
-      {
-        "question": "Based on the image, what appears to be the primary material used in the construction of this couch?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Judging by the image, what is the most apparent shape or design of this piece of furniture?",
+        "question": "Considering the overall form and structure, what is the dominant shape of this piece of furniture?",
         "answer": "Rectangular"
       },
       {
-        "question": "From a visual inspection, what is the general style or aesthetic that this sofa conveys?",
-        "answer": "Classic"
+        "question": "What appears to be the primary material used in the construction of this sofa?",
+        "answer": "Leather"
       },
       {
-        "question": "What is the apparent number of distinct seating cushions visible on this sofa?",
-        "answer": "Three"
+        "question": "Discerning the visual hue, what single word best describes the sofa's color?",
+        "answer": "Brown"
       },
       {
-        "question": "Based on the image's visual details, what type of armrests does this couch feature?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What is the visible texture of the upholstery covering the main body and cushions of this sofa?",
+        "question": "Focusing on the seating cushions, what descriptive word best captures their texture?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the visual representation, what kind of legs does this piece of furniture appear to have?",
-        "answer": "Short"
+        "question": "Observing the design, how many distinct seating sections comprise this sofa?",
+        "answer": "Three"
       },
       {
-        "question": "Can you visually identify any noticeable seams or stitching details on this couch?",
-        "answer": "Yes"
+        "question": "Examining the armrests, what is their most noticeable shape characteristic?",
+        "answer": "Rounded"
       },
       {
-        "question": "Judging by its appearance, does this sofa project a modern or traditional style?",
-        "answer": "Traditional"
+        "question": "From a visual perspective, what seems to be the primary manufacturing style employed?",
+        "answer": "Modern"
       },
       {
-        "question": "What is the general visual condition of the sofa as presented in the picture?",
+        "question": "Judging by the appearance, what could be inferred about the sofa's intended use?",
+        "answer": "Seating"
+      },
+      {
+        "question": "Looking at the general condition, would you describe the sofa's visible state as 'new' or 'used'?",
         "answer": "New"
       },
       {
-        "question": "Looking at the image, what appears to be the overall depth of this sofa's seating area?",
-        "answer": "Deep"
+        "question": "Considering the upholstery, what kind of sheen is visible on the leather?",
+        "answer": "Glossy"
       },
       {
-        "question": "From what you can visually observe, are there any patterns or embellishments present on this sofa's upholstery?",
+        "question": "What seems to be the overall level of the sofa's plushness or firmness?",
+        "answer": "Firm"
+      },
+      {
+        "question": "Analyzing the visual details, does the sofa feature any notable visible stitching?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual assessment, does the design of this sofa incorporate any visible decorative elements?",
         "answer": "No"
       },
       {
-        "question": "Based solely on visual characteristics, what is the apparent size or scale of this piece of furniture compared to typical sofas?",
-        "answer": "Standard"
+        "question": "Based on the visible attributes, what can be stated about the sofa's leg design?",
+        "answer": "Simple"
       },
       {
-        "question": "Judging from the provided image, is the upholstery of the sofa showing any visible signs of wear or damage?",
-        "answer": "No"
+        "question": "Focusing on the color depth, is the brown more towards light or dark?",
+        "answer": "Dark"
       }
     ]
   }

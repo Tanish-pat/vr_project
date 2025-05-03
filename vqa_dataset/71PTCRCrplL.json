@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual presentation, what is the dominant color scheme of the nutritional facts panel?",
+        "question": "What is the predominant color scheme of the nutritional information panel, considering the text and background?",
         "answer": "Brown"
       },
       {
-        "question": "What is the primary font style used to display the 'Amount Per Serving' and '% Daily Value' headings?",
+        "question": "What is the typeface used for the 'Amount Per Serving' and '% Daily Value' headings?",
         "answer": "Sans-serif"
       },
       {
-        "question": "Based on the visual layout, what is the format of the presented nutritional information?",
-        "answer": "Table"
+        "question": "Considering the overall layout, what is the organization style of the presented nutritional data?",
+        "answer": "tabular"
       },
       {
-        "question": "Observing the text, what is the measurement unit used for the quantities of vitamins B6 and B12?",
-        "answer": "Mg"
+        "question": "What is the apparent material the nutritional information is printed on, based on its visual characteristics?",
+        "answer": "Paper"
       },
       {
-        "question": "Considering the text's visual properties, what is the overall textual alignment?",
-        "answer": "Left"
+        "question": "What is the textual format employed to list each nutrient and its corresponding daily value?",
+        "answer": "columns"
       },
       {
-        "question": "Analyzing the visual characteristics of the numbers, what numerical format is used for percentages?",
-        "answer": "Decimal"
+        "question": "Based on the visual clarity of the text, what is the overall print quality of the nutritional information?",
+        "answer": "Clear"
       },
       {
-        "question": "What is the visual appearance of the lines separating the different vitamin entries?",
-        "answer": "Thin"
+        "question": "Considering the sizes and weights of the fonts, what is the relative emphasis placed on the percentage daily values?",
+        "answer": "High"
       },
       {
-        "question": "What is the visual texture of the background of this nutritional facts panel?",
+        "question": "What is the overall visual impression of the text's alignment within the provided nutritional information panel?",
+        "answer": "aligned"
+      },
+      {
+        "question": "Disregarding the numerical values, what is the method of presenting the unit of measurement for each nutrient?",
+        "answer": "abbreviation"
+      },
+      {
+        "question": "What is the visible texture of the surface bearing the nutritional information, if any is discernible?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the image, what color is used to highlight the key titles?",
-        "answer": "Dark"
+        "question": "Is there a distinct visual separation between the 'Amount Per Serving' and '% Daily Value' columns?",
+        "answer": "Yes"
       },
       {
-        "question": "Describe the apparent visual weight of the 'Amount Per Serving' heading compared to the vitamin names?",
-        "answer": "Bold"
-      },
-      {
-        "question": "What is the apparent visual hierarchy of the information presented in the panel?",
+        "question": "What is the general arrangement of information presented \u2013 vertical or horizontal?",
         "answer": "Vertical"
       },
       {
-        "question": "Judging by the visual clarity, what is the overall readability of the text on the panel?",
-        "answer": "High"
+        "question": "In relation to the background, what is the general lightness or darkness of the text?",
+        "answer": "Dark"
       },
       {
-        "question": "What is the apparent visual contrast between the text and the background?",
-        "answer": "High"
+        "question": "What is the visual style of the numbers indicating the percentage of daily value?",
+        "answer": "Bold"
       },
       {
-        "question": "What is the visual format used to represent the daily value percentages?",
-        "answer": "Numeric"
-      },
-      {
-        "question": "Considering the image, what is the visual form factor of the nutritional facts?",
-        "answer": "Rectangular"
+        "question": "What is the visible pattern of the information provided - is it randomized or ordered?",
+        "answer": "Ordered"
       }
     ]
   }

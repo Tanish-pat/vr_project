@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the diffuser's visible exterior?",
+        "question": "What is the primary color of the diffuser's visible surface?",
         "answer": "Teal"
       },
       {
-        "question": "What is the overall shape of the diffuser's visible exterior?",
+        "question": "What is the overall shape of the diffuser itself, excluding packaging?",
         "answer": "Oval"
       },
       {
-        "question": "What type of power source is indicated for the diffuser?",
-        "answer": "USB"
+        "question": "What is the apparent material of the diffuser's casing, judging by its texture and sheen?",
+        "answer": "Plastic"
       },
       {
-        "question": "What descriptive term is used to characterize the diffuser's size?",
-        "answer": "Compact"
+        "question": "Considering the product's design, what is its intended use or purpose?",
+        "answer": "Diffusion"
       },
       {
-        "question": "What is the apparent texture of the diffuser's surface?",
+        "question": "Based on its size relative to the box, how would you classify its portability?",
+        "answer": "Portable"
+      },
+      {
+        "question": "What is the apparent texture of the diffuser's outer surface, from the image?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the design style name of the diffuser?",
-        "answer": "Pebble"
-      },
-      {
-        "question": "What is the indicated function of the product shown in the image?",
-        "answer": "Diffuser"
-      },
-      {
-        "question": "What is the intended use of this product as described on the box?",
-        "answer": "Travel"
-      },
-      {
-        "question": "What is the brand name printed prominently on the box?",
-        "answer": "Wholefoods"
-      },
-      {
-        "question": "Does the packaging image show any visible buttons or controls on the device itself?",
+        "question": "Does the diffuser show any visible buttons, knobs, or other user interface elements?",
         "answer": "No"
       },
       {
-        "question": "What kind of aromatherapy does the packaging indicate this product uses?",
+        "question": "What type of power source is indicated, based on the information on the box?",
+        "answer": "USB"
+      },
+      {
+        "question": "Considering its design, what kind of aromatherapy is it implied to perform?",
         "answer": "Fan"
       },
       {
-        "question": "Considering the packaging artwork, what appears to be the material of the box?",
-        "answer": "Cardboard"
+        "question": "What is the brand name that appears prominently on the packaging?",
+        "answer": "Wholefoods"
       },
       {
-        "question": "What geographic location is alluded to in the product's name?",
+        "question": "Based on the packaging description, what is the product's name or model?",
         "answer": "Bali"
       },
       {
-        "question": "Based on the product description, does the diffuser use water for operation?",
-        "answer": "No"
+        "question": "Describe the style of the packaging's design, which is a visual component?",
+        "answer": "Minimalist"
       },
       {
-        "question": "Does the image show any visible vents or openings on the diffuser?",
+        "question": "Does the packaging visually suggest any specific usage location?",
+        "answer": "Travel"
+      },
+      {
+        "question": "What is the apparent finish on the diffuser\u2019s surface,  glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are there any visible markings or logos other than the brand name on the product itself?",
         "answer": "No"
       }
     ]

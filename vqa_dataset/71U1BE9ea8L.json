@@ -9,60 +9,60 @@
         "answer": "Brown"
       },
       {
-        "question": "What type of closure mechanism does the shoe employ?",
+        "question": "What type of closure mechanism is featured on the shoe?",
         "answer": "Slip-on"
       },
       {
-        "question": "What material appears to constitute the main body of the shoe?",
+        "question": "What material appears to be used for the shoe's construction?",
         "answer": "Leather"
-      },
-      {
-        "question": "Describe the overall shape of the shoe's toe-box area?",
-        "answer": "Rounded"
       },
       {
         "question": "What decorative element is present near the vamp of the shoe?",
         "answer": "Tassel"
       },
       {
-        "question": "What is the apparent texture of the shoe's leather surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color is the visible interior lining of the shoe?",
-        "answer": "Tan"
-      },
-      {
-        "question": "What is the general style of the shoe, considering its features?",
-        "answer": "Loafer"
-      },
-      {
-        "question": "Describe the apparent construction of the shoe's sole?",
-        "answer": "Solid"
-      },
-      {
-        "question": "What is the predominant finish or shine of the leather?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What is the shape of the heel counter on the shoe?",
+        "question": "Describe the overall shape of the shoe's toe?",
         "answer": "Rounded"
       },
       {
-        "question": "What material seems to comprise the shoe's outsole?",
-        "answer": "Rubber"
+        "question": "What is the apparent texture of the leather upper?",
+        "answer": "Smooth"
       },
       {
-        "question": "Does the shoe exhibit any noticeable stitching details?",
+        "question": "What color is the outsole of the shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the style of the heel on this footwear?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the shoe have any visible stitching details?",
         "answer": "Yes"
       },
       {
-        "question": "Judging by the image, what is the shoe's intended purpose?",
+        "question": "Is the shoe's design primarily formal or casual?",
         "answer": "Formal"
       },
       {
-        "question": "Considering the design, what gender is this shoe designed for?",
-        "answer": "Male"
+        "question": "What is the apparent material of the insole visible near the heel?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the pattern or design of the leather itself",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the general shape of the shoe's profile?",
+        "answer": "Pointed"
+      },
+      {
+        "question": "Considering the tassel, what could be the shoe's style classification?",
+        "answer": "Loafer"
+      },
+      {
+        "question": "Are there any visible brand logos or markings on the shoe?",
+        "answer": "No"
       }
     ]
   }

@@ -17,52 +17,52 @@
         "answer": "Smooth"
       },
       {
-        "question": "What is the material that appears to be used for the packaging?",
-        "answer": "Cardboard"
-      },
-      {
-        "question": "What color is the small logo symbol near the brand name?",
+        "question": "What is the color of the small leaf symbol on the packaging?",
         "answer": "Green"
       },
       {
-        "question": "What is the primary language used for the text on the packaging?",
-        "answer": "English"
+        "question": "What is the material that the product packaging appears to be made of?",
+        "answer": "Cardboard"
       },
       {
-        "question": "What is the main color of the background of the packaging?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What kind of font style is used for the brand name?",
+        "question": "What is the style of the font used for the brand name?",
         "answer": "Sans-serif"
       },
       {
-        "question": "What is the style of the brand name's lettering?",
-        "answer": "Modern"
+        "question": "What color is the background of the packaging's main area?",
+        "answer": "Gray"
       },
       {
-        "question": "Does the packaging show any images besides text?",
+        "question": "What language is the majority of the text printed on the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Is the packaging primarily matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the primary graphic element besides text on the packaging?",
+        "answer": "Leaf"
+      },
+      {
+        "question": "What is the orientation of the primary text on the package?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the packaging show any visible perforations or tear lines?",
         "answer": "No"
       },
       {
-        "question": "Is the text on the packaging primarily aligned vertically or horizontally?",
-        "answer": "Vertically"
+        "question": "What kind of printing technique appears to have been used?",
+        "answer": "Offset"
       },
       {
-        "question": "What is the overall design style of the packaging?",
+        "question": "What is the overall visual impression of the packaging design?",
         "answer": "Minimalist"
       },
       {
-        "question": "What type of information is predominantly displayed on the packaging?",
-        "answer": "Text"
-      },
-      {
-        "question": "Is there any noticeable pattern on the packaging?",
-        "answer": "No"
-      },
-      {
-        "question": "Is the packaging glossy or matte?",
-        "answer": "Matte"
+        "question": "What is the brand name printed on the product's packaging?",
+        "answer": "Vedaka"
       }
     ]
   }

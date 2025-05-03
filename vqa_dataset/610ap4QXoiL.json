@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/caf9089a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the wine label design?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What type of wine is prominently featured on the label?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the name of the winery depicted on the label?",
+        "answer": "Compass"
+      },
+      {
+        "question": "What specific varietal of grape is highlighted on the label?",
+        "answer": "Dornfelder"
+      },
+      {
+        "question": "What German wine region does the label specify?",
+        "answer": "Rheinhessen"
+      },
+      {
+        "question": "What style of illustration is used for the wine glasses?",
+        "answer": "Line"
+      },
+      {
+        "question": "What is the overall shape of the wine label design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the text font style used for 'Compass Road'.",
+        "answer": "Serif"
+      },
+      {
+        "question": "What year was the winery established, as shown on the label?",
+        "answer": "2019"
+      },
+      {
+        "question": "What is the vintage year of the wine, as indicated on the label?",
+        "answer": "2018"
+      },
+      {
+        "question": "What kind of meat pairings are suggested by the label?",
+        "answer": "Pork"
+      },
+      {
+        "question": "What is the overall texture of the label's design elements?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the description of the wine's flavor profile?",
+        "answer": "Fruity"
+      },
+      {
+        "question": "What is the design element flanking the wine label's central text?",
+        "answer": "Glasses"
+      },
+      {
+        "question": "What is the orientation of the text on the wine label?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

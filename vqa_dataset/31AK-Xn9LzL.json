@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the depicted food item, as shown in the transparent packaging?",
+        "question": "What is the predominant color of the peas shown within the packaging?",
         "answer": "Yellow"
       },
       {
-        "question": "Considering the visual texture, what is the apparent consistency of the contents within the package?",
-        "answer": "Grainy"
-      },
-      {
-        "question": "Based on the image, what appears to be the shape of the individual food items inside the package?",
-        "answer": "Round"
-      },
-      {
-        "question": "What primary material constitutes the flexible packaging holding the product?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Describe the overall shape of the product packaging visible in the image.",
+        "question": "What is the overall shape of the product's packaging?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the color of the text visible on the main label of the product packaging?",
-        "answer": "Brown"
+        "question": "What appears to be the primary material of the flexible packaging?",
+        "answer": "Plastic"
       },
       {
-        "question": "What appears to be the dominant graphical element on the primary label, besides text?",
-        "answer": "Plant"
-      },
-      {
-        "question": "What is the apparent size of the depicted product packaging in relation to the human hand?",
-        "answer": "Large"
-      },
-      {
-        "question": "Judging from the visible packaging, what appears to be the product's brand or manufacturer?",
+        "question": "Considering the visible text, what brand is associated with this product?",
         "answer": "Vedaka"
       },
       {
-        "question": "What is the apparent texture of the product packaging, based on the image's visible details?",
+        "question": "What is the apparent texture of the peas visible through the packaging?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the visual details, is the packaging sealed or open at the top?",
+        "question": "Describe the visual appearance of the primary label on the packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the general form of the packaging's seal at the top?",
         "answer": "Sealed"
       },
       {
-        "question": "Based on the image, what is the product's apparent form, in terms of packaging type?",
-        "answer": "Pouch"
+        "question": "Based on the image, what seems to be the product inside the package?",
+        "answer": "Peas"
       },
       {
-        "question": "What is the general color scheme of the packaging's design elements?",
-        "answer": "Beige"
+        "question": "Considering the visual elements, what is the apparent style of the product's branding?",
+        "answer": "Simple"
       },
       {
-        "question": "What kind of foodstuff does the packaging seem to contain, based on visual clues alone?",
-        "answer": "Pulses"
+        "question": "What is the visible color of the text on the primary product label?",
+        "answer": "Brown"
       },
       {
-        "question": "What seems to be the main text (in English) visible on the package?",
-        "answer": "ToorDal"
+        "question": "What is the packaging's apparent size relative to a human hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the image, what kind of packaging is being utilized?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the general format of the branding present on the product packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent design of the primary label on the packaging?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What seems to be the overall condition of the product's packaging?",
+        "answer": "Sealed"
       }
     ]
   }

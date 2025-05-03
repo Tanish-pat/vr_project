@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the picture frame's border?",
+        "question": "What is the primary color of the decorative border encircling the photo frame?",
         "answer": "Silver"
       },
       {
-        "question": "What shape is the overall external frame of the picture?",
-        "answer": "Rectangular"
+        "question": "What is the dominant shape of the decorative elements adorning the frame's perimeter?",
+        "answer": "Round"
       },
       {
-        "question": "What material appears to be used for decorative embellishments?",
-        "answer": "Pearls"
-      },
-      {
-        "question": "Describe the texture of the border's decorative elements.",
-        "answer": "Beaded"
-      },
-      {
-        "question": "What is the apparent material of the main frame structure?",
+        "question": "What appears to be the material of the small decorative beads on the frame?",
         "answer": "Plastic"
       },
       {
-        "question": "What type of image is displayed within the frame?",
-        "answer": "Floral"
+        "question": "What is the overall shape of the photo frame itself, excluding the border?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the dominant color of the image inside the frame?",
-        "answer": "Red"
+        "question": "Describe the texture implied by the visual appearance of the decorative elements on the frame?",
+        "answer": "Beaded"
       },
       {
-        "question": "What is the orientation of the frame in the displayed image?",
-        "answer": "Vertical"
+        "question": "What color is the background inside the photo frame, visible through the opening?",
+        "answer": "White"
       },
       {
-        "question": "What is the general style or aesthetic of the frame?",
+        "question": "What is the apparent material of the frame's main structure, beneath the decorative layer?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, does the frame appear to be of simple or ornate design?",
         "answer": "Ornate"
       },
       {
-        "question": "Does the frame include a visible mat or backing board?",
-        "answer": "No"
+        "question": "What is the general style of the frame's decoration, considering its components?",
+        "answer": "Classical"
       },
       {
-        "question": "Are there any noticeable markings or engravings on the frame?",
-        "answer": "No"
+        "question": "Considering its ornamentation, what type of occasion might this frame suit?",
+        "answer": "Formal"
       },
       {
-        "question": "What is the visual effect created by the beading on the frame?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What seems to be the main function of this product?",
+        "question": "What does the image suggest is the intended function of this object?",
         "answer": "Display"
       },
       {
-        "question": "Is the frame design symmetrical or asymmetrical?",
-        "answer": "Symmetrical"
+        "question": "What is the visible orientation of this product in the image?",
+        "answer": "Vertical"
       },
       {
-        "question": "What kind of photo is suggested by the example inside?",
-        "answer": "Flowers"
+        "question": "Is the design of this frame primarily geometric or floral in nature?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Describe the finish of the visible surfaces of the frame's outer border.",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the apparent style of the design pattern on the border?",
+        "answer": "Repetitive"
       }
     ]
   }

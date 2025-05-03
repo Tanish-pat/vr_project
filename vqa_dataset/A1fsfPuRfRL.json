@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/dadc90ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible fabric?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What is the apparent texture of the upholstery material?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describing the weave, is the fabric smooth or does it have a visible pattern?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on appearance, what is the likely material of the cover?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the visible section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is there any discernible sheen or gloss to the fabric surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric exhibit any visible patterns besides the weave?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the image, how would you describe the fabric's weight or thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the most noticeable visual characteristic of the fabric's surface?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Does the fabric appear to be tightly or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Considering the visual clues, is the fabric likely to be stretchy or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the apparent finish of the fabric; is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, is the fabric's color uniform or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What kind of visual effect does the fabric's weave create?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the fabric seem to possess a high or low level of drape?",
+        "answer": "Low"
+      }
+    ]
+  }
+]
