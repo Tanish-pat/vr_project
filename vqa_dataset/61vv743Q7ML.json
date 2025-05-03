@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall geometry, what best describes the three-dimensional form of this item, which appears to be a wedge shape with a sharp point at one end and a broad, flat base at the other?",
+        "question": "Considering the overall form, what single geometric term best describes the item's primary shape?",
         "answer": "Wedge"
       },
       {
-        "question": "What appears to be the dominant color of this item, given its metallic sheen and the lack of any other distinct hues?",
-        "answer": "Silver"
-      },
-      {
-        "question": "Based on its reflective surface and smooth visual texture, what material is most likely used in the construction of this object, given its metallic appearance?",
+        "question": "What appears to be the dominant material used in the construction of this object, based solely on visual inspection?",
         "answer": "Metal"
       },
       {
-        "question": "Observing the item's surface, describe the visual texture or surface finish, noting any apparent smoothness or roughness.",
+        "question": "Observing the item's surface, what is the most apparent textural characteristic exhibited across its primary surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Examining the end of the object, is there any branding or markings visibly present, bearing in mind the potential for subtle details?",
-        "answer": "Yes"
+        "question": "Focusing on the object's visual presentation, what color most accurately represents the item's overall hue?",
+        "answer": "Silver"
       },
       {
-        "question": "Considering the item's form and proportions, what is its most likely primary function or use, given its size and shape?",
+        "question": "Based on a visual assessment, what kind of surface finish seems to have been applied to this object?",
+        "answer": "Polished"
+      },
+      {
+        "question": "Examining the image closely, is there any visible pattern, design, or marking present on the item's surface?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What is the most prominent feature distinguishing the end of the object that appears to have a stamped inscription?",
+        "answer": "Stamped"
+      },
+      {
+        "question": "Judging from the image, what is the most notable characteristic of the object's tapering form?",
+        "answer": "Tapered"
+      },
+      {
+        "question": "Based on the visual attributes, what is the most accurate description of the object's overall profile?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Given the visible characteristics, what is the most likely application of this object, based solely on appearance?",
         "answer": "Tool"
       },
       {
-        "question": "Observing the image closely, what is the shape of the primary marking on the object, which seems to be a logo or similar graphic?",
-        "answer": "Circular"
-      },
-      {
-        "question": "Focusing on the image, is the primary marking on the item clearly visible or slightly blurry, assuming the image quality is relatively low?",
-        "answer": "Clear"
-      },
-      {
-        "question": "Considering its overall dimensions, how would you classify the object's size relative to typical everyday items?",
+        "question": "In terms of size and scale, what best describes the overall proportions of this object relative to a typical adult hand?",
         "answer": "Small"
       },
       {
-        "question": "Describe the overall finish of the object, noticing whether it has a matte, glossy, or other type of surface treatment.",
-        "answer": "Glossy"
+        "question": "Observing the object's form and features, what appears to be the primary function of this object based on its structure?",
+        "answer": "Driving"
       },
       {
-        "question": "Observing the image, does the item appear to be made of one single piece or multiple components, based on its visual uniformity?",
-        "answer": "One"
+        "question": "Looking at the object's design, what aspect of its construction is most noticeably uniform throughout its length?",
+        "answer": "Thickness"
       },
       {
-        "question": "Looking at the angle, does the object exhibit sharp or curved edges, considering its wedge-like shape?",
-        "answer": "Sharp"
+        "question": "Considering the image provided, describe the object's relative weight compared to an object of similar dimensions made from a lighter material?",
+        "answer": "Heavy"
       },
       {
-        "question": "Is the object symmetrical along its central axis, considering its apparent wedge-like form?",
-        "answer": "No"
-      },
-      {
-        "question": "Does the item appear to have any visible flaws, such as scratches or dents, on its surface?",
-        "answer": "No"
-      },
-      {
-        "question": "In terms of its overall structural integrity, does the item look robust and well-made or fragile and possibly easily damaged?",
-        "answer": "Robust"
+        "question": "Based on the image, what is the most significant design feature of the item's most prominent face?",
+        "answer": "Branding"
       }
     ]
   }

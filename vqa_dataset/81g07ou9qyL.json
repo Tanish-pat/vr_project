@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2f5f3a31.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the phone case's design?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall pattern style depicted on the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Describing the shapes in the design, what are their primary forms?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the visual texture suggested by the case's design?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "What color is most prominently featured among the swirling shapes?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the general shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most striking contrast within the color palette?",
+        "answer": "Black"
+      },
+      {
+        "question": "Besides yellow, what other dominant color family is employed?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What kind of lines dominate the design, emphasizing its flow?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Are the shapes on the case primarily geometric or irregular?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the appearance of the background under the design?",
+        "answer": "Pale"
+      },
+      {
+        "question": "What is the overall visual feeling evoked by the design?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "What type of material seems most likely based on appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What secondary color provides a sharp contrast to the dominant colors?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the phone case have an apparent protective edge?",
+        "answer": "No"
+      }
+    ]
+  }
+]

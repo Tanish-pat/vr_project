@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted on the phone case's surface?",
+        "question": "What is the predominant color scheme of the depicted floral design on the phone case?",
         "answer": "Pink"
       },
       {
-        "question": "What kind of floral motif is prominently displayed across the phone case?",
-        "answer": "Flowers"
+        "question": "What type of flowers are primarily featured in the phone case's image?",
+        "answer": "Cherry"
       },
       {
-        "question": "What appears to be the primary material used in the construction of the phone case?",
+        "question": "What appears to be the material composition of the phone case's protective shell?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall visual texture of the printed floral design on the case.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the general shape of the phone case, considering its form factor?",
+        "question": "Considering the image, what is the overall shape of the protective phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the image, what is the apparent level of transparency of the phone case?",
-        "answer": "Translucent"
+        "question": "Describe the visual texture of the printed floral design on the phone case?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the predominant shade of pink in the central area of the floral design?",
-        "answer": "Dark"
-      },
-      {
-        "question": "What is the visual effect of the color gradient seen in the background flowers?",
-        "answer": "Ombre"
-      },
-      {
-        "question": "Based on the picture, does the phone case have any noticeable visible markings other than the design?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering the design, what kind of visual style would best describe the floral illustration?",
-        "answer": "Photographic"
-      },
-      {
-        "question": "Judging by the image, what is the apparent thickness of the phone case's protective layer?",
-        "answer": "Thin"
-      },
-      {
-        "question": "What color is the bordering of the phone case's perimeter, as seen in the image?",
+        "question": "What is the apparent level of transparency of the phone case's outer shell?",
         "answer": "Clear"
       },
       {
-        "question": "Describe the style of flowers depicted in the image across the phone case.",
-        "answer": "Blossom"
+        "question": "What kind of photographic style or effect is used for the floral image?",
+        "answer": "Macro"
       },
       {
-        "question": "What appears to be the print method used for the image on the phone case?",
-        "answer": "Digital"
+        "question": "Based on the visible details, what is the apparent thickness of the phone case?",
+        "answer": "Thin"
       },
       {
-        "question": "Judging by the visual details, is the phone case design symmetrical or asymmetrical?",
-        "answer": "Asymmetrical"
+        "question": "Considering the image quality, does the floral print appear sharp or blurry?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the general color saturation of the floral print on the phone case?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the phone case show any visible branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual arrangement of the flowers in the phone case's design?",
+        "answer": "Clustered"
+      },
+      {
+        "question": "What is the visual depth of field in the floral photograph on the phone case?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "What kind of lighting appears to be used in the photograph on the case?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's outer surface?",
+        "answer": "Glossy"
       }
     ]
   }

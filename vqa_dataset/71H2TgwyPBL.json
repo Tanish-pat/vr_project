@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the artistic design showcased on the phone case?",
+        "question": "What is the dominant color scheme of the phone case's abstract design?",
         "answer": "Blue"
       },
       {
-        "question": "What kind of artistic style is predominantly depicted in the phone case's imagery?",
+        "question": "What artistic style is primarily depicted on the phone case's surface?",
         "answer": "Abstract"
       },
       {
-        "question": "Considering the visual texture, what is the apparent finish of the phone case's surface?",
-        "answer": "Matte"
+        "question": "Considering the case's design, what is the most prominent texture implied?",
+        "answer": "Brushstrokes"
       },
       {
-        "question": "Based on the image, what appears to be the primary material used for the phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What shape best describes the overall form of the depicted phone case?",
+        "question": "What shape does the depicted phone case precisely conform to?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the most striking color accent found near the bottom of the phone case?",
+        "question": "What material appears to be used for the phone case's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the most visible accent color, other than blue?",
         "answer": "Pink"
       },
       {
-        "question": "What is the general direction of the brushstrokes in most sections of the artwork?",
-        "answer": "Diagonal"
-      },
-      {
-        "question": "Considering the style, what is the overall aesthetic conveyed by the phone case's design?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Are there any clearly defined geometric shapes within the abstract artwork?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What color is most prominently used in the upper right quadrant of the phone case's artwork?",
-        "answer": "LightBlue"
-      },
-      {
-        "question": "What is the most frequent secondary color used to accentuate the blue hues in the phone case's design?",
+        "question": "What secondary color contrasts with the blue in several locations?",
         "answer": "Orange"
       },
       {
-        "question": "Disregarding the main design, what other colors are visible as small sections within the artwork?",
-        "answer": "Red"
+        "question": "Considering the image, is the phone case design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
       },
       {
-        "question": "How many distinct cutouts or openings are visually apparent on the phone case design?",
-        "answer": "Two"
+        "question": "Besides blue, pink, and orange, what other color is noticeably present?",
+        "answer": "White"
       },
       {
-        "question": "Judging by the image, how would you characterize the overall visual weight of the phone case's design?",
-        "answer": "Light"
+        "question": "What is the overall visual impression conveyed by the case design?",
+        "answer": "Painterly"
       },
       {
-        "question": "Describe the visual texture of the brushstrokes in the artwork on the phone case",
-        "answer": "Rough"
+        "question": "What is the predominant type of lines in the design on the back?",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "Are there any clearly visible logos or branding elements on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its visual features, what is the most likely use of this object?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the general level of detail in the case's artistic depiction?",
+        "answer": "High"
+      },
+      {
+        "question": "What form factor does the depicted phone case visually fit?",
+        "answer": "Smartphone"
       }
     ]
   }

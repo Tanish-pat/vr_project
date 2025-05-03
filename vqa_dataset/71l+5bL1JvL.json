@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What color is the text and heart design on the phone case?",
+        "question": "What color is the text on the phone case?",
         "answer": "Gold"
       },
       {
-        "question": "What is the apparent texture of the gold lettering and heart?",
-        "answer": "Glittery"
+        "question": "What is the shape of the depicted phone case?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the style of the lettering on the phone case?",
-        "answer": "Script"
-      },
-      {
-        "question": "What shape is the prominent design element on the case?",
-        "answer": "Heart"
-      },
-      {
-        "question": "What is the overall design aesthetic of the phone case?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What type of message does the text on the case convey?",
-        "answer": "Positive"
-      },
-      {
-        "question": "What appears to be the material of the phone case?",
+        "question": "What material appears to be used for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "How many sides of the phone case are shown in the image?",
-        "answer": "Three"
+        "question": "What is the style of the lettering on the case?",
+        "answer": "Script"
       },
       {
-        "question": "What is the orientation of the text on the case?",
-        "answer": "Vertical"
+        "question": "What is the design element centrally featured on the case?",
+        "answer": "Text"
       },
       {
-        "question": "What kind of phone does this case seem designed for?",
-        "answer": "Smartphone"
+        "question": "What small graphic element is included in the text?",
+        "answer": "Heart"
       },
       {
-        "question": "Is the phone case design predominantly graphic or photographic?",
-        "answer": "Graphic"
+        "question": "What color is the small heart graphic on the case?",
+        "answer": "Red"
       },
       {
-        "question": "Does the case seem to provide protection to the phone?",
+        "question": "What is the overall texture of the phone case design?",
+        "answer": "Glittery"
+      },
+      {
+        "question": "What is the primary message conveyed by the text on the case?",
+        "answer": "Positive"
+      },
+      {
+        "question": "Does the case appear to have any raised areas?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the design of the phone case symmetrical?",
         "answer": "Yes"
       },
       {
-        "question": "What is the overall visual impression of the phone case?",
-        "answer": "Stylish"
+        "question": "What type of finish does the case appear to have?",
+        "answer": "Matte"
       },
       {
-        "question": "Based on the imagery, what is the target demographic?",
-        "answer": "Female"
+        "question": "How many sides of the phone case are shown?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the general condition of the displayed phone case?",
+        "answer": "New"
       }
     ]
   }

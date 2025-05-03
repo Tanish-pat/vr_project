@@ -9,60 +9,60 @@
         "answer": "Cooking"
       },
       {
-        "question": "What is the predominant color of the cooking surface and the exterior of this cookware?",
+        "question": "Based on its shape and compartments, what type of food is it primarily designed for?",
+        "answer": "Appetizers"
+      },
+      {
+        "question": "What is the dominant color of the cooking surface and the handle?",
         "answer": "Black"
       },
       {
-        "question": "Based on the visual appearance, what material seems to constitute the primary body of this pan?",
-        "answer": "Metal"
+        "question": "Examining the material, what appears to be the primary construction material?",
+        "answer": "Aluminum"
       },
       {
-        "question": "How many individual cooking wells or compartments are visibly present in this piece of cookware?",
+        "question": "Considering the handle's physical properties, what is its most notable characteristic?",
+        "answer": "Ergonomic"
+      },
+      {
+        "question": "Describe the visual texture of the cooking surface's interior?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many individual cooking compartments does the pan possess?",
         "answer": "Six"
       },
       {
-        "question": "What is the general shape of the individual compartments or wells observed within the cooking surface?",
+        "question": "Considering the shape of the individual cooking wells, what geometric form best describes them?",
         "answer": "Round"
       },
       {
-        "question": "Describe the shape of the outer rim of the main cooking pan itself, ignoring the handles.",
+        "question": "What is the overall shape of the cooking pan itself, excluding the handles?",
         "answer": "Circular"
       },
       {
-        "question": "What material appears to be used for the two handles attached to the sides of the main pan?",
+        "question": "What is the apparent material of the handle's gripping surface?",
         "answer": "Plastic"
       },
       {
-        "question": "Judging by its appearance, what is the most likely texture of the cooking surface within each well?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What seems to be the overall finish of the cooking surface, considering its apparent sheen or lack thereof?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Based on the image, is the cooking surface of each individual well noticeably textured, or relatively smooth?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the handles, what design feature is evident near where each handle joins the main pan?",
-        "answer": "Rivets"
-      },
-      {
-        "question": "What color are the metallic components of the handles, contrasted with the plastic parts?",
+        "question": "Describe the metal visible around the edge of the pan and between the handle and pan body",
         "answer": "Silver"
       },
       {
-        "question": "Describe the visual texture of the handles, focusing on their surface finish and apparent material.",
-        "answer": "Smooth"
+        "question": "What is the design feature that connects the pan body and handle?",
+        "answer": "Rivets"
       },
       {
-        "question": "Considering the visual depth, what is the overall profile of the main cooking pan itself?",
-        "answer": "Shallow"
+        "question": "Judging from the image, what is the most striking feature of this product?",
+        "answer": "Compartments"
       },
       {
-        "question": "What is the visible design element that holds each handle securely onto the pan?",
-        "answer": "Screws"
+        "question": "What is the general condition of the surface of the cooking pan?",
+        "answer": "New"
+      },
+      {
+        "question": "Looking at the image, what is the style of the handles?",
+        "answer": "Curved"
       }
     ]
   }
