@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fba75655.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the spool's central body?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the 3D printing filament?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent material of the spool's main component?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What brand is visibly printed on the spool?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the overall shape of the product in the image?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the visible type of filament indicated on the spool?",
+        "answer": "PLA"
+      },
+      {
+        "question": "What is the textural appearance of the filament?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many filament exit points are clearly visible?",
+        "answer": "Two"
+      },
+      {
+        "question": "What design element separates the filament compartments?",
+        "answer": "Dividers"
+      },
+      {
+        "question": "What is the apparent material of the filament?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape are the filament exit slots?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the general surface finish of the spool?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the design, what is the product's likely function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the apparent weight of the filament?",
+        "answer": "1kg"
+      },
+      {
+        "question": "What is depicted on the labels besides the filament information?",
+        "answer": "Logos"
+      }
+    ]
+  }
+]
