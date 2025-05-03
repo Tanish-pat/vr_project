@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the headboard's profile, considering its height and wing-like extensions?",
+        "question": "What is the overarching shape of the headboard's profile, considering its height and wing-like extensions?",
         "answer": "Wingback"
       },
       {
-        "question": "What is the predominant color of the upholstered fabric covering the headboard?",
+        "question": "What is the predominant color of the fabric covering the headboard?",
         "answer": "Beige"
       },
       {
-        "question": "Describe the apparent texture of the headboard's fabric; is it smooth or rough?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What material seems to constitute the base or support structure at the headboard's bottom?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What color are the visible legs or feet supporting the headboard?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the visible seams and paneling, what construction technique seems most prominent in the headboard?",
-        "answer": "Upholstered"
-      },
-      {
-        "question": "What is the general style of the headboard; modern, traditional, or something else?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "What is the visible material at the bottom edge of the headboard, beneath the main upholstery?",
+        "question": "What textile type appears to be used in the headboard's upholstery, judging by its visible texture?",
         "answer": "Fabric"
       },
       {
-        "question": "Does the headboard's fabric exhibit a distinct pattern or is it a solid color?",
-        "answer": "Solid"
-      },
-      {
-        "question": "What is the visible material of the relatively narrow base of the headboard?",
+        "question": "Considering the image, what seems to be the main material of the headboard's legs?",
         "answer": "Wood"
       },
       {
-        "question": "Based on the image, what is the estimated height of the headboard relative to its width?",
+        "question": "Describe the texture of the headboard's fabric; is it smooth or does it show a pattern?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What color are the visible feet or legs supporting the headboard?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visible seams and construction, what is the apparent construction method of the headboard?",
+        "answer": "Upholstered"
+      },
+      {
+        "question": "What is the general style of the headboard design; is it ornate, simple, or something else?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the bottom edge, what color is the visible portion of the headboard's backing?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent material of the section visible at the headboard's base?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall height of the headboard relative to its width; is it tall or short?",
         "answer": "Tall"
       },
       {
-        "question": "Is there noticeable padding or cushioning evident in the fabric's form?",
-        "answer": "Yes"
+        "question": "Considering the visual details, what is the implied level of comfort or softness of the headboard?",
+        "answer": "Soft"
       },
       {
-        "question": "Are there any decorative elements, buttons or stitching details, visible on the headboard?",
-        "answer": "No"
+        "question": "Judging by the image, what is the overall aesthetic of the headboard; is it modern, traditional, etc.?",
+        "answer": "Modern"
       },
       {
-        "question": "What is the apparent finish of the visible wood components; glossy or matte?",
-        "answer": "Matte"
+        "question": "What is the visible pattern on the fabric covering the headboard?",
+        "answer": "None"
       },
       {
-        "question": "Based on the visible construction, is the headboard seemingly sturdy and well-made?",
-        "answer": "Yes"
+        "question": "What is the apparent orientation of the headboard in the given image?",
+        "answer": "Vertical"
       }
     ]
   }

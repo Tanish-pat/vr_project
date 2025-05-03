@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/29/29d817d2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the liquid contained within the bottle, as visually apparent?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall form, what is the most precise geometrical description of the bottle's shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the bottle, based on visual inspection?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the cap's color, focusing on the dominant hue observed in the image.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent material of the bottle's cap, as observed from the image alone?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the label's design, what color band is prominently featured around the middle of the bottle?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Based solely on visual analysis, what is the texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent transparency level of the bottle's material, judging from the visible liquid?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Observing the label, what is the general style of the text and design elements featured?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent finish of the bottle's plastic surface, as seen in the reflection of light?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Focusing solely on the cap, what is its overall design style, considering its shape and form?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From a visual perspective, what is the primary function suggested by the bottle's shape and design?",
+        "answer": "Container"
+      },
+      {
+        "question": "Describe the style of the text on the bottle's label, considering its size and formatting.",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging only by its appearance, does the bottle appear to be designed for single-use or multiple-use?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Considering the visual features, what kind of product does this bottle most likely contain?",
+        "answer": "Liquid"
+      }
+    ]
+  }
+]
