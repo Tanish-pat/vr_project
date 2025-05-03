@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant visual texture across the vase's surface?",
-        "answer": "Embossed"
+        "question": "What is the dominant geometric pattern embossed on the vase's surface?",
+        "answer": "Diamond"
       },
       {
-        "question": "What is the overall shape of this ceramic decorative vase?",
-        "answer": "Bulbous"
+        "question": "What is the overall shape of the ceramic vase, considering its broadest dimensions?",
+        "answer": "Pear"
       },
       {
-        "question": "What primary color characterizes the vase's body?",
+        "question": "What primary color describes the vase's finish, based on visual inspection?",
         "answer": "Off-white"
       },
       {
-        "question": "What is the apparent material of the vase?",
+        "question": "What material appears to be used in the construction of this decorative vase?",
         "answer": "Ceramic"
       },
       {
-        "question": "Describe the repeating geometric pattern etched into the vase?",
-        "answer": "Lattice"
+        "question": "Considering the surface texture, is the vase's finish smooth or textured?",
+        "answer": "Textured"
       },
       {
-        "question": "What is the general finish of the vase's surface?",
+        "question": "What is the visual effect created by the interplay of light and shadow on the embossed pattern?",
+        "answer": "Three-dimensional"
+      },
+      {
+        "question": "Describe the apparent sheen or gloss of the vase's surface finish.",
         "answer": "Matte"
       },
       {
-        "question": "What is the appearance of the lip or opening at the top?",
-        "answer": "Round"
+        "question": "Are there any visible imperfections or irregularities on the vase's surface?",
+        "answer": "None"
       },
       {
-        "question": "How would you characterize the style of the vase's design?",
+        "question": "What is the apparent style of the vase's decorative pattern, generally speaking?",
         "answer": "Geometric"
       },
       {
-        "question": "Is there a noticeable contrast in colors on the vase?",
-        "answer": "Slight"
+        "question": "What is the color of the lines forming the embossed pattern on the vase?",
+        "answer": "Beige"
       },
       {
-        "question": "What is the dominant visual element within the pattern?",
-        "answer": "Lines"
+        "question": "Does the vase appear to have a wide opening at its top, or is it narrow?",
+        "answer": "Wide"
       },
       {
-        "question": "Considering the visible details, is the vase simple or ornate?",
-        "answer": "Ornate"
+        "question": "Describe the apparent weight of the vase based on its visual form.",
+        "answer": "Heavy"
       },
       {
-        "question": "What is the apparent level of sheen on the vase's surface?",
-        "answer": "Low"
+        "question": "Is there any significant variation in the color throughout the vase?",
+        "answer": "No"
       },
       {
-        "question": "What seems to be the primary manufacturing technique used?",
-        "answer": "Molding"
+        "question": "Considering the shape and design, what is the most likely function of this item?",
+        "answer": "Ornamental"
       },
       {
-        "question": "Describe the shape of the vase's base or bottom?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "Are there any visible handles or other functional parts?",
-        "answer": "None"
+        "question": "What kind of craftsmanship is suggested by the precision of the embossed detail?",
+        "answer": "Fine"
       }
     ]
   }

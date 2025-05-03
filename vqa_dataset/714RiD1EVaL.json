@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae2ec27c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible components?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the main structural element?",
+        "answer": "Arched"
+      },
+      {
+        "question": "What kind of pattern is present on a portion of the product?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What type of fastener mechanism is visible for adjustments?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the texture of the knob-like adjustment component?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Describe the shape of the adjustment knob at the visible joint?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What seems to be the function of the grid-patterned section?",
+        "answer": "Enclosure"
+      },
+      {
+        "question": "Considering the materials, what is the likely product type?",
+        "answer": "Pet"
+      },
+      {
+        "question": "What is the apparent design of the locking/adjustment mechanism?",
+        "answer": "Rotary"
+      },
+      {
+        "question": "What is the design of the visible securing device?",
+        "answer": "Threaded"
+      },
+      {
+        "question": "What is the overall visual impression of the product's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the construction, how would you describe its build?",
+        "answer": "Modular"
+      },
+      {
+        "question": "What is the apparent purpose of the adjusting mechanism?",
+        "answer": "Height"
+      },
+      {
+        "question": "What is the visual appearance of the plastic's surface texture?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the TV stand's metallic components?",
+        "question": "What is the predominant color of the TV stand's metal components?",
         "answer": "Black"
       },
       {
@@ -13,55 +13,55 @@
         "answer": "Cross"
       },
       {
-        "question": "What kind of wheels are at the bottom of the TV stand?",
-        "answer": "Caster"
-      },
-      {
-        "question": "What is the primary material visibly used in constructing the stand?",
+        "question": "What material appears to constitute the majority of the stand's construction?",
         "answer": "Metal"
       },
       {
-        "question": "Describe the visible adjustment mechanism along the stand's central pole?",
-        "answer": "Sliding"
+        "question": "Considering the base, what is the primary means of stand mobility?",
+        "answer": "Wheels"
       },
       {
-        "question": "What is the apparent texture of the television mounting plate's surface?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What is the shape of the television mounting plate on top of the stand?",
-        "answer": "Square"
-      },
-      {
-        "question": "How many wheels are visibly supporting the TV stand's base?",
-        "answer": "Four"
-      },
-      {
-        "question": "Considering the stand's structure, what is its most likely function?",
-        "answer": "Support"
-      },
-      {
-        "question": "What kind of finish does the metal appear to have, based on its visual sheen?",
+        "question": "What is the apparent finish of the stand's metallic surfaces?",
         "answer": "Matte"
       },
       {
-        "question": "Describe the visible connection between the base and the central pole?",
-        "answer": "Fixed"
+        "question": "Describing the vertical support pole, what is its structural profile?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "Based on its design, what type of electronic device does this stand accommodate?",
-        "answer": "Television"
+        "question": "What type of connection mechanism is visible at the top of the stand?",
+        "answer": "Mount"
       },
       {
-        "question": "What is the apparent structural characteristic of the stand's central post?",
-        "answer": "Vertical"
+        "question": "Regarding the base, how many wheels are visibly supporting the structure?",
+        "answer": "Four"
       },
       {
-        "question": "What is the visual appearance of the joint between the stand's pole and mounting plate?",
-        "answer": "Secure"
+        "question": "What is the shape of the mounting plate on top of the stand?",
+        "answer": "Square"
       },
       {
-        "question": "What is the visible overall design aesthetic of the product?",
+        "question": "Observing the base's structure, what geometrical design supports the stand?",
+        "answer": "Cross"
+      },
+      {
+        "question": "What is the apparent height adjustment mechanism of the vertical support?",
+        "answer": "Sliding"
+      },
+      {
+        "question": "Describing the connection between pole and base, what type of fastener is apparent?",
+        "answer": "Clamp"
+      },
+      {
+        "question": "What is the texture of the metallic parts of the television stand?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible pattern on the mounting plate?",
+        "answer": "Holes"
+      },
+      {
+        "question": "What is the overall design aesthetic of this TV stand?",
         "answer": "Simple"
       }
     ]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1e98cc8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the intricate texturing across the entire sole, what is the dominant visual texture of this sandal's outsole?",
+        "answer": "Grooved"
+      },
+      {
+        "question": "Examining the sandal's sole from the perspective of its design, what is the most prominent pattern present across its surface?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Focusing on the material composition apparent from the image, what material appears to comprise the majority of this footwear?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Observing the overall shape and structure, what is the most accurate description of the sandal's silhouette?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on the color displayed throughout the image, what is the prevailing color of this sandal?",
+        "answer": "Black"
+      },
+      {
+        "question": "Analyzing the various components visible in the image, what is the primary functional component of this footwear?",
+        "answer": "Sole"
+      },
+      {
+        "question": "Considering the sandal's design from the side profile view, what is the overall shape of the insole?",
+        "answer": "Curved"
+      },
+      {
+        "question": "From a visual standpoint, how would you categorize the overall design aesthetic of this particular sandal?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging solely from its appearance, what is the apparent functionality of the textured pattern on the outsole?",
+        "answer": "Grip"
+      },
+      {
+        "question": "Given the image's presentation, what type of footwear is depicted in the photograph?",
+        "answer": "Sandal"
+      },
+      {
+        "question": "Based purely on what is visible, how would you describe the finish of the sandal's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the construction visible, what appears to be the primary construction method of this sandal?",
+        "answer": "Molded"
+      },
+      {
+        "question": "From the visual detail, is the sandal's construction seemingly lightweight or heavy?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Based on the visual details in the provided image, what is the style of the sandal's straps?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Considering the presentation of the image, what part of the sandal is most prominently featured?",
+        "answer": "Outsole"
+      }
+    ]
+  }
+]

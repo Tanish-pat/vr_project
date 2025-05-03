@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f3c60e0f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what primary cooking method is showcased in the central image?",
+        "answer": "Pan-frying"
+      },
+      {
+        "question": "Focusing on the main dish, what specific type of fish is being prepared?",
+        "answer": "Tilapia"
+      },
+      {
+        "question": "Describe the dominant color of the cooked fish fillets in the frying pan.",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the cooked sweet potatoes, as shown in the top left corner?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What shape best describes the majority of the prepared sweet potato pieces?",
+        "answer": "Cubed"
+      },
+      {
+        "question": "What cutting board material seems to be used for preparing the sweet potatoes?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the color of the raw tomatoes shown in the bottom-left image?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the image, what seems to be the cooking vessel used for the tilapia?",
+        "answer": "Pan"
+      },
+      {
+        "question": "What color is the pan used for cooking the tilapia?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visible shape of the fish fillets being pan-fried?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Observing the image, what form is predominantly used for preparing the sweet potato?",
+        "answer": "Pieces"
+      },
+      {
+        "question": "What seems to be the overall cooking style based on the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the top left image, what appears to be the approximate size of the sweet potato pieces?",
+        "answer": "Small"
+      },
+      {
+        "question": "Looking at the raw tomatoes, what is their apparent condition?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Judging from the image, what seems to be the general preparation method of the tomatoes?",
+        "answer": "Halved"
+      }
+    ]
+  }
+]

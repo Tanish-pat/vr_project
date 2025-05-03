@@ -1,0 +1,45 @@
+[
+  {
+    "path": "images/small/00/005ba12d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided, what primary ingredient is predominantly used in the product's composition?",
+        "answer": "Corn"
+      },
+      {
+        "question": "Based on the textual description, what type of oil is listed as a key component of this product?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "Referring to the provided text, which additional oil is mentioned as a possible ingredient in the product?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "According to the text, what other oil may be included in the product's formulation?",
+        "answer": "Safflower"
+      },
+      {
+        "question": "Does the ingredient list specify another possible oil that could be part of the product?",
+        "answer": "Canola"
+      },
+      {
+        "question": "What is the additional ingredient besides corn and oil listed in the product's composition?",
+        "answer": "Salt"
+      },
+      {
+        "question": "From the text, which descriptor is used to qualify the type of corn used?",
+        "answer": "White"
+      },
+      {
+        "question": "Is the corn used in the product's recipe explicitly mentioned as being processed in any specific way?",
+        "answer": "Ground"
+      },
+      {
+        "question": "Based on the textual description, which word is used to describe the manner in which the corn is prepared?",
+        "answer": "Ground"
+      }
+    ]
+  }
+]

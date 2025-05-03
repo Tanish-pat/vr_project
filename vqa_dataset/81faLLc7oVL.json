@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/184e811e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture displayed across the entire surface?",
+        "answer": "Quilted"
+      },
+      {
+        "question": "What is the overall geometric pattern formed by the quilting?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "What single color best describes the product's appearance?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the material, what is the likely surface feel to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the primary shape or form of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by its appearance, what is the probable function of this product?",
+        "answer": "Mattress"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the apparent thickness of the item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Are there any noticeable contrasting color accents or elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the surface appear smooth or does it show any three-dimensional features?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What material is most likely to be used in the construction of this product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from its visual form, what would be its intended usage location?",
+        "answer": "Bedroom"
+      },
+      {
+        "question": "Is the visible pattern repetitive or does it exhibit any variation?",
+        "answer": "Repetitive"
+      },
+      {
+        "question": "Describe the style of the visible seams or stitching present.",
+        "answer": "Straight"
+      },
+      {
+        "question": "Based on its visual appeal, would you classify it as plain or decorative?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering its thickness, would you deem it lightweight or heavy?",
+        "answer": "Lightweight"
+      }
+    ]
+  }
+]

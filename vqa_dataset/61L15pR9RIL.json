@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bb24a545.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the recovery strap shown in the image?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this item?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "Considering its shape and design, what is the most likely intended use of this object?",
+        "answer": "Towing"
+      },
+      {
+        "question": "Based on the image, what is the overall texture of the strap's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visible stitching pattern present along the strap's length?",
+        "answer": "Zigzag"
+      },
+      {
+        "question": "What kind of loop or fastening mechanism is evident at the top of the strap?",
+        "answer": "Knotted"
+      },
+      {
+        "question": "Judging by its appearance, what is the approximate width of this recovery strap?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Does the strap exhibit any visible markings or branding beyond its stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general shape of the strap, considering its upper and lower ends?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the strap's overall stiffness or flexibility?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the apparent condition of the strap, considering its appearance and lack of damage?",
+        "answer": "New"
+      },
+      {
+        "question": "What seems to be the purpose of the small loop at the top of this strap?",
+        "answer": "Attachment"
+      },
+      {
+        "question": "What type of material does the bar the strap is attached to appear to be made of?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Can you describe the general length of the strap from top to bottom?",
+        "answer": "Long"
+      },
+      {
+        "question": "Based on its design, would you consider this strap to be lightweight or heavy?",
+        "answer": "Lightweight"
+      }
+    ]
+  }
+]

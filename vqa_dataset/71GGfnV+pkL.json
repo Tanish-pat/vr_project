@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/73ba948f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the knitted beanie shown in the image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the primary textile material visibly used in constructing this headwear item?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of this particular head covering?",
+        "answer": "Beanie"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent knitting style of this beanie?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Examining the image, what is the apparent style or type of this knitted hat?",
+        "answer": "Cuffed"
+      },
+      {
+        "question": "Does the beanie in the image display any noticeable patterns or designs?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the general apparent texture of the beanie's exterior surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the displayed beanie have any visible embellishments or added elements?",
+        "answer": "Tag"
+      },
+      {
+        "question": "Considering the image's presentation, what is the beanie's apparent level of formality?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the apparent depth or thickness of the cuff of this particular headwear piece?",
+        "answer": "Double"
+      },
+      {
+        "question": "What is the most prominent color found on the small attached label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the image, is the overall look of the beanie simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent overall condition of the displayed beanie in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging from the provided image, how many visible seams does this hat have?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering the image, does the beanie show any signs of wear or damage?",
+        "answer": "None"
+      }
+    ]
+  }
+]

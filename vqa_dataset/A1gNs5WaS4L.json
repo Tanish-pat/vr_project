@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the rug's main field?",
+        "question": "What is the predominant color of the rug's base?",
         "answer": "Gray"
       },
       {
-        "question": "What is the color of the prominent design elements that appear to form a geometric pattern?",
-        "answer": "White"
-      },
-      {
-        "question": "What textile material appears to be the primary construction material of the rug?",
-        "answer": "Polyester"
-      },
-      {
-        "question": "Describe the overall texture of the rug; is it smooth, rough, or something else?",
+        "question": "Describe the texture of the rug's surface?",
         "answer": "Shaggy"
       },
       {
-        "question": "What geometric pattern is formed by the lighter colored lines across the darker background?",
-        "answer": "Diamond"
+        "question": "What geometric pattern is subtly woven into the rug?",
+        "answer": "Chevron"
       },
       {
-        "question": "Considering the rug's surface, would you describe its pile as short or long?",
-        "answer": "Long"
+        "question": "What secondary color accents the main color of the rug?",
+        "answer": "White"
       },
       {
-        "question": "Is the pile of the rug thick, thin, or of an intermediate thickness?",
-        "answer": "Thick"
+        "question": "What is the general shape of the visible rug section?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Describe the visual impression given by the rug's surface regarding softness, in reference to visual cues only?",
-        "answer": "Soft"
-      },
-      {
-        "question": "Does the design across the rug appear to be randomly placed, or in a structured manner?",
-        "answer": "Structured"
-      },
-      {
-        "question": "Is the pattern on the rug densely placed or sparsely distributed?",
-        "answer": "Dense"
-      },
-      {
-        "question": "Does the rug show a high degree of variation in color and tone throughout its design?",
-        "answer": "Low"
-      },
-      {
-        "question": "In regard to clarity, how distinct is the boundary between the different colored regions on the rug?",
-        "answer": "Distinct"
-      },
-      {
-        "question": "Considering the image solely, how would you describe the overall style of the rug's design?",
+        "question": "How would you characterize the overall style of the rug?",
         "answer": "Modern"
       },
       {
-        "question": "Based on what is visible, can you discern any noticeable fraying or damage to the rug's edges?",
+        "question": "What kind of fiber appears to constitute the rug?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Does the pattern appear to be high or low pile?",
+        "answer": "Low"
+      },
+      {
+        "question": "Is the pattern uniformly distributed across the surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any visible fraying or wear?",
         "answer": "No"
       },
       {
-        "question": "Regarding the rug's surface, is there a high degree of visible variation or a consistent tone across the image?",
-        "answer": "Consistent"
+        "question": "Would you describe the rug's visual weight as heavy or light?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the apparent thickness of the rug's pile?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Describe the visible color variation within the main color?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the overall visual impact of the rug's design?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the level of detail in the rug's pattern?",
+        "answer": "Moderate"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7e/7e6d0eaf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the carry-on backpack's main body?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the primary material used for the backpack's construction?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Describe the overall shape and form factor of the presented travel backpack.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the backpack's zippers, straps, and other trim accents?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible design, what is the backpack's intended purpose?",
+        "answer": "Travel"
+      },
+      {
+        "question": "Based on its size and features, what type of bag is this?",
+        "answer": "Carry-on"
+      },
+      {
+        "question": "What kind of closure mechanism is prominently displayed on the main compartment?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Does the backpack seem to have any external compression straps or buckles?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what is the apparent texture of the backpack's outer fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any visible pockets or compartments on the front of the backpack?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the style of the shoulder straps visible in the image?",
+        "answer": "Padded"
+      },
+      {
+        "question": "Considering the design details, is this backpack likely intended for short trips or long?",
+        "answer": "Short"
+      },
+      {
+        "question": "Does the backpack show any visible branding or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, is there evidence of a dedicated laptop sleeve?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its features, is this backpack designed to be worn on the back or carried by hand?",
+        "answer": "Back"
+      }
+    ]
+  }
+]

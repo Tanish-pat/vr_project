@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cd7f04a2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed on the phone case's surface?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent design pattern across the phone case?",
+        "answer": "Waterdrops"
+      },
+      {
+        "question": "What secondary color is subtly incorporated into the design?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the illustrated phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of this phone cover?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What design element bisects the water droplet pattern?",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "What is the implied texture of the depicted water droplets?",
+        "answer": "Bumpy"
+      },
+      {
+        "question": "How would you describe the color gradient transition present?",
+        "answer": "Ombre"
+      },
+      {
+        "question": "What is the suggested level of phone case protection offered?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on the image, what style would best describe the case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Does the case design appear glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What type of camera cutout is visibly present?",
+        "answer": "Triple"
+      },
+      {
+        "question": "What is the general feel presented by the phone case design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What form factor does the case visually seem to fit?",
+        "answer": "Smartphone"
+      },
+      {
+        "question": "Describe the visual impact of the contrasting color sections",
+        "answer": "Striking"
+      }
+    ]
+  }
+]

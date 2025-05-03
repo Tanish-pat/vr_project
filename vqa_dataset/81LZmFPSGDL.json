@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/86c75cd4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main fabric shown?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the color of the horizontal stripe accentuating the fabric?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What appears to be the texture of the primary fabric material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the drape and folds, what is the likely material of the sheet?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the general shape or form of the product presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many distinct color bands are visibly present across the fabric?",
+        "answer": "Two"
+      },
+      {
+        "question": "Characterize the style of the stripe design along the sheet's length?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What seems to be the width of the contrasting colored band?",
+        "answer": "Wide"
+      },
+      {
+        "question": "Describe the visual placement of the darker colored stripe on the sheet?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Does the image suggest any noticeable patterns besides the stripe?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall look, what is the likely use of this item?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "Judging by its appearance, what is the sheen or luster of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual inspection, is the fabric tightly woven or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the visible overall condition of the product shown?",
+        "answer": "New"
+      },
+      {
+        "question": "Are there any noticeable embellishments or added designs besides the stripe?",
+        "answer": "No"
+      }
+    ]
+  }
+]

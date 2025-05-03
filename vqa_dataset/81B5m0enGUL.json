@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/de/dedbfa3a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the food container depicted in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What dominant color is displayed prominently on the food can's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What primary material constitutes the external structure of this canned food item?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the visible text, what is the predominant language utilized on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "What type of graphic design element is visibly present on the label?",
+        "answer": "Illustration"
+      },
+      {
+        "question": "What is the color of the lettering predominantly seen on the nutrition label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the label, what is the suggested way to use the food product?",
+        "answer": "Salad"
+      },
+      {
+        "question": "What is the overall texture of the can's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the illustrated imagery on the food container label?",
+        "answer": "Sepia"
+      },
+      {
+        "question": "What is the primary method for opening the canned product suggested on the label?",
+        "answer": "CanOpener"
+      },
+      {
+        "question": "Does the can display a recycling symbol indicating its environmental impact?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the text, what is the origin of the fish indicated on the can?",
+        "answer": "Russia"
+      },
+      {
+        "question": "What style of font is used for the nutrition facts section of the can label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What information is prominently showcased on the can, beside the illustration?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the overall style of the labeling on the can, in terms of graphic design?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]
