@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the upholstery fabric covering the entire sofa?",
+        "question": "What is the dominant color of the upholstery fabric covering the sofa?",
         "answer": "Beige"
       },
       {
-        "question": "Considering the visible tufting, what is the overall style of this sofa?",
+        "question": "Considering the visible tufting pattern, what style is this sofa?",
         "answer": "Tufted"
       },
       {
-        "question": "What specific type of fabric appears to be used for the upholstery?",
-        "answer": "Velvet"
-      },
-      {
-        "question": "Describe the shape of the sofa's armrests, considering their curvature and height.",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What is the primary color of the legs supporting the sofa?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What material seems to be used for the sofa's legs, considering their finish?",
-        "answer": "Wood"
-      },
-      {
-        "question": "Based on the number of cushions, for how many people is this sofa designed?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the general shape of the sofa's back, from a side profile view?",
+        "question": "What is the overall shape of the sofa's back and armrests?",
         "answer": "Curved"
       },
       {
-        "question": "Describe the texture of the upholstery fabric, observed visually?",
+        "question": "Judging by the image, what appears to be the primary material of the sofa's upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What color are the visible legs supporting the sofa structure?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent texture of the upholstery?",
         "answer": "Smooth"
       },
       {
-        "question": "What pattern is present on the sofa's upholstery?",
-        "answer": "None"
+        "question": "How many distinct seating cushions are clearly visible on the sofa?",
+        "answer": "Two"
       },
       {
-        "question": "What style of button tufting is predominantly used on this sofa?",
+        "question": "Describe the visible design of the button tufting on the sofa's cushions?",
         "answer": "Deep"
       },
       {
-        "question": "Judging from the visual dimensions, is this a loveseat or a full-size sofa?",
-        "answer": "Loveseat"
+        "question": "What is the apparent material of the visible sofa legs?",
+        "answer": "Wood"
       },
       {
-        "question": "What is the visible height of the sofa legs relative to the seat height?",
-        "answer": "Short"
+        "question": "Considering the size and design, what type of furniture is depicted?",
+        "answer": "Sofa"
       },
       {
-        "question": "What is the design of the cushions from a visual inspection?",
-        "answer": "Square"
+        "question": "What is the general style aesthetic conveyed by this sofa's design?",
+        "answer": "Classic"
       },
       {
-        "question": "Considering the sofa\u2019s overall aesthetic, what design era does it evoke?",
-        "answer": "Mid-century"
+        "question": "Looking at the image, what is the apparent number of seats the sofa offers?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the sofa in the image have rolled arms or straight arms?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What kind of legs does this sofa appear to have based on its visual characteristics?",
+        "answer": "Tapered"
+      },
+      {
+        "question": "Describe the visible seams and stitching details on the upholstery.",
+        "answer": "Neat"
       }
     ]
   }

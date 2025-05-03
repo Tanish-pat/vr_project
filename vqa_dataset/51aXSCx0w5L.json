@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b2a61f58.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual layout, what is the primary text displayed prominently on the upper portion of this rectangular label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the most noticeable color used as a background for this nutritional information panel?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Observing the text format, what is the specific term used to categorize the provided dietary information?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the image, what is the measurement unit used for the 'Serving Size' indicated on the label?",
+        "answer": "Tbsp"
+      },
+      {
+        "question": "What numerical value represents the approximate number of servings contained within the product's packaging?",
+        "answer": "16"
+      },
+      {
+        "question": "According to the label, what is the total number of calories per serving of this food item?",
+        "answer": "5"
+      },
+      {
+        "question": "In milligrams, what is the amount of sodium listed per serving, as shown in the image?",
+        "answer": "110"
+      },
+      {
+        "question": "As per the image, what is the percentage of the daily recommended value for sodium, per serving?",
+        "answer": "5"
+      },
+      {
+        "question": "Referring to the visual data, what is the total amount of carbohydrates, in grams, listed per serving?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the percentage of the daily recommended value for total carbohydrates, per serving, visually indicated on this nutrition label?",
+        "answer": "1"
+      },
+      {
+        "question": "According to the visible data, what is the amount of sugars, in grams, shown per serving of this product?",
+        "answer": "<1"
+      },
+      {
+        "question": "What is the measurement unit consistently used for the 'amount per serving' values related to vitamins and minerals?",
+        "answer": "mg"
+      },
+      {
+        "question": "Based on the image, what is the percentage of the daily recommended value of vitamin A, per serving?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the percentage of the daily recommended value of vitamin C, per serving, visually displayed?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the single-word descriptor for the overall style of the nutrition facts presentation?",
+        "answer": "tabular"
+      }
+    ]
+  }
+]

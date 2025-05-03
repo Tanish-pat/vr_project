@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a205c260.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text displayed on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the product's label as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the font style used, what would you describe the overall appearance of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the background color of the label, upon which the ingredients are listed?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual information, what is the nature of the text\u2019s alignment on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the type of information conveyed in capital letters at the top of the product's label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describe the text's case style used for detailing each ingredient's component parts?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "In terms of the visual layout, how are ingredient components visually differentiated from their parent ingredient?",
+        "answer": "Parentheses"
+      },
+      {
+        "question": "What kind of punctuation separates each listed ingredient on the product label?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Does the product label include any illustrations or graphical elements besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the label's style, what is its overall impression in terms of design complexity?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the visual appearance of the text\u2019s weight in terms of its thickness and boldness?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Considering the visual density, how much of the label's area is covered with the ingredient list?",
+        "answer": "Most"
+      },
+      {
+        "question": "Based on the visual appearance, how many distinct text blocks are used on the label?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the type of information conveyed in capital letters at the bottom of the product's label?",
+        "answer": "Warning"
+      }
+    ]
+  }
+]

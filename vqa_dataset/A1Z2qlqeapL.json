@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/143c324d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary texture of the shown fabric?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the visual appearance, what is the apparent finish of the surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, does the material seem to have a uniform tone or variations?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Judging by the image's detail, what might be the material's perceived grain?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the overall impression of the material's visual depth and richness?",
+        "answer": "Deep"
+      },
+      {
+        "question": "From the provided close-up, how would you describe the surface's smoothness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image indicate a pattern within the material's visible texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the coloring and texture, is the feel likely to be rough or soft?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Observing the image, how consistent is the color across the entire sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging solely from the visual, is the material visibly shiny or dull?",
+        "answer": "Dull"
+      },
+      {
+        "question": "What would you say is the general visual impression of the sample's quality?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the material appear to have any noticeable imperfections or flaws?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual, would you classify this as a natural or synthetic material?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Does the image suggest any unusual surface characteristics or markings?",
+        "answer": "No"
+      }
+    ]
+  }
+]

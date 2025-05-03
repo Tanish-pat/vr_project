@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the outer packaging?",
+        "question": "What is the predominant color of the outer packaging box?",
         "answer": "Gray"
-      },
-      {
-        "question": "What is the primary text displayed on the box's label?",
-        "answer": "Assortment"
       },
       {
         "question": "What is the overall shape of the product's packaging?",
         "answer": "Rectangular"
       },
       {
-        "question": "What type of material appears to constitute the box?",
-        "answer": "Cardboard"
-      },
-      {
-        "question": "What color is the prominent graphic design element on the label?",
+        "question": "What is the primary color scheme of the label on the box?",
         "answer": "Green"
       },
       {
-        "question": "What is the apparent texture of the outer packaging?",
-        "answer": "Smooth"
+        "question": "What material appears to constitute the packaging box?",
+        "answer": "Cardboard"
       },
       {
-        "question": "What word describes the style of the label's illustration?",
-        "answer": "Botanical"
+        "question": "What is the text prominently displayed on the label?",
+        "answer": "Assortment"
       },
       {
-        "question": "What is depicted in the small illustrations surrounding the text?",
-        "answer": "Herbs"
+        "question": "What is the shape of the small logo on the packaging?",
+        "answer": "Circular"
       },
       {
-        "question": "What is the color of the smaller circular logo on the box?",
+        "question": "What color is the smaller logo on the box?",
         "answer": "Blue"
       },
       {
-        "question": "What is the overall condition of the packaging shown?",
-        "answer": "Sealed"
+        "question": "Describe the texture of the outer packaging box.",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the general style of the label's typography?",
-        "answer": "Casual"
+        "question": "What kind of imagery is used on the product label?",
+        "answer": "Botanical"
       },
       {
-        "question": "Does the box show any visible damage or wear?",
-        "answer": "No"
+        "question": "What is the apparent finish of the packaging surface?",
+        "answer": "Matte"
       },
       {
-        "question": "What kind of closure mechanism is visible on the box?",
-        "answer": "Tuck-top"
+        "question": "How many distinct colors are visible on the label?",
+        "answer": "Three"
       },
       {
-        "question": "Is the labeling predominantly horizontal or vertical?",
-        "answer": "Horizontal"
+        "question": "What is the general style of the label design?",
+        "answer": "Simple"
       },
       {
-        "question": "What is the general appearance of the illustrated herbs?",
-        "answer": "Fresh"
+        "question": "What is the apparent weight of the box (visually)",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the design style of the small circular logo?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is written under the main product name?",
+        "answer": "Herbs"
       }
     ]
   }

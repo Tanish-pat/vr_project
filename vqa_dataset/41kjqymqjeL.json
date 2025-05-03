@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a9af76b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted product?",
+        "answer": "White"
+      },
+      {
+        "question": "What primary geometric shape best describes the overall product form?",
+        "answer": "Cube"
+      },
+      {
+        "question": "What material appears to be used in the construction of this item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the design featured on the bottom interior of the product?",
+        "answer": "Rainbow"
+      },
+      {
+        "question": "What shape are the cut-out features present on the interior of the cube?",
+        "answer": "Arcs"
+      },
+      {
+        "question": "What kind of design element is subtly incorporated into the base of the cube?",
+        "answer": "Clouds"
+      },
+      {
+        "question": "Considering the construction, what is the apparent function of the internal dividers?",
+        "answer": "Separation"
+      },
+      {
+        "question": "What is the texture of the visible surface of this product, as observed in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent thickness of the material used to make this product?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the visual finish of the external surfaces of the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, is the product design simplistic or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the cut-outs, what is the likely intended use of this item?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the overall impression of the product's style, based on its visual features?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Are there any visible seams or joints in the visible part of the structure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the cut-out patterns, is the design primarily geometric or organic?",
+        "answer": "Both"
+      }
+    ]
+  }
+]

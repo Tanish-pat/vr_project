@@ -1,0 +1,49 @@
+[
+  {
+    "path": "images/small/e5/e5c59627.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text shown, what specific type of nut is the primary ingredient in this product, as explicitly stated?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "Based on the label's declaration, what is the preparation method used for the main ingredient?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "According to the product label, what additional tree nut may be present as a potential allergen?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What adjective describes the roasting process applied to the almonds, as indicated on the label?",
+        "answer": "Dry"
+      },
+      {
+        "question": "As per the label, where was this product potentially manufactured, creating a potential allergen risk?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What common legume is mentioned in the label's production note, implying cross-contamination?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "What word on the label describes the potential presence of other similar allergens?",
+        "answer": "May"
+      },
+      {
+        "question": "Based on the label, what category of nut is the primary ingredient in the product?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What specific aspect of the almond processing is highlighted by the description on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the description of the ingredient state on the packaging?",
+        "answer": "Dry"
+      }
+    ]
+  }
+]

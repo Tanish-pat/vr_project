@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b2c7a881.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the chair's upholstery?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What material appears to be used for the chair's seating?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "What is the overall shape of the chair's backrest?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Describe the style of the chair's armrests?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What type of base supports the chair?",
+        "answer": "Star"
+      },
+      {
+        "question": "What material composes the chair's base and rolling mechanism?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the apparent finish of the chair's metal components?",
+        "answer": "Chrome"
+      },
+      {
+        "question": "What is the texture of the chair's upholstery?",
+        "answer": "Soft"
+      },
+      {
+        "question": "How many legs or support points does the chair's base have?",
+        "answer": "Five"
+      },
+      {
+        "question": "What kind of wheels are on the chair's base?",
+        "answer": "Roller"
+      },
+      {
+        "question": "Does the chair appear to have any visible seams or stitching in its upholstery?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary function suggested by the chair's design?",
+        "answer": "Seating"
+      },
+      {
+        "question": "Is the chair's design more modern or traditional in appearance?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the overall design aesthetic of the chair?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is the chair designed for indoor or outdoor use?",
+        "answer": "Indoor"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca3a9f74.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the displayed information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the background behind the text?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the font style used for the 'Drug Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text within the information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the predominant text alignment within the panel?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the layout, what is the panel's apparent purpose?",
+        "answer": "Informational"
+      },
+      {
+        "question": "What is the texture of the background; smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual cues, is the information formal or informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the overall tone conveyed by the color scheme?",
+        "answer": "Serious"
+      },
+      {
+        "question": "Judging from the visual design, what is the intended audience?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Does the visual style suggest a specific industry?",
+        "answer": "Pharmaceutical"
+      },
+      {
+        "question": "What is the visual prominence of 'Active ingredient' section?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the context, what is the apparent state of the product?",
+        "answer": "Packaged"
+      },
+      {
+        "question": "What is the visual weight of the 'Purpose' section?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Is the layout of the information simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

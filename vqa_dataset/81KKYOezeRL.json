@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted on the phone case's surface?",
+        "question": "What is the dominant color scheme of the depicted phone case's design?",
         "answer": "Gray"
       },
       {
-        "question": "What primary material is visually represented on the phone case design?",
+        "question": "What material is predominantly depicted in the phone case's printed design?",
         "answer": "Wood"
       },
       {
-        "question": "What kind of texture is predominantly shown in the phone case's image?",
+        "question": "Considering the image, what is the overall texture implied by the phone case's design?",
         "answer": "Rough"
       },
       {
-        "question": "What type of structural elements are visible in the wooden design?",
-        "answer": "Planks"
-      },
-      {
-        "question": "What is the overall shape of the product shown in the image?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What metallic element is visible near the top of the phone case?",
-        "answer": "Gold"
-      },
-      {
-        "question": "What appears to be a rusty element is seen on the wood?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Considering the visible design, what state are the wooden planks in?",
+        "question": "Describe the visual state of the wood depicted in the phone case design?",
         "answer": "Weathered"
       },
       {
-        "question": "What color are the visible metal fasteners on the wooden design?",
+        "question": "What kind of fastening mechanisms are visually present in the phone case's design?",
+        "answer": "Bolts"
+      },
+      {
+        "question": "Based solely on the visual, what is the apparent shape of the product itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the metal accents visually apparent on the phone case design?",
         "answer": "Brown"
       },
       {
-        "question": "What is the apparent style of the depicted wooden surface?",
+        "question": "What is the general design style conveyed by the phone case's image?",
         "answer": "Rustic"
       },
       {
-        "question": "How many visible horizontal wood planks are present on the case?",
-        "answer": "Three"
+        "question": "Does the visual design include any noticeable gaps or separations in the wood?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the apparent condition of the depicted wood?",
-        "answer": "Old"
+        "question": "Judging from the image, what seems to be the primary subject of the design?",
+        "answer": "Door"
       },
       {
-        "question": "What kind of image is printed on the phone case?",
-        "answer": "Wooden"
+        "question": "What is the implied orientation of the wooden planks in the case design?",
+        "answer": "Vertical"
       },
       {
-        "question": "Describe the arrangement of the wooden planks on the case.",
-        "answer": "Horizontal"
+        "question": "Considering the visible details, what is the design's level of detail?",
+        "answer": "High"
       },
       {
-        "question": "What seems to be the general age or wear of the depicted wood?",
-        "answer": "Aged"
+        "question": "Is the surface depicted on the phone case smooth or uneven based on the image?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "What color is the visible trim around the phone case's camera cutout?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Judging from the visible features, is the phone case design primarily photographic or illustrative?",
+        "answer": "Photographic"
       }
     ]
   }

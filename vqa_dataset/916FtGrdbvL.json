@@ -9,60 +9,60 @@
         "answer": "Blue"
       },
       {
-        "question": "What secondary color is prominently featured within the design pattern?",
+        "question": "What secondary color is prominently featured in the textile's pattern?",
         "answer": "White"
       },
       {
-        "question": "Considering the textile's construction, what is its primary material?",
-        "answer": "Wool"
+        "question": "Considering the textile's structure, what is its apparent fabrication method?",
+        "answer": "Knit"
       },
       {
-        "question": "Describe the overall visual texture of the knitted fabric shown?",
-        "answer": "Knitted"
+        "question": "Describe the overall visual texture of the displayed textile sample.",
+        "answer": "Woven"
       },
       {
-        "question": "Characterize the style of the pattern present throughout the fabric?",
+        "question": "Characterize the pattern's design style presented throughout the textile's surface?",
         "answer": "Abstract"
       },
       {
-        "question": "What is the visual form or shape of the product as shown in the image?",
-        "answer": "Square"
-      },
-      {
-        "question": "What kind of visual pattern is predominantly shown across the fabric?",
+        "question": "Considering the textile's visual elements, what kind of pattern does it showcase?",
         "answer": "Camouflage"
       },
       {
-        "question": "Based on its appearance, what is the likely intended use for this textile?",
-        "answer": "Scarf"
+        "question": "What is the visual representation of the pattern's distribution across the fabric?",
+        "answer": "Irregular"
       },
       {
-        "question": "How would you describe the visual density of the pattern on the fabric?",
-        "answer": "Dense"
-      },
-      {
-        "question": "Is the pattern on the fabric symmetrical or asymmetrical in its distribution?",
-        "answer": "Asymmetrical"
-      },
-      {
-        "question": "Considering the image, what is the apparent finish of the fabric's surface?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Describe the level of visual detail present in the textile's pattern?",
+        "question": "How would you describe the visual density of the pattern on the fabric's surface?",
         "answer": "High"
       },
       {
-        "question": "Considering the image, what is the apparent thickness of the textile?",
-        "answer": "Thick"
+        "question": "What is the apparent degree of color contrast between the two main colors used?",
+        "answer": "High"
       },
       {
-        "question": "Does the pattern have any discernible repeating motifs or elements?",
-        "answer": "No"
+        "question": "Based on visual cues, what is the probable material composition of the textile?",
+        "answer": "Wool"
       },
       {
-        "question": "What is the overall visual impression of the color combination used?",
-        "answer": "Bold"
+        "question": "Considering its overall appearance, what is the textile's implied use or application?",
+        "answer": "Apparel"
+      },
+      {
+        "question": "What is the general shape and form of the presented textile sample?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the visual appearance regarding the fiber consistency of the textile?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent level of detail present within the textile's design?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall impression of the textile's visual complexity?",
+        "answer": "Intricate"
       }
     ]
   }

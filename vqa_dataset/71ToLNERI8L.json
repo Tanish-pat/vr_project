@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2c/2cecdd47.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sprinkles contained within the transparent cylindrical jar, as observed in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what is the apparent shape of the individual sprinkles inside the container?",
+        "answer": "Rod"
+      },
+      {
+        "question": "Based on visual inspection, what material is the primary container composed of, as suggested by its transparency and appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the main packaging that holds the chocolate sprinkles, according to the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the lid on the top of the jar containing the chocolate sprinkles, as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the sprinkles shown inside the container, as evident from their visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of food product, based on both visual characteristics and textual information on the label, is contained in the jar?",
+        "answer": "Sprinkles"
+      },
+      {
+        "question": "What flavor of sprinkles is indicated on the label of the jar shown in the image?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "Describe the design elements on the label, focusing on the shapes of the colorful elements surrounding the brand name.",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What is the brand name of the chocolate sprinkles, clearly visible on the label of the container?",
+        "answer": "365"
+      },
+      {
+        "question": "Based on the label, what is the net weight of the chocolate sprinkles in the container shown in the image?",
+        "answer": "2.25"
+      },
+      {
+        "question": "Describe the size of the sprinkles as shown in the product image; are they large, small, or another descriptive term?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the general arrangement of the sprinkles observed within their see-through cylindrical container?",
+        "answer": "Loose"
+      },
+      {
+        "question": "What is the material that the sprinkles themselves appear to be made of, according to the product image provided?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What is the overall state of the sprinkles shown in the jar\u2014 are they compacted, loose, or otherwise?",
+        "answer": "Loose"
+      }
+    ]
+  }
+]

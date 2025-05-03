@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/45/456311fb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted hardware component?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What metallic finish is predominantly visible on the bar handle?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "What appears to be the primary material used in this pull handle's construction?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the surface of the bar?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent color of the presented door or drawer pull?",
+        "answer": "Silver"
+      },
+      {
+        "question": "How many individual protrusions or grips are integrated into this design?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on its dimensions, what is the most likely application of this item?",
+        "answer": "Cabinet"
+      },
+      {
+        "question": "What is the general style of the depicted pull, based on its visual appearance?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the cross-sectional form of the central bar portion of this hardware piece?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the image, is the finish of this handle matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the primary function of the object shown in this product image?",
+        "answer": "Pulling"
+      },
+      {
+        "question": "Observing the details, are there any visible decorative elements on the handle?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent orientation of the presented hardware item in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, what could be the general length of this bar-shaped handle?",
+        "answer": "Long"
+      },
+      {
+        "question": "Excluding the grips, what is the overall profile of the main handle section?",
+        "answer": "Linear"
+      }
+    ]
+  }
+]
