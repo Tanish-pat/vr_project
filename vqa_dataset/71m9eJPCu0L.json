@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3ee9762d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary function suggested by the image's visual elements?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Considering the image's visual presentation, what is the apparent surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall shape of the displayed item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image's visual details, what seems to be the dominant color of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "From the image alone, what material is visibly implied to be used in its construction?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the implied clarity level of the product as shown in the image?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What characteristic, visually evident, is prominently featured in relation to this product?",
+        "answer": "Fingerprint-proof"
+      },
+      {
+        "question": "Based on the image, what kind of visual effect appears on the product's surface?",
+        "answer": "Oleophobic"
+      },
+      {
+        "question": "What is the visible texture of the product surface shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the product in the image appear to have any noticeable visible seams or borders?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What does the image indicate the product is designed to protect against?",
+        "answer": "Fingerprints"
+      },
+      {
+        "question": "According to the image, what is visually suggested about the item's fitting?",
+        "answer": "Precise"
+      },
+      {
+        "question": "Based on visual evidence, what type of screen protector is shown in the image?",
+        "answer": "Full"
+      },
+      {
+        "question": "Considering the visual details, what seems to be the product's apparent thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What design aspect, visually noticeable, helps in the functionality of the item?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9a027a87.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the cable's outer sheath?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of connector is present on the left end of the cable?",
+        "answer": "DisplayPort"
+      },
+      {
+        "question": "What type of connector is on the right-hand side of this cable?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "What appears to be the material of the connector housings?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the cable's connectors?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the metallic contacts within each connector?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the apparent texture of the cable's outer covering?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the cable's outer sheath visibly flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What brand name is subtly printed on the connector housings?",
+        "answer": "UGREEN"
+      },
+      {
+        "question": "What seems to be the predominant material of the cable itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Are there any visible stress-relief points near the connectors?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general form factor of the cable's length?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the image show any visible damage or wear to the cable?",
+        "answer": "No"
+      },
+      {
+        "question": "How many connectors are present on the shown cable?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the cable appear to be braided or solid-core?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

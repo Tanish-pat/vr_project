@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary shape of the pendant element in this necklace?",
+        "question": "What is the primary metal of the necklace chain?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What animal is depicted as the pendant's design?",
         "answer": "Elephant"
       },
       {
-        "question": "What color is the elephant pendant depicted on this necklace?",
-        "answer": "White"
-      },
-      {
-        "question": "What precious metal appears to constitute the chain and pendant of this necklace?",
+        "question": "Describe the overall color scheme of the necklace.",
         "answer": "Silver"
       },
       {
-        "question": "What is the apparent texture of the elephant pendant in this necklace?",
+        "question": "What is the apparent texture of the elephant pendant?",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the style of the elephant depicted as a pendant on the necklace shown.",
-        "answer": "Simple"
+        "question": "What is the style of the chain links in the necklace?",
+        "answer": "Delicate"
       },
       {
-        "question": "What is the overall design aesthetic conveyed by the piece of jewelry shown?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What type of metal seems to comprise the chain in the presented necklace?",
-        "answer": "Silver"
-      },
-      {
-        "question": "Considering the image, what is the apparent finish of the silver components?",
-        "answer": "Shiny"
-      },
-      {
-        "question": "Does the pendant appear to have any noticeable surface details or markings?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the orientation of the elephant pendant on the presented necklace?",
+        "question": "What is the elephant pendant's orientation on the necklace?",
         "answer": "Vertical"
       },
       {
-        "question": "Based on the visual, what is the apparent length of the chain in the necklace?",
-        "answer": "Long"
+        "question": "Does the pendant feature intricate details or a simpler design?",
+        "answer": "Simple"
       },
       {
-        "question": "Describe the visual appearance of the links that comprise the necklace chain.",
-        "answer": "Small"
+        "question": "What is the predominant shape of the elephant pendant?",
+        "answer": "Silhouette"
       },
       {
-        "question": "Judging from the image, what type of necklace is shown?",
-        "answer": "Pendant"
+        "question": "Is the elephant pendant three-dimensional or flat?",
+        "answer": "Flat"
       },
       {
-        "question": "What is the method of fastening the necklace shown in the image?",
-        "answer": "Clasp"
+        "question": "What seems to be the finish of the metal components?",
+        "answer": "Shiny"
       },
       {
-        "question": "Based on the image provided, what is the overall appearance of the necklace?",
-        "answer": "Delicate"
+        "question": "What is the length of the necklace, approximately?",
+        "answer": "Short"
+      },
+      {
+        "question": "Describe the apparent material of the elephant pendant.",
+        "answer": "Metal"
+      },
+      {
+        "question": "Is the necklace's chain visibly thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What are the distinguishing features of the elephant pendant?",
+        "answer": "Trunk"
+      },
+      {
+        "question": "Does the pendant include any gemstones or colored accents?",
+        "answer": "No"
       }
     ]
   }

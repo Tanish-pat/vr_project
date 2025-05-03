@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d579084b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant geometric shape depicted in the artwork's central motif?",
+        "answer": "Triangle"
+      },
+      {
+        "question": "What color is the frame surrounding the artwork?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Describe the color of the base section at the bottom of the artwork.",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the predominant color of the large triangle in the artwork?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the texture of the background within the frame, appearing slightly grainy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color is the small triangle at the apex of the main triangle?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What material seems most likely for the artwork's frame, judging by its appearance?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the color of the small, thin triangle adjacent to the pink one?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall style of the artwork, minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the visual composition, is the artwork primarily geometric or organic?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Describe the visual effect of the shading within the large triangle, suggesting depth?",
+        "answer": "Gradient"
+      },
+      {
+        "question": "What is the shape of the overall frame encompassing the picture?",
+        "answer": "Square"
+      },
+      {
+        "question": "Considering the color palette, what is the overall feeling evoked by the artwork?",
+        "answer": "Calm"
+      },
+      {
+        "question": "Is the artwork presented in a flat or three-dimensional style?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Describe the visual aspect of the gray band at the base of the image \u2013 is it solid or patterned?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

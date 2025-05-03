@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/04111863.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible color of the displayed fabric swatch?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the weave, what is the apparent texture of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the visual appearance, what is the primary material type?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Judging from the image, what is the overall visual pattern of the fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describe the apparent visual grain direction of the fabric shown?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the presented fabric exhibit any visible sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visual impression of the fabric's surface density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the fine weave, what is the implied level of the fabric's opacity?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From a visual standpoint, how would you characterize the fabric's drape or stiffness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "If you had to describe the overall visual tone, what is it?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Describe the visible uniformity of color across the fabric sample shown?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the visible fibers, what is the apparent thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visible degree of the fabric's apparent softness based on its weave?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on visual inspection, what is the shape of the presented fabric sample?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the image reveal any visible irregularities or imperfections in the fabric?",
+        "answer": "None"
+      }
+    ]
+  }
+]

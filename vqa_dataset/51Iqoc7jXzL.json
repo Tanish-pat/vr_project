@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/ac0d629a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted laptop case?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What material appears to constitute the majority of the laptop case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible surface, what is the overall finish of the case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What recognizable logo is subtly imprinted on the laptop's outer shell?",
+        "answer": "Apple"
+      },
+      {
+        "question": "Regarding the form factor, what geometric shape best describes the case?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Observing the edges, what is the apparent thickness of the laptop case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent texture of the laptop case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image reveal any noticeable scratches or imperfections on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any visible text or branding apart from the main logo?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the primary function of this item, judging from its shape and features?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Considering the design, is the case predominantly minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent level of transparency or opacity of the laptop case material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the case showcase any noticeable patterns or decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the case designed to completely encase the laptop?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the Apple logo present on the laptop case?",
+        "answer": "Gray"
+      }
+    ]
+  }
+]

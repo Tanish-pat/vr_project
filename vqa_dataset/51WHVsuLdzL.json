@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/35/35c4320a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the illustrated cats on the phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What type of animals are depicted in the design on the phone case?",
+        "answer": "Cats"
+      },
+      {
+        "question": "Describe the apparent texture of the phone case's surface based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the primary material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent color of the phone case's border or frame?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the image, what is the style of the cat illustration?",
+        "answer": "Cartoonish"
+      },
+      {
+        "question": "Based on the visual, what is the design pattern on the phone case?",
+        "answer": "Animal"
+      },
+      {
+        "question": "What design element is present on both cat illustrations on the case?",
+        "answer": "Ears"
+      },
+      {
+        "question": "Considering the image, what seems to be the function of this product?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What color are the cat ears depicted on the phone case?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "What is the general tone of the design on the phone case?",
+        "answer": "Cute"
+      },
+      {
+        "question": "Based solely on the image, what seems to be the finish of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible arrangement of the cat images on the case?",
+        "answer": "Side-by-side"
+      },
+      {
+        "question": "What other detail besides the cat design can be seen on the phone case?",
+        "answer": "Camera"
+      }
+    ]
+  }
+]

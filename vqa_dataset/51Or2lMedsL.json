@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overarching shape of the headboard's main design element?",
+        "question": "What is the overarching shape of the headboard's main panel?",
         "answer": "Arched"
       },
       {
-        "question": "What is the dominant color of the wood used in the headboard?",
+        "question": "What is the primary color of the wooden headboard?",
         "answer": "Brown"
       },
       {
-        "question": "What kind of wood grain is predominantly visible on the headboard's surface?",
+        "question": "What kind of wood grain pattern is predominantly visible?",
         "answer": "Linear"
       },
       {
-        "question": "Describing the vertical posts, what is their decorative style?",
-        "answer": "Turned"
-      },
-      {
-        "question": "What is the material primarily used in the construction of this headboard?",
-        "answer": "Wood"
-      },
-      {
-        "question": "Considering the headboard's overall style, what design period does it evoke?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "What is the texture of the wood grain that is visible in the image?",
+        "question": "Describe the texture of the headboard's wooden surface.",
         "answer": "Smooth"
       },
       {
-        "question": "What is the shape of the two decorative panels on the headboard's top section?",
+        "question": "What is the design element featured at the top of the headboard's vertical supports?",
+        "answer": "Turned"
+      },
+      {
+        "question": "What is the apparent material of the headboard's construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "How many vertical supports flank the headboard's central panel?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the shape of the smaller decorative panels within the main arch?",
         "answer": "Curved"
       },
       {
-        "question": "What is the main function of the horizontal support bar at the bottom of the headboard?",
-        "answer": "Structural"
+        "question": "Characterize the style of the headboard's overall design aesthetic.",
+        "answer": "Traditional"
       },
       {
-        "question": "What kind of finish is present on the headboard's wooden surface?",
-        "answer": "Satin"
+        "question": "What is the visible form of the headboard's horizontal support beam?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the general style of the headboard's embellishments?",
-        "answer": "Simple"
+        "question": "Considering the visible elements, what is the headboard's apparent function?",
+        "answer": "Support"
       },
       {
-        "question": "Describe the physical profile of the vertical posts on the headboard.",
-        "answer": "Slender"
+        "question": "What is the primary finish on the wooden surface of this headboard?",
+        "answer": "Natural"
       },
       {
-        "question": "What is the design element along the headboard's horizontal support bar?",
-        "answer": "Flat"
+        "question": "Does the headboard feature any visible metallic accents?",
+        "answer": "No"
       },
       {
-        "question": "What is the overall aesthetic presented by the headboard's design?",
-        "answer": "Classic"
+        "question": "Are there any visible carvings or deeply incised details present?",
+        "answer": "No"
       },
       {
-        "question": "What is the visible joint type where the vertical and horizontal elements meet?",
-        "answer": "Butt"
+        "question": "How would you describe the level of ornamentation visible on the headboard?",
+        "answer": "Minimal"
       }
     ]
   }
