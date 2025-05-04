@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's design?",
+        "question": "What is the dominant color scheme depicted on the phone case's surface?",
         "answer": "Beige"
       },
       {
-        "question": "What material is predominantly simulated in the phone case's design?",
+        "question": "What design pattern is prominently featured across the phone case?",
         "answer": "Stone"
       },
       {
-        "question": "What is the overall shape of the depicted phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Describing the pattern, what geometric shapes are prominently featured?",
-        "answer": "Rectangles"
-      },
-      {
-        "question": "Considering the visual texture, what surface characteristic is mimicked?",
+        "question": "What is the apparent texture of the printed design on the phone case?",
         "answer": "Rough"
       },
       {
-        "question": "What is the apparent finish of the printed design on the phone case?",
+        "question": "What geometric shapes are used to define the stone pattern on the case?",
+        "answer": "Rectangles"
+      },
+      {
+        "question": "What material does the phone case appear to be made of, based solely on the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the phone case itself, disregarding the print.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the small circular cutouts visible on the case's back?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the color variation, how would you describe the shades of beige present?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Based on the image, does the case appear to have a matte or glossy finish?",
         "answer": "Matte"
       },
       {
-        "question": "Focusing on the design, what construction style is visually represented?",
-        "answer": "Masonry"
+        "question": "What is the approximate number of visible stone blocks in the printed design?",
+        "answer": "Seven"
       },
       {
-        "question": "Regarding the camera cutout, what is its geometrical configuration?",
-        "answer": "Square"
+        "question": "How many visible cutouts are present for the phone's camera?",
+        "answer": "Three"
       },
       {
-        "question": "What is the general visual impression created by the color palette?",
-        "answer": "Neutral"
+        "question": "Does the image show any additional features on the phone case besides the print?",
+        "answer": "No"
       },
       {
-        "question": "What is the apparent visual depth suggested by the design\u2019s texture?",
-        "answer": "Three-dimensional"
-      },
-      {
-        "question": "What kind of design elements are used to enhance the stone effect?",
-        "answer": "Lines"
-      },
-      {
-        "question": "What is the design style visually communicated by the printed image?",
+        "question": "What is the general style of the printed design on the phone's back cover?",
         "answer": "Abstract"
       },
       {
-        "question": "Based on the visual elements, what is the overall aesthetic of the phone case?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Observing the print, what is the tone of the color used throughout?",
-        "answer": "Light"
-      },
-      {
-        "question": "Considering the image, what is the apparent level of detail in the print?",
+        "question": "Judging from the visual details, is the print high-resolution or low-resolution?",
         "answer": "High"
+      },
+      {
+        "question": "Describe the edge of the phone case; are they curved or straight?",
+        "answer": "Straight"
       }
     ]
   }

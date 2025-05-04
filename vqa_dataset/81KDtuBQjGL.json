@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/0120107e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted animal on the phone case?",
+        "answer": "Tan"
+      },
+      {
+        "question": "What type of animal is prominently featured on the phone case's design?",
+        "answer": "Lion"
+      },
+      {
+        "question": "Considering the image, what appears to be the phone case's primary material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the phone case image show the lion in a profile view or frontal view?",
+        "answer": "Profile"
+      },
+      {
+        "question": "What is the apparent texture of the lion's mane in the phone case's image?",
+        "answer": "Fluffy"
+      },
+      {
+        "question": "Describe the color of the lion's nose as seen on the phone case.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent design style of the phone case's image?",
+        "answer": "Photorealistic"
+      },
+      {
+        "question": "Observing the phone case image, what is the lion's mane's overall color?",
+        "answer": "LightBrown"
+      },
+      {
+        "question": "Based solely on visual observation, what is the background color of the phone case design?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Judging from the image, what seems to be the phone case's surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the primary focus of the image on the phone case?",
+        "answer": "Head"
+      },
+      {
+        "question": "Considering the image details, is the lion's expression fierce or calm?",
+        "answer": "Calm"
+      },
+      {
+        "question": "What is the orientation of the lion's head in the phone case image?",
+        "answer": "Sideways"
+      },
+      {
+        "question": "Judging from the visual, what is the edge style of the phone case?",
+        "answer": "Straight"
+      }
+    ]
+  }
+]

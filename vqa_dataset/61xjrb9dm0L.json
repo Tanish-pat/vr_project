@@ -9,60 +9,60 @@
         "answer": "White"
       },
       {
-        "question": "What material appears to constitute the chair's seat and backrest?",
+        "question": "What appears to be the primary material of the chair's seat?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall shape of the chair's seat and back?",
+        "question": "Describe the overall shape of the chair's backrest?",
         "answer": "Curved"
-      },
-      {
-        "question": "What is the apparent material of the chair's legs?",
-        "answer": "Wood"
       },
       {
         "question": "What color are the chair's legs?",
         "answer": "Brown"
       },
       {
-        "question": "What is the design style of the chair's leg structure?",
+        "question": "What kind of wood seems to be used for the chair's legs?",
+        "answer": "Walnut"
+      },
+      {
+        "question": "What is the design style of the chair's legs?",
         "answer": "Eiffel"
       },
       {
-        "question": "How many legs does the chair possess?",
+        "question": "How many legs does this chair visually possess?",
         "answer": "Four"
       },
       {
-        "question": "Is the chair's seat padded or unpadded?",
-        "answer": "Unpadded"
-      },
-      {
-        "question": "What is the visual texture of the chair's plastic components?",
+        "question": "What is the apparent texture of the chair's seat?",
         "answer": "Smooth"
       },
       {
-        "question": "Does the chair display any visible upholstery?",
+        "question": "Is the chair's seat visibly padded or upholstered?",
         "answer": "No"
       },
       {
-        "question": "Describe the chair's back support contour in one word.",
-        "answer": "Contoured"
+        "question": "What is the general shape of the chair's seat?",
+        "answer": "Curved"
       },
       {
-        "question": "What is the apparent finish of the chair's wooden legs?",
-        "answer": "Satin"
+        "question": "Does the chair exhibit any visible surface markings or patterns?",
+        "answer": "No"
       },
       {
-        "question": "Considering the chair's legs, what style of joinery is apparent?",
-        "answer": "Dowel"
-      },
-      {
-        "question": "What is the general style of the chair?",
+        "question": "Considering the materials, what is the likely overall chair style?",
         "answer": "Modern"
       },
       {
-        "question": "Does the chair appear to be a stacking chair?",
-        "answer": "No"
+        "question": "Describe the visible connection between the seat and legs.",
+        "answer": "Integrated"
+      },
+      {
+        "question": "What is the apparent overall height of this chair?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Judging by its visual features, is the chair designed for indoor or outdoor use?",
+        "answer": "Indoor"
       }
     ]
   }

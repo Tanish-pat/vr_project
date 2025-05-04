@@ -6,14 +6,10 @@
     "questions": [
       {
         "question": "What is the predominant color of the shoe's upper?",
-        "answer": "Grey"
+        "answer": "Gray"
       },
       {
-        "question": "What color are the prominent geometric overlays on the shoe?",
-        "answer": "Black"
-      },
-      {
-        "question": "Describe the color of the accent details near the heel and tongue.",
+        "question": "What color are the accent stripes and overlays on the shoe?",
         "answer": "Teal"
       },
       {
@@ -21,48 +17,52 @@
         "answer": "Mesh"
       },
       {
-        "question": "What is the overall shape of the shoe's sole unit?",
+        "question": "Describe the overall shape of the shoe's sole unit.",
         "answer": "Curved"
       },
       {
-        "question": "What is the apparent texture of the grey section of the upper?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What type of closure mechanism does the shoe employ?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "What color is the midsole of the sneaker?",
+        "question": "What is the color of the midsole of the sneaker?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent pattern on the shoe's outsole?",
-        "answer": "Textured"
+        "question": "What is the primary closure system used for the shoe?",
+        "answer": "Laces"
       },
       {
-        "question": "Describe the shape of the geometric overlays on the side of the shoe.",
-        "answer": "Triangular"
+        "question": "What color is the primary overlay around the heel counter?",
+        "answer": "Black"
       },
       {
-        "question": "What seems to be the material of the shoe's outsole?",
-        "answer": "Rubber"
+        "question": "What is the apparent texture of the gray mesh upper?",
+        "answer": "Breathable"
       },
       {
-        "question": "Is there any visible branding on the shoe's tongue?",
+        "question": "What design element is prominent on the lateral side of the shoe?",
+        "answer": "Triangle"
+      },
+      {
+        "question": "What is the approximate height of the shoe's heel?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the color of the outsole's rubber sections?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the outsole show a textured pattern for improved grip?",
         "answer": "Yes"
       },
       {
-        "question": "What color is the pull tab at the back of the heel?",
-        "answer": "Teal"
+        "question": "What material appears to be used for the toe cap?",
+        "answer": "Synthetic"
       },
       {
-        "question": "Describe the overall design style of the shoe.",
-        "answer": "Sporty"
+        "question": "Is the tongue of the sneaker padded or relatively thin?",
+        "answer": "Thin"
       },
       {
-        "question": "What is the apparent material of the inner lining of the shoe?",
-        "answer": "Fabric"
+        "question": "What type of branding is visible on the shoe's tongue?",
+        "answer": "Logo"
       }
     ]
   }

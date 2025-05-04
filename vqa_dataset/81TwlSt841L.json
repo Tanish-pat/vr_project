@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f8ba3be8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant design element depicted on the phone case?",
+        "answer": "Flag"
+      },
+      {
+        "question": "What is the apparent texture of the surface design?",
+        "answer": "Grunge"
+      },
+      {
+        "question": "What color is the topmost horizontal band on the phone case?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Describing the central horizontal band, what is its color?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the color of the bottom horizontal band on the case?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the material of the phone case's frame?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the phone case, ignoring the design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the design, how many distinct horizontal bands are present?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the general style or aesthetic of the phone case design?",
+        "answer": "Patriotic"
+      },
+      {
+        "question": "What type of finish does the case's surface appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the design on the case cover its entire back surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the primary image on the back clear or blurry?",
+        "answer": "Blurry"
+      },
+      {
+        "question": "Considering the image, is the case flexible or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the implied design inspiration based on the color scheme?",
+        "answer": "National"
+      },
+      {
+        "question": "What is the overall color palette of the design, excluding the frame?",
+        "answer": "Tricolor"
+      }
+    ]
+  }
+]

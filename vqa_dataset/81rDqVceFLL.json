@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the main shoe body, as seen in the image?",
+        "question": "What is the dominant color of the visible upper portion of the shoe?",
         "answer": "Teal"
       },
       {
-        "question": "What is the color of the laces that are visible, tied in the product image?",
-        "answer": "Navy"
-      },
-      {
-        "question": "What material appears to be used for the majority of the upper shoe construction?",
+        "question": "What material appears to constitute the majority of the shoe's upper?",
         "answer": "Canvas"
       },
       {
-        "question": "Describe the color of the small accent tab visible on the shoe's heel counter.",
-        "answer": "Red"
-      },
-      {
-        "question": "What is the primary color of the shoe's inner lining, visible at the heel opening?",
-        "answer": "LightBlue"
-      },
-      {
-        "question": "What color is the sole of the shoe, which is visible in the image provided?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the overall shape of the shoe's toe box as depicted in the photograph?",
+        "question": "Describe the overall shape of the shoe's toe box area?",
         "answer": "Rounded"
       },
       {
-        "question": "Considering the style, what type of shoe is primarily shown in the product image?",
-        "answer": "Canvas"
-      },
-      {
-        "question": "Describe the style of the shoe's closure system as shown in the image.",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "What is the apparent texture of the main material composing the visible upper part of the shoe?",
-        "answer": "Woven"
-      },
-      {
-        "question": "What is the color of the small fabric panel visible near the shoe's eyelets?",
+        "question": "What color is the material used for the shoe's eyelets and heel panel?",
         "answer": "Navy"
       },
       {
-        "question": "Based on the visible construction, what is the apparent height of the shoe's upper?",
-        "answer": "Low"
+        "question": "What is the primary color of the shoe's sole?",
+        "answer": "White"
       },
       {
-        "question": "Describe the visible pattern of stitching on the main body of the shown shoe.",
-        "answer": "Plain"
+        "question": "What is the apparent texture of the shoe's upper material?",
+        "answer": "Smooth"
       },
       {
-        "question": "Describe the style of the sole based on the image; is it flat or does it have a noticeable heel?",
+        "question": "What type of closure system is employed by the shoe?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What color are the laces visually apparent on the shoe?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Describe the style of the shoe's overall design aesthetic?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the color of the small accent tab present near the heel?",
+        "answer": "Red"
+      },
+      {
+        "question": "What seems to be the material of the shoe's insole, visible at the heel?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the sole's design, what is the shoe's implied profile?",
+        "answer": "Low-top"
+      },
+      {
+        "question": "What is the design of the sole's outer edge in the visualized area?",
         "answer": "Flat"
       },
       {
-        "question": "What seems to be the design feature present at the junction of the upper and sole?",
-        "answer": "Stitched"
+        "question": "Describe the visible stitching present on the shoe's upper portion?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on the shoe's structure, what is its likely intended function?",
+        "answer": "Walking"
       }
     ]
   }

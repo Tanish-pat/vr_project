@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the depicted phone case?",
+        "question": "What is the predominant color of the illustrated cup on the phone case?",
         "answer": "White"
       },
       {
-        "question": "What shape is the miniature cup design on the phone case?",
+        "question": "What is the primary shape of the illustrated item hanging from the phone case?",
         "answer": "Mug"
       },
       {
-        "question": "What is the overall design style of the phone case's image?",
-        "answer": "Cute"
+        "question": "What facial feature is depicted on the illustrated cup?",
+        "answer": "Smile"
       },
       {
-        "question": "What material appears to be used for the phone case's main body?",
+        "question": "What material appears to be the phone case's primary composition?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the predominant color of the smaller drawings on the case?",
-        "answer": "Blue"
+        "question": "What color is the Eiffel Tower-like drawing on the phone case?",
+        "answer": "Pink"
       },
       {
-        "question": "What facial expression does the tiny cup on the case have?",
-        "answer": "Smiling"
-      },
-      {
-        "question": "What is the apparent material of the miniature coffee cup?",
-        "answer": "Ceramic"
-      },
-      {
-        "question": "Describe the texture of the drawing portion on the phone case.",
+        "question": "What is the apparent texture of the phone case's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What type of chain is used to hang the miniature cup?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the dominant shape of the phone case itself?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is depicted on the back of the phone case beside the cup?",
-        "answer": "Drawings"
-      },
-      {
-        "question": "What color is the chain holding the small cup?",
+        "question": "What is the color of the chain hanging from the phone case?",
         "answer": "Silver"
       },
       {
-        "question": "What is the apparent color of the miniature cup's contents?",
-        "answer": "Brown"
+        "question": "What is the overall style of the design on the phone case?",
+        "answer": "Cute"
       },
       {
-        "question": "What is the apparent finish of the phone case's surface?",
-        "answer": "Glossy"
+        "question": "What is the dominant color scheme of the drawings on the phone case?",
+        "answer": "Pastel"
       },
       {
-        "question": "What is the style of the drawings on the phone case?",
-        "answer": "Cartoonish"
+        "question": "Describe the style of the illustrated cup's handle.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What kind of image is prominently displayed on the phone case?",
+        "answer": "Cartoon"
+      },
+      {
+        "question": "What is the apparent finish of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color is the background surrounding the illustrated cup?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the general orientation of the image on the phone case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent function of the depicted item on the case?",
+        "answer": "Decoration"
       }
     ]
   }
