@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's primary surface?",
+        "question": "What is the dominant color of the phone case's main surface?",
         "answer": "Black"
       },
       {
-        "question": "What is the text printed on the back of the phone case?",
+        "question": "What text is prominently displayed on the phone case?",
         "answer": "Daddy's"
       },
       {
-        "question": "Describe the texture visually apparent on the main surface of the case?",
-        "answer": "Sparkly"
+        "question": "What material appears to be used for the phone case's primary body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the phone case's background pattern.",
+        "answer": "Speckled"
       },
       {
         "question": "What color is the accent stripe visible on the phone case's side?",
         "answer": "Red"
       },
       {
-        "question": "What kind of design element is predominantly used on the main surface?",
-        "answer": "Speckled"
-      },
-      {
-        "question": "What is the shape of the phone case?",
+        "question": "What is the overall shape of the depicted phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What material appears to be used for the phone case's construction?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the second phrase printed on the phone case's back?",
-        "answer": "Morning's"
-      },
-      {
-        "question": "What is the style of the text font used on the phone case?",
+        "question": "What is the style of the lettering on the phone case?",
         "answer": "Script"
       },
       {
-        "question": "What word connects the two phrases on the case's back?",
-        "answer": "And"
+        "question": "Besides 'Daddy's', what other word is partially visible in the main text?",
+        "answer": "Girl"
       },
       {
-        "question": "How many sides of the phone case are visible in the image?",
+        "question": "What design element separates the two lines of text on the case?",
+        "answer": "Ellipse"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the secondary color used in the text on the case?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of pattern is visible across the black background?",
+        "answer": "Granular"
+      },
+      {
+        "question": "How many sides of the phone case are shown in the image?",
         "answer": "Three"
       },
       {
-        "question": "What seems to be the overall aesthetic of the phone case design?",
-        "answer": "Girly"
+        "question": "What word follows 'and' in the text on the phone case?",
+        "answer": "Mommy's"
       },
       {
-        "question": "Is there any pattern discernible on the main case surface besides the text?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the general tone of the phrase printed on the back?",
-        "answer": "Affectionate"
-      },
-      {
-        "question": "What's the primary method used to convey the design on the case?",
-        "answer": "Printing"
+        "question": "Considering the design and text, who is the intended recipient?",
+        "answer": "Daughter"
       }
     ]
   }

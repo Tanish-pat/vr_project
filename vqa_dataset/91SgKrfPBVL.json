@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c340ffed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the sofa's upholstery?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of the sofa's cover?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape or silhouette of the sofa from this side view?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the sofa's fabric upholstery?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What color are the visible legs of this sofa?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What kind of material seems to make up the sofa's legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Does the sofa feature any visible accent pillows or bolsters?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How would you describe the style of the sofa's armrests?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What design detail is present on the sofa's cushions?",
+        "answer": "Tufted"
+      },
+      {
+        "question": "What is the general appearance of the sofa's seams or stitching?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the apparent height of the sofa's back relative to its seat?",
+        "answer": "High"
+      },
+      {
+        "question": "Is there any visible pattern on the sofa's upholstery?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general visual impression of the sofa's overall design?",
+        "answer": "Mid-century"
+      },
+      {
+        "question": "Describe the visible construction of the sofa's frame?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the cushions, what is their fill likely to be?",
+        "answer": "Foam"
+      }
+    ]
+  }
+]

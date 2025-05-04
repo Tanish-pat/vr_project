@@ -13,56 +13,56 @@
         "answer": "Strawberry"
       },
       {
-        "question": "What is the shape of the container showcasing the mixed berries?",
-        "answer": "Bowl"
-      },
-      {
-        "question": "What color are the berries exhibiting a dark purplish-blue tone?",
-        "answer": "Blue"
-      },
-      {
-        "question": "What is the most prevalent shape among the visible berries?",
+        "question": "What is the shape of the bowl containing the mixed berries?",
         "answer": "Round"
       },
       {
-        "question": "What is the general texture of the visible berry surfaces?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the color of the berries with a distinctive dark-reddish purple hue?",
+        "question": "What is the color of the berries showing a dark purple hue?",
         "answer": "Black"
       },
       {
-        "question": "What color are the berries with a light red hue and small seeds?",
-        "answer": "Red"
+        "question": "What is the overall texture of the strawberries presented?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the bowl's visual characteristics, what material is it most likely made of?",
-        "answer": "Ceramic"
+        "question": "What is the color of the berries with a characteristic blueish hue?",
+        "answer": "Blue"
       },
       {
-        "question": "What is the overall color scheme of the berries presented together in the bowl?",
-        "answer": "Multicolored"
-      },
-      {
-        "question": "What is the approximate size of the bowl relative to the berries?",
-        "answer": "Medium"
-      },
-      {
-        "question": "What type of berry shows a slightly lighter red compared to the strawberries?",
+        "question": "What type of berry is characterized by its small, round shape and red color?",
         "answer": "Raspberry"
       },
       {
-        "question": "What is the apparent surface finish of the bowl?",
-        "answer": "Glossy"
+        "question": "Considering the image, what is the apparent material of the bowl?",
+        "answer": "Ceramic"
       },
       {
-        "question": "What is the general arrangement of berries within the bowl?",
+        "question": "What is the general shape of the individual blackberries in the mix?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color are the majority of the visible raspberries in the bowl?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the image, what appears to be the size of the bowl relative to the berries?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent texture of the blackberry's surface?",
+        "answer": "Bumpy"
+      },
+      {
+        "question": "What is the general arrangement of the different types of berries within the bowl?",
         "answer": "Mixed"
       },
       {
-        "question": "Describe the visible level of ripeness of the berries in the bowl.",
-        "answer": "Ripe"
+        "question": "What seems to be the overall visual state of the berries in the bowl?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Disregarding shadows, what is the overall brightness of the bowl's color?",
+        "answer": "Bright"
       }
     ]
   }

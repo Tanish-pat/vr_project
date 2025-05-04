@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f4/f42b6fa2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's typeface and overall visual presentation, what is the style of the product labeling?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Based on the clearly visible textual information, what is the primary ingredient of this product?",
+        "answer": "Cucumbers"
+      },
+      {
+        "question": "What descriptive term, found within the ingredients list, suggests the origin of the produce?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Judging by the textual content, what is one additional flavoring agent explicitly listed?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "From the ingredients list, which additive is specified to enhance the product's visual appeal?",
+        "answer": "Turmeric"
+      },
+      {
+        "question": "What is the apparent tone of the text's coloration, judging from its visual characteristics?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the text's visual characteristics, what appears to be the background color?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the dominant visual feature of this particular product image provided?",
+        "answer": "Text"
+      },
+      {
+        "question": "Observing the image carefully, what is the apparent format or style of the text presentation?",
+        "answer": "List"
+      },
+      {
+        "question": "What can be inferred from the explicit mention of 'water' within the ingredient list?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Considering the listed ingredients, what additive contributes to the product's salty taste?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Based on the ingredient list, what type of acid is present in this product?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "What substance is listed in the ingredients as being dehydrated?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What chemical compound is mentioned among the ingredients for this product?",
+        "answer": "Chloride"
+      },
+      {
+        "question": "Observing the text's visual properties, what is the apparent size of the font used?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/31/31df7e15.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted phone case?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary design element featured on the phone case surface?",
+        "answer": "Books"
+      },
+      {
+        "question": "What is the apparent texture of the design printed on the case?",
+        "answer": "Papery"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible design, what is the apparent theme of the phone case?",
+        "answer": "Literary"
+      },
+      {
+        "question": "Describing the pages, what is their visual state (opened or closed)?",
+        "answer": "Opened"
+      },
+      {
+        "question": "What is the apparent condition of the depicted book pages?",
+        "answer": "Aged"
+      },
+      {
+        "question": "What seems to be the primary color of the book pages in the design?",
+        "answer": "Cream"
+      },
+      {
+        "question": "What is the apparent level of detail in the printed book pages?",
+        "answer": "High"
+      },
+      {
+        "question": "What seems to be the print style of the book page design?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "Are there any noticeable markings or patterns aside from the books?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the case show any visible brand logo or text?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is the design printed on the case matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the phone model compatibility suggested by the case shape?",
+        "answer": "iPhone"
+      }
+    ]
+  }
+]

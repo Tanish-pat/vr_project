@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e7/e7b39099.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the cake's frosting?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the rectangular cake?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the decorative sprinkles on the cake?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "What is the color of the border around the cake?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What type of design is present on one corner of the cake?",
+        "answer": "Balloons"
+      },
+      {
+        "question": "What is the apparent texture of the cake's frosting?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the decorative balloons?",
+        "answer": "Round"
+      },
+      {
+        "question": "How many balloons are depicted on the cake?",
+        "answer": "Three"
+      },
+      {
+        "question": "What color is the largest balloon on the cake?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What appears to be the primary flavor of the cake?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "Describe the style of the cake's border design.",
+        "answer": "Piped"
+      },
+      {
+        "question": "What kind of frosting seems to be used on this cake?",
+        "answer": "Buttercream"
+      },
+      {
+        "question": "What is the style of the writing space on the cake?",
+        "answer": "Blank"
+      },
+      {
+        "question": "What is the density of the sprinkles on the cake?",
+        "answer": "Sparse"
+      },
+      {
+        "question": "What type of event does this cake appear appropriate for?",
+        "answer": "Birthday"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color dominating the box's design?",
+        "question": "What is the primary color dominating the packaging's background?",
         "answer": "Red"
       },
       {
-        "question": "What type of baking mix is advertised on the box?",
-        "answer": "All-Purpose"
-      },
-      {
-        "question": "What is the predominant texture of the baked goods depicted?",
-        "answer": "Crumbly"
-      },
-      {
-        "question": "What kind of baked goods are shown as an example?",
+        "question": "What type of baked goods are depicted on the box, suggesting the mix's use?",
         "answer": "Biscuits"
       },
       {
-        "question": "What is the overall shape of the baking mix box?",
-        "answer": "Rectangular"
+        "question": "What is the dominant text indicating the product's function?",
+        "answer": "Baking"
       },
       {
-        "question": "What color is the text of the product name on the box?",
-        "answer": "White"
+        "question": "What specific purpose is indicated by the product's name?",
+        "answer": "All-purpose"
       },
       {
-        "question": "What is prominently stated regarding artificial ingredients?",
-        "answer": "None"
+        "question": "What is the text that describes the absence of artificial additives?",
+        "answer": "No"
       },
       {
-        "question": "What additional ingredient is shown on the biscuits?",
-        "answer": "Jam"
-      },
-      {
-        "question": "What is the background color of the image of biscuits?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the shape of the biscuits shown on the box?",
-        "answer": "Round"
-      },
-      {
-        "question": "What is the overall color of the biscuits?",
-        "answer": "Beige"
-      },
-      {
-        "question": "What brand name is displayed on the box?",
+        "question": "What is the prominent brand name displayed on the packaging?",
         "answer": "365"
       },
       {
-        "question": "What type of image is used to showcase the product?",
-        "answer": "Photo"
+        "question": "What is the shape of the depicted baked goods on the box?",
+        "answer": "Round"
       },
       {
-        "question": "What unit of weight is given for the net weight?",
+        "question": "What kind of spread is visible on one of the biscuits in the image?",
+        "answer": "Jam"
+      },
+      {
+        "question": "What is the apparent color of the baked goods shown on the box?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall texture implied by the image of the baked goods?",
+        "answer": "Crumbly"
+      },
+      {
+        "question": "What unit of weight is mentioned on the product's packaging?",
         "answer": "Ounces"
       },
       {
-        "question": "What is the stated net weight in grams?",
-        "answer": "907g"
+        "question": "What is the color of the text predominantly used on the box?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the box containing the baking mix?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material that the box appears to be made of?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the general tone or style of the packaging design?",
+        "answer": "Clean"
       }
     ]
   }

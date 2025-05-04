@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f08911d7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed in the bottom section of the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the bottom section, what visual texture is suggested?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the overall shape of the colored area at the bottom?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the style of the lettering in the 'Made in the USA' text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What color is the text 'Made in the USA' primarily?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What country of origin is indicated by the text and graphic?",
+        "answer": "USA"
+      },
+      {
+        "question": "What kind of graphic accompanies the 'Made in the USA' statement?",
+        "answer": "Flag"
+      },
+      {
+        "question": "What is the orientation of the American flag graphic?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the number of stripes on the flag graphic?",
+        "answer": "Thirteen"
+      },
+      {
+        "question": "How many stars are depicted in the flag's canton?",
+        "answer": "Fifty"
+      },
+      {
+        "question": "What is the case of the 'Made in the USA' lettering?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Considering the bottom section, is the color uniformly distributed?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the background color of the 'Made in the USA' section?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style of the small text below 'USA'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the image include any other significant graphical elements besides the text and flag?",
+        "answer": "No"
+      }
+    ]
+  }
+]

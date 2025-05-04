@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/816f58c3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme depicted on the phone case?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the primary subject of the image printed on the case?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What specific part of the tree is most prominently featured?",
+        "answer": "Trunk"
+      },
+      {
+        "question": "What appears to be the material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What natural phenomenon is visible behind the tree's branches?",
+        "answer": "Sun"
+      },
+      {
+        "question": "What is the overall visual texture of the tree bark shown?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the general shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Are there visible leaves present on the tree in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color are the leaves on the tree predominantly?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent surface finish of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the tree in the image appear to be old or young?",
+        "answer": "Old"
+      },
+      {
+        "question": "What color are the visible roots of the tree?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the general lighting condition depicted in the picture?",
+        "answer": "Bright"
+      },
+      {
+        "question": "What kind of tree is depicted on the phone case?",
+        "answer": "Large"
+      },
+      {
+        "question": "Is there a significant shadow visible anywhere in the image?",
+        "answer": "No"
+      }
+    ]
+  }
+]

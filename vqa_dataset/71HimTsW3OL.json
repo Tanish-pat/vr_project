@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dc/dc558110.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main backpack compartment?",
+        "answer": "Black"
+      },
+      {
+        "question": "What secondary color accents are present on the backpack?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of the backpack?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "What is the overall shape of the main backpack?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many main zippered compartments are visibly present on the backpack?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the texture of the backpack's visible exterior material.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there a visible brand logo on the backpack?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of straps are used for carrying the backpack?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Does the backpack appear to have any additional external pockets?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size of the folded storage pouch, relative to the backpack?",
+        "answer": "Small"
+      },
+      {
+        "question": "What color is the folded storage pouch for the backpack?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visible shape of the folded storage pouch?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the storage pouch appear to be made of a similar material to the backpack?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What design feature is prominent along the sides of the backpack?",
+        "answer": "Straps"
+      },
+      {
+        "question": "What is the visible method of securing the folded storage pouch?",
+        "answer": "Loop"
+      }
+    ]
+  }
+]

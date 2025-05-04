@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/920fc5ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of this women's footwear?",
+        "answer": "Mule"
+      },
+      {
+        "question": "What is the dominant color displayed across the entirety of the shoe's surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual texture and appearance, what material seems to constitute the shoe's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the silhouette of the heel, noting its height and relative width in the image.",
+        "answer": "Block"
+      },
+      {
+        "question": "Focusing on the toe region, what shape characterizes the pointed extremity of the shoe?",
+        "answer": "Square"
+      },
+      {
+        "question": "Regarding the back of the shoe, what is the noticeable design feature adjacent to the heel?",
+        "answer": "Slit"
+      },
+      {
+        "question": "Analyzing the heel's construction, what material appears to be used for the base of this block heel?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Observe the shoe's overall aesthetic; what style best encapsulates its overall design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Looking closely at the material, what is the surface texture of the shoe's upper, considering light reflection?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the discernible type of closure mechanism, if any, used on this style of footwear?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Examining the sole of the footwear, describe its color based on visible parts of the bottom.",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the construction, what is the structural element providing the primary support of the shoe?",
+        "answer": "Heel"
+      },
+      {
+        "question": "Describe the visible stitching details, if any, on the upper part of the white shoe.",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the height of the heel, what is the general style that this shoe falls under?",
+        "answer": "Mid-heel"
+      },
+      {
+        "question": "In terms of the visible components, what part of the shoe is designed to cover and secure the wearer's foot?",
+        "answer": "Upper"
+      }
+    ]
+  }
+]

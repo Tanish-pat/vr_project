@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd4672e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the container holding the collagen peptides?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant textual information displayed on the container's label?",
+        "answer": "Collagen"
+      },
+      {
+        "question": "What form of collagen is specifically mentioned on the product label?",
+        "answer": "Peptides"
+      },
+      {
+        "question": "Based on the label, what is the flavor profile of this collagen powder?",
+        "answer": "Unflavored"
+      },
+      {
+        "question": "What type of container is the collagen powder packaged in?",
+        "answer": "Jar"
+      },
+      {
+        "question": "What is the shape of the container holding the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describe the overall texture of the visible container surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material that the primary container seems to be made from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the label indicate any specific health benefits associated with the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the net weight of the collagen powder, as shown on the container?",
+        "answer": "12oz"
+      },
+      {
+        "question": "What is the brand name prominently displayed on the product's packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Is there any visible indication of a seal or tamper-evident feature on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the type of labeling style used for product description and nutritional facts.",
+        "answer": "Textual"
+      },
+      {
+        "question": "What is the format of the collagen in this product, as indicated on the label?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What is the general condition of the container shown in the image?",
+        "answer": "New"
+      }
+    ]
+  }
+]

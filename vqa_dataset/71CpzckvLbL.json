@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/0606cab9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the binocular casing, as shown in the image depicting the adjustment steps?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image illustrating the focusing steps, what is the apparent shape of the binoculars?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on the visual representation of the focusing process, what material appears to compose the binocular body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the images showcasing the focusing mechanism, what seems to be the texture of the binocular's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Referring to the image demonstrating the focusing sequence, what is the overall design style of the binoculars?",
+        "answer": "Compact"
+      },
+      {
+        "question": "In the provided images, what features are apparent on the binocular's central focusing wheel?",
+        "answer": "Ridges"
+      },
+      {
+        "question": "From the images demonstrating the adjustment procedure, what type of focusing mechanism is depicted?",
+        "answer": "Dial"
+      },
+      {
+        "question": "As shown in the adjustment steps, how many focusing adjustment dials appear on the binocular unit?",
+        "answer": "Two"
+      },
+      {
+        "question": "In the image sequence, what component facilitates interpupillary distance adjustment?",
+        "answer": "Barrel"
+      },
+      {
+        "question": "According to the image illustrating the adjustment steps, what is the mechanism used for diopter adjustment?",
+        "answer": "Wheel"
+      },
+      {
+        "question": "Observing the product image, how many eyepieces are visually evident on each binocular tube?",
+        "answer": "One"
+      },
+      {
+        "question": "From the detailed focusing images, what is the apparent overall size of the binoculars?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the image sequence, what is the visible finish of the binoculars' exterior surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the provided images, how many steps are shown in the focus adjustment process?",
+        "answer": "Three"
+      },
+      {
+        "question": "Observing the image, what is the approximate length of each binocular tube?",
+        "answer": "Short"
+      }
+    ]
+  }
+]

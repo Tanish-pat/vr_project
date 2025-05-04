@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3beb3e7b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary metal apparent in the earring's construction?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the dominant shape of the earring's main decorative element?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What type of closure mechanism is visibly present on the earring?",
+        "answer": "Hoop"
+      },
+      {
+        "question": "Considering the overall design, what style best describes these earrings?",
+        "answer": "Delicate"
+      },
+      {
+        "question": "What is the most apparent finish on the earring's metal surface?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the general color of the earring's decorative component?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the size relative to the ear, are the earrings large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent texture of the earring's floral component?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, does the earring appear to have any significant embellishments beyond the floral design?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent material of the earring's primary structure?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall visual design style, considering the shape and embellishments.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging by the image, what is the style of the earring's hoop?",
+        "answer": "Simple"
+      },
+      {
+        "question": "How many decorative elements are predominantly visible on each earring?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the type of setting of the central decorative element within the hoop.",
+        "answer": "Hugger"
+      },
+      {
+        "question": "Considering the image, how would you describe the overall visual weight of the earring?",
+        "answer": "Lightweight"
+      }
+    ]
+  }
+]

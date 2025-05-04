@@ -9,60 +9,60 @@
         "answer": "Gray"
       },
       {
-        "question": "What appears to be the texture of the sofa's fabric?",
+        "question": "What fabric appears to be used for the sofa's covering?",
         "answer": "Velvet"
       },
       {
-        "question": "Describe the overall shape of the armrest in the image.",
+        "question": "Describe the overall shape of the armrest's visible portion?",
         "answer": "Curved"
       },
       {
-        "question": "What type of buttons are visibly present on the sofa?",
+        "question": "What kind of buttons are visibly present on the sofa's back?",
         "answer": "Tufted"
       },
       {
-        "question": "What is the apparent material of the sofa's covering?",
-        "answer": "Fabric"
+        "question": "Considering the texture, how would you describe the sofa's surface feel?",
+        "answer": "Soft"
       },
       {
-        "question": "Considering the armrest's form, what style is suggested?",
-        "answer": "Mid-century"
-      },
-      {
-        "question": "How would you characterize the visible stitching details?",
-        "answer": "Subtle"
-      },
-      {
-        "question": "Based on the image, what is the apparent finish of the fabric?",
+        "question": "What is the apparent visual texture of the upholstery?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the visible orientation of the upholstery's nap?",
-        "answer": "Uniform"
+        "question": "Does the visible portion show any prominent seams or stitching?",
+        "answer": "No"
       },
       {
-        "question": "How many visible buttons are present on the back cushion?",
-        "answer": "Three"
-      },
-      {
-        "question": "Describe the shape of the backrest's top edge.",
+        "question": "What shape is suggested by the sofa's visible back cushions?",
         "answer": "Rounded"
       },
       {
-        "question": "Does the image reveal any visible seams or joins in the fabric?",
-        "answer": "Yes"
+        "question": "What is the general style aesthetic of the visible portion?",
+        "answer": "Mid-century"
       },
       {
-        "question": "Judging from the image, is the upholstery plush or stiff?",
+        "question": "What is the apparent depth of the sofa's visible cushions?",
         "answer": "Plush"
       },
       {
-        "question": "What color are the buttons on the back of the sofa?",
-        "answer": "Gray"
+        "question": "Describe the color saturation of the main upholstery hue.",
+        "answer": "Dark"
       },
       {
-        "question": "Does the image show any visible pattern or print on the fabric?",
-        "answer": "No"
+        "question": "What is the implied level of comfort by the cushion's appearance?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visible style of the armrest's design?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "How many visible buttons are present on the back cushion?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What kind of visual pattern, if any, is visible on the upholstery?",
+        "answer": "Solid"
       }
     ]
   }

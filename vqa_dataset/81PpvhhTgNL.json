@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/98e9e3a9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed prominently on the back of this food package, serving as the background for nutritional information?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall packaging structure, what is the primary shape of this consumable product's container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture and material, what is the packaging primarily constructed from, indicating its flexibility and disposability?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary color of the text on the back panel providing details on the product\u2019s ingredients and nutritional content?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of information is largely displayed in a tabular format on the light blue background of the product packaging, organized into columns and rows?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What kind of small symbols or icons are clustered near the bottom left edge of this particular food item's packaging?",
+        "answer": "Allergen"
+      },
+      {
+        "question": "Focusing on the visual elements, what term is prominently displayed, directly above the detailed nutritional breakdown of this consumable product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the package's text, what single word, besides numbers, indicates the serving size of this packaged food product?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What is the apparent state of the seal of the package, considering its appearance of being untouched and fully intact?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Judging from its visual design, what type of product is this item, primarily categorized by its edible nature and typical packaging?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the most prominent method of providing information about the contents of the package, considering the high amount of text and structure?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the general format of the text concerning ingredients and nutritional facts, based on its structure and presentation?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What term directly precedes the word \"Facts\" on the packaging's nutritional information panel, providing a context clue?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the primary method used to convey allergen information, given its placement and visual presentation on the package?",
+        "answer": "Icons"
+      },
+      {
+        "question": "What is the overall style of the package design, considering the layout, font selection, and color scheme?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

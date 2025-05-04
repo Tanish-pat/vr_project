@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible sneaker?",
+        "question": "What is the predominant color of the knitted upper on these sneakers?",
         "answer": "Black"
       },
       {
-        "question": "What material appears to constitute the upper part of the sneaker?",
-        "answer": "Knit"
-      },
-      {
-        "question": "Describe the overall shape of the sneaker's sole unit.",
-        "answer": "Chunky"
-      },
-      {
-        "question": "What color is the midsole section of the sneaker's sole?",
+        "question": "What color is the contrasting midsole section visible on the shoe's outer side?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent texture of the knit fabric upper?",
-        "answer": "Textured"
+        "question": "Describe the texture of the main fabric material used in constructing the shoe's upper?",
+        "answer": "Knitted"
       },
       {
-        "question": "What color are the subtle design accents on the side?",
+        "question": "What is the overall shape of the shoe's sole unit, viewed from the side?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What color are the subtle design accents near the side of the shoe's upper?",
         "answer": "Grey"
       },
       {
-        "question": "What type of closure system is used for the shoe?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "What is the visible shape of the heel counter?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "Describe the appearance of the bottom of the sneaker's sole",
+        "question": "What is the apparent material of the chunky sole section beneath the heel?",
         "answer": "Rubber"
       },
       {
-        "question": "What is the overall style of the visible sneaker?",
-        "answer": "Casual"
+        "question": "Considering the lacing system, what type of closure does this sneaker primarily use?",
+        "answer": "Laceless"
       },
       {
-        "question": "Does the sneaker appear to have any noticeable branding?",
-        "answer": "No"
+        "question": "What is the approximate height of the shoe's heel area, relative to the forefoot?",
+        "answer": "Elevated"
       },
       {
-        "question": "Describe the pattern of the knit fabric on the sneaker's upper.",
-        "answer": "Woven"
+        "question": "What design feature is evident on the shoe's heel, possibly for aesthetic or functional purposes?",
+        "answer": "Pull-tab"
       },
       {
-        "question": "What is the apparent construction of the sneaker's toe area?",
+        "question": "What appears to be the intended purpose of the angular lines incorporated into the design?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "Based on its design elements and structure, what is the most likely intended use of these shoes?",
+        "answer": "Athletic"
+      },
+      {
+        "question": "Considering the structure of the sole, what type of surface is this shoe best suited for?",
+        "answer": "Hard"
+      },
+      {
+        "question": "What is the most apparent characteristic of the overall style and design of these shoes?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Observing the shoe's structure, how would you classify the style of the shoe's upper portion?",
+        "answer": "Low-top"
+      },
+      {
+        "question": "Can you describe the general shape of the shoe's toe box from a visual perspective?",
         "answer": "Rounded"
-      },
-      {
-        "question": "What is the visible height of the sneaker's sole?",
-        "answer": "High"
-      },
-      {
-        "question": "How many visible eyelets are present on the sneaker?",
-        "answer": "Five"
       }
     ]
   }

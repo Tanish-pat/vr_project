@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a9c53f7f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the storage bed's exterior?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent material of the bed's main body?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visible slatted structure, what is the bed's type?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the primary function suggested by the raised platform?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What seems to be the material composing the bed's frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on its visible structure, what is the bed's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the visible wood grain, what is its texture appearance?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering its lift, what mechanism is apparent for storage access?",
+        "answer": "Hinge"
+      },
+      {
+        "question": "What design element is visible on the bed's internal frame?",
+        "answer": "Slats"
+      },
+      {
+        "question": "From the image, what is the overall style of the bed?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What kind of finish is visible on the surface of the bed?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible color of the metal support structure?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering its function, what type of furniture is depicted?",
+        "answer": "Bed"
+      },
+      {
+        "question": "What is the apparent depth of the visible storage compartment?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Judging from the visual, what is the state of the storage bed?",
+        "answer": "Open"
+      }
+    ]
+  }
+]

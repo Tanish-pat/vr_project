@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8c/8ca2b548.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted mango slices?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent texture of the freeze-dried mango slices?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the overall shape of the bag containing the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant material of the product packaging?",
+        "answer": "Foil"
+      },
+      {
+        "question": "What is the primary method of food preservation used, as shown on the package?",
+        "answer": "Freeze-dried"
+      },
+      {
+        "question": "What is the type of fruit depicted on the product's packaging?",
+        "answer": "Mango"
+      },
+      {
+        "question": "What is the form of the mango pieces inside the package, according to the image?",
+        "answer": "Slices"
+      },
+      {
+        "question": "What color is the prominent text indicating the product name?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the brand name showcased on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What kind of graphic design element is used to surround the brand logo?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What nutritional highlight is explicitly mentioned on the packaging?",
+        "answer": "VitaminC"
+      },
+      {
+        "question": "What is the overall color scheme of the packaging design, excluding the product image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the individual mango slices in the image?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the orientation of the product packaging in the provided image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Besides the product image, what other graphic design element is centrally located?",
+        "answer": "Text"
+      }
+    ]
+  }
+]
