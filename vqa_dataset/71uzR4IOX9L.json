@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the light fixture's main body?",
+        "question": "What is the overall shape of the main fixture supporting the lights?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the dominant color of the spherical shades?",
-        "answer": "Off-white"
+        "question": "What is the predominant color of the spherical shades?",
+        "answer": "White"
       },
       {
-        "question": "What appears to be the material of the spherical shades?",
+        "question": "What appears to be the material of the spherical light shades?",
         "answer": "Glass"
       },
       {
-        "question": "Describe the finish of the fixture's metal components.",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the primary color of the fixture's metal parts?",
+        "question": "What is the finish of the metal components of the light fixture?",
         "answer": "Black"
       },
       {
-        "question": "How many spherical light shades are there in total?",
-        "answer": "Five"
-      },
-      {
-        "question": "What is the apparent material of the main fixture bar?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Describe the texture of the spherical shades?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the shape of each individual light shade?",
+        "question": "Describe the shape of the individual pendant light shades?",
         "answer": "Spherical"
       },
       {
-        "question": "What style of light fixture is depicted?",
-        "answer": "Pendant"
+        "question": "How many individual pendant lights are there in total?",
+        "answer": "Five"
       },
       {
-        "question": "What type of suspension system is used for each shade?",
-        "answer": "Cords"
+        "question": "What seems to be the material of the main fixture bar?",
+        "answer": "Metal"
       },
       {
-        "question": "Describe the visual connection between shades and the bar.",
-        "answer": "Attached"
+        "question": "What is the apparent texture of the spherical glass shades?",
+        "answer": "Smooth"
       },
       {
-        "question": "Are the spherical shades uniformly sized and shaped?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Considering the visual elements, what is the overall design style?",
+        "question": "Considering the light fixture's design, what style would best describe it?",
         "answer": "Modern"
       },
       {
-        "question": "Does the fixture seem suitable for indoor or outdoor use?",
-        "answer": "Indoor"
+        "question": "What is the color of the cords suspending the lights?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the light fixture's overall visual aesthetic impression",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What seems to be the overall style of the light fixture?",
+        "answer": "Contemporary"
+      },
+      {
+        "question": "Are there any visible markings or details on the spherical shades?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent method of attaching the lights to the fixture?",
+        "answer": "Hanging"
+      },
+      {
+        "question": "What kind of light bulbs would best compliment the fixture visually?",
+        "answer": "Warm"
       }
     ]
   }

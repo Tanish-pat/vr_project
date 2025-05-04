@@ -9,60 +9,60 @@
         "answer": "Green"
       },
       {
-        "question": "What geometric pattern is prominently featured on the phone case?",
+        "question": "What geometric pattern is prominently displayed across the phone case?",
         "answer": "Stripes"
       },
       {
-        "question": "Describe the overall texture implied by the layered design of the phone case?",
+        "question": "Describe the apparent texture depicted in the layered design of the case.",
         "answer": "Layered"
       },
       {
-        "question": "What color is the visible border surrounding the phone case design?",
-        "answer": "Blue"
+        "question": "What material does the case appear to be made of, judging by its appearance?",
+        "answer": "Plastic"
       },
       {
-        "question": "What material appears to be visually simulated in the phone case's graphic?",
-        "answer": "Paper"
-      },
-      {
-        "question": "What is the general shape of the depicted mobile phone protective case?",
+        "question": "Considering the image, what is the overall shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the design, what is the implied visual depth of the layered graphic?",
-        "answer": "Three-dimensional"
+        "question": "What color are the accents visible at the top and bottom edges of the case?",
+        "answer": "Blue"
       },
       {
-        "question": "What is the approximate number of distinct color bands displayed in the pattern?",
-        "answer": "Four"
+        "question": "Based on visual observation, how many distinct shades of green are shown?",
+        "answer": "Multiple"
       },
       {
-        "question": "Focusing on the bottom layer, what is the secondary color shade present?",
+        "question": "Does the design include a secondary color besides the various greens?",
         "answer": "Brown"
       },
       {
-        "question": "What kind of visual effect is created by the overlapping striped elements?",
+        "question": "What is the visual impression created by the varying shades of green?",
         "answer": "Depth"
       },
       {
-        "question": "Based on the image, what seems to be the primary function of this product?",
-        "answer": "Protection"
+        "question": "What type of printing technique seems to be used on the phone case?",
+        "answer": "Graphic"
       },
       {
-        "question": "What is the suggested print technique used for the design on the case?",
-        "answer": "Digital"
+        "question": "Considering the case's form, would you describe its profile as thick or thin?",
+        "answer": "Thin"
       },
       {
-        "question": "Disregarding the pattern, what is the apparent finish of the phone case?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the style of the design visible on the phone case's surface?",
+        "question": "How would you describe the style of the visual design on this phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "Does the visual design suggest a glossy or non-glossy surface texture?",
+        "question": "Are there any visible brand logos or markings on the phone case itself?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by its appearance, does the case appear matte or glossy?",
         "answer": "Matte"
+      },
+      {
+        "question": "Does the image suggest any added features besides the visual design?",
+        "answer": "None"
       }
     ]
   }

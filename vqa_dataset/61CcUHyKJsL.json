@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9aff6c0a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the can's label design, prominently featured near the top?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What food item is depicted on the label, suggesting the can's contents?",
+        "answer": "Beans"
+      },
+      {
+        "question": "What is the overall shape of the product container as observed in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material is the primary container constructed from, based on its visual appearance?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the general color palette of the illustrated field scene on the can's label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of seal or label is visually present, indicating specific manufacturing attributes?",
+        "answer": "Non-BPA"
+      },
+      {
+        "question": "What is the text style employed for the prominent product name on the label?",
+        "answer": "Italic"
+      },
+      {
+        "question": "What kind of graphic element is used on the label to represent natural product origin?",
+        "answer": "Trees"
+      },
+      {
+        "question": "Describe the overall texture of the can's surface, considering the visible reflective properties?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the beans primarily depicted on the label near the bottom?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible label components, what language is primarily used for the text?",
+        "answer": "English"
+      },
+      {
+        "question": "What type of printing technique is apparent on the can's surface based on visual details?",
+        "answer": "Offset"
+      },
+      {
+        "question": "What is the prominent product classification visible, describing the contents' form?",
+        "answer": "Beans"
+      },
+      {
+        "question": "What is the overall visual impression of the labeling's design style, in terms of its aesthetic?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Based on the visual presentation, what is the overall tone or feeling of the label design?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

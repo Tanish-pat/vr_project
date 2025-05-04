@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the puppy depicted on the phone case?",
+        "question": "What is the dominant color of the puppy depicted on the phone case?",
         "answer": "White"
+      },
+      {
+        "question": "What is the primary material visibly composing the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What breed of dog is featured in the phone case's design?",
+        "answer": "Maltese"
       },
       {
         "question": "What is the overall shape of the protective phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What material appears to constitute the phone case's primary structure?",
-        "answer": "Plastic"
+        "question": "Considering the image, what is the general texture of the case's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "What breed of canine is prominently featured in the phone case's design?",
-        "answer": "Maltese"
-      },
-      {
-        "question": "Describing the texture, is the phone case glossy or matte?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What is the apparent color of the phone case's bumper?",
-        "answer": "Transparent"
-      },
-      {
-        "question": "Considering the background, what color is the grass where the puppy sits?",
-        "answer": "Green"
-      },
-      {
-        "question": "What is the primary graphical element displayed on the inner side of the case?",
-        "answer": "Puppy"
-      },
-      {
-        "question": "What type of image is printed on the back of the phone case?",
-        "answer": "Photograph"
-      },
-      {
-        "question": "What is the apparent texture of the puppy's fur in the printed image?",
-        "answer": "Fluffy"
-      },
-      {
-        "question": "Based on visual cues, what seems to be the style of the phone case's design?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What is the general color palette of the design on the inner phone case?",
+        "question": "What color is the background of the phone's screen within the case?",
         "answer": "Yellow"
       },
       {
-        "question": "Considering the image provided, is the phone case thin or thick?",
-        "answer": "Thin"
+        "question": "Describe the overall visual style of the phone case's design?",
+        "answer": "Cute"
       },
       {
-        "question": "What design element is visible on the sample phone's display?",
-        "answer": "Geometric"
+        "question": "What is the visual appearance of the edges of the phone case?",
+        "answer": "Clear"
       },
       {
-        "question": "What is the apparent surface finish of the phone case's outer layer?",
-        "answer": "Smooth"
+        "question": "What is the visible background color behind the puppy?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the predominant color of the graphic elements on the inner case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the puppy image, what is its visible posture?",
+        "answer": "Sitting"
+      },
+      {
+        "question": "What is the depicted phone's geometric shape within the case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what seems to be the print quality of the puppy image?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the case's apparent level of flexibility judging by its shape?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging from the image, what is the style of the puppy's fur?",
+        "answer": "Fluffy"
       }
     ]
   }

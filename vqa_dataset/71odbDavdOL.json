@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4e7b8e8e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the insole shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What material appears to be used in the construction of this insole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the overall shape of the insole depicted in the provided image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Considering the image, what is the primary function of the numbered markings on the insole?",
+        "answer": "Sizing"
+      },
+      {
+        "question": "Based on the visual details, does the insole possess a textured surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image suggest the insole is designed for trimming to fit different shoe sizes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of tool is shown being used in relation to the insole in the picture?",
+        "answer": "Scissors"
+      },
+      {
+        "question": "Judging from the image, what is the general condition of the insole shown?",
+        "answer": "New"
+      },
+      {
+        "question": "What does the visible text on the insole indicate regarding its use?",
+        "answer": "Fitting"
+      },
+      {
+        "question": "Judging by the visual evidence, is the insole flexible or rigid in appearance?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Describe the pattern of the lines visible on the insole's surface.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent thickness of the insole shown in the provided image?",
+        "answer": "Thick"
+      },
+      {
+        "question": "According to the image, what is the suggested size range for this insole?",
+        "answer": "6-10"
+      },
+      {
+        "question": "What is the color of the scissors shown next to the insole?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image, what type of product is the object depicted?",
+        "answer": "Insole"
+      }
+    ]
+  }
+]

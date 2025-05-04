@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case, as visibly shown in the image?",
+        "question": "What is the dominant color of the phone case, as visually apparent in the provided image?",
         "answer": "Black"
       },
       {
-        "question": "Considering the image, what appears to be the primary material of the phone case?",
+        "question": "What appears to be the primary material used in the construction of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what design pattern is prominently featured on the phone case's surface?",
         "answer": "Carbon"
       },
       {
-        "question": "Based on the visual details, what kind of texture is predominantly visible on the phone case surface?",
-        "answer": "Fibrous"
-      },
-      {
-        "question": "Judging from the image, what is the overall shape of the phone case design?",
+        "question": "Based solely on the visual depiction, what is the general shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What design element is visually apparent around the camera cutouts on the case?",
-        "answer": "Grey"
+        "question": "Does the phone case's finish appear matte or glossy, judging from the image?",
+        "answer": "Matte"
       },
       {
-        "question": "From the image, what seems to be the style of the phone case's exterior finish?",
-        "answer": "Brushed"
+        "question": "Observing the image closely, what type of texture is suggested by the case's surface?",
+        "answer": "Striated"
       },
       {
-        "question": "What type of phone model does the image suggest the case fits?",
-        "answer": "Honor"
+        "question": "From the image, are there visible cutouts or openings present in the phone case design?",
+        "answer": "Yes"
       },
       {
-        "question": "According to the image, is the case design minimalistic or ornate?",
-        "answer": "Minimalist"
+        "question": "Judging by the image, does the phone case seem to offer any protective properties?",
+        "answer": "Yes"
       },
       {
-        "question": "Does the phone case image show any significant embellishments or logos?",
+        "question": "Does the image display any branding or logos on the phone case itself?",
         "answer": "No"
       },
       {
-        "question": "Based on the visual presentation, what level of protection does the case seemingly offer?",
-        "answer": "Moderate"
+        "question": "What is the apparent thickness of the phone case's protective layer, as observed in the picture?",
+        "answer": "Thin"
       },
       {
-        "question": "In the provided image, does the case appear to be rigid or flexible?",
-        "answer": "Rigid"
+        "question": "As shown in the image, how many cameras does the phone's rear appear to accommodate?",
+        "answer": "Two"
       },
       {
-        "question": "Observing the image, how many visible cutouts are apparent in the phone case?",
-        "answer": "Three"
+        "question": "Based on the image, is the phone case design symmetric or asymmetric?",
+        "answer": "Symmetric"
       },
       {
-        "question": "From the visual details, what can be said about the overall thickness of the phone case?",
-        "answer": "Slim"
+        "question": "What color are the accent elements visible on the edges of the phone case?",
+        "answer": "Gray"
       },
       {
-        "question": "In the image, what is the apparent condition of the phone case, new or used?",
-        "answer": "New"
+        "question": "Does the image suggest the case's material is flexible or rigid?",
+        "answer": "Flexible"
       },
       {
-        "question": "Based solely on visual cues, what seems to be the primary function of this phone case?",
-        "answer": "Protection"
+        "question": "Judging from the image, is the phone case's fit described as snug or loose fitting?",
+        "answer": "Snug"
       }
     ]
   }

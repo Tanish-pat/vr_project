@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/35/35e96e55.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented nutritional information panel, considering its borders and orientation?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the background of the main nutritional facts section, excluding any text or borders?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the dominant color of the text used for the headings, such as 'Nutrition Facts', and the column titles?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of font is predominantly used throughout the nutritional information panel, considering its style and weight?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Describe the texture of the background based on its visual appearance, considering smoothness or graininess.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most prominent method of visual separation used between different sections or columns within the panel?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the general layout design of the table, which is either vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the overall arrangement and formatting, what is the primary means of organizing the nutritional data?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the visual style of the percentage values shown in the '% Daily Value' column in terms of boldness or emphasis?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary color of the small text at the bottom, providing additional details and notes?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the visual style of the 'Nutrition Facts' heading, considering its size and formatting.",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the overall readability, what is the contrast level between the text and the background of the panel?",
+        "answer": "High"
+      },
+      {
+        "question": "How many distinct columns are visible within the main nutritional information table of the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating the different rows and columns in the table, describing their style (e.g., solid, dashed)",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the visual weight of the text, such as 'Calories', 'Total Fat', or 'Sodium', relative to the numerical values?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

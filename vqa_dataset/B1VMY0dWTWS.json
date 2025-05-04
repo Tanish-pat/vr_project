@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/60/60b84d94.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sofa's upholstery?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What appears to be the primary material of the sofa's cushions?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape and style of the sofa?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many distinct seating sections does this sofa visually possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent texture of the sofa's upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the sofa have visible armrests?  Describe them.",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of base or skirt is visible at the sofa's bottom?",
+        "answer": "Box"
+      },
+      {
+        "question": "Are there any noticeable decorative seams or stitching on the cushions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the overall design, what style best describes the sofa?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Based on its appearance, what is the likely function of this furniture?",
+        "answer": "Seating"
+      },
+      {
+        "question": "Observe the cushions closely.  Are they firm or loose-looking?",
+        "answer": "Firm"
+      },
+      {
+        "question": "What is the visible height of the sofa's backrests?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the sofa appear to have any visible legs or feet?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any patterned details visible on the sofa's fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visual effect is created by the sofa's skirt?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

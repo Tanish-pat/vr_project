@@ -10,59 +10,59 @@
       },
       {
         "question": "What appears to be the primary material of the sofa's covering?",
-        "answer": "Linen"
+        "answer": "Fabric"
       },
       {
-        "question": "Describe the overall shape and form of the sofa's silhouette?",
+        "question": "Describe the overall shape or silhouette of the sofa from this angle?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the visible texture of the sofa's fabric?",
+        "question": "Considering the armrests, what design style would best describe this piece?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent texture of the sofa's upholstery, based on visual cues?",
         "answer": "Smooth"
       },
       {
-        "question": "How many visible cushions are present on the sofa's back?",
+        "question": "Judging by the image, how many cushions are visible on the sofa's back?",
         "answer": "Two"
       },
       {
-        "question": "What is the apparent style of the sofa's armrests?",
-        "answer": "Straight"
+        "question": "What is the apparent height of the sofa's armrests relative to the seat?",
+        "answer": "Low"
       },
       {
-        "question": "What is the visible height of the sofa's armrests relative to the back?",
-        "answer": "Similar"
+        "question": "Does the sofa appear to have visible seams or stitching in its construction?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the apparent leg design and material of the sofa?",
-        "answer": "Square"
+        "question": "Describe the visual appearance of the legs supporting the sofa.",
+        "answer": "Blocky"
       },
       {
-        "question": "What is the degree of visible tufting or stitching on the upholstery?",
-        "answer": "Minimal"
-      },
-      {
-        "question": "What is the general level of visible seam detailing on the sofa?",
-        "answer": "Subtle"
-      },
-      {
-        "question": "What is the apparent softness or firmness of the sofa cushions?",
-        "answer": "Plump"
-      },
-      {
-        "question": "Describe the color of the sofa's legs or base?",
+        "question": "What appears to be the color of the legs supporting the sofa?",
         "answer": "Dark"
       },
       {
-        "question": "What kind of visible decorative elements are found on the sofa?",
-        "answer": "None"
+        "question": "Based on the image, what is the overall style of the sofa's design?",
+        "answer": "Minimalist"
       },
       {
-        "question": "Considering the side profile, how deep does the sofa appear?",
+        "question": "Describe the apparent depth of the sofa's seat cushions.",
         "answer": "Deep"
       },
       {
-        "question": "What is the apparent overall aesthetic of the sofa\u2019s design?",
-        "answer": "Modern"
+        "question": "Does the sofa exhibit any noticeable patterns or designs on its upholstery?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visible support structure does the sofa seem to have?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "What would you describe as the general visual weight of this sofa?",
+        "answer": "Heavy"
       }
     ]
   }
