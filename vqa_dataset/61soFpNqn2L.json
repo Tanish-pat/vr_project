@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2e/2e944759.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric panels?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material of the supporting frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall shape or form of the complete structure?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the fabric panels?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible joins, how many panels are present?",
+        "answer": "Two"
+      },
+      {
+        "question": "What color is the visible metal framework?",
+        "answer": "Black"
+      },
+      {
+        "question": "What seems to be the method of connection between the frame and fabric?",
+        "answer": "Clamps"
+      },
+      {
+        "question": "Judging by the image, is the fabric opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the general visual impression of the product's design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the supports, is the structure freestanding or wall-mounted?",
+        "answer": "Freestanding"
+      },
+      {
+        "question": "What is the apparent finish of the metal frame components?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric show any noticeable pattern or print?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the profile of the metal frame members (round, square, etc.)",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual impression regarding the fabric's drape or hang?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many vertical support bars are visible in each panel's frame?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

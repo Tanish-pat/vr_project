@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the crackers depicted on the box?",
+        "question": "What is the dominant color of the crackers depicted on the packaging?",
         "answer": "Brown"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of food product is showcased on this packaging?",
-        "answer": "Crackers"
+        "question": "What text indicates the primary flavor profile of these crackers?",
+        "answer": "Honey"
       },
       {
-        "question": "What specific type of cracker is advertised on the box?",
-        "answer": "Graham"
-      },
-      {
-        "question": "What is the apparent texture of the crackers shown in the image?",
+        "question": "What is the apparent texture of the crackers, based on visual cues?",
         "answer": "Crispy"
       },
       {
-        "question": "What adjective describes the crackers, as indicated on the packaging?",
-        "answer": "Honey"
+        "question": "What secondary flavor is mentioned alongside honey on the box?",
+        "answer": "Graham"
       },
       {
-        "question": "What certification mark is displayed on the lower right of the box?",
-        "answer": "USDA"
-      },
-      {
-        "question": "What is the brand name prominently featured on the box?",
-        "answer": "365"
-      },
-      {
-        "question": "What additional descriptor modifies the word \"crackers\"?",
-        "answer": "Organic"
-      },
-      {
-        "question": "What is shown next to the crackers on the packaging for illustrative purposes?",
-        "answer": "Honey"
-      },
-      {
-        "question": "What is the apparent material of the crackers, judging by their appearance?",
-        "answer": "Wheat"
-      },
-      {
-        "question": "What is the background color of the main product label on the packaging?",
+        "question": "What is the overall color scheme of the product packaging?",
         "answer": "Green"
       },
       {
-        "question": "What is the shape of the honey container shown on the packaging?",
-        "answer": "Round"
+        "question": "What certification logo is prominently displayed on the box?",
+        "answer": "USDA"
       },
       {
-        "question": "What is the overall design style of the product packaging?",
+        "question": "What word describes the food product within the packaging?",
+        "answer": "Crackers"
+      },
+      {
+        "question": "What brand name is visible on the product packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What visual element suggests the presence of honey?",
+        "answer": "Honeycomb"
+      },
+      {
+        "question": "What is the depicted material used for the base of the cracker arrangement?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the style of the lettering for the product name on the box?",
+        "answer": "Serif"
+      },
+      {
+        "question": "What design element is found in the background of the packaging?",
+        "answer": "Illustrations"
+      },
+      {
+        "question": "What is the apparent condition of the crackers shown, fresh or stale?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the general design aesthetic of the packaging?",
         "answer": "Rustic"
-      },
-      {
-        "question": "What is the net weight of the crackers, as printed on the box?",
-        "answer": "14.4"
       }
     ]
   }

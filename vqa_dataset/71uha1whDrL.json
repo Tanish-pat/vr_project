@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/03fbd53b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the handbag shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this handbag?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometrical description of this bag's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its visible features, what is the apparent style of this handbag?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Describe the texture of the outer surface of this handbag, as visible in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What metallic color is observed on the visible hardware components of the bag?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Focusing on the bag's closure, what type of mechanism is visually apparent?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Considering the image, does the bag feature any noticeable external pockets or compartments?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the bag's exterior, such as matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the provided image show any noticeable branding or logos on the bag?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the general size of the handbag \u2013 is it small, medium, or large?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, describe the visible stitching on the handbag\u2014is it prominent or subtle?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Based on its appearance, is the bag structured or does it appear to be soft and unstructured?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Considering the image, how many visible straps or handles are present on this handbag?",
+        "answer": "One"
+      },
+      {
+        "question": "Judging by the image, what is the overall visual impression of the handbag?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -9,60 +9,60 @@
         "answer": "Blue"
       },
       {
-        "question": "What appears to be the material of the mop head?",
+        "question": "What appears to be the primary material of the mop head?",
         "answer": "Cotton"
       },
       {
-        "question": "What color is the plastic handle section near the mop head?",
+        "question": "What color is the plastic portion of the mop handle's head?",
         "answer": "Yellow"
       },
       {
-        "question": "Describe the overall shape of the mop head's attachment to the handle.",
+        "question": "What is the overall shape of the mop head's frame?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent material of the main handle shaft?",
+        "question": "What material seems to constitute the mop's handle shaft?",
         "answer": "Metal"
       },
       {
-        "question": "What is the general texture of the mop head fibers?",
+        "question": "Describe the texture of the mop head's fibers, appearing somewhat frayed?",
         "answer": "Frayed"
       },
       {
-        "question": "What is the primary function suggested by the mop's appearance?",
-        "answer": "Cleaning"
-      },
-      {
-        "question": "Considering the handle, what is the mop's overall length?",
-        "answer": "Long"
-      },
-      {
-        "question": "Describe the visible connection between the head and the handle.",
-        "answer": "Clamped"
-      },
-      {
-        "question": "What is the color of the metal part of the handle?",
+        "question": "What color is the metal part of the mop's handle?",
         "answer": "Silver"
       },
       {
-        "question": "What kind of fibers appear to make up the mop head?",
-        "answer": "Stringy"
+        "question": "Considering the mop's design, what is its apparent function?",
+        "answer": "Cleaning"
       },
       {
-        "question": "What is the apparent thickness of the mop head?",
-        "answer": "Thick"
+        "question": "What is the general shape of the mop head's fibers' overall form?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What shape does the plastic head connector take?",
-        "answer": "Bridged"
+        "question": "Judging by the image, what is the primary use of this item?",
+        "answer": "Mopping"
       },
       {
-        "question": "What is the density of the mop head's fibers?",
-        "answer": "Dense"
+        "question": "What kind of material seems to be used for the mop head's frame?",
+        "answer": "Plastic"
       },
       {
-        "question": "Considering the design, what is the mop's intended use?",
-        "answer": "Floor"
+        "question": "What is the visible connection between the head and the handle?",
+        "answer": "Clamp"
+      },
+      {
+        "question": "Considering the fibers, what is the mop head's implied absorbency?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent overall length of the visible part of the mop handle?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the texture of the metal handle shaft of the mop?",
+        "answer": "Smooth"
       }
     ]
   }

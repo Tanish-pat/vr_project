@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual appearance, what is the dominant color of these leather shoes?",
-        "answer": "Tan"
-      },
-      {
-        "question": "Observing the material and its sheen, what seems to be the primary material used in constructing these formal shoes?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Focusing on the shoe's silhouette, what specific style of shoe is depicted in the product image?",
-        "answer": "Oxford"
-      },
-      {
-        "question": "Examining the lacing system closely, what type of closure mechanism do these dress shoes employ?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "Based on the visual texture apparent in the image, what is the surface texture of the shoes' upper leather?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Analyzing the sole's appearance, what material seems to be used for the outsole of these tan leather shoes?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Looking at the heel, what can be said about the height of the heel of these men's shoes?",
-        "answer": "Low"
-      },
-      {
-        "question": "Focusing on the design of the shoe's toe, what is the shape of the toe cap on these formal shoes?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "Observing the stitching details, what is the overall quality of stitching visible on the leather parts of the shoes?",
-        "answer": "Neat"
-      },
-      {
-        "question": "Judging from the image, what is the overall condition of the shoes, assuming they are new?",
-        "answer": "New"
-      },
-      {
-        "question": "Considering the footwear's design elements, what is the overall style of these leather shoes?",
+        "question": "Considering the overall design, what is the predominant style of these shoes?",
         "answer": "Formal"
       },
       {
-        "question": "Based on the visual presence of seams, how many visible seams are there at the forefront of the shoes?",
-        "answer": "One"
+        "question": "What color best describes the leather of these formal shoes?",
+        "answer": "Tan"
       },
       {
-        "question": "Looking at the image, describe the shoes' overall construction and sturdiness.",
-        "answer": "Sturdy"
+        "question": "Based on the visible texture, what material appears to constitute the upper part of these shoes?",
+        "answer": "Leather"
       },
       {
-        "question": "Considering the image, what is the most prominent feature in the visible design elements of this footwear?",
-        "answer": "Laces"
+        "question": "Observing the lacing system, what type of closure mechanism is employed on these formal shoes?",
+        "answer": "Lace-up"
       },
       {
-        "question": "Examining the color consistency, are there any noticeable color variations across the surface of the shoes?",
-        "answer": "None"
+        "question": "What is the shape of the toe box visible in these formal leather shoes?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Examining the sole, what is the main color of the outsole of these tan leather shoes?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of heel design is evident on these formal, tan-colored lace-up shoes?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the overall look, how would you describe the surface finish of the leather in these shoes?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Looking at the construction, what appears to be the primary material of the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Observing the eyelets, what material appears to be used for the lacing hardware?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the style, are these shoes designed for casual or formal occasions?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Focusing on the stitching, what can you tell about the visible stitching on the shoes?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Based on the overall appearance, what is the implied level of formality of these shoes?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the shoe's shape, how would you describe the overall silhouette of these shoes?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Based on the visible details, what is the construction of the shoe's vamp (upper section)?",
+        "answer": "One-piece"
       }
     ]
   }

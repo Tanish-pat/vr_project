@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c16cb283.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the backpack's exterior?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the backpack?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "What color are the interior lining and organizational compartments?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering its size and features, what is the likely purpose of this bag?",
+        "answer": "Travel"
+      },
+      {
+        "question": "Describe the overall shape or form factor of the displayed backpack?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Are there any visible compression straps or buckles on the exterior?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, how many main compartments does the bag seem to possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on visible features, what type of closure does the main compartment have?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "What is the apparent texture of the backpack's outer fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the material of the smaller internal pockets?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Are there any noticeable brand logos or labels visible on the bag?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from its organization, is this bag designed for structured packing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of internal structure helps keep items separated and organized?",
+        "answer": "Pockets"
+      },
+      {
+        "question": "Do the internal compartments seem to vary in size and functionality?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What item is visible inside one of the side compartments?",
+        "answer": "Umbrella"
+      }
+    ]
+  }
+]

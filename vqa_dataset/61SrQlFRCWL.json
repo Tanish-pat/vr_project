@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual presentation, what best describes the primary color scheme employed in the product's packaging?",
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the product packaging?",
         "answer": "Black"
       },
       {
-        "question": "Focusing on the text elements, what is the most prominent and repeatedly used font style or weight?",
-        "answer": "Bold"
+        "question": "Examining the text details, what specific type of nut is prominently featured in the product ingredients?",
+        "answer": "Almond"
       },
       {
-        "question": "Regarding the textual content, what is the most frequently mentioned ingredient or component?",
-        "answer": "Almonds"
+        "question": "Based on the discernible font styles, what is the overall aesthetic impression conveyed by the text layout?",
+        "answer": "Simple"
       },
       {
-        "question": "Analyze the provided imagery \u2013 what is the dominant type of visual element displayed on the package?",
-        "answer": "Text"
-      },
-      {
-        "question": "Based on the visual structure, what is the most visually prominent organizational feature of the textual information?",
-        "answer": "Columns"
-      },
-      {
-        "question": "Considering the graphic design, what standardized identification system is visible on the package?",
+        "question": "Analyzing the visual structure, what type of information is presented in the rectangular blocks near the bottom?",
         "answer": "Barcode"
       },
       {
-        "question": "Examining the text's visual layout, what type of information is prominently featured at the bottom of the packaging?",
-        "answer": "Legal"
+        "question": "Given the visible text elements, what is the name of the company distributing the product?",
+        "answer": "Wholefoods"
       },
       {
-        "question": "Given the visual characteristics, what is the overall shape or form of the item as depicted on the package?",
+        "question": "From the textual elements, what country is the product processed and packed in?",
+        "answer": "Canada"
+      },
+      {
+        "question": "Observing the provided text, what additional ingredient might potentially be present as a possible contaminant?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Judging from the text, what other nut is included as an ingredient, besides almonds?",
+        "answer": "Peanut"
+      },
+      {
+        "question": "Focusing on the text elements, what specific type of flavor is highlighted as a key characteristic of the almonds?",
+        "answer": "Dill"
+      },
+      {
+        "question": "Based on the text's formatting, what is the legal section dedicated to addressing potential allergen concerns called?",
+        "answer": "Caution"
+      },
+      {
+        "question": "By observing the text, which type of grain is listed among the multiple ingredients?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Referring to the text blocks at the top, what is the name of the product?",
+        "answer": "Dill"
+      },
+      {
+        "question": "Looking at the text, which part of the plant is used in a flavored ingredient?",
+        "answer": "Hulls"
+      },
+      {
+        "question": "Observing the text, which other grain is used besides wheat?",
+        "answer": "Quinoa"
+      },
+      {
+        "question": "Analyzing the image, what is the overall shape of the presented information?",
         "answer": "Rectangular"
-      },
-      {
-        "question": "From a visual perspective, what single descriptive word best characterizes the text's visual density?",
-        "answer": "Dense"
-      },
-      {
-        "question": "Analyzing the text blocks visually, what type of information is prominently featured towards the top of the packaging?",
-        "answer": "Ingredients"
-      },
-      {
-        "question": "Considering the visual presentation, what specific type of information is provided to consumers regarding the product's origin?",
-        "answer": "Country"
-      },
-      {
-        "question": "From a visual perspective, what is the size and format of the text used on this product?",
-        "answer": "Small"
-      },
-      {
-        "question": "By reviewing the image, what specific visual element separates the ingredient list from other warnings?",
-        "answer": "Line"
-      },
-      {
-        "question": "Considering the information displayed, what single word best encapsulates the overall visual tone?",
-        "answer": "Informative"
-      },
-      {
-        "question": "What is the primary color of the barcode on the product packaging?",
-        "answer": "Black"
       }
     ]
   }

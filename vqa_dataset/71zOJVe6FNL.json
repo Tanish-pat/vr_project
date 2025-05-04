@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the bread slices in this chicken salad sandwich?",
-        "answer": "Beige"
+        "question": "What is the dominant color of the visible filling in the sandwich?",
+        "answer": "Yellow"
       },
       {
-        "question": "What type of lettuce is visibly layered within the sandwich?",
-        "answer": "Green"
+        "question": "What type of bread appears to be used for the sandwich?",
+        "answer": "White"
       },
       {
-        "question": "What appears to be the primary protein filling in this sandwich?",
-        "answer": "Chicken"
+        "question": "What leafy green is used as a visible component of the sandwich?",
+        "answer": "Lettuce"
       },
       {
-        "question": "What other ingredient, besides chicken, is prominently featured in the filling?",
-        "answer": "Avocado"
+        "question": "What is the apparent texture of the bread slices?",
+        "answer": "Crumbly"
       },
       {
-        "question": "Describe the apparent texture of the bread used for this sandwich?",
-        "answer": "Porous"
-      },
-      {
-        "question": "What is the overall shape of the presented chicken salad sandwich?",
+        "question": "What is the overall shape of the presented sandwich?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of surface is the sandwich resting upon in the image?",
+        "question": "What kind of surface is the sandwich presented upon?",
         "answer": "Wooden"
       },
       {
-        "question": "What is the apparent color of the avocado pieces in the sandwich?",
+        "question": "Describe the visible structural integrity of the sandwich.",
+        "answer": "Intact"
+      },
+      {
+        "question": "What appears to be a key ingredient visible within the filling?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What is the apparent lightness or darkness of the bread's crust?",
         "answer": "Light"
       },
       {
-        "question": "How many visible chicken salad sandwiches are present in the image?",
-        "answer": "Two"
-      },
-      {
-        "question": "What appears to be the general condition of the lettuce leaves?",
+        "question": "Is the lettuce visibly fresh or wilted?",
         "answer": "Fresh"
       },
       {
-        "question": "Does the bread seem to have any visible seeds or grains?",
-        "answer": "Yes"
+        "question": "How many visible layers does the sandwich have?",
+        "answer": "Three"
       },
       {
-        "question": "What seems to be the approximate thickness of the sandwich?",
-        "answer": "Thick"
+        "question": "What is the visible consistency of the sandwich filling?",
+        "answer": "Creamy"
       },
       {
-        "question": "Describe the visible cut of the bread slices in this food item?",
-        "answer": "Even"
+        "question": "Describe the visible cut of the sandwich.",
+        "answer": "Clean"
       },
       {
-        "question": "What is the general style of this sandwich presentation?",
-        "answer": "Casual"
+        "question": "What is the visible condition of the lettuce leaves?",
+        "answer": "Crisp"
       },
       {
-        "question": "Does the sandwich filling appear to be homogenous or chunky?",
-        "answer": "Chunky"
+        "question": "What is the apparent overall size of the sandwich shown?",
+        "answer": "Medium"
       }
     ]
   }

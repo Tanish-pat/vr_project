@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant visual characteristic of the depicted item?",
+        "question": "Considering the overall visual state, what single word best describes the screen's condition?",
         "answer": "Shattered"
       },
       {
-        "question": "What appears to be the material of the primary surface shown?",
-        "answer": "Glass"
-      },
-      {
-        "question": "Considering the overall shape, what geometric form best describes the object?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What color is the visible frame surrounding the damaged area?",
+        "question": "What is the dominant color of the visible phone frame surrounding the cracked screen?",
         "answer": "Black"
       },
       {
-        "question": "Describe the pattern of the damage across the item's surface.",
-        "answer": "Cracked"
+        "question": "Based on the appearance of the fractured surface, what material is primarily indicated for the screen?",
+        "answer": "Glass"
       },
       {
-        "question": "What is the apparent condition of the main displayed element?",
+        "question": "Considering the fragmentation pattern, what is the predominant form of the cracks in the phone's screen?",
+        "answer": "Weblike"
+      },
+      {
+        "question": "What is the shape of the visible device which displays a shattered screen?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What single word describes the texture of the broken parts of the phone screen, considering the image?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What single-word description best reflects the apparent visual integrity of the phone screen?",
         "answer": "Broken"
       },
       {
-        "question": "What kind of damage is prominently displayed on the product?",
-        "answer": "Fractured"
+        "question": "Disregarding the damage, what is the general shape of the object depicted in the image?",
+        "answer": "Oblong"
       },
       {
-        "question": "What seems to be the intended function of the depicted product?",
-        "answer": "Protection"
+        "question": "Focusing only on what is visually apparent, what is the primary visual element of the image?",
+        "answer": "Cracks"
       },
       {
-        "question": "Based on the visible damage, what is the product's state?",
-        "answer": "Damaged"
+        "question": "What type of damage is primarily depicted on the visible surface of the object in the picture?",
+        "answer": "Fractures"
       },
       {
-        "question": "What is the general texture of the visible surface area?",
-        "answer": "Smooth"
+        "question": "Ignoring the damage, what is the overall form factor of the presented item?",
+        "answer": "Slab"
       },
       {
-        "question": "What is the overall visual impression of the object in its current state?",
-        "answer": "Damaged"
-      },
-      {
-        "question": "What is suggested by the numerous fissures across the surface?",
-        "answer": "Impact"
-      },
-      {
-        "question": "Describe the appearance of the fragmented sections of the main element.",
-        "answer": "Sharp"
-      },
-      {
-        "question": "What descriptive term best captures the condition of the product's face?",
-        "answer": "Devastated"
-      },
-      {
-        "question": "What is the primary visible color of the damaged surface area?",
+        "question": "What is the primary color of the fragmented parts of the screen in the image?",
         "answer": "Dark"
+      },
+      {
+        "question": "In terms of its visible structural components, what term describes the screen's status?",
+        "answer": "Damaged"
+      },
+      {
+        "question": "Based solely on visual evidence, what single word best encapsulates the screen\u2019s functionality?",
+        "answer": "Dysfunctional"
+      },
+      {
+        "question": "Considering the presented visual data, what single word best summarizes the screen's appearance?",
+        "answer": "Broken"
       }
     ]
   }

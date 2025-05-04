@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the main surface area of the presented item?",
+        "question": "What is the predominant color of the main surface of this product?",
         "answer": "Beige"
       },
       {
-        "question": "What appears to be the primary material used in the construction of the pictured object?",
+        "question": "What appears to be the material composing the main body of the item shown?",
         "answer": "Cardboard"
       },
       {
-        "question": "Considering the edges, what can be inferred about the overall form or shape of the shown product?",
+        "question": "Considering the edges, what is the apparent thickness of this rectangular item?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Describing its form, what geometrical shape best characterizes this object?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the color of the thin border encircling the main body of the displayed item.",
-        "answer": "Grey"
-      },
-      {
-        "question": "What is the apparent texture of the main surface of the object, judging from the image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What kind of fasteners or clips are visible along the perimeter of the product?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Based on the visible components, what is the likely function of the small, dark-colored pieces?",
-        "answer": "Fasteners"
-      },
-      {
-        "question": "What is the apparent thickness of the grey border relative to the main beige section?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Judging by the image, how many visible fasteners are present on the displayed item?",
-        "answer": "Four"
-      },
-      {
-        "question": "What is the apparent overall condition of the displayed item, based on the image provided?",
-        "answer": "New"
-      },
-      {
-        "question": "Considering the material and construction, what is the most likely use for this object?",
-        "answer": "Mounting"
-      },
-      {
-        "question": "Describe the color of the visible fasteners securing the edges of the object.",
+        "question": "What color are the small, seemingly metallic, fasteners at the corners?",
         "answer": "Black"
       },
       {
-        "question": "What is the apparent number of layers visible in the cross-section shown in the image?",
-        "answer": "Two"
+        "question": "What seems to be the material of the thin border surrounding the main surface?",
+        "answer": "Grey"
       },
       {
-        "question": "Based on the image, what could this item potentially be used for, considering its material?",
-        "answer": "Backing"
+        "question": "What is the texture of the main surface, based on its visual appearance?",
+        "answer": "Smooth"
       },
       {
-        "question": "Describe the shape of the individual fasteners seen on the object's outer edge.",
-        "answer": "Curved"
+        "question": "Judging by the image, how many corner fasteners are visible on this item?",
+        "answer": "Four"
+      },
+      {
+        "question": "Based on its appearance, what is the likely function of the small corner pieces?",
+        "answer": "Fasteners"
+      },
+      {
+        "question": "What is the overall visual impression of the surface's finish: matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, what kind of product might this be part of, for example?",
+        "answer": "Picture"
+      },
+      {
+        "question": "Looking at the item's edges, is the layer underneath the main surface uniform?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What would you say the overall condition of the item seems to be?",
+        "answer": "New"
+      },
+      {
+        "question": "From the visual evidence, does the material seem flexible or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Focusing on the main panel, what is the visual appearance of its surface texture?",
+        "answer": "Untextured"
       }
     ]
   }

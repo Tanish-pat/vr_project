@@ -1,0 +1,65 @@
+[
+  {
+    "path": "images/small/0d/0d5056ff.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the product label, indicating its main component?",
+        "answer": "Turmeric"
+      },
+      {
+        "question": "Considering the textual information provided, which type of nut is mentioned as potentially processed in the same facility?",
+        "answer": "Tree"
+      },
+      {
+        "question": "Based on the label, what other dairy product is mentioned in relation to the product's manufacturing?",
+        "answer": "Milk"
+      },
+      {
+        "question": "According to the label, what grain is potentially processed alongside the product, indicating a shared production facility?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume is mentioned in the text as possibly having been processed in the same place as this item?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the text on the label primarily used to communicate, concerning the product's contents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the overall case of the text on the label, considering the font style?",
+        "answer": "Upper"
+      },
+      {
+        "question": "In terms of formatting, how are the individual words and components on the label presented to the consumer?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "What is the font type used for labeling the components and information of the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the style of the text, as seen on the label regarding the ingredients?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the provided image, what is the overall color scheme or base color of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Describing the general appearance, what is the label's layout or structure?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of surface does the label appear to have, based on the visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the tone of the presented information, concerning the ingredients?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

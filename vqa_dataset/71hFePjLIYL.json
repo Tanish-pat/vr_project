@@ -9,60 +9,60 @@
         "answer": "Pink"
       },
       {
-        "question": "What type of insects are prominently featured in the phone case's artwork?",
+        "question": "What is the primary design motif featured prominently on the phone case?",
         "answer": "Butterflies"
       },
       {
-        "question": "Describe the visual style of the butterflies on the phone case, considering their appearance?",
-        "answer": "Glowing"
-      },
-      {
-        "question": "What is the overall shape of the illustrated phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What color is the small, horizontal element at the bottom of the case?",
-        "answer": "Black"
-      },
-      {
-        "question": "What appears to be the material of the phone case, based on its visual appearance?",
+        "question": "What appears to be the material of the phone case's outer shell?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the background color of the phone case design, on which the butterflies are displayed?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the butterflies' appearance, what seems to be their texture?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the primary color of the larger butterfly depicted in the phone case's artwork?",
+        "question": "What color are the butterflies depicted on the phone case's back?",
         "answer": "Pink"
       },
       {
-        "question": "What is the secondary color of the smaller butterfly depicted in the phone case artwork?",
-        "answer": "Blue"
+        "question": "What is the color of the background against which the butterflies are shown?",
+        "answer": "Black"
       },
       {
-        "question": "What is the style of the design incorporating butterflies on the phone case?",
-        "answer": "Abstract"
+        "question": "Describe the visual style of the butterfly design; is it realistic or stylized?",
+        "answer": "Stylized"
       },
       {
-        "question": "What kind of additional feature does the phone case seem to have at the bottom?",
+        "question": "What color is the accent stripe visible at the phone case's bottom edge?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall shape of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the texture of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What additional functional element is shown on the phone case?",
         "answer": "Stand"
       },
       {
-        "question": "Considering the image, what seems to be the finish of the phone case's surface?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What is the level of detail shown in the butterflies' illustration on the phone case?",
+        "question": "Considering the visual details, what is the apparent level of detail in the design?",
         "answer": "High"
       },
       {
-        "question": "Based solely on visual inspection, what's the apparent transparency of the phone case?",
-        "answer": "Clear"
+        "question": "What is the apparent finish of the depicted phone case?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the color palette, what overall mood or feeling does the design convey?",
+        "answer": "Dreamy"
+      },
+      {
+        "question": "What small design element is visible around the butterflies?",
+        "answer": "Sparkle"
+      },
+      {
+        "question": "What is the number of butterflies visibly shown on the phone case?",
+        "answer": "Two"
       }
     ]
   }

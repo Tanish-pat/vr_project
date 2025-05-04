@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b6720d49.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the binder clip's main body?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What metallic material constitutes the clip's clamping mechanism?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall shape of the binder clip's clamping component?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the clip's surface, what is its apparent finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material of the surface held by the binder clip?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describe the overall shape of the primary clamping section of the clip?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent texture of the binder clip's metallic parts?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the visual effect of the light reflecting off the clip?",
+        "answer": "Glare"
+      },
+      {
+        "question": "How would you describe the angle of the binder clip on the paper?",
+        "answer": "Oblique"
+      },
+      {
+        "question": "Based on its appearance, what is the clip's apparent function?",
+        "answer": "Fastening"
+      },
+      {
+        "question": "What is the apparent number of clamping arms on the binder clip?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the color of the paper held by the binder clip?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the general shape of the paper being clipped?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent thickness of the paper being held?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the size of the clip relative to the paper, what is its apparent size?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the light fixture's outer frame?",
-        "answer": "Square"
-      },
-      {
-        "question": "What dominant color is the metal frame of this ceiling light?",
+        "question": "What is the primary color of the outer metal frame surrounding the glass panels?",
         "answer": "Bronze"
       },
       {
-        "question": "Describe the material primarily used for the light fixture's visible panels?",
+        "question": "What is the shape of the overall fixture, considering its visible dimensions?",
+        "answer": "Square"
+      },
+      {
+        "question": "What material appears to constitute the primary structural frame of the light?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the apparent material of the panels visible within the metal frame?",
         "answer": "Glass"
       },
       {
-        "question": "What style best describes the design of this indoor lighting fixture?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Considering the visible components, how many light bulbs does it accommodate?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the apparent finish of the metal framework surrounding the glass panels?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Based on the image, what type of bulb is depicted in the fixture?",
+        "question": "Considering the visible light bulbs, what is their general style or type?",
         "answer": "Edison"
       },
       {
-        "question": "What is the apparent texture of the outer metal frame of the light?",
+        "question": "What is the overall aesthetic style of the light fixture, considering its lines and materials?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Based on the image, how many visible light bulb sockets are present in the fixture?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the texture of the outer metal frame, as visible in the provided image.",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the image, what is the mounting style of this light fixture?",
-        "answer": "Flush"
+        "question": "What is the apparent finish of the metal framing around the glass panels?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the visible orientation of the inner glass panel relative to the outer frame?",
-        "answer": "Recessed"
-      },
-      {
-        "question": "How would you describe the visible light emitted from the bulbs shown?",
-        "answer": "Warm"
-      },
-      {
-        "question": "What is the apparent thickness of the metal frame surrounding the fixture?",
-        "answer": "Thick"
-      },
-      {
-        "question": "Describe the overall transparency of the inner and outer glass panes.",
+        "question": "Considering the glass panels, what is the general transparency level?",
         "answer": "Clear"
       },
       {
-        "question": "What is the visible color of the light emitting from the bulb filaments?",
-        "answer": "Amber"
+        "question": "Describe the visible internal structure supporting the light bulbs within the fixture.",
+        "answer": "Simple"
       },
       {
-        "question": "What design feature is prominently seen on the outer edge of the fixture?",
-        "answer": "Frame"
+        "question": "What is the color of the visible light emitted from the light bulb filaments?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Considering the overall design, what type of interior space would this light be suitable for?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the visible configuration of the light sockets, relative to each other?",
+        "answer": "Parallel"
+      },
+      {
+        "question": "Considering the materials and style, what is the overall impression of the fixture's weight?",
+        "answer": "Heavy"
       }
     ]
   }

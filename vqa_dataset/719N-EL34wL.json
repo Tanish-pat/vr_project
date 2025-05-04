@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's background?",
+        "question": "What is the predominant color of the phone case's background?",
         "answer": "White"
-      },
-      {
-        "question": "What is the primary material implied by the appearance of the tiles?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What is the color of the lettering on the scrabble tiles?",
-        "answer": "Black"
       },
       {
         "question": "What is the overall shape of the depicted phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What three words are spelled out on the phone case?",
-        "answer": "Magic"
+        "question": "What material do the letter tiles appear to be made from?",
+        "answer": "Wood"
       },
       {
-        "question": "What word is vertically stacked above \"Girl\" on the case?",
+        "question": "What color is the text displayed on the letter tiles?",
         "answer": "Black"
       },
       {
-        "question": "What is the color of the visible side accents on the phone case?",
+        "question": "What is the overall texture of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the side accents on the phone case?",
         "answer": "Orange"
       },
       {
-        "question": "Describe the texture suggested by the image of the scrabble tiles?",
-        "answer": "Rough"
-      },
-      {
-        "question": "What is the design style of the phone case's lettering?",
-        "answer": "Scrabble"
-      },
-      {
-        "question": "What is the apparent finish of the phone case's surface?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the style of text used on the scrabble tiles?",
-        "answer": "Uppercase"
-      },
-      {
-        "question": "What is the word positioned below \"Girl\" on the phone case?",
+        "question": "Considering the design, what is the primary message conveyed?",
         "answer": "Magic"
       },
       {
-        "question": "How many tiles make up the message on the phone case?",
-        "answer": "Nine"
+        "question": "Describe the arrangement of the letter tiles on the case.",
+        "answer": "Vertical"
       },
       {
-        "question": "Considering the image, what is the case primarily designed to protect?",
-        "answer": "Phone"
+        "question": "How many words are formed by the letter tiles on the phone case?",
+        "answer": "Three"
       },
       {
-        "question": "What is the general color family of the scrabble tiles?",
-        "answer": "Beige"
+        "question": "What kind of design is featured on the back of the phone case?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the style of lettering used in the design on the case?",
+        "answer": "Block"
+      },
+      {
+        "question": "What seems to be the main function of this object?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the primary material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the visual presentation of the words on the case.",
+        "answer": "Tiles"
+      },
+      {
+        "question": "Besides the main text, are there any other noticeable markings?",
+        "answer": "None"
       }
     ]
   }

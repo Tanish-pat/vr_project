@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/38735e09.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual characteristic of the phone case's material?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Considering its form, what geometric shape best describes the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the edges, what is the overall appearance of the phone case's profile?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent texture of the phone case's surface, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color best describes the phone case's primary hue?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the visual clarity, what is the apparent thickness of the phone case?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What design element is visible at the top of the case, accommodating the phone's features?",
+        "answer": "Notch"
+      },
+      {
+        "question": "Judging by its shape and form, what is the primary function of this item?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What type of finish is observed across the external surfaces of this case?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Regarding the material, what seems to be the visual level of flexibility?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Can you describe the overall visual style of this phone case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the visible color of the phone screen depicted within the case?",
+        "answer": "Gradient"
+      },
+      {
+        "question": "What feature of the phone is clearly shown through the case's opening?",
+        "answer": "Camera"
+      },
+      {
+        "question": "Describe the apparent rigidity of the material, given its shape?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Considering the edges, is the design of the case generally sharp or rounded?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]

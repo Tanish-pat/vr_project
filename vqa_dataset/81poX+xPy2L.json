@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case, as depicted in the image?",
+        "question": "What is the dominant color scheme observed across the phone case's surface?",
         "answer": "Brown"
       },
       {
-        "question": "What material is predominantly simulated on the surface of this phone case?",
+        "question": "What material is predominantly mimicked in the design of this phone case?",
         "answer": "Wood"
       },
       {
-        "question": "Considering the visual design, what is the primary pattern across the phone case's surface?",
-        "answer": "Stripes"
+        "question": "Considering the visual texture, what kind of surface does the phone case appear to have?",
+        "answer": "Plank"
       },
       {
-        "question": "Based on the image, what appears to be the overall shape of the illustrated phone case?",
+        "question": "What is the overall shape of the protective case designed for the phone?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the texture implied by the printed design on the phone case's surface.",
-        "answer": "Grained"
-      },
-      {
-        "question": "What is the apparent finish of the simulated wood grain on the phone's protective case?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Looking at the image provided, what color are the visible accents on the phone case?",
-        "answer": "Gray"
-      },
-      {
-        "question": "Considering the image, what kind of design is primarily featured on the back of this phone cover?",
-        "answer": "Wooden"
-      },
-      {
-        "question": "Judging from its visual appearance, what is the implied purpose of the object depicted?",
-        "answer": "Protection"
-      },
-      {
-        "question": "What is the apparent orientation of the wood grain pattern on the phone case?",
+        "question": "Describe the arrangement of the simulated wooden planks on the phone case.",
         "answer": "Vertical"
       },
       {
-        "question": "Does the phone case image show any noticeable logos or branding details?",
-        "answer": "No"
+        "question": "What seems to be the primary function of this product, based on its visual features?",
+        "answer": "Protection"
       },
       {
-        "question": "From the image, is there any visible texturing aside from the primary wood grain design?",
-        "answer": "None"
+        "question": "Can you describe the visual style of the wooden print on the case?",
+        "answer": "Striped"
       },
       {
-        "question": "What seems to be the overall visual style of the phone case design shown in the picture?",
-        "answer": "Minimalist"
+        "question": "What color are the visible metallic accents at the top and bottom of the phone case?",
+        "answer": "Grey"
       },
       {
-        "question": "In the provided image, what is the general condition of the depicted phone case?",
-        "answer": "New"
+        "question": "What is the visual representation of the phone's camera lens visible through the case?",
+        "answer": "Circular"
       },
       {
-        "question": "Judging from the image, what seems to be the manufacturing method of the phone case?",
-        "answer": "Printed"
+        "question": "What design element is replicated to create a wooden surface impression?",
+        "answer": "Grain"
+      },
+      {
+        "question": "Considering the image, what seems to be the finish of the simulated wood?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How many distinct horizontal sections are visibly present in the wooden design?",
+        "answer": "Seven"
+      },
+      {
+        "question": "What seems to be the implied material of the trim around the phone's camera?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What kind of detailing is visible on the lower part of the phone case, near the bottom?",
+        "answer": "Dots"
+      },
+      {
+        "question": "What is the general visual impression given by the color tones in the design?",
+        "answer": "Warm"
       }
     ]
   }

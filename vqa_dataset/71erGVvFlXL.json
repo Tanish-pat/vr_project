@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/6473b2f4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the upper part of the shoe?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the majority of the shoe's upper?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "What color are the laces and heel accents of this athletic shoe?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Describe the overall shape of the sole of this athletic shoe?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the texture of the primary material used in the shoe's upper?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What kind of closure mechanism does this athletic shoe employ?",
+        "answer": "Laces"
+      },
+      {
+        "question": "What color is the toe cap material on this sneaker?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the material of the heel counter of this athletic shoe?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the design pattern on the upper part of this running shoe?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What is the overall style of this footwear item, considering its design features?",
+        "answer": "Sporty"
+      },
+      {
+        "question": "Describe the type of sole visible on the displayed athletic shoe.",
+        "answer": "Flat"
+      },
+      {
+        "question": "What seems to be the primary function of the given footwear item?",
+        "answer": "Running"
+      },
+      {
+        "question": "Is there any branding visible on this sneaker's side?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible color of the stitching details on this sneaker?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the approximate height of the shoe's midsole, from the ground?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

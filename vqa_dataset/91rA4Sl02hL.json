@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the upper shoe material?",
+        "question": "What is the predominant color of the visible shoe upper?",
         "answer": "Navy"
       },
       {
-        "question": "What appears to be the primary material of the shoe's upper?",
-        "answer": "Fabric"
+        "question": "What material appears to constitute the majority of the shoe's upper?",
+        "answer": "Textile"
       },
       {
-        "question": "Describe the overall design style of these shoes?",
-        "answer": "Casual"
+        "question": "Describe the overall shape of the shoe's sole, viewed from the bottom?",
+        "answer": "Flat"
       },
       {
-        "question": "What type of closure system is visible on the shoe?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "Considering the outsole, what is its textural appearance?",
+        "question": "What is the apparent texture of the shoe's outsole, from a bottom view?",
         "answer": "Treaded"
       },
       {
-        "question": "What color are the laces of the shoe, as observed?",
+        "question": "Considering the lacing system, what type of shoe is depicted?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What color are the laces of the shoe, visible from the top?",
         "answer": "Navy"
       },
       {
-        "question": "Based on the image, what is the shape of the shoe's toe?",
-        "answer": "Rounded"
+        "question": "What is the apparent design of the insole visible through the shoe opening?",
+        "answer": "Textured"
       },
       {
-        "question": "What color is the visible portion of the insole?",
+        "question": "What is the overall style of the shoe, based on its shape and features?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What color is the small accent visible near the tongue of the shoe?",
         "answer": "Blue"
       },
       {
-        "question": "Observing the sole, what pattern does it exhibit?",
-        "answer": "Linear"
-      },
-      {
-        "question": "What is the apparent material of the shoe's sole?",
+        "question": "Describing the visible part of the sole, what is its apparent material?",
         "answer": "Rubber"
       },
       {
-        "question": "Describe the overall construction of the shoe's upper?",
-        "answer": "Seamless"
+        "question": "From the top view, what is the shape of the shoe's toe cap area?",
+        "answer": "Rounded"
       },
       {
-        "question": "What is the visible branding on the shoes?",
-        "answer": "Minimal"
+        "question": "Based on its construction, what is the suggested use of this footwear?",
+        "answer": "Everyday"
       },
       {
-        "question": "What is the texture of the shoe's upper material?",
-        "answer": "Smooth"
+        "question": "What is the visible pattern on the outsole of the shoe?",
+        "answer": "Lines"
       },
       {
-        "question": "Considering the shoe's design, would you categorize its profile as?",
-        "answer": "Low"
+        "question": "What seems to be the overall condition of this pair of shoes in the image?",
+        "answer": "New"
       },
       {
-        "question": "What type of stitching is visible on the upper of the shoe?",
+        "question": "Describe the appearance of the stitching visible on the shoe's upper part.",
         "answer": "Minimal"
       }
     ]

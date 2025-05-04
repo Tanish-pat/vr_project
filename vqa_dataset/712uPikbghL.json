@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/dafd8dde.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall packaging design, what is the predominant color scheme used to visually communicate the product's nature?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the text on the package, what language appears most prominently to indicate the intended market?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the visual details, what specific type of rice is predominantly featured in this product blend?",
+        "answer": "Long"
+      },
+      {
+        "question": "Judging by the appearance of the package, what is the primary method of sealing the package once opened for freshness preservation?",
+        "answer": "Tab"
+      },
+      {
+        "question": "Based on the image analysis, what is the implied shape of the package in terms of its overall dimensions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible packaging, what is the material used to create the outer layer of the food packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "From the textual details presented, what is the stated suitability of this rice blend for a certain dietary restriction?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "Based on the image, what secondary kind of rice is included in this mixture, alongside the main ingredient?",
+        "answer": "Wild"
+      },
+      {
+        "question": "Based on the visual assessment, what kind of grain does this product predominantly consist of?",
+        "answer": "Rice"
+      },
+      {
+        "question": "By visually analyzing the packaging, what kind of processing method is emphasized for the main component of the rice blend?",
+        "answer": "Parboiled"
+      },
+      {
+        "question": "What is the primary method of communication for the essential product information on the packaging in the supplied image?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the visual texture of the rice depicted on the packaging, given the image's resolution?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Based on the overall packaging design, what is the general aesthetic appeal of the product packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the overall appearance of the package, what is the overall visual impression regarding the product's origin or branding?",
+        "answer": "Generic"
+      },
+      {
+        "question": "From the visible information, what is the stated condition for optimum storage of the product to maintain its quality?",
+        "answer": "Cool"
+      }
+    ]
+  }
+]

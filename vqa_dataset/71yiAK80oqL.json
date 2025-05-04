@@ -9,60 +9,60 @@
         "answer": "Beige"
       },
       {
-        "question": "What appears to be the primary material of the sofa's cushions?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Describe the overall shape of the sofa's backrest?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What kind of decorative elements are visible along the sofa's seams?",
-        "answer": "Studs"
-      },
-      {
-        "question": "What color are the decorative studs on the sofa?",
-        "answer": "Dark"
-      },
-      {
-        "question": "What is the apparent texture of the sofa's upholstery?",
+        "question": "What is the apparent texture of the sofa's fabric?",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the shape of the sofa's armrests?",
+        "question": "What shape are the armrests of the sofa?",
         "answer": "Rectangular"
       },
       {
-        "question": "What color are the sofa's legs?",
-        "answer": "Dark"
+        "question": "Describe the primary visible design element along the sofa's edges?",
+        "answer": "Tufting"
       },
       {
-        "question": "What material appear to be the sofa's legs made of?",
+        "question": "What material appears to be used for the sofa's legs?",
         "answer": "Wood"
       },
       {
-        "question": "How many distinct seating sections does the sofa possess?",
+        "question": "How many distinct seating cushions are visible on the sofa?",
         "answer": "Two"
+      },
+      {
+        "question": "What is the overall shape of the sofa's back?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What color are the decorative nail-head trim along the sofa edges?",
+        "answer": "Dark"
       },
       {
         "question": "What is the general style of the sofa's design?",
         "answer": "Modern"
       },
       {
-        "question": "Is the sofa's back cushion noticeably plush or firm?",
-        "answer": "Firm"
-      },
-      {
-        "question": "What seems to be the construction of the sofa's frame?",
+        "question": "Describe the visible pattern on the sofa's upholstery?",
         "answer": "Solid"
       },
       {
-        "question": "Does the sofa show any visible seams besides the decorative ones?",
+        "question": "What is the approximate number of decorative nails visible?",
+        "answer": "Many"
+      },
+      {
+        "question": "What is the apparent construction material of the sofa's frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Does the sofa appear to have a tailored or loose seat cushion?",
+        "answer": "Tailored"
+      },
+      {
+        "question": "Is the height of the sofa's armrests consistent across its width?",
         "answer": "Yes"
       },
       {
-        "question": "What is the general appearance of the sofa's upholstery?",
-        "answer": "Plain"
+        "question": "What is the style of the sofa's legs?",
+        "answer": "Block"
       }
     ]
   }

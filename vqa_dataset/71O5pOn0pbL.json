@@ -6,63 +6,63 @@
     "questions": [
       {
         "question": "What is the predominant color of the shoe's upper?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What secondary color is prominently featured on the shoe?",
         "answer": "Red"
       },
       {
-        "question": "What is the secondary color prominently featured on the shoe?",
-        "answer": "Blue"
+        "question": "What material appears to constitute most of the shoe's upper?",
+        "answer": "Synthetic"
       },
       {
-        "question": "What material appears to constitute the majority of the shoe's upper?",
-        "answer": "Mesh"
+        "question": "Describe the overall shape of the shoe's sole unit.",
+        "answer": "Curved"
       },
       {
-        "question": "What is the color of the shoe's midsole, visible at the bottom?",
+        "question": "What color is the midsole of the athletic shoe?",
         "answer": "White"
       },
       {
-        "question": "What is the color of the visible stitching on the shoe's upper?",
-        "answer": "Blue"
-      },
-      {
-        "question": "What is the style of the shoe's lacing system?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "What is the overall shape of the shoe's toe box?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What is the texture of the material used in the heel area?",
+        "question": "What is the apparent texture of the red portion of the upper?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the appearance of the heel pull tab, located at the back?",
-        "answer": "Loop"
+        "question": "What type of closure system does this footwear utilize?",
+        "answer": "Lace-up"
       },
       {
-        "question": "What is the brand name subtly printed on the side of the shoe?",
+        "question": "What is the color of the laces (as much as visible)?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What word is visible on the side of the shoe?",
         "answer": "SYMA"
       },
       {
-        "question": "What is the general design style of the shoe, in one word?",
+        "question": "What is the apparent material of the heel pull tab?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall design style of the shoe.",
         "answer": "Sporty"
       },
       {
-        "question": "What is the color of the accent stripe near the heel?",
-        "answer": "Orange"
+        "question": "What color is the pull tab at the back of the shoe?",
+        "answer": "Red"
       },
       {
-        "question": "What appears to be the primary material of the shoe's sole?",
-        "answer": "Rubber"
+        "question": "What is the shape of the toe box of the sneaker?",
+        "answer": "Rounded"
       },
       {
-        "question": "What is the visible texture of the area where the midsole meets the outsole?",
-        "answer": "Grooved"
+        "question": "What is the main function of this footwear?",
+        "answer": "Athletic"
       },
       {
-        "question": "What is the overall condition of the shoe, visually apparent?",
-        "answer": "New"
+        "question": "What is the color of the stitching details visible?",
+        "answer": "Blue"
       }
     ]
   }

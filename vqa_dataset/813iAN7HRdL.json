@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/75f61ffa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the prominent label on the packaging?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging as shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the product's outer wrapping?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the packaging illustration, what is the probable form of the item inside?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "Based on the packaging image, what seems to be the texture of the outer wrapping?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the text and illustrations on the product's packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the packaging, what is the likely function suggested by the graphics?",
+        "answer": "Filtering"
+      },
+      {
+        "question": "Describe the style of the illustrations displayed on the product's packaging.",
+        "answer": "Diagrammatic"
+      },
+      {
+        "question": "What kind of material is implied by the product's flexible packaging?",
+        "answer": "Filter"
+      },
+      {
+        "question": "What is the apparent condition of the product's packaging in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the images, how many steps seem depicted in the assembly instructions?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the general design of the packaging, considering its form and markings?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visible markings, is any specific brand name clearly visible?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the orientation of the product's package in the provided image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Does the package contain any easily visible tear lines or perforations?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/57/571df06b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what is the dominant shape of this food product as presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the most prominent section of the packaging, visually dominant in terms of area?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Focusing on the packaging material, what appears to be the texture of the main wrapping, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the packaging, what is the apparent material used for the primary wrapping, judging from its visual characteristics?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the secondary area of the packaging, distinctly contrasting the main orange section?",
+        "answer": "White"
+      },
+      {
+        "question": "Looking at the design elements, what is the overall style of text and labeling presented on the packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on visual cues, does the package show any indication of a resealable feature, allowing easy closure?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visible elements, what seems to be the primary method for conveying product information on the package?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the noticeable color of a small rectangular area located at the bottom edge of the packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Analyzing the image, are there any noticeable images or icons depicted on the packaging beyond the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the general perceived size of the product, considering the entire packaging unit?",
+        "answer": "Small"
+      },
+      {
+        "question": "Focusing on the structure of the product, is the food item contained within a rigid or flexible container based on the visual?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the visible textual information, is there any explicit mention of a particular brand name displayed?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the visual state of the package depicted, considering its condition (e.g., sealed, opened)?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Examining the packaging, what is the apparent condition of the visible text and labeling (e.g., clear, faded)?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

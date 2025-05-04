@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case's background?",
+        "question": "What is the dominant color of the phone case's background?",
         "answer": "Black"
       },
       {
@@ -13,7 +13,7 @@
         "answer": "Doodle"
       },
       {
-        "question": "What celestial body is repeatedly depicted in the phone case's design?",
+        "question": "What celestial body is repeatedly depicted on the phone case?",
         "answer": "Moon"
       },
       {
@@ -21,48 +21,48 @@
         "answer": "Aliens"
       },
       {
-        "question": "What space object, shown with rings, appears multiple times?",
-        "answer": "Planet"
+        "question": "What space objects are drawn in a ringed pattern?",
+        "answer": "Planets"
       },
       {
-        "question": "What graphical element suggests movement through space?",
-        "answer": "Comet"
-      },
-      {
-        "question": "What small celestial objects are scattered across the design?",
-        "answer": "Stars"
-      },
-      {
-        "question": "What shape is the overall outline of the phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What seems to be the material of the depicted phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the general texture implied by the image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color are the drawings on the phone case?",
+        "question": "What kind of lines are used in the drawings on the case?",
         "answer": "White"
       },
       {
-        "question": "What flying object is shown alongside the aliens?",
-        "answer": "UFO"
+        "question": "What shape is the phone case itself?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Describing the design's aesthetic, what word applies?",
-        "answer": "Whimsical"
+        "question": "What type of pattern is used to arrange the space theme?",
+        "answer": "Scattered"
       },
       {
-        "question": "What is the appearance of the lines used in the illustrations?",
-        "answer": "Sketchy"
+        "question": "What additional space element is shown streaking across the case?",
+        "answer": "Comet"
       },
       {
-        "question": "Ignoring the design, what is the case's form factor?",
-        "answer": "Slim"
+        "question": "What kind of texture does the case seem to have based on appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Besides planets and moons, what other common celestial body is shown?",
+        "answer": "Stars"
+      },
+      {
+        "question": "What might be inferred as the material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall color scheme of the design elements?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Is the phone case design predominantly complex or simple?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the implied function of this product?",
+        "answer": "Protection"
       }
     ]
   }

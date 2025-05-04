@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color prominently displayed on the packaging?",
+        "question": "What is the primary color dominating the packaging's design?",
         "answer": "Green"
       },
       {
-        "question": "What type of food product is depicted on the box's main image?",
+        "question": "What type of food product is depicted on the box?",
         "answer": "Sticks"
       },
       {
-        "question": "What descriptive term is used to define the food item on the packaging?",
-        "answer": "Toaster"
+        "question": "What specific type of breakfast food is advertised?",
+        "answer": "FrenchToasters"
       },
       {
-        "question": "What style of food product is shown, as indicated on the packaging?",
-        "answer": "French"
-      },
-      {
-        "question": "What is the overall shape of the individual food items shown on the box?",
+        "question": "What is the apparent shape of the individual food items?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of fruit is visually presented alongside the product on the box?",
+        "question": "What kind of fruit is showcased alongside the product?",
         "answer": "Strawberries"
       },
       {
-        "question": "What is the apparent texture of the food product as it appears on the packaging?",
+        "question": "What is the dominant texture suggested by the image of the food?",
         "answer": "Crispy"
       },
       {
-        "question": "What is the overall shape of the packaging box itself?",
+        "question": "What is the overall shape of the product's packaging container?",
         "answer": "Rectangular"
       },
       {
-        "question": "What word describes the condition of the food product, as indicated on the box?",
-        "answer": "Frozen"
+        "question": "What is the primary material implied by the packaging?",
+        "answer": "Cardboard"
       },
       {
-        "question": "What is the apparent color of the food product shown on the box?",
-        "answer": "Golden"
-      },
-      {
-        "question": "What is visually suggested as a serving suggestion for the product?",
-        "answer": "Breakfast"
-      },
-      {
-        "question": "What word indicates the agricultural method used for the product?",
+        "question": "What word indicates the organic nature of the product?",
         "answer": "Organic"
       },
       {
-        "question": "What brand name is visibly shown on the packaging?",
+        "question": "What is the brand name prominently displayed on the box?",
         "answer": "365"
       },
       {
-        "question": "What is the apparent quantity of servings indicated on the packaging?",
-        "answer": "Eight"
+        "question": "What is the apparent state of the food within the packaging?",
+        "answer": "Frozen"
       },
       {
-        "question": "What kind of coating or dusting is visible on the food items?",
+        "question": "What is the visual descriptor implying freshness?",
+        "answer": "Sticks"
+      },
+      {
+        "question": "What ingredient is shown to be included in this recipe?",
+        "answer": "Strawberries"
+      },
+      {
+        "question": "What appears to be sprinkled atop the featured food item?",
         "answer": "Powder"
+      },
+      {
+        "question": "What does the image suggest about the cooking method?",
+        "answer": "Baking"
       }
     ]
   }

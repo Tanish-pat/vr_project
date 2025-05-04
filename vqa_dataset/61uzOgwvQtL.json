@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the handheld game console's main body?",
+        "question": "What is the predominant color of the handheld gaming console's body?",
         "answer": "Red"
       },
       {
-        "question": "What is the color of the handheld game console's left joy-con controller?",
+        "question": "What color are the detachable controllers on the sides of the console?",
         "answer": "Blue"
       },
       {
-        "question": "What is the apparent material of the provided power adapter?",
+        "question": "What appears to be the shape of the primary gaming device shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material seems to comprise the charging cable connecting to the console?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the shape of the screen displayed on the handheld game console?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the overall shape of the handheld game console when closed?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What type of connector is used to connect the power adapter to the console?",
-        "answer": "USB-C"
-      },
-      {
-        "question": "What appears to be the primary function of the device shown connected to the console?",
-        "answer": "Charging"
-      },
-      {
-        "question": "What is the color of the power adapter's casing?",
+        "question": "What is the apparent color of the AC adapter's casing?",
         "answer": "Black"
       },
       {
-        "question": "Considering the visual elements, what is the likely brand of the handheld game console?",
-        "answer": "Nintendo"
+        "question": "Considering the image, what type of connector is used for charging?",
+        "answer": "USB-C"
       },
       {
-        "question": "What is the apparent texture of the handheld game console's casing?",
+        "question": "What is the visible shape of the AC adapter's plug?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the displayed content type on the main screen of the device?",
+        "answer": "Images"
+      },
+      {
+        "question": "Based on the visuals, what is the overall design style of the console?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What appears to be the texture of the console's main body?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the type of plug on the provided power adapter?",
+        "question": "What seems to be the material of the handheld console?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the image, what is the style of the controllers?",
+        "answer": "Ergonomic"
+      },
+      {
+        "question": "What is the color of the cable connecting the power adapter?",
+        "answer": "Black"
+      },
+      {
+        "question": "What does the image suggest is the primary function of the device?",
+        "answer": "Gaming"
+      },
+      {
+        "question": "What kind of plug is shown on the power adapter?",
         "answer": "European"
-      },
-      {
-        "question": "What is the approximate orientation of the screen shown on the game console?",
-        "answer": "Landscape"
-      },
-      {
-        "question": "What color are the buttons on the right joy-con controller?",
-        "answer": "Red"
-      },
-      {
-        "question": "What is the apparent length of the power adapter's cable?",
-        "answer": "Long"
-      },
-      {
-        "question": "What is the visible style of the handheld game console?",
-        "answer": "Modern"
       }
     ]
   }

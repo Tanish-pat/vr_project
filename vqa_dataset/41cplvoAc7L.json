@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual appearance, what single word best describes the dominant color of the label?",
+        "question": "Considering the overall visual presentation, what single word best describes the primary color of the label seen in the image?",
         "answer": "Off-white"
       },
       {
-        "question": "Based on the image, what is the primary text printed on the label, describing its contents?",
-        "answer": "Ingredients"
-      },
-      {
-        "question": "What is the shape of the rectangular label shown in the provided image?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What specific type of oil is indicated on the label based purely on the visual information?",
-        "answer": "Olive"
-      },
-      {
-        "question": "Judging from the image, what adjective best describes the visual texture of the label's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What word best describes the style of the lettering used on the label in the image?",
+        "question": "Focusing on the textual elements, what adjective best describes the typeface style used for the product description?",
         "answer": "Sans-serif"
       },
       {
-        "question": "Focusing solely on the image, what word indicates the oil's production method, as indicated on the label?",
+        "question": "Based on the image, what single word best reflects the material the label appears to be made from?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Analyzing the label's visual structure, what word best captures its fundamental geometric shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the single most prominent word clearly visible on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the visible text, what is the most specific term describing the oil's nature?",
         "answer": "Extra"
       },
       {
-        "question": "What word on the label suggests that the ingredients are produced using specific agricultural standards?",
+        "question": "From the image's text, what adjective modifies the word 'virgin'?",
+        "answer": "Extra"
+      },
+      {
+        "question": "From the clearly visible text, what single word describes the oil's origin?",
         "answer": "Organic"
       },
       {
-        "question": "What single word describes the overall visual condition of the label in the provided image?",
-        "answer": "Clean"
+        "question": "Considering the product description, what is the single-word name of the depicted oil?",
+        "answer": "Olive"
       },
       {
-        "question": "Based purely on the visual details, what is the apparent format of the ingredient information on the label?",
-        "answer": "List"
+        "question": "What is the single word describing the nature of the oil based on the label?",
+        "answer": "Virgin"
       },
       {
-        "question": "What single word indicates a visual characteristic describing the state of the printed text on the label?",
-        "answer": "Printed"
+        "question": "Disregarding any other text, what word describes the visible text's orientation?",
+        "answer": "Horizontal"
       },
       {
-        "question": "What is the visual arrangement of the text on the label, based on the provided image?",
-        "answer": "Linear"
+        "question": "Focusing solely on the visual text, what is the main verb or action implied by the text?",
+        "answer": "Ingredients"
       },
       {
-        "question": "What word best describes the visual contrast between the text and the background of the label?",
-        "answer": "High"
+        "question": "Given the textual content, what single word best summarizes what the label describes?",
+        "answer": "Oil"
       },
       {
-        "question": "Considering the image, what adjective best describes the apparent clarity of the printing on the label?",
-        "answer": "Sharp"
+        "question": "Considering the label's size and information, what single word best describes its function?",
+        "answer": "Informative"
       },
       {
-        "question": "What single word best describes the apparent size of the label relative to common objects?",
-        "answer": "Small"
+        "question": "From the label's visual appearance, describe the overall darkness of the text used on the label.",
+        "answer": "Dark"
       }
     ]
   }

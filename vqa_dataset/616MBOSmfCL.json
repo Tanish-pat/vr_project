@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the liquid glue bottles shown in the image?",
+        "question": "What is the predominant color of the liquid glue bottles?",
         "answer": "Purple"
       },
       {
-        "question": "What is the apparent material of the glue stick barrels, judging by their appearance?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the image, what shape best describes the liquid glue containers?",
-        "answer": "Bottles"
-      },
-      {
-        "question": "Based on the visual evidence, what is the primary color of the glue sticks?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the apparent type of adhesive displayed in the image, based on the visual appearance?",
-        "answer": "Glue"
-      },
-      {
-        "question": "Considering the image, what is the overall form of the glue sticks?",
+        "question": "What is the overall shape of the individual glue stick containers?",
         "answer": "Cylindrical"
       },
       {
-        "question": "Judging from the visual details, what is the dispensing mechanism of the liquid glue?",
-        "answer": "Bottle"
+        "question": "What appears to be the material of the glue stick containers?",
+        "answer": "Plastic"
       },
       {
-        "question": "What appears to be the texture of the glue stick barrels, as seen in the image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What seems to be the packaging style of the glue sticks shown in the product image?",
-        "answer": "Bulk"
-      },
-      {
-        "question": "From the image, what type of applicator tip does the liquid glue bottle have?",
-        "answer": "Narrow"
-      },
-      {
-        "question": "Based on the image, what is the approximate number of glue sticks in the pack?",
-        "answer": "Twenty"
-      },
-      {
-        "question": "What is the visible color of the label on the liquid glue bottles?",
+        "question": "What is the primary color of the glue stick containers?",
         "answer": "White"
       },
       {
-        "question": "Considering the visual details, what is the apparent size of the glue sticks relative to each other?",
-        "answer": "Uniform"
+        "question": "Describe the shape of the liquid glue bottle dispensing tops?",
+        "answer": "Conical"
       },
       {
-        "question": "Based solely on the image, what is the general shape of the glue stick applicator tip?",
-        "answer": "Rounded"
+        "question": "What seems to be the texture of the glue stick containers?",
+        "answer": "Smooth"
       },
       {
-        "question": "What seems to be the overall condition of both the glue sticks and the bottles shown?",
-        "answer": "New"
+        "question": "What is the apparent material of the liquid glue bottles?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "How many liquid glue bottles are visibly present in the image?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the apparent application method of the liquid glue?",
+        "answer": "Pouring"
+      },
+      {
+        "question": "How many individual glue sticks are shown in the image?",
+        "answer": "Twenty"
+      },
+      {
+        "question": "What kind of label is on the liquid glue bottles?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the type of adhesive shown?",
+        "answer": "Glue"
+      },
+      {
+        "question": "Describe the printing on the glue sticks?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the apparent size of the glue stick containers relative to the bottles?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What is the overall arrangement of the glue sticks?",
+        "answer": "Grouped"
       }
     ]
   }

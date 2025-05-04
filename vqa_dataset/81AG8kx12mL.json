@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant design characteristic depicted on the phone case?",
+        "question": "What is the dominant design style depicted on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "What is the primary color scheme of the artistic design?",
+        "question": "What is the primary color scheme utilized in the case's artwork?",
         "answer": "Rainbow"
       },
       {
-        "question": "What is the overall shape of the depicted mobile phone case?",
+        "question": "What is the overall shape of the phone case, excluding design features?",
         "answer": "Rectangular"
       },
       {
-        "question": "What artistic style is most reminiscent of the case's design?",
-        "answer": "Whimsical"
-      },
-      {
-        "question": "Considering the visual texture, what is the apparent surface finish?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the most frequently occurring shape within the design?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What material is visually suggested by the case's appearance?",
+        "question": "What appears to be the main material used in manufacturing the case?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the lines\u2019 orientation in the main design element.",
+        "question": "What is the general texture implied by the painted design of the case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of lines are predominantly featured in the artistic rendering?",
         "answer": "Curved"
       },
       {
-        "question": "What is the general visual impression created by the color palette?",
+        "question": "What shapes are repeatedly shown throughout the phone case's design?",
+        "answer": "Circles"
+      },
+      {
+        "question": "What is the most noticeable feature of the phone case's artistic design?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "What kind of visual effect is created by the overlapping lines and circles?",
+        "answer": "Depth"
+      },
+      {
+        "question": "What general feeling or mood does the artwork on the case evoke?",
         "answer": "Vibrant"
       },
       {
-        "question": "What is the style of the artistic rendering found on the case?",
-        "answer": "Hand-drawn"
+        "question": "What is the apparent method used to apply the colorful design?",
+        "answer": "Printed"
       },
       {
-        "question": "What is the visual texture of the depicted design?",
-        "answer": "Linear"
+        "question": "Describe the visible level of detail in the artwork on the cover.",
+        "answer": "High"
       },
       {
-        "question": "Describe the predominant color tones within the phone case's pattern.",
-        "answer": "Bright"
+        "question": "What seems to be the primary form of decorative pattern displayed?",
+        "answer": "Geometric"
       },
       {
-        "question": "What is the apparent thickness of the phone case, as suggested visually?",
-        "answer": "Slim"
+        "question": "Besides the main image, what additional views are provided for the case?",
+        "answer": "Sides"
       },
       {
-        "question": "What type of case is this, according to the visuals?",
-        "answer": "Hard"
-      },
-      {
-        "question": "Considering its visual style, what feeling does this phone case evoke?",
-        "answer": "Playful"
+        "question": "What is the overall visual impression conveyed by the phone case\u2019s design?",
+        "answer": "Psychedelic"
       }
     ]
   }

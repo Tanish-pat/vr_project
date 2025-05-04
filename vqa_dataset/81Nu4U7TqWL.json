@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/78/78f2608e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the liquid soap container, considering its curvature and proportions?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What material primarily constitutes the bottle holding the hand soap, based on its visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the pump mechanism atop the container, what is its predominant color?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent consistency or state of the liquid product inside the bottle?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Considering the design of the label, what is its color scheme predominantly?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the primary function of the device shown in the image, based on its design and components?",
+        "answer": "Dispensing"
+      },
+      {
+        "question": "What is the type of packaging or container used for the hand soap product?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the visible text, what is one indication of the product's purpose or use?",
+        "answer": "Soap"
+      },
+      {
+        "question": "What is the style of the dispensing mechanism found on top of the bottle?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Considering the bottle's design, what is its overall transparency?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the color palette of the label, what is a secondary color present besides off-white?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What kind of text is present on the bottle, describing ingredients or information?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the visible format of the identification code found on the bottle?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What type of writing is present on the product's label, describing its features?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the visible form of the product within the container?",
+        "answer": "Liquid"
+      }
+    ]
+  }
+]

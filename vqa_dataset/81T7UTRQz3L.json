@@ -9,60 +9,60 @@
         "answer": "Burgundy"
       },
       {
-        "question": "What appears to be the primary material used in the construction of these packing cubes?",
+        "question": "What appears to be the primary material of the travel packing cubes?",
         "answer": "Fabric"
       },
       {
-        "question": "Considering the image, what is the overall shape of the largest packing cube?",
+        "question": "What is the overall shape of the largest packing cube in the 'After' image?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the visual details, what is the apparent texture of the packing cubes?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Judging by the image, how many individual packing cubes are visibly present in the 'after' section?",
+        "question": "Considering the 'After' image, how many individual packing cubes are visibly present?",
         "answer": "Four"
       },
       {
-        "question": "What design element is noticeable on the visible side of each packing cube?",
-        "answer": "Label"
+        "question": "Based on the visual texture, what is the likely surface feel of the packing cubes?",
+        "answer": "Smooth"
       },
       {
-        "question": "Observing the image, does the largest cube appear to have a zipper closure?",
+        "question": "Do the visible packing cubes exhibit any noticeable patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "In the 'After' image, what is the apparent size relationship between the largest and smallest cubes?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing the 'After' image, do the cubes appear to be lightweight or heavy?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What is the visible method of closure for at least one of the packing cubes?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Are the edges of the packing cubes in the 'After' image sharp or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "In the 'After' image, is there any visible branding or logo on the packing cubes?",
         "answer": "Yes"
       },
       {
-        "question": "What is the apparent functionality of these items, as depicted in the image?",
+        "question": "Considering the visual details, what is the likely function of these items?",
         "answer": "Organization"
       },
       {
-        "question": "Based solely on visual assessment, what seems to be the intended use of these items?",
-        "answer": "Travel"
-      },
-      {
-        "question": "From the image, what word describes the visual state of the suitcase 'after' using the cubes?",
-        "answer": "Organized"
-      },
-      {
-        "question": "What is the visible color of the label on the packing cubes?",
-        "answer": "White"
-      },
-      {
-        "question": "Judging by visual appearance, how would you describe the apparent stitching on the cubes?",
+        "question": "From the 'After' image, how would you describe the overall condition of the cubes?",
         "answer": "Neat"
       },
       {
-        "question": "What is the apparent state of the suitcase 'before' using the packing cubes?",
-        "answer": "Messy"
+        "question": "Judging from the image, what kind of storage do these cubes aid in?",
+        "answer": "Travel"
       },
       {
-        "question": "What type of luggage seems to be shown in the image?",
-        "answer": "Suitcase"
-      },
-      {
-        "question": "What is the visible surface design on the larger packing cubes?",
-        "answer": "Plain"
+        "question": "Judging from the 'After' image, are the packing cubes rigid or flexible?",
+        "answer": "Flexible"
       }
     ]
   }

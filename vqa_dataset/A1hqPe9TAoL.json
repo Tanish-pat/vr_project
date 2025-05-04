@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the displayed material sample?",
+        "question": "What is the overall color of the depicted material sample?",
         "answer": "Off-white"
       },
       {
-        "question": "Considering the subtle textural variations, what is the apparent surface texture?",
-        "answer": "Grainy"
-      },
-      {
-        "question": "Based on visual inspection, what type of material is primarily suggested?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Does the material exhibit a high degree of visible sheen or glossiness?",
-        "answer": "No"
-      },
-      {
-        "question": "Judging from the image, what is the overall visual appearance of the material?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the overall perceived tone of the displayed material?",
-        "answer": "Neutral"
-      },
-      {
-        "question": "Considering the uniformity, how would you describe the color consistency?",
-        "answer": "Even"
-      },
-      {
-        "question": "From the provided image, what is the general texture of the presented material?",
-        "answer": "Fine"
-      },
-      {
-        "question": "Does the material display a noticeable pattern or print?",
-        "answer": "No"
-      },
-      {
-        "question": "Based purely on the image, how would you characterize the surface finish?",
+        "question": "Considering the visual texture, what is the apparent material finish?",
         "answer": "Matte"
       },
       {
-        "question": "If the material were touched, what tactile characteristic is most apparent?",
-        "answer": "Soft"
+        "question": "Based on the image, what is the dominant visual texture of the sample?",
+        "answer": "Smooth"
       },
       {
-        "question": "Judging from the photograph, how would you classify the material's opacity?",
-        "answer": "Opaque"
-      },
-      {
-        "question": "What is the apparent finish or coating applied to this sample?",
-        "answer": "None"
-      },
-      {
-        "question": "Does the visual inspection reveal any visible flaws or imperfections?",
+        "question": "Does the material's surface exhibit any noticeable pattern or grain?",
         "answer": "No"
       },
       {
-        "question": "Considering its appearance, what is the suggested application of this material?",
-        "answer": "Upholstery"
+        "question": "Judging from the image, how would you characterize the material's sheen?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the primary visual impression of the material's surface uniformity?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the image, does the material appear to be thick or thin?",
+        "answer": "Undetermined"
+      },
+      {
+        "question": "Does the material exhibit any visible imperfections or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its appearance, how would you describe the material's opacity?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on visual cues, what is the apparent weight of the material?",
+        "answer": "Undetermined"
+      },
+      {
+        "question": "Does the provided image suggest any specific type of material?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the material exhibit any visible fibers or woven structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the material likely flexible or rigid?",
+        "answer": "Undetermined"
+      },
+      {
+        "question": "From the image alone, is the material's surface reflective or absorptive?",
+        "answer": "Undetermined"
+      },
+      {
+        "question": "Does the image depict any discernible gloss or shine on the surface?",
+        "answer": "No"
       }
     ]
   }

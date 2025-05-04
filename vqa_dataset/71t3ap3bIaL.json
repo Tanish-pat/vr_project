@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the chair's upholstery?",
+        "question": "What is the dominant color of the chair's upholstery?",
         "answer": "White"
       },
       {
@@ -21,48 +21,48 @@
         "answer": "Smooth"
       },
       {
-        "question": "What design element is noticeable on the chair's backrest?",
-        "answer": "Tufted"
+        "question": "Considering the chair's design, what style could it be classified as?",
+        "answer": "Modern"
       },
       {
-        "question": "What is the general style of the chair's legs?",
+        "question": "What is the general form of the chair's legs?",
         "answer": "Tapered"
       },
       {
-        "question": "What seems to be the primary material of the upholstery?",
+        "question": "What seems to be the main material used in the chair's upholstery?",
         "answer": "Fabric"
       },
       {
-        "question": "How would you describe the chair's overall design aesthetic?",
-        "answer": "Classic"
-      },
-      {
-        "question": "What is the approximate number of legs supporting the chair?",
+        "question": "How many legs does the chair visibly possess?",
         "answer": "Four"
       },
       {
-        "question": "Considering the chair's profile, what is its overall height?",
+        "question": "What design feature is noticeable on the chair's backrest?",
+        "answer": "Tufted"
+      },
+      {
+        "question": "Describe the visible color of the chair's legs?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Is there noticeable stitching along the upholstery of the chair?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent height of the chair's backrest, relative to the seat?",
         "answer": "Tall"
       },
       {
-        "question": "What color are the chair's legs in comparison to the seat?",
-        "answer": "Light"
+        "question": "What design element is present at the top of the chair's backrest?",
+        "answer": "Padding"
       },
       {
-        "question": "What is the apparent height of the chair's backrest relative to its seat?",
-        "answer": "High"
+        "question": "Describe the shape of the chair's seat cushion.",
+        "answer": "Rectangular"
       },
       {
-        "question": "Based on visual details, what is the chair's likely function?",
-        "answer": "Dining"
-      },
-      {
-        "question": "Describe the visual pattern or lack thereof on the chair's upholstery.",
-        "answer": "Solid"
-      },
-      {
-        "question": "Considering the image, what is the chair's overall structural integrity?",
-        "answer": "Stable"
+        "question": "What is the overall visual impression of the chair?",
+        "answer": "Elegant"
       }
     ]
   }
