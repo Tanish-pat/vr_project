@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant geometric shape depicted in the artwork's central motif?",
+        "question": "What is the dominant geometric shape depicted in the artwork's center?",
         "answer": "Triangle"
       },
       {
-        "question": "What color is the frame surrounding the artwork?",
+        "question": "What color is the frame encasing the artwork?",
         "answer": "Gold"
       },
       {
-        "question": "Describe the color of the base section at the bottom of the artwork.",
+        "question": "What color is the base, or bottom band, of the artwork?",
         "answer": "Gray"
       },
       {
-        "question": "What is the predominant color of the large triangle in the artwork?",
-        "answer": "Beige"
+        "question": "Describe the texture apparent on the main triangular form.",
+        "answer": "Grainy"
       },
       {
-        "question": "What is the texture of the background within the frame, appearing slightly grainy?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What color is the small triangle at the apex of the main triangle?",
-        "answer": "Pink"
-      },
-      {
-        "question": "What material seems most likely for the artwork's frame, judging by its appearance?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What is the color of the small, thin triangle adjacent to the pink one?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "What is the overall style of the artwork, minimalist or ornate?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Considering the visual composition, is the artwork primarily geometric or organic?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "Describe the visual effect of the shading within the large triangle, suggesting depth?",
-        "answer": "Gradient"
-      },
-      {
-        "question": "What is the shape of the overall frame encompassing the picture?",
+        "question": "What is the overall shape of the framed piece?",
         "answer": "Square"
       },
       {
-        "question": "Considering the color palette, what is the overall feeling evoked by the artwork?",
-        "answer": "Calm"
+        "question": "What color is the smaller triangle at the apex of the larger one?",
+        "answer": "Pink"
       },
       {
-        "question": "Is the artwork presented in a flat or three-dimensional style?",
-        "answer": "Flat"
+        "question": "What material seems to constitute the frame surrounding the art?",
+        "answer": "Wood"
       },
       {
-        "question": "Describe the visual aspect of the gray band at the base of the image \u2013 is it solid or patterned?",
-        "answer": "Solid"
+        "question": "What color is the small detail accentuating the pink triangle?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall color scheme of the piece, excluding the frame?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What kind of gradient is visible on the large central triangle?",
+        "answer": "Ombre"
+      },
+      {
+        "question": "Describe the style of the image within the frame.",
+        "answer": "Abstract"
+      },
+      {
+        "question": "How many distinct colors are used in the small triangles at the top?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the palette, what aesthetic best describes the image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What seems to be the artistic medium employed for the image?",
+        "answer": "Print"
+      },
+      {
+        "question": "Is there a noticeable texture variation across the main triangle?",
+        "answer": "Yes"
       }
     ]
   }

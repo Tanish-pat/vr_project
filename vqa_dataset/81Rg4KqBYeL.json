@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/87/870deacd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the sofa's upholstery?",
+        "answer": "DarkGray"
+      },
+      {
+        "question": "What is the color of the accent piping and cushions on the sofa?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary material of the sofa's upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape of the sofa's back and armrests?",
+        "answer": "Curved"
+      },
+      {
+        "question": "How many separate cushions are visibly present on the sofa's back?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent material of the sofa's legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the color of the sofa's legs?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What design element is present at the edge of the seat and back cushions?",
+        "answer": "Piping"
+      },
+      {
+        "question": "Considering the style, what is the best adjective to describe the sofa's design?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "Does the sofa appear to have a tufted or button-tufted design?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate number of seats this sofa can accommodate?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on visual cues, what is the construction style of the sofa's frame?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the general texture of the visible sofa upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible overall shape of the sofa?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Are there any noticeable patterns or prints on the sofa upholstery?",
+        "answer": "No"
+      }
+    ]
+  }
+]

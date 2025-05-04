@@ -1,0 +1,65 @@
+[
+  {
+    "path": "images/small/0e/0e931d6c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what is the primary liquid component mentioned in this product's complete ingredient list?",
+        "answer": "Aqua"
+      },
+      {
+        "question": "Based on the provided text, what organic compound is listed as an ingredient, often used as a preservative?",
+        "answer": "Glycerin"
+      },
+      {
+        "question": "According to the text, which specific type of acid is identified as an ingredient in this product?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What type of acid, also organic, is listed as another ingredient in the detailed description?",
+        "answer": "Acetic"
+      },
+      {
+        "question": "Referring to the text, what specific oil is detailed as an ingredient derived from soybeans?",
+        "answer": "Soybean"
+      },
+      {
+        "question": "As per the given ingredient list, which organic compound is obtained from horse mint?",
+        "answer": "Arvensis"
+      },
+      {
+        "question": "What is the common name for the plant from which the organic leaf oil is extracted, as per the text provided?",
+        "answer": "Horse"
+      },
+      {
+        "question": "Identify the salt that functions as a preservative and is listed in the given ingredient declaration?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "Referring to the text's description, what is the other name given to the aqua ingredient?",
+        "answer": "Water"
+      },
+      {
+        "question": "What is the specific type of chemical compound indicated as a component of the presented ingredient list?",
+        "answer": "Acid"
+      },
+      {
+        "question": "According to the text, what is the other name for the Glycine Soja Oil ingredient in the product's full declaration?",
+        "answer": "Oil"
+      },
+      {
+        "question": "As specified in the ingredient declaration, what is the chemical formula for the ingredient denoted as aqua?",
+        "answer": "H2O"
+      },
+      {
+        "question": "What is the adjective used in the provided ingredient list to describe both the acetic acid and the glycerin components?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the word used to describe the water's quality in this product's ingredients?",
+        "answer": "Filtered"
+      }
+    ]
+  }
+]

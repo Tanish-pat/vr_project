@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the packaging boxes?",
+        "question": "What is the dominant color scheme of the product packaging?",
         "answer": "Orange"
       },
       {
-        "question": "What is the primary text displayed prominently on each box?",
+        "question": "What is the primary shape of each individual wax strip box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What word is prominently displayed vertically on each box?",
         "answer": "SOLOMO"
       },
       {
-        "question": "What is the depicted body part on the packaging's illustrative image?",
-        "answer": "Arm"
+        "question": "What is depicted on the front of the box, suggesting the product's use?",
+        "answer": "Woman"
       },
       {
-        "question": "What type of product is indicated on the packaging's main label?",
+        "question": "What type of product is indicated by the text on the packaging?",
         "answer": "Wax"
       },
       {
-        "question": "How many individual boxes of wax strips are shown in the image?",
-        "answer": "Four"
+        "question": "What body part is specifically highlighted on the box's illustration?",
+        "answer": "Arms"
       },
       {
-        "question": "What is the shape of the individual product boxes?",
-        "answer": "Rectangular"
+        "question": "What flavor or scent is suggested by the image of the vanilla bean?",
+        "answer": "Vanilla"
       },
       {
         "question": "What is the apparent material of the product packaging?",
         "answer": "Cardboard"
       },
       {
-        "question": "What is the flavor or scent indicated on the packaging?",
-        "answer": "Vanilla"
+        "question": "What is the number of boxes visible in the provided image?",
+        "answer": "Four"
       },
       {
-        "question": "What is the texture of the packaging surface depicted?",
+        "question": "What is the overall texture of the product packaging appearing on the image?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the orientation of the product boxes in the image?",
-        "answer": "Vertical"
+        "question": "Considering the image, what is the apparent size of each box?",
+        "answer": "Small"
       },
       {
-        "question": "What additional body part is suggested for waxing on the packaging?",
-        "answer": "Armpit"
+        "question": "Does the packaging show any noticeable gloss or shine?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the secondary color on the packaging next to orange?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "What is the style of the text font on the packaging?",
+        "question": "What is the style of the font used for the brand name 'SOLOMO'?",
         "answer": "Sans-serif"
       },
       {
-        "question": "What is the image style on the packaging, photograph or illustration?",
-        "answer": "Photograph"
+        "question": "Is there any visible pattern or design element apart from the text and image?",
+        "answer": "No"
       },
       {
-        "question": "What is the design element used to add visual interest to the packaging?",
-        "answer": "Vanilla"
+        "question": "Based on the text, for what body areas is this wax intended?",
+        "answer": "Arms"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted on the phone case's design?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Gray"
       },
       {
-        "question": "What geometric pattern is prominently featured across the phone case surface?",
+        "question": "What geometric pattern is prominently featured on the phone case?",
         "answer": "Rectangles"
       },
       {
-        "question": "What gives the impression of three-dimensionality to the rectangular blocks on the case?",
-        "answer": "Shadowing"
-      },
-      {
-        "question": "What appears to be the primary material used in the construction of this phone case?",
+        "question": "What appears to be the primary material of the phone case itself?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall shape of the phone case itself?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What color is the visible portion of the side of the phone case?",
-        "answer": "Red"
-      },
-      {
-        "question": "Based on the visual, how would you describe the surface texture of the phone case?",
+        "question": "What is the implied texture of the rectangular blocks in the design?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent finish of the rectangular blocks in the phone case's design?",
+        "question": "Describing the visual effect, what kind of depth is suggested by the design?",
+        "answer": "3D"
+      },
+      {
+        "question": "What color is the visible portion of the side panel of the case?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the overall design, what style would you attribute to this phone case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What shape best describes the overall form of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish of the printed design on the phone case?",
         "answer": "Matte"
       },
       {
-        "question": "Considering the image, how many distinct sides of the phone case are clearly visible?",
-        "answer": "Three"
+        "question": "What is the visible number of camera cutouts present on the phone case?",
+        "answer": "One"
       },
       {
-        "question": "What design element is used to create the illusion of depth on the phone case?",
-        "answer": "Perspective"
+        "question": "Describe the arrangement of the rectangular blocks in the design pattern.",
+        "answer": "Overlapping"
       },
       {
-        "question": "What kind of visual effect is created by the arrangement of rectangles on the case?",
-        "answer": "Optical"
+        "question": "Based on the image, what kind of protection does this case seem to offer?",
+        "answer": "Basic"
       },
       {
-        "question": "What is the general style of the phone case's design, as visually perceived?",
+        "question": "What is the visual weight of the color contrast in the case's design?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the design, what feeling or mood does the phone case evoke?",
+        "answer": "Calm"
+      },
+      {
+        "question": "What kind of image is used in the phone case's design?",
         "answer": "Abstract"
-      },
-      {
-        "question": "What seems to be the level of detail in the rectangular blocks' design?",
-        "answer": "High"
-      },
-      {
-        "question": "From the image, does the phone case appear to have any noticeable embellishments?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent visual weight of the design in relation to the phone case?",
-        "answer": "Balanced"
       }
     ]
   }

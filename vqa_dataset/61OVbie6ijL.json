@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the fixture's metal components?",
+        "question": "What is the predominant color of the fixture's metal components?",
         "answer": "Black"
       },
       {
@@ -13,11 +13,11 @@
         "answer": "Round"
       },
       {
-        "question": "Describe the visual texture of the outer glass shade.",
+        "question": "What type of glass is used in the light's diffusing element?",
         "answer": "Seeded"
       },
       {
-        "question": "What material seems to comprise the main body of the light?",
+        "question": "What material appears to constitute the fixture's outer frame?",
         "answer": "Metal"
       },
       {
@@ -25,44 +25,44 @@
         "answer": "Bronze"
       },
       {
-        "question": "What type of glass is used for the light's diffuser?",
-        "answer": "Clear"
+        "question": "Describe the texture of the outer glass shade of the light fixture.",
+        "answer": "Textured"
       },
       {
-        "question": "How many glass shades are visibly present in the design?",
+        "question": "How many glass shades comprise the light fixture's diffusion system?",
         "answer": "Two"
       },
       {
-        "question": "What appears to be the finish of the black metal parts?",
+        "question": "What is the apparent finish of the fixture's metallic parts?",
         "answer": "Matte"
       },
       {
-        "question": "Is the light fixture designed for flush mounting?",
+        "question": "Is the light fixture designed for flush mounting to the ceiling?",
         "answer": "Yes"
       },
       {
-        "question": "What is the apparent style of the ceiling fixture?",
+        "question": "What is the general style of this ceiling light fixture?",
         "answer": "Modern"
       },
       {
-        "question": "Does the fixture feature any visible screws or bolts?",
-        "answer": "No"
+        "question": "Considering the glass, what is the light output likely to be?",
+        "answer": "Diffused"
       },
       {
-        "question": "Describe the general transparency of the inner glass shade.",
-        "answer": "Clear"
+        "question": "What is the visible material of the central mounting component?",
+        "answer": "Metal"
       },
       {
-        "question": "How many visible light sources are integrated into the fixture?",
-        "answer": "Two"
+        "question": "Describe the transparency of the fixture's glass shades.",
+        "answer": "Translucent"
       },
       {
-        "question": "What kind of light bulb is shown in the image?",
+        "question": "What type of light bulbs does the fixture seem to accommodate?",
         "answer": "Incandescent"
       },
       {
-        "question": "What is the apparent size of the fixture compared to a standard light?",
-        "answer": "Small"
+        "question": "Does the fixture have any visible decorative elements besides the glass?",
+        "answer": "No"
       }
     ]
   }

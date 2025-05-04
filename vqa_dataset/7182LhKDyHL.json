@@ -9,60 +9,60 @@
         "answer": "White"
       },
       {
-        "question": "What appears to be the overall shape of the individual mushrooms?",
-        "answer": "Round"
-      },
-      {
-        "question": "What is the primary material of the container holding the mushrooms?",
+        "question": "What appears to be the material of the container holding the mushrooms?",
         "answer": "Plastic"
       },
       {
-        "question": "What color is the container holding the mushrooms?",
+        "question": "What is the overall shape of the individual mushrooms presented?",
+        "answer": "Dome"
+      },
+      {
+        "question": "What color is the primary label displayed on the packaging?",
         "answer": "Green"
       },
       {
-        "question": "What is the general texture of the mushroom caps, as visually observed?",
+        "question": "Considering the texture, how would you describe the surface of the mushrooms?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the packaging, what is the overall shape of the product container?",
+        "question": "What is the apparent overall shape of the packaging container?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of label is affixed to the top of the mushroom package?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Based on the image, what term describes the type of mushrooms presented?",
+        "question": "What word best describes the type of mushrooms shown in the product image?",
         "answer": "Whole"
       },
       {
-        "question": "What word on the label indicates the product's agricultural status?",
+        "question": "Based on the label, what is the stated weight of the mushrooms inside?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Describe the general visual condition of the mushrooms in the package?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the visible primary descriptor of these mushrooms, stated on the package?",
         "answer": "Organic"
       },
       {
-        "question": "What is the approximate number of whole mushrooms visible in the package?",
-        "answer": "Six"
+        "question": "What seems to be the packaging's function regarding the product?",
+        "answer": "Containing"
       },
       {
-        "question": "Considering the container, what is the apparent material of the package's base?",
-        "answer": "Plastic"
+        "question": "Observing the label, what is indicated regarding the mushroom's cultivation?",
+        "answer": "Organic"
       },
       {
-        "question": "Does the packaging show any significant markings beyond the label?",
-        "answer": "No"
+        "question": "What is the apparent design of the packaging container to contain the mushrooms?",
+        "answer": "Tray"
       },
       {
-        "question": "Observing the label, what is indicated about the mushrooms' color?",
-        "answer": "White"
+        "question": "What is the apparent general condition of the packaging?",
+        "answer": "Sealed"
       },
       {
-        "question": "Describe the appearance of the mushroom gills, if visible in the image.",
-        "answer": "Invisible"
-      },
-      {
-        "question": "What is the overall visual impression of the product\u2019s freshness?",
-        "answer": "Fresh"
+        "question": "What kind of printing is visible on the label of the container?",
+        "answer": "Text"
       }
     ]
   }

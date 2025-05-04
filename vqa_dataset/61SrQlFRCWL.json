@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3c37c007.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what best describes the primary color scheme employed in the product's packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the text elements, what is the most prominent and repeatedly used font style or weight?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Regarding the textual content, what is the most frequently mentioned ingredient or component?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "Analyze the provided imagery \u2013 what is the dominant type of visual element displayed on the package?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the visual structure, what is the most visually prominent organizational feature of the textual information?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Considering the graphic design, what standardized identification system is visible on the package?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Examining the text's visual layout, what type of information is prominently featured at the bottom of the packaging?",
+        "answer": "Legal"
+      },
+      {
+        "question": "Given the visual characteristics, what is the overall shape or form of the item as depicted on the package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From a visual perspective, what single descriptive word best characterizes the text's visual density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Analyzing the text blocks visually, what type of information is prominently featured towards the top of the packaging?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the visual presentation, what specific type of information is provided to consumers regarding the product's origin?",
+        "answer": "Country"
+      },
+      {
+        "question": "From a visual perspective, what is the size and format of the text used on this product?",
+        "answer": "Small"
+      },
+      {
+        "question": "By reviewing the image, what specific visual element separates the ingredient list from other warnings?",
+        "answer": "Line"
+      },
+      {
+        "question": "Considering the information displayed, what single word best encapsulates the overall visual tone?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the primary color of the barcode on the product packaging?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

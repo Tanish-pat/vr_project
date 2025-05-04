@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case's background?",
+        "question": "What is the dominant color of the background depicted on the phone case?",
         "answer": "Yellow"
       },
       {
-        "question": "What color is the girl's hair depicted on the phone case?",
+        "question": "What is the primary hair color of the illustrated anime girl?",
         "answer": "Brown"
       },
       {
-        "question": "What type of design is prominently featured on the phone case?",
+        "question": "What design element is most prominently featured on this phone case?",
         "answer": "Anime"
       },
       {
-        "question": "What garment is the anime girl wearing in the phone case image?",
+        "question": "What apparel item does the anime girl appear to be wearing?",
         "answer": "Uniform"
       },
       {
-        "question": "What gesture is the anime girl making with her hand on the case?",
+        "question": "What gesture is the anime girl making with her hand?",
         "answer": "Peace"
       },
       {
-        "question": "What appears to be the main color of the girl's uniform?",
-        "answer": "Green"
+        "question": "What seems to be the overall style of the artwork on this phone case?",
+        "answer": "Illustration"
       },
       {
-        "question": "What is the overall shape of the product shown in the image?",
+        "question": "What is the apparent texture of the depicted phone case material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the shape of the phone case itself?",
         "answer": "Rectangular"
       },
       {
-        "question": "What seems to be the material of the depicted phone case?",
-        "answer": "Plastic"
+        "question": "What color is the primary element of the anime girl's attire?",
+        "answer": "Green"
       },
       {
-        "question": "Considering the image, what is the style of the anime girl's hair?",
-        "answer": "Long"
-      },
-      {
-        "question": "Based on the visual, what is the apparent finish of the phone case?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What color are the girl's eyes in the phone case illustration?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "Describe the expression on the girl's face on the case.",
+        "question": "Does the image suggest any particular expression on the anime girl's face?",
         "answer": "Smiling"
       },
       {
-        "question": "What seems to be the print method used on the phone case?",
-        "answer": "Digital"
+        "question": "What appears to be the overall aesthetic tone of the phone case's art?",
+        "answer": "Cute"
       },
       {
-        "question": "What kind of design element is present near the girl's chest?",
-        "answer": "Emblem"
+        "question": "Is the image of the phone case predominantly in color or grayscale?",
+        "answer": "Color"
       },
       {
-        "question": "Judging by the image, what is the phone case's apparent thickness?",
-        "answer": "Slim"
+        "question": "What kind of a visual style does the printed image appear to have?",
+        "answer": "Anime"
+      },
+      {
+        "question": "What is the apparent material of this phone case, visually speaking?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color are the eyes of the depicted anime girl?",
+        "answer": "Yellow"
       }
     ]
   }

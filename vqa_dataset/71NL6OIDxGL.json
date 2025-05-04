@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color visually perceived on the phone case's surface?",
+        "question": "What is the dominant color of the depicted phone case's design?",
         "answer": "Brown"
       },
       {
-        "question": "What is the primary design pattern printed on the phone case?",
+        "question": "What natural material is mimicked in the phone case's printed design?",
         "answer": "Wood"
       },
       {
-        "question": "What shape best describes the overall form of this mobile phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What material appears to be simulated by the printed design on the phone case?",
-        "answer": "Wood"
-      },
-      {
-        "question": "Considering the image, what type of finish does the case appear to have?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Are the wood grain lines running horizontally or vertically on the case?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What is the apparent texture of the simulated wood grain on the case?",
+        "question": "Considering the design, what is the overall texture implied on the phone case?",
         "answer": "Rough"
       },
       {
-        "question": "Based on visual inspection, does the phone case appear to be hard or soft?",
-        "answer": "Hard"
+        "question": "What geometric pattern is predominantly featured in the phone case's printed design?",
+        "answer": "Vertical"
       },
       {
-        "question": "Excluding the design, what color is the phone case's border?",
-        "answer": "Black"
+        "question": "What shape best describes the overall form of the pictured phone case?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What brand's logo is subtly visible through the case's design?",
-        "answer": "Apple"
+        "question": "What type of Apple device does this phone case appear designed to fit?",
+        "answer": "iPhone"
       },
       {
-        "question": "Judging by the image, how many camera cutouts are visible on the case?",
-        "answer": "One"
+        "question": "Is the printed design on the phone case primarily composed of solid or varied hues?",
+        "answer": "Varied"
       },
       {
-        "question": "Considering the image, is the case design primarily realistic or abstract?",
-        "answer": "Realistic"
+        "question": "Based on the image, what seems to be the material of the phone case itself?",
+        "answer": "Plastic"
       },
       {
-        "question": "Does the phone case design include any noticeable metallic elements?",
+        "question": "Are there any noticeable cutouts or openings visible on the phone case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How many distinct vertical lines or planks are visible in the case's design?",
+        "answer": "Seven"
+      },
+      {
+        "question": "What is the apparent finish or sheen of the printed wood-like design?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the phone case design include any metallic-looking elements?",
         "answer": "No"
       },
       {
-        "question": "What is the overall style of the phone case design?",
-        "answer": "Rustic"
+        "question": "Considering the camera cutout, what phone model is the case likely compatible with?",
+        "answer": "X"
       },
       {
-        "question": "Considering the image, how many visible side edges does this phone case have?",
-        "answer": "Four"
+        "question": "Focusing on the design, is the wood grain pattern consistently uniform throughout?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual style of the wood-grain-like design on the phone case?",
+        "answer": "Rustic"
       }
     ]
   }

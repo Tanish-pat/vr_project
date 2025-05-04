@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc186db5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the phone case's visible frame?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the phone case's bumper?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the apparent visual characteristic of the screen protection?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the design, what seems to be the phone case's overall protection style?",
+        "answer": "Magnetic"
+      },
+      {
+        "question": "Based on the image, what appears to be the method of case attachment?",
+        "answer": "Adsorption"
+      },
+      {
+        "question": "Describe the visual appearance of the screen protector's apparent texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the design feature visible on the case's edge?",
+        "answer": "Frame"
+      },
+      {
+        "question": "From the image, what appears to be a key component of the back?",
+        "answer": "Bumper"
+      },
+      {
+        "question": "What component is indicated to be detachable on the displayed phone case?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "What feature is described as built-in with the front casing?",
+        "answer": "Protector"
+      },
+      {
+        "question": "What is the suggested visual level of phone protection provided by this case?",
+        "answer": "360"
+      },
+      {
+        "question": "Judging by its shape, what is the overall form factor of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the observable state of assembly of the case parts in the image?",
+        "answer": "Assembled"
+      },
+      {
+        "question": "What kind of glass is specified for the front and back protection?",
+        "answer": "Tempered"
+      },
+      {
+        "question": "What is the apparent overall look of this phone case?",
+        "answer": "Sleek"
+      }
+    ]
+  }
+]

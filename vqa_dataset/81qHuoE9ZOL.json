@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/ab790aee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed prominently across the phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the shape of the primary yellow design element on the case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What paint-like texture is visually apparent on the phone case surface?",
+        "answer": "Brushstrokes"
+      },
+      {
+        "question": "What secondary color forms a smaller, square-like element near the bottom?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall artistic style depicted on the phone case's design?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What material seems most likely to constitute the phone case based on its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what kind of phone model does this case appear designed for?",
+        "answer": "Samsung"
+      },
+      {
+        "question": "Is the red patch on the case a precisely defined square, or more irregular?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Describe the visual look and feel of the blue sections of the paint design.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general form factor of this protective phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Does the image show any visible seams or noticeable edges on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the appearance of the edges of the yellow rectangle in the design?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Besides blue, yellow, and red, what other color subtly appears in the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the design elements, how would you classify the overall aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Based on the visual representation, is the case matte or glossy?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

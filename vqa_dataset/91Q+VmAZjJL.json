@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa555bb0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the footwear shown in the image?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What material appears to be used for the upper part of the boots?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Describe the overall shape of the footwear's toe cap region?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What type of fastening mechanism is prominently displayed on the boots?",
+        "answer": "Laces"
+      },
+      {
+        "question": "What color is the visible sole or midsole of the boots?",
+        "answer": "White"
+      },
+      {
+        "question": "What seems to be the approximate height of the boot shaft, in relation to the ankle?",
+        "answer": "Mid"
+      },
+      {
+        "question": "Considering the design elements, what style of boot is shown?",
+        "answer": "Chukka"
+      },
+      {
+        "question": "Can you describe the texture of the material used for the boots' upper?",
+        "answer": "Napped"
+      },
+      {
+        "question": "Describe the overall style of the footwear, considering its structure and form?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What color is the visible stitching on the footwear?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the apparent thickness of the sole unit on these boots?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What design feature is visible around the sole's perimeter?",
+        "answer": "Stripe"
+      },
+      {
+        "question": "Is the visible heel counter of the boots substantial or minimal?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the shape of the boot's heel cup, as seen from the rear?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the upper material showcase any noticeable grain or pattern?",
+        "answer": "No"
+      }
+    ]
+  }
+]

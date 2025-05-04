@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant visible surface texture of the item shown?",
-        "answer": "Cracked"
-      },
-      {
-        "question": "What is the overall color family of the depicted product?",
+        "question": "What is the predominant color of the ceramic's glaze, as observed in the image?",
         "answer": "Gray"
       },
       {
-        "question": "Describe the apparent finish or glaze effect on the item's surface?",
-        "answer": "Matte"
+        "question": "Considering the image, what textural effect is prominently displayed on the ceramic surface?",
+        "answer": "Cracked"
       },
       {
-        "question": "Considering the visible design, what is the primary shape motif?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Based on the image, what appears to be the main material of construction?",
+        "question": "Based on visual inspection, what appears to be the primary material of this item?",
         "answer": "Ceramic"
       },
       {
-        "question": "What is the visible style of the decorative elements' arrangement?",
-        "answer": "Repeating"
+        "question": "What design element is repeatedly featured along the lower section of the image provided?",
+        "answer": "Rectangles"
       },
       {
-        "question": "Characterize the tone of the lighter areas within the object's design?",
-        "answer": "Off-white"
+        "question": "Describe the overall shape of the visible portion of the ceramic piece shown in the image.",
+        "answer": "Curved"
       },
       {
-        "question": "Describe the visual effect of the crackle glaze on the surface?",
-        "answer": "Networked"
+        "question": "Judging from the image, what is the general appearance of the ceramic's surface texture?",
+        "answer": "Rough"
       },
       {
-        "question": "What type of visible pattern does the item's surface prominently exhibit?",
-        "answer": "Crazing"
+        "question": "Does the glaze appear uniformly applied across the surface of the ceramic, according to the image?",
+        "answer": "No"
       },
       {
-        "question": "Judging from the image, how would you describe the color depth of the glaze?",
-        "answer": "Subdued"
+        "question": "What color variation is visible within the cracked glaze of the ceramic shown?",
+        "answer": "Light"
       },
       {
-        "question": "Considering the visible detail, what is the shape of individual design elements?",
-        "answer": "Blocks"
+        "question": "From the image, can you describe the visual depth and dimensionality of the carved design?",
+        "answer": "Raised"
       },
       {
-        "question": "What is the visible visual effect on the borders between lighter and darker areas?",
-        "answer": "Blurred"
+        "question": "How would you characterize the visual pattern formed by the cracks in the glaze shown in the picture?",
+        "answer": "Irregular"
       },
       {
-        "question": "How would you describe the overall aesthetic impression of this item?",
+        "question": "What is the apparent finish of the ceramic, based on the image's visual texture?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, what is the visual effect of the light and shadow on the ceramic's texture?",
+        "answer": "Enhanced"
+      },
+      {
+        "question": "In the provided image, are there any noticeable imperfections or variations in the ceramic glaze?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, what could be described as the visual style of the ceramic piece\u2019s design?",
         "answer": "Rustic"
       },
       {
-        "question": "What is the visual impression regarding the manufacturing process of this item?",
-        "answer": "Handcrafted"
-      },
-      {
-        "question": "Considering the visible detail, what is the orientation of the repeating pattern?",
-        "answer": "Horizontal"
+        "question": "Does the image reveal any noticeable sheen or glossiness in the ceramic glaze?",
+        "answer": "No"
       }
     ]
   }

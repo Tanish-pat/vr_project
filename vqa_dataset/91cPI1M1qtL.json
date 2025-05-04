@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/45/451e2d8b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall curvature and the arrangement of cushions, what is the dominant shape of this outdoor furniture piece?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What woven material, identifiable by its distinct texture and pattern, primarily constitutes the structure of this piece?",
+        "answer": "Wicker"
+      },
+      {
+        "question": "Describing the main body's color, what shade best represents its dominant hue?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What color are the throw pillows included with this outdoor seating piece, considering their hue and tone?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Given the material and construction, what is the likely intended use environment for this furniture?",
+        "answer": "Outdoor"
+      },
+      {
+        "question": "What is the apparent texture of the primary material used in the construction of this piece of furniture?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the design of the back and its integration with the seating area, what type of furniture is displayed?",
+        "answer": "Sofa"
+      },
+      {
+        "question": "How many throw pillows are visually attached to this outdoor sofa, based solely on the image?",
+        "answer": "Five"
+      },
+      {
+        "question": "Based on the visual appearance of the legs, what material seems to make up the feet of this piece?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the overall visual appearance, what is the style of this furniture piece?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the apparent placement of the seams on the wicker portion of the sofa?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visible configuration or arrangement of the seating in the presented image?",
+        "answer": "Modular"
+      },
+      {
+        "question": "Disregarding the pillows, what is the primary color of the sofa's frame?",
+        "answer": "Brown"
+      },
+      {
+        "question": "From the image, what appears to be the primary function of the object?",
+        "answer": "Seating"
+      },
+      {
+        "question": "Considering the style and components, where would this furniture most likely be found?",
+        "answer": "Patio"
+      }
+    ]
+  }
+]

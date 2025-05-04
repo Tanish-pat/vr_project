@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b3fa7030.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of each individual tape dispenser?",
+        "answer": "Teardrop"
+      },
+      {
+        "question": "What primary color describes the majority of the tape dispenser?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What appears to be the primary material composing the tape dispenser?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible texture, what is the surface feel likely to be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent design style of the tape dispenser, in terms of ornamentation?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What appears to be the mechanism used to dispense the tape?",
+        "answer": "Roller"
+      },
+      {
+        "question": "Based on the image, what seems to be the function of the product?",
+        "answer": "Dispensing"
+      },
+      {
+        "question": "Observing the branding, what seems to be the name of the manufacturer?",
+        "answer": "AmazonBasics"
+      },
+      {
+        "question": "Judging by the image, how many tape dispensers are shown in total?",
+        "answer": "Ten"
+      },
+      {
+        "question": "What color is the visible portion of the tape itself?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What shape is the visible tape roll within each dispenser?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What seems to be the approximate size of each individual dispenser (relative)",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the visual, how would you describe the arrangement of the dispensers?",
+        "answer": "Paired"
+      },
+      {
+        "question": "What is the presumed weight of each dispenser (qualitative)",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Judging by the image, is the dispenser designed for single or repeated use?",
+        "answer": "Repeated"
+      }
+    ]
+  }
+]

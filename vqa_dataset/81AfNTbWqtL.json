@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the fabric shown in the close-up image?",
+        "question": "What is the predominant color of the visible fabric?",
         "answer": "White"
       },
       {
-        "question": "What appears to be the primary material of the depicted product component?",
+        "question": "What appears to be the primary material of the sheet?",
         "answer": "Fabric"
       },
       {
-        "question": "Considering the image, what is the visible texture of the fabric?",
+        "question": "Describing the texture, is the fabric smooth or rough?",
         "answer": "Smooth"
       },
       {
-        "question": "What kind of fastening or reinforcement is visible on the fabric?",
-        "answer": "Grommet"
+        "question": "What shape are the visible grommets or eyelets?",
+        "answer": "Round"
       },
       {
-        "question": "Describe the shape of the visible grommet detail on the textile?",
-        "answer": "Circular"
-      },
-      {
-        "question": "Based on the image, what color is the grommet reinforcement element?",
+        "question": "What seems to be the color of the grommets?",
         "answer": "White"
       },
       {
-        "question": "Judging by the image, what is the apparent construction of the fabric edge?",
-        "answer": "Folded"
+        "question": "What material are the grommets likely made of?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the visual impression of the fabric's overall finish or treatment?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What seems to be the visible function of the fabric straps or bands?",
-        "answer": "Reinforcement"
-      },
-      {
-        "question": "What can you observe regarding the stitching or seams present in the image?",
+        "question": "Considering the seams, what type of stitching is visible?",
         "answer": "Straight"
       },
       {
-        "question": "Considering the close-up, how would you describe the fabric's apparent weight?",
-        "answer": "Lightweight"
+        "question": "Judging by the image, what is the overall appearance of the sheet?",
+        "answer": "Plain"
       },
       {
-        "question": "Does the grommet appear to be made of the same material as the fabric?",
-        "answer": "Yes"
+        "question": "What is the apparent finish of the fabric's edges?",
+        "answer": "Hemmed"
       },
       {
-        "question": "Based on the image alone, what is the apparent transparency of the fabric?",
-        "answer": "Opaque"
+        "question": "How many grommets are clearly visible in the provided close-up?",
+        "answer": "One"
       },
       {
-        "question": "What is the apparent width of the fabric straps, judging from the visual?",
-        "answer": "Narrow"
+        "question": "What is the visible structural element connecting the fabric panels?",
+        "answer": "Seams"
       },
       {
-        "question": "From the image, what seems to be the overall condition of the visible fabric section?",
-        "answer": "New"
+        "question": "Considering the material, how does the sheet appear in terms of weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the image, is the fabric pattern solid or patterned?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What does the visible fabric's surface lack?",
+        "answer": "Prints"
+      },
+      {
+        "question": "What is the general condition of the visible fabric edges?",
+        "answer": "Neat"
       }
     ]
   }

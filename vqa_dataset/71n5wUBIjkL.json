@@ -9,15 +9,15 @@
         "answer": "PaleYellow"
       },
       {
-        "question": "What color is the plastic screw-top lid of the jar?",
+        "question": "What color is the plastic screw-on cap of the jar?",
         "answer": "Blue"
       },
       {
-        "question": "What is the overall shape of the mayonnaise container?",
-        "answer": "Cylindrical"
+        "question": "What is the primary shape of the container holding the mayonnaise?",
+        "answer": "Cylinder"
       },
       {
-        "question": "What is the primary material of the mayonnaise jar?",
+        "question": "What material appears to constitute the main body of the jar?",
         "answer": "Plastic"
       },
       {
@@ -25,44 +25,44 @@
         "answer": "Mayonnaise"
       },
       {
-        "question": "What brand name is featured on the product's label?",
+        "question": "What brand name is clearly visible on the product label?",
         "answer": "365"
       },
       {
-        "question": "What additional phrase clarifies the egg source on the label?",
+        "question": "What descriptive phrase regarding eggs is printed on the jar?",
         "answer": "Cage-Free"
       },
       {
-        "question": "Describe the style of the leaves depicted on the label?",
-        "answer": "Stylized"
-      },
-      {
-        "question": "What is the texture of the mayonnaise as visually suggested?",
+        "question": "What is the overall texture of the mayonnaise as it appears in the jar?",
         "answer": "Creamy"
       },
       {
-        "question": "What color are the stylized leaves on the label?",
-        "answer": "Multicolored"
+        "question": "Describe the style of the illustrations surrounding the brand name.",
+        "answer": "Leaf"
       },
       {
-        "question": "Is the jar's label predominantly white or off-white?",
-        "answer": "Off-white"
+        "question": "What is the general appearance of the mayonnaise's consistency?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the general shape of the leaf design elements on the jar?",
-        "answer": "Oval"
+        "question": "What is the apparent size of the text indicating the brand name?",
+        "answer": "Large"
       },
       {
-        "question": "What type of container is used for the product?",
-        "answer": "Jar"
+        "question": "What kind of printing is used for the label's text and graphics?",
+        "answer": "Offset"
       },
       {
-        "question": "What is the visible overall opacity of the mayonnaise?",
-        "answer": "Opaque"
+        "question": "What is the shape of the cap on top of the jar?",
+        "answer": "Round"
       },
       {
-        "question": "What is the apparent consistency of the mayonnaise?",
-        "answer": "Thick"
+        "question": "Are there any visible seals or tamper-evident features on the jar?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall presentation, what is the style of the packaging design?",
+        "answer": "Minimalist"
       }
     ]
   }

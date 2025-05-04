@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/ea97b2a4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant shape of the water bottle depicted?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What primary color is the plastic bottle that holds the alkaline water?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What material is visibly used for the construction of the water bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the label's typography, what type of water is contained inside?",
+        "answer": "Alkaline"
+      },
+      {
+        "question": "What is the color of the cap situated at the top of the water bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the bottle's label, what brand name is prominently displayed?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the overall transparency level of the water bottle's plastic material?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Describe the texture of the water bottle's surface, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the dominant color scheme of the text featured on the bottle's label?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Considering the design, does the label have a predominantly vertical or horizontal orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual style of the word 'Alkaline' on the water bottle's label?",
+        "answer": "Script"
+      },
+      {
+        "question": "What type of closure mechanism is evident at the top of the bottle?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Describe the visual appearance of the bottom of the water bottle?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Is the label design primarily text-based or image-based?",
+        "answer": "Text-based"
+      },
+      {
+        "question": "Does the bottle show any visible imperfections or irregularities on its surface?",
+        "answer": "None"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1d8af7e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant metal color of the bracelet?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the bracelet's central structure?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What kind of clasp mechanism is visibly present on the bracelet?",
+        "answer": "Box"
+      },
+      {
+        "question": "What is the apparent setting style for the gemstones on the bracelet?",
+        "answer": "Pave"
+      },
+      {
+        "question": "Describe the arrangement of gemstones along the bracelet's length?",
+        "answer": "Continuous"
+      },
+      {
+        "question": "What is the general shape of the individual gemstones in the bracelet?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent level of gemstone brilliance in the bracelet?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on visual appearance, what seems to be the bracelet's overall width?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Considering the visible components, what is the bracelet's primary material?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the apparent finish of the metal parts of the bracelet?",
+        "answer": "Polished"
+      },
+      {
+        "question": "Describe the texture of the visible metal surface of the bracelet?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of gemstone appears to be used throughout the bracelet?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "What is the style of the bracelet, in terms of embellishment?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "From the image, does the bracelet appear rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What appears to be the visible color of the gemstones?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

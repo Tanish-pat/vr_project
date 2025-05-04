@@ -9,60 +9,60 @@
         "answer": "Cylindrical"
       },
       {
-        "question": "What dominant color characterizes the filter's exterior?",
+        "question": "What primary color characterizes the filter's exterior?",
         "answer": "White"
       },
       {
-        "question": "What material appears to constitute the filter's pleated core?",
-        "answer": "Paper"
+        "question": "What material seems to constitute the filter's pleated core?",
+        "answer": "Fabric"
       },
       {
-        "question": "What is the texture of the filter's outer casing, based on visual observation?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Observing the end caps, what material do they seem to be made of?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the apparent design of the filter's central component?",
+        "question": "What texture is apparent on the filter's pleated surface?",
         "answer": "Pleated"
       },
       {
-        "question": "Considering the end caps, what is their relative size compared to the filter's diameter?",
-        "answer": "Smaller"
+        "question": "Describing the filter's end caps, what material appears to be used?",
+        "answer": "Plastic"
       },
       {
-        "question": "How many end caps are visible on the water filter in the image?",
+        "question": "What is the noticeable design feature along the filter's length?",
+        "answer": "Pleats"
+      },
+      {
+        "question": "Observing the filter's ends, what shape are the end caps?",
+        "answer": "Circular"
+      },
+      {
+        "question": "How many distinct circular openings are visible at one filter end?",
         "answer": "Two"
       },
       {
-        "question": "What is the apparent purpose of the central hole in each end cap?",
-        "answer": "Attachment"
+        "question": "Considering the filter's design, what is its likely function?",
+        "answer": "Filtration"
       },
       {
-        "question": "Based on the image, what is the general condition of the filter?",
+        "question": "What is the apparent color of the filter's end cap?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the texture of the filter's end caps?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the filter's outer surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general condition of the filter in the image?",
         "answer": "New"
       },
       {
-        "question": "Describe the visible surface quality of the pleated core?",
-        "answer": "Textured"
+        "question": "What is the apparent size of the central opening on one end?",
+        "answer": "Small"
       },
       {
-        "question": "What is the appearance of the plastic end caps in the image?",
-        "answer": "Off-white"
-      },
-      {
-        "question": "What is the general color of the filter excluding the end caps?",
-        "answer": "Off-white"
-      },
-      {
-        "question": "Judging from the visible details, is the filter likely disposable or reusable?",
-        "answer": "Disposable"
-      },
-      {
-        "question": "What seems to be the primary function of this cylindrical object?",
-        "answer": "Filtration"
+        "question": "Considering its construction, what is the filter\u2019s likely purpose?",
+        "answer": "Purification"
       }
     ]
   }

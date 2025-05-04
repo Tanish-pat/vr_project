@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f23438ec.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme employed in this product's nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary textual style used to display the values related to calories and other nutritional components?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the layout, what is the structural format of the displayed nutritional data?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the text's visual characteristics, what typeface is prominently used throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the textual format for the title prominently displayed at the top of the nutritional information panel?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on visual observation, what is the overall visual tone of the product label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the text alignment throughout the label, how is the majority of the information organized?",
+        "answer": "Left-aligned"
+      },
+      {
+        "question": "From a visual standpoint, how is the 'Calories' value emphasized visually in the nutritional facts panel?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visual texture of the paper or surface on which this nutrition label is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the structural elements, how many major sections make up the presented nutritional information?",
+        "answer": "Seven"
+      },
+      {
+        "question": "Based on the visible text, what units are used for measuring calories on this label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the visual characteristic of the percentage values provided next to the nutrient details?",
+        "answer": "Small"
+      },
+      {
+        "question": "Focusing on the content, what is the main subject of this visual nutritional data presentation?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual information, what is the primary method of presenting nutritional data in this product label?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Considering the visual characteristics of the label, what is the overall design style of the presented nutritional information?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the artistic design on the phone case?",
+        "question": "What is the dominant color scheme of the phone case's artistic design?",
         "answer": "Multicolored"
       },
       {
-        "question": "What painting style is predominantly depicted on the phone case's surface?",
+        "question": "What artistic style is predominantly featured on the phone case's surface?",
         "answer": "Abstract"
       },
       {
-        "question": "What is the overall shape of the phone case as suggested by its outline?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What material appears to comprise the primary body of the phone case?",
+        "question": "What appears to be the primary material used in the construction of this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Describing the texture, what visual impression does the painted design give?",
+        "question": "Describing the texture implied by the paint strokes on the phone case, is it smooth or rough?",
         "answer": "Rough"
       },
       {
-        "question": "What is the apparent color of the thin horizontal stripe near the bottom?",
+        "question": "Considering the color palette, what is the most prominent color block displayed?",
         "answer": "Blue"
       },
       {
-        "question": "Considering the brushstrokes, what is the overall impression of the artistic style?",
-        "answer": "Impasto"
+        "question": "What is the overall shape of the protective phone case shown in the image?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the main visual element featured prominently in the phone case's design?",
-        "answer": "Paint"
-      },
-      {
-        "question": "What color is most prominent in the central vertical band of the artwork?",
+        "question": "What secondary color is noticeable in the vertical band near the center of the phone case?",
         "answer": "Yellow"
       },
       {
-        "question": "Does the phone case's design feature any discernible geometric shapes apart from the rectangle?",
+        "question": "Is there any visible text or logo printed on the exterior of this phone case?",
         "answer": "No"
       },
       {
-        "question": "What is the general appearance of the texture of the phone case's surface?",
-        "answer": "Textured"
+        "question": "What color is the thin horizontal stripe near the bottom of the illustrated phone case?",
+        "answer": "Blue"
       },
       {
-        "question": "Based on the color saturation, how would you describe the vibrancy of the artwork?",
-        "answer": "Vivid"
+        "question": "Based on the visible design, what is the implied style or aesthetic of the phone case?",
+        "answer": "Artistic"
       },
       {
-        "question": "What type of design is used, considering its application of color and brushstrokes?",
-        "answer": "Painterly"
+        "question": "Observing the image, how many distinct color sections are roughly apparent on the case?",
+        "answer": "Five"
       },
       {
-        "question": "What specific feature is indicated at the top center of the phone case?",
-        "answer": "Cutout"
+        "question": "What is the apparent finish of the painted surface on this phone case; glossy or matte?",
+        "answer": "Matte"
       },
       {
-        "question": "Considering the visual cues, what seems to be the purpose of the phone case?",
-        "answer": "Protection"
+        "question": "Does the phone case design appear to have a symmetrical or asymmetrical arrangement?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What kind of visual effect is created by the prominent color transitions on the phone case?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "Focusing on the phone case's protective function, is it a full or partial phone cover?",
+        "answer": "Full"
       }
     ]
   }

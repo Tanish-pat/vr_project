@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f19ddee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric composing the majority of the product?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What specific type of metal is visibly used for the D-rings?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the apparent texture of the central rectangular patch on the strap?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What design pattern is printed on the fabric portion of the product?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Considering the shape and configuration, what type of buckle system is employed?",
+        "answer": "D-ring"
+      },
+      {
+        "question": "What is the primary material that makes up the bulk of the strap itself?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the visual texture of the printed pattern on the main strap component?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the appearance, what is the overall shape of the product's primary component?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its visual appearance, what seems to be the function of this item?",
+        "answer": "Strap"
+      },
+      {
+        "question": "What appears to be the material of the small label affixed to the strap?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the overall visual style of the product\u2019s design elements?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What kind of visual embellishment or branding is present on the leather patch?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Considering the buckle's material, what is its apparent finish or coating?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the apparent color of the small label attached to the strap?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Excluding the metal and leather, what is the visible surface treatment of the fabric?",
+        "answer": "Printed"
+      }
+    ]
+  }
+]

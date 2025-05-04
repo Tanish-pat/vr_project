@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2f2b786e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bag's primary design element?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of the food packaging depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture of the depicted food packaging, based on its visual appearance?",
+        "answer": "Papery"
+      },
+      {
+        "question": "What is the primary material of the product's packaging, as visually suggested?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What brand name is prominently displayed on the product packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the flavor of the snack indicated on the packaging?",
+        "answer": "Dill"
+      },
+      {
+        "question": "What type of food product does the packaging visually suggest?",
+        "answer": "Pickles"
+      },
+      {
+        "question": "What is the word that describes the preparation style of the snack indicated on the packaging?",
+        "answer": "Naturally"
+      },
+      {
+        "question": "What additional word modifies the primary ingredient stated on the package?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What is the apparent form of the pickles within the package, based on the image?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "Based on the visible text, what is one method suggested for consuming this snack?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "What is the nutritional information visually presented on the package's side?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is indicated as the total amount of calories per serving, as visually apparent?",
+        "answer": "230"
+      },
+      {
+        "question": "What type of seal or certification mark is partially visible on the bottom left?",
+        "answer": "Recycled"
+      },
+      {
+        "question": "Besides the brand name, what additional text visually identifies this product?",
+        "answer": "Pickle"
+      }
+    ]
+  }
+]

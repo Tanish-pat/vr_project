@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual presentation, what single word best describes the text's arrangement?",
-        "answer": "Linear"
-      },
-      {
-        "question": "What is the predominant color observed across the entire text display?",
-        "answer": "Blue"
-      },
-      {
-        "question": "Focusing solely on the visual appearance, what is the general font style employed for the text?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "Regarding the visual presentation, what is the text's orientation within the image?",
+        "question": "What is the overall textual orientation of the presented information, as visually observed in the image?",
         "answer": "Horizontal"
       },
       {
-        "question": "Based strictly on visual characteristics, what descriptive term accurately represents the text's tone?",
-        "answer": "Informative"
+        "question": "Considering the visual presentation, what is the dominant color scheme of the text against the background?",
+        "answer": "Blue"
       },
       {
-        "question": "Judging from the image, what is the apparent text size relative to the frame?",
-        "answer": "Large"
+        "question": "Based on the image, describe the apparent typeface or font style used for the textual content?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "From a visual standpoint, how would you characterize the spacing between the lines of text?",
-        "answer": "Even"
+        "question": "Judging from the image, what appears to be the approximate size of the text displayed?",
+        "answer": "Medium"
       },
       {
-        "question": "What is the most apparent and visually distinct characteristic of the displayed text?",
-        "answer": "Legibility"
+        "question": "Observing the image, does the text appear to be formatted in a single column or multiple columns?",
+        "answer": "Single"
       },
       {
-        "question": "What single word aptly describes the overall visual clarity of the provided text?",
-        "answer": "Clear"
+        "question": "According to visual inspection, what is the apparent weight or boldness of the text's typeface?",
+        "answer": "Normal"
       },
       {
-        "question": "Considering the text's visual aesthetics, how is the contrast of the text against the background?",
+        "question": "From a purely visual assessment, what seems to be the text's alignment within its given space?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual appearance, what's the overall tone or style of the text presentation?",
+        "answer": "Formal"
+      },
+      {
+        "question": "If you were to visually assess the spacing between lines of text in the given image, what would you describe it as?",
+        "answer": "Single"
+      },
+      {
+        "question": "Visually inspecting the image, what is the overall visual clarity and legibility of the displayed text?",
         "answer": "High"
       },
       {
-        "question": "Based purely on visual inspection, what language is the text written in?",
+        "question": "Analyzing the image, what language does the text visually appear to be written in?",
         "answer": "Japanese"
       },
       {
-        "question": "What single word describes the overall style of the text's appearance?",
-        "answer": "Simple"
+        "question": "What can be visually ascertained about the presence of any visible markings or symbols that are not part of the text itself?",
+        "answer": "None"
       },
       {
-        "question": "Judging by the visual presentation, what is the text's uniformity in terms of style?",
-        "answer": "Consistent"
+        "question": "From visual observation, is there any evident use of color variation or highlighting within the text?",
+        "answer": "No"
       },
       {
-        "question": "What single word describes the visual density of information in the provided image?",
-        "answer": "Concise"
+        "question": "Visually assessing the image, is there any noticeable variation in the font size or style within the text?",
+        "answer": "No"
       },
       {
-        "question": "Based purely on visual assessment, what is the text's visual weight in the image?",
-        "answer": "Light"
+        "question": "Based on visual inspection, describe any apparent text formatting features, such as italics or bolding?",
+        "answer": "None"
       }
     ]
   }

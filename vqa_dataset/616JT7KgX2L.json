@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the depicted design on the phone case?",
+        "question": "What is the predominant color of the depicted nighttime scene on the phone case?",
         "answer": "Purple"
       },
       {
-        "question": "What celestial body is prominently featured in the central design element?",
+        "question": "What celestial body is prominently featured within the circular design on the phone case?",
         "answer": "Moon"
       },
       {
-        "question": "What type of landscape is illustrated within the circular design area?",
+        "question": "What type of arboreal landscape is illustrated around the moon in the phone case's design?",
         "answer": "Forest"
       },
       {
-        "question": "What natural phenomenon is depicted above the trees in the phone case's art?",
-        "answer": "Aurora"
-      },
-      {
-        "question": "What is the overall shape of the primary design element on the phone case?",
+        "question": "What is the overall shape of the design element encompassing the nocturnal landscape on the phone case?",
         "answer": "Circular"
       },
       {
-        "question": "What appears to be the texture of the phone case's surface, based on the image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the predominant color of the background surrounding the main design?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the image, what material does the phone case seem to be made of?",
+        "question": "What seems to be the main material that the phone case appears to be made from?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the visual style of the design on the phone case\u2014is it realistic or stylized?",
-        "answer": "Stylized"
+        "question": "Describing the texture of the phone case based on the image, is it glossy or matte?",
+        "answer": "Glossy"
       },
       {
-        "question": "What is the general color of the trees in the illustrated forest scene?",
+        "question": "What color is the background of the phone case outside the central design?",
+        "answer": "Black"
+      },
+      {
+        "question": "What artistic style is mostly suggested by the design on the phone case?",
+        "answer": "Surreal"
+      },
+      {
+        "question": "Considering the image, what type of light emanates from the moon in the illustration?",
+        "answer": "Bright"
+      },
+      {
+        "question": "What color are the trees depicted in the landscape on the phone case?",
         "answer": "Dark"
       },
       {
-        "question": "What color is the sky depicted in the image of the phone case?",
+        "question": "What appears to be the color of the sky in the central image on the phone case?",
         "answer": "Dark"
       },
       {
-        "question": "What is the overall form of the object shown in the provided image?",
-        "answer": "Rectangular"
+        "question": "What is the general appearance of the trees within the circular design on the phone case?",
+        "answer": "Silhouetted"
       },
       {
-        "question": "What seems to be the surface finish of the phone case based on its appearance?",
-        "answer": "Matte"
+        "question": "Judging by the image, what kind of visual effect is achieved with the color gradient in the scene?",
+        "answer": "Aurora"
       },
       {
-        "question": "Does the case show any noticeable text, logos, or branding elements?",
+        "question": "Is there any text visible on the surface of the phone case?",
         "answer": "No"
       },
       {
-        "question": "What is the general artistic style of the imagery on the phone case?",
-        "answer": "Abstract"
+        "question": "What seems to be the overall form factor of the protective phone case in the image?",
+        "answer": "Hard"
       }
     ]
   }

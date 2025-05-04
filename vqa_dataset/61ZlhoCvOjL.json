@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary metal apparent in the necklace's construction?",
+        "question": "What is the primary color of the pendant depicted in the provided image?",
         "answer": "Silver"
       },
       {
-        "question": "What is the dominant geometric motif of the pendant's design?",
+        "question": "What appears to be the dominant material used in constructing the necklace pendant?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the pendant's design, what is its most prominent shape or form?",
         "answer": "Spiral"
       },
       {
-        "question": "Considering the pendant's visual texture, what is its apparent finish?",
-        "answer": "Smooth"
+        "question": "What is the most apparent style of the necklace's pendant, described in one word?",
+        "answer": "Intertwined"
       },
       {
-        "question": "What is the overall shape described by the pendant's interlocked elements?",
-        "answer": "Knot"
-      },
-      {
-        "question": "What is the apparent style of the necklace's chain, considering its visible links?",
-        "answer": "Delicate"
-      },
-      {
-        "question": "What color best describes the necklace's overall visual presentation?",
-        "answer": "Silver"
-      },
-      {
-        "question": "Based on the image, what is the type of clasp seemingly securing the necklace?",
-        "answer": "Lobster"
-      },
-      {
-        "question": "Judging by the image, what is the necklace's apparent length relative to the model?",
-        "answer": "Short"
-      },
-      {
-        "question": "What is the apparent visual weight or density of the pendant relative to the chain?",
-        "answer": "Slight"
-      },
-      {
-        "question": "Considering the metal's sheen, what is the necklace's apparent luster?",
+        "question": "Based on the visual, what seems to be the overall finish of the pendant's surface?",
         "answer": "Shiny"
       },
       {
-        "question": "What is the apparent number of interwoven strands forming the pendant?",
-        "answer": "Three"
+        "question": "Considering the image, what type of clasp does the necklace appear to have?",
+        "answer": "Lobster"
       },
       {
-        "question": "What is the general style that best characterizes the necklace's aesthetic?",
-        "answer": "Elegant"
+        "question": "What is the apparent length of the necklace chain, relative to the model?",
+        "answer": "Long"
       },
       {
-        "question": "What is the design detail used to connect the three strands in the pendant?",
-        "answer": "Twist"
+        "question": "Judging by the visual, what style of chain accompanies the pendant?",
+        "answer": "Cable"
       },
       {
-        "question": "Considering the pendant, what is the overall three-dimensional form?",
-        "answer": "Three-dimensional"
+        "question": "Does the pendant display any visible texturing besides its overall shine?",
+        "answer": "No"
       },
       {
-        "question": "Based solely on the visible components, what is the pendant's main structural element?",
-        "answer": "Interlock"
+        "question": "What is the overall aesthetic of the necklace; modern or vintage?",
+        "answer": "Modern"
+      },
+      {
+        "question": "From the provided image, what is the primary visual element of the necklace?",
+        "answer": "Pendant"
+      },
+      {
+        "question": "Considering the image, is the pendant ornate or simple in design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on visual details, is the pendant symmetrical in its construction?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general level of detail present in the pendant's design?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Does the image show any visible gemstones or other embellishments on the pendant?",
+        "answer": "No"
       }
     ]
   }

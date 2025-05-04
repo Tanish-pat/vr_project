@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the braided wrist strap?",
+        "question": "What is the predominant color of the braided wrist strap?",
         "answer": "Olive"
       },
       {
-        "question": "What material appears to comprise the bulk of the wrist strap?",
+        "question": "What material appears to constitute the majority of the wrist strap?",
         "answer": "Paracord"
       },
       {
         "question": "What is the overall shape of the main wrist strap component?",
-        "answer": "Loop"
-      },
-      {
-        "question": "Describe the texture of the braided portion of the wrist strap.",
-        "answer": "Woven"
+        "answer": "Circular"
       },
       {
         "question": "What type of fastener is visible on the wrist strap?",
         "answer": "Clip"
       },
       {
-        "question": "What is the apparent material of the small, circular component?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the shape of the additional small, circular component?",
-        "answer": "Ring"
-      },
-      {
-        "question": "What kind of attachment is included alongside the strap?",
-        "answer": "Carabiner"
-      },
-      {
-        "question": "What color is the small, rubber-like stopper on the wrist strap?",
+        "question": "What color is the small, cylindrical end piece on the wrist strap?",
         "answer": "Black"
       },
       {
-        "question": "Describe the apparent finish of the carabiner.",
-        "answer": "Silver"
+        "question": "What seems to be the material of the circular retainer ring?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the apparent material of the carabiner?",
+        "question": "What is the apparent color of the retainer ring?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the included carabiners?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What seems to be the material of the carabiner?",
         "answer": "Metal"
       },
       {
-        "question": "What is the function of the small rubber component on the strap?",
-        "answer": "Stopper"
+        "question": "What color is the carabiner?",
+        "answer": "Silver"
       },
       {
-        "question": "How many separate components are shown in total in the image?",
-        "answer": "Three"
+        "question": "Describe the texture of the braided portion of the wrist strap.",
+        "answer": "Woven"
       },
       {
-        "question": "What is the apparent purpose of the circular plastic ring?",
+        "question": "What is the apparent function of the retainer ring?",
         "answer": "Attachment"
       },
       {
-        "question": "What is the apparent purpose of the complete set of components?",
-        "answer": "Retention"
+        "question": "What is the apparent function of the carabiner?",
+        "answer": "Connection"
+      },
+      {
+        "question": "How many carabiners are included in the set?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the overall design style of the wrist strap?",
+        "answer": "Tactical"
       }
     ]
   }

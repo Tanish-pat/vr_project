@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e39cb4db.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the product container?",
+        "answer": "Tube"
+      },
+      {
+        "question": "What is the predominant color of the product packaging, visually apparent on the tube?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual observation, what material seems to constitute the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the surface, what is the apparent texture of the product packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of printing is visible on the product container, predominantly dark in color?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the container have a distinct, visually discernible cap or closure at the top?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, is there any prominent embossing or raised design on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the noticeable format of the informational content printed on the tube's back?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is there a barcode clearly visible on the product's packaging, for identification?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Regarding the visible text, what language appears to be used for the printed label?",
+        "answer": "English"
+      },
+      {
+        "question": "Observing the base of the tube, does it appear sealed or open at that end?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Is there any noticeable design or pattern visually evident on the tube besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what is the overall visual impression of the product's presentation?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the visible text appear to include any safety warnings or cautionary labels?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, is the product's packaging primarily opaque or transparent?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

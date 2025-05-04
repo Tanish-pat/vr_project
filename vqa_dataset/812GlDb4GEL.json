@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the presented wooden dining table?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What dominant color characterizes the finish of the table top?",
+        "question": "What is the predominant color of the tabletop?",
         "answer": "Brown"
       },
       {
-        "question": "What appears to be the primary material used in constructing this piece of furniture?",
+        "question": "What appears to be the primary material of the table?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the visible grain pattern on the table's surface area?",
-        "answer": "Linear"
-      },
-      {
-        "question": "What kind of design is depicted on the table's supporting legs?",
-        "answer": "Slats"
-      },
-      {
-        "question": "How many distinct support slats are visible on each leg of the table?",
-        "answer": "Three"
-      },
-      {
-        "question": "What is the overall visual texture of the table's wooden surface?",
-        "answer": "Rough"
-      },
-      {
-        "question": "Considering the construction, what is the apparent style of this dining table?",
-        "answer": "Rustic"
-      },
-      {
-        "question": "What is the apparent thickness of the table's top surface?",
-        "answer": "Thick"
-      },
-      {
-        "question": "What is the visible form of the table's leg structure?",
+        "question": "Describe the overall shape of the table's top surface?",
         "answer": "Rectangular"
       },
       {
-        "question": "Does the table's top show any noticeable distressing or imperfections?",
-        "answer": "Yes"
+        "question": "What is the visible design style of the table's legs?",
+        "answer": "Minimalist"
       },
       {
-        "question": "Characterize the color variation across the wooden table's surface?",
-        "answer": "Uniform"
+        "question": "How many distinct horizontal supports are visible under the tabletop?",
+        "answer": "Three"
       },
       {
-        "question": "What seems to be the general condition of the displayed dining table?",
-        "answer": "New"
+        "question": "Considering the wood grain, what is the apparent texture of the table?",
+        "answer": "Rough"
       },
       {
-        "question": "What is the visual apparent height of the legs in relation to the table top?",
+        "question": "What kind of finish seems to be applied to the table's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Characterize the general visual style of this dining table?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Describe the form of the table legs, considering their structural design?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent width of the table's supporting beams?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "What is the relative height of the table legs in comparison to the top?",
         "answer": "Low"
       },
       {
-        "question": "Considering its construction, what is the likely intended use of this furniture?",
-        "answer": "Dining"
+        "question": "Is there any evidence of visible knots or imperfections in the wood?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the apparent overall construction of the dining table?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the color variation across the wooden surface of the table?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What design feature is repeated in the structural support system?",
+        "answer": "Horizontal"
       }
     ]
   }

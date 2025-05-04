@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0c66f432.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted animal on the phone case?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What type of animal is prominently featured on the phone case's design?",
+        "answer": "Lion"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual, what is the overall shape of the phone case shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visual texture of the lion's mane as depicted on the phone case.",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the apparent finish or sheen of the phone case's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging from the image, what is the color of the background surrounding the lion?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What seems to be the case's orientation relative to the camera's viewpoint?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the phone case showcase the lion's entire body, or a portion?",
+        "answer": "Portion"
+      },
+      {
+        "question": "Considering the image, what is the overall style of the phone case's design?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "What is the lion's apparent facial expression in the phone case's design?",
+        "answer": "Serious"
+      },
+      {
+        "question": "How many main components are visually apparent in the image provided?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the general color palette of the lion's fur, as presented on the case?",
+        "answer": "Tan"
+      },
+      {
+        "question": "What is the approximate angle of the lion's head on the phone case?",
+        "answer": "Profile"
+      },
+      {
+        "question": "What is the lion's mane's apparent density in the phone case's depiction?",
+        "answer": "Thick"
+      }
+    ]
+  }
+]

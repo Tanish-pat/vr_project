@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the outer packaging of the tea bag?",
+        "question": "What is the primary color prominently displayed on the tea bag packaging?",
         "answer": "Orange"
       },
       {
-        "question": "What is the primary material used for the tea bag itself?",
-        "answer": "Mesh"
-      },
-      {
-        "question": "What is the color of the tea leaves visible within the tea bag?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What is the shape of the individual tea bag?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the color of the brand label on the tea bag's string?",
-        "answer": "Orange"
-      },
-      {
-        "question": "What type of tea is indicated on the packaging?",
+        "question": "What type of tea is specified on the packaging, as visually depicted?",
         "answer": "Assam"
       },
       {
-        "question": "What is the text prominently displayed on the packaging?",
-        "answer": "Vedaka"
-      },
-      {
-        "question": "What is the overall shape of the outer tea packet?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the visible texture of the tea leaves inside the tea bag?",
+        "question": "What is the visible texture of the tea leaves within the tea bag?",
         "answer": "Granular"
       },
       {
-        "question": "What is the material of the outer tea packet?",
-        "answer": "Paper"
+        "question": "What material appears to constitute the tea bag itself?",
+        "answer": "Mesh"
       },
       {
-        "question": "What is the color of the illustration of tea on the packaging?",
-        "answer": "Brown"
+        "question": "What color is the string attached to the tea bag?",
+        "answer": "White"
       },
       {
-        "question": "What kind of image is featured on the outer packaging?",
-        "answer": "Cup"
-      },
-      {
-        "question": "What is the shape of the brand label on the tea bag's string?",
+        "question": "What shape is the individual tea bag, when considering its overall form?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the apparent texture of the outer packaging?",
+        "question": "What is the color of the small tag attached to the tea bag string?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What brand name is visibly printed on both the packaging and the tag?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "What is the apparent color of the brewed tea shown on the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describing the packaging, what is its overall shape and form?",
+        "answer": "Sachet"
+      },
+      {
+        "question": "What is the visual texture of the outer packaging material?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the string of the tea bag made of?",
-        "answer": "String"
+        "question": "What is the depicted shape of the illustration of the teacup on the packet?",
+        "answer": "Round"
+      },
+      {
+        "question": "What seems to be the dominant color of the text on the package?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the illustration, what is the form of the object containing the brewed tea?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the apparent color of the tea leaves as shown outside the tea bag?",
+        "answer": "Gray"
       }
     ]
   }

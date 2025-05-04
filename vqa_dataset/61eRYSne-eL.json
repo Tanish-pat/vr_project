@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the primary shape of this cleaning product container?",
+        "question": "Considering the overall shape and design, what best describes the container's form factor?",
         "answer": "Bottle"
       },
       {
-        "question": "What is the dominant color of the plastic bottle holding the cleaning solution?",
-        "answer": "Clear"
-      },
-      {
-        "question": "Describe the type of spray mechanism affixed to the top of the bottle?",
-        "answer": "Trigger"
-      },
-      {
-        "question": "What is the primary color depicted on the label, suggesting the scent or ingredient?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "Considering the label's design, what is the depicted citrus fruit?",
-        "answer": "Lemon"
-      },
-      {
-        "question": "Based on the visible text on the label, what is the intended use of this product?",
-        "answer": "Cleaner"
-      },
-      {
-        "question": "What is the material primarily used to construct the spray bottle container?",
+        "question": "What material appears to constitute the primary body of the cleaning product container?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the apparent texture of the bottle's plastic surface, judging from the image?",
-        "answer": "Smooth"
+        "question": "Based on visual inspection, what color is the dominant hue of the spray bottle?",
+        "answer": "Clear"
       },
       {
-        "question": "Examining the label, what brand name is prominently displayed on the cleaning product?",
-        "answer": "365"
-      },
-      {
-        "question": "Looking at the label, what specific area is this cleaner designed to clean?",
-        "answer": "Tile"
-      },
-      {
-        "question": "What is the secondary color on the label, used as an accent to the main color?",
-        "answer": "Green"
-      },
-      {
-        "question": "Does the bottle's label contain any text indicating a specific scent?",
+        "question": "Examining the label, what citrus fruit is prominently featured in the product's illustration?",
         "answer": "Lemon"
       },
       {
-        "question": "Describe the overall style of the label's design and typography based on the image.",
+        "question": "What is the primary function of the component extending from the top of the bottle?",
+        "answer": "Sprayer"
+      },
+      {
+        "question": "In terms of visual texture, how would you characterize the surface of the plastic bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the label design, what is the brand name or logo depicted on the bottle?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the apparent color of the depicted citrus fruit on the product's label?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "According to the label's text, what is the intended cleaning application of this product?",
+        "answer": "Tub"
+      },
+      {
+        "question": "Considering the overall design style, how would you classify the aesthetic of the product label?",
         "answer": "Minimalist"
       },
       {
-        "question": "Based on the visible elements, is there any indication of an eco-friendly aspect?",
-        "answer": "Yes"
+        "question": "What additional cleaning surface is specified on the product's label, along with the tub?",
+        "answer": "Tile"
       },
       {
-        "question": "Considering the image, what is the approximate size of the bottle in relation to common household items?",
-        "answer": "Large"
+        "question": "Observing the sprayer mechanism, what type of nozzle does it seem to possess?",
+        "answer": "Mist"
+      },
+      {
+        "question": "Based on the label design, what flavor is indicated for the cleaning solution?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "What is the overall visual condition of the product packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the shape of the bottle, what geometric form most closely represents it?",
+        "answer": "Curved"
       }
     ]
   }

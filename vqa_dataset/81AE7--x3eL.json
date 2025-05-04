@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/51/51aea59a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the USB cable and connectors?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of connector is present at one end of the cable?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "What type of connector is present at the other end of the cable?",
+        "answer": "USB-B"
+      },
+      {
+        "question": "What material appears to constitute the outer cable sheath?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the cable's outer covering based on visual appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What brand's logo is visible on the connectors?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the apparent length of the visible portion of the cable?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the overall shape of the connectors?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the metallic contacts on the USB-A connector?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What kind of text is present on the connectors?",
+        "answer": "Branding"
+      },
+      {
+        "question": "Does the cable appear to be flat or round in cross-section?",
+        "answer": "Round"
+      },
+      {
+        "question": "Is the cable braided or solid in its construction?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describe the apparent flexibility of the cable based on its visual appearance.",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Are there any visible markings or engravings besides the branding?",
+        "answer": "No"
+      },
+      {
+        "question": "How many connectors are visible in the provided image?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

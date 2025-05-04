@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0c2f68dc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the phone case's design?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What building material is realistically depicted on the phone case?",
+        "answer": "Brick"
+      },
+      {
+        "question": "What is the overall shape of the illustrated phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the brick pattern on the case?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the arrangement of the bricks in the phone case's design.",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What seems to be the primary material used for the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Are the bricks in the design uniformly colored, or varied?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Considering the image, how many sides of the case are shown?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the visual style of the brick depiction on the case?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "Does the brick pattern cover the entire surface of the phone case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the implied depth or dimensionality of the brick design?",
+        "answer": "2D"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Excluding the design, what other color is visibly present on the sides?",
+        "answer": "Silver"
+      },
+      {
+        "question": "How would you describe the grout between the depicted bricks?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What type of phone does the case visually appear to fit?",
+        "answer": "Smartphone"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the outer fabric of this portable pet bed?",
+        "question": "What is the predominant color of the outer fabric of this portable pet bed?",
         "answer": "Tan"
       },
       {
-        "question": "What color is the inner, removable bed liner of this pet crate?",
+        "question": "What color is the interior bedding or sleeping surface of this pet crate?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material used for the construction of the outer shell?",
+        "question": "What appears to be the primary material used for the construction of this pet bed's exterior?",
         "answer": "Canvas"
       },
       {
-        "question": "Considering the image, what is the overall shape of this pet bed?",
+        "question": "Considering the overall structure, what is the general shape of this pet carrier?",
         "answer": "Rectangular"
       },
       {
-        "question": "What seems to be the overall texture of the visible outer fabric?",
-        "answer": "Smooth"
+        "question": "Describe the texture of the outer fabric, appearing somewhat coarse and slightly matte?",
+        "answer": "Woven"
       },
       {
-        "question": "Describe the visible closure mechanism on the top flap of this portable dog bed.",
+        "question": "What seems to be the mechanism for opening and closing the front entry of the pet bed?",
         "answer": "Zipper"
       },
       {
-        "question": "Are there any noticeable corner reinforcements or protective features visible?",
-        "answer": "Yes"
+        "question": "What is the apparent method used to secure the edges of this product, reinforced at the corners?",
+        "answer": "Stitching"
       },
       {
-        "question": "Based on the image, is the portable pet bed designed to fold or collapse?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What color are the buckles or straps used for securing or closing this product?",
+        "question": "Observing the image carefully, what is the visible color of the zippers and straps?",
         "answer": "Black"
       },
       {
-        "question": "Judging by the image, how many sides does the outer shell of the pet bed have?",
-        "answer": "Four"
+        "question": "Based on its design, what is the intended use for this foldable product?",
+        "answer": "Pet"
       },
       {
-        "question": "What is the apparent functionality of the black fabric layer inside the pet bed?",
-        "answer": "Liner"
+        "question": "What feature on the top allows for partial coverage or shade for the pet?",
+        "answer": "Panel"
       },
       {
-        "question": "Does the image show any visible branding or logos on the product?",
-        "answer": "No"
+        "question": "What is the apparent weight capacity, light, medium or heavy?",
+        "answer": "Medium"
       },
       {
-        "question": "From the image, is there an opening on the side for easy access?",
-        "answer": "No"
+        "question": "What design element is visible at each corner of the outer shell for reinforcement?",
+        "answer": "Patches"
       },
       {
-        "question": "What is the texture of the interior liner of this foldable dog bed?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Judging from the image, what is the overall style of this pet bed?",
+        "question": "Excluding the color, how would you describe the general appearance of this pet bed?",
         "answer": "Simple"
+      },
+      {
+        "question": "Judging from the image, what is the overall condition of this portable pet bed?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent number of access points for the pet to enter the bed?",
+        "answer": "One"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b1f2edc2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible leather upper?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color are the laces visible on the shoe?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Describe the apparent texture of the shoe's upper material?",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "What material appears to constitute the visible outsole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the dominant color of the midsole's visible section?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape or style of the depicted footwear?",
+        "answer": "Derby"
+      },
+      {
+        "question": "What is the color of the visible stitching on the shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent material of the shoe's visible heel?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the visible pattern on the outsole of the shoe?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What type of closure mechanism is employed on the shoe?",
+        "answer": "Lace"
+      },
+      {
+        "question": "What is the overall style of the sole unit's construction?",
+        "answer": "Platform"
+      },
+      {
+        "question": "Describe the visible construction of the toe cap area?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the color of the visible accent at the sole's edge?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent height of the shoe's sole?",
+        "answer": "Low"
+      },
+      {
+        "question": "Is the visible stitching visible on the upper decorative or functional?",
+        "answer": "Functional"
+      }
+    ]
+  }
+]
