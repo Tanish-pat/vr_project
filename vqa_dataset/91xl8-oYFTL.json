@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c308e692.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible fabric?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the main fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "What type of garment does the image depict, based on its shape and elastic band?",
+        "answer": "Cover"
+      },
+      {
+        "question": "What material seems to be used for the elastic edge?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the visible stitching, what is the quality of the construction?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's weave?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the overall shape of the product, based on the visible part?",
+        "answer": "Roundish"
+      },
+      {
+        "question": "Considering the visible portion, is there any pattern visible on the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the appearance of the fabric's surface, considering the presence of wrinkles?",
+        "answer": "Slightly"
+      },
+      {
+        "question": "Based on the image, what is the elasticity of the product's edge?",
+        "answer": "Good"
+      },
+      {
+        "question": "What seems to be the purpose of the thick band around the edge?",
+        "answer": "Securing"
+      },
+      {
+        "question": "Judging from the image, how thick is the fabric in this garment?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent feel of the fabric, based on its visual characteristics?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based solely on visual characteristics, what is the overall style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the image, what appears to be the primary function of the product?",
+        "answer": "Protection"
+      }
+    ]
+  }
+]

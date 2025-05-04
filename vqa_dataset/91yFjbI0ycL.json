@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the floral design on the rug?",
+        "question": "What is the predominant color of the floral pattern on the rug?",
         "answer": "Gray"
       },
       {
-        "question": "What is the overall shape of the area rug shown in the image?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Describe the style of the repeating pattern across the rug's surface?",
-        "answer": "Floral"
-      },
-      {
-        "question": "What color are the individual flower-like motifs in the pattern?",
+        "question": "What is the secondary color accentuating the floral design?",
         "answer": "Off-white"
       },
       {
-        "question": "What appears to be the texture of the rug based on its visual appearance?",
-        "answer": "Flat"
+        "question": "What is the overall shape of the presented floor covering?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent material of the rug, judging from its image?",
+        "question": "What is the primary design motif repeating across the rug's surface?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the visual texture implied by the rug's pattern?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "What textile material appears to constitute the rug's composition?",
         "answer": "Polyester"
       },
       {
-        "question": "Considering the image, what is the general aesthetic of this rug?",
+        "question": "Considering the rug's design, what is its style best described as?",
         "answer": "Traditional"
       },
       {
-        "question": "Based on the picture, what is the density of the pattern on the rug?",
-        "answer": "High"
-      },
-      {
-        "question": "Considering the image, what is the level of detail in the rug's pattern?",
-        "answer": "Intricate"
-      },
-      {
-        "question": "Judging from the image, what is the visual style of the flower design?",
-        "answer": "Damask"
-      },
-      {
-        "question": "Based on the image, is the rug's pattern symmetrical or asymmetrical?",
+        "question": "Describe the arrangement of the repetitive floral elements on the rug.",
         "answer": "Symmetrical"
       },
       {
-        "question": "Considering the image, does the rug appear to be thick or thin?",
-        "answer": "Thin"
+        "question": "What is the visual complexity of the decorative pattern on the item?",
+        "answer": "Moderate"
       },
       {
-        "question": "Based on visual inspection, how would you describe the rug's color scheme?",
-        "answer": "Two-toned"
+        "question": "Considering the pattern's density, is the design busy or sparse?",
+        "answer": "Moderate"
       },
       {
-        "question": "Describe the visual appearance of the border on this area rug.",
-        "answer": "None"
+        "question": "What is the predominant visual weight or density across the design?",
+        "answer": "Uniform"
       },
       {
-        "question": "Based on the image, what is the edge finishing of the rug?",
+        "question": "Considering the image, how is the rug's edge finished or bound?",
         "answer": "Serged"
+      },
+      {
+        "question": "Describe the level of detail found within each individual flower design.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What visual effect does the interplay between grey and off-white create?",
+        "answer": "Contrast"
+      },
+      {
+        "question": "What is the implied softness or coarseness of the visible rug texture?",
+        "answer": "Soft"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/30/30c252ef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color visually dominating the text on this food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the rectangular information panel featuring the ingredients list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the text's font and style, what would you describe the overall feel of the text?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the background color of the section providing the ingredients list?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual cues, what is the texture of the paper or surface where the information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the arrangement of text blocks, what organizational pattern is employed in presenting the ingredients and warnings?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the style of lettering or typography used to indicate the word \"INGREDIENTS\"?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual prominence of section titles like \"INGREDIENTS\" and \"CONTAINS\", what descriptive word would apply?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visible density of text, how would you classify the level of detail in the information provided?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the text's visual properties, what is its approximate size relative to typical print?",
+        "answer": "Small"
+      },
+      {
+        "question": "Is there a visual separation or distinction between the 'INGREDIENTS' and 'CONTAINS' sections?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual style of the text detailing the allergens present in the food item?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "Based on the visual presentation, what is the overall impression of the text's readability?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the visual representation used to separate different components of the ingredient list?",
+        "answer": "Line Breaks"
+      },
+      {
+        "question": "Considering the size and positioning of the text, what is the main visual impression?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "path": "images/small/35/3576fca5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the leaves shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the shape of the individual tea leaves depicted?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the overall texture of the tea leaves as visually apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what is the apparent size of the leaves?",
+        "answer": "Small"
+      },
+      {
+        "question": "What type of certification label is prominently displayed?",
+        "answer": "USDA"
+      },
+      {
+        "question": "What word is shown on the certification label, next to the USDA?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the implied state of the leaves regarding farming practices?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Describe the visual arrangement of the leaves in the image.",
+        "answer": "Clustered"
+      },
+      {
+        "question": "What is the apparent visual condition of the leaves?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the implied use of the depicted leaves?",
+        "answer": "Tea"
+      },
+      {
+        "question": "Considering the visible details, what is the apparent condition of the leaves?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What is the predominant visual feature of this image?",
+        "answer": "Leaves"
+      }
+    ]
+  }
+]

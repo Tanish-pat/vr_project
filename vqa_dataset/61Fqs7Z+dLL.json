@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall appearance, what is the dominant color scheme of the cupcake packaging?",
-        "answer": "Pink"
+        "question": "What is the dominant color scheme of the text on the nutrition facts label?",
+        "answer": "Black"
       },
       {
-        "question": "What is the primary shape of the individual cupcake containers, as depicted on the packaging?",
-        "answer": "Round"
+        "question": "Considering the typeface, what style best describes the nutrition label's text?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "Based on the visual texture, what material seems to be used for the cupcake wrappers?",
-        "answer": "Paper"
+        "question": "What is the overall shape of the nutrition label panel visible in the image?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Judging by the image, what design element is prominently featured on the cupcake packaging?",
-        "answer": "Floral"
-      },
-      {
-        "question": "What is the visible text format used to present the product information on the wrapper?",
-        "answer": "Script"
-      },
-      {
-        "question": "What appears to be the primary type of frosting or topping used on these cupcakes?",
-        "answer": "Cream"
-      },
-      {
-        "question": "In terms of the package's graphics, what is the overall style or aesthetic conveyed?",
-        "answer": "Girly"
-      },
-      {
-        "question": "What seems to be the primary visual cue indicating the quantity of cupcakes per package?",
-        "answer": "Number"
-      },
-      {
-        "question": "What kind of visual information is primarily used for the cupcake packaging design?",
-        "answer": "Illustrations"
-      },
-      {
-        "question": "Focusing on the packaging, what is the type of image prominently used as a visual element?",
-        "answer": "Cartoon"
-      },
-      {
-        "question": "Based on the packaging's visual elements, what is the overall tone or mood being projected?",
-        "answer": "Playful"
-      },
-      {
-        "question": "What type of visual element is used for the nutritional information panel on the packaging?",
-        "answer": "Table"
-      },
-      {
-        "question": "What is the overall color tone of the nutritional facts section on the packaging?",
+        "question": "What is the primary color of the background behind the nutrition facts text?",
         "answer": "White"
       },
       {
-        "question": "What is the primary way the packaging conveys the brand or product name?",
-        "answer": "Logo"
+        "question": "Based on the image, what seems to be the material of the nutrition label?",
+        "answer": "Paper"
       },
       {
-        "question": "What is the style of the font used on the nutritional information panel?",
-        "answer": "Sans-serif"
+        "question": "What is the texture of the nutrition facts label, considering the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the arrangement of text, what is the design style of the label?",
+        "answer": "Block"
+      },
+      {
+        "question": "What is the type of information conveyed by the visible text blocks?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the visual structure of the presented nutrition information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Focusing on the formatting, what is the organizational approach to data presentation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Disregarding values, what is the type of each category listed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the visual weight of the word 'Calories' compared to other text?",
+        "answer": "High"
+      },
+      {
+        "question": "Regarding the font sizes used, which category has the most prominent size?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the overall visual tone or impression created by the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Describe the visual clarity and legibility of the text in the presented image.",
+        "answer": "Clear"
       }
     ]
   }

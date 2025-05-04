@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color dominating the packaging's design?",
+        "question": "What is the primary color prominently displayed on the packaging?",
         "answer": "Green"
       },
       {
-        "question": "What type of food product is depicted on the box?",
+        "question": "What type of food product is depicted on the box's front?",
         "answer": "Sticks"
       },
       {
-        "question": "What specific type of breakfast food is advertised?",
-        "answer": "FrenchToasters"
+        "question": "What descriptive term is used to qualify the food product shown?",
+        "answer": "French"
       },
       {
-        "question": "What is the apparent shape of the individual food items?",
-        "answer": "Rectangular"
+        "question": "What is the primary food item shown prepared on the box?",
+        "answer": "Toasters"
       },
       {
-        "question": "What kind of fruit is showcased alongside the product?",
+        "question": "What additional fruit is depicted alongside the prepared product?",
         "answer": "Strawberries"
       },
       {
-        "question": "What is the dominant texture suggested by the image of the food?",
-        "answer": "Crispy"
-      },
-      {
-        "question": "What is the overall shape of the product's packaging container?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the primary material implied by the packaging?",
-        "answer": "Cardboard"
-      },
-      {
-        "question": "What word indicates the organic nature of the product?",
+        "question": "What word indicates the product's agricultural status?",
         "answer": "Organic"
       },
       {
-        "question": "What is the brand name prominently displayed on the box?",
+        "question": "What is the overall shape of the box containing the food?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture of the prepared food shown on the box?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What is the apparent cooking style of the food item?",
+        "answer": "Baked"
+      },
+      {
+        "question": "What is the material of the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the dominant graphic style of the box design?",
+        "answer": "Illustrative"
+      },
+      {
+        "question": "What is the shape of the individual food items shown?",
+        "answer": "Oblong"
+      },
+      {
+        "question": "What color are the prepared food sticks shown?",
+        "answer": "Golden"
+      },
+      {
+        "question": "What is the brand name indicated on the box?",
         "answer": "365"
       },
       {
-        "question": "What is the apparent state of the food within the packaging?",
-        "answer": "Frozen"
-      },
-      {
-        "question": "What is the visual descriptor implying freshness?",
-        "answer": "Sticks"
-      },
-      {
-        "question": "What ingredient is shown to be included in this recipe?",
-        "answer": "Strawberries"
-      },
-      {
-        "question": "What appears to be sprinkled atop the featured food item?",
-        "answer": "Powder"
-      },
-      {
-        "question": "What does the image suggest about the cooking method?",
-        "answer": "Baking"
+        "question": "What is the suggested cooking method according to the packaging?",
+        "answer": "Toaster"
       }
     ]
   }

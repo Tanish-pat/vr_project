@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case's frame?",
+        "question": "What is the primary color of the phone case's frame?",
         "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the protective phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What material appears to constitute the case's transparent back?",
+        "question": "What material appears to constitute the main body of the case?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the texture of the black border surrounding the case?",
+        "question": "Describe the overall shape of the protective phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the black border around the case?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the appearance of the material used for the case's bumper?",
-        "answer": "Matte"
+        "question": "What level of transparency does the back of the case exhibit?",
+        "answer": "Translucent"
       },
       {
-        "question": "Considering the image, what seems to be the primary function of this item?",
-        "answer": "Protection"
+        "question": "Considering the cutouts, which phone model does this case seem designed for?",
+        "answer": "iPhone"
       },
       {
-        "question": "What color is the visible Apple logo through the case's back?",
+        "question": "What is the color of the visible Apple logo through the case?",
         "answer": "Silver"
       },
       {
-        "question": "Is the phone case design primarily minimalist or ornate?",
-        "answer": "Minimalist"
+        "question": "Is there any apparent pattern or design on the case's main body?",
+        "answer": "None"
       },
       {
-        "question": "Based on the image, how many camera cutouts are visible on the phone case?",
-        "answer": "One"
+        "question": "What seems to be the primary function of this product?",
+        "answer": "Protection"
       },
       {
-        "question": "What is the general transparency level of the back panel of the case?",
-        "answer": "Clear"
+        "question": "Considering the thickness, how would you characterize the case's profile?",
+        "answer": "Slim"
       },
       {
-        "question": "Does the phone case seem to add significant bulk to the device?",
-        "answer": "No"
-      },
-      {
-        "question": "Describe the finish of the transparent portion of the phone case?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What appears to be the rigidity of the phone case's frame?",
-        "answer": "Rigid"
-      },
-      {
-        "question": "Does the case seem to provide comprehensive edge protection to the phone?",
+        "question": "Does the case seem to offer protection around the phone's camera?",
         "answer": "Yes"
       },
       {
-        "question": "Based solely on visual inspection, what is the thickness of the phone case?",
-        "answer": "Slim"
+        "question": "What is the apparent finish of the phone case's outer edges?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Are there any visible buttons or ports incorporated into the design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How many layers or parts seem to constitute the total structure?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering its build, what is the overall impression of the case?",
+        "answer": "Minimalist"
       }
     ]
   }

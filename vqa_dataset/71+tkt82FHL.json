@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the frame encompassing the protective eyewear lenses?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the overall form, what geometric descriptor best encapsulates the shape of these safety spectacles?",
+        "question": "Considering the overall form, what is the dominant shape of these safety glasses, as seen from this angle?",
         "answer": "Curved"
       },
       {
-        "question": "What material appears to constitute the majority of the eyewear frame's construction?",
+        "question": "What color is the primary frame material of the depicted safety eyewear?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the material of the safety glasses' frame?",
         "answer": "Plastic"
       },
       {
-        "question": "Observing the lenses, what single word best describes their visual transparency?",
+        "question": "Describe the transparency of the lenses visible in the provided image of the protective eyewear.",
         "answer": "Clear"
       },
       {
-        "question": "Examining the frame's structure, what is the most apparent style feature of the temples (arms)?",
-        "answer": "Slender"
-      },
-      {
-        "question": "What is the general visual texture of the protective eyewear frame's surface?",
+        "question": "What is the apparent texture of the safety glasses' frame, judging from the image?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent design characteristic of the safety glasses' lens shape?",
+        "question": "Observing the arms' connection to the frame, what type of hinge mechanism is used on these safety glasses?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Examining the lens structure, what is the visible style or design of the protective eyewear?",
         "answer": "Wraparound"
       },
       {
-        "question": "What single term describes the overall aesthetic of these safety glasses?",
-        "answer": "Sporty"
+        "question": "From this perspective, what is the apparent overall condition of the safety glasses presented?",
+        "answer": "New"
       },
       {
-        "question": "Based on the image, what is the apparent functional purpose of the eyewear?",
-        "answer": "Protection"
+        "question": "Focusing on the lens, are there any noticeable markings or coatings apparent on its surface?",
+        "answer": "None"
       },
       {
-        "question": "What appears to be the predominant construction method of this protective eyewear?",
-        "answer": "Molded"
+        "question": "Considering the frame design, what seems to be the intended use of these glasses, judging from the image alone?",
+        "answer": "Safety"
       },
       {
-        "question": "Judging from the image, are the lenses of the safety glasses tinted in any way?",
-        "answer": "No"
+        "question": "Describe the apparent style of the temples of the safety glasses shown in the image.",
+        "answer": "Standard"
       },
       {
-        "question": "What is the apparent degree of flexibility presented by the temples of the eyewear?",
-        "answer": "High"
+        "question": "What type of lens protection does the eyewear provide, as depicted in the image?",
+        "answer": "Impact"
       },
       {
-        "question": "Are there any visible markings or logos apparent on the frame itself?",
-        "answer": "No"
+        "question": "What is the apparent fit style of the safety glasses presented in the image?",
+        "answer": "Close"
       },
       {
-        "question": "Based on the shape of the lenses, what is the most likely visual field provided?",
-        "answer": "Wide"
+        "question": "Judging from the image, what kind of finish is applied to the frame of the safety eyewear?",
+        "answer": "Matte"
       },
       {
-        "question": "Describing the connection between the frame and the lenses, what word best describes the fit?",
-        "answer": "Secure"
+        "question": "From the image, can you describe the perceived level of detail on the design of the safety glasses?",
+        "answer": "Minimal"
       }
     ]
   }

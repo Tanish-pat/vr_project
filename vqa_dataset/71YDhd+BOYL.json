@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's design?",
+        "question": "What is the primary color scheme depicted on the phone case's design?",
         "answer": "Red"
       },
       {
-        "question": "What iconic symbol is prominently featured on the phone case?",
-        "answer": "Skull"
-      },
-      {
-        "question": "What specific character's skull is depicted on the case?",
+        "question": "What iconic character's skull is prominently featured on the phone case?",
         "answer": "Punisher"
       },
       {
-        "question": "What appears to be the primary material of the phone case?",
-        "answer": "Plastic"
+        "question": "What is the apparent texture of the skull graphic on the phone case?",
+        "answer": "Grunge"
       },
       {
-        "question": "Describe the overall texture of the skull graphic on the case.",
-        "answer": "Rough"
-      },
-      {
-        "question": "What color is the background behind the skull on the left side?",
-        "answer": "Black"
-      },
-      {
-        "question": "What kind of visual effect is used on the red portion of the background?",
-        "answer": "Splatter"
-      },
-      {
-        "question": "What is the apparent shape of the phone case itself?",
+        "question": "What is the overall shape of the product shown in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "Is the phone case design primarily photographic or illustrative?",
-        "answer": "Illustrative"
+        "question": "What seems to be the main material used for this protective phone cover?",
+        "answer": "Plastic"
       },
       {
-        "question": "Describe the style of the skull graphic in terms of its details.",
-        "answer": "Detailed"
+        "question": "Describe the background pattern on the phone case's design beside the skull?",
+        "answer": "Splattered"
       },
       {
-        "question": "What color is the skull's primary depiction on the phone case?",
+        "question": "What is the color of the skull's eye sockets in the image?",
         "answer": "White"
       },
       {
-        "question": "What is the overall design aesthetic of the phone case?",
+        "question": "What color is the apparent background portion on the left side of the case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What design element separates the red and black sections of the background?",
+        "answer": "Line"
+      },
+      {
+        "question": "What is the style of the skull's depiction on the phone case?",
         "answer": "Graphic"
       },
       {
-        "question": "What is the style of the background colors' application?",
-        "answer": "Abstract"
+        "question": "What is the apparent finish or sheen of the phone case's surface?",
+        "answer": "Matte"
       },
       {
-        "question": "Besides the skull, are there any other significant design elements?",
-        "answer": "None"
+        "question": "What is the overall aesthetic impression given by the case's design?",
+        "answer": "Gritty"
       },
       {
-        "question": "Does the image show any noticeable scratches on the case itself?",
+        "question": "Does the phone case appear to have any noticeable raised or textured elements?",
         "answer": "No"
+      },
+      {
+        "question": "Besides the skull, what other design element is clearly present on the case?",
+        "answer": "Blood"
+      },
+      {
+        "question": "Considering the image, what appears to be the phone case's level of transparency?",
+        "answer": "Clear"
       }
     ]
   }

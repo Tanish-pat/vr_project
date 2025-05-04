@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual design, what is the predominant style of this shoe?",
+        "question": "Considering the overall design, what is the primary style of this shoe, as visually evident?",
         "answer": "Brogue"
       },
       {
-        "question": "Focusing on the color scheme, what is the primary color of the shoe's upper?",
-        "answer": "Black"
-      },
-      {
-        "question": "Observing the material, what appears to be the main fabric used in constructing the shoe?",
+        "question": "Based on the visible texture, what material seems to predominantly compose the upper part of this footwear?",
         "answer": "Leather"
       },
       {
-        "question": "Looking at the sole, what is the color of the midsole visible between the outsole and upper?",
-        "answer": "Beige"
-      },
-      {
-        "question": "Regarding the lacing system, what type of closure mechanism is employed on this shoe?",
-        "answer": "Lace"
-      },
-      {
-        "question": "Analyzing the color distribution, what is the secondary color prominent on the shoe's toe and heel?",
+        "question": "Observing the color combination, what are the two primary shades used on the shoe's upper?",
         "answer": "Brown"
       },
       {
-        "question": "Examining the texture, describe the surface pattern on the brown section of the shoe.",
-        "answer": "Perforated"
-      },
-      {
-        "question": "Regarding the construction, what type of toe cap is visible on this shoe style?",
-        "answer": "Wingtip"
-      },
-      {
-        "question": "Describing the heel, what is the approximate height of the shoe's heel?",
-        "answer": "Low"
-      },
-      {
-        "question": "Looking at the sole's construction, what is the apparent material of the outsole?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Considering the shape of the toe box, what descriptive term best defines its shape?",
-        "answer": "Pointed"
-      },
-      {
-        "question": "Examining the stitching, what color is the visible stitching used on the shoe?",
+        "question": "Focusing on the laces, what is the apparent color of the lacing system used on this shoe?",
         "answer": "Black"
       },
       {
-        "question": "Regarding the overall aesthetic, would you classify this as a formal or casual style?",
-        "answer": "Formal"
+        "question": "Examining the sole, what color is the midsole stripe on this shoe?",
+        "answer": "White"
       },
       {
-        "question": "Focusing on the details, are there any visible decorative elements on the shoe?",
-        "answer": "Yes"
+        "question": "What is the visible color of the shoe's main body, excluding the secondary color section?",
+        "answer": "Black"
       },
       {
-        "question": "Based on its appearance, what is the most likely intended use for this style of shoe?",
-        "answer": "Dress"
+        "question": "Judging by the overall shape, what is the toe shape design of these shoes?",
+        "answer": "Wingtip"
+      },
+      {
+        "question": "What is the visible color of the secondary color section on the shoe?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Regarding the design, what type of closure mechanism is visibly present on the shoe?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Based on the image, what seems to be the main color of the outer sole of this shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visible material, what appears to be the composition of the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Judging by the design, how many visible sections of distinct color are present on the shoe's upper?",
+        "answer": "Two"
+      },
+      {
+        "question": "Looking at the overall construction, what is the visible type of heel present on these shoes?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the texture, describe the surface pattern on the brown part of the shoe?",
+        "answer": "Perforated"
+      },
+      {
+        "question": "What is the overall visible pattern on the brown section of the shoe's upper?",
+        "answer": "Brogue"
       }
     ]
   }

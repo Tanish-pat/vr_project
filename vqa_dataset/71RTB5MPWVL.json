@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a1455da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What iconic Parisian landmark is depicted on the phone case?",
+        "answer": "Eiffel"
+      },
+      {
+        "question": "What type of design pattern decorates the phone case's surface?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What kind of objects are illustrated besides the Eiffel Tower?",
+        "answer": "Macarons"
+      },
+      {
+        "question": "What appears to be the primary material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall style of the design on the phone case?",
+        "answer": "Girly"
+      },
+      {
+        "question": "What shapes are frequently used in the decorative elements?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the general aesthetic or theme of the phone case's artwork?",
+        "answer": "Parisian"
+      },
+      {
+        "question": "What specific confectionery items are visualized on the case?",
+        "answer": "Cakes"
+      },
+      {
+        "question": "What is the overall shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the texture of the printed design?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the design, what gender would this case most likely appeal to?",
+        "answer": "Female"
+      },
+      {
+        "question": "What is the apparent finish of the case's outer surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color are most of the smaller illustrated objects?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "How many noticeable colors dominate the design on the case?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

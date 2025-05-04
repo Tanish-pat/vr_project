@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the felt diaper caddy shown in the image?",
+        "question": "What is the primary color of the depicted felt storage container?",
         "answer": "Gray"
       },
       {
-        "question": "What material is primarily used in the construction of this baby item?",
+        "question": "What material is predominantly used in the construction of this diaper caddy?",
         "answer": "Felt"
       },
       {
-        "question": "Considering the compartments, what is the primary function of this gray felt container?",
-        "answer": "Storage"
-      },
-      {
-        "question": "How many main compartments are visibly present for organizing baby items?",
-        "answer": "Four"
-      },
-      {
-        "question": "Describe the overall three-dimensional shape of the baby product shown?",
+        "question": "Considering the overall structure, what is the most prominent shape of the container?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the texture of the fabric used to make this baby product?",
-        "answer": "Soft"
+        "question": "How many distinct compartments are visibly present within the organizer's main body?",
+        "answer": "Four"
       },
       {
-        "question": "How many handles are visible on the top of this felt container?",
+        "question": "Observing the handle design, what is the count of carrying handles on the item?",
         "answer": "Two"
       },
       {
-        "question": "Are there any smaller pockets visible on the exterior side of this caddy?",
+        "question": "Judging by the image, what is the texture of the fabric used for the external surfaces?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based solely on visual inspection, what appears to be the storage capacity of the caddy?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Are there any additional smaller pockets visible on the exterior of the main compartments?",
         "answer": "Yes"
       },
       {
-        "question": "What is the apparent design style of this felt organizer container for babies?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Based on the image, what is the design of the handles on the storage container?",
+        "question": "Describe the style of the handles attached to the top of the felt storage container.",
         "answer": "Loop"
       },
       {
-        "question": "Considering the compartments, what is the intended use of the felt container?",
-        "answer": "Diaper"
+        "question": "What seems to be the primary intended function of this item, based on its visual features?",
+        "answer": "Storage"
       },
       {
-        "question": "What kind of structure do the felt dividers inside create in the caddy?",
-        "answer": "Sections"
+        "question": "Does the image depict any visible seams or stitching on the container's exterior?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the overall appearance of the seams on this felt baby item?",
-        "answer": "Clean"
+        "question": "What is the apparent overall visual impression created by the design of this product?",
+        "answer": "Simple"
       },
       {
-        "question": "Judging by the image, is this item foldable for storage when not in use?",
-        "answer": "No"
+        "question": "What kind of construction technique seems to have been used for the main body of the item?",
+        "answer": "Seamed"
       },
       {
-        "question": "What is the apparent overall condition of this felt storage caddy?",
-        "answer": "New"
+        "question": "Judging from its appearance, what seems to be the general weight of this felt storage unit?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent rigidity or flexibility of the container's structure?",
+        "answer": "Flexible"
       }
     ]
   }

@@ -9,11 +9,11 @@
         "answer": "Gold"
       },
       {
-        "question": "What material is explicitly labelled on the spool?",
+        "question": "What material is explicitly labeled on the spool?",
         "answer": "PETG"
       },
       {
-        "question": "What is the overall shape of the product shown?",
+        "question": "What is the overall shape of the product presented?",
         "answer": "Circular"
       },
       {
@@ -21,48 +21,48 @@
         "answer": "Black"
       },
       {
-        "question": "What brand is visibly printed on the spool?",
+        "question": "What brand name is prominently displayed on the spool?",
         "answer": "Amazonbasics"
       },
       {
-        "question": "What appears to be the material of the spool's outer casing?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "How many sections does the central hub of the spool have?",
-        "answer": "Six"
-      },
-      {
-        "question": "What is the apparent texture of the filament itself?",
+        "question": "Describe the texture of the filament visible in the image.",
         "answer": "Smooth"
       },
       {
-        "question": "What is the overall design style of the product's labeling?",
-        "answer": "Minimalist"
+        "question": "How many visible segments divide the spool's outer ring?",
+        "answer": "Six"
       },
       {
-        "question": "Considering the visible details, what is the primary function of the product?",
+        "question": "What appears to be the primary function of this product?",
         "answer": "Filament"
       },
       {
-        "question": "What color are the small rectangular features near the filament?",
-        "answer": "Gold"
+        "question": "What is the apparent weight or size of the product in kilograms?",
+        "answer": "1"
       },
       {
-        "question": "What kind of writing is present on the spool's label (English/other)?",
-        "answer": "English"
+        "question": "What type of material seems to constitute the spool's outer casing?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the apparent state of the filament within the spool (wound/loose)?",
-        "answer": "Wound"
+        "question": "Is the text on the spool primarily horizontal or vertical?",
+        "answer": "Vertical"
       },
       {
-        "question": "Describe the overall condition of the product as presented (new/used)?",
-        "answer": "New"
+        "question": "What is the visible design element in each filament compartment?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the visible form of the filament (solid/powder)?",
-        "answer": "Solid"
+        "question": "What seems to be the printing diameter of the filament in mm?",
+        "answer": "1.75"
+      },
+      {
+        "question": "Considering the product's nature, what technology is it associated with?",
+        "answer": "3D"
+      },
+      {
+        "question": "What language is used for some of the text on the spool?",
+        "answer": "Spanish"
       }
     ]
   }

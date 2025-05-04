@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the leather used in the construction of this men's dress shoe?",
+        "question": "What is the primary color of the visible leather upper section of this men's dress shoe?",
         "answer": "Brown"
       },
       {
-        "question": "Considering the overall form, what is the most accurate description of the shape of the shoe's toe?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "Based on visual observation, what appears to be the primary material of this classic-style men's shoe?",
-        "answer": "Leather"
-      },
-      {
-        "question": "What type of closure system is visibly present on the upper portion of the shoe?",
-        "answer": "Lace"
-      },
-      {
-        "question": "Observing the surface, what is the apparent texture of the leather material used in manufacturing?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent style or design classification of this footwear, considering its structural elements?",
+        "question": "Considering the overall form and closure, what is the most precise style classification of this footwear?",
         "answer": "Oxford"
       },
       {
-        "question": "What is the color of the laces used in this particular footwear item as observed in the product image?",
-        "answer": "Brown"
+        "question": "What appears to be the dominant material used in the construction of the visible parts of this shoe?",
+        "answer": "Leather"
       },
       {
-        "question": "Can you describe the style of the heel observed on this men's formal shoe?",
-        "answer": "Low"
+        "question": "Observing the lacing system, what kind of fastening mechanism is employed for adjusting the fit of this shoe?",
+        "answer": "Lace"
       },
       {
-        "question": "What is the overall aesthetic or design style implied by the shape, details, and material of the shoe?",
-        "answer": "Formal"
-      },
-      {
-        "question": "What is the discernible type of sole visually observed on the bottom of the shoe?",
+        "question": "Judging by the visible surface texture, what is the overall tactile quality of the shoe's exterior?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the branding, what is visible indicating the manufacturer or brand of the product?",
-        "answer": "Symbol"
+        "question": "Based on the shape of the toe area, what type of toe is featured on this particular shoe model?",
+        "answer": "Cap"
       },
       {
-        "question": "Describe the visual pattern or design apparent on the main body of the shoe?",
-        "answer": "Plain"
+        "question": "Examining the sole's visible perimeter, what design characteristic is prominently seen near the shoe's edges?",
+        "answer": "Stitch"
       },
       {
-        "question": "What is the visible color of the interior lining of this formal leather men's shoe?",
-        "answer": "Brown"
+        "question": "Considering the structural components, what type of heel design does the visible part of this shoe present?",
+        "answer": "Low"
       },
       {
-        "question": "Focusing on the lace-up area, describe the arrangement of the eyelets on the shoe.",
-        "answer": "Closed"
-      },
-      {
-        "question": "Based on the visible features, what is the likely intended use or occasion for this shoe?",
+        "question": "What is the overall visual impression conveyed by the color and style of this shoe regarding its intended usage?",
         "answer": "Formal"
+      },
+      {
+        "question": "Based on the visible design, is the shoe structured for a narrow or wider foot shape?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "From the image, is there any visible branding or logo imprinted on the shoe's interior?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the shape of the shoe's profile, does the shoe design appear more rounded or pointed?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent level of shine displayed on the visible leather surfaces of this dress shoe?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the visible stitching, what can you observe regarding its regularity and neatness?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Considering the color, what shade of brown best describes the shoe\u2019s leather?",
+        "answer": "Tan"
       }
     ]
   }

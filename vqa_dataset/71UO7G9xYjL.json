@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the wireless charging pad?",
+        "question": "What is the predominant color of the wireless charging pad?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the charging pad's base?",
         "answer": "Oval"
       },
       {
-        "question": "What dominant color is the charging pad's exterior?",
-        "answer": "Black"
-      },
-      {
-        "question": "How many individual charging coils are visibly present?",
+        "question": "How many individual charging coils are visibly present on the pad?",
         "answer": "Two"
       },
       {
-        "question": "What appears to be the primary material of the device's surface?",
+        "question": "What appears to be the material composition of the charging surface?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the texture, what is the apparent finish of the charging pad?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the visible color of the charging coil indicators?",
-        "answer": "Black"
-      },
-      {
-        "question": "Describing the cable, what color is the power cord attached?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the apparent design style of the charging pad?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Considering the product's functionality, what is its main purpose?",
-        "answer": "Charging"
-      },
-      {
-        "question": "Does the device have any noticeably prominent branding?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What type of charging is indicated by the device's design?",
-        "answer": "Wireless"
-      },
-      {
-        "question": "Observing the surface, is the texture smooth or rough?",
+        "question": "Describe the texture of the charging pad's top surface, based on visual cues?",
         "answer": "Smooth"
       },
       {
-        "question": "In terms of form factor, is the pad thick or thin?",
+        "question": "What is the apparent finish of the charging pad's exterior?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of connector is visible on the charging pad's power cable?",
+        "answer": "USB"
+      },
+      {
+        "question": "Is there any visible branding or logo on the charging pad?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent design style of the wireless charging pad?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging by the image, does the charging pad appear to be thick or thin?",
         "answer": "Thin"
       },
       {
-        "question": "What does the overall build quality seem to be?",
-        "answer": "Solid"
+        "question": "Describe the arrangement of the charging coils relative to each other.",
+        "answer": "Parallel"
       },
       {
-        "question": "Regarding the design, are the charging areas clearly defined?",
+        "question": "What is the apparent condition of the charging pad's surface?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the visible orientation of the charging pad's power cable?",
+        "answer": "Rear"
+      },
+      {
+        "question": "Based on the image, does the charging pad have any raised edges?",
         "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any visible signs of wear or damage on the pad?",
+        "answer": "No"
       }
     ]
   }

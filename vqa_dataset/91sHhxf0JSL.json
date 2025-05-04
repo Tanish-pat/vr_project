@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary material visibly composing the wine rack's structure?",
+        "question": "What is the primary material visibly used in constructing this wine rack?",
         "answer": "Wood"
       },
       {
-        "question": "Considering the overall form, what is the dominant shape of this wine rack?",
+        "question": "What is the overall shape or form of the presented wine bottle holder?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the color family of the wooden planks that make up this wine rack?",
+        "question": "Considering the visible color palette, what shade predominantly characterizes this item?",
         "answer": "Brown"
       },
       {
-        "question": "Discerning the texture, what kind of wood finish is predominantly displayed?",
-        "answer": "Rustic"
-      },
-      {
-        "question": "Describing the arrangement, how are the bottle-holding holes configured on the rack?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "Judging by the visible holes, what is the intended function of this wooden structure?",
-        "answer": "Storage"
-      },
-      {
-        "question": "Considering the design, how many vertical wooden slats comprise the entire rack?",
+        "question": "How many vertical wooden slats are visibly present in this wall-mounted wine rack?",
         "answer": "Four"
       },
       {
-        "question": "Based on the visible holes, what is the approximate capacity of this wine rack?",
+        "question": "What is the apparent texture of the wood utilized in the construction of the wine rack?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the form of the openings designed to accommodate the wine bottles?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What seems to be the style of the wine rack's visible design or aesthetic?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Based on visible construction, is this wine rack intended for wall mounting or tabletop placement?",
+        "answer": "Wall"
+      },
+      {
+        "question": "What appears to be the approximate number of wine bottles this rack can hold?",
         "answer": "Twelve"
       },
       {
-        "question": "What is the visible pattern of the holes that accommodate the wine bottles?",
-        "answer": "Repeating"
+        "question": "Considering the arrangement of the bottle holes, how are they organized within the rack?",
+        "answer": "Vertical"
       },
       {
-        "question": "Considering the wood's appearance, is the grain of the wood visible in this rack?",
-        "answer": "Yes"
+        "question": "What is the visible overall color tone of the wooden slats?",
+        "answer": "Dark"
       },
       {
-        "question": "Considering the appearance, how would you characterize the overall style of this rack?",
-        "answer": "Farmhouse"
+        "question": "Does the image suggest any type of finish applied to the visible wood surface?",
+        "answer": "Matte"
       },
       {
-        "question": "From the image, what is the orientation of the wine bottle slots within the rack?",
-        "answer": "Horizontal"
+        "question": "Describe the visible grain pattern of the wood in the wine rack's construction?",
+        "answer": "Linear"
       },
       {
-        "question": "Considering the lack of any additional parts, what is the style of construction?",
-        "answer": "Simple"
+        "question": "Considering the gaps between the wooden slats, how would you describe them?",
+        "answer": "Even"
       },
       {
-        "question": "Considering the design, what is the primary method for supporting the wine bottles?",
-        "answer": "Holes"
-      },
-      {
-        "question": "Based on the color, does the wood appear to be stained or naturally this shade?",
-        "answer": "Stained"
+        "question": "Are there any visible markings or labels on the wine rack in the image?",
+        "answer": "None"
       }
     ]
   }

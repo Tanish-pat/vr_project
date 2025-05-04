@@ -9,60 +9,60 @@
         "answer": "Silver"
       },
       {
-        "question": "What is the overall shape of the pendant's central design element?",
-        "answer": "Heart"
+        "question": "What is the dominant shape of the pendant's central design element?",
+        "answer": "Hearts"
       },
       {
-        "question": "Considering the pendant, how many intertwined hearts are visibly present?",
+        "question": "Considering the pendant's design, how many intertwined hearts are visually present?",
         "answer": "Two"
       },
       {
-        "question": "Describe the apparent finish of the necklace's metallic components.",
-        "answer": "Shiny"
-      },
-      {
-        "question": "What type of clasp is visibly used to secure the necklace?",
-        "answer": "Lobster"
-      },
-      {
-        "question": "Judging by the image, what is the length of the necklace chain?",
-        "answer": "Medium"
-      },
-      {
-        "question": "What is the apparent style of the necklace chain links?",
+        "question": "What is the overall style of the necklace's chain, based on its visual appearance?",
         "answer": "Delicate"
       },
       {
-        "question": "Is there any visible embellishment or stone setting on the pendant?",
-        "answer": "No"
+        "question": "Describing the necklace's clasp, what is its apparent functional type?",
+        "answer": "Lobster"
       },
       {
-        "question": "Does the necklace appear to have a simple or ornate design?",
-        "answer": "Simple"
+        "question": "What seems to be the finish of the metal used in the necklace's creation?",
+        "answer": "Shiny"
       },
       {
-        "question": "What is the apparent overall color of the necklace?",
-        "answer": "Silver"
-      },
-      {
-        "question": "What is the material that the pendant appears to be made from?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the apparent texture of the necklace chain?",
+        "question": "Based on its visual texture, what kind of metal does the necklace appear to be?",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the overall visual impression of the necklace's weight.",
-        "answer": "Light"
+        "question": "Considering the pendant's design, what kind of connection is apparent between the hearts?",
+        "answer": "Intertwined"
       },
       {
-        "question": "Considering the pendant's design, what is its level of detail?",
-        "answer": "Minimal"
+        "question": "Observing the necklace's length, how would you generally categorize its drop?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the apparent overall color of the necklace and pendant combined?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the visible length of the chain, from clasp to pendant?",
+        "answer": "Short"
       },
       {
         "question": "What is the apparent thickness of the necklace chain?",
         "answer": "Thin"
+      },
+      {
+        "question": "What visual design element dominates the pendant's appearance?",
+        "answer": "Hearts"
+      },
+      {
+        "question": "Judging from the image, what type of jewelry is shown?",
+        "answer": "Necklace"
+      },
+      {
+        "question": "What is the apparent setting style of the pendant's hearts?",
+        "answer": "Simple"
       }
     ]
   }

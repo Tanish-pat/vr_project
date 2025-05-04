@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary ingredient explicitly mentioned on the product label, suggesting its core flavor profile?",
+        "question": "Considering the textual information presented, what primary vegetable is predominantly featured in this product?",
         "answer": "Broccoli"
       },
       {
-        "question": "Observing the text, what secondary ingredient is listed, indicating an added richness or flavor?",
+        "question": "What type of oil, clearly indicated in the text, is used as a component of this food item?",
         "answer": "Olive"
       },
       {
-        "question": "Considering the label's text, what additional element is included to enhance the taste of the product?",
-        "answer": "Salt"
-      },
-      {
-        "question": "Based on the label's information, what spice is used to add a certain zest to the overall composition?",
+        "question": "Based on the textual details, what common culinary spice is included among the ingredients?",
         "answer": "Pepper"
       },
       {
-        "question": "What is the overall style of the text detailing the ingredients and production information on the product?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "Examining the text, what type of oil is notably mentioned as a key ingredient in the listed composition?",
-        "answer": "Virgin"
-      },
-      {
-        "question": "What term on the label specifies the kind of salt, suggesting a purer or more natural variety?",
+        "question": "Referring to the visible text, what type of salt is specified as an ingredient in this food product?",
         "answer": "Sea"
       },
       {
-        "question": "Considering the label, what additional information is given regarding the production facility and potential allergens?",
-        "answer": "Produced"
+        "question": "As indicated by the text, what additional ingredient is included besides broccoli, olive oil, salt, and pepper?",
+        "answer": "Pepper"
       },
       {
-        "question": "Focusing on the warning, what specific nut type is mentioned among the processed ingredients in this facility?",
-        "answer": "Nuts"
+        "question": "From the textual information, which type of nut is mentioned as processed in the same facility?",
+        "answer": "Tree"
       },
       {
-        "question": "What common dairy product is listed among potential allergens due to shared processing?",
+        "question": "According to the text, what dairy product is processed in the manufacturing facility?",
         "answer": "Milk"
       },
       {
-        "question": "Besides nuts and milk, what other potential allergen is explicitly stated among the processed ingredients?",
-        "answer": "Eggs"
-      },
-      {
-        "question": "Among the listed potential allergens, what kind of seafood is mentioned to warn of possible cross-contamination?",
+        "question": "The text indicates that what type of seafood is processed within the same production environment?",
         "answer": "Shellfish"
       },
       {
-        "question": "What other type of seafood is indicated as having been processed in the same facility as the product?",
-        "answer": "Fish"
-      },
-      {
-        "question": "Which common grain is highlighted as a potential allergen due to the shared processing environment?",
+        "question": "What grain is named as being processed at the same plant indicated in the text?",
         "answer": "Wheat"
       },
       {
-        "question": "In addition to nuts, milk, eggs, shellfish, and fish, what other major allergen is mentioned as potentially present?",
+        "question": "As shown on the text, what legume is also processed at the same facility?",
         "answer": "Soy"
+      },
+      {
+        "question": "What is the primary message conveyed by the presented textual information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the secondary message printed on the label, regarding the manufacturing process?",
+        "answer": "Produced"
+      },
+      {
+        "question": "Considering the typeface style, what could we describe the font as?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall color palette used in presenting this textual information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the physical form of this product's label, based on what is observable?",
+        "answer": "Text"
       }
     ]
   }

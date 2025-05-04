@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the grain mixture visible through the packaging?",
+        "question": "What is the primary color of the grain blend shown on the package?",
         "answer": "Beige"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Rectangular"
       },
       {
-        "question": "What is the primary material of the product's packaging?",
+        "question": "What material is the primary packaging made from?",
         "answer": "Plastic"
       },
       {
-        "question": "What type of food is depicted on the bag's front label?",
+        "question": "What is the predominant texture of the grain mix visible in the package?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What type of food product does the packaging primarily describe?",
         "answer": "Grains"
       },
       {
-        "question": "What is the texture of the grain blend as visually suggested?",
-        "answer": "Granular"
+        "question": "What is the prominently displayed brand name on the package?",
+        "answer": "365"
       },
       {
-        "question": "What word describes the apparent size of the grains?",
-        "answer": "Small"
-      },
-      {
-        "question": "What is the color of the text prominently displayed on the packaging?",
-        "answer": "Green"
-      },
-      {
-        "question": "What term best defines the type of grains featured?",
-        "answer": "Super"
-      },
-      {
-        "question": "What is the visual quality of the grain mix within the package?",
-        "answer": "Mixed"
-      },
-      {
-        "question": "What is the main color of the brand logo on the bag?",
-        "answer": "Green"
-      },
-      {
-        "question": "What word indicates the product's certification?",
+        "question": "What word describes the grain blend's main characteristic?",
         "answer": "Organic"
       },
       {
-        "question": "What is the shape of the small logo beneath the text?",
-        "answer": "Circular"
+        "question": "What is indicated as a blend component, visually confirmed on the package?",
+        "answer": "Quinoa"
       },
       {
-        "question": "What is the type of seal at the top of the bag?",
+        "question": "What is the descriptor for the different grain varieties?",
+        "answer": "Super"
+      },
+      {
+        "question": "What is the visible packaging type, as seen in the image?",
         "answer": "Resealable"
       },
       {
-        "question": "What is the style of the text font on the bag?",
-        "answer": "Sans-serif"
+        "question": "What additional grain is listed on the product package?",
+        "answer": "Millet"
       },
       {
-        "question": "What is visually implied by the inclusion of a price sticker?",
-        "answer": "Retail"
+        "question": "What color are some of the smaller grains in the mix?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is another grain included in the blend, as per the packaging?",
+        "answer": "Buckwheat"
+      },
+      {
+        "question": "What is the overall style of the packaging's design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the visible unit of weight displayed on the bag?",
+        "answer": "Ounces"
       }
     ]
   }

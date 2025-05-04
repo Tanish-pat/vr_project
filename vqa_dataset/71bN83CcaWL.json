@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the text blocks on this medication packaging?",
+        "question": "What is the dominant color scheme of the text and background on this pharmaceutical product insert?",
         "answer": "Blue"
       },
       {
-        "question": "Considering the overall layout, what is the primary design style employed in this product's packaging?",
-        "answer": "Informative"
-      },
-      {
-        "question": "What is the most prominent type of information presented across the different sections of this insert?",
-        "answer": "Warnings"
-      },
-      {
-        "question": "What is the overall texture of the paper that seems to be used for this product's packaging?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Based on the font and layout, what is the likely intended audience for this medicine's packaging information?",
-        "answer": "Adults"
-      },
-      {
-        "question": "What is the overall shape of each section containing specific information about the medication?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What kind of text is predominantly used on this product's packaging; is it primarily serif or sans-serif?",
+        "question": "What is the primary typeface used for the 'Drug Facts' heading on the medication leaflet?",
         "answer": "Sans-serif"
       },
       {
-        "question": "Considering the formatting, is the information presented in this packaging predominantly textual or graphical?",
-        "answer": "Textual"
+        "question": "Considering the overall layout, what is the predominant organizational style used to present the drug information?",
+        "answer": "Columnar"
       },
       {
-        "question": "What is the general tone of the instructions presented on this medication\u2019s packaging; formal or informal?",
-        "answer": "Formal"
-      },
-      {
-        "question": "What type of paper does the insert appear to be printed on; glossy or matte?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the size of the text used in the headings compared to the body paragraphs; larger or smaller?",
+        "question": "What is the size of the font used for 'Active Ingredients' in comparison to other text sections?",
         "answer": "Larger"
       },
       {
-        "question": "Considering the visual prominence, is the focus on active ingredients or inactive ingredients?",
-        "answer": "Active"
+        "question": "What is the format of the information presented for both the 'Active Ingredients' and 'Purposes' sections?",
+        "answer": "tabular"
       },
       {
-        "question": "What is the relative density of text on the page; sparse or dense?",
-        "answer": "Dense"
+        "question": "What kind of paper stock seems to have been used for the printing of this insert?",
+        "answer": "Glossy"
       },
       {
-        "question": "What is the visual emphasis on dosage instructions, is it clearly highlighted or subtly integrated?",
-        "answer": "Highlighted"
+        "question": "Based on the visual structure, is there evidence of separate sections dedicated to warnings and directions?",
+        "answer": "Yes"
       },
       {
-        "question": "Judging by the design elements, does the packaging suggest a strong focus on safety precautions or efficacy?",
-        "answer": "Safety"
+        "question": "Does the leaflet appear to include detailed information regarding the possible side effects of using this medicine?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the layout, is there a distinct area where contact information or a customer service number is visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How is the text organized within the sections, such as 'Warnings' or 'Directions'?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Judging by the image, what seems to be the overall fold pattern of this drug information leaflet?",
+        "answer": "Panel"
+      },
+      {
+        "question": "Considering the layout, does the leaflet show a clear distinction between active and inactive ingredients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual appearance, what is the approximate number of panels present on this leaflet?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the overall shape of the information presented on this drug information leaflet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the leaflet prominently feature a section specifically designated for 'Other Information'?",
+        "answer": "Yes"
       }
     ]
   }

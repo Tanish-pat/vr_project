@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/334bf8be.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the visible textile portion of this item?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What fiber type is predominantly used in the construction of this product, as indicated by the attached label?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Considering the texture and visual appearance, what is the likely feel of the item's outer surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on its form, what is the overall three-dimensional shape of the product shown in the image?",
+        "answer": "Pillow"
+      },
+      {
+        "question": "Observing the attached label, what country is this product declared to have been manufactured in?",
+        "answer": "India"
+      },
+      {
+        "question": "What is the visible, primary material used as filling in this item, as stated on its label?",
+        "answer": "Pellets"
+      },
+      {
+        "question": "Judging by its shape and probable function, what is the item's intended purpose, as suggested by its appearance?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "What is the secondary color present in the visible portion of the textile, slightly lighter than the primary color?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the brand name indicated on the attached care label that is sewn into the item?",
+        "answer": "Jam"
+      },
+      {
+        "question": "Examining the label, what type of material is exclusively utilized in the product's construction?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "From the label, what additional word follows 'Jam' in the brand name?",
+        "answer": "Honey"
+      },
+      {
+        "question": "What number is visible on the product's label, possibly indicative of a size or quantity?",
+        "answer": "5"
+      },
+      {
+        "question": "What descriptive word describes the product\u2019s filling material state as indicated on the label?",
+        "answer": "New"
+      },
+      {
+        "question": "What single word best describes the visible texture of the product's outer fabric?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What single word describes the appearance of the product based on its shape and dimensions?",
+        "answer": "Cushion"
+      }
+    ]
+  }
+]

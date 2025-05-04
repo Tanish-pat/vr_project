@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what best describes the bag's primary shape?",
-        "answer": "Bucket"
+        "question": "Considering the overall form, what is the dominant geometrical shape of this handbag?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What color is the dominant hue of the handbag's exterior?",
-        "answer": "Blush"
-      },
-      {
-        "question": "Based on visual texture, what material appears to be used for the bag's body?",
+        "question": "What appears to be the primary material used in the visible construction of this handbag?",
         "answer": "Leather"
       },
       {
-        "question": "Observing the bag's structure, how many main compartments are visibly present?",
-        "answer": "One"
+        "question": "Discerning from the image, what is the most prominent color of this handbag?",
+        "answer": "Beige"
       },
       {
-        "question": "What is the apparent construction of the top of the handbag?",
-        "answer": "Open"
-      },
-      {
-        "question": "What type of handles does this handbag possess for carrying?",
+        "question": "Focusing on the handle structure, what kind of handle does this tote bag appear to possess?",
         "answer": "Shoulder"
       },
       {
-        "question": "Judging by the visual details, what is the apparent finish of the bag's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What appears to be the metallic color of the bag's hardware?",
-        "answer": "Gold"
-      },
-      {
-        "question": "Considering the overall silhouette, what is the bag's style best described as?",
-        "answer": "Casual"
-      },
-      {
-        "question": "What seems to be the primary fastening mechanism for the bag, if any?",
-        "answer": "None"
-      },
-      {
-        "question": "Describe the visible stitching present on the bag's exterior.",
-        "answer": "Minimal"
-      },
-      {
-        "question": "What is the visible presence of any external pockets on the bag?",
-        "answer": "None"
-      },
-      {
-        "question": "Describe the visual appearance of the bag's base, is it flat or structured?",
+        "question": "Examining the bag's base, what is the shape of the bottom of this handbag?",
         "answer": "Flat"
       },
       {
-        "question": "Judging from the images, does the bag display any prominent branding or logos?",
-        "answer": "No"
+        "question": "Based on the visual texture, how would you describe the surface of the handbag?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the apparent overall size of the handbag?",
-        "answer": "Medium"
+        "question": "Judging from the image, how many main compartments are visibly present on this bag?",
+        "answer": "One"
+      },
+      {
+        "question": "Analyzing the clasp or closure, what type of fastener does this handbag seem to utilize?",
+        "answer": "Magnetic"
+      },
+      {
+        "question": "What is the visible overall style of the displayed handbag?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the stitching, how would you characterize the visible stitching on this bag?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Describe the apparent sheen or luminosity of this handbag's exterior surface.",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color are the visible metal accents on the handbag?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Considering the design details, what is the overall design aesthetic of this purse?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What kind of bag is it, based on its size and design?",
+        "answer": "Tote"
+      },
+      {
+        "question": "What appears to be the main function of the visible straps?",
+        "answer": "Carrying"
       }
     ]
   }

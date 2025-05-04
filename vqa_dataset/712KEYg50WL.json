@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b8a9fbb8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the density of the text, what is the primary format of the displayed information?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the font style, which best describes the typeface used for the text on the provided image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant color of the background against which the text is displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the text's organization and style, what is the apparent purpose of this rectangular information display?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the content's structure, what is the primary subject matter detailed on the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Given the textual details provided, what is one of the listed ingredients present?",
+        "answer": "Molasses"
+      },
+      {
+        "question": "Based on the text presented, is the manufacturing facility allergen-free?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the ingredients list, is there mention of any plant-based components?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the textual information, what is one of the listed processing ingredients?",
+        "answer": "Wax"
+      },
+      {
+        "question": "Analyzing the overall text style, what is the size of the provided text?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the overall alignment of the text blocks within the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the text provided, what is the manufacturing method indicated?",
+        "answer": "Processed"
+      },
+      {
+        "question": "Is there any visual indication of a logo or company branding present within the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Looking at the content, is there any indication of specific quantities related to ingredients?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the list of ingredients, what is one of the specified additives listed?",
+        "answer": "Gum"
+      }
+    ]
+  }
+]

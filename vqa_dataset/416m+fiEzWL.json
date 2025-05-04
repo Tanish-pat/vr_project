@@ -1,0 +1,49 @@
+[
+  {
+    "path": "images/small/82/825bbc93.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what specific tree nut is explicitly mentioned as an ingredient?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Based on the provided text, which type of sugar is listed among the ingredients?",
+        "answer": "Cane"
+      },
+      {
+        "question": "According to the label's declaration, what other ingredient, besides coconut and sugar, is included?",
+        "answer": "Salt"
+      },
+      {
+        "question": "As indicated by the text, what is the certification status of at least one ingredient?",
+        "answer": "Certified"
+      },
+      {
+        "question": "What adjective describes the coconut and sugar mentioned in the ingredients list?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What term describes the kind of salt used, according to the ingredient list?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What is the certification program name indicated as associated with an ingredient?",
+        "answer": "Fair"
+      },
+      {
+        "question": "The text on the label refers to a category of nuts. What word is used to describe this category?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What word is used to describe the composition of a part of the ingredient list?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What word is used to title the section describing the food's components?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

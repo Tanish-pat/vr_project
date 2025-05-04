@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4a8528ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the backpack's main body?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the backpack's exterior?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape of the backpack from this perspective?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the backpack's shoulder straps and trim?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the backpack's outer material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "How many main compartments are visibly present on the backpack?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the backpack appear to have any external pockets visible from this angle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible style of the backpack's straps?",
+        "answer": "Padded"
+      },
+      {
+        "question": "Are there any noticeable design elements like stitching visible on the backpack?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of closure system seems to be used for the main compartment?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "What is the apparent size of the backpack relative to a human torso?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Are there any visible reflective elements on the backpack?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the backpack's design more structured or slouchy in appearance?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Describe the visible pattern on the backpack's main fabric area?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What appears to be the overall style of this backpack?",
+        "answer": "Casual"
+      }
+    ]
+  }
+]

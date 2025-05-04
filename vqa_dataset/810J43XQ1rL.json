@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the bottle's label?",
+        "question": "What is the primary color of the bottle's label?",
         "answer": "White"
       },
       {
-        "question": "What type of supplement is indicated on the label?",
-        "answer": "Vitamin"
-      },
-      {
-        "question": "What is the specific vitamin featured prominently on the label?",
+        "question": "What vitamin does the product contain, as shown on the label?",
         "answer": "E"
       },
       {
-        "question": "What is the dosage of the vitamin, as explicitly stated?",
-        "answer": "200"
-      },
-      {
-        "question": "What unit of measurement follows the vitamin dosage?",
-        "answer": "IU"
-      },
-      {
-        "question": "What additional ingredient is mentioned alongside the vitamin?",
-        "answer": "Tocopherols"
-      },
-      {
-        "question": "What is the shape of the supplement container?",
+        "question": "What is the shape of the container holding the supplement?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What is the primary material of the supplement container?",
+        "question": "What material appears to constitute the supplement container?",
         "answer": "Plastic"
       },
       {
-        "question": "What color is the cap of the supplement bottle?",
+        "question": "What is the predominant color of the brand logo visible on the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the form in which the Vitamin E is presented?",
+        "answer": "Capsules"
+      },
+      {
+        "question": "What is the indicated dosage of Vitamin E in the product?",
+        "answer": "200"
+      },
+      {
+        "question": "What unit is used to measure the vitamin E dosage?",
+        "answer": "IU"
+      },
+      {
+        "question": "What additional ingredient is explicitly mentioned alongside Vitamin E?",
+        "answer": "Tocopherols"
+      },
+      {
+        "question": "What type of supplement is indicated on the label?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What is the color of the cap on top of the bottle?",
         "answer": "White"
       },
       {
-        "question": "What is the overall texture of the bottle's label?",
-        "answer": "Smooth"
+        "question": "What is printed below the brand name on the label?",
+        "answer": "Vitamin"
       },
       {
-        "question": "What is the type of product as stated on the label?",
-        "answer": "Supplement"
-      },
-      {
-        "question": "What brand name is displayed on the label?",
-        "answer": "365"
-      },
-      {
-        "question": "What is the number of capsules indicated?",
+        "question": "How many capsules are indicated to be in the bottle?",
         "answer": "120"
       },
       {
-        "question": "What is the color of the text on the label?",
-        "answer": "Black"
+        "question": "What word describes the overall style of the label design?",
+        "answer": "Minimalist"
       },
       {
-        "question": "What type of design elements are on the label besides text?",
-        "answer": "Floral"
+        "question": "What is the brand name of the product shown on the label?",
+        "answer": "365"
       }
     ]
   }
