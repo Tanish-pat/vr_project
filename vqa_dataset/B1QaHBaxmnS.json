@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the rug's intricate pattern?",
+        "question": "What is the predominant color of the rug's main design?",
         "answer": "Brown"
       },
       {
-        "question": "Describe the overall shape of the displayed floor covering?",
+        "question": "What is the overall shape of the depicted floor covering?",
         "answer": "Rectangular"
       },
       {
-        "question": "What style of pattern adorns the surface of this area rug?",
-        "answer": "Floral"
-      },
-      {
-        "question": "What is the apparent texture of the rug's woven fabric?",
-        "answer": "Textured"
-      },
-      {
-        "question": "Considering the pattern's density, how detailed is its design?",
-        "answer": "Intricate"
-      },
-      {
-        "question": "What type of visual effect is created by the pattern's repetition?",
-        "answer": "Repetitive"
-      },
-      {
-        "question": "Based on its appearance, what is the most likely material?",
+        "question": "What appears to be the texture of the rug's surface?",
         "answer": "Woven"
       },
       {
-        "question": "Describe the general color scheme of the rug's design elements?",
-        "answer": "Monochromatic"
+        "question": "Describe the style of the intricate pattern across the rug.",
+        "answer": "Floral"
       },
       {
-        "question": "What is the dominant tone within the rug's color palette?",
+        "question": "What is the apparent material composition of the rug?",
+        "answer": "Wool"
+      },
+      {
+        "question": "What is the color of the rug's secondary design elements?",
         "answer": "Beige"
       },
       {
-        "question": "How would you characterize the rug's pattern in terms of complexity?",
-        "answer": "Complex"
+        "question": "Considering the design, what is the rug's overall aesthetic?",
+        "answer": "Traditional"
       },
       {
-        "question": "What is the appearance of the edges of the rectangular rug?",
-        "answer": "Defined"
+        "question": "Does the rug exhibit a high or low pile height?",
+        "answer": "Low"
       },
       {
-        "question": "Is the rug's pattern symmetrical or asymmetrical in appearance?",
+        "question": "What kind of border does the rug feature around its edges?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Is the rug's design symmetrical or asymmetrical?",
         "answer": "Symmetrical"
       },
       {
-        "question": "Considering the visual details, what is the apparent weave type?",
-        "answer": "Tight"
-      },
-      {
-        "question": "How would you describe the visual density of the rug's pattern?",
+        "question": "What is the density of the pattern on the rug's surface?",
         "answer": "High"
       },
       {
-        "question": "What is the overall visual impression of the rug's color?",
-        "answer": "Muted"
+        "question": "Does the rug showcase a repeating motif or a single large image?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "What is the apparent level of detail in the rug's design?",
+        "answer": "Intricate"
+      },
+      {
+        "question": "Based on the visual cues, is the rug designed for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "Considering the visual elements, would you classify the rug as modern or classic?",
+        "answer": "Classic"
       }
     ]
   }

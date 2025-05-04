@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/93d00018.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textual element displayed prominently on the depicted food packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What specific dietary information is comprehensively detailed in the provided image?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the numerical value indicated for the serving size, expressed in crackers?",
+        "answer": "14"
+      },
+      {
+        "question": "Approximately how many servings are contained within the product packaging, as visually presented?",
+        "answer": "15"
+      },
+      {
+        "question": "What is the caloric count specified for a single serving of the product, in numerical terms?",
+        "answer": "70"
+      },
+      {
+        "question": "What is the amount of total fat, in grams, listed for one serving of the packaged food?",
+        "answer": "2"
+      },
+      {
+        "question": "How many grams of saturated fat are listed per serving, as indicated on the food label?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the amount of cholesterol, in milligrams, indicated per serving of the food?",
+        "answer": "0"
+      },
+      {
+        "question": "How many milligrams of sodium are listed in a single serving of the product, as visually shown?",
+        "answer": "60"
+      },
+      {
+        "question": "What is the total carbohydrate content, in grams, per serving of the depicted food item?",
+        "answer": "11"
+      },
+      {
+        "question": "According to the visible label, what is the amount of dietary fiber, in grams, per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the amount of sugar, in grams, listed per serving of the product, as visually apparent?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the amount of protein, in grams, indicated per serving of the food item shown?",
+        "answer": "1"
+      },
+      {
+        "question": "What percentage of the recommended daily value of Vitamin A is provided by one serving?",
+        "answer": "0"
+      },
+      {
+        "question": "What percentage of the recommended daily value of Vitamin C is provided by a single serving?",
+        "answer": "0"
+      }
+    ]
+  }
+]

@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material of the chair's armrest?",
+        "question": "What appears to be the primary material of the chair's armrest covering?",
         "answer": "Leatherette"
       },
       {
-        "question": "Describe the overall shape of the chair's backrest, as seen in the image?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What seems to be the texture of the chair's armrest padding?",
+        "question": "Describe the apparent texture of the armrest's outer surface, based solely on visual inspection?",
         "answer": "Smooth"
       },
       {
-        "question": "Judging from the image, what is the style of the chair's armrests?",
-        "answer": "Wide"
-      },
-      {
-        "question": "Based on the image, what design feature is highlighted on the chair's armrests?",
-        "answer": "Expanded"
-      },
-      {
-        "question": "What type of chair is depicted, considering its design and features?",
-        "answer": "Office"
-      },
-      {
-        "question": "What is the apparent base type of this chair, judging by the image?",
-        "answer": "Swivel"
-      },
-      {
-        "question": "Considering the visible portion, what is the style of the chair's backrest?",
+        "question": "Considering the image's presentation, what is the shape of the chair's backrest?",
         "answer": "Vertical"
       },
       {
-        "question": "What is the visible general form of the chair's seat?",
-        "answer": "Padded"
+        "question": "What kind of visual design element is apparent on the chair's backrest?",
+        "answer": "Stitching"
       },
       {
-        "question": "Does the chair appear to have any visible stitching or seams on its upholstery?",
-        "answer": "Yes"
+        "question": "What type of base does the office chair appear to possess, based on visual evidence?",
+        "answer": "Swivel"
       },
       {
-        "question": "What is the apparent overall condition of the chair's upholstery?",
+        "question": "Based only on visual observation, what seems to be the chair's overall design style?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Judging from the image, what is the apparent function of the extended armrest?",
+        "answer": "Support"
+      },
+      {
+        "question": "What seems to be the overall condition of the chair's visible surfaces?",
         "answer": "Clean"
       },
       {
-        "question": "Judging from the image, what is the general appearance of the chair's armrests?",
-        "answer": "Soft"
+        "question": "What is the apparent shape of the armrest from a side profile view?",
+        "answer": "Curved"
       },
       {
-        "question": "Does the chair appear to have any visible logo or branding on its surface?",
+        "question": "What is the apparent degree of padding visible in the armrest?",
+        "answer": "Plump"
+      },
+      {
+        "question": "Judging from the image, what is the general size of the chair's armrests?",
+        "answer": "Wide"
+      },
+      {
+        "question": "From the image only, what appears to be the chair's primary purpose or intended use?",
+        "answer": "Office"
+      },
+      {
+        "question": "Does the chair appear to have any notable visible hardware elements (other than the base)?",
         "answer": "No"
       },
       {
-        "question": "What seems to be the primary function of this chair, based on its appearance?",
-        "answer": "Sitting"
+        "question": "Based solely on the image, what is the apparent level of visual detail or intricacy in the chair's design?",
+        "answer": "Simple"
       }
     ]
   }

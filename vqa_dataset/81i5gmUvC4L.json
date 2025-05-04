@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the packaging's background?",
+        "question": "What is the predominant color of the primary packaging material?",
         "answer": "Beige"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Rectangular"
       },
       {
-        "question": "What material appears to constitute the primary packaging?",
+        "question": "What is the apparent material of the product's outer packaging?",
         "answer": "Paper"
       },
       {
-        "question": "What is the texture of the packaging's surface, considering the visible image?",
+        "question": "What is the texture implied by the appearance of the packaging?",
         "answer": "Smooth"
       },
       {
-        "question": "What language is prominently displayed on the packaging?",
-        "answer": "English"
-      },
-      {
-        "question": "What is the visible weight of the product, as indicated on the bag?",
-        "answer": "1kg"
-      },
-      {
-        "question": "What is the brand name as printed on the packaging?",
+        "question": "What is the primary text displayed on the packaging, indicating the brand?",
         "answer": "Vedokka"
       },
       {
-        "question": "What is the main color of the text on the packaging?",
-        "answer": "DarkBrown"
+        "question": "What unit of weight is indicated for the product's net content?",
+        "answer": "Kilogram"
       },
       {
-        "question": "Is there a noticeable symbol or logo on the package, and what might its significance be?",
-        "answer": "Vegetarian"
+        "question": "What numerical value specifies the net weight of the contents?",
+        "answer": "One"
       },
       {
-        "question": "What type of information is included on the packaging, aside from branding?",
-        "answer": "Nutritional"
+        "question": "What is the style of the font used for the brand name on the packaging?",
+        "answer": "Serif"
       },
       {
-        "question": "What style of font is used for the brand name, describing its aesthetic?",
-        "answer": "Script"
+        "question": "What color is the text indicating the product weight and brand?",
+        "answer": "Brown"
       },
       {
-        "question": "Does the packaging show any markings related to recycling?",
-        "answer": "Yes"
+        "question": "What kind of graphic symbol is present near the brand name?",
+        "answer": "Leaf"
       },
       {
-        "question": "Considering the packaging design, what is the overall aesthetic?",
-        "answer": "Rustic"
+        "question": "What kind of printing is apparent on the packaging (e.g., lithography)?",
+        "answer": "Offset"
       },
       {
-        "question": "Are there any noticeable borders or lines visually separating sections of text?",
-        "answer": "Yes"
+        "question": "What is the overall color scheme of the packaging's design?",
+        "answer": "Monochromatic"
       },
       {
-        "question": "What is the primary method of sealing, as observed on the packaging?",
-        "answer": "HeatSealed"
+        "question": "Is there any visible seal or tamper-evident feature on the package?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of information is printed on the back of the package?",
+        "answer": "Details"
+      },
+      {
+        "question": "What is the primary orientation of the text on the packaging?",
+        "answer": "Vertical"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d9/d959f3a7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the light bulb's body?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the light bulb's diffuser?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What material appears to constitute the light bulb's outer casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of base does the light bulb possess for fitting?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Considering the image, what is the approximate size relative to a hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the bulb's surface appear glossy or matte in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent finish of the light bulb's exterior?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, is the light bulb's design simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visual, what is the primary function of this item?",
+        "answer": "Lighting"
+      },
+      {
+        "question": "Considering its structure, would you characterize the bulb as compact or bulky?",
+        "answer": "Bulky"
+      },
+      {
+        "question": "What is the general impression of the light bulb's reflectivity?",
+        "answer": "Diffuse"
+      },
+      {
+        "question": "Describe the profile of the light bulb's diffuser from the side view.",
+        "answer": "Tapered"
+      },
+      {
+        "question": "What kind of light emission is suggested by the shape of the diffuser?",
+        "answer": "Wide"
+      },
+      {
+        "question": "Judging by the image, is the light bulb's design contemporary or antique?",
+        "answer": "Contemporary"
+      },
+      {
+        "question": "What kind of texture is exhibited by the bulb's outer surface?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]
