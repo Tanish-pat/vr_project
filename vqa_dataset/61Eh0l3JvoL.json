@@ -9,60 +9,60 @@
         "answer": "Brown"
       },
       {
-        "question": "What appears to be the primary texture of the beanbag's fabric?",
+        "question": "What appears to be the primary material of the beanbag's exterior?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape of the depicted beanbag chair.",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the visible texture of the beanbag chair's outer covering?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the overall shape of the displayed beanbag chair?",
-        "answer": "Bean-shaped"
+        "question": "Considering the image, is there any discernible pattern on the beanbag's surface?",
+        "answer": "No"
       },
       {
-        "question": "Is there a visible zipper or closure present on the beanbag?",
+        "question": "Are there any visible zippers or closures on the beanbag chair?",
         "answer": "Yes"
       },
       {
-        "question": "Considering the sheen, what might be the material of the beanbag cover?",
-        "answer": "Faux-leather"
-      },
-      {
-        "question": "Does the beanbag exhibit a uniform color, or are there patterns?",
-        "answer": "Uniform"
-      },
-      {
-        "question": "Based on visual observation, is the beanbag filled or empty?",
-        "answer": "Filled"
-      },
-      {
-        "question": "Describe the visible seams or stitching on the beanbag's surface.",
-        "answer": "Minimal"
-      },
-      {
-        "question": "Considering the visual drape, what is the likely fill material?",
-        "answer": "Beans"
-      },
-      {
-        "question": "Does the beanbag cover appear to have any visible logos or branding?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the approximate visual size of the beanbag relative to a human?",
+        "question": "Judging by the image, what is the approximate size of the beanbag chair?",
         "answer": "Large"
       },
       {
-        "question": "Is there any visible damage, wear, or staining to the cover?",
+        "question": "Does the beanbag appear to be filled with any visible internal material?",
         "answer": "No"
       },
       {
-        "question": "Observing the folds, is the fabric relatively soft or stiff?",
-        "answer": "Soft"
+        "question": "Based on the image, what is the sheen or luster of the beanbag's surface?",
+        "answer": "Slight"
       },
       {
-        "question": "Does the beanbag's shape appear to be symmetrical or irregular?",
-        "answer": "Symmetrical"
+        "question": "Does the beanbag chair's outer covering appear to have a uniform color?",
+        "answer": "Yes"
       },
       {
-        "question": "Based on visual assessment, what seems to be the main function of this object?",
-        "answer": "Seating"
+        "question": "What is the general condition of the beanbag in the provided image?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the beanbag have any visible seams, creases or wrinkles?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the outer covering of the beanbag chair seem to be tightly or loosely fitted?",
+        "answer": "Loosely"
+      },
+      {
+        "question": "Judging by the image, is this bean bag chair designed for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "Does the image show any additional features or components beyond the beanbag itself?",
+        "answer": "No"
       }
     ]
   }

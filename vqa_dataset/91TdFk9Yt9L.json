@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a619d8e8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric covering the chair?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the overall shape of the chair's backrest?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What kind of fabric appears to be used for the chair's upholstery?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the chair appear to have a swiveling base?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary color of the throw pillow on the chair?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the texture of the throw pillow fabric?",
+        "answer": "Frayed"
+      },
+      {
+        "question": "Considering the armrests, how would you describe the chair's style?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What appears to be the main material of the chair's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the visible design, would you classify it as a traditional or contemporary chair?",
+        "answer": "Contemporary"
+      },
+      {
+        "question": "Judging by the image, does the chair appear to be of a large or small scale?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the general style of the throw pillow?",
+        "answer": "Bohemian"
+      },
+      {
+        "question": "Looking at the chair's legs, what type of base does it seem to have?",
+        "answer": "Swivel"
+      },
+      {
+        "question": "Considering the upholstery texture, is it smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the overall form of the chair's seat cushion?",
+        "answer": "Cushioned"
+      },
+      {
+        "question": "Examining the chair\u2019s arms, does it have high or low armrests?",
+        "answer": "High"
+      }
+    ]
+  }
+]

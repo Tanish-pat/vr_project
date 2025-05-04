@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the stacked notepad sheets?",
+        "question": "What is the predominant color scheme of the notepad's stacked sheets?",
         "answer": "Rainbow"
       },
       {
-        "question": "Describe the overall shape of the individual notepads.",
+        "question": "Describe the overall shape of the individual notepads in the stack?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent texture of the notepaper surface?",
+        "question": "What is the apparent texture of the notepads' surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the predominant pattern visible on each sheet of paper?",
-        "answer": "Lines"
+        "question": "What is the primary color of the notepad visible on top of the stack?",
+        "answer": "Yellow"
       },
       {
-        "question": "What appears to be the material of the notepads?",
+        "question": "Considering the visible sheets, what color are the ruled lines?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the material that appears to constitute the notepads?",
         "answer": "Paper"
       },
       {
-        "question": "Considering the color saturation, how would you describe the sheets' shades?",
-        "answer": "Bright"
-      },
-      {
-        "question": "What is the primary orientation of the lines on each note sheet?",
-        "answer": "Horizontal"
-      },
-      {
-        "question": "How many distinct colors are prominently visible in the stack?",
-        "answer": "Five"
-      },
-      {
-        "question": "What is the relative thickness of the entire notepad stack?",
-        "answer": "Thick"
-      },
-      {
-        "question": "Describe the apparent condition of the edges of the notepads.",
-        "answer": "Neat"
-      },
-      {
-        "question": "Based on its appearance, what is the likely intended use of this product?",
-        "answer": "Writing"
-      },
-      {
-        "question": "What is the overall form factor of the main notepad package?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the general tone of the colors in the presented notepad?",
-        "answer": "Neon"
-      },
-      {
-        "question": "What kind of lines are seen on the notepads; thin or thick?",
+        "question": "How would you characterize the thickness of the individual notepad sheets?",
         "answer": "Thin"
       },
       {
-        "question": "Does the product packaging appear sealed or opened?",
-        "answer": "Opened"
+        "question": "Describe the arrangement of the ruled lines on each notepad sheet?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the visual appearance of the edges of the notepad sheets?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on the image, what is the orientation of the ruled lines on the sheets?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Describe the color of the notepad sheet displayed in the lower left corner?",
+        "answer": "Green"
+      },
+      {
+        "question": "What color is the prominent notepad sheet fanned out to the right?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What color is the second-most visible notepad sheet in the fanned group?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the shape of the entire pack of notepads, viewed as a single unit?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the image indicate the presence of any perforations on the sheets?",
+        "answer": "No"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6b63d5aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the storage box shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the main body of this storage container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description of this box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the box feature any noticeable external design patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent surface texture of the cardboard composing the box?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its appearance, is this box designed for heavy-duty industrial use?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general condition of the exterior of the shown cardboard box?",
+        "answer": "Unmarked"
+      },
+      {
+        "question": "Based on visual inspection, is the box depicted foldable or collapsible?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the box have any visible seams, indicating separate panels?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observe the top edge; how would you describe its construction?",
+        "answer": "Folded"
+      },
+      {
+        "question": "What is the apparent degree of rigidity possessed by this cardboard container?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Looking at the box's dimensions, is it approximately square or oblong?",
+        "answer": "Oblong"
+      },
+      {
+        "question": "Does the box's appearance suggest it's intended for single-use or multiple-use storage?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Considering the image, is there evidence of any visible handles or carrying aids?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression conveyed by the box's appearance?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

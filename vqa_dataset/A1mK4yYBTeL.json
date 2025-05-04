@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/88c0e737.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture depicted across the entire surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the intricate pattern, what weaving technique is primarily used?",
+        "answer": "Interlaced"
+      },
+      {
+        "question": "Based on the image's color palette, what is the overall hue of the material?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Describe the geometric arrangement of the woven strands' directional pattern?",
+        "answer": "Radial"
+      },
+      {
+        "question": "What natural fiber is most suggestive given the material's appearance?",
+        "answer": "Rattan"
+      },
+      {
+        "question": "Considering the image's details, what is the visual characteristic of the strands?",
+        "answer": "Linear"
+      },
+      {
+        "question": "If this material were used in furniture, what would its likely seating feel like?",
+        "answer": "Firm"
+      },
+      {
+        "question": "From the visible uniformity, how would you describe the weave's density?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Judging from the image's visual consistency, what is the material's apparent thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the primary visual effect of the light and dark areas of the weave?",
+        "answer": "Shadow"
+      },
+      {
+        "question": "From the visible detail, describe the overall visual appearance of the product.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual impression of the color's intensity across the product?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Considering the arrangement of the weave, what symmetry can be observed?",
+        "answer": "Quadrant"
+      },
+      {
+        "question": "Describe the overall aesthetic of the visual weave pattern design.",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Judging by the visual details, what is the apparent craftsmanship quality?",
+        "answer": "Fine"
+      }
+    ]
+  }
+]

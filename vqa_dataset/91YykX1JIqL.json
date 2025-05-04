@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "Describe the texture of the pillow's main fabric, apparent from its weave?",
+        "question": "Describe the texture of the pillow's primary fabric?",
         "answer": "Woven"
       },
       {
-        "question": "What is the primary color of the tassel adorning the pillow?",
-        "answer": "Beige"
+        "question": "What is the color of the tassel's primary component?",
+        "answer": "Off-white"
       },
       {
-        "question": "What is the secondary color present in the tassel's composition?",
-        "answer": "Black"
+        "question": "What is the shape of the overall pillow?",
+        "answer": "Square"
       },
       {
-        "question": "What is the shape of the decorative element attached to the pillow?",
-        "answer": "Tassel"
-      },
-      {
-        "question": "What material is visually suggested by the appearance of the tassel?",
+        "question": "What material appears to comprise the tassel?",
         "answer": "Yarn"
       },
       {
-        "question": "Considering the weave, what manufacturing technique is used?",
-        "answer": "Woven"
+        "question": "What is the secondary color present in the pillow's fabric?",
+        "answer": "Beige"
       },
       {
-        "question": "What is the overall shape of the pillow itself, ignoring the tassel?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the pattern present in the main fabric of the pillow?",
+        "question": "What is the pattern visible on the main pillow fabric?",
         "answer": "Striped"
       },
       {
-        "question": "What kind of visual contrast is created by the color of the tassel and pillow?",
-        "answer": "High"
-      },
-      {
-        "question": "Is the overall color scheme of the item predominantly dark or light?",
-        "answer": "Dark"
-      },
-      {
-        "question": "Describe the structural integrity suggested by the pillow's form?",
-        "answer": "Structured"
-      },
-      {
-        "question": "Does the pillow fabric display a smooth or rough appearance?",
-        "answer": "Rough"
-      },
-      {
-        "question": "Are there any visible seams on the main body of the pillow?",
-        "answer": "No"
-      },
-      {
-        "question": "What type of decorative element distinguishes one end of the pillow?",
+        "question": "Describe the design feature at the bottom of the pillow?",
         "answer": "Tassel"
+      },
+      {
+        "question": "What is the color of the accent component in the tassel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the style of the stripes in the fabric?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the pillow fabric display a solid color or a pattern?",
+        "answer": "Pattern"
+      },
+      {
+        "question": "Describe the overall aesthetic of the pillow?",
+        "answer": "Bohemian"
+      },
+      {
+        "question": "How many distinct color sections are there in the tassel?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent construction method of the pillow?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the orientation of the tassel relative to the pillow?",
+        "answer": "Bottom"
       }
     ]
   }

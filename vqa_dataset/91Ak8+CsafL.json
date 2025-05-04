@@ -5,35 +5,43 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the suitcase's exterior?",
+        "question": "What is the dominant color of the suitcase's exterior?",
         "answer": "Navy"
       },
       {
-        "question": "What material appears to compose the suitcase's shell?",
+        "question": "What material appears to constitute the suitcase's main body?",
         "answer": "Fabric"
       },
       {
-        "question": "What type of closure system is prominently displayed?",
-        "answer": "Zippers"
+        "question": "What type of closure system is prominently displayed on the suitcase?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "What color are the zippers and their pulls on the suitcase?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent finish or texture of the suitcase's exterior?",
+        "answer": "Textured"
       },
       {
         "question": "What security feature is integrated into the suitcase's design?",
         "answer": "Combination"
       },
       {
-        "question": "What is the apparent texture of the suitcase's outer fabric?",
-        "answer": "Woven"
-      },
-      {
-        "question": "What color are the zippers and zipper pulls?",
+        "question": "What is the color of the TSA-approved lock on the suitcase?",
         "answer": "Black"
       },
       {
-        "question": "What is the visible shape of the suitcase's primary compartment?",
+        "question": "What is the apparent material of the zipper pulls?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What seems to be the shape of the suitcase's overall form?",
         "answer": "Rectangular"
       },
       {
-        "question": "What metallic finish is observed on the zipper pulls and lock?",
+        "question": "What is the color of the small metal accents on the zippers?",
         "answer": "Silver"
       },
       {
@@ -41,28 +49,20 @@
         "answer": "Samsonite"
       },
       {
-        "question": "What type of lock mechanism is displayed on the suitcase?",
+        "question": "What type of number display is visible on the combination lock?",
+        "answer": "Digital"
+      },
+      {
+        "question": "What is the overall aesthetic of the suitcase\u2019s design?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What type of lock is shown on the suitcase?",
         "answer": "TSA"
       },
       {
-        "question": "What is the overall condition of the visible hardware?",
-        "answer": "New"
-      },
-      {
-        "question": "What is the visible shape of the lock\u2019s numerical display?",
-        "answer": "Square"
-      },
-      {
-        "question": "What is the design style of the visible section of the luggage?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What kind of seams are visible on the fabric surface?",
-        "answer": "Straight"
-      },
-      {
-        "question": "Describe the visible surface of the TSA lock\u2019s cover?",
-        "answer": "Smooth"
+        "question": "What appears to be the primary function of this item?",
+        "answer": "Travel"
       }
     ]
   }

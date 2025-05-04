@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a0a816e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the light bulb, considering its elongated and tapered form?",
+        "answer": "Teardrop"
+      },
+      {
+        "question": "What is the predominant material that constitutes the outer shell of the bulb?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the color of the light emitted as observed through the transparent glass?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the visible design element featuring parallel lines inside the bulb?",
+        "answer": "Filaments"
+      },
+      {
+        "question": "What is the color of the visible filaments inside the transparent glass casing?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the type of base found at the bottom of the bulb for connection?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the apparent transparency level of the outer bulb casing?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the light bulb's design, what is its intended style?",
+        "answer": "Candle"
+      },
+      {
+        "question": "What is the general appearance of the surface texture of the glass?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the observed size of the bulb in relation to common light bulbs?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the visible markings, what information is clearly visible on the bulb?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the color of the metallic portion of the light bulb base?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall aesthetic impression of the product's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the number of visible filaments contained within the bulb?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the bulb's shape, what lighting fixture is it most suitable for?",
+        "answer": "Pendant"
+      }
+    ]
+  }
+]

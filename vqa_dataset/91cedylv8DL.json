@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/28384f8a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the cooked couscous shown on the package?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the shape of the individual couscous pieces depicted on the box?",
+        "answer": "Pearled"
+      },
+      {
+        "question": "What kind of herb is explicitly mentioned as an ingredient in the product name?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "What is the overall texture of the couscous shown in the product image?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "What type of food is contained within this box, as indicated on the product packaging?",
+        "answer": "Couscous"
+      },
+      {
+        "question": "What word describes the couscous's preparation, as shown on the box?",
+        "answer": "Pearled"
+      },
+      {
+        "question": "What is indicated about the product's origin, shown on the packaging?",
+        "answer": "Imported"
+      },
+      {
+        "question": "What certification mark appears on the bottom right of the package?",
+        "answer": "USDA"
+      },
+      {
+        "question": "What is the primary color of the text on the 365 Everyday Value logo?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the background color of the main label on the packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What additional flavor is mentioned in the product's description?",
+        "answer": "Herb"
+      },
+      {
+        "question": "What is the word describing the nutritional quality indicated on the packaging?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the shape of the box containing the couscous?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What country of origin is stated on the product label?",
+        "answer": "Italy"
+      },
+      {
+        "question": "What dietary label is prominently displayed at the bottom of the package?",
+        "answer": "Vegan"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the predominant color scheme of the phone case design?",
         "answer": "Gold"
       },
       {
-        "question": "What is the overall shape of the depicted phone case?",
+        "question": "What is the overall shape of the depicted mobile phone case?",
         "answer": "Rounded"
       },
       {
-        "question": "What appears to be the primary material used for the phone case?",
+        "question": "What appears to be the primary material of this phone cover?",
         "answer": "Plastic"
       },
       {
-        "question": "What kind of pattern is printed on the surface of the phone case?",
+        "question": "What kind of pattern is predominantly displayed on the phone case surface?",
         "answer": "Stars"
       },
       {
-        "question": "What secondary color is present among the gold stars on the phone case?",
-        "answer": "Brown"
-      },
-      {
-        "question": "Describe the visual texture implied by the design printed on the case.",
+        "question": "Describe the texture implied by the phone case's surface design.",
         "answer": "Rough"
       },
       {
-        "question": "What is the apparent finish of the phone case's printed surface?",
+        "question": "What secondary color accents the gold in the phone case's design?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent finish or style of the depicted phone case's print?",
         "answer": "Glossy"
       },
       {
-        "question": "Are the shapes in the design primarily geometric or organic in appearance?",
-        "answer": "Geometric"
+        "question": "Considering the design, what occasion might this phone case suit?",
+        "answer": "Holiday"
       },
       {
-        "question": "Considering the design, what is the implied overall aesthetic of the case?",
-        "answer": "Festive"
+        "question": "What is the apparent visual depth or dimensionality of the pattern?",
+        "answer": "Layered"
       },
       {
-        "question": "Does the phone case's design show any significant repeating motifs?",
+        "question": "Does the case design include any discernible repetitive elements?",
         "answer": "Yes"
       },
       {
-        "question": "What is the apparent level of detail in the phone case's printed design?",
+        "question": "What is the level of detail visible in the design of this phone case?",
         "answer": "High"
       },
       {
-        "question": "Does the image suggest the phone case is transparent or opaque?",
-        "answer": "Opaque"
-      },
-      {
-        "question": "What is the general style or theme suggested by the phone case's printed design?",
+        "question": "What is the visual style of the graphic design elements on this product?",
         "answer": "Abstract"
       },
       {
-        "question": "Based on the visual cues, is the phone case design symmetric or asymmetric?",
-        "answer": "Symmetric"
+        "question": "Does the phone case design feature any noticeable text or logos?",
+        "answer": "No"
       },
       {
-        "question": "What type of image printing technique seems to have been used on the phone case?",
-        "answer": "Digital"
+        "question": "What kind of camera cutout shape is visible on the case's back?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Are there any visible side cutouts on the phone case?",
+        "answer": "Yes"
       }
     ]
   }

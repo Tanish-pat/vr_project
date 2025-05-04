@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3bfebab2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall structure, what geometrical pattern best describes the arrangement of the wooden components?",
+        "answer": "Zigzag"
+      },
+      {
+        "question": "What is the primary material visibly used in the construction of this product?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Based on the visible color, what shade best represents the wooden components?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Observing the surface, what would you describe as the predominant texture of the wooden elements?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many distinct sections or compartments can be visually identified in the shelf structure?",
+        "answer": "Three"
+      },
+      {
+        "question": "Focusing on the connection points, what kind of joints appear to be used between the wooden pieces?",
+        "answer": "Butt"
+      },
+      {
+        "question": "Considering the item's form, how would you categorize its overall shape?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the implied primary function of this item, based solely on visual cues?",
+        "answer": "Shelving"
+      },
+      {
+        "question": "What is the visible grain orientation in the wooden elements of this item?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering its shape and function, what is the most appropriate single-word description for the item's overall style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the general form of each individual wooden component, ignoring their interconnection?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the appearance of the finish, is the wood visibly sealed or treated in any way?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Focusing on the visible edges, what level of precision is evident in the woodworking?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Excluding the connection points, what is the visible surface finish on the wooden elements?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its design and function, where would this item most likely be used in a domestic setting?",
+        "answer": "Wall"
+      }
+    ]
+  }
+]

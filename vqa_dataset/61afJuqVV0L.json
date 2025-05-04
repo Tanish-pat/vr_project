@@ -13,56 +13,56 @@
         "answer": "Leatherette"
       },
       {
-        "question": "Describe the apparent texture of the chair's surface material?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the shape of the integrated side component?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What is the function of the circular recess in the armrest?",
-        "answer": "Cupholder"
-      },
-      {
-        "question": "What kind of seating style does the image segment depict?",
+        "question": "Describe the overall shape of the visible portion of the chair?",
         "answer": "Recliner"
       },
       {
-        "question": "What is the overall visual impression of the armrest's design?",
-        "answer": "Padded"
+        "question": "What functional feature is integrated into the armrest?",
+        "answer": "Cupholder"
       },
       {
-        "question": "What is the apparent material of the cupholder insert?",
-        "answer": "Plastic"
+        "question": "What is the apparent texture of the chair's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the visible color of the cupholder's interior?",
+        "question": "What is the color of the integrated cupholder?",
         "answer": "Black"
       },
       {
-        "question": "Considering the armrest's construction, what is its general shape?",
-        "answer": "Rounded"
+        "question": "What is the shape of the built-in cupholder?",
+        "answer": "Round"
       },
       {
-        "question": "Judging by the image, what is the visible design of the upholstery?",
-        "answer": "Plain"
+        "question": "Does the armrest appear padded or unpadded?",
+        "answer": "Padded"
       },
       {
-        "question": "Based on the visible components, what is the apparent seating type?",
-        "answer": "Lounge"
+        "question": "What is the apparent material of the cupholder?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the finish of the visible upholstery surface?",
-        "answer": "Glossy"
+        "question": "Considering the armrest, how many visible cupholders are present?",
+        "answer": "One"
       },
       {
-        "question": "What is the implied level of comfort suggested by the chair's shape?",
-        "answer": "High"
+        "question": "What is the style of the armrest design?",
+        "answer": "Curved"
       },
       {
-        "question": "What is the apparent style suggested by the chair's design elements?",
-        "answer": "Modern"
+        "question": "Describe the visible stitching of the chair upholstery?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Is the visible upholstery shiny or matte?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Describe the overall feel suggested by the chair's visual appearance?",
+        "answer": "Luxurious"
+      },
+      {
+        "question": "What type of furniture is depicted in the image?",
+        "answer": "Chair"
       }
     ]
   }

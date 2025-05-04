@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's artistic design?",
+        "question": "What is the dominant color on the back of the phone case?",
         "answer": "Orange"
       },
       {
-        "question": "What secondary color is prominently featured alongside the dominant hue?",
+        "question": "What secondary color is prominently featured on the phone case?",
         "answer": "Blue"
       },
       {
-        "question": "Considering the visual texture, what artistic style does the design most closely resemble?",
+        "question": "Describe the overall artistic style of the phone case's design?",
         "answer": "Abstract"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this phone case?",
-        "answer": "Plastic"
+        "question": "What kind of paint strokes are visible on the phone case?",
+        "answer": "Brush"
       },
       {
-        "question": "Describe the overall shape of the protective mobile device covering?",
+        "question": "What is the apparent texture of the phone case's printed design?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the general shape of the phone case design?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the image, what seems to be the finish of the phone case's surface?",
-        "answer": "Matte"
+        "question": "What is the material the phone case appears to be made from?",
+        "answer": "Plastic"
       },
       {
-        "question": "What additional color accents subtly appear within the main design elements?",
+        "question": "What color is prominently featured on the sides of the phone case?",
+        "answer": "Green"
+      },
+      {
+        "question": "Is there a noticeable pattern in the color distribution on the case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any visible lines or stripes within the case's design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the case's design appear to be digitally printed or hand-painted?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the color of the smaller accent color along the sides?",
         "answer": "Yellow"
       },
       {
-        "question": "What is the apparent level of detail in the artistic rendering on the phone case?",
-        "answer": "High"
+        "question": "Considering the colors, would you describe the overall mood as bright or dark?",
+        "answer": "Bright"
       },
       {
-        "question": "How many sides of the phone case are displayed to show the print design?",
-        "answer": "Three"
+        "question": "What is the apparent finish of the phone case's surface?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the implied protective function of the visually depicted product?",
-        "answer": "Cover"
-      },
-      {
-        "question": "Describe the visible brushstroke-like patterns within the phone case design.",
-        "answer": "Visible"
-      },
-      {
-        "question": "Judging by the image, what is the implied fit of this mobile case design?",
-        "answer": "Snug"
-      },
-      {
-        "question": "What is the style of the artwork displayed on the phone case, in a single word?",
-        "answer": "Painterly"
-      },
-      {
-        "question": "What is the general impression of color blending within this design?",
-        "answer": "Vibrant"
-      },
-      {
-        "question": "What additional color is noticeable as a secondary accent within the design?",
-        "answer": "Green"
+        "question": "How many sides of the phone case are shown in the image?",
+        "answer": "Four"
       }
     ]
   }

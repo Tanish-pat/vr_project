@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da6eefee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the sunscreen lotion bottle's label design, aside from white?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the bottle's overall form, what geometric descriptor best encapsulates its shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What material is the cap of the sunscreen lotion bottle seemingly made from, based on its visual characteristics?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the color of the sunscreen lotion bottle's cap?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall texture of the sunscreen lotion bottle, judging by its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general appearance of the packaging of the sunscreen lotion, implying its consistency?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "Considering the label's design, what is the most prominent visual element, other than text?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What specific kind of container is utilized for packaging the sunscreen lotion, according to visual inspection?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the indicated SPF level for the sunscreen lotion, as clearly marked on the bottle?",
+        "answer": "50"
+      },
+      {
+        "question": "Focusing on the label, what is the prominent text indicating the product type?",
+        "answer": "Lotion"
+      },
+      {
+        "question": "Describe the design style of the label's graphic elements, considering its style and composition.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "How many bottles of sunscreen lotion are visually present in the provided image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the brand name clearly printed on the lotion bottle's label?",
+        "answer": "SOEMO"
+      },
+      {
+        "question": "What type of protection does the sunscreen lotion offer, as indicated on its label?",
+        "answer": "General"
+      },
+      {
+        "question": "Based solely on visual assessment, what is the apparent size of the sunscreen lotion bottles?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color scheme visually dominating the product advertisement, as shown in the image?",
+        "question": "Considering the overall presentation, what is the dominant color scheme used to convey the product's branding and key message?",
         "answer": "Green"
       },
       {
-        "question": "Considering the visual elements, what is the overall style or aesthetic of the product's branding, as depicted in the image?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Based on the image, what is the dominant text color used for product information and branding, as presented visually?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the most prominent logo visible on the advertising material in the image?",
-        "answer": "Amazon"
-      },
-      {
-        "question": "Describe the typeface or font style used for the product name 'basic@care', as visually apparent in the image?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "Judging from the image, what is the general shape of the design elements (like the wavy lines) used in the background?",
-        "answer": "Curved"
-      },
-      {
-        "question": "From the visual representation, what appears to be the main function or purpose of this product, based on the text?",
+        "question": "Observing the textual elements, what is the most prominent word describing the product's primary function?",
         "answer": "Relief"
       },
       {
-        "question": "What is the visual texture or finish of the background behind the text in the image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the shape of the Amazon logo visually displayed in the advertisement?",
-        "answer": "Smile"
-      },
-      {
-        "question": "What design element is repeatedly used within the background of the image, aside from the wavy lines?",
-        "answer": "Plus"
-      },
-      {
-        "question": "Describe the visual style of the plus signs incorporated into the background design of the image?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What language, besides English, is visibly used in the text displayed on the image?",
-        "answer": "German"
-      },
-      {
-        "question": "Considering the color palette, what additional tone complements the main green hue used in the background?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "What is the apparent overall feel or impression created by the color scheme in the image?",
+        "question": "Based on the textual content, what adjective is repeatedly used to characterize the product's effect on the skin?",
         "answer": "Soothing"
       },
       {
-        "question": "Based on the visual representation, what is the style of the advertising text's presentation; is it formal or informal?",
-        "answer": "Informal"
+        "question": "Examining the textual information, what key word describes the product's protective action?",
+        "answer": "Protecting"
+      },
+      {
+        "question": "Analyzing the brand name's visual presentation, what single term describes the brand's overall style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the visual prominence of the brand logo, what company is associated with this product?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Considering the textual information, what adjective best describes the product's testing status?",
+        "answer": "Tested"
+      },
+      {
+        "question": "Focusing on the textual layout, what language besides English is used to describe the product's benefits?",
+        "answer": "German"
+      },
+      {
+        "question": "Looking at the text, which language, beside English and German, is used to describe the product?",
+        "answer": "French"
+      },
+      {
+        "question": "Based on the text, what other language, beyond English, German and French, describes the product?",
+        "answer": "Italian"
+      },
+      {
+        "question": "Based on the text's presentation, what other language is used, apart from the previously mentioned ones?",
+        "answer": "Dutch"
+      },
+      {
+        "question": "From the textual content, what additional benefit, beyond relief, is promised?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Based on the visual presentation, what is the overall visual style of the design?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the visual layout of the advertisement, what design element is used to visually represent a positive attribute?",
+        "answer": "Plus"
+      },
+      {
+        "question": "Analyzing the text, what specific condition does the product aim to alleviate?",
+        "answer": "Itching"
       }
     ]
   }

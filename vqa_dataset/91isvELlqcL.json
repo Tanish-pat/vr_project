@@ -6,63 +6,63 @@
     "questions": [
       {
         "question": "What is the dominant color of the text on the reheating instructions?",
-        "answer": "Green"
+        "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the instruction sheet?",
+        "question": "What is the overall shape of the provided reheating instructions?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the primary material that the instructions are printed on?",
+        "question": "What is the primary material that the instructions appear to be printed on?",
         "answer": "Paper"
       },
       {
-        "question": "What is the texture of the paper, based on visual appearance?",
+        "question": "What is the overall texture of the surface where the text is printed?",
         "answer": "Smooth"
       },
       {
-        "question": "What style of font is predominantly used for the headings?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "What is the overall tone or color scheme of the instructions?",
-        "answer": "Muted"
-      },
-      {
-        "question": "Does the instruction sheet feature any images besides the logo?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the color of the Whole Foods Market logo?",
+        "question": "What is the color of the Whole Foods Market logo present on the page?",
         "answer": "Green"
       },
       {
-        "question": "Is the text primarily in uppercase or lowercase letters?",
-        "answer": "Uppercase"
+        "question": "What is the shape of the Whole Foods Market logo?",
+        "answer": "Circular"
       },
       {
-        "question": "What kind of information is primarily conveyed in the text?",
-        "answer": "Instructions"
+        "question": "Describe the font style of the 'Reheating Instructions' heading.",
+        "answer": "Sans-serif"
       },
       {
-        "question": "What is the layout style of the text and headings?",
+        "question": "What is the color of the background of the reheating instructions?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the general layout of the reheating instructions text?",
         "answer": "Columnar"
       },
       {
-        "question": "Is the paper glossy or matte?",
-        "answer": "Matte"
+        "question": "Does the text predominantly use uppercase or lowercase letters?",
+        "answer": "Uppercase"
       },
       {
-        "question": "What is the size of the paper relative to a typical page?",
-        "answer": "Letter"
+        "question": "What is the overall tone of the text on the page, in terms of formality?",
+        "answer": "Informative"
       },
       {
-        "question": "What is the type of logo shown on the instruction sheet?",
-        "answer": "Corporate"
+        "question": "What type of information is primarily conveyed on the page?",
+        "answer": "Instructions"
       },
       {
-        "question": "Are the edges of the paper clearly defined and straight?",
-        "answer": "Yes"
+        "question": "Is the text single spaced, or double spaced?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the visual style of the text\u2019s formatting, in terms of emphasis?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What kind of graphic element appears at the upper-right corner?",
+        "answer": "Logo"
       }
     ]
   }

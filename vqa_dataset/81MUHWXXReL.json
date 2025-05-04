@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color on the left side of the phone case?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Yellow"
       },
       {
-        "question": "What color dominates the right half of the phone case design?",
-        "answer": "Orange"
-      },
-      {
-        "question": "What is the general artistic style depicted on the phone case?",
+        "question": "What artistic style is predominantly featured on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "What is the texture of the colors predominantly presented?",
-        "answer": "Brushstroke"
-      },
-      {
-        "question": "What secondary color is prominently featured on the lower left?",
-        "answer": "Teal"
-      },
-      {
-        "question": "Describe the overall shape of the phone case itself?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What additional color appears blended with the orange and yellow?",
-        "answer": "Red"
-      },
-      {
-        "question": "What is the apparent material of the phone case shown?",
+        "question": "What appears to be the primary material used for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Is there a defined pattern or shape in the phone case's design?",
-        "answer": "No"
+        "question": "Describe the texture implied by the paint strokes on the phone case.",
+        "answer": "Rough"
       },
       {
-        "question": "What is the finish or look of the artistic design applied?",
-        "answer": "Painted"
+        "question": "What secondary color is prominently displayed alongside the yellow?",
+        "answer": "Orange"
       },
       {
-        "question": "What additional color is noticeable near the center of the design?",
+        "question": "What cool color contrasts with the warm tones on the phone case?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the general shape of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is there a noticeable pattern present on the phone case's surface?",
+        "answer": "Brushstrokes"
+      },
+      {
+        "question": "Does the phone case design exhibit a sense of symmetry or asymmetry?",
+        "answer": "Asymmetry"
+      },
+      {
+        "question": "What is the implied finish of the phone case's surface based on the paint design?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color is minimally present in the lower left quadrant?",
         "answer": "White"
       },
       {
-        "question": "How many major color sections are visually apparent on the case?",
-        "answer": "Two"
+        "question": "Besides orange, what other warm color is evident?",
+        "answer": "Red"
       },
       {
-        "question": "What is the apparent form factor of this colorful phone case?",
-        "answer": "Slim"
+        "question": "Considering the overall image, what kind of visual impression does the phone case give?",
+        "answer": "Vibrant"
       },
       {
-        "question": "Does the image show any visible text or logos on the case?",
-        "answer": "No"
+        "question": "Considering the paint, what artistic technique seems to have been used?",
+        "answer": "Impasto"
       },
       {
-        "question": "What is the primary visual characteristic of the art style?",
-        "answer": "Dynamic"
+        "question": "What is the phone case predominantly designed to protect?",
+        "answer": "Smartphone"
       }
     ]
   }

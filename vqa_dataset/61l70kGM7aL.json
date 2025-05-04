@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4e61b789.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the lightbulb, as depicted in the provided image?",
+        "answer": "A19"
+      },
+      {
+        "question": "What primary color describes the visible glass exterior of the LED bulb?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What material is predominantly used for the external structure of the lightbulb?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the image, what metallic finish is apparent on the base of the bulb?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Based on the image, what is the apparent color of the internal LED filaments?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the configuration of the internal LED filament arrangement within the bulb?",
+        "answer": "X-shaped"
+      },
+      {
+        "question": "What type of base does the presented lightbulb appear to possess, according to its visual features?",
+        "answer": "Edison"
+      },
+      {
+        "question": "In the provided image, what is the visible texture of the lightbulb's glass exterior?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent number of LED filaments visibly present within the bulb\u2019s structure?",
+        "answer": "Four"
+      },
+      {
+        "question": "Describe the general appearance of the lightbulb's visible components, as shown in the image.",
+        "answer": "Modern"
+      },
+      {
+        "question": "What material seems to be used for the visible metallic portion of the lightbulb's base?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the provided visual data, what is the visible style of this LED lightbulb?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "Judging from the image, what is the lightbulb's apparent level of transparency?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual appearance of the connection point between the bulb's base and the glass?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Describe the apparent finish of the metallic components in the provided lightbulb image.",
+        "answer": "Polished"
+      }
+    ]
+  }
+]

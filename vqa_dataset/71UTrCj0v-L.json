@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted on the phone case's primary image?",
+        "question": "What is the predominant color scheme of the depicted landscape on the phone case?",
         "answer": "Orange"
       },
       {
-        "question": "What natural geographical feature is prominently displayed on the phone case?",
+        "question": "What natural feature is prominently displayed in the central portion of the phone case's design?",
         "answer": "Mountain"
       },
       {
-        "question": "What atmospheric condition is shown in the background of the phone case's design?",
+        "question": "What atmospheric condition is suggested by the colors in the sky on the phone case?",
         "answer": "Sunset"
       },
       {
-        "question": "What appears to be the material composition of this Samsung phone cover?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the image, what is the overall shape of the phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What kind of surface texture is suggested by the image of the phone case?",
+        "question": "What appears to be the texture of the printed image on the phone case?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the visual details, what is the apparent finish of the phone case?",
-        "answer": "Matte"
+        "question": "What material seems to compose the phone case itself, based on its visual appearance?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the visible color of the edges of this protective phone case?",
-        "answer": "Dark"
+        "question": "What is the overall shape of the protective phone case shown in the image?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What type of image design is used to decorate the mobile case?",
-        "answer": "Landscape"
+        "question": "What color is the visible portion of the phone's side button on the case?",
+        "answer": "Silver"
       },
       {
-        "question": "What is the apparent print quality of the design on the phone case?",
+        "question": "Is there any noticeable gloss or matte finish to the phone case's exterior?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the image on the phone case appear to be a photograph or a graphic illustration?",
+        "answer": "Photograph"
+      },
+      {
+        "question": "What kind of landform is visible at the base of the mountain on the phone case?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the apparent level of detail in the printed landscape on the phone case?",
         "answer": "High"
       },
       {
-        "question": "Does the case appear to have any noticeable cutouts or openings?",
-        "answer": "Yes"
+        "question": "Considering the image, what seems to be the primary subject of the printed design?",
+        "answer": "Nature"
       },
       {
-        "question": "What color is the snow cap on the mountain depicted on the case?",
-        "answer": "White"
+        "question": "What is the apparent state of the sky depicted in the case design\u2014clear or cloudy?",
+        "answer": "Cloudy"
       },
       {
-        "question": "What is the general visual style of the design on the phone case?",
-        "answer": "Photographic"
+        "question": "Judging by the image, is the phone case design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
       },
       {
-        "question": "What kind of landscape is primarily shown on the phone case design?",
-        "answer": "Mountainous"
-      },
-      {
-        "question": "What seems to be the visual resolution of the printed image on the case?",
-        "answer": "High"
+        "question": "What color is the visible portion of the phone's camera lens opening on the case?",
+        "answer": "Black"
       }
     ]
   }

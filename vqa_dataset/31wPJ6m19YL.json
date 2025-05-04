@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/19f71715.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary function of this depicted rectangular item?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the dominant color of the text visible on the presented rectangular surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Regarding the textual content, what is the most prominently displayed word across the image?",
+        "answer": "INGREDIENTS"
+      },
+      {
+        "question": "What specific type of food additive is explicitly mentioned in the second line of text?",
+        "answer": "Flavor"
+      },
+      {
+        "question": "Based on the ingredient list, what kind of acid is included in the product?",
+        "answer": "Citric"
+      },
+      {
+        "question": "Observing the textual arrangement, what is the typeface style used for the main heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the text, which ingredient is listed immediately after 'water'?",
+        "answer": "Salt"
+      },
+      {
+        "question": "In the ingredient list, which specific sweetener is identified first?",
+        "answer": "Corn"
+      },
+      {
+        "question": "What chemical preservative is indicated in the ingredients, preceded by 'sodium'?",
+        "answer": "Benzoate"
+      },
+      {
+        "question": "According to the visible text, what kind of color is added to this product?",
+        "answer": "Caramel"
+      },
+      {
+        "question": "What type of gum is noted among the ingredients?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "What is the textual description of the main category of the item's components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the state of the text presented on the rectangular image?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the form of the listed chemical compounds?",
+        "answer": "Words"
+      },
+      {
+        "question": "Judging from the provided list, what is mentioned as a secondary sweetener?",
+        "answer": "Fructose"
+      }
+    ]
+  }
+]

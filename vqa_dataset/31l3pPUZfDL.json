@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant visual texture of the displayed fabric?",
+        "question": "What is the primary perceived texture of the displayed sheet?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the image, what is the overall color of the sheet?",
+        "question": "What is the dominant color observed across the entire sheet?",
         "answer": "White"
       },
       {
-        "question": "Based on visual inspection, what appears to be the material of the sheet?",
-        "answer": "Non-woven"
-      },
-      {
-        "question": "Judging by the image, what is the apparent transparency level of the sheet?",
+        "question": "Considering its transparency, what is the sheet's general level of opacity?",
         "answer": "Translucent"
       },
       {
-        "question": "Does the sheet in the image show any noticeable patterns or designs?",
-        "answer": "No"
+        "question": "Based on its visual appearance, what is the sheet's likely material?",
+        "answer": "Non-woven"
       },
       {
-        "question": "What is the dominant shape of the item shown in the image?",
+        "question": "Judging by the drape, what can be inferred about the sheet's overall flexibility?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the sheet display any noticeable patterns or designs on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "How would you describe the overall shape of the presented sheet?",
         "answer": "Rectangular"
       },
       {
-        "question": "From the image, how would you describe the sheet's drape or fall?",
-        "answer": "Drapey"
+        "question": "Observing the edges, are they neatly finished or raw and unfinished?",
+        "answer": "Neat"
       },
       {
-        "question": "What is the apparent thickness or weight of the fabric in the picture?",
+        "question": "What is the apparent thickness of the sheet in relation to a human hand?",
         "answer": "Thin"
       },
       {
-        "question": "Does the product's surface appear to have a matte or glossy finish?",
-        "answer": "Matte"
+        "question": "In the context of the image, what is the sheet's apparent overall size?",
+        "answer": "Large"
       },
       {
-        "question": "Judging from the image, is the fabric seemingly soft or stiff to the touch?",
-        "answer": "Soft"
-      },
-      {
-        "question": "What is the apparent level of sheen exhibited by the product?",
-        "answer": "Low"
-      },
-      {
-        "question": "Observing the image, describe the edges of the sheet.",
-        "answer": "Untreated"
-      },
-      {
-        "question": "Is there any visible embellishment or embroidery on the sheet?",
+        "question": "Can any visible seams or joins be detected along the sheet's surface?",
         "answer": "No"
       },
       {
-        "question": "Based solely on the image, what is the perceived weight of the sheet?",
-        "answer": "Lightweight"
+        "question": "Describe the surface sheen displayed by the sheet in the provided image.",
+        "answer": "Matte"
       },
       {
-        "question": "From the image, what is the apparent overall condition of the sheet?",
-        "answer": "New"
+        "question": "Does the sheet appear to have any special coatings or treatments visible?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied intended usage of the sheet, based purely on its visuals?",
+        "answer": "Protective"
+      },
+      {
+        "question": "In terms of its weight, how would you characterize the sheet's apparent density?",
+        "answer": "Light"
       }
     ]
   }

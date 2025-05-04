@@ -9,60 +9,60 @@
         "answer": "Yellow"
       },
       {
-        "question": "What type of beverage is illustrated on the phone case's surface?",
+        "question": "What type of beverage is prominently featured in the image on the case?",
         "answer": "Lemonade"
       },
       {
-        "question": "What material appears to be used for the container in the image?",
+        "question": "What kind of container holds the beverage in the phone case's design?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the apparent material of the container depicted on the phone case?",
         "answer": "Glass"
       },
       {
-        "question": "What type of fruit is prominently displayed near the bottom of the design?",
-        "answer": "Lemon"
-      },
-      {
-        "question": "What is the shape of the main container shown in the phone case image?",
+        "question": "What is the shape of the container shown on the phone case's design?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What is the primary garnish or flavoring used in the beverage image?",
+        "question": "What fresh herb is visible alongside the lemon slices?",
         "answer": "Mint"
       },
       {
-        "question": "Describe the texture of the ice cubes visible in the phone case image?",
-        "answer": "Icy"
+        "question": "What citrus fruit is featured prominently in the phone case image?",
+        "answer": "Lemon"
       },
       {
-        "question": "What is the shape of the drinking implement shown in the image?",
+        "question": "What appears to be present inside the beverage besides the lemon and mint?",
+        "answer": "Ice"
+      },
+      {
+        "question": "What is used to stir or drink the beverage?",
         "answer": "Straw"
       },
       {
-        "question": "What is the color of the drinking straw depicted in the phone case design?",
-        "answer": "Yellow"
+        "question": "What is the general texture of the beverage displayed on the case?",
+        "answer": "Bubbly"
       },
       {
-        "question": "What is the general style or aesthetic of the image on the phone case?",
-        "answer": "Refreshing"
-      },
-      {
-        "question": "What is the apparent background color against which the beverage is set?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the overall color of the liquid in the jar on the phone cover?",
-        "answer": "Clear"
-      },
-      {
-        "question": "What seems to be the material of the phone case itself?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Is the phone case design predominantly realistic or abstract?",
+        "question": "What seems to be the overall style of the image on the phone case?",
         "answer": "Realistic"
       },
       {
-        "question": "What is the general condition of the ice in the drink shown?",
-        "answer": "Melting"
+        "question": "What is the background color of the phone case image?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent form factor of the product itself?",
+        "answer": "Phone"
+      },
+      {
+        "question": "Does the image show any droplets on the glass container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the type of the object depicted in the image?",
+        "answer": "Case"
       }
     ]
   }

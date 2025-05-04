@@ -25,44 +25,44 @@
         "answer": "Shampoo"
       },
       {
-        "question": "What is the color of the smaller text and design elements on the bottle?",
+        "question": "What is the main text color on the shampoo bottle label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What design element is featured at the bottom of the label?",
+        "answer": "Graphic"
+      },
+      {
+        "question": "What is the text indicating the product's main function?",
+        "answer": "Preserve"
+      },
+      {
+        "question": "What is the color of the smaller text and graphic at the bottom?",
         "answer": "Green"
       },
       {
-        "question": "What is the texture of the bottle's surface, visually apparent?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Describe the visual style of the text font used on the label.",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "What specific claim is highlighted regarding the shampoo's ingredients?",
-        "answer": "Plant-derived"
-      },
-      {
-        "question": "What is the shape of the logo on the shampoo bottle?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What design element appears to be below the main text on the label?",
-        "answer": "Lines"
-      },
-      {
-        "question": "What type of closure mechanism does the bottle have on its top?",
+        "question": "What kind of closure mechanism does the bottle possess?",
         "answer": "Flip-top"
       },
       {
-        "question": "Is the bottle transparent or opaque in its visual appearance?",
-        "answer": "Opaque"
+        "question": "What is the texture of the bottle's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "What brand name is visible on the shampoo bottle?",
-        "answer": "WholeFoods"
+        "question": "What brand name is displayed prominently on the bottle?",
+        "answer": "Whole"
       },
       {
-        "question": "What is the general design aesthetic conveyed by the product's packaging?",
-        "answer": "Minimalist"
+        "question": "What is suggested about the shampoo's ingredients?",
+        "answer": "Plant-derived"
+      },
+      {
+        "question": "Is the bottle's label primarily glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of product does the bottle contain?",
+        "answer": "Shampoo"
       }
     ]
   }

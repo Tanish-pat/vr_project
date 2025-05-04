@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the upper portion of the shoe?",
+        "question": "What is the predominant color of the upper portion of the athletic shoe?",
         "answer": "Red"
       },
       {
-        "question": "What color is the majority of the sole unit of the athletic shoe?",
+        "question": "What is the color of the majority of the sole of this athletic shoe?",
         "answer": "White"
       },
       {
-        "question": "What material appears to be used for the shoe's breathable upper?",
+        "question": "What material appears to primarily compose the upper part of the shoe?",
         "answer": "Knit"
       },
       {
-        "question": "Describe the pattern on the black portion of the shoe's upper?",
-        "answer": "Speckled"
+        "question": "What is the overall shape of the shoe's silhouette?",
+        "answer": "Sneaker"
       },
       {
-        "question": "What is the primary closure mechanism employed for this athletic footwear?",
-        "answer": "Elastic"
+        "question": "Describe the pattern on the midsole of the athletic shoe shown?",
+        "answer": "Spotted"
       },
       {
-        "question": "What color are the reflective accents on the lacing system?",
-        "answer": "Silver"
-      },
-      {
-        "question": "What is the overall shape of the shoe's toe box?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What color are the small spots scattered across the shoe's midsole?",
+        "question": "What color is the secondary color dominating the shoe's upper?",
         "answer": "Black"
       },
       {
-        "question": "What is the apparent texture of the knit upper near the heel?",
-        "answer": "Smooth"
+        "question": "What type of closure system is visible on the athletic shoe?",
+        "answer": "Elastic"
       },
       {
-        "question": "What color is the interior lining of the shoe visible near the heel?",
-        "answer": "Red"
-      },
-      {
-        "question": "Describe the appearance of the outsole's tread pattern?",
+        "question": "What is the apparent texture of the majority of the shoe's upper?",
         "answer": "Textured"
       },
       {
-        "question": "What appears to be the material composition of the shoe's outsole?",
-        "answer": "Rubber"
+        "question": "What small component is noticeable near the top of the shoe's tongue?",
+        "answer": "Clip"
       },
       {
-        "question": "What is the primary color of the pull tab on the heel area?",
-        "answer": "Red"
+        "question": "What is the color of the laces, or lacing system of this shoe?",
+        "answer": "Silver"
       },
       {
-        "question": "Considering the design, what is the intended use of this footwear?",
+        "question": "What is the design style of the shoe's primary pattern?",
+        "answer": "Gradient"
+      },
+      {
+        "question": "Describe the appearance of the bottom of the shoe's outer sole?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "What seems to be the main function of this footwear?",
         "answer": "Running"
       },
       {
-        "question": "What is the general style of this athletic shoe, as seen in its profile?",
-        "answer": "Slip-on"
+        "question": "What is the general style or category of this particular footwear?",
+        "answer": "Athletic"
+      },
+      {
+        "question": "What is the color of the heel area of the athletic shoe?",
+        "answer": "Red"
       }
     ]
   }

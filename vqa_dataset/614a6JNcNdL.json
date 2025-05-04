@@ -17,52 +17,52 @@
         "answer": "White"
       },
       {
-        "question": "Considering the overall design, what is the phone case's style?",
-        "answer": "Celestial"
-      },
-      {
-        "question": "What appears to be the primary material of the phone case?",
+        "question": "What appears to be the primary material of this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the visual texture of the background color on the case.",
-        "answer": "Matte"
+        "question": "Considering the overall design, what is the case's style?",
+        "answer": "Celestial"
       },
       {
-        "question": "What is the general shape of the depicted phone case product?",
+        "question": "Describe the distribution pattern of the star shapes on the case.",
+        "answer": "Scattered"
+      },
+      {
+        "question": "What is the general shape of the protective phone case itself?",
         "answer": "Rectangular"
       },
       {
-        "question": "Does the image show any significant three-dimensional aspects?",
+        "question": "Based on visual observation, what is the apparent texture of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeably large or differently colored stars on the phone case?",
         "answer": "No"
       },
       {
-        "question": "Are there any noticeable logos or branding marks on the case?",
+        "question": "Does the phone case show any visible buttons or cutouts besides the camera?",
         "answer": "No"
       },
       {
-        "question": "How would you characterize the size of the stars printed on it?",
-        "answer": "Small"
-      },
-      {
-        "question": "What is the density of the star pattern on the phone case?",
-        "answer": "High"
-      },
-      {
-        "question": "Does the star pattern appear to be uniformly distributed?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Considering the design, who is the likely target audience?",
-        "answer": "Women"
-      },
-      {
-        "question": "Is there any text visible on the surface of this phone case?",
+        "question": "Does the phone case design include any additional graphic elements beyond stars?",
         "answer": "No"
       },
       {
-        "question": "What is the overall impression given by the phone case's design?",
+        "question": "What is the overall impression of the phone case's aesthetic appeal?",
         "answer": "Simple"
+      },
+      {
+        "question": "Does the image show any noticeable wear, tears, or defects on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what seems to be the finish of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visual details, how would you classify the case's design?",
+        "answer": "Minimalist"
       }
     ]
   }

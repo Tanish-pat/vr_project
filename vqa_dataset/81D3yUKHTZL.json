@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color displayed on the phone case's primary surface?",
+        "question": "What is the predominant color displayed on the phone case's main surface?",
         "answer": "Pink"
       },
       {
-        "question": "What secondary color is prominently featured amidst the pink on the phone case?",
+        "question": "What secondary color is prominently featured alongside the primary color?",
         "answer": "Blue"
       },
       {
-        "question": "Considering the visual texture, what might be the implied material of the phone case?",
+        "question": "Describe the overall visual texture or pattern of the phone case's design?",
+        "answer": "Streaked"
+      },
+      {
+        "question": "What material appears to be used for the construction of this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall visual pattern or design present on the phone case surface?",
+        "question": "Considering the case's design, what artistic style does it evoke?",
         "answer": "Abstract"
       },
       {
-        "question": "What is the apparent shape or form of the product as shown in the image?",
+        "question": "What is the shape of the object depicted on the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What seems to be the style of the artwork on the phone case, judging by its appearance?",
-        "answer": "Watercolor"
-      },
-      {
-        "question": "Based on the visible elements, what seems to be the function of this object?",
-        "answer": "Protection"
-      },
-      {
-        "question": "Is the depicted design on the phone case primarily geometric or organic in nature?",
-        "answer": "Organic"
-      },
-      {
-        "question": "What is the apparent finish of the phone case surface, considering the image's visual cues?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Are there any noticeable cutouts or openings on the phone case visible in this image?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Considering the image, what does the phone case seem to be made of based on visual appearance?",
-        "answer": "Hard"
-      },
-      {
-        "question": "Judging by the image, what seems to be the general aesthetic style of the phone case design?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Describe the overall visual tone or mood evoked by the color scheme on the phone case?",
+        "question": "Characterizing the color combination, what kind of visual effect is created?",
         "answer": "Vibrant"
       },
       {
-        "question": "Are there discernible repeating elements in the design of the phone case, based on the image?",
-        "answer": "No"
+        "question": "What specific type of phone does the case appear designed to fit?",
+        "answer": "iPhone"
       },
       {
-        "question": "Based on the image, are there any noticeable markings or text present on the phone case?",
-        "answer": "No"
+        "question": "Does the case appear to provide any noticeable degree of raised protection?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Considering its appearance, what is the likely finish of the outer surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What seems to be the overall aesthetic impression of this phone case?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Describe the form of the artwork's application on the phone case?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the overall look and feel of the color scheme?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Besides the main print, what other design elements are visible?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general style of the image used for the phone case?",
+        "answer": "Fluid"
       }
     ]
   }

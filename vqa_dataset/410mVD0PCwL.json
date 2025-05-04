@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible wood grain on the chest?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What appears to be the primary material used in the construction of this storage chest?",
-        "answer": "Wood"
-      },
-      {
-        "question": "Considering the overall design, what is the shape of this wooden storage unit?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Based on the image, how many visible panels comprise the front of this chest?",
-        "answer": "Five"
-      },
-      {
-        "question": "Describe the visible texture of the top surface of the storage chest.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent style of the vertical wood planking on the chest's front?",
+        "question": "What is the predominant visible wood grain orientation on the top surface?",
         "answer": "Vertical"
       },
       {
-        "question": "What kind of visible joints or seams are apparent in the wood construction?",
-        "answer": "Butt"
+        "question": "What is the primary material visibly composing the majority of the box?",
+        "answer": "Wood"
       },
       {
-        "question": "Observing the edges, what is the general appearance of the wood finishing?",
+        "question": "Considering the visible construction, what is the overall shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible color of the wood comprising the majority of the box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the most apparent visible finish of the wooden surfaces?",
         "answer": "Natural"
       },
       {
-        "question": "Judging by the image, what seems to be the overall purpose of this piece?",
+        "question": "Based on the visible grain, what type of wood appears to be used?",
+        "answer": "Teak"
+      },
+      {
+        "question": "Considering the vertical wooden slats, what is their arrangement on the front?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the visible number of structural wooden panels on the front?",
+        "answer": "Seven"
+      },
+      {
+        "question": "What seems to be the function suggested by the box's construction?",
         "answer": "Storage"
       },
       {
-        "question": "What is the visual characteristic of the top surface's wood relative to the front panels?",
-        "answer": "Wider"
+        "question": "Considering its visible structure, what is the apparent lid mechanism?",
+        "answer": "Top-hinged"
       },
       {
-        "question": "Does the chest appear to have any noticeable handles or latches?",
-        "answer": "No"
+        "question": "What is the visual texture of the wooden top surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the apparent grain direction of the wood on the top surface of the chest?",
-        "answer": "Horizontal"
+        "question": "What is the apparent style of the visible joinery on the box?",
+        "answer": "Mitered"
       },
       {
-        "question": "Regarding the legs, are they visible and distinctly shaped?",
-        "answer": "Yes"
+        "question": "Based on the visible seams, what seems to be the box's structural construction?",
+        "answer": "Solid"
       },
       {
-        "question": "Considering the style, would you classify this chest as rustic or modern?",
-        "answer": "Rustic"
+        "question": "What is the visible appearance of the box's corners?",
+        "answer": "Squared"
       },
       {
-        "question": "What is the visible style of the top panel relative to the sides and front?",
-        "answer": "Raised"
+        "question": "What kind of visible shadowing details are apparent below the box?",
+        "answer": "Cast"
       }
     ]
   }

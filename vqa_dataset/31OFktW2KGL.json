@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the entire metal organizer?",
+        "question": "What is the predominant color of the displayed metal rack?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this product?",
+        "question": "What primary material constitutes the structure of this two-tiered organizer?",
         "answer": "Metal"
       },
       {
-        "question": "Considering the visible structure, what is the overall shape of the document organizer?",
+        "question": "Considering the design, how many separate compartments does the upper rack possess?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Describe the overall shape of the base component supporting the main rack?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the image, how many visible tiers or levels does this organizer possess?",
-        "answer": "Two"
-      },
-      {
-        "question": "Describe the visual texture of the metal wire components of this rack?",
+        "question": "What is the apparent texture of the wire mesh composing the rack's structure?",
         "answer": "Wire"
       },
       {
-        "question": "What is the apparent design feature located at the bottom of the lower section?",
-        "answer": "Drawer"
+        "question": "Does the lower section of this storage unit incorporate a drawer for smaller items?",
+        "answer": "Yes"
       },
       {
-        "question": "Considering the compartments, what is the intended use for the upper level?",
-        "answer": "Files"
-      },
-      {
-        "question": "What is the apparent method of construction for this office organizer?",
-        "answer": "Mesh"
-      },
-      {
-        "question": "Focusing on the upper section, how would you describe the arrangement of the file dividers?",
+        "question": "Based on the image, what seems to be the overall form factor of this organizer?",
         "answer": "Vertical"
       },
       {
-        "question": "Based on the image alone, what kind of finish does the metal appear to have?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Does the visible metal framework appear to be solid or open?",
+        "question": "What kind of visual separation exists between the two levels in the rack's design?",
         "answer": "Open"
       },
       {
-        "question": "What is the visual pattern or design of the wire mesh visible in the structure?",
-        "answer": "Grid"
+        "question": "Judging by the picture, is the metal mesh a fine or coarse weave?",
+        "answer": "Coarse"
       },
       {
-        "question": "Describe the overall visual impression of the product's design style?",
+        "question": "From the image alone, what is the apparent style of the product's design?",
         "answer": "Simple"
       },
       {
-        "question": "Judging by its compartments and design, what is the item's likely function?",
+        "question": "What appears to be the intended purpose of each of the eight individual compartments?",
         "answer": "Storage"
       },
       {
-        "question": "Observing the proportions, is the organizer taller than it is wide?",
+        "question": "What type of handle is visible on the lower compartment's drawer?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "What seems to be the primary function of the bottom drawer in the rack?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Based on the visual appearance, what is the build quality of the metal rack?",
+        "answer": "Durable"
+      },
+      {
+        "question": "Does the design of the metal rack include any decorative elements beyond its function?",
         "answer": "No"
       }
     ]

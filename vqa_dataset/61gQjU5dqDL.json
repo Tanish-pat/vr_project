@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall color scheme of the product's packaging?",
+        "question": "What is the primary color of the packaging's background?",
         "answer": "Peach"
       },
       {
-        "question": "What is the primary shape of the product's container?",
+        "question": "What is the overall shape of the product container?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the primary material of the packaging?",
+        "question": "What material appears to constitute the product packaging?",
         "answer": "Cardboard"
       },
       {
-        "question": "What design element is prominently featured on the packaging?",
-        "answer": "Wheat"
-      },
-      {
-        "question": "What is the texture implied by the packaging's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What language(s) are used on the packaging's text?",
-        "answer": "Multiple"
-      },
-      {
-        "question": "What is the apparent weight of the product as indicated on the box?",
-        "answer": "300g"
-      },
-      {
-        "question": "What kind of image is depicted next to the product name?",
-        "answer": "Plant"
-      },
-      {
-        "question": "What is the overall style of the text on the package?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What is the apparent finish of the packaging?",
+        "question": "Describing the texture, is the packaging surface glossy or matte?",
         "answer": "Matte"
       },
       {
-        "question": "How many panels are visible in the product's packaging?",
-        "answer": "One"
-      },
-      {
-        "question": "Describe the color of the text printed on the packaging.",
+        "question": "What color are the small illustrations on the packaging?",
         "answer": "Brown"
       },
       {
-        "question": "What is the apparent size of the text on the packaging?",
-        "answer": "Small"
+        "question": "What is the dominant graphic element depicted on the box?",
+        "answer": "Wheat"
       },
       {
-        "question": "What is the orientation of the product as shown in the image?",
+        "question": "What language(s) are used in the text on the package?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the general style of the text font used on the box?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the text on the packaging primarily horizontally or vertically oriented?",
         "answer": "Vertical"
       },
       {
-        "question": "Does the packaging feature any noticeable graphics besides text?",
-        "answer": "Yes"
+        "question": "Considering the size indication, is this a large or small package?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the weight of the product indicated on the packaging?",
+        "answer": "300g"
+      },
+      {
+        "question": "Are there any noticeable folds or creases visible on the box?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the box have any visible seals or tamper-evident features?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the packaging design minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Are there any noticeable logos or brand markings apparent?",
+        "answer": "No"
       }
     ]
   }

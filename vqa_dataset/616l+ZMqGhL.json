@@ -9,7 +9,7 @@
         "answer": "Black"
       },
       {
-        "question": "What metallic color is used for the world map's geographical details?",
+        "question": "What metallic color is used for the geographical details on the world map?",
         "answer": "Gold"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "Rectangular"
       },
       {
-        "question": "What type of map is depicted, showing the entire planet?",
+        "question": "What type of map is depicted, showing the entirety of the Earth's landmasses?",
         "answer": "World"
       },
       {
-        "question": "What appears at the bottom of the map, resembling a reference or index?",
-        "answer": "Grid"
-      },
-      {
-        "question": "What navigational tool is subtly featured in a corner of the map?",
-        "answer": "Compass"
-      },
-      {
-        "question": "What seems to be the texture of the gold-colored map elements?",
+        "question": "What style of map is presented, indicating areas using varied shading and lines?",
         "answer": "Scratch-off"
       },
       {
-        "question": "What is the apparent material of this product, considering its flat nature?",
+        "question": "What appears at the bottom of the map, seemingly for place notations?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Considering the material, what is the likely texture of the map surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What navigational tool is depicted in a miniature form on the map?",
+        "answer": "Compass"
+      },
+      {
+        "question": "What is the apparent finish or coating on the map's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on appearance, what is the likely material of the main map surface?",
         "answer": "Paper"
       },
       {
-        "question": "Based on the image, what style could best describe the overall aesthetic?",
-        "answer": "Vintage"
+        "question": "What is the overall design style of the presented cartographic piece?",
+        "answer": "Modern"
       },
       {
-        "question": "Considering its design, what is the intended function of this item?",
-        "answer": "Travel"
+        "question": "What is the primary method for interaction with the product\u2019s map?",
+        "answer": "Scratching"
       },
       {
-        "question": "What is the visual effect created by the contrast between the gold and black?",
-        "answer": "Bold"
+        "question": "What geographic feature is prominently shown in the map's central area?",
+        "answer": "Oceans"
       },
       {
-        "question": "Is there a noticeable border surrounding the map itself?",
-        "answer": "Yes"
+        "question": "What are the countries on this map represented by?",
+        "answer": "Lines"
       },
       {
-        "question": "What level of detail is shown in the depiction of geographical features?",
-        "answer": "High"
-      },
-      {
-        "question": "Does the map depict landmasses and bodies of water accurately?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Considering the grid at the bottom, what is its likely purpose?",
-        "answer": "Reference"
+        "question": "Describe the visual detail in which the world\u2019s geographical features are illustrated",
+        "answer": "Detailed"
       }
     ]
   }

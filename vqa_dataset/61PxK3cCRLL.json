@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/326a1467.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cabinet handle shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of construction for this cabinet pull?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the handle's form, what is its overarching shape description?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the visible texture, how would you describe the handle's surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What design element is prominently featured along the length of the handle?",
+        "answer": "Grooves"
+      },
+      {
+        "question": "Examining the ends of the handle, what shape do those terminal components exhibit?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the handle's intended purpose, what is its functional classification?",
+        "answer": "Pull"
+      },
+      {
+        "question": "Judging by the image, what type of surface is the handle mounted onto?",
+        "answer": "Cabinet"
+      },
+      {
+        "question": "Regarding the overall style, what aesthetic category best fits this cabinet hardware?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "Considering the handle's size relative to the cabinet, what size adjective applies?",
+        "answer": "Small"
+      },
+      {
+        "question": "If you were to describe the handle's profile, what geometric term would be most appropriate?",
+        "answer": "Convex"
+      },
+      {
+        "question": "From the image, what seems to be the handle's mounting mechanism?",
+        "answer": "Screws"
+      },
+      {
+        "question": "What is the apparent finish of the metal used for the handle?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the color of the cabinet door the handle is attached to?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall visual impression of this cabinet pull?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

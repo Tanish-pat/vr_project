@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/584a9443.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the food item prominently displayed in the cast iron skillet?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent texture of the primary food component, as visually observed in the skillet?",
+        "answer": "Chunky"
+      },
+      {
+        "question": "Based on its visual appearance, what is the most likely culinary category of the food depicted in the image?",
+        "answer": "Sauce"
+      },
+      {
+        "question": "What is the shape of the cooking vessel used to prepare the food shown in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "What appears to be the material of the cooking utensil used for the recipe shown?",
+        "answer": "Iron"
+      },
+      {
+        "question": "Judging from its visual characteristics, what type of handle does the cooking vessel possess?",
+        "answer": "Loop"
+      },
+      {
+        "question": "Describe the visual appearance of the secondary food items embedded within the primary food component.",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the overall visual consistency of the main food element shown in the skillet?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the apparent surface finish of the cooking vessel based on its visual characteristics?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What kind of food preparation technique seems to be suggested by the visual elements presented?",
+        "answer": "Simmering"
+      },
+      {
+        "question": "Based on the visual elements, what is the approximate level of the food inside the cooking vessel?",
+        "answer": "Half"
+      },
+      {
+        "question": "Considering the visible characteristics, what seems to be the general temperature of the dish being shown?",
+        "answer": "Hot"
+      },
+      {
+        "question": "What is the dominant visual characteristic of the secondary container positioned beside the skillet?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent surface appearance of the secondary food container visible alongside the skillet?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the color of the secondary food container, judging by its visual appearance?",
+        "answer": "White"
+      }
+    ]
+  }
+]

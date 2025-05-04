@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material used for constructing the bag?",
+        "question": "What appears to be the primary material of the bag's construction?",
         "answer": "Polyester"
       },
       {
-        "question": "Describe the overall shape of the presented duffel bag?",
+        "question": "Describe the overall shape of the presented duffel bag.",
         "answer": "Cylindrical"
       },
       {
-        "question": "What color are the bag's carrying handles, visible at the top?",
+        "question": "What color are the handles and shoulder straps attached to the bag?",
         "answer": "Gray"
       },
       {
-        "question": "What design element is noticeable on the bag's main compartment?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What type of closure system is visible on the main compartment?",
-        "answer": "Zipper"
-      },
-      {
-        "question": "Considering the bag's construction, what is its apparent overall texture?",
+        "question": "Considering the texture, what is the apparent surface feel of the bag?",
         "answer": "Smooth"
       },
       {
-        "question": "Are there any additional pockets or compartments visible on the bag's exterior?",
+        "question": "What type of closure mechanism is visible on the main compartment?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "What design element is noticeable on the bottom panel of the duffel bag?",
+        "answer": "Panel"
+      },
+      {
+        "question": "Are there any additional pockets or compartments visible besides the main one?",
         "answer": "Yes"
       },
       {
-        "question": "What is the apparent size of the duffel bag, small, medium or large?",
-        "answer": "Medium"
+        "question": "What is the apparent weave or pattern on the main body of the bag?",
+        "answer": "Textured"
       },
       {
-        "question": "What is the apparent level of stiffness or flexibility of this duffel bag?",
-        "answer": "Flexible"
-      },
-      {
-        "question": "Is there any branding or logo visible on the duffel bag's exterior?",
-        "answer": "No"
-      },
-      {
-        "question": "What kind of stitching is visible along the seams of the bag?",
-        "answer": "Double"
-      },
-      {
-        "question": "What is the overall style of the duffel bag; athletic or formal?",
-        "answer": "Athletic"
-      },
-      {
-        "question": "Does the main compartment appear to have a reinforced bottom?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the visual appearance of the zippers on this duffel bag?",
+        "question": "What kind of hardware is used for the handles' attachment to the bag?",
         "answer": "Metal"
+      },
+      {
+        "question": "What is the visible style of the bag's carrying handles?",
+        "answer": "Loop"
+      },
+      {
+        "question": "Considering the overall look, what is the general style of this bag?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Describe the visual appearance of the zipper puller on the main compartment.",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the bag show any visible branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the bag's material?",
+        "answer": "Thin"
       }
     ]
   }

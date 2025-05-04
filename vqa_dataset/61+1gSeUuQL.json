@@ -9,7 +9,7 @@
         "answer": "Black"
       },
       {
-        "question": "What metallic color is the ornate design on the phone case?",
+        "question": "What metallic color is the ornate design on the case?",
         "answer": "Gold"
       },
       {
@@ -17,11 +17,11 @@
         "answer": "R"
       },
       {
-        "question": "What is the style of the decorative pattern on the phone case?",
-        "answer": "Floral"
+        "question": "What is the style of the design featured on the phone case?",
+        "answer": "Ornate"
       },
       {
-        "question": "What appears to be the material of the phone case, judging by its appearance?",
+        "question": "What appears to be the material of the phone case itself?",
         "answer": "Plastic"
       },
       {
@@ -29,40 +29,40 @@
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the image, what type of finish does the phone case seem to have?",
+        "question": "Describe the texture implied by the gold design on the phone case?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "What kind of design element is present near the letter R?",
+        "answer": "Swirls"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
         "answer": "Matte"
       },
       {
-        "question": "What seems to be the style of the typeface used for the letter on the case?",
+        "question": "How would you describe the visual style of the gold design?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Besides the letter, what other design is incorporated in the case?",
+        "answer": "Filigree"
+      },
+      {
+        "question": "What seems to be the primary decorative element?",
+        "answer": "Monogram"
+      },
+      {
+        "question": "Does the phone case show any visible camera cutouts?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general feeling evoked by the phone case's design?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "What type of font is used for the letter on the phone case?",
         "answer": "Serif"
-      },
-      {
-        "question": "Describing the design, what is the overall aesthetic of the phone case?",
-        "answer": "Ornate"
-      },
-      {
-        "question": "What is the visual texture of the golden decorative elements?",
-        "answer": "Intricate"
-      },
-      {
-        "question": "Based on the image, what seems to be the primary function of this item?",
-        "answer": "Protection"
-      },
-      {
-        "question": "What design element separates the decorative pattern from the letter?",
-        "answer": "Lines"
-      },
-      {
-        "question": "Considering the image, how would you describe the level of detail in the design?",
-        "answer": "High"
-      },
-      {
-        "question": "What is the visual pattern of the golden embellishment on the case?",
-        "answer": "Symmetrical"
-      },
-      {
-        "question": "What is the apparent printing method of the design on the phone case?",
-        "answer": "Digital"
       }
     ]
   }

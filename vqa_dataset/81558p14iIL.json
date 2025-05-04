@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f0235c9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the phone case's design?",
+        "answer": "Red"
+      },
+      {
+        "question": "What artistic style is predominantly featured on the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What appears to be the primary material used for the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture implied by the paint strokes on the phone case.",
+        "answer": "Rough"
+      },
+      {
+        "question": "What secondary color is prominently featured alongside the red?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What brand's logo is subtly visible on the phone case?",
+        "answer": "Motorola"
+      },
+      {
+        "question": "Based on visual observation, what is the finish of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color accents the red and blue hues on the phone case?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the general visual impression of the phone case design?",
+        "answer": "Painterly"
+      },
+      {
+        "question": "Describe the pattern created by the various paint strokes.",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What kind of paint application is suggested by the design?",
+        "answer": "Brushstroke"
+      },
+      {
+        "question": "What is the visual effect of the color transitions on the case?",
+        "answer": "Blended"
+      },
+      {
+        "question": "Does the case show any visible text besides the logo?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of design elements appear to be layered on the case?",
+        "answer": "Blocks"
+      }
+    ]
+  }
+]

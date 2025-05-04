@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0f7b8741.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the notebook's cover?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material appears to constitute the notebook's cover?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What color is the binding strip visible on the notebook's spine?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall shape, what is the notebook's form factor?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the texture of the notebook cover, based on visual cues?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any noticeable embossing or texturing on the notebook's front cover?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the notebook cover; is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the orientation of the barcode label, relative to the notebook's spine?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, does the notebook appear to have any additional flaps or pockets?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you visually identify any noticeable perforations or holes in the notebook cover?",
+        "answer": "No"
+      },
+      {
+        "question": "What color is the small rectangular label at the bottom of the notebook?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the notebook show any significant signs of wear or damage in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general appearance of the notebook's corners, are they rounded or sharp?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Considering the image, is the notebook cover entirely plain, or does it have any patterns?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Is there a noticeable brand label present on the notebook's cover?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

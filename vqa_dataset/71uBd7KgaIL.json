@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary material of the cart's top surfaces?",
+        "question": "What is the primary material of the serving trays?",
         "answer": "Wood"
       },
       {
-        "question": "What color are the metal frame components of this serving cart?",
+        "question": "What color are the metal support structures?",
         "answer": "Black"
       },
       {
-        "question": "Describe the overall shape of the serving cart's structure?",
+        "question": "Describe the overall shape of the serving cart.",
         "answer": "Rectangular"
       },
       {
-        "question": "How many tiers or shelves does the serving cart possess?",
+        "question": "How many tiers or levels does the cart possess?",
         "answer": "Two"
       },
       {
-        "question": "What is the apparent finish of the wooden trays on the cart?",
+        "question": "What is the apparent finish of the wooden trays?",
         "answer": "Natural"
       },
       {
-        "question": "What type of wheels are visible at the bottom of the cart?",
-        "answer": "Small"
+        "question": "What type of wheels are visible at the base?",
+        "answer": "Casters"
       },
       {
-        "question": "What is the predominant color of the wooden trays?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What kind of metal appears to construct the cart's frame?",
-        "answer": "Iron"
-      },
-      {
-        "question": "Describe the style of the handles on the cart's top tier?",
+        "question": "What is the apparent style of the metal handles?",
         "answer": "Simple"
       },
       {
-        "question": "What is the apparent texture of the wood used in this item?",
+        "question": "What kind of design element connects the trays?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the general color of the wooden surfaces?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the visible texture of the wooden surface.",
         "answer": "Smooth"
       },
       {
-        "question": "What seems to be the overall design style of the cart?",
-        "answer": "Modern"
+        "question": "What appears to be the overall visual aesthetic?",
+        "answer": "Industrial"
       },
       {
-        "question": "What is the general shape of the metal frame supports?",
-        "answer": "Angular"
+        "question": "What is the construction material of the cart frame?",
+        "answer": "Metal"
       },
       {
-        "question": "Does the cart have any visible decorative elements?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the function suggested by this item's design?",
+        "question": "What is the function of the cart, as visually suggested?",
         "answer": "Serving"
       },
       {
-        "question": "What appears to be the primary functionality of the wheels?",
-        "answer": "Mobility"
+        "question": "Describe the shape of the cart's side supports.",
+        "answer": "Angled"
+      },
+      {
+        "question": "What is the visible apparent construction technique of the cart?",
+        "answer": "Assembled"
       }
     ]
   }

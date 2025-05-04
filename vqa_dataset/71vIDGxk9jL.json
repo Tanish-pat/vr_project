@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/10a58892.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted iPhone 7 screen protector?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the image, what type of device is shown in the example on the left?",
+        "answer": "iPhone"
+      },
+      {
+        "question": "What is the overall shape of the screen protector as visually represented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual observation, what seems to be the material of the screen protectors?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the image suggest any visible texture on the screen protectors?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent size of the iPhone model featured on the right?",
+        "answer": "5.5"
+      },
+      {
+        "question": "Judging from the image, what is the size of the screen protector on the left?",
+        "answer": "4.7"
+      },
+      {
+        "question": "What model of Apple device is demonstrated in the right-hand example?",
+        "answer": "iPhone"
+      },
+      {
+        "question": "What is the apparent condition of the screen protector on the shown iPhone 8 Plus?",
+        "answer": "Applied"
+      },
+      {
+        "question": "Focusing on the visuals, is there any notable design element visible on the screen protectors?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image provided, what is the suggested compatibility for the screen protectors?",
+        "answer": "iPhone"
+      },
+      {
+        "question": "What is the apparent display condition shown on the iPhone 7 in the example?",
+        "answer": "On"
+      },
+      {
+        "question": "What color is the background surrounding the two iPhone examples?",
+        "answer": "White"
+      },
+      {
+        "question": "Observe the right-hand image and note the visual marker; what symbol is displayed?",
+        "answer": "X"
+      },
+      {
+        "question": "What is the textual description associated with the image's smaller iPhone example?",
+        "answer": "Iphone"
+      }
+    ]
+  }
+]

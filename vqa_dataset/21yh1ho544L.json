@@ -1,0 +1,65 @@
+[
+  {
+    "path": "images/small/1e/1e23a5dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual content, what type of tea is predominantly described within this image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary textual element displayed, providing essential information regarding the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "In terms of font style, how would you describe the typeface used for the product information shown in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding any other elements, what is the overall color scheme of the text presented in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on the visual characteristics, what is the case of the letters composing the label's text?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Analyzing the visual presentation, describe the spacing between words within the text of this image.",
+        "answer": "Standard"
+      },
+      {
+        "question": "If considering solely the visual aspect, what is the alignment of the text displayed on the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent line spacing or leading of the text shown within the image?",
+        "answer": "Single"
+      },
+      {
+        "question": "Observing the visual details, what is the weight of the typeface utilized for presenting the product information?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the overall visual style of the text shown in the product image, in terms of aesthetic simplicity.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What kind of graphic design elements\u2014excluding text\u2014are noticeably present in the provided product image?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the implied texture of the information presented in the form of text within the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the presumed background color of the image containing the displayed product information?",
+        "answer": "White"
+      },
+      {
+        "question": "In the given image, what appears to be the dominant visual format utilized to convey information?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

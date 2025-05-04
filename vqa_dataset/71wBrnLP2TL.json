@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the depicted phone case design?",
-        "answer": "Teal"
+        "question": "What is the dominant color depicted on the phone case's primary surface?",
+        "answer": "Blue"
       },
       {
-        "question": "What natural element is prominently featured on the phone case's design?",
+        "question": "What natural element is prominently featured in the phone case design?",
         "answer": "Feather"
       },
       {
-        "question": "What specific bird's feather is visually represented on the phone case?",
+        "question": "What specific avian species' feather is illustrated on the phone case?",
         "answer": "Peacock"
       },
       {
-        "question": "What appears to be the primary material used for the phone case itself?",
+        "question": "What appears to be the primary material used for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall shape of the product being shown?",
+        "question": "Considering the image, what is the overall shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What seems to be the finish or texture of the phone case's surface?",
-        "answer": "Glossy"
+        "question": "What is the general color scheme of the side edges of the phone case?",
+        "answer": "Dark"
       },
       {
-        "question": "Does the phone case appear to have any noticeable text or logos printed on it?",
-        "answer": "No"
+        "question": "What is the texture implied by the design of the peacock feather?",
+        "answer": "Smooth"
       },
       {
-        "question": "Based on the image, what are the secondary colors in the design besides teal?",
-        "answer": "Green"
-      },
-      {
-        "question": "Judging from the visuals, what is the depicted phone case's design style?",
+        "question": "Based on the visuals, what is the phone case's primary design style?",
         "answer": "Nature"
       },
       {
-        "question": "How many sides of the phone case are shown in the provided image?",
+        "question": "Is there any noticeable pattern or arrangement present on the sides of the case?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Does the phone case design employ any noticeable color gradients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of finish does the phone case appear to have?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the visual details, how many sides are explicitly shown in the image?",
         "answer": "Three"
       },
       {
-        "question": "What is the apparent level of detail in the peacock feather's depiction?",
+        "question": "What is the predominant visual aspect of the central feather design?",
+        "answer": "Eye"
+      },
+      {
+        "question": "What seems to be the level of detail in the feather's depiction?",
         "answer": "High"
       },
       {
-        "question": "Does the phone case design show the whole feather or just a part?",
-        "answer": "Part"
-      },
-      {
-        "question": "What kind of pattern is shown on the phone case design, if any?",
-        "answer": "Linear"
-      },
-      {
-        "question": "Does the phone case design incorporate any metallic or shiny elements?",
-        "answer": "No"
-      },
-      {
-        "question": "From the image, is there any visible protective layer on the case?",
-        "answer": "No"
+        "question": "Judging by the image, what is the overall impression of the phone case?",
+        "answer": "Elegant"
       }
     ]
   }

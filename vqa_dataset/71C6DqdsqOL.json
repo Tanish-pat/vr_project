@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bc/bcf55a76.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the extending dining table's surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the main material used in constructing the table?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visible structure, what is the overall shape of the dining table?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, how many independent leaves does the extension mechanism comprise?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the design style of the legs supporting the dining table?",
+        "answer": "Blocky"
+      },
+      {
+        "question": "Judging by the image, what is the visible finish of the tabletop's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What seems to be the visible grain pattern on the table's surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the illustration, how many legs does the dining table possess?",
+        "answer": "Four"
+      },
+      {
+        "question": "Does the tabletop display any notable surface markings or patterns beyond the grain?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of joint seems to be visible where the leaves attach to the main table?",
+        "answer": "Sliding"
+      },
+      {
+        "question": "Judging by the drawing's dimensions, does the table extend significantly?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the legs' design, what is the visible profile of the table legs?",
+        "answer": "Square"
+      },
+      {
+        "question": "What seems to be the construction method indicated by the visible joinery?",
+        "answer": "Butt"
+      },
+      {
+        "question": "Does the image suggest any decorative elements on the tabletop?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall impression of the table's design aesthetic?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]
