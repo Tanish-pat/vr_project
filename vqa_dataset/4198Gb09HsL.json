@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7bb710eb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary material of the cabinet?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall texture visible on the cabinet's surface.",
+        "answer": "Grained"
+      },
+      {
+        "question": "What shape best describes the visible portion of the cabinet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of finish is suggested by the cabinet's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent material of the small visible knob?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the grain, what type of wood is possibly used?",
+        "answer": "Oak"
+      },
+      {
+        "question": "What is the overall visual style or aesthetic of the cabinet?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "How would you describe the visible wood grain pattern?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on its appearance, what is the likely function of the object?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the color of the visible metal knob or handle?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe the size of the visible metal knob or handle?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent level of glossiness of the wood surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Is the visible surface of the cabinet uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, what is the cabinet's construction style?",
+        "answer": "Panel"
+      }
+    ]
+  }
+]

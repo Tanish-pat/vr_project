@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the fabric shown in the image?",
+        "question": "What is the predominant color of the fabric displayed in the provided image?",
         "answer": "Lime"
       },
       {
-        "question": "Considering the image, what is the overall shape of the garment?",
+        "question": "What is the overall shape of the garment presented in the image?",
         "answer": "Tubular"
       },
       {
-        "question": "Based on the image, what appears to be the primary material of this neck gaiter?",
-        "answer": "Polyester"
-      },
-      {
-        "question": "Judging by the image, what is the apparent texture of the neck gaiter fabric?",
+        "question": "Considering the image's texture, how would you describe the fabric's feel?",
         "answer": "Smooth"
       },
       {
-        "question": "Does the image reveal any noticeable patterns or designs on the neck gaiter?",
+        "question": "Based on the visual characteristics, what material is most likely used?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Judging by its visual appearance, what is the garment's primary function?",
+        "answer": "Covering"
+      },
+      {
+        "question": "Does the image showcase any visible patterns or designs on the fabric?",
         "answer": "None"
       },
       {
-        "question": "From the image alone, what is the apparent level of sheen on the fabric?",
-        "answer": "Slight"
+        "question": "Considering its visual form, how would you categorize this product's style?",
+        "answer": "Simple"
       },
       {
-        "question": "What is the apparent weight or thickness of the fabric shown in the image?",
-        "answer": "Lightweight"
+        "question": "Observing the image, what seems to be the garment's approximate length from top to bottom?",
+        "answer": "Long"
       },
       {
-        "question": "Does the image indicate any visible seams or stitching on the neck gaiter?",
+        "question": "Considering the image, is the fabric's visual texture consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the product shown in the image possess any visible seams or stitching?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent drape or flow of the fabric as shown in the image?",
-        "answer": "Soft"
+        "question": "Judging solely by its visual traits, how would you describe the fabric's overall drape?",
+        "answer": "Flowy"
       },
       {
-        "question": "Based on visual inspection, how would you describe the finish of the fabric?",
+        "question": "Based on visual inspection, what is the garment's apparent level of thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "How many visible layers or sections can be visually discerned in the image?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent finish or sheen of the visible fabric surface?",
         "answer": "Matte"
       },
       {
-        "question": "What type of neck opening does the garment appear to have from the visual inspection?",
-        "answer": "Open"
-      },
-      {
-        "question": "Judging from the image, how many layers of fabric does the gaiter appear to possess?",
-        "answer": "Single"
-      },
-      {
-        "question": "Does the provided image show any embellishments or added details on the neck gaiter?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent opacity of the fabric as depicted in the product image?",
-        "answer": "Opaque"
-      },
-      {
-        "question": "Does the product image show any visible branding or logos on the neck gaiter?",
-        "answer": "No"
+        "question": "Considering the image, does the garment appear to have any noticeable elasticity?",
+        "answer": "Yes"
       }
     ]
   }

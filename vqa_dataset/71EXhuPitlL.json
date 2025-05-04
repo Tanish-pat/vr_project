@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme visually dominating the phone case's design?",
+        "question": "What is the predominant color scheme of the phone case's design?",
         "answer": "Orange"
       },
       {
-        "question": "What artistic style is most prominently reflected in the phone case's surface?",
+        "question": "What artistic style is primarily represented on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "Considering the texture, what is the visual impression of the phone case's surface?",
+        "question": "What is the overall texture depicted in the phone case's image?",
         "answer": "Painterly"
       },
       {
-        "question": "What material appears to be used in the construction of the phone case?",
+        "question": "What appears to be the material of the phone case itself?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall shape of the phone case shown in the image.",
+        "question": "What is the shape of the product shown in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "What colors, besides orange, are significantly used in the phone case's design?",
+        "question": "Considering the camera cut-out, what phone model is this case designed for?",
+        "answer": "Unspecified"
+      },
+      {
+        "question": "What color(s) besides orange are prominently featured in the design?",
         "answer": "Yellow"
       },
       {
-        "question": "What is the appearance of the color application on the phone case's surface?",
-        "answer": "Uneven"
+        "question": "Are there any sharply defined lines or edges within the design?",
+        "answer": "No"
       },
       {
-        "question": "Judging by its visual characteristics, what is the likely finish of the phone case?",
-        "answer": "Matte"
+        "question": "Does the design suggest a glossy or matte finish?",
+        "answer": "Glossy"
       },
       {
-        "question": "What is the apparent form factor of the device the case is designed for?",
-        "answer": "Smartphone"
-      },
-      {
-        "question": "Besides yellow, what other secondary color is noticeable on the phone case?",
+        "question": "What additional colors complement the primary orange hue?",
         "answer": "White"
       },
       {
-        "question": "What kind of artistic strokes are visually apparent in the phone case's print?",
-        "answer": "Brush"
+        "question": "Describe the style of the paint strokes or brush marks shown.",
+        "answer": "Fluid"
       },
       {
-        "question": "Describe the camera cut-out's shape on the back of the phone case.",
-        "answer": "Circular"
+        "question": "What secondary color shows up in streaks and blotches?",
+        "answer": "Black"
       },
       {
-        "question": "How would you describe the level of detail in the phone case's design?",
+        "question": "Is the design symmetrical, or does it have an asymmetrical layout?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the degree of visual complexity of the artwork displayed?",
         "answer": "High"
       },
       {
-        "question": "What is the visual impression of the color transitions throughout the design?",
-        "answer": "Gradual"
-      },
-      {
-        "question": "What is the most prominent color contrast present in the case's artwork?",
-        "answer": "Orange-White"
+        "question": "Considering the image, would you characterize the print as realistic or abstract?",
+        "answer": "Abstract"
       }
     ]
   }

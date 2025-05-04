@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/ba9484d2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottommost cleaning cloth stack?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the most apparent texture of the pink cloths?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the primary color of the middle cleaning cloth stack?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "What is the most obvious texture of the light-blue cloths?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the topmost cleaning cloth stack?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant color of the second-highest cleaning cloth stack?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the visible shape of the entire stack of cloths?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the apparent weave or pattern of the yellow cloths.",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "What is the general material type of the cleaning cloths?",
+        "answer": "Microfiber"
+      },
+      {
+        "question": "Considering the whole pile, what is the overall arrangement?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What is the visible shape of the individual cloths in the stack?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the apparent edging style on the pink cloths?",
+        "answer": "Scalloped"
+      },
+      {
+        "question": "Describe the overall visual condition of the cloths presented.",
+        "answer": "Clean"
+      },
+      {
+        "question": "What kind of surface is the stack of cloths sitting on?",
+        "answer": "Wire"
+      },
+      {
+        "question": "Based on visual clues, what is the likely purpose of these cloths?",
+        "answer": "Cleaning"
+      }
+    ]
+  }
+]

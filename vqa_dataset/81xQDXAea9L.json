@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the visible gemstones adorning the earrings?",
-        "answer": "Clear"
+        "question": "What is the dominant color of the main gemstone in the earrings?",
+        "answer": "White"
       },
       {
-        "question": "What is the overall shape described by the arrangement of the smaller gemstones?",
-        "answer": "Arched"
-      },
-      {
-        "question": "What kind of gemstone is prominently featured at the top of each earring?",
+        "question": "What appears to be the material of the central element of each earring?",
         "answer": "Pearl"
       },
       {
-        "question": "What seems to be the dominant metal used in the construction of these earrings?",
+        "question": "What is the apparent color of the metal components of these earrings?",
         "answer": "Silver"
       },
       {
-        "question": "Considering the visible surface, what is the apparent finish of the metal components?",
-        "answer": "Shiny"
-      },
-      {
-        "question": "What is the general shape of the larger, prominent gemstone in each earring?",
+        "question": "What is the shape of the smaller gemstones adorning the earring?",
         "answer": "Round"
       },
       {
-        "question": "What is the style of the earring closure mechanism visible in the image?",
-        "answer": "Post"
-      },
-      {
-        "question": "What is the most plausible material of the larger, spherical gemstones?",
-        "answer": "Pearl"
-      },
-      {
-        "question": "What describes the setting of the smaller gemstones along the earring's lower section?",
+        "question": "What kind of setting holds the smaller gemstones on the earring?",
         "answer": "Prong"
       },
       {
-        "question": "Considering the image, how many smaller gemstones appear on each earring?",
-        "answer": "Five"
+        "question": "Describe the overall shape of the earrings' lower portion, where the smaller stones are set?",
+        "answer": "Curved"
       },
       {
-        "question": "Considering the design, what best describes the style of these earrings?",
-        "answer": "Elegant"
-      },
-      {
-        "question": "What seems to be the apparent luster of the larger, prominent gemstones?",
-        "answer": "High"
-      },
-      {
-        "question": "What type of earring is this, based on the visible design elements?",
-        "answer": "Earring"
-      },
-      {
-        "question": "Based solely on visual appearance, what is the likely material of the smaller gemstones?",
+        "question": "What is the apparent material of the smaller gemstones on the earrings?",
         "answer": "Cubic"
       },
       {
-        "question": "What would you describe the overall visual appeal of these earrings as?",
-        "answer": "Classic"
+        "question": "How many smaller gemstones are visibly present on each earring?",
+        "answer": "Five"
+      },
+      {
+        "question": "What type of earring closure is visible in the image?",
+        "answer": "Post"
+      },
+      {
+        "question": "What is the overall style of the earrings, considering their design features?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Considering the visible parts, what is the apparent finish of the metal?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the apparent luster of the larger central gemstones?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the arrangement of the smaller gemstones on each earring?",
+        "answer": "Clustered"
+      },
+      {
+        "question": "What is the primary visible design element beyond the gemstones?",
+        "answer": "Arched"
+      },
+      {
+        "question": "Describe the placement of the main pearl relative to the smaller stones.",
+        "answer": "Above"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/11e59e9c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the primary color of the illustrated cat on the case?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of animal is depicted on the phone case's surface?",
+        "answer": "Cat"
+      },
+      {
+        "question": "What small object is the cat seemingly interacting with?",
+        "answer": "Strawberry"
+      },
+      {
+        "question": "What is the overall shape of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the texture of the illustrated cat?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent design style of the cat's illustration?",
+        "answer": "Cute"
+      },
+      {
+        "question": "Judging by the image, what material does the case appear to be made of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the style of the cat's eyes in the illustration.",
+        "answer": "Large"
+      },
+      {
+        "question": "What color are the cat's eyes in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the case's sides, what is its apparent thickness?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Based on the image's clarity, what is the print quality of the design?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the edges, what is the form factor of the case?",
+        "answer": "Hard"
+      },
+      {
+        "question": "Does the case design feature any noticeable patterns aside from the cat?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/17c33fbf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the outer metal frame?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the geometric shape defining the overall form?",
+        "answer": "Octagonal"
+      },
+      {
+        "question": "What material appears to constitute the visible outer enclosure?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What kind of glass is used for the visible light-diffusing panel?",
+        "answer": "Frosted"
+      },
+      {
+        "question": "What is the style of the exposed light bulb inside the fixture?",
+        "answer": "Edison"
+      },
+      {
+        "question": "Describe the visible texture of the outer metal frame?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the mounting style of this lighting fixture?",
+        "answer": "Wall"
+      },
+      {
+        "question": "How many visible panes of glass compose the light enclosure?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the finish of the visible metal components?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What type of visible connection secures the glass panes?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the shape of the visible light bulb filament?",
+        "answer": "Coiled"
+      },
+      {
+        "question": "What is the apparent style of the overall lighting fixture design?",
+        "answer": "Industrial"
+      },
+      {
+        "question": "Is the visible light source inside or outside the enclosure?",
+        "answer": "Inside"
+      },
+      {
+        "question": "What is the visible orientation of the light fixture?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What color is the visible light emitted from the bulb?",
+        "answer": "Warm"
+      }
+    ]
+  }
+]

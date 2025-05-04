@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case shown in the image?",
+        "question": "What is the predominant color of the phone case shown in the image?",
         "answer": "Blue"
       },
       {
-        "question": "Considering the image, what appears to be the primary material of the phone case?",
+        "question": "What appears to be the primary material used in the construction of this phone case?",
         "answer": "Silicone"
       },
       {
-        "question": "Based on the image, what is the overall shape of this protective phone covering?",
+        "question": "Considering the image, what is the overall shape of the depicted phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Judging from the provided image, what is the apparent finish or texture of the phone case?",
+        "question": "Based on the visible cutouts, how many cameras does the phone case accommodate?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the phone case in the image appear to have a matte or glossy finish?",
         "answer": "Matte"
       },
       {
-        "question": "From the provided image, what can you observe regarding the phone case's design?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What seems to be the function of the cutouts visible in the product image?",
-        "answer": "Camera"
-      },
-      {
-        "question": "Does the image suggest that the phone case has a pattern or print on it?",
-        "answer": "No"
-      },
-      {
-        "question": "From what the image shows, how many camera cutouts are visible on the case?",
-        "answer": "Three"
-      },
-      {
-        "question": "What is the general visual appearance of the phone case's surface?",
+        "question": "Judging from the image, what is the apparent texture of the phone case's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the image, what seems to be the flexibility of this phone case?",
-        "answer": "Flexible"
+        "question": "Examining the image carefully, are there any visible patterns or designs on the phone case?",
+        "answer": "None"
       },
       {
-        "question": "Does the image suggest the presence of any significant branding on the case?",
+        "question": "Does the image depict any noticeable branding or logos on the phone case itself?",
         "answer": "No"
       },
       {
-        "question": "In the provided image, what is the apparent thickness of the phone case?",
+        "question": "According to the image, what seems to be the thickness of the phone case?",
         "answer": "Thin"
       },
       {
-        "question": "Judging by the image, is there evidence of any raised or textured elements on the case?",
-        "answer": "No"
+        "question": "From the visual evidence, what is the apparent flexibility of the phone case shown?",
+        "answer": "Flexible"
       },
       {
-        "question": "Does the image show any visible seams or joins on the phone case?",
-        "answer": "No"
+        "question": "In the given image, is the phone case shown fully covering the phone's edges?",
+        "answer": "Yes"
       },
       {
-        "question": "From the image, what is the overall impression of the phone case's aesthetic?",
-        "answer": "Simple"
+        "question": "Judging by the image's perspective, can you identify the position of the camera cutout?",
+        "answer": "Rear"
+      },
+      {
+        "question": "Does the image suggest the phone case offers any kind of raised lip protection?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visuals, what is the level of detail in the phone case design?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Considering the image, is the phone case's color uniform across the entire surface?",
+        "answer": "Yes"
       }
     ]
   }

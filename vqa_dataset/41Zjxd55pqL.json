@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the visible surface of the scale?",
+        "question": "What is the primary color of the displayed weighing scale?",
         "answer": "White"
+      },
+      {
+        "question": "What type of display is integrated into the scale's surface?",
+        "answer": "Digital"
+      },
+      {
+        "question": "What unit of measurement is indicated on the scale's display?",
+        "answer": "Kg"
       },
       {
         "question": "What is the shape of the digital display area on the scale?",
         "answer": "Circular"
       },
       {
-        "question": "What is the apparent material of the scale's top platform?",
-        "answer": "Glass"
-      },
-      {
-        "question": "What unit of measurement is displayed on the scale's digital readout?",
-        "answer": "kg"
-      },
-      {
-        "question": "What is the overall shape of the scale's main platform area?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What type of technology displays the weight measurement?",
-        "answer": "Digital"
-      },
-      {
-        "question": "What color are the numbers displayed on the scale's screen?",
-        "answer": "DarkGray"
-      },
-      {
         "question": "Describe the apparent texture of the scale's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the image, what is the visible style of the scale?",
+        "question": "What material appears to constitute the scale's platform?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the overall shape of the scale's weighing platform?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the numbers displayed on the scale's screen?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the image, is the scale design minimalistic or ornate?",
         "answer": "Minimalist"
       },
       {
-        "question": "Is there a visible frame surrounding the digital display?",
-        "answer": "Yes"
+        "question": "What is the general appearance of the scale's finish?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the apparent finish of the scale's visible surface?",
-        "answer": "Glossy"
+        "question": "What is the dominant visual element of the scale's interface?",
+        "answer": "Display"
       },
       {
-        "question": "What appears to be the color of the digits on the display?",
-        "answer": "Black"
+        "question": "Based on the visual, what is the apparent thickness of the scale?",
+        "answer": "Thin"
       },
       {
-        "question": "What is the general form factor of the device shown?",
-        "answer": "Flat"
+        "question": "Does the scale's surface appear to be reflective or non-reflective?",
+        "answer": "Non-reflective"
       },
       {
-        "question": "Does the scale's surface appear to have any visible patterns?",
-        "answer": "No"
+        "question": "What is the type of font used to display the weight on the scale?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "Based on the image alone, what is the apparent weight shown?",
-        "answer": "15.4"
+        "question": "Considering the image, is the scale's design modern or antique?",
+        "answer": "Modern"
       }
     ]
   }

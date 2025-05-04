@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/198a8cbd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's background?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary text indicating the product type?",
+        "answer": "Chips"
+      },
+      {
+        "question": "What flavor variant of the coconut chips is specified?",
+        "answer": "Cocoa"
+      },
+      {
+        "question": "What word describes the preparation method of the coconut?",
+        "answer": "Toasted"
+      },
+      {
+        "question": "What certification is prominently displayed on the packaging?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the color of the text indicating the calorie count?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the brand name prominently shown on the bag?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the overall texture of the package's surface appear to be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the style of the typography used on the packaging.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What type of food product is contained within the packaging?",
+        "answer": "Snacks"
+      },
+      {
+        "question": "What is the primary ingredient specified on the packaging?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "What color is the main brand logo?",
+        "answer": "Green"
+      },
+      {
+        "question": "What nutritional information is visibly displayed on the packaging?",
+        "answer": "Calories"
+      }
+    ]
+  }
+]

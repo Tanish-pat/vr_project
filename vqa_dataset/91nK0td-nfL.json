@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the ottoman's fabric covering?",
+        "question": "What is the dominant color of the fabric covering the main body?",
         "answer": "Beige"
       },
       {
-        "question": "What is the primary shape of the storage ottoman's base?",
+        "question": "What shape best describes the overall form of this piece of furniture?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What appears to be the material of the removable tray's top surface?",
+        "question": "What material appears to constitute the top serving tray?",
         "answer": "Wood"
       },
       {
-        "question": "What color is the wooden frame surrounding the removable tray?",
+        "question": "What is the apparent color of the wood used for the removable tray?",
         "answer": "Brown"
       },
       {
-        "question": "Describe the apparent texture of the ottoman's fabric exterior?",
-        "answer": "Woven"
+        "question": "Considering the texture, what kind of fabric is used for the ottoman's exterior?",
+        "answer": "Linen"
       },
       {
-        "question": "What shape is the serving tray that sits atop the ottoman?",
+        "question": "What is the primary function suggested by the presence of the upper tray?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Describe the shape of the removable serving tray on top of the ottoman?",
         "answer": "Round"
       },
       {
-        "question": "What seems to be the material of the ottoman's outer covering?",
-        "answer": "Fabric"
+        "question": "What design feature is present on the wooden serving tray for easier handling?",
+        "answer": "Handle"
       },
       {
-        "question": "Is there a visible carrying feature on the wooden serving tray?",
+        "question": "Does the ottoman appear to have any visible seams or stitching on its surface?",
         "answer": "Yes"
       },
       {
-        "question": "What is the overall function of this piece of furniture?",
-        "answer": "Ottoman"
+        "question": "Based on its appearance, what is the likely primary use of this furniture item?",
+        "answer": "Storage"
       },
       {
-        "question": "Does the ottoman appear to have any storage capacity visible?",
-        "answer": "Yes"
+        "question": "What is the apparent finish of the wooden tray, glossy or matte?",
+        "answer": "Matte"
       },
       {
-        "question": "Describe the apparent finish of the wooden tray's top surface?",
-        "answer": "Glossy"
+        "question": "Considering the fabric's texture, is the ottoman likely soft or stiff to the touch?",
+        "answer": "Soft"
       },
       {
-        "question": "What is the apparent style of the handle incorporated into the tray?",
-        "answer": "Cutout"
+        "question": "What is the general style of this piece of furniture, as depicted in the image?",
+        "answer": "Classic"
       },
       {
-        "question": "What is the apparent design of the removable tray's side profile?",
-        "answer": "Simple"
+        "question": "Is the ottoman's main body seemingly padded or firm to the touch?",
+        "answer": "Padded"
       },
       {
-        "question": "How many visible functional parts are there to this furniture piece?",
-        "answer": "Two"
-      },
-      {
-        "question": "What seems to be the primary purpose of the wooden tray component?",
-        "answer": "Serving"
+        "question": "What is the color of the fabric used to make the ottoman?",
+        "answer": "Off-white"
       }
     ]
   }

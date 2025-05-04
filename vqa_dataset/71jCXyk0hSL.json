@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the depicted artwork on the phone case?",
-        "answer": "Multicolored"
-      },
-      {
-        "question": "What specific artistic style is predominantly showcased in the case's design?",
-        "answer": "Graffiti"
-      },
-      {
-        "question": "What body part is the main focus of the artwork printed on the phone case?",
-        "answer": "Eye"
-      },
-      {
-        "question": "What is the apparent texture mimicked by the background of the artwork on the phone case?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What appears to be visually represented as tears in the phone case's artwork?",
-        "answer": "Droplets"
-      },
-      {
-        "question": "What color are the apparent tear-like shapes depicted on the phone case?",
-        "answer": "Teal"
-      },
-      {
-        "question": "What is the overall shape of the phone case in the provided image?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What appears to be the primary material of the phone case itself, based solely on visual appearance?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What secondary color is prominently featured next to the main eye in the phone case artwork?",
+        "question": "What is the dominant color scheme of the artwork depicted on the phone case?",
         "answer": "Orange"
       },
       {
-        "question": "What is the general design aesthetic of the artwork on this phone case?",
-        "answer": "Abstract"
+        "question": "What specific body part is prominently featured in the artistic design?",
+        "answer": "Eye"
       },
       {
-        "question": "Considering the artwork's visual elements, what is the suggested emotional tone of the design?",
+        "question": "What artistic style appears to have been used in creating this design?",
+        "answer": "Graffiti"
+      },
+      {
+        "question": "What appears to be the texture or visual effect representing the background?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the apparent shape of the overall phone case design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of visual element are present beside the eye, resembling liquid?",
+        "answer": "Tears"
+      },
+      {
+        "question": "Considering the style, what is the overall tone or mood of the design?",
         "answer": "Sad"
       },
       {
-        "question": "What color is the iris of the eye depicted in the artwork on the case?",
-        "answer": "Grey"
+        "question": "What appears to be the primary material of the phone case itself?",
+        "answer": "Plastic"
       },
       {
-        "question": "What kind of lines are used to depict the wooden background on the phone case?",
-        "answer": "Vertical"
+        "question": "What color are the vertical lines suggesting wood planks in the design?",
+        "answer": "Beige"
       },
       {
-        "question": "Besides the eye, what other facial feature is partially visible in the phone case's artwork?",
-        "answer": "Cheek"
+        "question": "What color are the teardrops depicted next to the eye in the artwork?",
+        "answer": "Blue"
       },
       {
-        "question": "What is the apparent finish of the phone case, considering its visual characteristics?",
-        "answer": "Glossy"
+        "question": "Excluding the artwork, what is the general shape of the phone case?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent finish or sheen of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color is the largest area of the artwork, surrounding the eye?",
+        "answer": "Peach"
+      },
+      {
+        "question": "Besides the main eye, what other color is noticeable in the artwork?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the suggested texture of the depicted wood-like background?",
+        "answer": "Rough"
       }
     ]
   }

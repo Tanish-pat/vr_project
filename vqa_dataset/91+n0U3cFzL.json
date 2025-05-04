@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible fabric surface of the storage boxes?",
+        "question": "What is the predominant color of the fabric composing the main body of the storage cubes?",
         "answer": "Purple"
       },
       {
-        "question": "What color is the bottom border or trim of each storage container shown?",
+        "question": "What is the color of the fabric used for the bottom and sides of the cube?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material used in constructing these storage cubes?",
+        "question": "What appears to be the primary material used in the construction of these storage cubes?",
         "answer": "Fabric"
       },
       {
         "question": "Describe the overall three-dimensional shape of each individual storage unit?",
-        "answer": "Cubical"
+        "answer": "Cubic"
       },
       {
-        "question": "Considering the visual texture, what is the apparent surface texture of the main body?",
+        "question": "Considering the visual texture, how would you characterize the surface of the purple fabric panels?",
         "answer": "Woven"
       },
       {
-        "question": "What type of fastener is visually apparent on the top of each storage container?",
-        "answer": "Closure"
+        "question": "What kind of closure mechanism is visibly present on the top of each cube?",
+        "answer": "Strap"
       },
       {
-        "question": "Based on the images, what is the apparent structural rigidity of these containers?",
+        "question": "Based on the image, what is the apparent stiffness or flexibility of the storage cube structure?",
         "answer": "Foldable"
       },
       {
-        "question": "What is the visual design pattern on the main fabric surface of the storage units?",
-        "answer": "Striped"
-      },
-      {
-        "question": "Judging from the images, what is the suggested use for these containers, based on their contents?",
-        "answer": "Storage"
-      },
-      {
-        "question": "Do the visible storage containers appear to have any visible handles or carrying features?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering the visible contents, what size range do the internal dimensions seem to accommodate?",
-        "answer": "Medium"
-      },
-      {
-        "question": "What is the style of the visible closure mechanism on top of the storage box?",
-        "answer": "Fold-over"
-      },
-      {
-        "question": "Are there any visible labels, logos, or branding markings on the storage units themselves?",
-        "answer": "No"
-      },
-      {
-        "question": "Based solely on the visual appearance, what is the general level of thickness or depth of the fabric?",
-        "answer": "Moderate"
-      },
-      {
-        "question": "Considering their contents in the images, what is a suggested function of these storage units?",
+        "question": "Judging from the images, what is the suggested purpose or function of these storage units?",
         "answer": "Organization"
+      },
+      {
+        "question": "Do the visible seams and stitching appear straight and neatly finished or uneven?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Describe the pattern of the purple fabric\u2014is it solid or patterned?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the images, how many individual storage cubes are shown in total?",
+        "answer": "Four"
+      },
+      {
+        "question": "What type of visual elements are used to enhance the visual appeal and functionality of the units?",
+        "answer": "Strap"
+      },
+      {
+        "question": "Describe the overall look of the storage cubes\u2014 are they simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the images, what kind of items are shown being stored within the cubes to illustrate use cases?",
+        "answer": "Books"
+      },
+      {
+        "question": "Based on the provided image, are the storage cubes designed for small or large items?",
+        "answer": "Small"
       }
     ]
   }

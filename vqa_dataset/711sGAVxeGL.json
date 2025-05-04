@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a0/a0ccadca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted phone case design?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What natural landscape is predominantly featured in the phone case's image?",
+        "answer": "Lake"
+      },
+      {
+        "question": "What type of man-made structure is prominently displayed on the phone case?",
+        "answer": "Pier"
+      },
+      {
+        "question": "What material appears to constitute the main body of the depicted pier?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the image's overall aesthetic, what mood is evoked by the phone case's design?",
+        "answer": "Serene"
+      },
+      {
+        "question": "What celestial body is visible in the upper portion of the phone case's image?",
+        "answer": "Moon"
+      },
+      {
+        "question": "Describe the apparent texture of the wooden planks comprising the pier on the phone case.",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the general shape of the primary structure visible on the phone case's image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of reflective surface is visible in the lower part of the phone case's design?",
+        "answer": "Water"
+      },
+      {
+        "question": "What kind of vegetation is subtly visible on the phone case's image near the shoreline?",
+        "answer": "Trees"
+      },
+      {
+        "question": "What is the apparent orientation of the wooden pier on the phone case's design?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What type of railing system seems to border the pier depicted in the phone case's image?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "What seems to be the overall photographic style employed for the phone case's design?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "Describe the general color of the water depicted in the phone case's image.",
+        "answer": "Dark"
+      },
+      {
+        "question": "What seems to be the overall finish of the phone case itself, based on the image?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

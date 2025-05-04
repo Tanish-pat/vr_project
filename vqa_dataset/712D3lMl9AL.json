@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form and function, what is the primary purpose of this glass container, as evident from its shape and contents?",
+        "question": "Considering the overall form and content, what is the primary function of this visually presented product?",
         "answer": "Sauce"
       },
       {
-        "question": "What color is the liquid prominently displayed within the transparent glass bottle?",
+        "question": "What is the dominant color of the liquid substance contained within the glass bottle?",
         "answer": "Red"
       },
       {
-        "question": "Describe the general shape of the bottle holding the reddish-brown liquid, considering its height and width proportions?",
-        "answer": "Bottle"
-      },
-      {
-        "question": "What material is predominantly used in the construction of the container holding the viscous substance?",
+        "question": "Observing the container's physical attributes, what material is predominantly used in its construction?",
         "answer": "Glass"
       },
       {
-        "question": "Considering the visible cap, what material appears to have been used in its manufacture?",
+        "question": "Based on its shape and proportions, what common type of container does this product most closely resemble?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Focusing on the neck of the bottle, what material is the cap or lid primarily made of?",
         "answer": "Plastic"
       },
       {
-        "question": "Based on the visible texture, what is the apparent surface quality of the primary container holding the product?",
-        "answer": "Smooth"
+        "question": "Considering the label's textual and graphic elements, what aspect of the product does it prominently convey?",
+        "answer": "Nutrition"
       },
       {
-        "question": "What is the overall color of the label affixed to the bottle, predominantly visible on its side?",
-        "answer": "Beige"
-      },
-      {
-        "question": "What appears to be the texture of the label affixed to the bottle, considering its visible surface quality?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What shape is the visible cap or lid securing the opening of the container, as observed from the top view?",
-        "answer": "Round"
-      },
-      {
-        "question": "Based on what's visible, what appears to be the design pattern, or lack thereof, on the label?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Observing the bottle's base, what appears to be its shape where it makes contact with the surface?",
-        "answer": "Round"
-      },
-      {
-        "question": "What appears to be the dominant color of the text printed on the label of the product?",
-        "answer": "Black"
-      },
-      {
-        "question": "What seems to be the overall transparency level of the container holding the product, enabling visual observation of the contents?",
-        "answer": "Clear"
-      },
-      {
-        "question": "Considering the shape of the bottle's body, how would you characterize its profile from the side view?",
+        "question": "What is the overall shape of the bottle containing the product, as viewed from the side?",
         "answer": "Curved"
       },
       {
-        "question": "Judging by the visible part of the label, what type of information does it appear to display?",
-        "answer": "Text"
+        "question": "What is the general texture of the label affixed to the product's container, as visually apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the label that encircles the body of the bottle, as observed in the image?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the apparent consistency or viscosity of the reddish liquid observed within the bottle?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the color of the cap or lid situated atop the glass container?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the overall transparency of the bottle, allowing visibility of the product within.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the general style of the font utilized on the visible label of the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visible portions of the label, what information is prominently displayed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Describe the visible surface texture of the glass bottle itself.",
+        "answer": "Smooth"
       }
     ]
   }

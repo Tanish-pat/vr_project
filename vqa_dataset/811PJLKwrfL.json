@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall shape and dimensions, what is the primary form factor of this packaged beverage?",
-        "answer": "Can"
+        "question": "What is the primary shape of the product container, as depicted in the image?",
+        "answer": "Cylinder"
       },
       {
-        "question": "What dominant color scheme is prominently featured on the beverage can's label design?",
-        "answer": "Blue"
+        "question": "What color is the predominant background of the product's label, as shown?",
+        "answer": "White"
       },
       {
-        "question": "Focusing on the central image, what specific tropical fruit is depicted to represent the drink's primary ingredient?",
-        "answer": "Coconut"
-      },
-      {
-        "question": "Observing the can's material, what seems to be the primary manufacturing substance used in its construction?",
+        "question": "What material appears to comprise the main body of the product packaging, judging from the image?",
         "answer": "Metal"
       },
       {
-        "question": "Regarding the label's typography, what specific descriptive term is used to label the main product within the label?",
-        "answer": "Water"
-      },
-      {
-        "question": "Examining the product's branding, what numerical logo is most conspicuous on the top of the label?",
-        "answer": "365"
-      },
-      {
-        "question": "Looking closely at the coconut depiction, what aspect of this fruit's interior is visually emphasized?",
-        "answer": "Flesh"
-      },
-      {
-        "question": "Analyzing the label's text, what characteristic is prominently mentioned next to the words \"coconut water\"?",
-        "answer": "Pulp"
-      },
-      {
-        "question": "Considering the can's base, what information regarding its contents is visually indicated on the bottom?",
-        "answer": "Volume"
-      },
-      {
-        "question": "What is the color of the coconut's outer husk as illustrated on the label?",
+        "question": "Considering the image, what is the primary color of the depicted coconut's outer husk?",
         "answer": "Green"
       },
       {
-        "question": "Regarding the label's design, what shape does the main design element surrounding the coconut image form?",
-        "answer": "Oval"
+        "question": "Based solely on the provided image, what is the color scheme of the bottom band of the packaging?",
+        "answer": "Blue"
       },
       {
-        "question": "Analyzing the small print on the label, what components are mentioned as being naturally present in the beverage?",
-        "answer": "Electrolytes"
-      },
-      {
-        "question": "What is the texture suggested by the visual depiction of the coconut's flesh?",
+        "question": "From the image, what seems to be the textural quality of the coconut's inner flesh?",
         "answer": "Smooth"
       },
       {
-        "question": "Referring to the label's graphics, what type of graphic design element is employed below the brand logo?",
-        "answer": "Stripe"
+        "question": "What color best represents the text on the product label, as visually observed?",
+        "answer": "Brown"
       },
       {
-        "question": "Based on the overall aesthetic, what is the general style of the product's visual branding and packaging?",
+        "question": "Based on the visual representation, what is the apparent state of the coconut water inside?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the predominant design element on the label, aside from text, as seen in the image?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent finish of the container's metallic surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging from the image, is the product's label predominantly matte or glossy in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the label's imagery, what type of coconut is shown, whole or half?",
+        "answer": "Half"
+      },
+      {
+        "question": "From a visual inspection, what is the overall style of the product's labeling design?",
         "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the provided image, can you describe the overall tone of the product's branding?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Judging by the image, what appears to be printed on the top of the can?",
+        "answer": "Logo"
       }
     ]
   }

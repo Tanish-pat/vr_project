@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/44/44510db3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the leather upper visible in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material constitutes the majority of the visible shoe construction, apparent from the image's texture and sheen?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the shoe's silhouette, from toe to heel?",
+        "answer": "Derby"
+      },
+      {
+        "question": "Based solely on the provided image, what kind of closure mechanism is shown on the shoe?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Describe the pattern of perforations or cutouts seen across the shoe's vamp, as shown in the image.",
+        "answer": "Brogue"
+      },
+      {
+        "question": "What color is the visible midsole strip adjacent to the shoe's outsole, as depicted in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the material of the sole, judging by its appearance in the image?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Focusing solely on the visual details, what is the style of the shoe's toe cap, as displayed in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "Describe the overall texture of the shoe's upper, based on the visual details provided in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In reference to the image, what design element is visible along the edge of the shoe's sole?",
+        "answer": "Stitch"
+      },
+      {
+        "question": "Considering the provided image, what is the apparent height of the shoe's heel?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the visible color of the eyelets through which the laces pass, as shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image, what is the visible color of the laces themselves?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the type of sole apparent in the image, distinguishing its shape and build.",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent condition of the leather, in terms of its visual appearance, based on the image?",
+        "answer": "New"
+      }
+    ]
+  }
+]

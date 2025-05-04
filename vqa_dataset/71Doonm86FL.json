@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1cac4a31.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color are the stylized floral designs on the case?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the style of the floral pattern on the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What is the arrangement of the floral design on the case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the phone case appear to have any visible texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what is the phone case's primary design feature?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Based on the image, what is the case's apparent finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How many distinct types of elements compose the design?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the image, what design element is repeated?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What seems to be the thickness of the phone case's border?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What kind of lines connect the floral elements?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Describe the style of the leaves in the design pattern?",
+        "answer": "Simplified"
+      },
+      {
+        "question": "What is the overall visual impression of the phone case design?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

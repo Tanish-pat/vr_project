@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's main design element?",
+        "question": "What is the predominant color of the phone case's main design element?",
         "answer": "Pink"
       },
       {
-        "question": "What color is the depicted feline on the phone case?",
+        "question": "What color is the depicted cat on the phone case?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material of the phone case?",
-        "answer": "Plastic"
+        "question": "What appears to be the material of the phone case's border?",
+        "answer": "Black"
       },
       {
         "question": "What is the overall shape of the depicted phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the image, what style of printing is evident on the case?",
-        "answer": "Embossed"
+        "question": "Considering the image, what kind of print is visible on the case?",
+        "answer": "Emboss"
       },
       {
-        "question": "What type of animal is illustrated on the back of the phone case?",
-        "answer": "Cat"
+        "question": "What seems to be the texture of the pink area on the case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual, what is the style of the cat illustration?",
+        "answer": "Cartoon"
+      },
+      {
+        "question": "Can you describe the cat's facial expression as shown on the case?",
+        "answer": "Cute"
+      },
+      {
+        "question": "What part of the cat is primarily shown on the case design?",
+        "answer": "Head"
       },
       {
         "question": "What is the apparent finish of the phone case's surface?",
         "answer": "Glossy"
       },
       {
-        "question": "Based on the visible features, what is the phone case designed to protect?",
-        "answer": "Smartphone"
+        "question": "Judging by the image, what is the primary design feature on the case?",
+        "answer": "Cat"
       },
       {
-        "question": "Describe the visual texture of the cat illustration on the case?",
-        "answer": "Smooth"
+        "question": "Does the phone case seem to have a raised border or edge?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the general style of the cat's depiction on the phone case?",
-        "answer": "Cartoonish"
+        "question": "What is the position of the depicted cat's face on the case?",
+        "answer": "Center"
       },
       {
-        "question": "How would you describe the apparent clarity of the printed image on the phone case?",
-        "answer": "Sharp"
+        "question": "What seems to be the level of detail in the cat's features?",
+        "answer": "High"
       },
       {
-        "question": "What is the color of the phone case's border or edge?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the position of the depicted cat in relation to the case\u2019s edge?",
-        "answer": "Centered"
-      },
-      {
-        "question": "Observing the image, how many visible cameras are on the partially shown phone?",
-        "answer": "Two"
-      },
-      {
-        "question": "Does the phone case appear to have any additional text or branding visible?",
-        "answer": "No"
+        "question": "What type of phone does the case appear to fit?",
+        "answer": "Samsung"
       }
     ]
   }

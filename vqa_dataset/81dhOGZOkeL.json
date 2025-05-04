@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the product's text, visually prominent on the packaging?",
+        "question": "What is the dominant color scheme of the product packaging's text?",
         "answer": "Red"
       },
       {
-        "question": "Considering the arrangement and style, what is the overall design aesthetic of the product packaging?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Based on the visible fruit pieces, what tropical fruit is prominently featured on the packaging?",
+        "question": "What fruit is depicted in the upper left corner of the product image?",
         "answer": "Mango"
       },
       {
-        "question": "What other tropical fruit, besides mango, is depicted on the product's packaging?",
+        "question": "What is the shape of the majority of the fruit pieces shown on the package?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What other fruit, besides mango, is prominently displayed on the packaging?",
         "answer": "Pineapple"
       },
       {
-        "question": "What shape are the visually prominent pieces of mango and pineapple presented on the packaging?",
-        "answer": "Triangles"
-      },
-      {
-        "question": "What kind of background color is predominantly shown on the product packaging?",
+        "question": "What is the overall background color of the product packaging?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent texture of the pink watercolor-like elements on the package?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Describe the style of the product's name 'Mat\u00e9 Getaway' as shown on the packaging?",
+        "question": "What style of lettering is used for the product name 'Mat\u00e9 Getaway'?",
         "answer": "Script"
       },
       {
-        "question": "What is the apparent texture of the fruit pieces depicted on the package?",
-        "answer": "Smooth"
+        "question": "Describe the texture of the pink watercolor-like markings on the right side?",
+        "answer": "Blobby"
       },
       {
-        "question": "What is the color of the smaller pineapple slices, visually evident on the packaging?",
-        "answer": "Yellow"
+        "question": "What kind of design element is used on the right-hand side, besides the fruit?",
+        "answer": "Watercolor"
       },
       {
-        "question": "What is the color of the larger mango slices displayed on the product's packaging?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "Considering the packaging design, what is the overall feeling or tone of the product?",
+        "question": "What is the primary message conveyed in the text below the product name?",
         "answer": "Tropical"
       },
       {
-        "question": "What appears to be the color of the watercolor-like stain near the right edge?",
-        "answer": "Pink"
+        "question": "What is the apparent material of the product packaging based on visual appearance?",
+        "answer": "Cardboard"
       },
       {
-        "question": "Based on the image, what is the format of the product packaging?",
-        "answer": "Box"
+        "question": "What is the general style of the product packaging design?",
+        "answer": "Minimalist"
       },
       {
-        "question": "What is the overall visual impression conveyed by the fruits' placement on the package?",
-        "answer": "Scattered"
+        "question": "What is the overall shape of the entire package, as visible in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the mango pieces depicted in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the color of the pineapple pieces depicted in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall feeling evoked by the colors and design of the packaging?",
+        "answer": "Summery"
       }
     ]
   }

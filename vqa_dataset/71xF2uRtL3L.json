@@ -9,15 +9,11 @@
         "answer": "Black"
       },
       {
-        "question": "What color are the floral designs printed on the case?",
+        "question": "What color are the floral design elements on the case?",
         "answer": "White"
       },
       {
-        "question": "What is the overall design style of the floral pattern on the case?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What type of plant is depicted in the phone case's design?",
+        "question": "Describe the overall style of the floral pattern depicted on the case?",
         "answer": "Floral"
       },
       {
@@ -25,44 +21,48 @@
         "answer": "Plastic"
       },
       {
-        "question": "Describe the visual texture of the phone case's surface.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What shape is the phone case designed to fit?",
+        "question": "What is the general shape of the phone case, considering its form factor?",
         "answer": "Rectangular"
       },
       {
-        "question": "How would you describe the arrangement of the floral elements?",
-        "answer": "Curving"
+        "question": "Considering the image, what design element connects the white flowers?",
+        "answer": "Vines"
       },
       {
-        "question": "Does the design extend across the entire phone case?",
+        "question": "What is the visual texture of the phone case's surface, based on appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeable cutouts visible on the phone case for functionality?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, what kind of embellishments are on the vines?",
+        "answer": "Dots"
+      },
+      {
+        "question": "How would you describe the visual density of the floral pattern?",
+        "answer": "Sparse"
+      },
+      {
+        "question": "Is the floral design symmetrically placed on the phone case?",
         "answer": "No"
       },
       {
-        "question": "What kind of cutouts or openings does the case have?",
-        "answer": "Camera"
+        "question": "What is the orientation of the main floral pattern on the phone case?",
+        "answer": "Vertical"
       },
       {
-        "question": "Are there any additional markings visible on the phone case?",
-        "answer": "None"
+        "question": "What is the overall aesthetic of the phone case design?",
+        "answer": "Minimalist"
       },
       {
-        "question": "How would you characterize the style of the floral design?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "What is the general level of detail in the floral design?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Considering the colors used, how would you describe the overall aesthetic?",
-        "answer": "Monochromatic"
-      },
-      {
-        "question": "What is the apparent finish of the phone case\u2019s surface?",
+        "question": "Does the case have a matte or glossy finish based on visual inspection?",
         "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, are there any additional elements besides the floral pattern?",
+        "answer": "No"
       }
     ]
   }

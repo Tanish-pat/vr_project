@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the displayed item, judging solely from its visual appearance?",
+        "question": "What is the primary color of the depicted object?",
         "answer": "White"
       },
       {
-        "question": "Considering only the image, what appears to be the primary shape of the object shown?",
+        "question": "Considering the object's form, what is its most prominent geometric shape?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on its visual texture in the provided image, what is the apparent surface finish of the product?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "From the image, what material seems most likely to constitute the main body of the presented object?",
+        "question": "Based on its appearance, what material seems to constitute this item?",
         "answer": "Plastic"
       },
       {
-        "question": "Does the item in the image exhibit any noticeable patterns, designs, or markings?",
+        "question": "Judging by its visual texture, how would you describe its surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the object display any noticeable patterns or markings?",
         "answer": "No"
       },
       {
-        "question": "Judging from the photograph alone, is the product's overall appearance glossy or matte?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the apparent overall length of the product as directly observed in the image?",
+        "question": "Observing the image, what is the apparent overall length of the item?",
         "answer": "Long"
       },
       {
-        "question": "Ignoring the metadata, how would you describe the product's visible thickness or width?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Does the image provide a clear view of any apparent seams, joins or other construction details?",
+        "question": "Does the product exhibit any noticeable curves or bends?",
         "answer": "No"
       },
       {
-        "question": "Excluding any text, does the presented item have any other evident embellishments or branding?",
-        "answer": "No"
+        "question": "From the image, is the object's surface glossy or matte?",
+        "answer": "Matte"
       },
       {
-        "question": "According to the image, is the product rigid or flexible in appearance?",
+        "question": "Does the object seem flexible or rigid based on the visual information?",
         "answer": "Rigid"
       },
       {
-        "question": "Does the image reveal any visible perforations, holes, or cutouts in the object shown?",
+        "question": "Judging from the image, what is the approximate width of the object?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Considering the image, are there any visible seams or joints?",
         "answer": "No"
       },
       {
-        "question": "Based solely on visual assessment, what is the apparent weight of the product?",
-        "answer": "Lightweight"
+        "question": "Does the object appear translucent or opaque in the provided image?",
+        "answer": "Opaque"
       },
       {
-        "question": "Does the provided image illustrate the item in its entirety, or just a portion of it?",
-        "answer": "Partial"
-      },
-      {
-        "question": "In the image, does the object demonstrate any transparency or translucency?",
+        "question": "Does the product show any signs of text, logos, or branding?",
         "answer": "No"
+      },
+      {
+        "question": "In the image, does the item present any visible embellishments or decorations?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the object as shown in the image?",
+        "answer": "Thin"
       }
     ]
   }

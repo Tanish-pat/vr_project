@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3f/3f17ac66.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the predominant color scheme of this athletic shoe, as directly observed from the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on its visible texture, what material appears to be primarily used in the construction of the upper part of this running shoe?",
+        "answer": "Knit"
+      },
+      {
+        "question": "What is the overall shape of the shoe, taking into account its form and visible contours?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Focusing on the inner sole, what is the distinct color of the visible branding or label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Examining the lacing system, what color are the shoelaces visibly shown in the product image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Looking at the pattern on the shoe's upper, what could best describe the design printed on the grey knit material?",
+        "answer": "Heathered"
+      },
+      {
+        "question": "Describe the type of closure mechanism present on this particular athletic shoe, which is readily apparent from the image alone.",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the most noticeable feature of the branding, visible within the interior of the shoe?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Describe the visible texture of the shoe's outer material, observed from the image provided.",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the style of this athletic footwear as indicated by its visible features?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "What is the apparent condition of this athletic shoe, judging by its visual appearance?",
+        "answer": "New"
+      },
+      {
+        "question": "From the image, what is the visible color of the inner lining of the shoe, near the insole?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Observe the shoe's sole; is it visible in the provided image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the type of the visible sole design, as observed from the image?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Judging from the image, what seems to be the intended use of this footwear?",
+        "answer": "Running"
+      }
+    ]
+  }
+]

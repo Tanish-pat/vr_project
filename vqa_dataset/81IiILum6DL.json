@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d3220538.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible luggage exterior?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material appears to constitute the suitcase's shell?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the suitcase's outer surface, based solely on visual observation?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the apparent primary design element on the suitcase's exterior?",
+        "answer": "Chevron"
+      },
+      {
+        "question": "What metallic finish is observed on the extending handle's visible components?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the material that seems to make up the suitcase's retractable handle?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Characterize the overall shape of the luggage displayed in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what color is the top handle's visible portion?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the material of the top carrying handle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color are the visible accents located at the base of the extending handle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall style of the suitcase\u2019s visible external design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Does the visible section of the suitcase show any noticeable branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent construction of the extending handle mechanism?",
+        "answer": "Telescopic"
+      },
+      {
+        "question": "Judging from the image, how many visible handles does the suitcase possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the visible zipper or closure system on the suitcase.",
+        "answer": "Concealed"
+      }
+    ]
+  }
+]

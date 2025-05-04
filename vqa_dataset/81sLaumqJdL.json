@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd31419c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bottle's label, excluding text and graphics?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the container holding the supplement?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the main body of the supplement container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the label's design, what is the prominent graphical element besides text?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What type of closure is evident at the top of the supplement bottle?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What color is the text prominently displayed on the main label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding graphics, what is the most noticeable color on the bottle's cap?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the primary label surface on the bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the label's design, what seems to be the intended consumer demographic?",
+        "answer": "Adults"
+      },
+      {
+        "question": "What kind of seal is visible on the bottle's cap, suggesting product protection?",
+        "answer": "Tamper"
+      },
+      {
+        "question": "Based on the visible text, what is one of the key ingredients listed on the label?",
+        "answer": "Glucosamine"
+      },
+      {
+        "question": "What is the visible indication of the product's intended use, as shown on the label?",
+        "answer": "Joint"
+      },
+      {
+        "question": "What is the format of the supplement as described on the label?",
+        "answer": "Capsules"
+      },
+      {
+        "question": "What is stated on the label as a supplement type?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What additional ingredient, besides glucosamine and chondroitin, is mentioned on the label?",
+        "answer": "MSM"
+      }
+    ]
+  }
+]

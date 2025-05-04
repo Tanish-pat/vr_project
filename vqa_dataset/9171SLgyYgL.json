@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the multimeter's casing?",
+        "question": "What is the dominant color of the multimeter's casing?",
         "answer": "Black"
       },
       {
@@ -13,7 +13,7 @@
         "answer": "Digital"
       },
       {
-        "question": "What is the overall shape of the handheld multimeter device?",
+        "question": "What is the overall shape of the handheld multimeter?",
         "answer": "Rectangular"
       },
       {
@@ -29,40 +29,40 @@
         "answer": "Smooth"
       },
       {
-        "question": "What is the color of one of the test lead connectors?",
-        "answer": "Black"
-      },
-      {
-        "question": "What type of device is being tested with the multimeter?",
-        "answer": "Circuit"
-      },
-      {
-        "question": "What kind of numbers are displayed on the multimeter's screen?",
-        "answer": "Digits"
-      },
-      {
-        "question": "Considering the image, what is the multimeter's apparent size relative to a human hand?",
-        "answer": "Small"
-      },
-      {
-        "question": "What appears to be the primary function of the device shown?",
+        "question": "What seems to be the primary function of this device, as depicted?",
         "answer": "Testing"
       },
       {
-        "question": "What is the color of the wires connected to the circuit board?",
-        "answer": "Red"
+        "question": "What is the color of the second test lead, next to the red one?",
+        "answer": "Black"
       },
       {
-        "question": "What type of connectors are on the ends of the test leads?",
-        "answer": "Alligator"
+        "question": "What kind of connectors are visible on the multimeter's front?",
+        "answer": "Sockets"
       },
       {
-        "question": "What type of interface is shown on the multimeter's front?",
-        "answer": "Buttons"
+        "question": "Are there any visible buttons or knobs on the multimeter's face?",
+        "answer": "Yes"
       },
       {
-        "question": "What seems to be the primary function of the test leads?",
-        "answer": "Connecting"
+        "question": "What appears to be the material of the test leads?",
+        "answer": "Wire"
+      },
+      {
+        "question": "Does the display show numerical data or graphical information?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What is the approximate number of digits displayed on the screen?",
+        "answer": "Four"
+      },
+      {
+        "question": "Based on its visual features, what is this device's likely purpose?",
+        "answer": "Measurement"
+      },
+      {
+        "question": "What is the orientation of the multimeter in relation to the circuit board?",
+        "answer": "Vertical"
       }
     ]
   }

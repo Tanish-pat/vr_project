@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case design?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Purple"
       },
       {
-        "question": "What is the primary graphic element depicted on the phone case?",
+        "question": "What is the primary graphical element depicted on the back of the case?",
         "answer": "Girl"
       },
       {
-        "question": "What geometric pattern forms the background of the phone case design?",
-        "answer": "Circles"
+        "question": "What shape best describes the background pattern on the phone case?",
+        "answer": "Circular"
       },
       {
         "question": "What appears to be the texture of the phone case's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent material of the phone case itself?",
+        "question": "What is the apparent material of the depicted phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the style of the girl's attire in the phone case illustration?",
-        "answer": "Cartoon"
-      },
-      {
-        "question": "What color is the girl's hair in the phone case illustration?",
+        "question": "Considering the illustration, what is the girl's hair color?",
         "answer": "Brown"
       },
       {
-        "question": "What seems to be the shape of the object the girl is sitting on?",
-        "answer": "Sphere"
+        "question": "What design element is present beneath the girl in the illustration?",
+        "answer": "Waves"
       },
       {
         "question": "What is the apparent style of the illustration on the phone case?",
-        "answer": "Whimsical"
+        "answer": "Cartoon"
       },
       {
-        "question": "What color are the prominent design accents on the girl's clothing?",
+        "question": "What color are the predominant stripes on the girl's clothing?",
         "answer": "Red"
       },
       {
-        "question": "What design element is present at the top of the phone case?",
-        "answer": "Camera"
+        "question": "What is the color of the small bird-like element near the girl?",
+        "answer": "Red"
       },
       {
-        "question": "What is the overall visual impression of the phone case design?",
-        "answer": "Cute"
+        "question": "What type of object does the girl appear to be sitting on?",
+        "answer": "Sphere"
       },
       {
-        "question": "What small object does the girl appear to be holding?",
-        "answer": "Bird"
+        "question": "Describe the overall pattern on the phone case's sides and back?",
+        "answer": "Geometric"
       },
       {
-        "question": "What kind of lines are used in the background design?",
-        "answer": "Curved"
+        "question": "What appears to be the form factor of the phone case?",
+        "answer": "Hard"
       },
       {
-        "question": "Besides the girl, what other graphic elements are present?",
-        "answer": "Lines"
+        "question": "What kind of artistic style is used in the main image?",
+        "answer": "Illustrative"
+      },
+      {
+        "question": "What is the shape of the phone case itself?",
+        "answer": "Rectangular"
       }
     ]
   }

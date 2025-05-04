@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a108f407.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of each individual earring component?",
+        "answer": "Sphere"
+      },
+      {
+        "question": "What dominant color best describes the earrings' appearance?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What appears to be the primary material used in the earrings' construction?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the surface, what is the general texture of the earring spheres?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of fastening mechanism is visibly present on the earrings?",
+        "answer": "Post"
+      },
+      {
+        "question": "Disregarding any reflections, what is the apparent finish of the earring surface?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Based on the image, how many individual earrings are shown in the product picture?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the reflection, what is the likely degree of polish on the earrings?",
+        "answer": "High"
+      },
+      {
+        "question": "From the visual evidence, what style of earrings are depicted?",
+        "answer": "Studs"
+      },
+      {
+        "question": "What is the visual impression of the apparent size of the earring spheres?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image, are there any noticeable engravings or markings on the spheres?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent uniformity in size and shape between the two earrings?",
+        "answer": "Identical"
+      },
+      {
+        "question": "What is the color of the earring posts, as shown in the image?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Based on visual observation, how would you describe the overall style of the earrings?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What kind of reflection is visible on the earring's surfaces?",
+        "answer": "Specular"
+      }
+    ]
+  }
+]

@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What color is the text and heart design printed on the case?",
+        "question": "What color is the text and heart design on the phone case?",
         "answer": "Gold"
       },
       {
-        "question": "What material appears to be used for the phone case?",
+        "question": "What is the apparent material of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the style of lettering used for the quote on the phone case?",
+        "question": "What is the shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of design is featured prominently on the back of the phone case?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the style of lettering used in the main text on the phone case?",
         "answer": "Script"
       },
       {
-        "question": "What is the main message conveyed by the text on the phone case?",
-        "answer": "Happy"
-      },
-      {
-        "question": "What shape is the primary design element on the phone case?",
+        "question": "What additional graphic element accompanies the main text?",
         "answer": "Heart"
       },
       {
-        "question": "What color is the small heart graphic printed on the case?",
+        "question": "What is the color of the heart graphic on the case?",
         "answer": "Red"
       },
       {
-        "question": "Does the case appear to have a glossy or matte finish?",
+        "question": "Does the design appear to be printed or embossed on the case?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Is there a noticeable texture to the phone case based on the image?",
         "answer": "Glossy"
       },
       {
-        "question": "How many sides of the phone case are shown in the image?",
-        "answer": "Three"
+        "question": "What is the apparent finish or sheen of the phone case surface?",
+        "answer": "Shiny"
       },
       {
-        "question": "What is the overall texture of the phone case's surface?",
-        "answer": "Smooth"
+        "question": "Are there any visible side components or details of the phone case shown?",
+        "answer": "Yes"
       },
       {
-        "question": "Are there any visible buttons or ports on the phone case itself?",
-        "answer": "No"
+        "question": "What color are the side edges of the phone case?",
+        "answer": "Gold"
       },
       {
-        "question": "What kind of phone model does the case seem designed for?",
-        "answer": "Smartphone"
+        "question": "Based solely on the image, what seems to be the overall design theme?",
+        "answer": "Feminine"
       },
       {
-        "question": "Is the design of the phone case primarily textual or graphical?",
-        "answer": "Textual"
-      },
-      {
-        "question": "Does the case have any noticeable embellishments besides the print?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering the entire case design, is the aesthetic minimalist or ornate?",
-        "answer": "Minimalist"
+        "question": "What seems to be the overall function of this item?",
+        "answer": "Protective"
       }
     ]
   }

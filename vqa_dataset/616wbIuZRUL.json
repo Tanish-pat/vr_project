@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case shown in the image?",
+        "question": "What is the dominant color of the phone case shown?",
         "answer": "Clear"
       },
       {
-        "question": "What appears to be the primary material used for the construction of this phone case?",
+        "question": "What appears to be the primary material of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the overall form, what is the shape of the phone case depicted?",
+        "question": "Considering its form, what shape best describes the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the image, what seems to be the level of transparency of the phone case?",
-        "answer": "High"
+        "question": "What kind of design does the case exhibit, based on its visual appearance?",
+        "answer": "Simple"
       },
       {
-        "question": "Does the phone case in the provided image exhibit any noticeable texture?",
-        "answer": "Smooth"
+        "question": "Judging from the image, does the case seem to be rigid or flexible?",
+        "answer": "Rigid"
       },
       {
-        "question": "Are there any visible patterns or designs printed on the surface of the phone case?",
-        "answer": "None"
-      },
-      {
-        "question": "Judging by the image, what type of finish does the phone case appear to have?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "From the image, what is the apparent flexibility of the phone case shown?",
-        "answer": "Flexible"
-      },
-      {
-        "question": "Does the case design include any cutouts for buttons or ports on the phone?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Does the case shown seem to cover the entire back and sides of the phone?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Based on visual inspection, is the phone case shown in a single piece?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the apparent thickness of the phone case relative to the phone itself?",
+        "question": "Based on what is visually apparent, how thick is the case's profile?",
         "answer": "Thin"
       },
       {
-        "question": "Judging by the image, how many layers does this phone case appear to be composed of?",
-        "answer": "One"
+        "question": "What kind of finish or texture does the case's surface appear to have?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the visual appearance, does the case suggest ruggedness or fragility?",
-        "answer": "Fragile"
+        "question": "Does the case's design include any noticeable patterns or embellishments?",
+        "answer": "No"
       },
       {
-        "question": "Based solely on the image, what is the overall visual impression of the case?",
-        "answer": "Simple"
+        "question": "Can you determine the presence or absence of cutouts or openings on the case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any visible branding, logos, or markings on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the displayed phone case appear to fully encompass the phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual impression of the phone case's transparency?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the image, does the case seem to provide significant protection?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Observing the edges, what shape are the corners of the case?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the image, is the case designed for a specific phone model?",
+        "answer": "Yes"
       }
     ]
   }

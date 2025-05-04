@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the curtains shown in the image?",
+        "question": "What is the predominant color of the curtains, as visually apparent in the image?",
         "answer": "Beige"
       },
       {
-        "question": "What appears to be the primary material composition of these curtains?",
-        "answer": "Polyester"
-      },
-      {
-        "question": "Considering the image, what is the overall shape of each curtain panel?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What type of hanging mechanism is visibly present at the top of the curtains?",
+        "question": "What type of hanging mechanism is visibly present at the top of each curtain panel?",
         "answer": "Grommets"
       },
       {
-        "question": "Based solely on the image, what is the apparent texture of the curtain fabric?",
+        "question": "Considering the image, what appears to be the primary textile of the curtains?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Judging from the image, what is the overall shape of each individual curtain panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based solely on the visual evidence, what is the apparent texture of the curtain fabric?",
         "answer": "Smooth"
       },
       {
-        "question": "Judging from the visual, what is the light-blocking capacity suggested by the curtain's density?",
-        "answer": "Opaque"
-      },
-      {
-        "question": "What is the implied number of curtain panels included in the displayed set?",
-        "answer": "Two"
-      },
-      {
-        "question": "What seems to be the color of the visible curtain lining or backing?",
+        "question": "What color is the visible reverse side of the partially opened curtain?",
         "answer": "White"
       },
       {
-        "question": "From the image, what is the apparent style of these curtains \u2013 are they plain or patterned?",
-        "answer": "Plain"
+        "question": "Does the image show any noticeable patterns or prints on the curtain fabric?",
+        "answer": "No"
       },
       {
-        "question": "Observing the visual, what is the finish or sheen of the curtain fabric?",
-        "answer": "Matte"
+        "question": "Judging by the image, are the curtains shown fully opaque or translucent?",
+        "answer": "Opaque"
       },
       {
-        "question": "What metal type seems to be used for the grommets according to the image?",
-        "answer": "Silver"
+        "question": "What seems to be the material of the curtain rod finials visible in the image?",
+        "answer": "Metal"
       },
       {
-        "question": "What is the visible state of the curtains; are they open, closed, or partially open?",
-        "answer": "Partially"
+        "question": "Considering the visual presentation, how many curtain panels are depicted in the image?",
+        "answer": "Two"
       },
       {
-        "question": "What is the apparent drape or fall of the fabric, judging by the visual?",
-        "answer": "Straight"
+        "question": "What is the apparent style of the curtains presented in the provided image?",
+        "answer": "Modern"
       },
       {
-        "question": "Judging by the image, what is the implied level of fullness or pleating in the curtains?",
-        "answer": "Minimal"
+        "question": "From the image, what is the visible arrangement of the curtains in relation to the window?",
+        "answer": "Overlapping"
       },
       {
-        "question": "Based on the visual representation, what room type do these curtains seem best suited for?",
-        "answer": "Bedroom"
+        "question": "Are there any visible seams or stitching details apparent on the curtains?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual analysis, does the image indicate any visible embellishments on the curtain?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the provided image, what is the general condition of the curtains shown?",
+        "answer": "New"
       }
     ]
   }

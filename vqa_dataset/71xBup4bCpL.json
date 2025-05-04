@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the whale depicted on the phone case?",
+        "question": "What is the dominant color of the whale depicted on the phone case?",
         "answer": "Orange"
       },
       {
-        "question": "What is the primary background color encompassing the whale design?",
+        "question": "What is the primary background color of the phone case design?",
         "answer": "Black"
       },
       {
-        "question": "What marine mammal is prominently featured in the phone case's design?",
+        "question": "What marine mammal is prominently featured in the phone case's artwork?",
         "answer": "Whale"
       },
       {
-        "question": "What color is the small lighthouse situated on the whale's back?",
+        "question": "What color is the lighthouse depicted on the whale's back?",
         "answer": "White"
       },
       {
-        "question": "What celestial feature is illustrated in the background of the phone case?",
+        "question": "What celestial feature is shown in the background of the phone case design?",
         "answer": "Stars"
       },
       {
-        "question": "What color is the thin rectangular section at the bottom of the phone case?",
-        "answer": "Black"
-      },
-      {
-        "question": "What type of structure is positioned atop the whale, next to the lighthouse?",
-        "answer": "House"
-      },
-      {
-        "question": "What is the apparent shape of the phone case itself?",
+        "question": "What shape is the overall form of the phone case itself?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the overall style of the illustration on the phone case?",
-        "answer": "Cartoonish"
+        "question": "What appears to be at the base of the whale in the phone case design?",
+        "answer": "Ocean"
       },
       {
-        "question": "What seems to be the texture of the phone case material?",
+        "question": "What type of structure is situated on the whale's back?",
+        "answer": "Lighthouse"
+      },
+      {
+        "question": "What color is the small house-like structure near the lighthouse?",
+        "answer": "Red"
+      },
+      {
+        "question": "What seems to be the texture of the phone case's outer material?",
         "answer": "Smooth"
       },
       {
-        "question": "What color is the ocean depicted below the whale on the case?",
-        "answer": "Blue"
+        "question": "What other object is near the lighthouse, aside from the small house?",
+        "answer": "Rocks"
       },
       {
-        "question": "Besides the house and lighthouse, what other small object appears on the whale?",
-        "answer": "Rock"
+        "question": "Describe the apparent design style of the artwork on the phone case?",
+        "answer": "Cartoonish"
       },
       {
-        "question": "What appears to be the material of the phone case?",
-        "answer": "Plastic"
+        "question": "What is the color of the small, seemingly aquatic, animal near the whale's tail?",
+        "answer": "Gray"
       },
       {
-        "question": "What kind of object is the small, blue feature on the whale's back?",
-        "answer": "Light"
+        "question": "What color is the thin rectangular component at the bottom of the phone case?",
+        "answer": "Black"
       },
       {
-        "question": "What appears to be the primary design element featured?",
-        "answer": "Whale"
+        "question": "Considering the overall design, what is the apparent theme of the phone case?",
+        "answer": "Oceanic"
       }
     ]
   }

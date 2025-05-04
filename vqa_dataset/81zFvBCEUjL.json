@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the depicted landscape on the phone case?",
+        "question": "What is the dominant color scheme of the depicted image on the phone case?",
         "answer": "Green"
       },
       {
-        "question": "What type of pathway is prominently featured in the phone case's design?",
+        "question": "What natural feature is prominently displayed in the center of the phone case's image?",
         "answer": "Bridge"
       },
       {
-        "question": "What natural element forms the boundaries of the path shown on the phone case?",
-        "answer": "Trees"
-      },
-      {
-        "question": "What material appears to constitute the surface of the pathway depicted on the case?",
+        "question": "What material appears to constitute the bridge featured in the phone case's design?",
         "answer": "Wood"
       },
       {
-        "question": "Considering the overall aesthetic, what is the overarching mood conveyed by the phone case's image?",
-        "answer": "Serene"
+        "question": "What type of vegetation surrounds the bridge illustrated on the phone case?",
+        "answer": "Trees"
       },
       {
-        "question": "What is the apparent texture of the bridge's surface as illustrated on the phone case?",
+        "question": "Describe the overall texture implied by the image on the phone case's surface?",
         "answer": "Rough"
       },
       {
-        "question": "Describe the overall shape of the product shown in the provided image?",
+        "question": "What is the apparent path leading to the bridge in the image on the phone case?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the shape of the product depicted in the provided image?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of image is printed on the surface of the presented object?",
-        "answer": "Landscape"
-      },
-      {
-        "question": "What is the primary subject matter of the image displayed on the phone case?",
-        "answer": "Nature"
-      },
-      {
-        "question": "What can be seen extending on either side of the path in the phone case's image?",
-        "answer": "Foliage"
-      },
-      {
-        "question": "Based on the image, what seems to be the general condition of the wooden pathway?",
-        "answer": "Aged"
-      },
-      {
-        "question": "What appears to be the lighting condition in the scene printed on the phone case?",
+        "question": "What is the general lighting condition depicted in the phone case's image?",
         "answer": "Dim"
       },
       {
-        "question": "What is the apparent style of the photograph reproduced on the phone case?",
-        "answer": "Rustic"
+        "question": "What is the prevalent color of the trees in the phone case's forest scene?",
+        "answer": "Dark"
       },
       {
-        "question": "Judging by the picture, what is the overall tone of the colors in the image?",
-        "answer": "Muted"
+        "question": "What is the visual style of the image on the phone case, in terms of photographic technique?",
+        "answer": "Nature"
       },
       {
-        "question": "Considering the image, what seems to be the main focus of the photograph on the case?",
-        "answer": "Bridge"
+        "question": "What appears to be the main subject of the image presented on the phone case?",
+        "answer": "Pathway"
+      },
+      {
+        "question": "What kind of environment is suggested by the image printed on the phone case?",
+        "answer": "Forest"
+      },
+      {
+        "question": "Considering the image, what is the overall mood or atmosphere conveyed by the phone case design?",
+        "answer": "Serene"
+      },
+      {
+        "question": "What is the implied material of the phone case itself, based on its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent condition of the wooden bridge in the phone case's image?",
+        "answer": "Old"
       }
     ]
   }

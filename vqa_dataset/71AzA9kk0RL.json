@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/96b7eb52.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the locking mechanism?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the device?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall shape of the lockout device, considering both sections?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Describe the visible texture of the red component, based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent function suggested by the multiple round holes?",
+        "answer": "Locking"
+      },
+      {
+        "question": "What is the color of the metallic portion of the product?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Considering the design, what type of mechanism does this product seem to be?",
+        "answer": "Lockout"
+      },
+      {
+        "question": "What is the visible finish of the metal section of the device?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How many distinct sections or components make up the visible device?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the visible features, what is the likely application of this tool?",
+        "answer": "Safety"
+      },
+      {
+        "question": "Does the metallic component exhibit a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the shape of the holes in the red portion of the device?",
+        "answer": "Round"
+      },
+      {
+        "question": "What seems to be the primary means of attachment for this device?",
+        "answer": "Hook"
+      },
+      {
+        "question": "What is the arrangement of the holes in the red section of the device?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Based on the image, what seems to be the construction method of the red element?",
+        "answer": "Molded"
+      }
+    ]
+  }
+]

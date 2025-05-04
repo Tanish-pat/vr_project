@@ -13,56 +13,56 @@
         "answer": "Pink"
       },
       {
-        "question": "What is the style of the lettering on the phone case?",
-        "answer": "Cursive"
+        "question": "What type of design element is prominently featured on the phone case?",
+        "answer": "Text"
       },
       {
-        "question": "What shapes are depicted flanking the main text?",
-        "answer": "Lips"
-      },
-      {
-        "question": "What is the apparent material of the phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the overall shape of the depicted product?",
+        "question": "What is the shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the visual texture of the background design.",
-        "answer": "Wavy"
+        "question": "What appears to be the material of the phone case?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the color of the lip shapes on the case?",
-        "answer": "White"
+        "question": "Besides text, what other graphic elements are included in the design?",
+        "answer": "Lips"
       },
       {
-        "question": "Does the case appear to have any raised elements or 3D effects?",
-        "answer": "No"
+        "question": "What is the overall style of the phone case design?",
+        "answer": "Graphic"
       },
       {
-        "question": "Is the design primarily textual or pictorial in nature?",
-        "answer": "Textual"
+        "question": "Describe the texture of the background, based on visual appearance.",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the implied function of this product?",
-        "answer": "Protection"
-      },
-      {
-        "question": "What is the visual style of the overall design aesthetic?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Can you describe the appearance of the text's font?",
-        "answer": "Neon"
-      },
-      {
-        "question": "Judging by the image, what kind of finish does the case likely have?",
+        "question": "What is the apparent finish of the phone case's surface?",
         "answer": "Matte"
       },
       {
-        "question": "Are there any visible logos or trademarks?",
+        "question": "What is the general condition of the phone case shown in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "How many lip prints are visible on the phone case?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the style of the font used for the text on the phone case?",
+        "answer": "Cursive"
+      },
+      {
+        "question": "What is the color of the lip prints on the phone case?",
+        "answer": "White"
+      },
+      {
+        "question": "Is the design of the phone case symmetrical?",
         "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of detail in the phone case design?",
+        "answer": "High"
       }
     ]
   }

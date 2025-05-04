@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the cabinet knob shown in the image?",
+        "question": "What is the predominant color of the depicted cabinet knob?",
         "answer": "Gold"
       },
       {
-        "question": "What is the overall shape of the visible portion of the cabinet knob?",
+        "question": "What is the overall shape of the shown furniture pull?",
         "answer": "Mushroom"
       },
       {
-        "question": "Considering the image provided, what appears to be the primary material used in the knob's construction?",
+        "question": "Considering the visual texture, what seems to be the material of this knob?",
         "answer": "Metal"
       },
       {
-        "question": "Based on the image, what is the finish of the cabinet knob's surface?",
+        "question": "Describe the finish of the top surface of this decorative hardware piece?",
         "answer": "Matte"
       },
       {
-        "question": "Judging by the image, what is the style of the knob's design?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What is the apparent texture of the top surface of the cabinet knob in the provided image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Describe the shape of the knob's base, as depicted in the image.",
-        "answer": "Round"
-      },
-      {
-        "question": "What is the visible number of distinct parts or sections composing this cabinet knob?",
+        "question": "How many distinct levels or tiers can be observed in the knob's design?",
         "answer": "Two"
       },
       {
-        "question": "Considering the image, what is the general size of the knob in relation to a typical human hand?",
+        "question": "What is the general shape of the base section of the pictured cabinet knob?",
+        "answer": "Conical"
+      },
+      {
+        "question": "Considering its application, what is the primary function of this object?",
+        "answer": "Pull"
+      },
+      {
+        "question": "Does the knob exhibit any noticeable patterns or engravings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size or scale of the depicted cabinet knob?",
         "answer": "Small"
       },
       {
-        "question": "From the image, can you describe the profile of the cabinet knob?",
-        "answer": "Curved"
+        "question": "Based on its appearance, is this knob likely intended for heavy-duty use?",
+        "answer": "No"
       },
       {
-        "question": "Based on visual inspection of the knob's surface, what is the presence of any noticeable patterns?",
-        "answer": "None"
+        "question": "What is the visual characteristic of the transition between the knob's top and base?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the apparent weight of the knob based solely on the image provided?",
-        "answer": "Light"
+        "question": "What impression does the object's overall form convey?",
+        "answer": "Simple"
       },
       {
-        "question": "What is the visible degree of shine or gloss on the knob's surface, as presented in the picture?",
+        "question": "Can you describe the apparent reflectivity of the item\u2019s surface?",
         "answer": "Low"
       },
       {
-        "question": "What is the style of the knob's stem, judging by the image?",
-        "answer": "Tapered"
+        "question": "Considering the style, would this knob be considered modern or antique?",
+        "answer": "Modern"
       },
       {
-        "question": "Based on its visual appearance, what kind of space would this knob be best suited for?",
-        "answer": "Kitchen"
+        "question": "Does the object present any sharp or angular features?",
+        "answer": "No"
       }
     ]
   }

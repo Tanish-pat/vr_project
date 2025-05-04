@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What geometric shape is repeatedly printed on the case?",
-        "answer": "Triangle"
+        "question": "What geometric shapes are repeatedly printed on the phone case?",
+        "answer": "Triangles"
       },
       {
-        "question": "What is the overall color scheme of the case design?",
-        "answer": "Monochromatic"
-      },
-      {
-        "question": "Describe the visual texture of the phone case's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color are the printed geometric shapes on the case?",
+        "question": "What color are the printed geometric shapes on the phone case?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent material of the phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Does the case design feature any other colors beyond black and white?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the pattern's arrangement of the white shapes on the case?",
+        "question": "Describe the overall pattern formed by the printed shapes on the case?",
         "answer": "Repeating"
       },
       {
-        "question": "Considering the design, what style would best classify this phone case?",
-        "answer": "Minimalist"
+        "question": "What appears to be the material of the phone case itself?",
+        "answer": "Plastic"
       },
       {
-        "question": "What type of phone does the case seem designed to fit?",
-        "answer": "Smartphone"
-      },
-      {
-        "question": "How would you describe the size and scale of the printed pattern?",
-        "answer": "Small"
-      },
-      {
-        "question": "Is the printed pattern on the case symmetrical in its arrangement?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the overall shape of the phone case itself?",
+        "question": "Considering the image's angles, what is the phone case's overall shape?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the visual style of the printed geometric shapes?",
-        "answer": "Simple"
+        "question": "Judging by the visible cutouts, what type of device does it fit?",
+        "answer": "Smartphone"
       },
       {
-        "question": "Based on its appearance, what is the likely function of this item?",
-        "answer": "Protection"
+        "question": "Describe the style of the printed design on the phone case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is the phone case design predominantly glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual observation, what is the texture of the case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any other visible markings aside from the main design?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the approximate size of the individual printed triangles?",
+        "answer": "Small"
+      },
+      {
+        "question": "How would you describe the arrangement of the printed triangles?",
+        "answer": "Ordered"
+      },
+      {
+        "question": "What is the color of the phone case's side edges (visible in the image)?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the camera cutout, does the case appear to be form-fitting?",
+        "answer": "Yes"
       }
     ]
   }

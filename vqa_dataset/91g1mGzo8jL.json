@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/45/45a52966.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cylindrical carrying case shown inside the Amazon box?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used for the construction of the carrying case?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the overall three-dimensional shape of the item contained within the cardboard box?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the visible design, what kind of handle is attached to the top of the carrying case?",
+        "answer": "Strap"
+      },
+      {
+        "question": "What is the apparent texture of the outer surface of the cylindrical carrying case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely function of this cylindrical container?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What color is the exterior of the cardboard shipping box containing the product?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What recognizable logo is printed on the exterior of the shipping box?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Describe the visible stitching present on the carrying case's straps and body.",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the overall condition of the carrying case, as visibly presented in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the material of the box the product is shipped in?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the apparent state of the packaging, opened or unopened?",
+        "answer": "Opened"
+      },
+      {
+        "question": "Judging from the image, what is the approximate size of the carrying case relative to the box?",
+        "answer": "Small"
+      },
+      {
+        "question": "What kind of closure mechanism is apparent on the carrying case visible in the box?",
+        "answer": "None"
+      },
+      {
+        "question": "Ignoring the box, what is the visible shape of the item within it?",
+        "answer": "Tubular"
+      }
+    ]
+  }
+]

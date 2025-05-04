@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the visible leather surface of the boots?",
+        "question": "What is the dominant color of the leather boots shown in the image?",
         "answer": "Brown"
       },
       {
-        "question": "What reptilian-like texture is predominantly embossed on the boot's leather?",
+        "question": "What is the apparent texture of the leather used for these ankle boots?",
         "answer": "Crocodile"
       },
       {
-        "question": "Describe the shape of the visible heel of the ankle boot?",
-        "answer": "Block"
+        "question": "Considering the heel's design, what is its visible shape from the side?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "What material appears to constitute the primary structure of the boot's heel?",
+        "question": "What material appears to constitute the visible portion of the boot's heel?",
         "answer": "Wood"
       },
       {
-        "question": "What is the apparent finish of the wood used for the boot's heel?",
-        "answer": "Stained"
+        "question": "Judging by the image, what is the approximate height of the boot's heel?",
+        "answer": "Medium"
       },
       {
-        "question": "What is the general style of these displayed footwear items?",
+        "question": "Based on the visual details, what type of footwear is depicted?",
         "answer": "Boots"
       },
       {
-        "question": "How many visible zippers are there on each displayed boot?",
-        "answer": "One"
+        "question": "What is the most prominent style element found on the boot's upper?",
+        "answer": "Embossed"
       },
       {
-        "question": "What type of closure mechanism is visible on the back of each boot?",
+        "question": "What is the apparent closure mechanism visible on the back of the boot?",
         "answer": "Zipper"
       },
       {
-        "question": "What is the height of the boots in relation to the ankle?",
-        "answer": "Ankle"
+        "question": "From the image, what is the general style of these ankle boots?",
+        "answer": "Classic"
       },
       {
-        "question": "Considering the footwear's heel, what would you describe its height as?",
-        "answer": "High"
-      },
-      {
-        "question": "What is the overall visual impression of the leather's sheen?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Describe the visible lines running around the wooden heels",
-        "answer": "Grooved"
-      },
-      {
-        "question": "What is the toe shape of each visible boot?",
+        "question": "Describe the toe shape of the boots in the provided image.",
         "answer": "Pointed"
       },
       {
-        "question": "Considering the material, what is the likely weight of the boots?",
-        "answer": "Heavy"
+        "question": "What seems to be the finish of the leather on the boots' surface?",
+        "answer": "Glossy"
       },
       {
-        "question": "Considering the overall design, what is the aesthetic of the boots?",
-        "answer": "Classic"
+        "question": "Based purely on the image, what is the ankle height of the boots?",
+        "answer": "Ankle"
+      },
+      {
+        "question": "What kind of pattern is visible on the boots' surface?",
+        "answer": "Reptilian"
+      },
+      {
+        "question": "What is the overall condition of the boots in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the visible number of boots shown in the product photography?",
+        "answer": "Two"
       }
     ]
   }

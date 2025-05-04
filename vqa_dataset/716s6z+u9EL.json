@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the depicted wheat stalks on the phone case?",
+        "question": "What is the dominant color depicted on the phone case's main design?",
         "answer": "Gold"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the image, what is the overall shape of the product being shown?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the most prominent botanical feature depicted on the phone case's surface?",
+        "question": "What type of plant is primarily featured in the case's image?",
         "answer": "Wheat"
       },
       {
-        "question": "Based on the visible design, what is the style of the phone case's image?",
-        "answer": "Photographic"
+        "question": "Considering the overall aesthetic, what is the case's design style?",
+        "answer": "Natural"
       },
       {
-        "question": "What color are the leaves visible among the wheat stalks in the image?",
+        "question": "What appears to be the primary material used for the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture implied by the visual depiction of the wheat stalks",
+        "answer": "Rough"
+      },
+      {
+        "question": "What color are the leaves of the wheat depicted on the phone case?",
         "answer": "Green"
       },
       {
-        "question": "What seems to be the finish or texture of the printed image on the phone case?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What technological device does this case appear designed to protect?",
+        "question": "What specific Apple device model does this phone case appear designed for?",
         "answer": "iPhone"
       },
       {
-        "question": "Can you describe the background visible through the wheat stalks in the phone case image?",
-        "answer": "Blurred"
+        "question": "What is the background color of the image printed on the case?",
+        "answer": "White"
       },
       {
-        "question": "Considering the visible features, what is the apparent style of the case's design?",
-        "answer": "Nature"
+        "question": "Does the image on the phone case show the wheat in close-up or far away?",
+        "answer": "Close-up"
       },
       {
-        "question": "What is the visual appearance of the background in the phone case image?",
-        "answer": "Light"
+        "question": "Are the wheat stalks depicted on the case uniformly oriented or varied?",
+        "answer": "Varied"
       },
       {
-        "question": "Describe the visible details on the phone case that reveal its model compatibility",
-        "answer": "Cutouts"
+        "question": "What is the level of detail in the photographic image on the case?",
+        "answer": "High"
       },
       {
-        "question": "What is the general color scheme of the background behind the wheat stalks?",
-        "answer": "Pale"
+        "question": "Does the phone case appear to have any additional design elements beyond the main image?",
+        "answer": "No"
       },
       {
-        "question": "What is the overall aesthetic impression conveyed by the design of the phone case?",
-        "answer": "Serene"
+        "question": "What kind of finish does the surface of the phone case seem to possess?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the visual effect created by the slightly blurred background on the case?",
-        "answer": "Depth"
+        "question": "Observing the image, are the colors on the case vibrant or muted?",
+        "answer": "Muted"
       }
     ]
   }

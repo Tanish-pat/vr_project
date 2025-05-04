@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the patterned fabric?",
+        "question": "What is the dominant color scheme of the repeating design on the cushion?",
         "answer": "Gray"
       },
       {
-        "question": "What is the overall shape of the depicted item?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What kind of pattern is displayed across the fabric surface?",
+        "question": "What is the primary design pattern adorning the entire surface of the cushion?",
         "answer": "Floral"
       },
       {
-        "question": "What appears to be the primary material used in its construction?",
+        "question": "What seems to be the predominant texture of the outer covering of this bench cushion?",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the visual texture of the patterned fabric in the image?",
-        "answer": "Smooth"
+        "question": "What shape best describes the overall form of the presented bench cushion?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What small elements constitute the repeating pattern on the fabric?",
-        "answer": "Circles"
+        "question": "What appears to be the main material used for the construction of the bench cushion?",
+        "answer": "Cotton"
       },
       {
-        "question": "Considering its form and apparent function, what is this item?",
-        "answer": "Cushion"
+        "question": "What is the overall style of the printed pattern on the bench cushion?",
+        "answer": "Modern"
       },
       {
-        "question": "Are there any visible ties or strings attached to the item?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the color of the smaller details within the larger circles?",
-        "answer": "White"
-      },
-      {
-        "question": "How many sets of ties are visibly present at the ends?",
-        "answer": "Two"
-      },
-      {
-        "question": "Describe the style of the repeating motif in the fabric design.",
-        "answer": "Mandala"
-      },
-      {
-        "question": "What is the apparent length-to-width ratio of this rectangular item?",
+        "question": "Considering the image, what is the approximate length to width ratio of the cushion?",
         "answer": "Long"
       },
       {
-        "question": "Does the pattern appear to be printed or embroidered onto the fabric?",
-        "answer": "Printed"
+        "question": "Based on visual inspection, what is the style of the pattern's elements?",
+        "answer": "Circular"
       },
       {
-        "question": "What is the overall visual impression of the color palette of the product?",
-        "answer": "Neutral"
+        "question": "What is the overall color of the background fabric upon which the main design is printed?",
+        "answer": "Dark"
       },
       {
-        "question": "Considering the item's shape and design, what is its likely use or function?",
-        "answer": "Seating"
+        "question": "What type of fastening elements appear on either side of this piece of furniture?",
+        "answer": "Strings"
+      },
+      {
+        "question": "Describe the color of the smaller details within the repeating design elements?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of print is predominantly used on the cushion's fabric surface?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the apparent level of detail in the repeating design across the bench cushion?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the structural composition, is the item flat or three-dimensional?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What appears to be the intended use for this item shown in the image?",
+        "answer": "Cushion"
       }
     ]
   }

@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible suitcase exterior?",
+        "question": "What is the predominant color of the suitcase's exterior?",
         "answer": "Gray"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Plastic"
       },
       {
-        "question": "Describe the apparent texture of the suitcase's outer surface.",
+        "question": "Describe the visible texture of the suitcase's outer surface.",
         "answer": "Smooth"
       },
       {
-        "question": "What is the primary material of the retractable handle?",
+        "question": "What is the apparent construction of the retractable handle?",
+        "answer": "Telescopic"
+      },
+      {
+        "question": "What material seems to compose the retractable handle?",
         "answer": "Metal"
       },
       {
-        "question": "What color is the top handle grip on the suitcase?",
+        "question": "What color is the top handle of the suitcase?",
         "answer": "Black"
       },
       {
-        "question": "Considering its shape, what type of luggage is depicted?",
-        "answer": "Suitcase"
-      },
-      {
-        "question": "What is the overall shape of the suitcase's main body?",
+        "question": "What is the overall shape of the displayed luggage piece?",
         "answer": "Rectangular"
       },
       {
-        "question": "What design feature is observed along the suitcase's sides?",
-        "answer": "Grooves"
+        "question": "What seems to be the finish of the suitcase's outer shell?",
+        "answer": "Glossy"
       },
       {
-        "question": "How many visible sections does the retractable handle possess?",
-        "answer": "Two"
+        "question": "Considering the visible design, how many wheels are likely present?",
+        "answer": "Four"
       },
       {
-        "question": "What seems to be the finish of the suitcase's metallic components?",
-        "answer": "Matte"
+        "question": "What is the apparent material of the top handle grips?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the color of the plastic accents around the handle?",
-        "answer": "Black"
+        "question": "Does the suitcase display any visible external branding or logos?",
+        "answer": "No"
       },
       {
-        "question": "Judging by the image, is the suitcase hard-sided or soft-sided?",
-        "answer": "Hard"
+        "question": "What is the apparent rigidity of the suitcase's structure?",
+        "answer": "Rigid"
       },
       {
-        "question": "Describe the apparent quality of the suitcase's construction.",
-        "answer": "Durable"
+        "question": "Based on its appearance, what is the suitcase's likely size category?",
+        "answer": "Medium"
       },
       {
-        "question": "Based on visible features, what is the suitcase's style?",
-        "answer": "Modern"
+        "question": "Describe the visible pattern on the suitcase's body.",
+        "answer": "Ribbed"
       },
       {
-        "question": "What type of wheels are visible on the suitcase?",
-        "answer": "None"
+        "question": "What is the apparent functionality of the side-mounted handle?",
+        "answer": "Carrying"
       }
     ]
   }

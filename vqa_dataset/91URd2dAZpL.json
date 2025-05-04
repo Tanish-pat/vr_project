@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9c/9c0dfbf9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted phone case?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What design pattern is prominently featured on the phone case's surface?",
+        "answer": "Squares"
+      },
+      {
+        "question": "What material does the phone case appear to visually simulate?",
+        "answer": "Stone"
+      },
+      {
+        "question": "What is the overall shape of the illustrated phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the design, what texture is implied on the phone case?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the visual appearance of the individual square elements on the case?",
+        "answer": "Weathered"
+      },
+      {
+        "question": "What kind of pattern is formed by the arrangement of the squares?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Does the phone case have any apparent noticeable markings or logos?",
+        "answer": "None"
+      },
+      {
+        "question": "What color are the square elements that compose the main design?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the apparent finish of the surface of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is suggested by the variation in shades of grey on the case?",
+        "answer": "Depth"
+      },
+      {
+        "question": "Based solely on visual appearance, what is the apparent phone case style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "How many sides of the phone case are shown in the provided image?",
+        "answer": "Four"
+      },
+      {
+        "question": "Judging by the visuals, what is the case primarily made to protect?",
+        "answer": "Phone"
+      },
+      {
+        "question": "Is there a noticeable camera cut-out visible on the case?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

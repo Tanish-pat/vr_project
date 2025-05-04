@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4e184219.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual texture, what is the predominant surface feel of the upper shoe material?",
+        "answer": "Knit"
+      },
+      {
+        "question": "What single color best describes the majority of the visible shoe exterior?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the insole, what is the most prominent color displayed on the interior?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Focusing on the sole's edge, what color is the visible trim surrounding the shoe base?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the insole branding, what word is prominently displayed in the interior?",
+        "answer": "Pulsefit"
+      },
+      {
+        "question": "Considering the shape of the shoe, what is the most accurate description of its style?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "From the image, what seems to be the primary material used in the shoe's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the visible stitching and seams, what can be described as the construction method?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Looking at the shoe's profile, what is the most appropriate style category for the shoe?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "What is the overall style of the shoe shown in the picture?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the texture of the main fabric part of the shoe shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the shoe have a visible heel?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you describe the visual appearance of the sole of the shoe?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Describe the design of the top of the shoe in one word.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary function of this footwear?",
+        "answer": "Walking"
+      }
+    ]
+  }
+]

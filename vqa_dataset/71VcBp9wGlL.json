@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64a22dab.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the wardrobe's exterior?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the wardrobe's construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visible structure, what is the overall shape of the wardrobe?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many visible shelves are present inside the wardrobe?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the apparent finish of the wardrobe's surface; is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of hardware is visibly used for the wardrobe's handles or pulls?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the image, does the wardrobe have any visible decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the interior, what is the apparent depth of each shelf within the wardrobe?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Considering the image, does the wardrobe exhibit visible grain patterns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall height-to-width ratio of the wardrobe in the provided view?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Judging by the image, are there any visible joints or seams in the wardrobe's structure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the apparent style of the wardrobe based on its design features; is it ornate or simplistic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the visible components, are there visible gaps between shelves and the frame?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent texture of the wardrobe's external surface, rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, is the wardrobe's interior the same color as the exterior?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

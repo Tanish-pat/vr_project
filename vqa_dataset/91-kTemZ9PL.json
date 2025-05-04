@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the curtains depicted in the image?",
+        "question": "What is the dominant color of the curtains depicted in the image?",
         "answer": "Beige"
       },
       {
-        "question": "What appears to be the primary material used in the construction of these curtains?",
+        "question": "What appears to be the primary material composition of the curtains?",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the overall hanging style or pleating of the curtains shown?",
-        "answer": "Pleated"
-      },
-      {
-        "question": "What is the apparent texture of the curtain fabric, as observed in the image?",
+        "question": "Describe the overall texture of the curtains based on visual observation?",
         "answer": "Smooth"
-      },
-      {
-        "question": "Based on the visual appearance, what is the approximate length of each curtain panel?",
-        "answer": "Long"
-      },
-      {
-        "question": "What type of rod or hardware seems to be used for hanging the curtains?",
-        "answer": "Rod"
-      },
-      {
-        "question": "Judging from the visual details, what is the color of the curtain rod shown?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the image, how many curtain panels are visibly present?",
-        "answer": "Two"
       },
       {
         "question": "What is the general shape or form of each individual curtain panel?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the overall pattern or design present on the curtains' surface?",
-        "answer": "Plain"
+        "question": "What kind of header style is visibly present at the top of the curtains?",
+        "answer": "Pleated"
       },
       {
-        "question": "Considering the image provided, what is the style of the curtains in question?",
-        "answer": "Simple"
+        "question": "What color is the curtain rod used to hang the curtains?",
+        "answer": "Black"
       },
       {
-        "question": "What is the apparent level of light transmission through the curtains?",
-        "answer": "Moderate"
+        "question": "Considering the image, how many curtain panels are shown in total?",
+        "answer": "Two"
       },
       {
-        "question": "Based on the visible details, what is the fullness or width of each curtain panel relative to the window?",
-        "answer": "Full"
+        "question": "What kind of finish or sheen does the curtain fabric exhibit?",
+        "answer": "Matte"
       },
       {
-        "question": "Considering the image provided, what is the overall aesthetic of the curtains?",
+        "question": "Based on visual observation,  what is the apparent drape or fall of the curtains?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Do the curtains appear to have any patterns or designs printed on them?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the curtain fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging by appearance, are the curtains fully opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visible method of hanging the curtains to the rod?",
+        "answer": "Pocket"
+      },
+      {
+        "question": "What seems to be the style of the room where the curtains are hung?",
         "answer": "Minimalist"
       },
       {
-        "question": "What is the visible state of the curtains\u2014are they open or closed?",
-        "answer": "Closed"
+        "question": "Based solely on visual assessment, what is the length of the curtains relative to the window?",
+        "answer": "Floor"
       }
     ]
   }

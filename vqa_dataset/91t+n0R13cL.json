@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a6453ff4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the leather backpack shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to be used for the construction of this backpack?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall structure, what is the primary shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many main zippered compartments are visibly present on the backpack's front?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the image, what type of closure system is used on the main compartments?",
+        "answer": "Zippers"
+      },
+      {
+        "question": "What is the apparent texture of the leather used in manufacturing this backpack?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, are there any noticeable pockets or smaller compartments on the front?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color are the zippers and pullers used on the main compartments of this backpack?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the style of the shoulder straps of the backpack, as shown in the picture?",
+        "answer": "Padded"
+      },
+      {
+        "question": "From the image, what seems to be the overall design aesthetic of this backpack?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Does the image show any visible branding, logos, or labels on the backpack?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image provided, what is the apparent size of the backpack?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on its appearance, what is the probable function of this backpack?",
+        "answer": "Travel"
+      },
+      {
+        "question": "Considering the image, what is the visible condition of the leather on the backpack?",
+        "answer": "New"
+      },
+      {
+        "question": "What kind of stitching is apparent on the visible seams of the backpack?",
+        "answer": "Straight"
+      }
+    ]
+  }
+]

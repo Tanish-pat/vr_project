@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the dominant shape of this earring?",
-        "answer": "Round"
-      },
-      {
-        "question": "Describe the apparent texture of the central element of this earring, based on the visual details?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color best describes the main pearl-like component of the earring?",
-        "answer": "Cream"
-      },
-      {
-        "question": "What material appears to constitute the primary setting for the central pearl?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Observing the design, what kind of closure mechanism does the earring exhibit?",
-        "answer": "Post"
-      },
-      {
-        "question": "Judging by its visual appearance, what is the finish of the metal setting in this earring?",
-        "answer": "Silver"
-      },
-      {
-        "question": "From the image, what is the general style of the metal framework around the pearl?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Based on the image, what seems to be the luster of the main pearl component of the earring?",
-        "answer": "High"
-      },
-      {
-        "question": "What is the apparent size of the central pearl component relative to the overall earring size?",
-        "answer": "Large"
-      },
-      {
-        "question": "Describe the visible pattern or motif on the metal portion of the earring, if any?",
-        "answer": "Cutout"
-      },
-      {
-        "question": "Considering the image, what is the apparent weight or density of the earring based on visual cues?",
-        "answer": "Light"
-      },
-      {
-        "question": "In the image, what level of detail or intricacy is shown in the metal work of the earring?",
-        "answer": "Minimal"
-      },
-      {
-        "question": "What is the general arrangement of the metallic components around the pearl, in terms of their placement?",
+        "question": "Considering the overall form, what is the dominant geometric shape of the earring's main component?",
         "answer": "Circular"
       },
       {
-        "question": "Based only on visual analysis, what seems to be the overall aesthetic of the earring?",
-        "answer": "Classic"
+        "question": "Describe the visual appearance of the central, prominent element of the earring, in terms of its texture and reflectivity.",
+        "answer": "Pearlescent"
       },
       {
-        "question": "What is the apparent overall look of the earring, in terms of its brightness or dullness?",
-        "answer": "Bright"
+        "question": "What is the apparent material of the setting that encircles the central element of the earring?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "Focusing on the metallic components, what color best describes their visual hue?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What specific design feature is present within the metallic setting, observable as cut-out spaces?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Describe the visible texture of the primary pearl-like element that defines the earring's aesthetic.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent overall color of the central pearl-like component of the earring?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What type of fastening mechanism is visible for securing the earring to the wearer's ear?",
+        "answer": "Post"
+      },
+      {
+        "question": "What best describes the visible shine or luster of the main, pearl-like component of the earring?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Disregarding the central pearl, what is the finish of the metallic parts of the earring?",
+        "answer": "Polished"
+      },
+      {
+        "question": "Observing the metallic setting, does it feature any discernible patterns or engravings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visual quality of the surface of the central element within the earring's design.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the relative size of the central pearl-like element compared to the overall earring?",
+        "answer": "Large"
+      },
+      {
+        "question": "What material does the post or stem connecting the earring's head to the ear appear to be composed of?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Regarding the metallic setting, is its surface plain or does it have any textural variations?",
+        "answer": "Textured"
       }
     ]
   }

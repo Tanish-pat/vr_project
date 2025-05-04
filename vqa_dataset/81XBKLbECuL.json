@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the visible leather upper?",
+        "question": "What is the predominant color of the visible upper portion of the shoes?",
         "answer": "Navy"
       },
       {
-        "question": "What is the overall shape of the shoe's profile?",
-        "answer": "Pointed"
-      },
-      {
-        "question": "What is the apparent texture of the leather upper surface?",
-        "answer": "Perforated"
-      },
-      {
-        "question": "What type of pattern is visible on the shoe's upper?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "What material appears to constitute the outsole of the shoe?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Describe the design of the sole's tread pattern?",
-        "answer": "Segmented"
-      },
-      {
-        "question": "What is the visible type of closure mechanism on the shoe?",
-        "answer": "Slip-on"
-      },
-      {
-        "question": "What is the apparent material of the shoe's interior lining?",
+        "question": "What is the apparent material composition of the shoe's exterior?",
         "answer": "Leather"
       },
       {
-        "question": "What appears to be the stitching style along the seams of the shoe?",
-        "answer": "Hand-stitched"
+        "question": "Describe the pattern embossed on the visible surface of the shoe's upper.",
+        "answer": "Perforated"
       },
       {
-        "question": "Does the shoe's upper feature any noticeable branding?",
-        "answer": "Yes"
+        "question": "What is the overall shape or style of these footwear items?",
+        "answer": "Loafers"
       },
       {
-        "question": "What is the apparent style of the shoe's toe box?",
+        "question": "What design feature is present near the vamp of the shoe?",
+        "answer": "Stitching"
+      },
+      {
+        "question": "What is the texture of the visible leather surface of the shoes?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the visible insole of the shoe?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent material of the outsole of the shoes?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describe the pattern on the outsole of the shoe.",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the shape of the toe area of the shoe?",
         "answer": "Rounded"
       },
       {
-        "question": "Describe the visible texture of the shoe's outsole?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What is the construction style of the heel of the shoe?",
+        "question": "What is the overall style of the shoe's sole?",
         "answer": "Flat"
       },
       {
-        "question": "Based on visible details, what is the apparent shoe type?",
-        "answer": "Loafer"
+        "question": "What kind of fastening mechanism does the shoe utilize?",
+        "answer": "Slip-on"
       },
       {
-        "question": "What color is the visible interior lining of the shoe?",
-        "answer": "Brown"
+        "question": "What is the visible branding present on the shoe's interior?",
+        "answer": "Novaton"
+      },
+      {
+        "question": "Describe the visible stitching along the heel of the shoe.",
+        "answer": "Decorative"
+      },
+      {
+        "question": "Is the sole of the shoe flexible or rigid in appearance?",
+        "answer": "Flexible"
       }
     ]
   }

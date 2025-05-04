@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case shown in the image?",
+        "question": "What is the predominant color of the phone case depicted in the provided image?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this phone case?",
+        "question": "What texture is predominantly visible on the surface of the phone case?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the texture of the outer surface of the depicted phone case?",
-        "answer": "Grained"
+        "question": "Considering the visual details, what material appears to be used in the construction of this phone case?",
+        "answer": "Leather"
       },
       {
-        "question": "What shape best describes the overall form of the phone case presented?",
+        "question": "Based on the image, what is the overall shape of the protective phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the image, what design element is most prominent on the phone case's exterior?",
-        "answer": "Pattern"
+        "question": "Judging by the image, how many camera cutouts are visible on the rear of the case?",
+        "answer": "Three"
       },
       {
-        "question": "Does the image show any noticeable markings or branding on the phone case?",
-        "answer": "None"
-      },
-      {
-        "question": "Based on the provided image, what is the apparent finish of the phone case?",
+        "question": "What seems to be the apparent finish or coating applied to the surface of the phone case?",
         "answer": "Matte"
       },
       {
-        "question": "Observing the camera cutout, what shape does it closely resemble?",
+        "question": "Does the phone case's texture suggest a smooth or rough feel to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent design pattern covering most of the case's exterior?",
+        "answer": "Grained"
+      },
+      {
+        "question": "From the image, can you describe the appearance of the camera cutout area?",
         "answer": "Circular"
       },
       {
-        "question": "Focusing on the edges, what is the apparent profile of the phone case?",
-        "answer": "Raised"
-      },
-      {
-        "question": "Judging from the image, what appears to be the thickness of the phone case?",
-        "answer": "Slim"
-      },
-      {
-        "question": "What color is visible around the camera lens cutout?",
+        "question": "What color is the accent trim visible around the camera cutout area?",
         "answer": "Blue"
       },
       {
-        "question": "Describe the style of the leather grain pattern visible on the case",
-        "answer": "Pebbled"
+        "question": "Based solely on the image provided, what is the general style of the phone case?",
+        "answer": "Protective"
       },
       {
-        "question": "Is the phone case shown in the image flexible or rigid in appearance?",
+        "question": "Judging from the image, describe the visual appearance of the case's edges or border.",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the image suggest that this case is flexible or rigid in its form?",
         "answer": "Rigid"
       },
       {
-        "question": "Based solely on the image, is the case showing any visible seams or stitching?",
-        "answer": "No"
+        "question": "What type of case is this, considering its function and protective design?",
+        "answer": "Phone"
       },
       {
-        "question": "Does the image suggest that the case provides any significant degree of protection?",
-        "answer": "Yes"
+        "question": "Based on the visual details, is the phone case design minimalist or ornate?",
+        "answer": "Minimalist"
       }
     ]
   }

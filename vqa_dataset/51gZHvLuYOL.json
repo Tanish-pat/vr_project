@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the fabric comprising the main body of these storage boxes?",
+        "question": "What is the predominant color of the main fabric composing the storage boxes?",
         "answer": "Brown"
       },
       {
-        "question": "What color is the fabric used for the lid of each storage cube?",
+        "question": "What is the color of the contrasting fabric trim on the lid of each storage cube?",
         "answer": "Beige"
       },
       {
-        "question": "Describe the overall shape of each individual storage container displayed in the image.",
-        "answer": "Cubic"
-      },
-      {
-        "question": "What appears to be the primary material used in the construction of these storage boxes?",
+        "question": "What is the primary material appearing to constitute the storage boxes' exterior?",
         "answer": "Fabric"
       },
       {
-        "question": "Considering the visible texture, what is the likely surface feel of the storage box's main fabric?",
-        "answer": "Canvas"
+        "question": "Describe the overall three-dimensional shape of each individual storage container?",
+        "answer": "Cubical"
       },
       {
-        "question": "What design element is prominently featured on the front of each storage cube's main fabric?",
-        "answer": "Rectangle"
+        "question": "What design element is featured centrally on the front panel of each box?",
+        "answer": "Square"
       },
       {
-        "question": "What color is the trim around the central rectangular design element on the front?",
-        "answer": "Brown"
+        "question": "What is the apparent texture of the main fabric used in the construction of the boxes?",
+        "answer": "Smooth"
       },
       {
-        "question": "Based on visual observation, what seems to be the function of these objects?",
+        "question": "Considering the visible handles, what is the intended function of the shown items?",
         "answer": "Storage"
       },
       {
-        "question": "Are there any visible handles or carrying aids integrated into the design of the storage boxes?",
-        "answer": "Yes"
-      },
-      {
-        "question": "How many storage boxes are shown in total within the provided product image?",
+        "question": "How many storage boxes are depicted in the provided image of the product listing?",
         "answer": "Three"
       },
       {
-        "question": "Considering the image, what seems to be the likely method of closing these storage cubes?",
-        "answer": "Lid"
-      },
-      {
-        "question": "Does the image show any visible stitching or seams on the fabric storage units?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Judging by the picture, what is the apparent state of the storage boxes, new or used?",
-        "answer": "New"
-      },
-      {
-        "question": "What design element seems to contrast with the main color of the box?",
-        "answer": "Beige"
-      },
-      {
-        "question": "What is the apparent texture of the beige lid fabric, rough or smooth?",
+        "question": "What is the apparent texture of the trim on the top of each box?",
         "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual assessment, what is the color of the trim around the central design element?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the general style of the decorative square accent on each storage box?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the handles, what kind of opening mechanism do these boxes seem to employ?",
+        "answer": "Lidded"
+      },
+      {
+        "question": "Visually, what is the apparent method of construction of the box's body and lid?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "What design element is seen on the side of each box, possibly acting as a handle?",
+        "answer": "Loops"
+      },
+      {
+        "question": "Judging by the image, what is the level of apparent rigidity of each storage box?",
+        "answer": "Soft"
       }
     ]
   }

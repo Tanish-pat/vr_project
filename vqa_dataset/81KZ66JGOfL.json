@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the ceiling fixture's outer frame?",
+        "question": "What is the primary color of the ceiling fixture's outer casing?",
         "answer": "Black"
       },
       {
-        "question": "What material appears to constitute the primary enclosure of the light fixture?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the overall shape of the main fixture's protective casing?",
-        "answer": "Dome"
-      },
-      {
-        "question": "What is the geometric design of the wire frame encompassing the light bulbs?",
-        "answer": "Cage"
-      },
-      {
-        "question": "Describe the visual texture of the transparent dome covering the bulbs.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the visible components, how many light bulbs does the fixture accommodate?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the apparent material of the dome-shaped element shielding the light bulbs?",
+        "question": "What material appears to constitute the dome-shaped light diffuser?",
         "answer": "Glass"
       },
       {
-        "question": "What kind of finish does the black metal exterior appear to have?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Characterize the style of the light fixture's wire cage design.",
-        "answer": "Industrial"
-      },
-      {
-        "question": "What is the shape of the fixture's top, round or square?",
+        "question": "What is the geometric shape best describing the fixture's overall form?",
         "answer": "Round"
       },
       {
-        "question": "Judging by the image, what is the mounting style of this light fixture?",
-        "answer": "Flush"
+        "question": "Describe the visible design of the protective cage surrounding the bulbs.",
+        "answer": "Wire"
       },
       {
-        "question": "Is the wire cage a single piece or multiple interconnected parts?",
-        "answer": "Multiple"
+        "question": "What is the apparent finish of the metal components in the lighting fixture?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the general color of the visible light bulbs inside?",
+        "question": "How many visible light bulb sockets are integrated into this fixture?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent style of the metal cage's construction around the lights?",
+        "answer": "Cage"
+      },
+      {
+        "question": "What seems to be the material used for the fixture's main body?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Judging by the image, what is the overall design aesthetic of the light?",
+        "answer": "Industrial"
+      },
+      {
+        "question": "What is the shape of the light fixture's top?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the image, is the light fixture's surface glossy or not?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How would you describe the transparency of the glass dome?",
         "answer": "Clear"
       },
       {
-        "question": "Considering the material and design, what is the overall aesthetic?",
-        "answer": "Modern"
+        "question": "What type of light bulbs seem to be compatible with this fixture?",
+        "answer": "Incandescent"
       },
       {
-        "question": "Describe the appearance of the metal's surface finish, is it shiny or dull?",
-        "answer": "Dull"
+        "question": "Based on its appearance, is this designed as a flush-mount or pendant?",
+        "answer": "Flush"
+      },
+      {
+        "question": "What is the color of the metal protective cage surrounding the bulbs?",
+        "answer": "Black"
       }
     ]
   }

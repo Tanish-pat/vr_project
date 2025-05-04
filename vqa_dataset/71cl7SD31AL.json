@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/97/97ec606a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visual texture, how would you describe the surface finish of this phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What design element is prominently featured across the back of the phone case?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall shape of the protective case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the image suggest any noticeable thickness to the phone case's profile?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Judging by the image, does the case seem to offer complete coverage of the phone's back?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Can you describe the visual appearance of the camera cutouts on the protective case?",
+        "answer": "Circular"
+      },
+      {
+        "question": "From the image, what seems to be the overall fit of the case around the phone?",
+        "answer": "Snug"
+      },
+      {
+        "question": "What type of finish is suggested by the subtle sheen in the image of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the case seem to have any visible branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the case designed to fully encapsulate the phone?",
+        "answer": "No"
+      },
+      {
+        "question": "What does the appearance of the case's edges suggest about its design?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on visual details, does the case seem to feature any raised bezels or lips?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of protection does the visual design of the case suggest?",
+        "answer": "Minimal"
+      }
+    ]
+  }
+]

@@ -9,60 +9,60 @@
         "answer": "White"
       },
       {
-        "question": "What appears to be the primary material of the coffee table's construction?",
+        "question": "What appears to be the primary material used in the table's construction?",
         "answer": "Wood"
       },
       {
-        "question": "Considering the visible edges, what is the overall shape of the table top?",
+        "question": "Describe the overall shape of the coffee table's top?",
         "answer": "Rectangular"
       },
       {
-        "question": "Does the coffee table feature any visible drawers or storage compartments?",
+        "question": "Considering the visible legs, what is the table's general style?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Is there any visible drawer or storage compartment integrated into the design?",
         "answer": "Yes"
       },
       {
-        "question": "Judging by the image, what is the apparent finish of the coffee table's surface?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Describe the visible legs' shape of the coffee table from the provided perspective?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What seems to be the overall style of the coffee table's design?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Based on the image, how many legs does the coffee table appear to have?",
-        "answer": "Four"
-      },
-      {
-        "question": "Describe the visible texture of the coffee table's top surface based on the image.",
+        "question": "What is the apparent finish of the table's surface, based on visual reflection?",
         "answer": "Smooth"
       },
       {
-        "question": "What kind of visible joinery is apparent between the table's legs and top?",
-        "answer": "Butt"
+        "question": "Judging by the image, how many legs does the coffee table possess?",
+        "answer": "Four"
       },
       {
-        "question": "From the provided angle, how would you describe the height of the table's legs?",
+        "question": "What is the visible profile of the table's legs; are they tapered, square, or rounded?",
+        "answer": "Square"
+      },
+      {
+        "question": "What seems to be the apparent height of the legs relative to the table top?",
         "answer": "Low"
       },
       {
-        "question": "Does the coffee table showcase any visible decorative elements or carvings?",
-        "answer": "No"
+        "question": "Based on the image, does the table appear to be made of solid wood or a composite?",
+        "answer": "Wood"
       },
       {
-        "question": "Considering the image, what seems to be the approximate width of the coffee table's top?",
-        "answer": "Wide"
+        "question": "What is the apparent texture of the table's surface, smooth or rough?",
+        "answer": "Smooth"
       },
       {
-        "question": "From the angle presented, what is the overall visible proportion of the table?",
-        "answer": "Long"
+        "question": "Does the visible drawer appear to be fully extended or closed?",
+        "answer": "Closed"
       },
       {
-        "question": "Based on the visible construction, how would you describe the table's apparent sturdiness?",
-        "answer": "Solid"
+        "question": "What kind of handle or pull is visible on the drawer front?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the image's clarity, what is the visible grain pattern of the table's wood?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Does the table's color appear uniform across its visible surfaces?",
+        "answer": "Yes"
       }
     ]
   }

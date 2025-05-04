@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the repeating design imprinted on the surface?",
+        "question": "What is the predominant color of the repeating design on the fabric?",
         "answer": "Sage"
       },
       {
-        "question": "What is the overall shape suggested by the image's framing?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the most apparent textural characteristic of the displayed surface?",
-        "answer": "Embossed"
-      },
-      {
-        "question": "What geometric form is used repeatedly as the basic design motif?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What visual effect is created by the light and shadow variations in the image?",
-        "answer": "Depth"
-      },
-      {
-        "question": "What appears to be the primary material used for the shown item?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "What would you describe the visual style of the pattern as?",
+        "question": "What is the overall pattern or motif displayed across the textile?",
         "answer": "Floral"
       },
       {
-        "question": "What is the primary method used to apply the design to the item shown?",
-        "answer": "Imprinting"
+        "question": "Describe the texture implied by the embossed pattern on the material?",
+        "answer": "Embossed"
       },
       {
-        "question": "What descriptive adjective applies to the color saturation of the design?",
-        "answer": "Muted"
+        "question": "What shape best describes the individual repeating elements in the design?",
+        "answer": "Circular"
       },
       {
-        "question": "What visual impression is given by the density of the pattern?",
-        "answer": "Dense"
+        "question": "What is the apparent primary material composition of the shown item?",
+        "answer": "Fabric"
       },
       {
-        "question": "What is the most obvious pattern element found in the visual?",
-        "answer": "Repetitive"
-      },
-      {
-        "question": "Considering the visual elements, how would one characterize the design?",
+        "question": "How would you characterize the visual style of the textile's design?",
         "answer": "Subtle"
       },
       {
-        "question": "What feeling is most evoked by the repeated, regular pattern?",
+        "question": "What is the visual effect created by the lighter shade within each design element?",
+        "answer": "Raised"
+      },
+      {
+        "question": "Is the textile's design primarily geometric or organic in nature?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Does the fabric appear to have a smooth or rough surface texture overall?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the color palette, what overall feeling does the fabric evoke?",
         "answer": "Calm"
       },
       {
-        "question": "What term best describes the style of the design's arrangement?",
-        "answer": "Organized"
+        "question": "What seems to be the density of the repeating pattern on the fabric's surface?",
+        "answer": "High"
       },
       {
-        "question": "Considering the color and pattern, what aesthetic is suggested?",
-        "answer": "Minimalist"
+        "question": "What is the primary visual method used to create the pattern on the fabric?",
+        "answer": "Embossing"
+      },
+      {
+        "question": "Can you determine if the design is uniformly distributed across the fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visual contrast between the background and the pattern elements.",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the visual appearance, how would you classify the fabric's weight?",
+        "answer": "Medium"
       }
     ]
   }

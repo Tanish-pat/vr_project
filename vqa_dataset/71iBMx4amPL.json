@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the predominant color scheme displayed across the phone case's surface?",
         "answer": "Blue"
       },
       {
-        "question": "What artistic style is depicted on the phone case's surface?",
+        "question": "Considering the visual texture, what artistic style best describes the case's design?",
         "answer": "Abstract"
       },
       {
-        "question": "What is the overall shape of the depicted phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What kind of brushstrokes are primarily visible on the phone case?",
-        "answer": "Impasto"
-      },
-      {
-        "question": "Considering the image, what appears to be the phone case's material?",
+        "question": "What material appears to be used in the manufacturing of this protective phone cover?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the texture implied by the painted design on the phone case?",
-        "answer": "Rough"
+        "question": "Based on its visual outline, what geometric shape best defines the phone case?",
+        "answer": "Rectangle"
       },
       {
-        "question": "What is the general tone or mood conveyed by the case's design?",
-        "answer": "Energetic"
+        "question": "Describe the style of the brushstrokes depicted in the phone case's artistic rendering?",
+        "answer": "Impasto"
       },
       {
-        "question": "Based on the image, what is the design's level of detail?",
+        "question": "What is the overall visual impression conveyed by the colors and brushstrokes?",
+        "answer": "Dynamic"
+      },
+      {
+        "question": "Does the phone case design incorporate any discernible patterns or motifs?",
+        "answer": "No"
+      },
+      {
+        "question": "Focusing on the phone case's design, what specific artistic medium is mimicked?",
+        "answer": "Paint"
+      },
+      {
+        "question": "Judging from the image, how many camera cutouts are present on the phone case?",
+        "answer": "One"
+      },
+      {
+        "question": "What seems to be the primary purpose of this depicted accessory?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Given the image, does the phone case have a glossy or matte finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Describe the visual density of the brushstrokes on the phone case's surface?",
         "answer": "High"
       },
       {
-        "question": "Does the phone case design include any discernible figures or objects?",
-        "answer": "No"
+        "question": "What type of phone does this case seem to be designed for?",
+        "answer": "Smartphone"
       },
       {
-        "question": "What is the visual prominence of the white paint streaks in the design?",
-        "answer": "Secondary"
+        "question": "Considering the visual details, what is the primary visual element of this item?",
+        "answer": "Design"
       },
       {
-        "question": "Describe the directionality of the painted strokes on the phone case.",
-        "answer": "Varied"
-      },
-      {
-        "question": "How would you describe the phone case's visual density?",
-        "answer": "High"
-      },
-      {
-        "question": "Considering the case's back, is the design completely symmetrical?",
-        "answer": "No"
-      },
-      {
-        "question": "Is there a noticeable pattern repetition on the phone case's design?",
-        "answer": "No"
-      },
-      {
-        "question": "What kind of visual effect is created by the overlapping brushstrokes?",
-        "answer": "Depth"
+        "question": "Considering the depicted design, is this phone case visually simple or complex?",
+        "answer": "Complex"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the exterior door, as shown in the image?",
+        "question": "What is the predominant color of the exterior door shown?",
         "answer": "White"
       },
       {
-        "question": "What appears to be the primary material used in the construction of the door?",
+        "question": "What material appears to constitute the main door panel?",
         "answer": "Wood"
       },
       {
-        "question": "Considering the visible design elements, what is the overall style of the door?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "Describe the shape of the upper glass panel section within the door's framework?",
+        "question": "Describe the overall shape of the main door section?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many individual panes of glass are visible within the upper section of the door?",
+        "question": "How many glass panes are visible in the upper door section?",
         "answer": "Six"
       },
       {
-        "question": "What kind of visible handle or hardware is present on the door?",
-        "answer": "Lever"
+        "question": "What is the apparent configuration of the glass panes?",
+        "answer": "Grid"
       },
       {
-        "question": "Based on the image, what seems to be the architectural style of the surrounding building?",
-        "answer": "Contemporary"
+        "question": "What is the style of the door's molding or trim around it?",
+        "answer": "Classical"
       },
       {
-        "question": "What is the visible finish or coating apparent on the door's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Characterize the visible texture of the door's main panel, focusing on grain pattern?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "Considering the framing around the door, what is the material of the trim?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the visible orientation of the door within its frame, open or closed?",
-        "answer": "Open"
-      },
-      {
-        "question": "Describe the type of door, taking into account its function and position",
-        "answer": "Exterior"
-      },
-      {
-        "question": "What is the visible color of the door's hardware, based solely on the image?",
+        "question": "What color are the door's visible hardware components?",
         "answer": "Gold"
       },
       {
-        "question": "What type of material constitutes the visible surrounding wall structure?",
+        "question": "What architectural style best describes the door's design?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What kind of surface texture does the door seem to possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the door's design, what is its most likely function?",
+        "answer": "Entry"
+      },
+      {
+        "question": "What type of door is presented in this image, based on its visual features?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What material appears to compose the visible door frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the vertical lines running down the central part of the door?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What material appears to constitute the wall surrounding the door?",
         "answer": "Stone"
       },
       {
-        "question": "Describe the visible pattern of the glass panes within the upper section of the door?",
-        "answer": "Gridded"
+        "question": "What is the overall condition of the door, based on its appearance?",
+        "answer": "New"
       }
     ]
   }
