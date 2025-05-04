@@ -9,7 +9,7 @@
         "answer": "Aqua"
       },
       {
-        "question": "What material appears to constitute the handbag's exterior?",
+        "question": "What material appears to constitute the primary handbag body?",
         "answer": "Leather"
       },
       {
@@ -21,48 +21,48 @@
         "answer": "Tan"
       },
       {
-        "question": "What type of closure is visible on the top of the main compartment?",
-        "answer": "Zipper"
-      },
-      {
-        "question": "What appears to be the material of the handbag's straps?",
+        "question": "What appears to be the material of the shoulder straps?",
         "answer": "Leather"
       },
       {
-        "question": "What is the apparent texture of the handbag's exterior?",
+        "question": "What kind of closure is visible on the top of the main compartment?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "What is the apparent texture of the handbag's leather?",
         "answer": "Smooth"
       },
       {
-        "question": "What metallic finish is observed on the strap attachments?",
+        "question": "What metallic color are the visible hardware accents?",
         "answer": "Gold"
       },
       {
-        "question": "How many main carrying straps does this tote bag possess?",
+        "question": "How many main shoulder straps does the bag possess?",
         "answer": "Two"
       },
       {
-        "question": "Is there a smaller zippered pocket visible on the front of the bag?",
+        "question": "Is there a smaller, secondary pocket visible on the front of the bag?",
         "answer": "Yes"
       },
       {
-        "question": "What is the general style of the handbag shown?",
+        "question": "What is the apparent style of the handbag?",
         "answer": "Tote"
       },
       {
-        "question": "Describe the orientation of the handbag in the provided image?",
-        "answer": "Side"
+        "question": "Describe the visible stitching on the bag's seams.",
+        "answer": "Subtle"
       },
       {
-        "question": "What seems to be the overall condition of the handbag?",
+        "question": "What is the position of the smaller front pocket relative to the main compartment?",
+        "answer": "Below"
+      },
+      {
+        "question": "Does the bag stand upright on its own?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent overall condition of the handbag in the image?",
         "answer": "New"
-      },
-      {
-        "question": "Does the bag have any noticeable external branding or logos?",
-        "answer": "No"
-      },
-      {
-        "question": "Judging by the image, is the bag structured or unstructured?",
-        "answer": "Structured"
       }
     ]
   }

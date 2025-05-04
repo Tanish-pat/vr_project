@@ -1,0 +1,65 @@
+[
+  {
+    "path": "images/small/0f/0f994f79.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant textual feature displayed prominently on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the background color of the rectangular label containing the product's textual description?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary font style used for displaying the text on the label, considering its distinct visual characteristics?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance, what is the primary type of information conveyed by the extensive text on the label?",
+        "answer": "List"
+      },
+      {
+        "question": "Observing the label, what is the general orientation of the product information provided, considering its visual layout?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Regarding the text layout, what visual element is used to separate the individual components of the product's information?",
+        "answer": "Commas"
+      },
+      {
+        "question": "What is the overall shape of the container holding the product's ingredient list based on visual inspection?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Considering the visual details, what is the texture of the label's surface as it appears to the viewer?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general size and scale of the textual elements in relation to the entire label, as visually observed?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the visual assessment, what is the apparent thickness of the label based on its appearance?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the general condition of the displayed label in terms of its physical state?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the primary language used for presenting the textual information on the label, as evident visually?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the visual prominence of the word 'Ingredients' compared to the rest of the text?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall visual style of the label design, from a simplistic perspective?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

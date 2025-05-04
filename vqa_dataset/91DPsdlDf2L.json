@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the dog kennel's metal frame?",
+        "question": "What is the predominant color of the dog kennel's metal framework?",
         "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the kennel's roof structure?",
+        "question": "What is the shape of the protective covering atop the dog kennel?",
         "answer": "Gabled"
       },
       {
-        "question": "What material appears to compose the majority of the kennel's exterior?",
+        "question": "What material constitutes the majority of the dog kennel's exterior?",
         "answer": "Metal"
       },
       {
-        "question": "What is the apparent texture of the kennel's roof covering?",
+        "question": "What appears to be the material of the kennel's roof covering?",
         "answer": "Fabric"
       },
       {
-        "question": "What is the color of the fabric covering the kennel's roof?",
-        "answer": "Black"
-      },
-      {
-        "question": "How many distinct access points, or doors, are visible on the kennel?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the apparent design of the metal framework of the kennel?",
-        "answer": "Wire"
-      },
-      {
-        "question": "Describe the geometric pattern formed by the kennel's wire mesh?",
-        "answer": "Grid"
-      },
-      {
-        "question": "What appears to be the method of connection between the various metal sections?",
-        "answer": "Welded"
-      },
-      {
-        "question": "Considering the roof's orientation, what is its primary function?",
-        "answer": "Shelter"
-      },
-      {
-        "question": "Judging by the size and design, what is the intended use of this structure?",
+        "question": "Considering the overall structure, what is the dog kennel's primary function?",
         "answer": "Enclosure"
       },
       {
-        "question": "What is the shape of the individual panels making up the kennel's sides?",
+        "question": "How many independently opening doors are visibly present on the kennel?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the pattern of the metal mesh forming the kennel's walls.",
+        "answer": "Grid"
+      },
+      {
+        "question": "What is the apparent texture of the kennel's fabric roof covering?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the entire dog kennel structure?",
         "answer": "Rectangular"
       },
       {
-        "question": "What type of latching or securing mechanism is visible on the kennel's doors?",
-        "answer": "Latch"
+        "question": "What seems to be the construction style of the dog kennel's frame?",
+        "answer": "Wire"
       },
       {
-        "question": "Based on the visual, does the kennel's structure appear sturdy and durable?",
-        "answer": "Yes"
+        "question": "Considering the image, what is the colour of the roof covering?",
+        "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the complete dog kennel structure?",
-        "answer": "Rectangular"
+        "question": "What is the apparent build of the dog kennel's overall construction?",
+        "answer": "Modular"
+      },
+      {
+        "question": "Describe the visible hinges of the kennel's doors.",
+        "answer": "Metal"
+      },
+      {
+        "question": "What appears to be the method of securing the roof to the frame?",
+        "answer": "Attachment"
+      },
+      {
+        "question": "Judging by its design, what is the intended use of the structure?",
+        "answer": "Canine"
       }
     ]
   }

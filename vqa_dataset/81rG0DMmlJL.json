@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color visibly present throughout the entire fabric sample?",
+        "question": "What is the predominant color of the fabric shown in the image?",
         "answer": "Gray"
       },
       {
-        "question": "Considering the visible weave, what is the apparent texture of the displayed fabric?",
+        "question": "Considering the visual texture, what is the apparent weave structure of this fabric?",
         "answer": "Woven"
       },
       {
-        "question": "Based on visual inspection, what kind of material appears to constitute this sample?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Judging from the image, what is the overall visual appearance of the material's surface?",
+        "question": "Based on the image, what is the overall visual texture of the fabric sample?",
         "answer": "Textured"
       },
       {
-        "question": "Describe the visible arrangement of threads or fibers forming the fabric's structure.",
-        "answer": "Intertwined"
+        "question": "Judging from the image, what kind of material does the fabric appear to be made of?",
+        "answer": "Polyester"
       },
       {
-        "question": "From the image, how would you characterize the density of the fabric's weave?",
-        "answer": "Tight"
+        "question": "Does the image show any noticeable pattern or design on the fabric?",
+        "answer": "None"
       },
       {
-        "question": "Does the fabric's surface show any noticeable sheen or glossiness?",
+        "question": "From the image, does the fabric seem to have a smooth or rough surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the overall visual appearance of the fabric's surface, in terms of luster?",
         "answer": "Matte"
       },
       {
-        "question": "What is the most apparent color variation observed across the fabric sample?",
-        "answer": "None"
+        "question": "Judging by the image, how would you describe the density of the fabric's weave?",
+        "answer": "Dense"
       },
       {
-        "question": "Considering the evenness of color and texture, how would you describe the visual uniformity?",
-        "answer": "Consistent"
-      },
-      {
-        "question": "Based solely on the image, can you identify any discernible patterns in the fabric?",
-        "answer": "None"
-      },
-      {
-        "question": "From the visual analysis, is there any visible fraying or damage to the fabric's edges?",
+        "question": "Does the fabric shown exhibit any visible sheen or glossiness?",
         "answer": "No"
       },
       {
-        "question": "Judging by the image, is the fabric's structure visibly loose or compact?",
-        "answer": "Compact"
+        "question": "Based on visual inspection, what is the thickness of the fabric?",
+        "answer": "Medium"
       },
       {
-        "question": "Does the image suggest any visible embellishments, prints, or designs on the fabric?",
+        "question": "Does the image show any irregularities or imperfections in the fabric's structure?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent visual weight or thickness of the displayed fabric sample?",
-        "answer": "Medium"
+        "question": "Judging by the image, how uniform is the color of the fabric?",
+        "answer": "Uniform"
       },
       {
-        "question": "Considering the image, what is the implied softness or stiffness of the material?",
-        "answer": "Medium"
+        "question": "Based on the visual evidence, is the fabric visibly stretchy or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the dominant shade within the gray color family shown?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the image reveal any visible pilling or fuzziness in the fabric?",
+        "answer": "No"
       }
     ]
   }

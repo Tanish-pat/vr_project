@@ -9,60 +9,60 @@
         "answer": "Navy"
       },
       {
-        "question": "What geometric pattern is prominently featured on the pillowcases and sheet?",
-        "answer": "Network"
+        "question": "What geometric pattern is prominently displayed across the entire bedding set?",
+        "answer": "Geometric"
       },
       {
-        "question": "What appears to be the primary material used for this bedding?",
+        "question": "What appears to be the primary material of the pillowcases and sheet set?",
         "answer": "Cotton"
       },
       {
-        "question": "Describe the overall texture of the bedding, based on visual appearance.",
-        "answer": "Smooth"
+        "question": "Considering the overall visual texture, how would you describe the bedding's feel?",
+        "answer": "Soft"
       },
       {
-        "question": "What is the apparent level of sheen or glossiness of the fabric?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Considering the visible portion, what is the shape of each pillowcase?",
+        "question": "What is the shape of the individual pillowcases presented on the bed?",
         "answer": "Rectangular"
       },
       {
-        "question": "What color are the subtle highlights within the geometric pattern?",
+        "question": "Based on visual observation, what is the apparent sheen or luster of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what seems to be the thickness or weight of the bedding?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What color are the finer details or lines within the geometric pattern?",
         "answer": "White"
       },
       {
-        "question": "Based on the image, how many pillowcases are visibly present on the bed?",
-        "answer": "Two"
-      },
-      {
-        "question": "Judging by the image, what is the overall style of the bedding set?",
+        "question": "Observing the image, what is the general style of the bedding set's design?",
         "answer": "Modern"
       },
       {
-        "question": "What is the approximate size of the geometric shapes in the print?",
-        "answer": "Small"
+        "question": "What is the apparent size of the bedding set shown in relation to the bed?",
+        "answer": "Queen"
       },
       {
-        "question": "What is the apparent density or spacing of the geometric pattern?",
-        "answer": "Dense"
+        "question": "What is the visible construction method of the sheets and pillowcases?",
+        "answer": "Woven"
       },
       {
-        "question": "Does the bedding show any visible creases or wrinkles in the image?",
-        "answer": "Minimal"
+        "question": "Considering the image, what is the overall visual impression of the bedding's pattern?",
+        "answer": "Subtle"
       },
       {
-        "question": "Based solely on the image, what seems to be the thread count of the fabric?",
+        "question": "Based on the image, what is the level of detail present within the geometric design?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the implied level of comfort suggested by the bedding's visual appearance?",
         "answer": "High"
       },
       {
-        "question": "Describe the visible edge finish of the pillowcases and sheet.",
-        "answer": "Clean"
-      },
-      {
-        "question": "What is the color of the visible bed frame in the background?",
-        "answer": "DarkBrown"
+        "question": "What color is the wood of the bed frame visible in the background?",
+        "answer": "Brown"
       }
     ]
   }

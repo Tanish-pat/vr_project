@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the presented item, considering its planar geometry and lack of three-dimensionality?",
-        "answer": "Rectangular"
+        "question": "Considering the overall form, what is the primary geometric shape of this object?",
+        "answer": "Rectangle"
       },
       {
-        "question": "Considering the visual texture, what is the apparent surface finish of the shown object?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Based on its appearance, what primary color describes the item's hue and saturation?",
+        "question": "What color best describes the predominant shade displayed across the item's surface?",
         "answer": "Beige"
       },
       {
-        "question": "Judging from the image, what material is most likely used for this object, considering its uniform appearance?",
+        "question": "Based on visual inspection, what appears to be the primary material composition of the item?",
         "answer": "Paper"
       },
       {
-        "question": "What is the most prominent visual characteristic of this item's edge, given the visible border?",
-        "answer": "Straight"
+        "question": "Observing the item's edges, what is the general texture of its surface, smooth or rough?",
+        "answer": "Smooth"
       },
       {
-        "question": "How many visible holes are present on the item, which are evenly spaced and symmetrical?",
-        "answer": "Two"
-      },
-      {
-        "question": "What design feature is noticeably absent in the presented product, lacking patterns or visual embellishments?",
-        "answer": "Pattern"
-      },
-      {
-        "question": "What is the visual impression of the item's thickness, based on its photographic representation?",
-        "answer": "Thin"
-      },
-      {
-        "question": "What is the visual impression of the surface of the product concerning the visible light reflection?",
+        "question": "What is the apparent surface finish of the item, such as glossy, matte, or textured?",
         "answer": "Matte"
       },
       {
-        "question": "What can be visually observed regarding the item's overall opacity, as shown in the image?",
-        "answer": "Opaque"
+        "question": "Examining the corners, what kind of edge profile does this item exhibit?",
+        "answer": "Rounded"
       },
       {
-        "question": "Considering the presentation, what is the apparent function of the visible holes in the product?",
-        "answer": "Binding"
+        "question": "Are there any visible markings or patterns imprinted on the item's surface?",
+        "answer": "None"
       },
       {
-        "question": "Describe the visual uniformity of the color across the entire surface area of the object shown.",
-        "answer": "Uniform"
+        "question": "How many visible holes are present along the item's edges?",
+        "answer": "Four"
       },
       {
-        "question": "What is the visible quality of the presented item's surface regarding its evenness and smoothness?",
+        "question": "What is the apparent thickness of this item in relation to its overall size?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Describe the positioning and size of holes relative to its corners and edges?",
         "answer": "Even"
       },
       {
-        "question": "Based on visual observation, what is the most noticeable aspect of the item\u2019s surface design?",
-        "answer": "Plain"
+        "question": "Considering the holes, what might their functionality or purpose be?",
+        "answer": "Binding"
       },
       {
-        "question": "Considering the image, what is the visible state of the item's corners, edges, and overall form?",
-        "answer": "Intact"
+        "question": "What is the level of reflectivity observed from the item's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based purely on its visuals, what might be the intended use or purpose of this object?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the degree of uniformity in color and texture across the item's surface?",
+        "answer": "High"
+      },
+      {
+        "question": "Disregarding context, how would you describe the overall aesthetic of the item?",
+        "answer": "Plain"
       }
     ]
   }

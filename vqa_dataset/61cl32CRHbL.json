@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d3a9de79.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what single word best describes the dominant color of the gemstone in these earrings?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary shape of the central gemstone component in each earring?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging solely from the visual details, what seems to be the principal metal used in the earring's setting?",
+        "answer": "Silver"
+      },
+      {
+        "question": "From a purely visual standpoint, what is the most apparent style of the earring's design, in a single word?",
+        "answer": "Stud"
+      },
+      {
+        "question": "Focusing on the visual texture, how would you describe the surface of the central gemstone in a single word?",
+        "answer": "Faceted"
+      },
+      {
+        "question": "What single word accurately captures the visual impression of the gemstone's brilliance?",
+        "answer": "Brilliant"
+      },
+      {
+        "question": "Considering only what's visible, what single word describes the overall visual clarity of the gemstone?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging solely from its visual appearance, what is the apparent type of metal used in the earring's post?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What single word best encapsulates the visual impression of the gemstone's saturation?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "From a purely visual assessment, what single word describes the visible setting style of the gemstone?",
+        "answer": "Prong"
+      },
+      {
+        "question": "Based on visual appearance alone, what word describes the earrings' apparent finish?",
+        "answer": "Polished"
+      },
+      {
+        "question": "What single word best represents the visual appearance of the gemstone's cut?",
+        "answer": "Brilliant"
+      },
+      {
+        "question": "Visually inspecting the item, what single word describes the gemstone's apparent hue?",
+        "answer": "Sky"
+      },
+      {
+        "question": "If describing the earrings' visual appeal, what single word best captures their style?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Based on visual characteristics only, what single word describes the general type of jewelry?",
+        "answer": "Earrings"
+      }
+    ]
+  }
+]

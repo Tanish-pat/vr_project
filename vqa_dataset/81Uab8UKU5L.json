@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the fabric shown in the image?",
+        "question": "What is the predominant color of the fabric shown in the image?",
         "answer": "Gray"
       },
       {
-        "question": "What type of stitch is visible along the seam of the fabric?",
-        "answer": "Straight"
-      },
-      {
-        "question": "Considering the visual texture, what is the likely material of the lighter-colored section?",
-        "answer": "Nylon"
-      },
-      {
-        "question": "Judging by the image, what is the overall appearance of the fabric's texture?",
+        "question": "Considering the image, what appears to be the primary texture of the material?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the visible seam, how would you describe the construction of the fabric?",
-        "answer": "Seamed"
+        "question": "Based on the visual details, what type of seam is visible along the edge?",
+        "answer": "Stitched"
       },
       {
-        "question": "What is the apparent finish of the edge visible in the photograph?",
-        "answer": "Hemmed"
-      },
-      {
-        "question": "What is the general shape of the displayed area of fabric?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Considering the image, what is the apparent weight or drape of the darker fabric?",
-        "answer": "Lightweight"
-      },
-      {
-        "question": "How would you describe the visual uniformity of the fabric's color?",
-        "answer": "Consistent"
-      },
-      {
-        "question": "What is the visual impression regarding the fabric's transparency?",
-        "answer": "Opaque"
-      },
-      {
-        "question": "Judging by the image, what kind of sheen does the fabric seem to possess?",
+        "question": "Judging from the image, what seems to be the overall finish of the fabric?",
         "answer": "Matte"
       },
       {
-        "question": "What is the apparent density or compactness of the fabric's weave?",
-        "answer": "Close"
+        "question": "What is the apparent weave or structure of the fabric shown in the image?",
+        "answer": "Woven"
       },
       {
-        "question": "Based on visual assessment, what is the nature of the fabric's surface?",
+        "question": "From the provided image, what can you tell about the fabric's apparent weight or drape?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Observing the image carefully, what appears to be the general condition of the fabric?",
+        "answer": "Untreated"
+      },
+      {
+        "question": "What is the visible characteristic of the fabric's surface, considering the lighting and texture?",
+        "answer": "Even"
+      },
+      {
+        "question": "Considering the image, what appears to be the overall opacity of the fabric?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the image, what seems to be the apparent sheen or glossiness of the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visible characteristic of the seam, in terms of its neatness or irregularity?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What is the apparent overall appearance of the fabric, in terms of pattern or design?",
         "answer": "Plain"
       },
       {
-        "question": "Given the image, what is the apparent thickness of the fabric shown?",
-        "answer": "Thin"
+        "question": "Observing the fold, what can you state about the fabric's tendency to wrinkle or crease?",
+        "answer": "Minimal"
       },
       {
-        "question": "What is the most noticeable feature of the fabric's visible edge?",
-        "answer": "Seam"
+        "question": "What is the apparent visual uniformity of the fabric's color across the visible area?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on its appearance, what seems to be the implied use or purpose of this fabric?",
+        "answer": "Apparel"
       }
     ]
   }

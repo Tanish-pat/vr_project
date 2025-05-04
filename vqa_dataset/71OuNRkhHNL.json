@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/41/41b5197a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color depicted on the phone case's primary image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What text is prominently displayed on the phone case's design?",
+        "answer": "Summer"
+      },
+      {
+        "question": "What type of beverage is visually represented on the phone case?",
+        "answer": "Lemonade"
+      },
+      {
+        "question": "What is the apparent material of the object shown in the primary image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the primary object showcased in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall style or theme conveyed by the phone case's design?",
+        "answer": "Summery"
+      },
+      {
+        "question": "What color are the straws depicted in the drink on the phone case?",
+        "answer": "Green"
+      },
+      {
+        "question": "Besides the drink, what other element is visible in the drink's glass?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What appears to be the state of the drink depicted on the phone case?",
+        "answer": "Iced"
+      },
+      {
+        "question": "What seems to be the position of the straws in relation to the drink?",
+        "answer": "Inserted"
+      },
+      {
+        "question": "What is the color of the phone case's border visible around the printed area?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on the image, what material could the straws be made of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "How would you describe the texture of the drink's appearance on the case?",
+        "answer": "Bubbly"
+      },
+      {
+        "question": "What is the general condition of the phone case displayed?",
+        "answer": "New"
+      }
+    ]
+  }
+]

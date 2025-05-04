@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape or configuration of this sectional sofa?",
+        "question": "What is the overall shape of this sectional sofa?",
         "answer": "L-shaped"
       },
       {
-        "question": "What dominant color describes the upholstery fabric of the sofa?",
+        "question": "What dominant color is the upholstery of the sectional?",
         "answer": "Gray"
       },
       {
-        "question": "What is the apparent texture of the sofa's upholstery fabric?",
-        "answer": "Textured"
-      },
-      {
-        "question": "Describe the visible material of the sofa's legs or feet.",
-        "answer": "Metal"
-      },
-      {
-        "question": "What color are the legs or feet of the sectional sofa?",
-        "answer": "Black"
-      },
-      {
-        "question": "Considering the number of seating pieces, what type of sofa is this?",
-        "answer": "Sectional"
-      },
-      {
-        "question": "How many individual seating components comprise this sectional?",
-        "answer": "Four"
-      },
-      {
-        "question": "What is the general style of the sofa's armrests?",
-        "answer": "Straight"
-      },
-      {
-        "question": "What seems to be the primary material of the sofa's cushions?",
+        "question": "What appears to be the primary material of the sofa's cushions?",
         "answer": "Fabric"
       },
       {
-        "question": "Based on the image, does the sofa appear to have a high or low profile?",
-        "answer": "Low"
-      },
-      {
-        "question": "Describe the pattern on the sofa's upholstery material.",
+        "question": "Describe the texture visible on the sectional's upholstery?",
         "answer": "Textured"
       },
       {
-        "question": "What is the apparent finish of the sofa's metal legs?",
-        "answer": "Matte"
+        "question": "What color are the legs supporting the sectional sofa?",
+        "answer": "Black"
       },
       {
-        "question": "Considering the cushions, what is the back support style?",
+        "question": "What seems to be the material of the sofa's legs?",
+        "answer": "Metal"
+      },
+      {
+        "question": "How many distinct seating sections comprise this sectional?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the style of the armrests on this sectional sofa?",
         "answer": "Straight"
       },
       {
-        "question": "What is the style of the sofa's overall design?",
+        "question": "Considering the cushions, what is the general seating depth?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Does the sectional have a noticeable chaise lounge section?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent style of the sectional's design?",
         "answer": "Modern"
       },
       {
-        "question": "Does the sofa have any visible decorative elements or stitching?",
+        "question": "Describe the visible stitching details on the cushions?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What seems to be the overall height of the sectional sofa's backrests?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What kind of visible seams are present on the cushions?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the sectional sofa have a visible frame underneath?",
         "answer": "No"
       }
     ]
