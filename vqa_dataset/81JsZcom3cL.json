@@ -6,63 +6,63 @@
     "questions": [
       {
         "question": "What is the dominant color scheme of the phone case's design?",
-        "answer": "Multicolor"
+        "answer": "Multicolored"
       },
       {
-        "question": "What artistic style is predominantly featured on the phone case?",
+        "question": "What artistic style is predominantly depicted on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "What appears to be the primary material used for the phone case?",
+        "question": "What appears to be the primary material used for this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall shape of the phone case?",
+        "question": "What is the overall shape of this protective phone covering?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on visual inspection, what is the texture of the printed design?",
+        "question": "Describe the texture implied by the paint strokes on the case?",
         "answer": "Rough"
       },
       {
-        "question": "Describe the application technique of the paint strokes on the case.",
-        "answer": "Impasto"
+        "question": "Considering the image, what is the design's overall feel?",
+        "answer": "Painterly"
       },
       {
-        "question": "What kind of finish does the phone case's surface seem to have?",
+        "question": "What kind of image is printed on the phone case's surface?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Based on the image, what colors are most prominent in the design?",
+        "answer": "Red,Yellow,Blue"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
         "answer": "Matte"
       },
       {
-        "question": "Is the design on the phone case symmetrical or asymmetrical?",
-        "answer": "Asymmetrical"
-      },
-      {
-        "question": "What colors are most prominently featured in the lower section of the design?",
-        "answer": "Blue"
-      },
-      {
-        "question": "What colors dominate the central vertical band of the phone case design?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "What is the approximate number of distinct color blocks in the design?",
-        "answer": "Four"
-      },
-      {
-        "question": "Does the design on the phone case feature distinct brush strokes?",
+        "question": "Does the case show any noticeable camera cutouts?",
         "answer": "Yes"
       },
       {
-        "question": "What is the apparent level of detail in the design's paint strokes?",
-        "answer": "High"
+        "question": "What is the design's primary visual element?",
+        "answer": "Brushstrokes"
       },
       {
-        "question": "What is the relative thickness of the phone case, as visible in the image?",
-        "answer": "Thin"
+        "question": "Does the case appear to be hard or soft?",
+        "answer": "Hard"
       },
       {
-        "question": "What is the style of the case's protective edge design?",
-        "answer": "None"
+        "question": "How many sides of the phone case are shown in the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the form factor of the phone case shown?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Is the image on the phone case symmetrical?",
+        "answer": "No"
       }
     ]
   }

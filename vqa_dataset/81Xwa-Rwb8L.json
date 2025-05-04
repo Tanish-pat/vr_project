@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/382e1606.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the upper portion of this athletic shoe, as observed in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture apparent in the image, what is the material of the shoe's main body?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Based on the image, what type of closure mechanism does this shoe employ for adjusting its fit?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Describe the overall shape of the sole unit, as clearly visible in the provided image of the shoe.",
+        "answer": "Curved"
+      },
+      {
+        "question": "Observing the image, what color is the interior insole of this particular athletic shoe model?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent design pattern on the upper part of the shoe, as shown in the image?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on visual inspection of the image, describe the style of the shoe's toe area.",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the image, what appears to be the material composition of the shoe's midsole?",
+        "answer": "Foam"
+      },
+      {
+        "question": "What color is the sole of this shoe, as visibly depicted in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "As evident from the product image, what is the apparent design of the shoe's laces, if any?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the visible texture of the shoe's upper material, as apparent in the provided image.",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based solely on the image, what is the overall style of this athletic shoe?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Does the image show any noticeable branding or logos on the shoe's insole?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual observation of the image, what is the primary color of the shoe's heel counter?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Judging from the provided image, what type of stitching is prominently visible on the shoe's upper?",
+        "answer": "None"
+      }
+    ]
+  }
+]

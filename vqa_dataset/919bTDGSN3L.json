@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible upper textile?",
+        "question": "What is the predominant color of the visible knitted upper?",
         "answer": "Red"
       },
       {
-        "question": "What is the color of the visible sole unit?",
+        "question": "What is the color of the visible sole unit of the shoe?",
         "answer": "Black"
       },
       {
-        "question": "Describe the visible pattern of the knitted upper?",
-        "answer": "Striped"
-      },
-      {
-        "question": "What is the apparent material of the shoe's upper?",
-        "answer": "Knit"
-      },
-      {
-        "question": "What is the overall shape of the visible shoe?",
-        "answer": "Sneaker"
-      },
-      {
-        "question": "What style of closure is prominently shown?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "What color are the visible laces on the shoe?",
-        "answer": "Black"
-      },
-      {
-        "question": "Describe the texture of the visible upper material?",
+        "question": "What is the apparent texture of the shoe's upper material?",
         "answer": "Knitted"
       },
       {
-        "question": "What is the apparent material of the shoe's sole?",
-        "answer": "Rubber"
+        "question": "What is the overall shape of the shoe's design?",
+        "answer": "Sneaker"
       },
       {
-        "question": "What is the visible design detail on the heel counter?",
-        "answer": "Panel"
+        "question": "What type of lacing system is displayed on the shoes?",
+        "answer": "Lace-up"
       },
       {
-        "question": "Is the heel counter a different color than the upper?",
-        "answer": "Yes"
+        "question": "Describe the pattern present on the shoe's upper material?",
+        "answer": "Striped"
       },
       {
-        "question": "What is the apparent overall design aesthetic of the shoe?",
-        "answer": "Sporty"
+        "question": "What appears to be the primary material used for the upper?",
+        "answer": "Fabric"
       },
       {
-        "question": "How many visible pairs of eyelets are present on each shoe?",
-        "answer": "Five"
+        "question": "What color are the laces of the displayed footwear?",
+        "answer": "Black"
       },
       {
-        "question": "What is the visible height of the shoe's sole?",
-        "answer": "Moderate"
+        "question": "Describe the design of the sole, considering its shape and components?",
+        "answer": "Chunky"
       },
       {
-        "question": "What is the apparent silhouette of the shoe's toe area?",
+        "question": "What is the approximate height of the shoe's sole?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the secondary color prominently featured on the upper?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall style, what is the category of the footwear?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the apparent construction method for the upper part of the shoe?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the visual appearance of the shoe's heel counter?",
+        "answer": "Integrated"
+      },
+      {
+        "question": "What is the visible style of the toe-box on this footwear?",
         "answer": "Rounded"
       }
     ]

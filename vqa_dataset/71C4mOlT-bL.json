@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/284ba71f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the depicted phone case design?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary motif featured prominently on the phone case's back?",
+        "answer": "Butterflies"
+      },
+      {
+        "question": "Describe the apparent color of the butterflies illustrated on the phone case?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What secondary color accents the pink butterflies on the phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What design element surrounds the butterflies, adding a glowing effect?",
+        "answer": "Lights"
+      },
+      {
+        "question": "What appears to be the material or finish of the phone case's outer border?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of this phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the butterflies in the phone case's design?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what style best describes the phone case's aesthetic?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Based on the image, what level of transparency does the phone case seem to have?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent condition of the phone case shown in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "From the image, how many distinct butterflies are visually apparent on the case?",
+        "answer": "Three"
+      },
+      {
+        "question": "What appears to be the type of surface the phone case is laid on for the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What seems to be the background color of the phone case illustration?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the apparent finish or sheen on the case's surface, based on the image?",
+        "answer": "Glossy"
+      }
+    ]
+  }
+]

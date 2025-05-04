@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the dominant shape of this footwear item, as visually apparent in the image?",
+        "question": "Considering the overall form, what is the primary shape of this footwear item, as depicted in the provided image?",
         "answer": "Boat"
       },
       {
-        "question": "What is the primary color of the visible outsole, as determined by direct visual observation of the image?",
+        "question": "Based on the image's visual details, what appears to be the dominant color of the shoe's upper?",
         "answer": "Navy"
       },
       {
-        "question": "Based on the image, what appears to be the material of the main body of the shoe, focusing solely on visual cues?",
-        "answer": "Suede"
+        "question": "From a visual inspection, what material seems to constitute the majority of the shoe's sole?",
+        "answer": "Rubber"
       },
       {
-        "question": "What is the color of the secondary accent stripe visible on the heel area of the product, judging strictly from the image?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "Observing the image carefully, what is the texture of the shoe's sole, considering only the visual elements?",
+        "question": "Analyzing the texture shown in the image, how would you describe the surface of the shoe's sole?",
         "answer": "Textured"
       },
       {
-        "question": "What is the pattern observed on the outsole of the footwear, solely based on visual interpretation of the provided image?",
-        "answer": "Grid"
+        "question": "Focusing solely on visual observation, what secondary color is subtly present on the shoe's heel counter?",
+        "answer": "Yellow"
       },
       {
-        "question": "According to visual inspection of the image, what appears to be the construction method of the shoe's sole?",
-        "answer": "Molded"
+        "question": "What design element, discernible from the image, is noticeable on the side of the shoe's sole?",
+        "answer": "Grooves"
       },
       {
-        "question": "In the given image, what is the visible design feature on the back part of the shoe, based purely on what is visually evident?",
-        "answer": "Stripe"
+        "question": "According to the visual representation, what is the apparent construction of the shoe's upper, judging from the picture provided?",
+        "answer": "Suede"
       },
       {
-        "question": "Judging from the image only, what is the apparent finish of the visible upper material of the product?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Based on the image, what seems to be the thickness of the sole, considering solely the visual representation?",
-        "answer": "Thick"
-      },
-      {
-        "question": "What is the overall aesthetic impression conveyed by the color combination of the shoe, solely from visual observation?",
-        "answer": "Classic"
-      },
-      {
-        "question": "From the image, what appears to be the flexibility of the shoe's sole, focusing only on visible features?",
-        "answer": "Flexible"
-      },
-      {
-        "question": "What is the apparent style of the footwear, considering visual elements in the provided image only?",
-        "answer": "Casual"
-      },
-      {
-        "question": "Based purely on the image, what seems to be the condition of the product shown, visually speaking?",
+        "question": "Observing the image, can you describe the apparent condition of the shoe presented in the provided photograph?",
         "answer": "New"
       },
       {
-        "question": "What is the apparent manufacturing technique suggested by the clean lines and form of the shoe, judging only from the image?",
-        "answer": "Machine"
+        "question": "Given the visual evidence, what style of footwear is shown in this image, judging only by its appearance?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "From your visual assessment, what is the most visible feature on the underside of the shoe?",
+        "answer": "Pattern"
+      },
+      {
+        "question": "Based purely on visual observation of the image, what seems to be the overall style of this shoe?",
+        "answer": "Casual"
+      },
+      {
+        "question": "By analyzing only the picture, what aspect of the sole's design seems geared toward traction or grip?",
+        "answer": "Treads"
+      },
+      {
+        "question": "From observing the image, is there a noticeable stitching visible on the upper portion of the shoe?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image only, what is the implied intended use for this particular type of footwear?",
+        "answer": "Walking"
+      },
+      {
+        "question": "Based on visual characteristics in the given image, what is the likely weight of this shoe?",
+        "answer": "Light"
       }
     ]
   }

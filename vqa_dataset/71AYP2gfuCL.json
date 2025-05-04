@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall background color of the nutritional information panel?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the primary font color used for the text on the label?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the predominant shape of the nutritional information section?",
+        "question": "What is the overall shape of the primary information panel presented on the food packaging?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the text style used for the header 'ALLERGY ADVICE'?",
-        "answer": "Bold"
+        "question": "Considering the textual elements, what is the predominant color scheme used to highlight critical information such as allergy warnings and nutritional details?",
+        "answer": "Black"
       },
       {
-        "question": "Considering the text and layout, what is the overall design style of the label?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What is the texture of the label's surface, based on the visual appearance?",
+        "question": "What is the apparent texture of the background upon which the allergy and nutritional information is printed?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the material that the label appears to be printed on?",
-        "answer": "Paper"
+        "question": "Observing the print quality, what could be inferred about the paper stock or material used for the food label?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the type of information presented on the right side of the label?",
-        "answer": "Nutritional"
-      },
-      {
-        "question": "What is the term used to highlight potential allergens in the label?",
-        "answer": "Bold"
-      },
-      {
-        "question": "Describing the style of the text within the nutritional information table, what is it?",
+        "question": "What is the overall layout structure of the nutritional information presented on the product's packaging?",
         "answer": "tabular"
       },
       {
-        "question": "What is the dietary suitability indicated for this product?",
-        "answer": "Vegetarian"
-      },
-      {
-        "question": "What unit is used for the energy content, indicated in the table?",
-        "answer": "kcal"
-      },
-      {
-        "question": "What is the unit of measurement used for the protein content?",
-        "answer": "g"
-      },
-      {
-        "question": "What other potential allergens are mentioned, besides those in bold?",
-        "answer": "Nuts"
-      },
-      {
-        "question": "What is the color of the text that mentions potential allergens?",
+        "question": "What is the color of the print used for most of the text blocks, specifically focusing on the product specifications?",
         "answer": "Black"
+      },
+      {
+        "question": "What typeface or style does the nutritional information primarily utilize?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on its appearance, what is the material of the label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What appears to be the printing method used for this food product's label, in terms of its visual quality?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Considering the text size variation, which information section is emphasized more: Allergy Advice or Nutritional Information?",
+        "answer": "Allergy"
+      },
+      {
+        "question": "What is the dominant color of the background of the allergy advice section?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary method of presenting allergen information?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the format used to present the nutritional values?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the text organization, which section is positioned above the other?",
+        "answer": "Allergy"
+      },
+      {
+        "question": "What units are predominantly utilized in the representation of nutritional values?",
+        "answer": "Grams"
       }
     ]
   }

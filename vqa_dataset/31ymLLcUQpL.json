@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/44/44990e30.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the container holding the laundry detergent?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall shape of the product's primary packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the container's main body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the container's texture, is it glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What brand name is prominently displayed on the detergent container's front?",
+        "answer": "Presto"
+      },
+      {
+        "question": "Describe the design of the topmost surface of the product's container.",
+        "answer": "Recessed"
+      },
+      {
+        "question": "What color is prominently featured in the logo design on the front?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What type of product is contained within this container?",
+        "answer": "Detergent"
+      },
+      {
+        "question": "Is there any indication of a handle or similar feature on the container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall primary color palette of the labels?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Does the container's label appear to have any text besides the brand name?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, is this a single-use or refillable container?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the most prominent way the product is designed to convey its function?",
+        "answer": "Text"
+      },
+      {
+        "question": "What style of text is used on the packaging (e.g., serif, sans-serif)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual cues, does the product seem to have a scent?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

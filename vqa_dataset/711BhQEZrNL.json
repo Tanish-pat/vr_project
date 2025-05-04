@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/db905c78.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color depicted on the phone case's primary image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What type of beverage is prominently featured in the phone case's design?",
+        "answer": "Lemonade"
+      },
+      {
+        "question": "What fruit slices are visible within the illustrated beverage on the phone case?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "What fresh herb is shown alongside the fruit in the phone case's design?",
+        "answer": "Mint"
+      },
+      {
+        "question": "What transparent container encloses the beverage depicted on the phone case?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the shape of the container holding the beverage in the phone case design?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent material of the container holding the beverage, visually?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What appears to be used for stirring or drinking the beverage in the image?",
+        "answer": "Straw"
+      },
+      {
+        "question": "What is the general texture or appearance of the beverage within the container?",
+        "answer": "Fizzy"
+      },
+      {
+        "question": "What is the color of the visible ice cubes within the drink on the phone case?",
+        "answer": "White"
+      },
+      {
+        "question": "What seems to be the material of the phone case itself, visually?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the color of the phone case's visible edging or border.",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall style or aesthetic of the phone case's design?",
+        "answer": "Refreshing"
+      },
+      {
+        "question": "What is the apparent state of the beverage shown (solid, liquid, gas)?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the general level of detail in the phone case's design?",
+        "answer": "High"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/1482894d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the detailed nutritional information presented, what is the primary function of this product label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Observing the prominent display of numbers and percentages, what is the dominant visual feature of this label?",
+        "answer": "Quantitative"
+      },
+      {
+        "question": "Based on the textual content and its organization, what is the subject matter comprehensively detailed?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Given the use of black text on a light beige background, what is the overall color scheme of this product label?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Analyzing the text size and font style, what is the general design aesthetic employed?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the arrangement of the sections and subsections, what is the organization style primarily used?",
+        "answer": "Categorical"
+      },
+      {
+        "question": "Given the numerous nutrient values listed, what kind of food product does this label relate to?",
+        "answer": "Processed"
+      },
+      {
+        "question": "Based on the detailed breakdown of fats, sugars, and other components, what type of information is this label designed to convey?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Taking note of the serving size and amount per serving, what is the level of detail presented on this label?",
+        "answer": "Precise"
+      },
+      {
+        "question": "Judging by the overall size and density of the text, what is the perceived readability of this label?",
+        "answer": "High"
+      },
+      {
+        "question": "Looking at the specific measurements provided (e.g., grams, milligrams), what is the unit of measure primarily used?",
+        "answer": "Metric"
+      },
+      {
+        "question": "Given the presence of percentages alongside the nutrient values, what is the comparative approach used?",
+        "answer": "Relative"
+      },
+      {
+        "question": "Considering the text's typeface and style, what is the overall tone conveyed by the design?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Noting the lack of vibrant colors or graphics, what is the visual style best described as?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the prominent display of 'Calories' and the 'Daily Value' percentages, what is the focus of the information provided?",
+        "answer": "Dietary"
+      }
+    ]
+  }
+]

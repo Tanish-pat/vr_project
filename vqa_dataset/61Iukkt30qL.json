@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the presented pharmaceutical item?",
+        "question": "What is the predominant visual characteristic of the object's form, considering its three-dimensional properties and overall geometry?",
         "answer": "Round"
       },
       {
-        "question": "What dominant color characterizes the visible surface of the pill?",
-        "answer": "Beige"
-      },
-      {
-        "question": "Based on its appearance, what is the most probable texture of this item?",
+        "question": "Considering the object's surface, what is the most apparent textural quality perceptible to the eye?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the image, what is the apparent size of the object in centimeters?",
-        "answer": "One"
+        "question": "Based on visual observation, what single word best describes the object's apparent color?",
+        "answer": "Beige"
       },
       {
-        "question": "Judging from the image, what could be inferred regarding its physical state?",
-        "answer": "Solid"
+        "question": "Ignoring the background, what single word best describes the object's overall hue?",
+        "answer": "Pale"
       },
       {
-        "question": "What is the most likely material composition considering the visual cues?",
-        "answer": "Tablet"
+        "question": "Disregarding the background and focusing solely on the item, what is its apparent color family?",
+        "answer": "Neutral"
       },
       {
-        "question": "Considering its appearance, what is the form factor of this object?",
-        "answer": "Pill"
-      },
-      {
-        "question": "In the image, what appears to be the surface finish of the object?",
+        "question": "What is the most apparent visual characteristic of the object's surface finish?",
         "answer": "Matte"
       },
       {
-        "question": "Does the object in the image exhibit any discernible markings or patterns?",
-        "answer": "No"
+        "question": "Judging solely from its appearance, what is the most likely material composition of the object?",
+        "answer": "Tablet"
       },
       {
-        "question": "What is the approximate diameter of this item when visually compared to the ruler?",
-        "answer": "One"
-      },
-      {
-        "question": "According to the provided image, what is the general homogeneity of the item's color?",
+        "question": "Considering its visible properties, what is the single-word description of its visual consistency?",
         "answer": "Uniform"
       },
       {
-        "question": "What kind of visual metric is used for size comparison in this image?",
-        "answer": "Ruler"
+        "question": "What is the most obvious visual feature regarding the object's physical dimensions?",
+        "answer": "Small"
       },
       {
-        "question": "What is the background color used in this particular product photograph?",
-        "answer": "Purple"
+        "question": "What is the most apparent visual characteristic of the object's physical structure?",
+        "answer": "Solid"
       },
       {
-        "question": "Does the object exhibit any signs of damage or visible defects?",
-        "answer": "No"
+        "question": "Considering its visual attributes, what single word can describe the item's apparent surface quality?",
+        "answer": "Unmarked"
       },
       {
-        "question": "Considering only the visual evidence, what is the primary function suggested by its appearance?",
-        "answer": "Medicine"
+        "question": "Based purely on the visual details, how would you describe the object's apparent weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "If describing the item based only on visual assessment, what single word best captures its form?",
+        "answer": "Circular"
+      },
+      {
+        "question": "In terms of the visual texture of the item, what best describes its surface's tactile quality?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the visual appearance only, what single word best describes its overall visual impression?",
+        "answer": "Simple"
       }
     ]
   }

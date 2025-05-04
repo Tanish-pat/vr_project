@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5d/5d19dae4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the packaging design, as visually apparent?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What kind of wipes are depicted on the product packaging, as shown in the image?",
+        "answer": "Baby"
+      },
+      {
+        "question": "What is the dominant animal illustrated on the baby wipe packaging, easily noticeable?",
+        "answer": "Elephant"
+      },
+      {
+        "question": "Considering the image, what appears to be the main material of the product packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall shape of the baby wipe package, according to visual observation?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based solely on the image, what language is prominently displayed besides English?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Describe the texture implied by the packaging's appearance in the provided image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the picture, what is the apparent design style of the packaging artwork?",
+        "answer": "Cute"
+      },
+      {
+        "question": "What word is prominently featured in bold, capital letters on the product's packaging?",
+        "answer": "WIPES"
+      },
+      {
+        "question": "From the visible text, what brand name is clearly printed on the product's packaging?",
+        "answer": "Mama"
+      },
+      {
+        "question": "What is the visible design element repeated across the package edges and center?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What secondary color prominently complements the yellow in the packaging design?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent condition of the product packaging, as depicted in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the visual elements, what is the overall aesthetic feel of the packaging?",
+        "answer": "Childlike"
+      },
+      {
+        "question": "What is the visible format of the text on the product packaging, observing the image?",
+        "answer": "Printed"
+      }
+    ]
+  }
+]

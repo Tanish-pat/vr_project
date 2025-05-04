@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6c/6c649d7e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bag's bottom panel?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What kind of flakes are depicted on the packaging?",
+        "answer": "Frosted"
+      },
+      {
+        "question": "What is the dominant color of the text on the bag?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the main material of the product packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What word indicates the product's production method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the brand name prominently displayed?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the overall texture implied by the bag's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of information is visible on a large section of the back panel?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What type of food is contained within the package, according to the label?",
+        "answer": "Flakes"
+      },
+      {
+        "question": "What is the color of the top section of the packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Besides the brand name, what other design element is prominently featured?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the image's orientation, which side of the bag is shown?",
+        "answer": "Back"
+      },
+      {
+        "question": "What is depicted in the small images within the top part of the packaging?",
+        "answer": "Grains"
+      },
+      {
+        "question": "Based on the text, what is a key ingredient?",
+        "answer": "Whole"
+      }
+    ]
+  }
+]

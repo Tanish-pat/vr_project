@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/84f84734.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape of the product, as shown in the image, what geometric form best describes the container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the predominant color of the bottle's primary body, as visibly depicted in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on visual inspection of the image, what material appears to constitute the container of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the prominent text labeling the primary product ingredient, clearly visible on the product's container?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Focusing on the label's design, what is the color of the rectangular band prominently displayed on the product's bottle?",
+        "answer": "Red"
+      },
+      {
+        "question": "Observing the lid, what is the color of the tamper-evident seal visibly present on the top of the product's container?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Examining the image carefully, what is the color of the logo displayed on the product's label, as clearly shown in the picture?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the texture of the main body of the container, considering the visual image alone?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary text displayed prominently on the product container, according to the visual evidence provided?",
+        "answer": "Pycnogenol"
+      },
+      {
+        "question": "What is the shape of the individual capsules implied by the image and label text?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on the visual information available, what is the color of the background image on the product's label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What word, visible on the label, describes the primary ingredient of the product shown in the image?",
+        "answer": "Extract"
+      },
+      {
+        "question": "What descriptor, visible on the product's packaging, best captures the functional quality of the product as visually indicated?",
+        "answer": "Antioxidant"
+      },
+      {
+        "question": "According to the label's text, visible in the image, what is the quantity of capsules contained within the bottle?",
+        "answer": "Thirty"
+      },
+      {
+        "question": "What is the textual description on the label indicating the type of supplement shown in the image?",
+        "answer": "Capsules"
+      }
+    ]
+  }
+]
