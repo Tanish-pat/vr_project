@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the desk's main surface?",
+        "question": "What is the primary color of the desk's top surface?",
         "answer": "Wood"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Metal"
       },
       {
-        "question": "What is the overall shape of the main desk unit?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Describe the visible texture of the desk's top surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color are the visible drawer fronts on the desk?",
+        "question": "What is the dominant color of the storage units?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent color of the tall storage unit?",
-        "answer": "White"
-      },
-      {
-        "question": "What material seems to compose the tall cabinet's side panels?",
+        "question": "What secondary color accents the white storage units?",
         "answer": "Wood"
       },
       {
-        "question": "What type of storage element is prominently featured on the left?",
-        "answer": "Cabinet"
+        "question": "Describe the overall shape of the main desk unit?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the design style of the storage units and desk?",
-        "answer": "Modern"
+        "question": "What type of storage is visible within the tall unit?",
+        "answer": "Shelves"
       },
       {
-        "question": "Describe the visible hardware on the desk drawers?",
-        "answer": "Minimal"
+        "question": "What seems to be the material of the cabinet doors?",
+        "answer": "Wood"
       },
       {
-        "question": "What is the apparent finish of the wooden components?",
-        "answer": "Matte"
+        "question": "What is the apparent texture of the desk's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "What color is the accent wall in the background?",
+        "question": "Describe the style of the visible shelving units?",
+        "answer": "Cubby"
+      },
+      {
+        "question": "What color is the wall behind the desk?",
         "answer": "Blue"
       },
       {
-        "question": "What appears to be underneath the desk?",
-        "answer": "Floor"
-      },
-      {
-        "question": "What is visible on the floor near the desk?",
+        "question": "What is the visible design element on the floor?",
         "answer": "Rug"
       },
       {
-        "question": "What object is partially visible behind the desk?",
-        "answer": "Chair"
+        "question": "What is the apparent finish of the wooden surfaces?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent shape of the trash can under the desk?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the general style of the furniture set shown?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What kind of object is visible next to the blue wall?",
+        "answer": "Bicycle"
       }
     ]
   }

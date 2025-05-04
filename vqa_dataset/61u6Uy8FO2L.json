@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the caution signs, as shown in the provided image?",
+        "question": "What is the predominant color of the displayed caution signs?",
         "answer": "Yellow"
       },
       {
-        "question": "Considering the image, what is the overall shape of each individual caution sign?",
-        "answer": "A-frame"
-      },
-      {
-        "question": "Based on the image, what appears to be the primary material used in the construction of these signs?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Examining the image, what language is predominantly used on the displayed cautionary signage?",
-        "answer": "English"
-      },
-      {
-        "question": "What specific hazard does the primary text on each sign prominently warn against?",
+        "question": "What specific hazard is prominently indicated on each sign?",
         "answer": "Wet"
       },
       {
-        "question": "From the image, what is the texture that seems to visually characterize the surface of these signs?",
+        "question": "What primary language is used for the cautionary text?",
+        "answer": "English"
+      },
+      {
+        "question": "What shape best describes the overall form of each individual sign?",
+        "answer": "A-frame"
+      },
+      {
+        "question": "What material appears to be used in the construction of these signs?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visual texture, how would you describe the sign's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "In the provided image, what word is most frequently used to convey caution or warning?",
-        "answer": "Caution"
-      },
-      {
-        "question": "What additional word, besides 'Caution', appears multiple times within the visible signage?",
-        "answer": "Floor"
-      },
-      {
-        "question": "Observing the image, what type of graphic symbol is included near the text of each sign?",
-        "answer": "Triangle"
-      },
-      {
-        "question": "Focusing on the image, what additional language, besides English, is also incorporated on the signs?",
-        "answer": "Spanish"
-      },
-      {
-        "question": "What is the orientation of the caution signs in the provided image?",
+        "question": "What is the visible orientation of the text on the sign's surface?",
         "answer": "Vertical"
       },
       {
-        "question": "Based solely on visual inspection, how many caution signs are clearly shown in the image?",
+        "question": "How many individual caution signs are shown in this product image?",
         "answer": "Four"
       },
       {
-        "question": "What seems to be the overall function of the objects depicted in the image?",
-        "answer": "Warning"
+        "question": "What is the overall arrangement of the displayed caution signs?",
+        "answer": "Stacked"
       },
       {
-        "question": "Describe the visual presentation of the text on the signs - uppercase or lowercase?",
-        "answer": "Uppercase"
+        "question": "What additional language is used on the signs, besides English?",
+        "answer": "Spanish"
       },
       {
-        "question": "What seems to be the manufacturing method of the text presented on the signs?",
-        "answer": "Printed"
+        "question": "Describe the visual style of the warning symbol depicted on each sign.",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What type of warning is conveyed by the pictorial symbol on the sign?",
+        "answer": "Slippery"
+      },
+      {
+        "question": "Based on their design, where would these signs likely be used?",
+        "answer": "Floor"
+      },
+      {
+        "question": "What is the visible text immediately above the warning symbol?",
+        "answer": "Caution"
+      },
+      {
+        "question": "What is the word below the warning symbol on the sign?",
+        "answer": "Mojado"
       }
     ]
   }

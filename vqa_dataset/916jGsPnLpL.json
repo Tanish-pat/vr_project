@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual appearance, what dominant color best describes this shoe's upper?",
-        "answer": "Olive"
-      },
-      {
-        "question": "Examining the shoe's texture, what material seems to primarily constitute its upper?",
-        "answer": "Canvas"
-      },
-      {
-        "question": "Focusing on the lacing system, what is the primary color of the laces?",
-        "answer": "Olive"
-      },
-      {
-        "question": "Observing the sole's edge, what color is the visible trim or border?",
-        "answer": "White"
-      },
-      {
-        "question": "Inspecting the insole, what brand name is prominently displayed?",
-        "answer": "Tommy"
-      },
-      {
-        "question": "Concentrating on the weave pattern, what style best characterizes the upper's texture?",
+        "question": "Considering the overall texture, what is the predominant tactile quality of the shoe's upper material?",
         "answer": "Textured"
       },
       {
-        "question": "Analyzing the shoe's silhouette, what shape best describes its overall form?",
-        "answer": "Oval"
+        "question": "Describe the visible pattern on the shoe's primary fabric, observing its visual consistency across the surface.",
+        "answer": "Heathered"
       },
       {
-        "question": "Looking at the eyelets, what is their color, harmonizing with the overall scheme?",
+        "question": "What single word best captures the shoe's overall color, acknowledging the subtle variations in tone?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Observing the shoe's sole, what is the color of its visible edge, contrasting with the upper material?",
         "answer": "White"
       },
       {
-        "question": "Regarding the sole's visual characteristics, what is its apparent material?",
+        "question": "Based on the visible construction, what is the primary material that constitutes the visible portion of the shoe's upper?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Focusing on the lacing system, describe the color of the laces in a single word, based on visual observation.",
+        "answer": "Olive"
+      },
+      {
+        "question": "Considering the shape of the shoe, what is the most appropriate descriptor for its overall form?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Considering the design details of the shoe, what is the style of its closure mechanism?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the design element visible on the inside of the shoe's tongue which helps identify its brand?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Examining the brand label inside, what is the name of the brand featured, based purely on its visual representation?",
+        "answer": "Tornyx"
+      },
+      {
+        "question": "Focusing on the sole, what is the apparent material based on its texture and color?",
         "answer": "Rubber"
       },
       {
-        "question": "Paying attention to the heel, what color is the visible part of the interior?",
-        "answer": "Olive"
+        "question": "What is the color of the inner lining, primarily visible near the heel, as shown in the image?",
+        "answer": "Beige"
       },
       {
-        "question": "Inspecting the tongue area, what is the visible color of the label's background?",
-        "answer": "Navy"
-      },
-      {
-        "question": "Focusing on the branding, what symbol complements the textual logo?",
-        "answer": "Circle"
-      },
-      {
-        "question": "Concentrating on the lacing, what is the style of the shoelace construction?",
-        "answer": "Flat"
-      },
-      {
-        "question": "Considering the stitching, what color is the visible thread, if any?",
-        "answer": "Olive"
-      },
-      {
-        "question": "Analyzing the overall design, what style of footwear does it represent?",
+        "question": "Based on the design, what is the overall style of the shoe, in a single word?",
         "answer": "Casual"
+      },
+      {
+        "question": "Observing the stitching on the shoe, what color is it predominantly?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the material, what is the single-word description for the overall feel of the shoe?",
+        "answer": "Soft"
       }
     ]
   }

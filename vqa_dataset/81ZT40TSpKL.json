@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1b3a2ea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the framed photograph?",
+        "answer": "Monochrome"
+      },
+      {
+        "question": "What animal is the central focus of the photographic print?",
+        "answer": "Horse"
+      },
+      {
+        "question": "What specific part of the animal is prominently featured?",
+        "answer": "Nostril"
+      },
+      {
+        "question": "What is the apparent texture of the animal's coat in the image?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the frame's primary visible material and color?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of the framed photograph?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the matting surrounding the photographic print?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the photographic style, considering light and shadow?",
+        "answer": "Dramatic"
+      },
+      {
+        "question": "Is there any noticeable grain or texture to the photographic print itself?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the general lighting condition used in the photograph?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the visible edge of the outer frame's profile",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the apparent photographic depth of field used?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Considering the overall composition, what is the photographic emphasis?",
+        "answer": "Close-up"
+      },
+      {
+        "question": "What is the material of the inner mat, visually assessed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the apparent style of the photographic print?",
+        "answer": "Nature"
+      }
+    ]
+  }
+]

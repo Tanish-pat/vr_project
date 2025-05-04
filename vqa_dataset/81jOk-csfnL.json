@@ -9,60 +9,60 @@
         "answer": "Beige"
       },
       {
-        "question": "What is the primary visual texture depicted on the phone case?",
+        "question": "What is the predominant visual texture depicted on the phone case?",
         "answer": "Cracked"
       },
       {
-        "question": "What type of surface does the design on the phone case imitate?",
+        "question": "What type of material appears to be depicted in the phone case's design?",
         "answer": "Stone"
       },
       {
-        "question": "What shape is the overall form factor of the illustrated product?",
+        "question": "What shape does the depicted object on the phone case primarily resemble?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the material appearance, what is the case's likely texture?",
-        "answer": "Rough"
+        "question": "Considering the image, what is the overall design style of this phone cover?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Based on the visual appearance, what is the main graphic element on the phone case?",
+        "answer": "Cracks"
+      },
+      {
+        "question": "Observing the image carefully, what appears to be the phone case's finish?",
+        "answer": "Matte"
       },
       {
         "question": "What color are the visible camera cutouts on the phone case?",
         "answer": "Dark"
       },
       {
-        "question": "What seems to be the material of this protective phone accessory?",
+        "question": "What is the general form factor of the item shown in the provided image?",
+        "answer": "Case"
+      },
+      {
+        "question": "What seems to be the implied material of the phone case's surface?",
         "answer": "Plastic"
       },
       {
-        "question": "How many camera cutouts are visible on the back of the phone case?",
-        "answer": "Three"
+        "question": "Judging by the picture, what is the level of detail in the design?",
+        "answer": "High"
       },
       {
-        "question": "What is the general style of the image printed on the phone case?",
-        "answer": "Abstract"
+        "question": "From a visual perspective, how would you characterize the color variations?",
+        "answer": "Subtle"
       },
       {
-        "question": "Describe the lines that dominate the image on the phone case.",
-        "answer": "Cracks"
+        "question": "What kind of pattern is visually present on the phone's protective layer?",
+        "answer": "Veined"
       },
       {
-        "question": "What is the apparent finish or coating of the phone case's surface?",
-        "answer": "Matte"
+        "question": "Considering the image, what seems to be the protective case's primary function?",
+        "answer": "Protection"
       },
       {
-        "question": "What is the color of the phone's fingerprint sensor cutout?",
-        "answer": "Blue"
-      },
-      {
-        "question": "Does the printed design cover the entirety of the phone case?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Is the image on the phone case symmetrical or asymmetrical?",
-        "answer": "Asymmetrical"
-      },
-      {
-        "question": "What overall impression does the case's design evoke?",
-        "answer": "Natural"
+        "question": "What is the overall visual impression conveyed by this product\u2019s appearance?",
+        "answer": "Rustic"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted on the phone case?",
+        "question": "What is the dominant color scheme depicted on the phone case's surface?",
         "answer": "Brown"
       },
       {
-        "question": "What natural material is visually simulated on the phone case's surface?",
+        "question": "What natural material is realistically imitated in the phone case's design?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the arrangement of the simulated wood grain on the case?",
+        "question": "Describe the arrangement of the wood grain pattern on the phone case?",
         "answer": "Vertical"
       },
       {
-        "question": "What additional design element besides wood is featured on the phone case?",
+        "question": "What additional element, besides wood grain, is depicted on the phone case?",
         "answer": "Water"
       },
       {
-        "question": "What shape is the overall phone case design primarily following?",
+        "question": "What shape best describes the overall form of the presented mobile phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent texture of the simulated wood grain depicted?",
+        "question": "What is the apparent texture of the simulated wooden surface on the case?",
         "answer": "Rough"
       },
       {
-        "question": "Considering the water droplets, what feeling or atmosphere is evoked?",
-        "answer": "Cold"
+        "question": "What color are the small, scattered elements resembling water droplets?",
+        "answer": "White"
       },
       {
-        "question": "What is the color of the visible camera cut-out on the phone case?",
-        "answer": "Teal"
+        "question": "How many distinct sections can be visually identified in the wood-grain pattern?",
+        "answer": "Six"
       },
       {
-        "question": "What is the general style or aesthetic portrayed by the case's design?",
-        "answer": "Rustic"
-      },
-      {
-        "question": "What kind of visual effect is created by the scattered water droplets?",
-        "answer": "Sparkle"
-      },
-      {
-        "question": "What is the inferred material of the phone case itself (not the design)?",
+        "question": "What seems to be the material composition of the phone case itself?",
         "answer": "Plastic"
       },
       {
-        "question": "Are the wood grain lines uniform in width and spacing across the case?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the shape of the individual simulated water droplets?",
-        "answer": "Round"
-      },
-      {
-        "question": "Does the case show any noticeable blemishes or imperfections in its design?",
-        "answer": "No"
-      },
-      {
-        "question": "What small design element is visible near the bottom of the wooden pattern?",
+        "question": "What small, dark shape is visible near the bottom of the wood-grain pattern?",
         "answer": "Diamond"
+      },
+      {
+        "question": "What is the color of the visible portion of the phone's camera opening?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What kind of finish does the simulated wood appear to have on the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall style of the phone case design?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the general orientation of the water droplet elements?",
+        "answer": "Random"
+      },
+      {
+        "question": "What is the primary design element employed to create a visual appeal?",
+        "answer": "Print"
       }
     ]
   }

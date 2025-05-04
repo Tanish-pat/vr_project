@@ -9,60 +9,60 @@
         "answer": "Brown"
       },
       {
-        "question": "What material primarily constitutes the chairs' seating surface?",
-        "answer": "Wicker"
-      },
-      {
-        "question": "Describe the shape of the chairs' backs, considering their vertical orientation?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the apparent texture of the material used in the chair construction?",
-        "answer": "Woven"
-      },
-      {
-        "question": "What color are the cushions provided for the chairs?",
-        "answer": "Beige"
-      },
-      {
-        "question": "What is the overall shape of the small accompanying table?",
-        "answer": "Square"
-      },
-      {
-        "question": "Considering the legs, what is the overall style of the chairs?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What material seems to form the frame supporting the wicker of the chairs?",
+        "question": "What material primarily constitutes the chair frames?",
         "answer": "Metal"
       },
       {
-        "question": "Judging by the image, what is the primary function of this furniture set?",
-        "answer": "Seating"
+        "question": "What is the apparent texture of the seating material of the chairs?",
+        "answer": "Woven"
       },
       {
-        "question": "What kind of design element is visible on the chairs' backrests?",
-        "answer": "Slats"
+        "question": "Describe the shape of the chairs' seating surfaces.",
+        "answer": "Rectangular"
       },
       {
-        "question": "Describe the appearance of the chair's armrests in terms of their construction?",
-        "answer": "Straight"
+        "question": "What is the overall style of the furniture set?",
+        "answer": "Modern"
       },
       {
-        "question": "What is the visible material of the table's top surface?",
+        "question": "What is the color of the cushions on the chairs?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What kind of material appears to be used for the chair cushions?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the shape of the small accompanying table?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the material that seems to comprise the table top?",
         "answer": "Wicker"
       },
       {
-        "question": "What is the implied use for this furniture set, based on its design and materials?",
-        "answer": "Outdoor"
+        "question": "Are the chairs designed with armrests?",
+        "answer": "Yes"
       },
       {
-        "question": "Do the chairs appear to have any visible patterns in their woven construction?",
-        "answer": "No"
+        "question": "How many chairs are included in this outdoor set?",
+        "answer": "Two"
       },
       {
-        "question": "What is the general condition of the set depicted in the product image?",
-        "answer": "New"
+        "question": "What is the general design of the chair backs?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the style of legs in the chairs and table?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the table seem suitable for placing drinks or small items?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on appearance, where would this set likely be used?",
+        "answer": "Outdoors"
       }
     ]
   }

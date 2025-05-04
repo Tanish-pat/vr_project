@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of each individual drumstick presented in the image?",
-        "answer": "Cylindrical"
-      },
-      {
-        "question": "What primary material appears to constitute the visible portion of these drumsticks?",
-        "answer": "Wood"
-      },
-      {
-        "question": "Considering the visible texture, what is the surface finish of the drumsticks?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Describe the color of the wooden drumsticks shown against the white background?",
+        "question": "What is the predominant color of the displayed drumsticks?",
         "answer": "Beige"
       },
       {
-        "question": "What is the form of the tip at the end of each drumstick?",
+        "question": "Considering the material, what is the apparent texture of the sticks?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of each individual drumstick?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary material from which these drumsticks seem to be constructed?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describing the tip, what is the form of the end opposite the handle?",
         "answer": "Rounded"
       },
       {
-        "question": "Based on the image, how many drumsticks are visibly present in the product picture?",
+        "question": "Based on the visual appearance, what is the apparent finish of the drumsticks?",
+        "answer": "Unvarnished"
+      },
+      {
+        "question": "Considering their construction, how many drumsticks are depicted in the image?",
         "answer": "Two"
       },
       {
-        "question": "What is the apparent grain orientation visible along the length of the drumsticks?",
-        "answer": "Vertical"
+        "question": "Observing the image carefully, what is the apparent length variation between the sticks?",
+        "answer": "Slight"
       },
       {
-        "question": "Judging from the image, what is the general size and length of the drumsticks?",
-        "answer": "Standard"
+        "question": "What is the overall condition of the visible surface of the drumsticks?",
+        "answer": "Clean"
       },
       {
-        "question": "What is the apparent level of detail and intricate design features visible on these drumsticks?",
-        "answer": "Minimal"
-      },
-      {
-        "question": "Describe the visible consistency and uniformity of color across each drumstick's surface?",
-        "answer": "Uniform"
-      },
-      {
-        "question": "Considering the image, are there any noticeable markings, logos, or branding visible on the drumsticks?",
+        "question": "In terms of visual details, what are the noticeable markings on the drumsticks?",
         "answer": "None"
       },
       {
-        "question": "What is the implied function or purpose of the objects shown in this product image?",
-        "answer": "Playing"
+        "question": "What is the apparent diameter variation along the length of each drumstick?",
+        "answer": "Uniform"
       },
       {
-        "question": "Based on the image, what is the general condition or appearance of the drumsticks shown?",
-        "answer": "New"
+        "question": "In terms of construction, what seems to be the type of wood used?",
+        "answer": "Light"
       },
       {
-        "question": "What is the apparent finish or treatment applied to the surface of the wooden drumsticks?",
-        "answer": "Untreated"
+        "question": "Considering the image, what is the level of grain visibility on the wood?",
+        "answer": "Minimal"
       },
       {
-        "question": "Judging by the image, what is the overall visual impression conveyed by these drumsticks?",
-        "answer": "Simple"
+        "question": "What is the apparent weight of each drumstick based solely on visual inspection?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the implied purpose or function of these objects shown in the image?",
+        "answer": "Percussion"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5aedf68b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular mattress topper shown?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Observing the image, what appears to be the primary material of the topper?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the presented product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual, does the mattress topper exhibit a noticeable pattern or texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, can you determine the apparent thickness or height of the topper?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the image suggest the presence of any visible seams or stitching on the topper?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the image, what is the apparent finish or sheen of the mattress topper's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the visual, how would you characterize the overall appearance of the product?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image show any decorative elements or embellishments on the topper?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the apparent condition of the mattress topper shown?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the visual details, is the topper's surface uniformly colored throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, does the topper appear to have a fitted or flat design?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on the image alone, what is the approximate depth of the visible edge of the topper?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Does the provided image display any noticeable imperfections or damage on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visual, is the product presented folded or unfolded?",
+        "answer": "Unfolded"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/1083db0b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the pillow's surface, as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what seems to be the primary material used for the pillow's construction?",
+        "answer": "Memoryfoam"
+      },
+      {
+        "question": "Based on the visible texture, how would you describe the pillow's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the overall shape of the presented pillow?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the pillow in the picture appear to have any noticeable patterns or designs imprinted on it?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent density or firmness of the pillow based on its visual appearance?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the image, how many visible sides or faces does the pillow appear to have?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the image, does the pillow appear to have any visible seams or stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the approximate thickness or height of the pillow shown in the image?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the size/scale of the pillow relative to the human hand, as shown in the picture?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the visual texture alone, does the pillow's surface seem soft to the touch?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image's context, what is the implied function or use of the depicted object?",
+        "answer": "Sleeping"
+      },
+      {
+        "question": "Judging by the image, does the pillow have any visible labels, tags or branding?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the pillow's aesthetic design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the pillow in the image look compressible or supportive based on its visible form?",
+        "answer": "Supportive"
+      }
+    ]
+  }
+]

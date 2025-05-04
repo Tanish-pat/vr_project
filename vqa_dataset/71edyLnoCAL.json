@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible wood grain?",
+        "question": "What is the dominant color displayed across the entire surface?",
         "answer": "Brown"
       },
       {
-        "question": "Considering the visible grain pattern, what type of wood is suggested?",
+        "question": "What natural material appears to constitute the primary component?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the grain pattern, what type of wood is suggested?",
         "answer": "Oak"
       },
       {
-        "question": "Describe the overall texture apparent in the wood's surface?",
+        "question": "Describe the overall textural quality evident in the image?",
         "answer": "Grained"
       },
       {
-        "question": "What is the apparent direction of the wood grain's orientation?",
+        "question": "What is the apparent direction of the wood grain visible in the sample?",
         "answer": "Vertical"
       },
       {
         "question": "Based on the image, what is the visual finish of the wood surface?",
-        "answer": "Smooth"
+        "answer": "Satin"
       },
       {
-        "question": "Is the wood's coloring uniform or does it show variation?",
-        "answer": "Varied"
-      },
-      {
-        "question": "What is the general lightness or darkness level of the wood's tone?",
-        "answer": "Light"
-      },
-      {
-        "question": "Considering the image, can knots be observed in the wood?",
-        "answer": "No"
-      },
-      {
-        "question": "Does the wood's grain display a pronounced linear pattern?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the visual consistency of the wood grain's density?",
-        "answer": "Consistent"
-      },
-      {
-        "question": "Are there any visible markings or imperfections on the wood?",
-        "answer": "No"
-      },
-      {
-        "question": "Does the image suggest a natural or treated wood appearance?",
-        "answer": "Natural"
-      },
-      {
-        "question": "Does the wood's color display warmth or coolness in tone?",
+        "question": "How would you characterize the overall tone of the color presentation?",
         "answer": "Warm"
       },
       {
-        "question": "What is the perceived depth or dimensionality of the wood grain?",
-        "answer": "Three-dimensional"
+        "question": "Considering the image's resolution, is the grain finely or coarsely textured?",
+        "answer": "Fine"
       },
       {
-        "question": "Based solely on the image, does the wood appear to be polished?",
+        "question": "Can you identify any prominent knots or irregularities within the wood grain?",
+        "answer": "Few"
+      },
+      {
+        "question": "Does the image suggest a uniform or varied distribution of color?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the lightness and darkness, what is the wood's overall shade?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the sample show signs of visible surface treatment or staining?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any obvious imperfections or blemishes?",
         "answer": "No"
+      },
+      {
+        "question": "What is the general shape of the presented sample in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent surface sheen of the wood sample shown?",
+        "answer": "Matte"
       }
     ]
   }

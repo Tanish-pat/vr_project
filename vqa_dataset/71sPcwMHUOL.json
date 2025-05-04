@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the knitted upper?",
+        "question": "What is the dominant color of the shoe's upper material?",
         "answer": "Navy"
       },
       {
-        "question": "What color is the interior lining visible at the top?",
-        "answer": "Red"
-      },
-      {
-        "question": "What is the material primarily used for the shoe's upper?",
+        "question": "What is the predominant texture of the shoe's body?",
         "answer": "Knit"
       },
       {
-        "question": "Describe the texture of the knitted fabric on the upper?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What is the overall shape of the shoe's sole?",
-        "answer": "Flat"
-      },
-      {
-        "question": "What color is the sole of the shoe?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the style of the shoe; is it a slip-on or laced?",
-        "answer": "Slip-on"
-      },
-      {
-        "question": "What is the visible design element embedded within the knit?",
-        "answer": "Pattern"
-      },
-      {
-        "question": "Describe the visible thickness of the sole's platform?",
-        "answer": "Thick"
-      },
-      {
-        "question": "What is the apparent material of the shoe's sole?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "What color are the subtle highlights within the knit?",
+        "question": "Describe the color of the inner lining visible at the shoe's opening?",
         "answer": "Red"
       },
       {
-        "question": "Is the toe box rounded or pointed in shape?",
+        "question": "What is the overall style of the shoe, considering its lack of laces?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What is the primary color of the shoe's sole or platform?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the toe on this slip on shoe?",
         "answer": "Rounded"
       },
       {
-        "question": "How would you describe the height of the shoe's upper?",
+        "question": "What subtle secondary color accents the knit pattern?",
+        "answer": "Red"
+      },
+      {
+        "question": "Describe the apparent material of the shoe's sole unit?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the approximate height of the shoe's platform?",
         "answer": "Low"
       },
       {
-        "question": "What is the overall style of the shoe?",
-        "answer": "Casual"
+        "question": "Is the upper of the shoe predominantly smooth or textured?",
+        "answer": "Textured"
       },
       {
-        "question": "Does the shoe display any noticeable logos or branding?",
-        "answer": "No"
+        "question": "What type of visible stitching is found on the shoe's upper?",
+        "answer": "None"
+      },
+      {
+        "question": "What seems to be the style of the shoe's heel counter?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What material appears to make up the majority of the shoe's upper?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the overall design, is this a dress shoe, a sneaker or something else?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "What is the overall construction of the shoe's sole?",
+        "answer": "Flat"
       }
     ]
   }

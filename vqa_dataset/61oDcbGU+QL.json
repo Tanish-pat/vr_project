@@ -9,60 +9,60 @@
         "answer": "White"
       },
       {
-        "question": "What type of connector is prominently displayed on the adapter's larger end?",
-        "answer": "HDMI"
-      },
-      {
-        "question": "What is the shape of the main adapter body, excluding the cable?",
-        "answer": "Rectangular"
-      },
-      {
         "question": "What type of connector is visible on the smaller end of the cable?",
-        "answer": "MiniDisplayPort"
+        "answer": "MiniDP"
+      },
+      {
+        "question": "What type of connector is present on the larger, rectangular side of the adapter?",
+        "answer": "HDMI"
       },
       {
         "question": "What material appears to constitute the external casing of the adapter?",
         "answer": "Plastic"
       },
       {
-        "question": "What word is printed on the adapter's top surface, indicating its brand?",
-        "answer": "Amazon"
+        "question": "Describe the overall shape of the main adapter body, excluding the cable?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Considering the cable's flexibility, what is its likely material composition?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the apparent texture of the adapter's external surface?",
+        "question": "What is the apparent texture of the adapter's outer surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the overall visual impression of the adapter's design aesthetic?",
-        "answer": "Minimalist"
+        "question": "What brand logo is subtly imprinted on the adapter's surface?",
+        "answer": "Amazon"
       },
       {
-        "question": "Based on the connectors, what is the adapter's primary function?",
-        "answer": "Conversion"
+        "question": "What is the apparent finish of the adapter's plastic casing?",
+        "answer": "Matte"
       },
       {
-        "question": "What small marking is visible next to the AmazonBasics logo?",
-        "answer": "101"
+        "question": "What is the visible color of the cable connecting to the adapter?",
+        "answer": "White"
       },
       {
-        "question": "Does the cable appear to be detachable from the adapter body?",
-        "answer": "No"
+        "question": "Considering the cable's flexibility, what is its probable material?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the approximate length of the cable visible in the image?",
-        "answer": "Short"
+        "question": "Describe the shape of the cable connecting the two ends of the adapter?",
+        "answer": "Curved"
       },
       {
-        "question": "Ignoring the logo, is there any visible text on the adapter's surface?",
-        "answer": "HDMI"
+        "question": "What small alphanumeric markings are noticeable near the HDMI port?",
+        "answer": "IOI"
       },
       {
-        "question": "What is the general condition of the product depicted in the image?",
-        "answer": "New"
+        "question": "What is the visible physical state of the HDMI port and cable connections?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What is the primary function of this device, indicated by its connectors?",
+        "answer": "Adapter"
+      },
+      {
+        "question": "Based on its size, what would you describe the adapter's overall form factor as?",
+        "answer": "Compact"
       }
     ]
   }

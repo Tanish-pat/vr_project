@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall design, what is the most prominent style element of this women's sandal?",
+        "question": "Considering the overall design, what best describes the sandal's primary style?",
         "answer": "Minimalist"
       },
       {
-        "question": "What color is the primary material used in the construction of the sandal's footbed and straps?",
+        "question": "What color is the primary material of the sandal's upper?",
         "answer": "White"
       },
       {
-        "question": "What material appears to be used for the primary body of the sandal, based on its visual texture and sheen?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Describe the shape of the sandal's heel, observing its height and width relative to the rest of the sole.",
-        "answer": "Block"
-      },
-      {
-        "question": "What metallic finish is observed on the decorative accent piece connecting the straps?",
-        "answer": "Silver"
-      },
-      {
-        "question": "What is the apparent color of the thin band outlining the outer edge of the sandal's sole?",
-        "answer": "Gold"
-      },
-      {
-        "question": "Focusing on the insole, what design element, if any, is visible and clearly printed on the sandal's interior?",
-        "answer": "Logo"
-      },
-      {
-        "question": "Considering the overall construction, what is the style of this type of women's footwear?",
-        "answer": "Flip-flop"
-      },
-      {
-        "question": "Based on the visible materials and construction, what is the implied comfort level of these sandals?",
-        "answer": "Casual"
-      },
-      {
-        "question": "Considering the sandal's design, is its intended use primarily indoors or outdoors?",
-        "answer": "Outdoor"
-      },
-      {
-        "question": "Describe the shape of the main strap that lies across the top of the foot.",
-        "answer": "Flat"
-      },
-      {
-        "question": "What is the most noticeable detail about the material of the straps, in terms of its appearance and finish?",
+        "question": "Describe the visible texture of the sandal's main body, considering its apparent material?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent texture of the material which makes up the majority of the sandal's surface area?",
-        "answer": "Matte"
+        "question": "What metallic color is predominantly used for the decorative accent piece?",
+        "answer": "Silver"
       },
       {
-        "question": "What single word best describes the overall aesthetic of this sandal\u2019s design?",
-        "answer": "Simple"
+        "question": "Focusing on the sole's edge, what color trim is visible?",
+        "answer": "Gold"
       },
       {
-        "question": "Considering the visual elements, what is the overall impression of the sandal's design?",
-        "answer": "Sleek"
+        "question": "What is the shape of the decorative accent piece at the toe?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What appears to be the material of the sandal's sole?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Based on its appearance, what is the apparent heel type of this sandal?",
+        "answer": "Block"
+      },
+      {
+        "question": "Considering the overall construction, what is the sandal's design type?",
+        "answer": "Thong"
+      },
+      {
+        "question": "What is the apparent material of the sandal's straps?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What seems to be the color of the insole, based on the visible portion?",
+        "answer": "White"
+      },
+      {
+        "question": "Can you describe the type of branding visible on the footbed?",
+        "answer": "Text"
+      },
+      {
+        "question": "What seems to be the visible finish of the sandal's metallic accent?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the overall shape of the sandal when viewed from the top?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the style, for what occasion might this sandal be suitable?",
+        "answer": "Casual"
       }
     ]
   }

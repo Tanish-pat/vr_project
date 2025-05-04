@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/09d3b628.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fluffy texture on the cushion?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the presented home furnishing item?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the apparent texture of the outer surface of this throw pillow?",
+        "answer": "Fluffy"
+      },
+      {
+        "question": "What kind of fabric appears to be used in the manufacture of this item?",
+        "answer": "Fur"
+      },
+      {
+        "question": "Considering the visual features, what is the likely purpose of this object?",
+        "answer": "Cushion"
+      },
+      {
+        "question": "Judging by the image, does this item appear to be soft or hard to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the general tone or shade of the beige color displayed in the image?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is there a visible pattern or design present on the pillow's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, how would you describe the plushness of the pillow?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the material, how would you classify this home d\u00e9cor piece?",
+        "answer": "Cozy"
+      },
+      {
+        "question": "From the image, what is the visible density of the pile on the item?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the image show any visible seams or stitching details on the pillow?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness on the pillow's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the image suggest any visible embellishments or decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the consistency of the color across the pillow's surface",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

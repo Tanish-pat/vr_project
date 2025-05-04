@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the tote bag's exterior?",
+        "question": "What is the dominant color of the exterior of this tote bag?",
         "answer": "Blue"
       },
       {
-        "question": "What appears to be the primary material of the bag's construction?",
+        "question": "What appears to be the primary material used for the bag's construction?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the overall shape of the presented tote bag?",
+        "question": "Describe the overall shape of the bag when viewed from above.",
         "answer": "Rectangular"
       },
       {
-        "question": "What color is the interior lining of the tote bag?",
+        "question": "What color is the interior lining of this tote bag?",
         "answer": "Beige"
       },
       {
-        "question": "Considering the bag's structure, what is its intended function?",
-        "answer": "Carrying"
+        "question": "Considering the visible structure, what is the bag's style?",
+        "answer": "Tote"
       },
       {
-        "question": "What is the visible texture of the bag's exterior?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What type of closure system is apparent on the tote bag?",
-        "answer": "Zipperless"
-      },
-      {
-        "question": "How many handles does the tote bag appear to possess?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the apparent material of the bag's handles?",
-        "answer": "Leather"
-      },
-      {
-        "question": "What kind of item is shown inside the tote bag for scale?",
-        "answer": "Book"
-      },
-      {
-        "question": "What is the general style of the tote bag, in terms of design?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What small detail is visible near the top of the bag?",
+        "question": "What type of closure or fastener is visible on the bag?",
         "answer": "Snap"
       },
       {
-        "question": "What is the shape of the bag's handles?",
-        "answer": "Long"
+        "question": "What is the apparent texture of the outer material of the bag?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the apparent thickness of the tote bag's material?",
-        "answer": "Medium"
+        "question": "Based on visual observation, how many handles does this bag possess?",
+        "answer": "Two"
       },
       {
-        "question": "What is suggested by the apparent lack of external pockets?",
-        "answer": "Minimalist"
+        "question": "What color are the visible metallic accents on the bag?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Judging from its size and shape, what is the most likely intended use of the tote?",
+        "answer": "Shopping"
+      },
+      {
+        "question": "What is the visible texture of the interior lining material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeable patterns or designs on the exterior of the bag?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the approximate shape of the bottom panel of the bag?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Judging by the image, is the bag structured or unstructured?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Considering the visible features, does the bag have a zipper closure?",
+        "answer": "No"
       }
     ]
   }

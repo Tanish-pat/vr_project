@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0c21e4b5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted cooling pack?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary material composing this ice pack?",
+        "answer": "Gel"
+      },
+      {
+        "question": "What is the overall geometric form of the ice pack shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what seems to be the texture of the pack's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent function of the small protrusion?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Observing the design, what kind of internal structure is suggested within the pack?",
+        "answer": "Cellular"
+      },
+      {
+        "question": "From the picture, what is the apparent state of the gel within the pack?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent flexibility of the ice pack, considering its shape?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What seems to be the purpose of the grid-like pattern on the pack's surface?",
+        "answer": "Structural"
+      },
+      {
+        "question": "Judging by its appearance, what is the intended use of the pictured item?",
+        "answer": "Cooling"
+      },
+      {
+        "question": "Based on the visual information provided, is the object transparent or opaque?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What color is the small, round cap on the cooling pack's end?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent condition of the item; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the design, what is the overall shape's orientation?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the visual impression regarding the thickness of this ice pack?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

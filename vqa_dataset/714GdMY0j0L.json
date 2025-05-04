@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary animal depicted on the phone case?",
+        "question": "What is the primary depicted animal on the phone case?",
         "answer": "Lion"
       },
       {
-        "question": "What artistic style is used to portray the lion?",
+        "question": "What artistic style is used to represent the lion?",
         "answer": "Cubist"
       },
       {
-        "question": "What is the dominant color scheme of the lion's mane?",
-        "answer": "Multicolor"
-      },
-      {
-        "question": "What is the overall color of the phone case background?",
-        "answer": "White"
-      },
-      {
-        "question": "Describe the texture of the depicted lion's fur.",
-        "answer": "Geometric"
-      },
-      {
-        "question": "What material appears to be used for this phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the shape of the phone case itself?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the primary color of the lion's eyes?",
-        "answer": "Red"
-      },
-      {
-        "question": "Does the phone case have any additional designs aside from the main lion?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the style of the additional designs on the sides?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "Describe the color palette used in the side designs.",
+        "question": "Describe the overall color scheme of the lion's depiction?",
         "answer": "Multicolored"
       },
       {
-        "question": "How many distinct sides are shown in the product image?",
-        "answer": "Three"
+        "question": "What is the dominant color used in the mane area?",
+        "answer": "Purple"
       },
       {
-        "question": "What kind of finish does the phone case seem to have?",
+        "question": "What material appears to be used for the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant background color of the case?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of design is primarily featured?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Are there any noticeable markings on the case besides the lion?",
+        "answer": "Splatter"
+      },
+      {
+        "question": "Does the case feature a matte or glossy finish?",
         "answer": "Matte"
       },
       {
-        "question": "Does the phone case show any visible markings or text?",
-        "answer": "No"
+        "question": "What is the visible finish of the phone case?",
+        "answer": "Printed"
       },
       {
-        "question": "What seems to be the overall visual theme of this product?",
-        "answer": "Artistic"
+        "question": "Considering the image, what is the case's apparent thickness?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What specific phone model does this case appear designed for?",
+        "answer": "Vivo"
+      },
+      {
+        "question": "What is the overall visual impression of this phone case?",
+        "answer": "Bold"
       }
     ]
   }

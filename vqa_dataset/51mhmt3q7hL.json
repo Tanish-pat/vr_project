@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca1b6603.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the wall hook, as shown in the provided image?",
+        "answer": "Chrome"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this wall-mounted hook?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the provided wall hook?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on visual inspection, how would you describe the surface finish of the hook?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the main function of this item, considering its design?",
+        "answer": "Hanging"
+      },
+      {
+        "question": "What is the apparent design style of the hook displayed in the image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Observing the hook, what is the number of visible hanging points it possesses?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the depicted hook appear to have any visible textures, other than smooth?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of mounting mechanism does the hook seem to utilize, as shown in the image?",
+        "answer": "Wall"
+      },
+      {
+        "question": "If you were to describe the general appearance of the hook, would you say that the design is ornate or simple?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Analyzing the image, how many separate pieces comprise the depicted hook?",
+        "answer": "One"
+      },
+      {
+        "question": "From the image, what is the orientation of the hook\u2014vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based purely on visual inspection of the hook, what is its apparent size relative to human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the most obvious characteristic of the hook's primary hanging component?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Judging by the image provided, does the hook exhibit any noticeable patterns or markings?",
+        "answer": "No"
+      }
+    ]
+  }
+]

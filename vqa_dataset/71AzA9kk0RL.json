@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the locking mechanism?",
+        "question": "What is the predominant color of the rectangular component of the lockout device?",
         "answer": "Red"
       },
       {
-        "question": "What material appears to constitute the primary body of the device?",
+        "question": "What appears to be the primary material of the hook-like section?",
         "answer": "Metal"
       },
       {
-        "question": "What is the overall shape of the lockout device, considering both sections?",
-        "answer": "Irregular"
+        "question": "Considering the overall form, what best describes the device's shape?",
+        "answer": "Curved"
       },
       {
-        "question": "Describe the visible texture of the red component, based on the image.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent function suggested by the multiple round holes?",
-        "answer": "Locking"
-      },
-      {
-        "question": "What is the color of the metallic portion of the product?",
-        "answer": "Silver"
-      },
-      {
-        "question": "Considering the design, what type of mechanism does this product seem to be?",
-        "answer": "Lockout"
-      },
-      {
-        "question": "What is the visible finish of the metal section of the device?",
+        "question": "What is the most apparent finish on the red section of the device?",
         "answer": "Matte"
       },
       {
-        "question": "How many distinct sections or components make up the visible device?",
-        "answer": "Two"
+        "question": "How many circular cutouts are visible on the red component?",
+        "answer": "Six"
       },
       {
-        "question": "Considering the visible features, what is the likely application of this tool?",
-        "answer": "Safety"
-      },
-      {
-        "question": "Does the metallic component exhibit a glossy or matte finish?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the shape of the holes in the red portion of the device?",
-        "answer": "Round"
-      },
-      {
-        "question": "What seems to be the primary means of attachment for this device?",
+        "question": "What kind of mechanism does the device seem to employ for locking?",
         "answer": "Hook"
       },
       {
-        "question": "What is the arrangement of the holes in the red section of the device?",
-        "answer": "Grid"
+        "question": "Describe the texture of the metallic portion of the safety device.",
+        "answer": "Smooth"
       },
       {
-        "question": "Based on the image, what seems to be the construction method of the red element?",
-        "answer": "Molded"
+        "question": "What is the apparent design feature of the red section relating to its function?",
+        "answer": "Holes"
+      },
+      {
+        "question": "Based on its structure, what is the intended use of this object?",
+        "answer": "Safety"
+      },
+      {
+        "question": "What color is the metallic, hook-shaped part of the lockout?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What seems to be the overall construction of the red component?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image, what is the general condition of the device?",
+        "answer": "New"
+      },
+      {
+        "question": "What type of joining method is evident between the two sections?",
+        "answer": "Bolted"
+      },
+      {
+        "question": "What is the apparent overall size of the device in relation to a typical hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the hook, describe its curvature; is it sharp or gradual?",
+        "answer": "Gradual"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b734e894.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the beverage contained within the plastic bottle, as visibly apparent through the transparent portions?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the overall form of the container, what is the most accurate geometrical descriptor to describe its three-dimensional shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What material is most evidently used in the construction of the primary packaging for this beverage product, judging by its overall appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the text visible on the product's label, what is the primary flavor profile of the drink within?",
+        "answer": "Strawberry"
+      },
+      {
+        "question": "Observing the container's design, what secondary flavor is denoted in the beverage's product name?",
+        "answer": "Lemonade"
+      },
+      {
+        "question": "Given the image, what is the textual descriptor of the product that implies it's made with organic ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the apparent size of the bottle, relative to common household beverage containers?",
+        "answer": "Large"
+      },
+      {
+        "question": "Examining the bottle's surface, what is the visible texture of the plastic material used to construct it?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the container exhibit any noticeable markings beyond text or illustrations present on the product label?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the label design, what is the illustrative element associated with the product's flavor profile?",
+        "answer": "Strawberry"
+      },
+      {
+        "question": "What is the overall design style communicated by the label's typography and imagery?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visible label, what is the volume of liquid the bottle is designed to hold, in milliliters?",
+        "answer": "1890"
+      },
+      {
+        "question": "Considering the bottle's cap, what is the color of this crucial component?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual observation, what is the overall condition of the product packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the brand's name, as clearly indicated on the product label?",
+        "answer": "365"
+      }
+    ]
+  }
+]

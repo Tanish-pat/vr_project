@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual design, what single word best describes the style of these heeled sandals?",
-        "answer": "Elegant"
-      },
-      {
-        "question": "Based on the image, what is the predominant color of the sandal's upper material?",
+        "question": "What is the dominant color of the visible parts of the sandal, considering the overall tone and shade?",
         "answer": "Magenta"
       },
       {
-        "question": "What type of material appears to be used for the construction of the sandal's upper?",
-        "answer": "Velvet"
+        "question": "What appears to be the primary material used in constructing the upper portion of this sandal?",
+        "answer": "Suede"
       },
       {
-        "question": "Observing the heel's shape and height from the provided perspective, what word best describes it?",
+        "question": "Considering the silhouette and ankle strap, what is the overall style of the shoe?",
+        "answer": "Heels"
+      },
+      {
+        "question": "Describing the shape of the heel, considering its height, width and form, what is the heel type?",
         "answer": "Block"
       },
       {
-        "question": "Focusing on the sandal's silhouette, what single word captures its overall form?",
-        "answer": "Sleek"
-      },
-      {
-        "question": "Considering the ankle strap's visible fastening mechanism, what single word identifies it?",
+        "question": "Based on the visible construction, what type of fastening mechanism secures the ankle strap?",
         "answer": "Buckle"
       },
       {
-        "question": "Describe the texture of the sandal's upper material as observed in the image.",
-        "answer": "Soft"
+        "question": "Observing the texture of the upper part, is the surface smooth or rough to the touch?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the visual impression of the inner lining's color, as shown inside the sandal?",
+        "question": "What is the general shape of the toe box, considering the outline and design?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the design elements and style, what is the overall aesthetic of the sandal?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the color variation across the material, can we notice any significant shading or pattern changes?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What seems to be the main color of the insole material?",
         "answer": "Beige"
       },
       {
-        "question": "Describe the toe shape of this sandal based on its visual appearance.",
-        "answer": "Open"
+        "question": "Judging from the visible components, does the sandal feature any added decorative elements or embellishments?",
+        "answer": "None"
       },
       {
-        "question": "Given the visible seams and stitching, describe the overall construction of this footwear.",
-        "answer": "Seamless"
+        "question": "Observing the overall structure of the sandal, how many straps are visible in the image?",
+        "answer": "One"
       },
       {
-        "question": "In reference to the heel, what single word describes its structural integrity?",
-        "answer": "Stable"
+        "question": "Based on the materials and build, would you describe this sandal as casual or formal?",
+        "answer": "Formal"
       },
       {
-        "question": "What is the apparent finish of the sandal's outer surface?",
-        "answer": "Matte"
+        "question": "Does the sandal seem to be designed specifically for a particular occasion or purpose?",
+        "answer": "Evening"
       },
       {
-        "question": "Judging from the image, describe the sandal's ankle strap's width.",
-        "answer": "Thin"
-      },
-      {
-        "question": "Based solely on the visual appearance, what is the overall visual appeal of the shoe?",
-        "answer": "Stylish"
-      },
-      {
-        "question": "What is the visible design feature of the sandal's sole, if any?",
-        "answer": "Smooth"
+        "question": "Considering the overall visual impression, is the height of the heel considered low, medium or high?",
+        "answer": "High"
       }
     ]
   }

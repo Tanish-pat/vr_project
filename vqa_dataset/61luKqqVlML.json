@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b168d5b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary material used in manufacturing this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape or form factor of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual inspection, does the phone case exhibit a matte or glossy finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image provided, how would you describe the surface texture of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, are there any noticeable patterns, logos, or designs imprinted on the phone case?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the phone case in the image seem to offer any noticeable raised edges or bevels for screen protection?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent thickness of the phone case, relative to the phone itself, as shown?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Based solely on visual observation, how many cameras does the phone case appear to accommodate?",
+        "answer": "Four"
+      },
+      {
+        "question": "According to the image, what seems to be the cut-out design for the phone's charging port?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Examining the image carefully, are there any visible buttons or ports visible on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the provided image show any evidence of a special coating or protective layer on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, does the case provide full phone coverage or just partial?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the overall visual style of the phone case: minimalist, ornate, or other?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "From the image, can you assess the apparent flexibility of the phone case material?",
+        "answer": "Rigid"
+      }
+    ]
+  }
+]

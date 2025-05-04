@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/08/08222488.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the chair's upholstery?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What material appears to be used for the chair's base?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall shape of the chair's backrest?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent texture of the chair's fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "What type of wood is visible on the chair's sides?",
+        "answer": "Walnut"
+      },
+      {
+        "question": "What is the finish of the metal base?",
+        "answer": "Brass"
+      },
+      {
+        "question": "How many legs does the chair's swivel base have?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the design style of the chair's armrests?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent function of the chair's headrest?",
+        "answer": "Support"
+      },
+      {
+        "question": "What kind of mechanism does the chair appear to employ?",
+        "answer": "Swivel"
+      },
+      {
+        "question": "What is the overall style of the chair?",
+        "answer": "Mid-Century"
+      },
+      {
+        "question": "Does the chair appear to have any visible stitching?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there a noticeable contrast in materials?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What shape best describes the chair's overall form?",
+        "answer": "Reclined"
+      },
+      {
+        "question": "What is the primary function of this piece of furniture?",
+        "answer": "Seating"
+      }
+    ]
+  }
+]

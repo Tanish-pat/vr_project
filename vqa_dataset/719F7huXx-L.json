@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8d3ab489.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bowl's exterior?",
+        "answer": "White"
+      },
+      {
+        "question": "What textural pattern is visibly embossed on the bowl's surface?",
+        "answer": "Cracked"
+      },
+      {
+        "question": "What appears to be the primary material of the bowl's construction?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometrical description of the bowl?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the bowl's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the depth of the bowl relative to its diameter, shallow or deep?",
+        "answer": "Deep"
+      },
+      {
+        "question": "What is the visual impression created by the repeating texture on the bowl's surface?",
+        "answer": "Network"
+      },
+      {
+        "question": "Does the bowl show any visible signs of glazing or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied function of this object, based purely on visual analysis?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Focusing on the bottom edge, how would you describe the profile of the bowl?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Judging from the visual texture, what is the inferred surface tactile quality?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What kind of visual effect does the embossed design impart to the bowl?",
+        "answer": "Textured"
+      },
+      {
+        "question": "How many noticeable design elements are integrated into the bowl's form?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the overall visual style of the bowl, in a single word.",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there evidence of any handles or other additional components to the bowl?",
+        "answer": "No"
+      }
+    ]
+  }
+]

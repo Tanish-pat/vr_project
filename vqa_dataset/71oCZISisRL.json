@@ -13,56 +13,56 @@
         "answer": "Cardinal"
       },
       {
-        "question": "What is the overall shape of the product shown in the image?",
+        "question": "What is the overall shape of the phone case itself, disregarding the design?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the primary material of the phone case itself?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Describe the background color scheme of the image on the phone case?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What is the apparent texture of the phone case's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the image, what season might the phone case design represent?",
+        "question": "Considering the background, what season does the image suggest?",
         "answer": "Winter"
       },
       {
-        "question": "What is the visual style of the bird illustration?",
-        "answer": "Realistic"
+        "question": "What appears to be the main material of the phone case?",
+        "answer": "Plastic"
       },
       {
-        "question": "Based on the image, what is the position of the bird on the branch?",
+        "question": "Describe the texture implied by the image of the bird on the case.",
+        "answer": "Feathery"
+      },
+      {
+        "question": "What color is the background of the phone case's image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent posture of the bird in the phone case design?",
         "answer": "Perched"
       },
       {
-        "question": "What is the apparent level of detail in the bird's depiction?",
+        "question": "Considering the visual details, what is the implied setting of the bird?",
+        "answer": "Snowy"
+      },
+      {
+        "question": "What is the general style of the phone case's design?",
+        "answer": "Photographic"
+      },
+      {
+        "question": "What is the level of detail observed in the bird's depiction?",
         "answer": "High"
       },
       {
-        "question": "What color are the branches in the background of the phone case image?",
+        "question": "Considering the visual clarity, what is the image quality?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the color of the branches in the case's background image?",
         "answer": "Brown"
       },
       {
-        "question": "What is the overall design aesthetic of the phone case?",
-        "answer": "Nature"
+        "question": "What is the overall tone or mood conveyed by the phone case's design?",
+        "answer": "Serene"
       },
       {
-        "question": "Does the phone case design seem to include snow?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the main focus of the image on the phone case?",
+        "question": "Considering the design, what is the main focus of the case's image?",
         "answer": "Bird"
-      },
-      {
-        "question": "What is the phone case's surface finish?",
-        "answer": "Matte"
       }
     ]
   }

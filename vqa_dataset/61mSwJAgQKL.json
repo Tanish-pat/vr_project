@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the humidifier's body?",
+        "question": "What is the dominant color of the humidifier's body?",
         "answer": "White"
       },
       {
         "question": "What material appears to constitute the main water reservoir?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the overall shape of the humidifier's main structure?",
-        "answer": "Cylindrical"
-      },
-      {
-        "question": "What color is the base section near the power button?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What seems to be the material of the transparent upper section?",
         "answer": "Glass"
       },
       {
-        "question": "Is the humidifier's top cover visibly flat or curved?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What is the apparent texture of the humidifier's outer surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color is the central humidifying element inside?",
-        "answer": "Gray"
-      },
-      {
-        "question": "How many visible buttons or controls are there on the device?",
-        "answer": "One"
-      },
-      {
-        "question": "What is the visible shape of the water outlet or nozzle?",
+        "question": "What is the overall shape of the humidifier's outer casing?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What is the apparent design style of the humidifier\u2014modern or antique?",
-        "answer": "Modern"
+        "question": "What color is the base section of the humidifier?",
+        "answer": "Gray"
       },
       {
-        "question": "Does the image show any visible markings or logos on the unit?",
+        "question": "What seems to be the material of the humidifier's base?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the visible texture of the outer glass portion?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the central humidifying element?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the central humidifying element?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What type of control button is visible on the base?",
+        "answer": "Push"
+      },
+      {
+        "question": "Is there an apparent power indicator visible on the unit?",
         "answer": "Yes"
       },
       {
-        "question": "What seems to be the dominant visual feature of the upper part?",
-        "answer": "Transparency"
+        "question": "What is the apparent location of the power input?",
+        "answer": "Base"
       },
       {
-        "question": "What is the most visually striking design element of the base?",
-        "answer": "Color-contrast"
+        "question": "Does the humidifier appear to have a visible water level indicator?",
+        "answer": "No"
       },
       {
-        "question": "Does the base have a visible power input connector?",
-        "answer": "Yes"
+        "question": "What is the apparent finish of the plastic parts?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How many visible buttons are present on the device's base?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the visible design style of the humidifier?",
+        "answer": "Minimalist"
       }
     ]
   }

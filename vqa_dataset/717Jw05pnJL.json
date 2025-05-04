@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the visible surface of the men's formal shoes?",
+        "question": "What is the dominant color of the men's formal shoes shown in the image?",
         "answer": "Brown"
       },
       {
-        "question": "What is the primary material appearing to constitute the upper portion of these dress shoes?",
+        "question": "What is the primary material that appears to constitute the upper part of these shoes?",
         "answer": "Patent"
       },
       {
-        "question": "Considering the overall silhouette, what is the most precise shape of the toe-box of these shoes?",
-        "answer": "Pointed"
-      },
-      {
-        "question": "Based on the visible lacing system, what type of closure mechanism do these formal shoes possess?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "Describe the texture apparent on the visible area of the shoe's upper, considering its sheen and lines?",
+        "question": "Considering the image, what is the most noticeable texture apparent on the shoe's surface?",
         "answer": "Shiny"
       },
       {
-        "question": "What secondary color accents the primary color along the edges and seams of the shoe?",
-        "answer": "Tan"
-      },
-      {
-        "question": "Considering the heel's design and construction, what is its general height relative to the sole?",
-        "answer": "Low"
-      },
-      {
-        "question": "What design element, beyond the stitching, is visually prominent on the upper of these shoes?",
+        "question": "What design element is prominently featured along the sides of the footwear?",
         "answer": "Stripes"
       },
       {
-        "question": "Regarding the overall construction, what is the style of these shoes, considering their features?",
-        "answer": "Oxford"
+        "question": "Based on the provided image, what is the style of closure system used in these shoes?",
+        "answer": "Lace-up"
       },
       {
-        "question": "What is the apparent finish or treatment applied to the leather or leather-like material of these shoes?",
+        "question": "Describe the overall shape of the toe area of the displayed men's dress shoes.",
+        "answer": "Pointed"
+      },
+      {
+        "question": "What is the color of the visible stitching visible on the displayed dress shoes?",
+        "answer": "Tan"
+      },
+      {
+        "question": "What is the visible color of the sole that is visible on the bottom part of the shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent construction of the heel of the shoes shown in the picture?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the type of footwear depicted in the given image?",
+        "answer": "Oxfords"
+      },
+      {
+        "question": "What is the general style of these dress shoes that are seen in this image?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Considering the image, what appears to be the finish of the leather-like material used?",
         "answer": "Glossy"
       },
       {
-        "question": "Considering the sole's appearance, what seems to be its material composition?",
-        "answer": "Rubber"
+        "question": "What design detail is present near the heel of the shoes?",
+        "answer": "Stitching"
       },
       {
-        "question": "Describe the visible stitching pattern observed around the eyelets and along the seams of the shoe?",
-        "answer": "Straight"
+        "question": "What kind of lines are visible along the sides of the shoes, that run from the toe to the heel?",
+        "answer": "Vertical"
       },
       {
-        "question": "What is the most noticeable embellishment, other than the color, decorating these men's shoes?",
-        "answer": "Lines"
-      },
-      {
-        "question": "Judging by the image, what is the most prominent style element that impacts the shoe's overall look?",
+        "question": "Based on the picture, what is the overall appearance or look of these shoes?",
         "answer": "Sleek"
-      },
-      {
-        "question": "From the visible portion, what is the apparent condition of the shoes in the image?",
-        "answer": "New"
       }
     ]
   }

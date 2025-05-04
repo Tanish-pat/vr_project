@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the fireproof safe's exterior?",
+        "question": "What is the predominant color of the safe's exterior?",
         "answer": "Black"
       },
       {
-        "question": "What material appears to be used for the safe's construction?",
+        "question": "What is the apparent material of the safe's main body?",
         "answer": "Steel"
       },
       {
-        "question": "What is the primary shape of the overall safe structure?",
-        "answer": "Cubic"
-      },
-      {
-        "question": "What type of locking mechanism is visibly integrated into the safe's door?",
+        "question": "What type of locking mechanism is visibly displayed on the safe?",
         "answer": "Digital"
       },
       {
-        "question": "Describe the visible handle's apparent material and finish?",
-        "answer": "Metal"
+        "question": "What shape best describes the overall form of the safe?",
+        "answer": "Cuboid"
       },
       {
-        "question": "What is the color of the numerical keypad on the safe's door?",
+        "question": "What color is the keypad's lettering or numbers?",
         "answer": "Silver"
       },
       {
-        "question": "What is the texture of the safe's exterior surface?",
+        "question": "What is the apparent material of the handle?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the visible texture of the safe's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Does the safe display any noticeable visible seams or joins?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What appears to be the overall size of the presented safe?",
-        "answer": "Small"
-      },
-      {
-        "question": "What is the apparent condition of the product based on visible markings?",
-        "answer": "Renewed"
-      },
-      {
-        "question": "What is the visible style of the door handle?",
-        "answer": "Recessed"
-      },
-      {
-        "question": "How many number buttons are seen on the digital lock?",
-        "answer": "Twelve"
-      },
-      {
-        "question": "Describe the appearance of the keypad's surrounding bezel?",
+        "question": "Describe the shape of the keypad's button layout?",
         "answer": "Circular"
       },
       {
-        "question": "What additional markings are present on the product image?",
-        "answer": "None"
+        "question": "What is the color of the handle?",
+        "answer": "Silver"
       },
       {
-        "question": "Is the door of the safe visibly flush with the body?",
-        "answer": "Yes"
+        "question": "Is there any visible branding or logo on the safe?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the orientation of the handle relative to the safe?",
+        "answer": "Lateral"
+      },
+      {
+        "question": "What is the overall size of the safe relative to a typical room?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image, is the safe new or used?",
+        "answer": "Renewed"
+      },
+      {
+        "question": "How many numerical buttons are visibly present on the keypad?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "What type of door opening mechanism does the safe appear to have?",
+        "answer": "Handle"
       }
     ]
   }

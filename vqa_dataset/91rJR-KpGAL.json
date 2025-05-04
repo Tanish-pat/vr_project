@@ -9,60 +9,60 @@
         "answer": "Brown"
       },
       {
-        "question": "What material primarily constitutes the cart's structural frame?",
+        "question": "What material constitutes the structural frame of this three-tiered cart?",
         "answer": "Metal"
       },
       {
-        "question": "Describe the overall shape of the presented three-tiered serving cart?",
+        "question": "Describe the overall shape of this mobile storage unit with wooden shelves and a metal frame?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the color of the metal framework supporting the wooden shelves?",
+        "question": "Considering the visible wheels, what is the primary function suggested by this cart's design?",
+        "answer": "Mobile"
+      },
+      {
+        "question": "What is the dominant color of the metal framework supporting the wooden shelves?",
         "answer": "Black"
       },
       {
-        "question": "How many levels or shelves does this kitchen cart visibly possess?",
-        "answer": "Three"
-      },
-      {
-        "question": "What type of wheels are affixed to the base of this rolling cart?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the apparent finish of the wooden shelves on the kitchen cart?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Characterize the visible texture of the wooden shelves?",
+        "question": "Considering the visual texture, how would you describe the surface of the wooden shelves?",
         "answer": "Smooth"
       },
       {
-        "question": "What design element connects the vertical metal supports?",
+        "question": "How many distinct tiers or shelves are visibly present on this rolling cart?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the pattern formed by the metal supports connecting the wooden shelves?",
         "answer": "X-shaped"
       },
       {
-        "question": "Considering the cart's design, what is its probable function?",
-        "answer": "Serving"
+        "question": "What type of wheels are affixed to the bottom of this three-tiered wooden cart?",
+        "answer": "Small"
       },
       {
-        "question": "Describe the visible style of the cart's metal framework?",
+        "question": "What is the apparent finish of the wooden shelves on the rolling cart shown?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the style of the metal bracing connecting the three levels of this cart?",
         "answer": "Industrial"
       },
       {
-        "question": "What is the apparent material of the shelves on this rolling cart?",
+        "question": "Describe the visual appearance of the metal supports in terms of their thickness",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the apparent construction material of the cart's shelves, based on visual inspection?",
         "answer": "Wood"
       },
       {
-        "question": "Does the cart feature any noticeable decorative elements?",
-        "answer": "No"
+        "question": "Considering the design, for what purpose might this cart primarily be used?",
+        "answer": "Storage"
       },
       {
-        "question": "What is the primary visual characteristic of the cart's wheels?",
-        "answer": "Round"
-      },
-      {
-        "question": "Considering the overall construction, what is the style of this rolling cart?",
-        "answer": "Rustic"
+        "question": "Based on the image, what is the general condition of this three-shelf rolling cart?",
+        "answer": "New"
       }
     ]
   }

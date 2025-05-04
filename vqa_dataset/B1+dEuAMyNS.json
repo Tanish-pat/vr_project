@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b8e7fa59.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in its entirety?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible weave, what is the most apparent textile structure?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image's texture, what is the general feel of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the subtle variations in tone, what is the overall visual texture of the material?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the fabric display a noticeable pattern or design?",
+        "answer": "No"
+      },
+      {
+        "question": "Describing the surface, what kind of visual effect does the material present?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what kind of sheen is exhibited by the fabric?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Considering the fiber arrangement, what is the general appearance of the fabric?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the implied weight or density of the textile based solely on its appearance?",
+        "answer": "Medium"
+      },
+      {
+        "question": "In terms of its texture, how would you describe the fabric's visual depth?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Observing the image, is the fabric noticeably translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the overall visual impression of the color variation across the fabric?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the absence of any visible embellishments, what is the nature of its design?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the visual texture, what is the likely drape of this textile?",
+        "answer": "Drapable"
+      },
+      {
+        "question": "Is there evidence of any discernible irregularities or flaws on the fabric's surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

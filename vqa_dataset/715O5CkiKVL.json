@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the visible plush outer surface of the pet bed?",
+        "question": "What is the dominant color of the pet bed's outer plush?",
         "answer": "Beige"
       },
       {
-        "question": "What appears to be the dominant texture of the outer material of the pet bed?",
-        "answer": "Fluffy"
-      },
-      {
-        "question": "What is the overall shape of the assembled pet bed shown in the images?",
+        "question": "What is the overall shape of the assembled pet bed?",
         "answer": "Round"
       },
       {
-        "question": "What seems to be the main filling material used to stuff this pet bed?",
-        "answer": "Polyester"
+        "question": "What is the apparent texture of the outer fabric of the pet bed?",
+        "answer": "Fluffy"
       },
       {
-        "question": "What kind of closure mechanism seems to be used to access the interior of the pet bed?",
+        "question": "What material appears to constitute the primary filling of the bed?",
+        "answer": "Stuffing"
+      },
+      {
+        "question": "What type of closure mechanism is visible on the pet bed?",
         "answer": "Zipper"
       },
       {
-        "question": "Judging by the images, does the pet bed appear to have a raised rim?",
-        "answer": "Yes"
+        "question": "Does the image show the pet bed in a compressed or expanded state?",
+        "answer": "Expanded"
       },
       {
-        "question": "Considering the images, what seems to be the general purpose of this product?",
-        "answer": "Pet"
+        "question": "What is the visible construction method for the rim of the pet bed?",
+        "answer": "Stuffed"
       },
       {
-        "question": "Does the product appear to be designed for an animal of a particular size?",
-        "answer": "Small"
+        "question": "What is the suggested waiting period after unpacking, in hours?",
+        "answer": "24"
       },
       {
-        "question": "Based on the provided images, what is the apparent condition of the product shown before assembly?",
-        "answer": "Compressed"
+        "question": "What action is depicted for initially restoring the bed's shape?",
+        "answer": "Shaking"
       },
       {
-        "question": "Considering the images, what is the apparent state of the product after it has been completely assembled?",
-        "answer": "Plump"
+        "question": "What additional component needs stuffing, besides the main body?",
+        "answer": "Rim"
       },
       {
-        "question": "What is the most apparent stage of the assembly instructions depicted which involves shaking?",
-        "answer": "Fluffing"
+        "question": "What is the state of the zipper in the correctly assembled pet bed?",
+        "answer": "Closed"
       },
       {
-        "question": "Does the packaging appear to be vacuum-sealed before the product is initially opened?",
-        "answer": "Yes"
+        "question": "What is the initial packaging state of the pet bed?",
+        "answer": "Vacuum"
       },
       {
-        "question": "Based solely on visual inspection, what seems to be the material of the inner cushion?",
-        "answer": "Foam"
+        "question": "What is the overall style of the pet bed\u2019s design?",
+        "answer": "Simple"
       },
       {
-        "question": "In the provided image sequence, what is the primary tool used for filling the pet bed?",
-        "answer": "Hands"
+        "question": "What is the visual impression of the plush material's density?",
+        "answer": "Thick"
       },
       {
-        "question": "Judging from the images, does the product demonstrate any particular assembly difficulty?",
-        "answer": "Yes"
+        "question": "What is the primary function of the illustrated item?",
+        "answer": "Petbed"
       }
     ]
   }

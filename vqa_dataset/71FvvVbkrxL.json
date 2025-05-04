@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cd6b8671.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the lipstick in the image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent finish of the lip gloss displayed?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Describe the overall shape of the lipstick container.",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the lipstick tube?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What color is the applicator of the lip gloss?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture of the lip gloss, based on visual inspection?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the color of the lip gloss shown in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the lipstick, what is the visual appearance of its surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What design element is noticeable on the lip gloss tube?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the color of the primary branding details on the items?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent shape of the lip gloss container?",
+        "answer": "Tubular"
+      },
+      {
+        "question": "Based on appearance, what is the probable consistency of the lipstick?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What is the visible material composition of the lip gloss container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What seems to be the method of application for the lipstick?",
+        "answer": "Twist-up"
+      },
+      {
+        "question": "Considering the image, what appears to be the cap's material on the lipstick?",
+        "answer": "Metal"
+      }
+    ]
+  }
+]

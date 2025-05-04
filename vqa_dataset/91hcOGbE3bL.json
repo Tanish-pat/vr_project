@@ -5,15 +5,15 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the chair's upholstery?",
+        "question": "What is the predominant color of the chair's upholstery?",
         "answer": "Beige"
       },
       {
-        "question": "What appears to be the primary material of the chair's cushion?",
+        "question": "What appears to be the primary material of the chair's upholstery?",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the overall shape of the chair's backrest and seat?",
+        "question": "Describe the overall shape of the chair's seating area?",
         "answer": "Rectangular"
       },
       {
@@ -21,48 +21,48 @@
         "answer": "Smooth"
       },
       {
-        "question": "What color are the chair's legs?",
+        "question": "What color are the visible legs of the chair?",
         "answer": "Brown"
       },
       {
-        "question": "What material are the chair's legs seemingly made of?",
+        "question": "What is the apparent material of the chair's legs?",
         "answer": "Wood"
       },
       {
-        "question": "What is the style of the chair's armrests?",
+        "question": "Does the chair appear to have armrests, and if so, what is their shape?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the style of the chair's backrest?",
         "answer": "Straight"
       },
       {
-        "question": "Does the chair appear to have any noticeable patterns on its upholstery?",
-        "answer": "No"
+        "question": "Is there any visible stitching or seams on the upholstery?",
+        "answer": "Yes"
       },
       {
-        "question": "Considering the chair's design, what is its overall style?",
+        "question": "What is the overall design style of the chair?",
         "answer": "Modern"
       },
       {
-        "question": "How many cushions are visible on the chair's seating area?",
-        "answer": "One"
-      },
-      {
-        "question": "What is the apparent height of the chair's backrest relative to the seat?",
-        "answer": "Medium"
-      },
-      {
-        "question": "Describe the visible seams on the chair's upholstery?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What is the approximate number of legs supporting the chair?",
+        "question": "How many visible legs does the chair have?",
         "answer": "Four"
       },
       {
-        "question": "Based on its size, what is the most likely use of this chair?",
-        "answer": "Seating"
+        "question": "Describe the height of the chair's backrest relative to its seat?",
+        "answer": "Medium"
       },
       {
-        "question": "Judging by its appearance, for how many people is this chair designed?",
-        "answer": "One"
+        "question": "Does the chair appear to be cushioned or filled?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent depth of the chair's seat?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Does the chair appear to be suitable for one or two people?",
+        "answer": "Two"
       }
     ]
   }

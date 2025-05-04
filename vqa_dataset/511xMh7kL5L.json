@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4eec62ec.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material of the product contained within?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall shape of the individual product units?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the texture implied by the appearance of the product?",
+        "answer": "Fluffy"
+      },
+      {
+        "question": "What is the design pattern featured on the packaging label?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the color of the hang hole on the packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the shape of the product packaging itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material of the outer packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the product packaging, what is the style of the label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the stated count of cotton balls in each bag?",
+        "answer": "300"
+      },
+      {
+        "question": "What is the brand name printed on the product packaging?",
+        "answer": "SOUMO"
+      },
+      {
+        "question": "What is the overall state of the cotton balls inside (loose or compressed)?",
+        "answer": "Loose"
+      },
+      {
+        "question": "What type of image is presented on the packaging besides text?",
+        "answer": "Pattern"
+      },
+      {
+        "question": "What is the general visual impression of the packaging design?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the transparency level of the packaging material?",
+        "answer": "Slight"
+      }
+    ]
+  }
+]

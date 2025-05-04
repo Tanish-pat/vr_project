@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the depicted floral pattern on the phone case?",
+        "question": "What is the predominant color of the floral design on the phone case?",
         "answer": "Blue"
       },
       {
-        "question": "What type of flowers are predominantly shown in the phone case's design?",
+        "question": "What type of flowers are depicted in the phone case's image?",
         "answer": "Forget-me-nots"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the overall shape of the protective casing shown in the provided image?",
+        "question": "What is the overall shape of the protective phone case shown?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the image, what is the apparent texture of the phone case's surface?",
-        "answer": "Smooth"
+        "question": "What appears to be the primary material of this phone case?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the general visual style of the floral print featured on the phone case?",
-        "answer": "Soft"
-      },
-      {
-        "question": "What seems to be the level of transparency of the phone case's material?",
-        "answer": "Translucent"
-      },
-      {
-        "question": "What is the color of the background within the floral design on the phone case?",
-        "answer": "Green"
-      },
-      {
-        "question": "Based on the image, describe the visual clarity of the printed floral image.",
+        "question": "Considering the image, what is the apparent transparency of the case?",
         "answer": "Clear"
       },
       {
-        "question": "What is the apparent finish of the phone case's outer surface, glossy or matte?",
+        "question": "Describe the background color behind the flowers on the phone case?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the apparent texture of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there a noticeable pattern on the phone case?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the general style of the image on the phone cover?",
+        "answer": "Nature"
+      },
+      {
+        "question": "Considering the image, is the phone case matte or glossy?",
         "answer": "Glossy"
       },
       {
-        "question": "Describe the visual density of the floral arrangement on the phone case.",
-        "answer": "Sparse"
+        "question": "What color are the stems of the flowers printed on the case?",
+        "answer": "Blue"
       },
       {
-        "question": "Considering the image, what is the style of the depicted flowers?",
-        "answer": "Realistic"
-      },
-      {
-        "question": "Describe the visual saturation of the colors in the floral design.",
-        "answer": "High"
-      },
-      {
-        "question": "How many distinct floral stems are prominently visible in the design?",
+        "question": "How many individual flower stalks are prominently featured?",
         "answer": "Three"
       },
       {
-        "question": "What is the overall visual effect created by the flower and background colors?",
-        "answer": "Cool"
+        "question": "Does the image on the case appear to be high resolution?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the depicted depth of field in the printed image?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Based on the image, what is the case's apparent thickness?",
+        "answer": "Slim"
       }
     ]
   }

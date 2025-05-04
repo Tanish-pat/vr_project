@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's design?",
+        "question": "What is the predominant color of the design on the phone case?",
         "answer": "Red"
       },
       {
-        "question": "What shape is the central design element on the phone case?",
+        "question": "What shape is the main design element on the phone case?",
         "answer": "Heart"
       },
       {
-        "question": "What material appears to simulate the texture of the heart design?",
-        "answer": "Diamonds"
+        "question": "What is the apparent texture of the red heart design?",
+        "answer": "Sparkly"
       },
       {
-        "question": "What is the overall color of the phone case's background?",
+        "question": "What is the overall shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is depicted within the red heart-shaped design?",
+        "answer": "Profile"
+      },
+      {
+        "question": "What color is the background of the phone case?",
         "answer": "Black"
       },
       {
-        "question": "What figure is subtly embedded within the heart-shaped design?",
-        "answer": "Woman"
-      },
-      {
-        "question": "What kind of image is depicted on the phone case?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "What is the apparent finish of the phone case material?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What appears to be the material of the phone case itself?",
+        "question": "What appears to be the material of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Does the phone case design feature any text or lettering?",
+        "question": "What is the style of the profile within the heart design?",
+        "answer": "Feminine"
+      },
+      {
+        "question": "What kind of image is the main design element?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Considering the overall look, what is the design aesthetic?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Is the design on the phone case symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the color of the small, shiny elements in the design?",
+        "answer": "Red"
+      },
+      {
+        "question": "Does the phone case have any noticeable markings aside from the design?",
         "answer": "No"
       },
       {
-        "question": "What is the general style of the graphic design on the case?",
-        "answer": "Minimalist"
+        "question": "What is the approximate size of the featured design relative to the case?",
+        "answer": "Medium"
       },
       {
-        "question": "Considering the visual elements, what is the case\u2019s implied theme?",
-        "answer": "Romance"
-      },
-      {
-        "question": "Is the image printed directly onto or integrated into the case?",
-        "answer": "Printed"
-      },
-      {
-        "question": "What is the apparent orientation of the main design element?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What is the primary visual effect created by the red design?",
-        "answer": "Sparkle"
-      },
-      {
-        "question": "How would you characterize the overall visual style of this phone case?",
+        "question": "What is the overall visual impression of the phone case?",
         "answer": "Stylish"
       }
     ]

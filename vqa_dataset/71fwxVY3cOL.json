@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant design style showcased on the phone case?",
+        "question": "What is the dominant design style depicted on the phone case?",
         "answer": "Geometric"
       },
       {
-        "question": "What color is the Eiffel Tower depicted in the phone case design?",
-        "answer": "Black"
+        "question": "What prominent architectural landmark is centrally featured?",
+        "answer": "Eiffel"
       },
       {
-        "question": "What famous London landmark is partially visible in the phone case's artwork?",
-        "answer": "BigBen"
-      },
-      {
-        "question": "What is the overall color scheme of the background polygonal pattern?",
+        "question": "Describe the color palette used in the polygonal background design.",
         "answer": "Multicolored"
       },
       {
-        "question": "Describe the shape of the individual geometric shapes forming the background?",
-        "answer": "Triangular"
+        "question": "What is the primary color of the architectural silhouettes?",
+        "answer": "Black"
       },
       {
-        "question": "What material appears to be used for the phone case's construction?",
+        "question": "What material appears to be used for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the general appearance of the design's overall texture?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the primary architectural structure featured in the phone case design?",
-        "answer": "EiffelTower"
-      },
-      {
-        "question": "What is the style of the silhouettes used for the landmarks?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What is the approximate number of prominent landmarks depicted in the art?",
-        "answer": "Four"
-      },
-      {
-        "question": "What color is most prevalent in the background polygon pattern?",
-        "answer": "Orange"
-      },
-      {
-        "question": "Does the case appear to have a matte or glossy finish?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the overall shape of the phone case itself?",
+        "question": "What is the overall shape of the product being showcased?",
         "answer": "Rectangular"
       },
       {
-        "question": "Besides the Eiffel Tower, what other major city is represented?",
-        "answer": "London"
+        "question": "What is the texture of the depicted phone case surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the general feeling evoked by the color palette?",
+        "question": "What other famous landmark is visible to the right of the Eiffel Tower?",
+        "answer": "BigBen"
+      },
+      {
+        "question": "What kind of graphic design technique is utilized on the case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Besides the Eiffel Tower and Big Ben, what other structure is depicted?",
+        "answer": "Mosque"
+      },
+      {
+        "question": "What is the general style of the architectural representations?",
+        "answer": "Silhouette"
+      },
+      {
+        "question": "Describe the look and feel of the background's color blocks.",
+        "answer": "Polygonal"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the overall impression of the case's design?",
         "answer": "Vibrant"
+      },
+      {
+        "question": "Is the image of the landmarks highly detailed or simplified?",
+        "answer": "Simplified"
       }
     ]
   }

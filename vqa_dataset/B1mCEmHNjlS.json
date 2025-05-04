@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b26d2b4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the garment's label, as shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What brand name is prominently displayed on the clothing label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the apparent texture of the fabric label's material, based on the visual depiction?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the clothing label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual details, what appears to be the primary material of the label itself?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the type of printing method used for the text on the label, judging by the image?",
+        "answer": "Ink"
+      },
+      {
+        "question": "What is the orientation of the text on the fabric label, as viewed in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the image alone, what is the apparent size of the label relative to a standard t-shirt?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on visual inspection, what is the general finish of the edges of the clothing label?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "Are there any noticeable graphic symbols displayed on the label, besides the text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, what is the apparent finish of the label's textual information?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Describe the overall visual style of the clothing label's lettering.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent condition of the label based on what is visible in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the image's detail, what is the contrast between the label and the garment?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based purely on visual observation, is the label attached to the fabric using visible stitching?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

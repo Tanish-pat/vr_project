@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the presented square object?",
+        "question": "What is the predominant color of the displayed item?",
         "answer": "White"
       },
       {
-        "question": "Considering the overall form, what geometric shape best describes the item?",
+        "question": "What appears to be the primary material used in its construction?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Considering its overall form, what geometric shape best describes the object?",
         "answer": "Square"
       },
       {
-        "question": "Based on visual inspection, what appears to be the primary material used in its construction?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Observing the surface, what is the apparent texture of the object's external finish?",
+        "question": "Observing the edges, what is the general texture of the item's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Does the object exhibit any noticeable patterns or designs on its visible surfaces?",
+        "question": "Based on visual inspection, does the object exhibit any visible patterns or designs?",
         "answer": "None"
       },
       {
-        "question": "Judging from the image, does the object show signs of significant reflectivity?",
-        "answer": "Yes"
+        "question": "Judging by its appearance, what is the apparent finish of the item's surface?",
+        "answer": "Glossy"
       },
       {
-        "question": "Considering the object's form factor, what might its intended purpose be?",
-        "answer": "Cover"
-      },
-      {
-        "question": "Examining the corners, what is the noticeable characteristic of its edges?",
-        "answer": "Sharp"
-      },
-      {
-        "question": "Is there any visible text or branding present on the external surface of the product?",
+        "question": "Does the item show any signs of visible markings or text on its surface?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent thickness of the object relative to its other dimensions?",
+        "question": "Considering its size and shape, what is its likely functionality or purpose?",
+        "answer": "Tile"
+      },
+      {
+        "question": "What is the apparent thickness of the item as shown in the image?",
         "answer": "Thin"
       },
       {
-        "question": "Considering the overall design aesthetic, would you describe it as ornate or minimalist?",
+        "question": "From the provided image, is the object uniformly colored across its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the object's surface appear to have any noticeable irregularities or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the object reflective or matte in its surface finish?",
+        "answer": "Reflective"
+      },
+      {
+        "question": "What is the overall impression of the object's visual appeal, simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the clean lines and uniform color, what design aesthetic best suits this?",
         "answer": "Minimalist"
       },
       {
-        "question": "Regarding the object's edges, do they appear to be perfectly aligned or uneven?",
-        "answer": "Aligned"
-      },
-      {
-        "question": "Does the visual presentation suggest any visible components or parts beyond a single unitary body?",
+        "question": "Are there any visible seams or joints apparent in the object's structure?",
         "answer": "No"
-      },
-      {
-        "question": "Does the item present any noticeable imperfections or signs of wear on its surface?",
-        "answer": "No"
-      },
-      {
-        "question": "Judging by its appearance, is this item designed to be handled frequently or used in a protective capacity?",
-        "answer": "Protective"
       }
     ]
   }

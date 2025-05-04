@@ -9,11 +9,11 @@
         "answer": "Black"
       },
       {
-        "question": "What type of floral pattern is depicted on the phone case?",
+        "question": "What type of floral pattern adorns the phone case?",
         "answer": "Roses"
       },
       {
-        "question": "Describe the overall color palette of the floral design on the case?",
+        "question": "Describe the overall color palette of the roses on the case.",
         "answer": "Pastel"
       },
       {
@@ -21,48 +21,48 @@
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the general shape of the phone case?",
-        "answer": "Rectangular"
+        "question": "Considering the image, what is the apparent finish of the phone case?",
+        "answer": "Matte"
       },
       {
-        "question": "Based on visual inspection, what is the texture of the phone case?",
-        "answer": "Smooth"
+        "question": "What shape does the phone case closely resemble?",
+        "answer": "Rectangle"
       },
       {
-        "question": "Are there any noticeable cutouts or openings on the phone case?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Considering the design, what style would you classify this phone case?",
+        "question": "Based on the visual, what is the design style of the phone case?",
         "answer": "Floral"
       },
       {
-        "question": "What is the level of detail in the roses' depiction on the case?",
-        "answer": "High"
+        "question": "What is the apparent texture of the phone case surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "Does the case's design appear to have a matte or glossy finish?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What colors are the roses predominantly depicted in?",
-        "answer": "Peach"
-      },
-      {
-        "question": "What color are some of the leaves and smaller elements?",
-        "answer": "Green"
-      },
-      {
-        "question": "What is the general style of the roses in the design?",
+        "question": "What is the overall style of the rose illustration?",
         "answer": "Vintage"
       },
       {
-        "question": "Does the case appear to fully enclose the phone?",
-        "answer": "Yes"
+        "question": "Are the roses depicted realistically or stylized?",
+        "answer": "Stylized"
       },
       {
-        "question": "Is the phone case design symmetrical or asymmetrical?",
-        "answer": "Asymmetrical"
+        "question": "What color are the leaves and stems in the floral design?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the visible edge design of the phone case?",
+        "answer": "Plain"
+      },
+      {
+        "question": "How many distinct colors of roses are predominantly visible?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the case show any additional text or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general condition of the phone case shown?",
+        "answer": "New"
       }
     ]
   }

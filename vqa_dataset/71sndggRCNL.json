@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c012192a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts label area presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary font style used for the \u2018Calories\u2019 value?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the unit of measurement for the serving size specified on the label?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "What is the numerical value of total fat grams shown per serving?",
+        "answer": "Fourteen"
+      },
+      {
+        "question": "What is the color of the background of the nutrition facts label section?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what is the type of information presented on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the unit of measurement used for the amount of saturated fat?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the value for total carbohydrate grams per serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the numerical value for calories per serving as shown on the label?",
+        "answer": "OneHundredThirty"
+      },
+      {
+        "question": "What is the unit of measurement for the serving size in milliliters?",
+        "answer": "Milliliters"
+      },
+      {
+        "question": "What is the value representing the percentage of daily value for total fat?",
+        "answer": "Eighteen"
+      },
+      {
+        "question": "What is the numerical value for protein in grams per serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the number of servings shown as being in the container?",
+        "answer": "ThirtyThree"
+      },
+      {
+        "question": "What is the value for sodium in milligrams per serving?",
+        "answer": "Zero"
+      }
+    ]
+  }
+]

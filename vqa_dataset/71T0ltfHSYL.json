@@ -1,0 +1,65 @@
+[
+  {
+    "path": "images/small/7a/7a250242.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text printed on the packaging?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall shape of the displayed product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the background color of the packaging's primary surface?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Describing the text's typeface, is it serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the orientation of the text on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the text's arrangement, is it aligned left, right, or centered?",
+        "answer": "Left"
+      },
+      {
+        "question": "Does the text appear to be printed using a single or multiple colors?",
+        "answer": "Single"
+      },
+      {
+        "question": "Considering the packaging's overall texture, is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual elements, what is the packaging primarily used for?",
+        "answer": "Labeling"
+      },
+      {
+        "question": "Observing the visual style, is the packaging design simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the case of the letters used in the packaging's text?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Does the image display a glossy or matte finish on the packaging?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is the text displayed in a bold or regular weight?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

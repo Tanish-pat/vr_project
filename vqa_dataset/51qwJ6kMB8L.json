@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the rod and brackets?",
+        "question": "What is the predominant color of the clothes rod?",
         "answer": "White"
       },
       {
-        "question": "What is the overall shape of the primary hanging component?",
-        "answer": "Rod"
-      },
-      {
-        "question": "What appears to be the material of the central supporting bar?",
+        "question": "What is the primary material used in the construction of the rod?",
         "answer": "Metal"
       },
       {
-        "question": "What kind of connection is used between the rod and brackets?",
-        "answer": "Screw"
+        "question": "What is the overall shape of the main supporting structure?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Describe the texture of the main horizontal bar, based solely on visual observation?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the visible design of the connecting wires or springs?",
-        "answer": "Coiled"
-      },
-      {
-        "question": "Considering the brackets, what is their attachment style to the support structure?",
-        "answer": "Hook"
-      },
-      {
-        "question": "What shape are the end caps on the central horizontal bar?",
-        "answer": "Round"
-      },
-      {
-        "question": "How many main support brackets are clearly visible in the image?",
-        "answer": "Two"
-      },
-      {
-        "question": "Based on visual characteristics, what seems to be the intended use of this item?",
-        "answer": "Storage"
-      },
-      {
-        "question": "What is the apparent finish of the metal components in the image?",
+        "question": "What is the apparent finish of the metal components?",
         "answer": "Matte"
       },
       {
-        "question": "Describe the visual appearance of the connection points between the rod and springs.",
-        "answer": "Threaded"
+        "question": "What is the design of the central rod itself?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "What does the design of the spring-like connections suggest about the rod's functionality?",
-        "answer": "Adjustable"
+        "question": "What type of connection is used to join the support arms to the rod?",
+        "answer": "Screwed"
       },
       {
-        "question": "Considering the overall dimensions, what is the likely installation location of this product?",
-        "answer": "Cabinet"
+        "question": "What kind of mechanism allows for adjustable length?",
+        "answer": "Spring"
       },
       {
-        "question": "What is the general style of this product, considering its design and functionality?",
-        "answer": "Simple"
+        "question": "What is the texture of the main support bar visible in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall length of the rod relative to its width?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the apparent mounting style for this garment rack?",
+        "answer": "Over-the-door"
+      },
+      {
+        "question": "What is the shape of the brackets at each end of the rod?",
+        "answer": "L-shaped"
+      },
+      {
+        "question": "What detail is visible where the spring is connected to the rod?",
+        "answer": "Joint"
+      },
+      {
+        "question": "What is the visible style of the end caps on the main rod?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the rod's functionality, what is its intended use?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the visual prominence of any visible screws or fasteners?",
+        "answer": "Minimal"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant shape of the pendant element in this necklace?",
+        "question": "What is the primary shape of the pendant element of this necklace?",
         "answer": "Circular"
       },
       {
-        "question": "What precious metal appears to be used in the construction of this necklace?",
+        "question": "What is the dominant metal color visibly apparent on the necklace?",
         "answer": "Silver"
       },
       {
-        "question": "What is the primary design feature on the circular pendant?",
+        "question": "What is the design element superimposed onto the circular pendant?",
         "answer": "Cross"
       },
       {
-        "question": "What kind of stones or embellishments are visible on the cross element?",
-        "answer": "Crystals"
+        "question": "What appears to be the material of the smaller stones on the cross?",
+        "answer": "Cubic"
       },
       {
-        "question": "What color are the small embellishments inlaid into the cross design?",
-        "answer": "Clear"
-      },
-      {
-        "question": "Describe the overall style of the pendant's cross configuration?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What is the texture of the circular pendant's surface appear to be?",
+        "question": "What is the apparent texture of the circular pendant's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent type of chain used with this pendant necklace?",
-        "answer": "Cable"
+        "question": "What is the overall style of the necklace, judging from the image?",
+        "answer": "Simple"
       },
       {
-        "question": "What is the overall color scheme of the entire necklace and pendant?",
-        "answer": "Silver"
-      },
-      {
-        "question": "Considering the cross design, what is the implied religious affiliation?",
-        "answer": "Christian"
-      },
-      {
-        "question": "What is the apparent material of the necklace chain itself?",
+        "question": "What seems to be the material of the necklace chain?",
         "answer": "Metal"
       },
       {
-        "question": "Describe the setting of the small embellishments on the cross?",
-        "answer": "Prong"
+        "question": "What type of chain style does the necklace exhibit, based on visual analysis?",
+        "answer": "Cable"
       },
       {
-        "question": "What is the apparent finish of the metal components?",
-        "answer": "Shiny"
+        "question": "Considering the cross, what is the overall religious connotation of this piece?",
+        "answer": "Christian"
       },
       {
-        "question": "Considering the design, what is the overall aesthetic of the necklace?",
-        "answer": "Minimalist"
+        "question": "What is the color of the small stones embellishing the cross design?",
+        "answer": "Clear"
       },
       {
-        "question": "Describe the apparent thickness of the circular pendant?",
+        "question": "Based on visual inspection, what kind of setting holds the small stones?",
+        "answer": "Pave"
+      },
+      {
+        "question": "What is the general length of the necklace's chain, as it appears in the image?",
+        "answer": "Long"
+      },
+      {
+        "question": "Considering the cross's visual presence, what is its orientation on the pendant?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What appears to be the relative thickness of the circular pendant?",
         "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent finish of the metal components, shiny or matte?",
+        "answer": "Shiny"
       }
     ]
   }

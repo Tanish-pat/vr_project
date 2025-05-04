@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/68/685bee97.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the primary function of this visually presented information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the specified serving size for this food item, as indicated in the text?",
+        "answer": "Bun"
+      },
+      {
+        "question": "Based on the visible text, what is the total number of servings contained within this product's packaging?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the total number of calories per serving, as clearly presented in the image?",
+        "answer": "160"
+      },
+      {
+        "question": "What is the amount of total fat, in grams, per serving, as explicitly shown?",
+        "answer": "2g"
+      },
+      {
+        "question": "What is the amount of dietary fiber, in grams, included in each serving, according to the label?",
+        "answer": "10g"
+      },
+      {
+        "question": "What is the amount of protein, in grams, found in one serving of this food product?",
+        "answer": "9g"
+      },
+      {
+        "question": "What is the percentage of the daily value of total carbohydrates provided by one serving, as indicated by the label?",
+        "answer": "9%"
+      },
+      {
+        "question": "What is the percentage of the daily value of total fat per serving as presented in this nutritional label?",
+        "answer": "3%"
+      },
+      {
+        "question": "What is the amount of sugar, in grams, found in a single serving, according to the text provided?",
+        "answer": "1g"
+      },
+      {
+        "question": "What is the amount of sodium, in milligrams, present in each serving, as clearly stated?",
+        "answer": "160mg"
+      },
+      {
+        "question": "Based on the visible information, what is the percentage of the daily value for iron contained in a single serving?",
+        "answer": "10%"
+      },
+      {
+        "question": "According to the label, what is the amount of potassium, in milligrams, per serving of the product?",
+        "answer": "160mg"
+      },
+      {
+        "question": "What is the presented weight of a single serving in grams?",
+        "answer": "61g"
+      },
+      {
+        "question": "What is the total number of calories from fat per serving, as indicated on the label?",
+        "answer": "20"
+      }
+    ]
+  }
+]

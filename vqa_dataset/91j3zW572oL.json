@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the upholstery fabric covering the chair?",
+        "question": "What is the predominant color of the upholstery covering the chair's seating and back?",
         "answer": "Beige"
       },
       {
-        "question": "What material appears to be used for the chair's primary seating surface?",
+        "question": "What material appears to be used for the chair's primary upholstery?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the overall shape and style of the presented armchair.",
+        "question": "Describe the overall shape of the chair's backrest, considering its height and curvature?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the visible texture of the upholstery fabric on the chair?",
-        "answer": "Smooth"
+        "question": "What kind of decorative elements are visible along the edges of the chair's arms and base?",
+        "answer": "Studs"
       },
       {
-        "question": "What material constitutes the visible chair legs?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What is the color of the visible chair legs?",
+        "question": "What color are the visible legs supporting the chair's frame?",
         "answer": "Brown"
       },
       {
-        "question": "What type of decorative detail is visible along the chair's outer edges?",
-        "answer": "Nailheads"
+        "question": "What appears to be the material of the chair's legs, considering their apparent finish?",
+        "answer": "Wood"
       },
       {
-        "question": "What is the color of the decorative nailheads on the chair?",
-        "answer": "Dark"
+        "question": "Considering the visible texture, what is the apparent surface texture of the chair's upholstery?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the back support, does the chair have a high or low back?",
-        "answer": "Medium"
-      },
-      {
-        "question": "Based on the image, is the chair's design modern, traditional, or something else?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "Does the chair's cushion appear to be filled with a firm or soft material?",
-        "answer": "Firm"
-      },
-      {
-        "question": "Considering the armrests, are they tall or short relative to the seat height?",
-        "answer": "Medium"
-      },
-      {
-        "question": "What is the general style of the armrests on this particular chair?",
+        "question": "What is the apparent style of the chair's arms, considering their shape and attachment to the frame?",
         "answer": "Straight"
       },
       {
-        "question": "Observing the chair's legs, are they tapered or straight?",
-        "answer": "Tapered"
+        "question": "Considering its overall form, what type of chair is depicted in the image?",
+        "answer": "Armchair"
       },
       {
-        "question": "What is the apparent overall condition of the visible chair?",
-        "answer": "New"
+        "question": "What is the apparent height of the chair's backrest relative to the seat cushion?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the general shape of the chair's seat cushion, from an overhead perspective?",
+        "answer": "Square"
+      },
+      {
+        "question": "What seems to be the level of plushness or softness of the chair's cushions, based on visual observation?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the visible design or pattern of the upholstery fabric covering the chair?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What seems to be the apparent depth of the chair's seat cushion?",
+        "answer": "Deep"
+      },
+      {
+        "question": "What design feature is visible at the junctions of the chair's arms and backrest?",
+        "answer": "Seams"
       }
     ]
   }

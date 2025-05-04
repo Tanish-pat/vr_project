@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/131b5254.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the tabletop?",
+        "answer": "Round"
+      },
+      {
+        "question": "What material appears to constitute the tabletop?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the visible wood grain pattern on the surface.",
+        "answer": "Reclaimed"
+      },
+      {
+        "question": "What color best describes the wood's finish?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the wood tabletop?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What material are the supporting legs made from?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the finish of the metal supporting legs?",
+        "answer": "Chrome"
+      },
+      {
+        "question": "Describe the shape of the table's supporting legs?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "How many legs does the table appear to have?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the tabletop exhibit any visible knots or imperfections?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the edge of the tabletop smooth or visibly unfinished?",
+        "answer": "Unfinished"
+      },
+      {
+        "question": "What is the overall style of this side table?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Considering the design, what is the probable intended use?",
+        "answer": "Side"
+      },
+      {
+        "question": "What is the approximate thickness of the tabletop?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What color is the metal base of this table?",
+        "answer": "Silver"
+      }
+    ]
+  }
+]

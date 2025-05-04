@@ -13,56 +13,56 @@
         "answer": "Fabric"
       },
       {
-        "question": "Describe the overall shape of the chair's seating area?",
+        "question": "Describe the overall shape or silhouette of the chair.",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent texture of the chair's fabric?",
-        "answer": "Textured"
+        "question": "What is the apparent texture of the chair's fabric upholstery?",
+        "answer": "Woven"
       },
       {
-        "question": "What color are the chair's legs?",
-        "answer": "Dark"
+        "question": "What color are the chair's legs or base?",
+        "answer": "Black"
       },
       {
-        "question": "What is the apparent material of the chair's legs?",
+        "question": "What material do the chair's legs appear to be made from?",
         "answer": "Metal"
       },
       {
-        "question": "Does the chair appear to have a defined backrest?",
+        "question": "Does the chair have armrests, and if so, what is their style?",
         "answer": "Yes"
       },
       {
-        "question": "What is the apparent style of the chair's armrests?",
-        "answer": "Straight"
-      },
-      {
-        "question": "Is there visible stitching detail on the chair's upholstery?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Does the chair's upholstery show a pattern or design?",
-        "answer": "Yes"
-      },
-      {
-        "question": "How many legs does the chair appear to have?",
-        "answer": "Four"
-      },
-      {
-        "question": "Considering the backrest, what is the overall style of the chair?",
+        "question": "Describe the overall style or design aesthetic of the chair.",
         "answer": "Modern"
       },
       {
-        "question": "Describe the height of the chair's back relative to the seat?",
-        "answer": "Mid"
+        "question": "Considering the seating area, does the chair appear to be a one-seater?",
+        "answer": "Yes"
       },
       {
-        "question": "Based on the visual, what is the chair's design?",
-        "answer": "Simple"
+        "question": "Is the backrest of the chair cushioned, and if so, how does it appear?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the general visual impression given by the chair's fabric?",
-        "answer": "Solid"
+        "question": "Based on visual observation, does the chair look firm and structured?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of visible seams or stitching is apparent on the chair?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Are there any noticeable patterns or designs in the fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the chair display any visible tufting or button detailing?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the legs, what is the apparent height of the chair from the floor?",
+        "answer": "Low"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/38099402.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric covering the sofa?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary material visibly used in constructing the sofa's frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the sofa's design, what style would best describe its aesthetic?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What shape do the armrests of this particular sofa possess?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What type of legs support the sofa, given their visible characteristics?",
+        "answer": "Turned"
+      },
+      {
+        "question": "Describe the texture of the upholstery based on its visual appearance.",
+        "answer": "Textured"
+      },
+      {
+        "question": "How many visible seating spaces or cushions does this sofa offer?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging from its dimensions and design, what is the sofa's overall shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the visible material of the legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What kind of feet or supports are present at the sofa's base?",
+        "answer": "Casters"
+      },
+      {
+        "question": "Describe the pattern or print of the sofa's upholstery fabric.",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the visible overall height of the back cushions?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent depth of the seat cushions from the image?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Does the sofa's overall design appear formal or informal in style?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the visible construction style of the sofa's cushions?",
+        "answer": "Attached"
+      }
+    ]
+  }
+]

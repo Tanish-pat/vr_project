@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the upholstered surface shown in the image?",
+        "question": "What is the predominant color of the visible upholstered surface?",
         "answer": "Gray"
       },
       {
-        "question": "What appears to be the primary textile used for the upholstery?",
-        "answer": "Silk"
-      },
-      {
-        "question": "Describe the overall texture of the visible fabric in the image?",
+        "question": "What appears to be the primary texture of the fabric?",
         "answer": "Smooth"
       },
       {
-        "question": "What shape are the individual padded sections of the upholstery?",
-        "answer": "Square"
+        "question": "Describe the overall pattern of the visible upholstery?",
+        "answer": "Squared"
       },
       {
-        "question": "What kind of fasteners appear to be used to secure the upholstery?",
+        "question": "What kind of fasteners are visible on the upholstery?",
         "answer": "Buttons"
       },
       {
-        "question": "Considering the image, what is the apparent arrangement of the buttons?",
-        "answer": "Grid"
+        "question": "What seems to be the material of the visible upholstery?",
+        "answer": "Silk"
       },
       {
-        "question": "What is the general visual impression of the surface's sheen?",
-        "answer": "Slight"
+        "question": "What is the shape of the individual upholstered sections?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Judging from the image, what is the visible pattern of the fabric?",
-        "answer": "Linear"
+        "question": "How would you describe the sheen of the fabric?",
+        "answer": "Subtle"
       },
       {
-        "question": "Based on the image, what is the apparent depth or thickness of the padding?",
+        "question": "Considering the image, what is the apparent depth of the tufting?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Based on the image, what is the visible arrangement of the buttons?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the suggested overall visual style of the upholstery?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image, what is the apparent thickness of the material?",
         "answer": "Moderate"
       },
       {
-        "question": "What is the apparent color of the buttons affixed to the upholstery?",
-        "answer": "Silver"
+        "question": "Describe the visible quality of the fabric's weave",
+        "answer": "Fine"
       },
       {
-        "question": "What seems to be the material of the visible buttons in the image?",
-        "answer": "Metal"
+        "question": "What kind of stitching is evident around the buttons?",
+        "answer": "Concealed"
       },
       {
-        "question": "How would you describe the overall aesthetic style of the shown section?",
-        "answer": "Classic"
+        "question": "How would you describe the tonal variation of the fabric\u2019s color?",
+        "answer": "Minimal"
       },
       {
-        "question": "Does the fabric show any visible imperfections in the image provided?",
-        "answer": "No"
-      },
-      {
-        "question": "Judging from the provided close-up, is the fabric visibly patterned?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Considering the image, what is the apparent finish of the upholstery?",
-        "answer": "Matte"
+        "question": "Based on visual inspection, what is the apparent weight of the fabric?",
+        "answer": "Medium"
       }
     ]
   }
