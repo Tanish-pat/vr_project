@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b9/b9b70529.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the license plate frame's visible metal?",
+        "answer": "Chrome"
+      },
+      {
+        "question": "What is the overall shape of the presented license plate frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the material, what is the likely surface sheen of the frame?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Describe the visible texture of the license plate frame's outer edge?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material used in the construction of this frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "How many visible mounting holes are present in the license plate frame?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent thickness of the metal frame's visible border?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on appearance, what type of finish does the frame seem to possess?",
+        "answer": "Polished"
+      },
+      {
+        "question": "Does the frame exhibit any noticeable pattern or texture on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the style of this license plate frame?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent design of the frame, is it ornate or minimalist?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the color of the background in the area enclosed by the frame?",
+        "answer": "White"
+      },
+      {
+        "question": "Are there any visible markings, logos, or embellishments on the frame?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image provided, what is the overall condition of the item?",
+        "answer": "New"
+      },
+      {
+        "question": "What appears to be the intended function of this item?",
+        "answer": "Frame"
+      }
+    ]
+  }
+]

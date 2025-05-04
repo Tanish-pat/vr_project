@@ -1,0 +1,65 @@
+[
+  {
+    "path": "images/small/b3/b36e19cc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic of this product's label?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the image, what is the primary language used in the provided textual content?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the general style of typography used throughout the visible text on the product's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text's layout, what is the orientation of the words on the product label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the overall background color or shade of the surface where the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the text's case (uppercase, lowercase, sentence case, etc.) as observed in the image.",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the approximate font size of the main text sections?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the general visual alignment (left, center, right, justified) of the lines of text on the product label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual style, what is the apparent weight or boldness of the typography used on the label?",
+        "answer": "Regular"
+      },
+      {
+        "question": "From the image, what is the approximate number of distinct textual sections or blocks present on the label?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the visible spacing (tight, normal, loose) between words and lines in the text on the product's label?",
+        "answer": "Normal"
+      },
+      {
+        "question": "Based solely on the image, what seems to be the color of the ink used to print the text on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general visual density (sparse, medium, dense) of the text as shown in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the text blocks, is the layout of the information structured or unstructured?",
+        "answer": "Structured"
+      }
+    ]
+  }
+]

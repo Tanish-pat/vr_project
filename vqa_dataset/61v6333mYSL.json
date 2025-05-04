@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/63/635f2e7f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual characteristic of the depicted item?",
+        "answer": "Shattered"
+      },
+      {
+        "question": "What appears to be the material of the primary surface shown?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the visible frame surrounding the damaged area?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the pattern of the damage across the item's surface.",
+        "answer": "Cracked"
+      },
+      {
+        "question": "What is the apparent condition of the main displayed element?",
+        "answer": "Broken"
+      },
+      {
+        "question": "What kind of damage is prominently displayed on the product?",
+        "answer": "Fractured"
+      },
+      {
+        "question": "What seems to be the intended function of the depicted product?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Based on the visible damage, what is the product's state?",
+        "answer": "Damaged"
+      },
+      {
+        "question": "What is the general texture of the visible surface area?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual impression of the object in its current state?",
+        "answer": "Damaged"
+      },
+      {
+        "question": "What is suggested by the numerous fissures across the surface?",
+        "answer": "Impact"
+      },
+      {
+        "question": "Describe the appearance of the fragmented sections of the main element.",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What descriptive term best captures the condition of the product's face?",
+        "answer": "Devastated"
+      },
+      {
+        "question": "What is the primary visible color of the damaged surface area?",
+        "answer": "Dark"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d822e9ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the phone case's artistic design?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Describe the overall texture implied by the artistic rendering on the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What kind of artistic style is predominantly represented in the phone case design?",
+        "answer": "Painterly"
+      },
+      {
+        "question": "What is the primary material visibly suggested for the phone case construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the depicted phone case, what is the apparent finish type of the surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the presented phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is prominently displayed on the phone case's side edge?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Judging by the visual appearance, how would you characterize the design's color palette?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the most striking visual element regarding the case's artistic representation?",
+        "answer": "Brushstrokes"
+      },
+      {
+        "question": "How would you describe the artistic style of the phone case's printed artwork?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What secondary color is visible in a large portion of the phone case's design?",
+        "answer": "Red"
+      },
+      {
+        "question": "Observing the image, what is the case's apparent level of design complexity?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the image, what is the general form of the artistic design?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent style of the artwork on the back of the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Based on the appearance, is the phone case design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      }
+    ]
+  }
+]

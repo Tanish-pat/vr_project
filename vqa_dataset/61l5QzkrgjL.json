@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e80dda88.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What iconic landmark is depicted on the phone case?",
+        "answer": "Eiffel"
+      },
+      {
+        "question": "What is the primary color of the Eiffel Tower illustration?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the overall shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Is the Eiffel Tower image a realistic or stylized depiction?",
+        "answer": "Stylized"
+      },
+      {
+        "question": "What subtle color accents are present on the Eiffel Tower design?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the image, does the case appear matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the phone case design have any noticeable text or logo?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the style of the Eiffel Tower's graphical representation?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is there evidence of raised or textured elements on the case design?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, does the case seem thin or bulky?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What level of detail is present in the Eiffel Tower illustration?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the case appear to have any camera cutouts or ports visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Excluding the Eiffel Tower, are there any other prominent graphics?",
+        "answer": "No"
+      }
+    ]
+  }
+]

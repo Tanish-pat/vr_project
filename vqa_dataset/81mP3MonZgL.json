@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/68/68555fef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the upholstered armchair?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of the chair's upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape of the armchair's frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of legs does the armchair possess?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the apparent texture of the armchair's upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What design element is noticeable on the side of the end table?",
+        "answer": "X-frame"
+      },
+      {
+        "question": "What color is the end table?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What material seems to constitute the end table?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the end table, what geometric pattern is prominent?",
+        "answer": "Cross"
+      },
+      {
+        "question": "What is the general shape of the end table?",
+        "answer": "Cubical"
+      },
+      {
+        "question": "Describe the apparent texture of the end table's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single item is placed on the end table?",
+        "answer": "Vase"
+      },
+      {
+        "question": "What color is the decorative pillow on the chair?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What kind of fabric seems to be used for the pillow?",
+        "answer": "Linen"
+      },
+      {
+        "question": "What is the general color of the rug underneath the chair?",
+        "answer": "Green"
+      }
+    ]
+  }
+]

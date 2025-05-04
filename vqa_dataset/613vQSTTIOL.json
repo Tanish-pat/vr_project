@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e4f94498.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the Ethernet cable shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What type of connector is visibly present at each end of the cable?",
+        "answer": "RJ45"
+      },
+      {
+        "question": "Describe the overall shape and form of the cable, considering its length and flexibility.",
+        "answer": "Linear"
+      },
+      {
+        "question": "What material appears to constitute the outer sheath of the cable, based on its visual texture and appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what seems to be the cable's main function or purpose?",
+        "answer": "Networking"
+      },
+      {
+        "question": "Based on the visible connector, what standard does this cable likely adhere to?",
+        "answer": "Ethernet"
+      },
+      {
+        "question": "Judging by the image, what is the approximate thickness or gauge of the cable?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Describe the visible texture of the cable's outer covering, considering its smoothness or roughness.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeable markings or labels printed directly on the cable's outer sheath?",
+        "answer": "None"
+      },
+      {
+        "question": "What color are the individual wires visible within the RJ45 connector?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "Considering the image, does the cable exhibit any signs of damage, wear, or kinks?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent physical condition of the cable's connectors?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Based on the image, what is the overall length of the cable shown?",
+        "answer": "Unspecified"
+      },
+      {
+        "question": "Describe the molding around the RJ45 connectors, is it smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent flexibility of the cable based on how it's presented?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

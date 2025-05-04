@@ -9,60 +9,60 @@
         "answer": "Brown"
       },
       {
-        "question": "What material appears to be used for the chair's seating and backrest?",
+        "question": "What appears to be the primary material of the chair's seating surface?",
         "answer": "Leatherette"
       },
       {
-        "question": "Considering the chair's base, what is its primary style of mobility?",
-        "answer": "Swivel"
-      },
-      {
-        "question": "What is the overall shape of the chair's backrest, viewed from the side?",
+        "question": "Considering the chair's overall structure, what is its basic form?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the visible texture of the chair's armrests, based on the image.",
+        "question": "What type of base supports the chair, allowing for mobility?",
+        "answer": "Wheel"
+      },
+      {
+        "question": "Describe the visual texture of the chair's armrests, considering its apparent material?",
         "answer": "Smooth"
       },
       {
-        "question": "What type of support structure is visible underneath the chair's seat?",
-        "answer": "Five-Star"
+        "question": "What is the apparent construction style of the chair's backrest?",
+        "answer": "Padded"
       },
       {
-        "question": "What material seems to comprise the chair's armrest supports?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the chair's design, what is its apparent intended use?",
-        "answer": "Office"
-      },
-      {
-        "question": "What is the visible color of the chair's base and wheel components?",
+        "question": "What color is the visible metal or plastic components of the chair's base?",
         "answer": "Black"
       },
       {
-        "question": "What seems to be the material of the wheels on the chair's base?",
-        "answer": "Plastic"
+        "question": "Judging by its design, what is the intended use of this chair?",
+        "answer": "Office"
       },
       {
-        "question": "What is the general design style of the office chair shown?",
-        "answer": "Modern"
+        "question": "Based on its structure, what kind of adjustment does the chair appear to offer?",
+        "answer": "Height"
       },
       {
-        "question": "How many armrests does the office chair visually possess?",
-        "answer": "Two"
+        "question": "What is the overall shape of the chair's seat cushion?",
+        "answer": "Squared"
       },
       {
-        "question": "Considering the chair's form, is it designed for high or low back support?",
+        "question": "What is the visual appearance of the stitching detail on the chair?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From the image, what seems to be the general level of comfort suggested by the chair's design?",
         "answer": "High"
       },
       {
-        "question": "Does the chair's backrest appear to have any visible stitching or seams?",
-        "answer": "Yes"
+        "question": "What is the apparent number of legs or support points visible on the chair's base?",
+        "answer": "Five"
       },
       {
-        "question": "Based on the image, what type of adjustment mechanism is apparent on the chair?",
-        "answer": "None"
+        "question": "Considering the angle, what part of the chair is most prominently displayed?",
+        "answer": "Side"
+      },
+      {
+        "question": "What kind of armrests are featured on this particular chair model?",
+        "answer": "Fixed"
       }
     ]
   }

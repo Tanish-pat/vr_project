@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/eef90598.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible shoe exterior?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material composing the upper shoe?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Considering the visible sole, what color is the outsole?",
+        "answer": "Tan"
+      },
+      {
+        "question": "What is the apparent texture of the shoe's upper material?",
+        "answer": "Napped"
+      },
+      {
+        "question": "What type of closure mechanism does the shoe employ?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Observing the stitching, what is its general color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Describe the overall shape of the shoe's toe box.",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the visible sole, what is its apparent material type?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the construction type of the visible heel area?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the shoe style?",
+        "answer": "Loafer"
+      },
+      {
+        "question": "What is the visible pattern on the shoe's sole?",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "Does the shoe display any noticeable decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the back of the shoe, what is the heel height?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the visible feature stitching along the vamp?",
+        "answer": "Moccasin"
+      },
+      {
+        "question": "What is the visible form of the shoe's stitching pattern?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7b9eac55.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the chair's fabric?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material appears to compose the chair's frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the texture of the chair's seating surface.",
+        "answer": "Mesh"
+      },
+      {
+        "question": "What is the overall shape or form of this outdoor furniture?",
+        "answer": "Recliner"
+      },
+      {
+        "question": "Considering the design, what is the chair's primary function?",
+        "answer": "Relaxation"
+      },
+      {
+        "question": "What color are the armrests of the zero-gravity chair?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What seems to be the material of the headrest padding?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Is the chair's frame a single piece, or is it composed of multiple parts?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What kind of mechanism facilitates the reclining function?",
+        "answer": "Cord"
+      },
+      {
+        "question": "Based on the image, is the chair foldable or stationary?",
+        "answer": "Foldable"
+      },
+      {
+        "question": "Does the chair's design include any noticeable decorative elements?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent condition of the chair, new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the material, is the chair likely suitable for outdoor use?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How many armrests does this reclining chair possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the chair have any visible branding or logos?",
+        "answer": "No"
+      }
+    ]
+  }
+]

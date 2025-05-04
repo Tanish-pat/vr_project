@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the comforter and pillowcases, based solely on visual inspection?",
+        "question": "What is the dominant color of the bedding set's primary pattern?",
         "answer": "Lavender"
       },
       {
-        "question": "Considering the image, what geometric shapes are prominently featured in the bedding's design?",
+        "question": "What geometric shape is repeatedly featured in the duvet cover's design?",
         "answer": "Circles"
       },
       {
-        "question": "What appears to be the primary material used for the comforter, judging from its visual texture and drape?",
-        "answer": "Microfiber"
-      },
-      {
-        "question": "Based on visual observation, what is the apparent color of the included sheet set?",
-        "answer": "White"
-      },
-      {
-        "question": "Examining the image, what is the overall pattern style of the bedding set?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "From the image alone, what is the visible texture of the comforter fabric?",
+        "question": "What is the apparent texture of the duvet cover fabric?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent number of pillowcases included in the set, as shown in the picture?",
-        "answer": "Two"
+        "question": "What is the overall color scheme of the complete bedding set?",
+        "answer": "Pastel"
       },
       {
-        "question": "Judging only from the provided image, how many sheet sets are visible in the product image?",
-        "answer": "One"
-      },
-      {
-        "question": "What is the style of the pillowcases; what is their visual shape?",
-        "answer": "Standard"
-      },
-      {
-        "question": "Describe the arrangement or folding of the sheet set in the provided picture.",
-        "answer": "Stacked"
-      },
-      {
-        "question": "Observing the image, what color is the secondary color present in the bedding design?",
+        "question": "What secondary color accents the main lavender tone on the comforter?",
         "answer": "White"
       },
       {
-        "question": "What does the main design pattern seem to resemble, in terms of shapes?",
-        "answer": "Dots"
+        "question": "Considering the folded arrangement, what is the apparent material of the sheets?",
+        "answer": "Cotton"
       },
       {
-        "question": "Considering only the picture, is the bedding design primarily light or dark?",
-        "answer": "Light"
+        "question": "What is the implied design style of the bedding set's pattern?",
+        "answer": "Modern"
       },
       {
-        "question": "From the visual appearance, how many pieces appear to comprise the complete bedding set?",
-        "answer": "Four"
+        "question": "What is the shape of the included pillowcases, viewed from the image?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the general condition of the bedding shown in the provided image?",
-        "answer": "New"
+        "question": "Judging by its layering, what is the probable material of the comforter?",
+        "answer": "Microfiber"
+      },
+      {
+        "question": "What is the apparent visual style of the overall bedding ensemble?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the visible seams, what is the construction style of the bedding?",
+        "answer": "Machine-stitched"
+      },
+      {
+        "question": "What is the approximate number of pillowcases included in this set?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering its visual fold, what is the likely texture of the sheets?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the visible pattern on the folded sheets, viewed closely?",
+        "answer": "Dotted"
+      },
+      {
+        "question": "Describing the pattern, what is the primary graphic element?",
+        "answer": "Circles"
       }
     ]
   }

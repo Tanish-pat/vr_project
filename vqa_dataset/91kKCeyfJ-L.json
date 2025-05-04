@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the suede upper material on these ankle boots?",
+        "question": "What is the predominant color of the visible suede upper?",
         "answer": "Gray"
       },
       {
-        "question": "What material appears to be used for the construction of the upper part of the boots?",
+        "question": "What material appears to constitute the majority of the upper?",
         "answer": "Suede"
       },
       {
-        "question": "Describe the overall shape or style of the footwear shown in the image.",
+        "question": "What is the apparent style of the footwear shown in the image?",
         "answer": "Chukka"
       },
       {
-        "question": "Considering the height, how would you classify these boots?",
-        "answer": "Ankle"
+        "question": "Describe the overall shape of the shoe's toe cap region?",
+        "answer": "Rounded"
       },
       {
-        "question": "What color is the visible sole of these suede chukka boots?",
+        "question": "What color is the visible portion of the shoe's sole unit?",
         "answer": "Off-white"
       },
       {
-        "question": "What seems to be the primary texture of the boot's upper material?",
-        "answer": "Fuzzy"
-      },
-      {
-        "question": "Based on the image, what type of closure mechanism is featured on the boots?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "What material does the sole of the boot appear to be made from?",
+        "question": "What appears to be the material of the sole unit?",
         "answer": "Rubber"
       },
       {
-        "question": "Observing the lacing system, describe the style of eyelets present.",
-        "answer": "Metal"
+        "question": "What is the apparent height of the shoe's shaft or upper?",
+        "answer": "Mid"
       },
       {
-        "question": "Considering the image, what is the overall design aesthetic of the boots?",
+        "question": "What is the visible style of the shoe's lacing system?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Considering the visible stitching, what is the apparent construction?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Describe the texture of the visible suede upper material?",
+        "answer": "Nap"
+      },
+      {
+        "question": "What is the apparent color of the visible stitching on the shoes?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the visible design, what is the footwear's likely function?",
         "answer": "Casual"
       },
       {
-        "question": "What detail is visible at the topline of the boot, connecting the upper and sole?",
-        "answer": "Stitching"
+        "question": "What is the apparent style of the shoe's heel?",
+        "answer": "Flat"
       },
       {
-        "question": "Describe the visible pattern or design on the toe of the chukka boot.",
-        "answer": "Moccasin"
+        "question": "Considering the overall fit, is the shoe design close-fitting or loose?",
+        "answer": "Close"
       },
       {
-        "question": "Judging by the image, what seems to be the overall condition of the boots shown?",
-        "answer": "New"
-      },
-      {
-        "question": "Does the image show any significant branding or logos on the boots?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent number of eyelets visible on one boot?",
-        "answer": "Three"
+        "question": "What is the visible pattern on the suede of the upper?",
+        "answer": "Solid"
       }
     ]
   }

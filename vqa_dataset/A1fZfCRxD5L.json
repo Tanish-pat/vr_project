@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4d15836.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire surface of the presented material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what natural material is primarily suggested by the image?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Based solely on the image's visual characteristics, what is the apparent grain direction of the depicted material?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the overall visual pattern exhibited by the parallel lines running across the sample's surface?",
+        "answer": "Striated"
+      },
+      {
+        "question": "Characterize the visual density of the wood grain as seen in the provided image sample?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent finish of the wood's surface; matte, glossy, or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the general tone of the brown color; light, dark, or medium?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the visible variations in shading, how would you describe the color uniformity?",
+        "answer": "Inconsistent"
+      },
+      {
+        "question": "What kind of visual imperfections or natural markings are noticeable within the wood grain?",
+        "answer": "Knots"
+      },
+      {
+        "question": "Does the image present a smooth or a rough surface texture to the viewer?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image alone, can you determine if the wood has a visible pattern repetition?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent depth of the wood grain's visible texture?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Describe the overall impression of the image in one word: Dull, Shiny, or something else?",
+        "answer": "Dull"
+      },
+      {
+        "question": "Does the visible surface present a consistent level of sheen across its entirety?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you describe the visible texture across the majority of the image, fine or coarse?",
+        "answer": "Fine"
+      }
+    ]
+  }
+]

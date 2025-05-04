@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8c/8c64ea1c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the desk protector shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the depicted desk protector?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, what appears to be the primary material of the desk protector?",
+        "answer": "Cloth"
+      },
+      {
+        "question": "Based on visual inspection, does the desk protector show any visible texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, are there any noticeable patterns or designs on the desk protector's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image suggest any visible stitching or seams on the desk protector?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the desk protector as shown in the provided image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the image alone, can you determine if the desk protector has any added features or components?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual representation, what is the overall appearance of the desk protector?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Observing the edges, does the desk protector appear to have any visible fraying or damage?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the desk protector based on its visual representation?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image indicate any logos, branding, or markings on the desk protector?",
+        "answer": "No"
+      },
+      {
+        "question": "From what can be visually observed, how would you describe the overall quality of the material?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the image, what is the approximate aspect ratio of the desk protector?",
+        "answer": "Wide"
+      },
+      {
+        "question": "Based on the image, does the protector appear rigid or flexible?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

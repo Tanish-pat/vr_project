@@ -9,60 +9,60 @@
         "answer": "Coral"
       },
       {
-        "question": "What is the primary geometric pattern on the notebook's cover?",
-        "answer": "Polka-dots"
+        "question": "What is the overall shape of the depicted notebook?",
+        "answer": "Rectangle"
       },
       {
-        "question": "What type of binding does this notebook appear to utilize?",
+        "question": "What type of binding mechanism is visible on the notebook's spine?",
         "answer": "Spiral"
       },
       {
-        "question": "What material seems to be used for the notebook's cover?",
+        "question": "What pattern is prominently featured on the notebook's cover?",
+        "answer": "Polka-dots"
+      },
+      {
+        "question": "What material appears to constitute the notebook's cover?",
         "answer": "Cardboard"
       },
       {
-        "question": "What brand is prominently displayed on the notebook's cover?",
-        "answer": "Amazonbasics"
+        "question": "What brand logo is displayed on the notebook's cover?",
+        "answer": "Amazon"
       },
       {
-        "question": "Describing the overall texture of the notebook's cover, is it smooth or rough?",
+        "question": "What is the apparent texture of the notebook's cover?",
         "answer": "Smooth"
       },
       {
-        "question": "What shape are the reinforced holes near the binding of the notebook?",
-        "answer": "Round"
+        "question": "Describe the geometric design element incorporated into the cover's pattern.",
+        "answer": "Triangles"
       },
       {
-        "question": "What color is the brand label on the notebook's cover?",
+        "question": "What color is the brand logo printed on the notebook?",
         "answer": "Black"
       },
       {
-        "question": "What is the overall shape of this AmazonBasics notebook?",
-        "answer": "Rectangular"
+        "question": "How many punched holes are visible along the notebook's edge?",
+        "answer": "Three"
       },
       {
-        "question": "Considering the cover's design, what is the overall style of the notebook?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What color are the small dots within the notebook's cover design?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the color of the spiral binding of the notebook?",
-        "answer": "Black"
-      },
-      {
-        "question": "What appears to be the overall size of this notebook?",
-        "answer": "Medium"
-      },
-      {
-        "question": "What is the apparent finish of the notebook's cover; glossy or matte?",
+        "question": "What is the apparent finish of the notebook cover's surface?",
         "answer": "Matte"
       },
       {
-        "question": "Considering the image, what is the likely function of this item?",
-        "answer": "Notetaking"
+        "question": "What is the color of the spiral binding on the notebook?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the style of the notebook (e.g., wide-ruled, college-ruled)?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the notebook's cover appear to be glossy or non-glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general condition of the notebook shown in the image?",
+        "answer": "New"
       }
     ]
   }

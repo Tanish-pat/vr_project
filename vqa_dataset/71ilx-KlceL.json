@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted in the swirling design on the phone case?",
+        "question": "What is the dominant color scheme of the depicted phone case's design?",
         "answer": "Orange"
       },
       {
-        "question": "What artistic style is primarily represented in the phone case's design?",
+        "question": "What artistic style is predominantly featured on the phone case's surface?",
         "answer": "Abstract"
       },
       {
-        "question": "What is the general shape of the phone case design element?",
-        "answer": "Swirling"
+        "question": "Considering the visual texture, what is the apparent finish of the phone case?",
+        "answer": "Glossy"
       },
       {
-        "question": "What appears to be the primary material used for the phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the image, what is the overall texture of the phone case's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What secondary color is prominently featured alongside the orange in the design?",
-        "answer": "Purple"
-      },
-      {
-        "question": "What color is the phone case's border, observable from the side views?",
-        "answer": "Black"
-      },
-      {
-        "question": "Excluding the design, what is the base color of the phone case?",
-        "answer": "Black"
-      },
-      {
-        "question": "What kind of design elements are used to create the main visual pattern?",
-        "answer": "Brushstrokes"
-      },
-      {
-        "question": "Based on the side views, does the phone case appear to add significant bulk?",
-        "answer": "No"
-      },
-      {
-        "question": "Are there any noticeable patterns or textures within the swirling design?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the general orientation of the main design element on the phone case?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "Does the phone case have any visible logos or branding marks?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the general form factor of the object shown in the image?",
+        "question": "What primary shape characterizes the overall form of the mobile phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Judging from the image, what is the finish of the phone case?",
-        "answer": "Matte"
+        "question": "Based on the image, what seems to be the material used in the phone case's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the pattern visible across the phone case's design, considering its fluidity?",
+        "answer": "Swirling"
+      },
+      {
+        "question": "What secondary color prominently complements the main hue in the phone case's design?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the apparent level of detail within the design of the phone case image?",
+        "answer": "High"
+      },
+      {
+        "question": "What kind of visual effect is created by the color transitions within the phone case's design?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "Observing the sides, how many sides does the phone case seem to have?",
+        "answer": "Four"
+      },
+      {
+        "question": "Considering the image, what is the general visual impression of the phone case's design?",
+        "answer": "Dynamic"
+      },
+      {
+        "question": "Judging by the image, what is the design's level of symmetry (symmetrical, asymmetrical)?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the apparent overall aesthetic style represented by this phone case's appearance?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the suggested depth or dimensionality of the colors presented within the phone case's art?",
+        "answer": "Deep"
+      },
+      {
+        "question": "How many camera cutouts are clearly visible on the back of this phone case?",
+        "answer": "One"
       }
     ]
   }

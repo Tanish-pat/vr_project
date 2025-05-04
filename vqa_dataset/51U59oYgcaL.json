@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color dominating the packaging of this topical antibiotic?",
+        "question": "What is the primary color prominently featured on the packaging of this first-aid product?",
         "answer": "Orange"
       },
       {
-        "question": "What specific type of antibiotic treatment does this product claim to be?",
-        "answer": "Triple"
-      },
-      {
-        "question": "Based on the packaging, what is the primary intended use for this ointment?",
-        "answer": "First-aid"
-      },
-      {
-        "question": "What is the textual indication of the brand name visibly displayed on the packaging?",
-        "answer": "Basic"
-      },
-      {
-        "question": "What shape best describes the overall form factor of this medical product's container?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Considering the product's visual design, what is its indicated primary function?",
+        "question": "What specific type of medication does the packaging clearly state this product contains?",
         "answer": "Antibiotic"
       },
       {
-        "question": "What is the color of the secondary accent color prominently featured on the packaging?",
+        "question": "Based on the image, what is the form of the medicinal product inside the packaging?",
+        "answer": "Ointment"
+      },
+      {
+        "question": "What word, referring to medical treatment, is displayed most conspicuously on the box?",
+        "answer": "First-aid"
+      },
+      {
+        "question": "What is the predominant shape of the external product packaging shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the brand name of the first-aid antibiotic prominently featured on both boxes?",
+        "answer": "Basicare"
+      },
+      {
+        "question": "What secondary color is used as an accent on the packaging besides orange?",
         "answer": "Green"
       },
       {
-        "question": "What is the material of which the outer packaging seems to be predominantly made of?",
-        "answer": "Cardboard"
-      },
-      {
-        "question": "What is the descriptive term for the packaging style used for this medical product?",
-        "answer": "Box"
-      },
-      {
-        "question": "What unit of weight is used for the product's net weight declaration on the packaging?",
-        "answer": "Ounce"
-      },
-      {
-        "question": "What number indicates the apparent ranking claim for this product based on the image?",
+        "question": "What number, suggesting a ranking, is visible on the top right of the larger box?",
         "answer": "One"
       },
       {
-        "question": "What is the overall tone of the packaging's design aesthetic?",
-        "answer": "Informative"
+        "question": "What word describes the number of antibiotic components in this specific product?",
+        "answer": "Triple"
       },
       {
-        "question": "What text indicates a comparison to another antibiotic brand on the packaging?",
-        "answer": "Neosporin"
-      },
-      {
-        "question": "What is the general texture implied by the visual representation of the packaging?",
+        "question": "What is the overall texture of the main packaging, considering its material?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the prominent textual feature near the weight declaration, suggesting the usage instruction?",
-        "answer": "Net"
+        "question": "What is the general appearance of the text font on the product packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the overall design, what is the most striking visual element?",
+        "answer": "Color"
+      },
+      {
+        "question": "What is the type of container visible, based on the image provided?",
+        "answer": "Tube"
+      },
+      {
+        "question": "What unit of weight is used to indicate the net weight of the product?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "Excluding the brand, what is one other word on the box that indicates the nature of the medication?",
+        "answer": "Antibiotic"
       }
     ]
   }

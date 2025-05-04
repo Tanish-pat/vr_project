@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the depicted phone case design?",
+        "question": "What is the predominant color scheme of the depicted phone case's design?",
         "answer": "Green"
       },
       {
-        "question": "What natural scene is prominently featured on the phone case's surface?",
+        "question": "What natural scene is primarily featured in the phone case's image?",
         "answer": "Forest"
       },
       {
-        "question": "What word is prominently displayed at the base of the depicted forest scene?",
-        "answer": "Explore"
+        "question": "What word is prominently displayed at the bottom of the phone case's design?",
+        "answer": "Explor"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this phone case?",
+        "question": "What appears to be the material of the phone case, based on its visual appearance?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall shape of the illustrated phone case?",
+        "question": "What is the overall shape of the depicted mobile phone protective case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent finish or texture of the phone case's surface, based on visual cues?",
+        "question": "What kind of trees seem to be depicted in the misty forest scene on the case?",
+        "answer": "Coniferous"
+      },
+      {
+        "question": "What atmospheric condition is suggested by the visual depiction on the phone case?",
+        "answer": "Misty"
+      },
+      {
+        "question": "Describe the textural quality of the forest scene on the phone case, considering its visual representation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent finish of the phone case's surface?",
         "answer": "Matte"
       },
       {
-        "question": "What is the overall style or aesthetic of the design showcased on the phone case?",
-        "answer": "Nature"
-      },
-      {
-        "question": "Based on visual details, what is the approximate number of trees shown in the phone case's illustration?",
-        "answer": "Many"
-      },
-      {
-        "question": "What atmospheric element is visually apparent within the forest scene depicted on the phone case?",
-        "answer": "Fog"
-      },
-      {
-        "question": "Considering the print's appearance, what is the apparent print technique employed on the case?",
-        "answer": "Digital"
-      },
-      {
-        "question": "What is the font style of the word prominently displayed at the bottom of the image?",
+        "question": "What is the style of the lettering used for the word at the bottom of the phone case design?",
         "answer": "Sans-serif"
       },
       {
-        "question": "Describe the color of the text on the phone case image, using a single word.",
+        "question": "Judging by the visual evidence, what is the color of the text on the phone case?",
         "answer": "White"
       },
       {
-        "question": "Based on image analysis, is the case design primarily photographic or illustrative in nature?",
-        "answer": "Photographic"
+        "question": "Based on visual observation, what is the apparent print quality of the design on the case?",
+        "answer": "High"
       },
       {
-        "question": "Considering the image, does the phone case appear to have a glossy or non-glossy finish?",
-        "answer": "Matte"
+        "question": "Describe the visual representation of the light and shadow within the image on the phone case?",
+        "answer": "Subtle"
       },
       {
-        "question": "What is the color of the background visible in the top portion of the phone case's design?",
-        "answer": "White"
+        "question": "What is the suggested overall aesthetic or mood of the image on the phone case?",
+        "answer": "Serene"
+      },
+      {
+        "question": "What is the general color tone of the forest depicted on the phone case?",
+        "answer": "Muted"
       }
     ]
   }

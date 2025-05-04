@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the vegetables shown in the clear container?",
+        "question": "What is the predominant color of the beans shown in the image?",
         "answer": "Green"
       },
       {
-        "question": "What type of vegetable is predominantly featured in this food container?",
+        "question": "What appears to be the primary vegetable contained within the container?",
         "answer": "Beans"
       },
       {
-        "question": "What appears to be the primary cooking method applied to the beans?",
-        "answer": "Stir-fried"
-      },
-      {
-        "question": "Describe the visible texture of the green beans in the container?",
-        "answer": "Snappy"
-      },
-      {
-        "question": "What kind of small, reddish-brown specks are visible among the beans?",
-        "answer": "Spice"
-      },
-      {
-        "question": "What is the shape of the transparent container holding the food?",
+        "question": "Describe the general shape of the container holding the food item?",
         "answer": "Square"
       },
       {
-        "question": "What material seems to be used for the food storage container?",
+        "question": "What kind of container is used to present the prepared vegetable dish?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the general appearance of the overall bean preparation?",
-        "answer": "Glossy"
+        "question": "Based on visual inspection, what is the apparent texture of the green beans?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the visible ingredients, how would you describe this dish?",
-        "answer": "Savory"
-      },
-      {
-        "question": "Based on the visible food and container, what is the likely serving size?",
-        "answer": "Single"
-      },
-      {
-        "question": "Describe the visible cut of the green beans in the container",
-        "answer": "Sliced"
-      },
-      {
-        "question": "What is the apparent consistency of the sauce or seasoning on the beans?",
+        "question": "What seems to be the visible consistency of the sauce or seasoning on the beans?",
         "answer": "Oily"
       },
       {
-        "question": "What kind of additional seasoning is visible on the beans?",
-        "answer": "Seeds"
+        "question": "Considering the visual details, what is the apparent size of the beans?",
+        "answer": "Small"
       },
       {
-        "question": "Describe the general condition of the prepared green beans?",
+        "question": "Describe the general shape of the individual beans in the dish?",
+        "answer": "Long"
+      },
+      {
+        "question": "What color are the visible specks or particles mixed with the beans?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the image, what kind of preparation seems to have been applied to the beans?",
+        "answer": "Spicy"
+      },
+      {
+        "question": "What is the overall visual impression regarding the dish's apparent freshness?",
         "answer": "Fresh"
       },
       {
-        "question": "What is the overall color profile of the prepared dish?",
-        "answer": "Vibrant"
+        "question": "Describe the apparent transparency of the food container in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the visible orientation of the food container in this image?",
+        "answer": "Top"
+      },
+      {
+        "question": "What is the apparent culinary style hinted at by the dish's presentation?",
+        "answer": "Asian"
+      },
+      {
+        "question": "What is the visible state of the green beans \u2013 raw or cooked?",
+        "answer": "Cooked"
       }
     ]
   }

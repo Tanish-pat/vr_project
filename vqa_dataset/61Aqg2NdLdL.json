@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the displayed signage?",
+        "question": "What is the predominant color of the retractable banner?",
         "answer": "Yellow"
       },
       {
-        "question": "What is the primary language used on the sign's message?",
+        "question": "What is the primary language displayed on the sign?",
         "answer": "English"
       },
       {
-        "question": "What is the secondary language featured on the maintenance sign?",
+        "question": "What secondary language is visible on the maintenance sign?",
         "answer": "Spanish"
       },
       {
-        "question": "What specific message is conveyed by the prominent text?",
+        "question": "What specific message does the banner convey regarding the business status?",
         "answer": "Closed"
       },
       {
-        "question": "What is the reason for closure, as stated on the sign?",
+        "question": "What is the reason for closure indicated on the hanging sign?",
         "answer": "Maintenance"
       },
       {
-        "question": "What material appears to constitute the sign's body?",
+        "question": "What material appears to constitute the sign's main body?",
         "answer": "Fabric"
       },
       {
-        "question": "What is the overall shape of the presented closed sign?",
+        "question": "What is the shape of the displayed sign when fully extended?",
         "answer": "Rectangular"
       },
       {
-        "question": "What type of mounting system is visibly utilized?",
-        "answer": "Extendable"
+        "question": "What is the color of the text printed on the yellow banner?",
+        "answer": "Black"
       },
       {
-        "question": "What is the color of the visible mounting hardware?",
-        "answer": "White"
+        "question": "What type of mechanism is used to extend and retract the banner?",
+        "answer": "Retractable"
       },
       {
-        "question": "What is the apparent texture of the sign's surface?",
-        "answer": "Smooth"
+        "question": "What is the apparent material of the banner's extending arm?",
+        "answer": "Plastic"
       },
       {
-        "question": "Describe the font style employed for the 'Closed' text.",
-        "answer": "Bold"
-      },
-      {
-        "question": "What additional branding is subtly present on the sign?",
+        "question": "What brand logo is subtly visible on the sign?",
         "answer": "Amazon"
       },
       {
-        "question": "What is the visible style of the sign's hanging mechanism?",
-        "answer": "Telescopic"
+        "question": "Describe the texture of the visible banner fabric.",
+        "answer": "Smooth"
       },
       {
-        "question": "Describe the orientation of the 'Closed' message on the sign",
+        "question": "What is the overall orientation of the sign relative to the viewer?",
         "answer": "Horizontal"
       },
       {
-        "question": "What is the visible material of the extending pole?",
-        "answer": "Plastic"
+        "question": "Is the message on the sign presented in uppercase or lowercase lettering?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the design style of the lettering on the signage?",
+        "answer": "Simple"
       }
     ]
   }

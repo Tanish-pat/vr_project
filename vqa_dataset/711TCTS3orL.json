@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c6/c69a4386.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the packaging prominently displayed on the bag?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What baked good is contained within the transparent plastic packaging, as clearly depicted in the image?",
+        "answer": "Bagels"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used for the outer packaging of this food item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image, what shape best describes each individual unit of the baked product within the packaging?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent texture of the surface of the bagels presented in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the apparent color of the bagels, as shown in the photograph of the packaged product?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the total number of bagels visibly bundled together inside the clear plastic wrapper, according to the picture?",
+        "answer": "Six"
+      },
+      {
+        "question": "Considering the image, what is the method of presentation employed to showcase the bagels to the prospective buyer?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "From the image, what seems to be the primary packaging type used to hold and protect the baked goods?",
+        "answer": "Bag"
+      },
+      {
+        "question": "Observing the image, does the packaging exhibit any text or labeling besides the color blocks?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what seems to be the general condition of the bagels presented, considering their appearance?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Considering the image, what seems to be the size of the bagels, relative to each other?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Looking at the image, what seems to be the style of the packaging, considering the way it is presented?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the photograph, describe the overall visual appeal of the packaged product, taking into account its color and presentation",
+        "answer": "Neat"
+      },
+      {
+        "question": "From the image, determine if the bagels exhibit any visible toppings or additions on their surfaces",
+        "answer": "No"
+      }
+    ]
+  }
+]

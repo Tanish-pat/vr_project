@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/818eb6e1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the cosmetic product's visible surface?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the cosmetic product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the texture of the cosmetic product itself?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What material seems to constitute the body of the cosmetic applicator?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the apparent finish of the cosmetic product's color?",
+        "answer": "Brilliant"
+      },
+      {
+        "question": "What is the visible design element near the bottom of the product?",
+        "answer": "Text"
+      },
+      {
+        "question": "What seems to be the consistency suggested by the product's description?",
+        "answer": "Jelly"
+      },
+      {
+        "question": "What form does the cosmetic product take for application?",
+        "answer": "Stick"
+      },
+      {
+        "question": "Does the product's image show any noticeable markings on its packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the metallic portion of the product's packaging?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the shape of the cosmetic product's application tip?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the product packaging display any brand naming?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, is the product opaque or translucent?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Based on visual cues, does the product appear creamy or waxy?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What kind of finish does the product seem to provide, based on its appearance?",
+        "answer": "Glossy"
+      }
+    ]
+  }
+]

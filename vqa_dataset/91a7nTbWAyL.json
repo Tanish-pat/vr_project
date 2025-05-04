@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form and function, what single-word term best describes this piece of furniture?",
+        "question": "Considering the overall form and function, what single-word descriptor best captures the essence of this piece of furniture?",
         "answer": "Daybed"
       },
       {
-        "question": "What is the predominant color of the upholstery fabric covering the entire daybed?",
+        "question": "What is the predominant color of the upholstery fabric covering the entire daybed, as visibly apparent in the image?",
         "answer": "Green"
       },
       {
-        "question": "Describe the texture of the upholstery fabric, considering its visual appearance?",
+        "question": "Describe the textural quality of the upholstery fabric\u2014is it smooth, rough, or something else entirely, based purely on visual inspection?",
         "answer": "Textured"
       },
       {
-        "question": "What material seems to constitute the visible legs supporting the daybed?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Considering the design, how many bolster pillows are visually integrated into the daybed?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the apparent shape of the daybed's backrest cushions or bolsters?",
-        "answer": "Cylindrical"
-      },
-      {
-        "question": "What design feature distinguishes the edge of the daybed's seat from the backrest?",
-        "answer": "Seam"
-      },
-      {
-        "question": "Describe the overall shape of the main seating area of the daybed?",
+        "question": "What is the shape of the arms on either side of the seating area, in terms of geometric terminology or analogous shape?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent construction or assembly method used for the upholstered seat?",
-        "answer": "Buttoned"
+        "question": "What is the material of the legs supporting the entire structure of this upholstered daybed, as visually apparent?",
+        "answer": "Metal"
       },
       {
-        "question": "What single word best characterizes the visible leg style of the daybed?",
-        "answer": "Sleek"
+        "question": "What kind of supports appear on the sides of the seating area, functioning as both armrests and headrests?",
+        "answer": "Bolsters"
       },
       {
-        "question": "Considering the color, what single term best describes the shade of the daybed upholstery?",
-        "answer": "Sage"
+        "question": "Describe the shape of the bolster cushions resting on the arms, from a purely visual assessment, without making assumptions.",
+        "answer": "Cylindrical"
       },
       {
-        "question": "Describe the style of the armrests of the daybed in a single word?",
-        "answer": "Rolled"
+        "question": "What is the general design style of the daybed, considering its simple lines and understated elegance?",
+        "answer": "Modern"
       },
       {
-        "question": "What is the apparent finish of the metal legs of the daybed?",
+        "question": "Focusing solely on what is visible, what is the apparent overall shape or style of the daybed itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of seams or stitching is visually evident on the upholstery of the daybed?",
+        "answer": "Tufted"
+      },
+      {
+        "question": "Based on visual assessment only, what is the finish of the metal legs\u2014glossy, matte, or something else?",
         "answer": "Silver"
       },
       {
-        "question": "What is the overall visual impression of the daybed's design?",
-        "answer": "Minimalist"
+        "question": "Describe the visible components of the daybed, focusing on its main parts.",
+        "answer": "Cushion"
       },
       {
-        "question": "What is the dominant visual pattern on the upholstery fabric?",
-        "answer": "Solid"
+        "question": "What is the approximate height of the backrest bolsters on the daybed, compared to the main seating area?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Describe the leg design visually\u2014are they straight, angled, or ornate in any way?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Considering the visible assembly, what is the main structure or frame that holds up the daybed?",
+        "answer": "Boxy"
       }
     ]
   }

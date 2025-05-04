@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/52/52568468.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packing cubes shown after organization?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of these packing cubes?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the largest packing cube?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent texture of the packing cubes?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, how many individual packing cubes are visibly present in the 'after' section?",
+        "answer": "Four"
+      },
+      {
+        "question": "What design element is noticeable on the visible side of each packing cube?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the image, does the largest cube appear to have a zipper closure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent functionality of these items, as depicted in the image?",
+        "answer": "Organization"
+      },
+      {
+        "question": "Based solely on visual assessment, what seems to be the intended use of these items?",
+        "answer": "Travel"
+      },
+      {
+        "question": "From the image, what word describes the visual state of the suitcase 'after' using the cubes?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What is the visible color of the label on the packing cubes?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by visual appearance, how would you describe the apparent stitching on the cubes?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What is the apparent state of the suitcase 'before' using the packing cubes?",
+        "answer": "Messy"
+      },
+      {
+        "question": "What type of luggage seems to be shown in the image?",
+        "answer": "Suitcase"
+      },
+      {
+        "question": "What is the visible surface design on the larger packing cubes?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

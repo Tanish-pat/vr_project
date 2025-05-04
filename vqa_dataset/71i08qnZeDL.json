@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material of the chair's covering?",
+        "question": "What appears to be the primary material used for the chair's covering?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the overall shape of the chair's backrest.",
+        "question": "Considering the chair's design, what is its overall style?",
+        "answer": "Executive"
+      },
+      {
+        "question": "Describe the shape of the chair's backrest, considering its curves and contours?",
         "answer": "Curved"
       },
       {
-        "question": "What is the design style of the armrests on this chair?",
+        "question": "What type of armrests does this office chair feature, judging by their design?",
         "answer": "Padded"
       },
       {
-        "question": "Considering the base, what type of chair is this?",
-        "answer": "Swivel"
-      },
-      {
-        "question": "What is the apparent texture of the chair's upholstery?",
+        "question": "What is the apparent texture of the chair's upholstery, based on visual observation?",
         "answer": "Smooth"
       },
       {
-        "question": "What kind of wheels are visible on the chair's base?",
-        "answer": "Caster"
+        "question": "Based on its construction, what kind of base does the chair possess?",
+        "answer": "Star"
       },
       {
-        "question": "What is the shape of the chair's seat cushion?",
-        "answer": "Rectangular"
+        "question": "What kind of wheels are visible beneath the chair, judging from the image?",
+        "answer": "Roller"
       },
       {
-        "question": "Based on its features, what is the likely use of this chair?",
-        "answer": "Office"
-      },
-      {
-        "question": "What is the color of the chair's base and armrests?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the overall height of the chair, considering its back and seat?",
-        "answer": "High"
-      },
-      {
-        "question": "How many legs does the chair's base appear to have?",
+        "question": "How many legs support the chair's base, according to the image?",
         "answer": "Five"
       },
       {
-        "question": "Describe the visible adjustment mechanism under the seat.",
+        "question": "What mechanism is visible beneath the chair's seat, presumably for height adjustment?",
         "answer": "Lever"
       },
       {
-        "question": "Does the chair appear to have a headrest?",
-        "answer": "No"
+        "question": "Describe the overall shape of the chair's seat, considering its dimensions and form?",
+        "answer": "Rounded"
       },
       {
-        "question": "What kind of stitching is visible on the chair's upholstery?",
-        "answer": "Minimal"
+        "question": "Does the chair's backrest appear to provide significant lumbar support?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent overall height of the office chair?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is the material of the armrest structure, based on visual inspection?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the chair's design incorporate stitching details on its upholstery?",
+        "answer": "Yes"
       }
     ]
   }

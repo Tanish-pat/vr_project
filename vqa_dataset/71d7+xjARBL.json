@@ -9,7 +9,7 @@
         "answer": "Brown"
       },
       {
-        "question": "What material appears to constitute the tabletop's construction?",
+        "question": "What material appears to constitute the table's top?",
         "answer": "Wood"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "Rectangular"
       },
       {
-        "question": "What material seems to make up the table's base or frame?",
+        "question": "What material composes the visible structural frame?",
         "answer": "Metal"
       },
       {
-        "question": "How many distinct tray sections are visible on the table's top?",
+        "question": "How many distinct tray sections are integrated into the top?",
         "answer": "Two"
       },
       {
-        "question": "What is the apparent color of the coffee table's metal framework?",
+        "question": "What is the apparent finish of the metal frame?",
         "answer": "Black"
       },
       {
-        "question": "Characterize the visible texture of the wooden tabletop?",
+        "question": "Characterize the visual texture of the wooden top surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the style of the legs supporting the table's structure?",
-        "answer": "Square"
+        "question": "What is the predominant color of the metal frame?",
+        "answer": "Black"
       },
       {
-        "question": "What seems to be the finish of the wooden top surface?",
-        "answer": "Matte"
+        "question": "Does the table's design include any visible joinery?",
+        "answer": "Yes"
       },
       {
-        "question": "Considering the design, what is the coffee table's functionality?",
-        "answer": "Storage"
-      },
-      {
-        "question": "Describe the visible joinery between the wood and metal components?",
-        "answer": "Flush"
-      },
-      {
-        "question": "How would you describe the overall aesthetic of the coffee table?",
+        "question": "Considering the table's structure, what is its overall style?",
         "answer": "Modern"
       },
       {
-        "question": "What is the apparent thickness of the wooden tray components?",
-        "answer": "Thick"
+        "question": "What type of legs support the coffee table's frame?",
+        "answer": "Square"
       },
       {
-        "question": "What kind of feet does the coffee table appear to have?",
-        "answer": "Block"
+        "question": "Are there any noticeable decorative elements on the table?",
+        "answer": "No"
       },
       {
-        "question": "Describe the visible grain pattern within the wood of the tray?",
-        "answer": "Linear"
+        "question": "What seems to be the primary function of the top's divided sections?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Describe the visible profile of the metal frame's bars?",
+        "answer": "Square"
+      },
+      {
+        "question": "Does the wooden top appear to be a single piece of wood?",
+        "answer": "No"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the table lamp's base?",
+        "question": "What is the predominant color of the table lamp's ceramic base?",
         "answer": "Gray"
       },
       {
-        "question": "What specific geometric pattern is embossed on the lamp's body?",
+        "question": "What geometric pattern is prominently featured on the lamp's body?",
         "answer": "Triangles"
       },
       {
-        "question": "What material appears to constitute the main body of the lamp?",
+        "question": "What material appears to constitute the main body of the table lamp?",
         "answer": "Ceramic"
       },
       {
-        "question": "Describe the overall shape of the lamp's ceramic base?",
+        "question": "What is the overall shape of the lamp's ceramic base?",
         "answer": "Curved"
       },
       {
-        "question": "What is the apparent texture of the lamp's ceramic surface?",
-        "answer": "Embossed"
+        "question": "Describe the texture of the lamp's ceramic surface, based on visual observation?",
+        "answer": "Etched"
       },
       {
-        "question": "What color is the lampshade that sits atop the base?",
+        "question": "What color is the lampshade's fabric, as shown in the image?",
         "answer": "White"
       },
       {
-        "question": "What is the finish of the metallic lamp components?",
+        "question": "What seems to be the finish of the lamp's metal fitting?",
         "answer": "Brushed"
       },
       {
-        "question": "Considering the style, what design era does the lamp evoke?",
-        "answer": "Mid-century"
+        "question": "Considering the base's design, what style would best describe the lamp?",
+        "answer": "Geometric"
       },
       {
         "question": "What is the apparent material of the lamp's shade?",
         "answer": "Fabric"
       },
       {
-        "question": "How would you describe the visual style of the base's pattern?",
-        "answer": "Geometric"
+        "question": "Does the lamp's base show any noticeable variations in shading or tone?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the general shape of the individual geometric elements?",
-        "answer": "Triangular"
+        "question": "What is the apparent shape of the lamp's shade?",
+        "answer": "Round"
       },
       {
-        "question": "What is the color of the metallic connecting piece?",
-        "answer": "Silver"
+        "question": "How many distinct bands or rows are in the geometric pattern on the base?",
+        "answer": "Seven"
       },
       {
-        "question": "Considering the base's design, what adjective fits its aesthetic?",
-        "answer": "Textured"
+        "question": "What is the apparent material of the lamp's central connecting piece?",
+        "answer": "Metal"
       },
       {
-        "question": "What is the overall size of the lamp in the image?",
-        "answer": "Small"
+        "question": "What is the general visual impression conveyed by the lamp's design?",
+        "answer": "Modern"
       },
       {
-        "question": "Describe the visual impression given by the embossed pattern?",
-        "answer": "Repetitive"
+        "question": "Based on the visual details, how would you describe the lamp's overall aesthetic?",
+        "answer": "Minimalist"
       }
     ]
   }

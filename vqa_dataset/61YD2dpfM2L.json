@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color featured prominently on the phone case?",
-        "answer": "Pink"
-      },
-      {
-        "question": "What letter is displayed in a large, bold font within a heart shape?",
-        "answer": "N"
-      },
-      {
-        "question": "What shape encloses the prominent letter on the phone case?",
-        "answer": "Heart"
-      },
-      {
-        "question": "What color is the heart-shaped element containing the letter?",
+        "question": "What is the dominant color of the heart-shaped element on the phone case?",
         "answer": "Yellow"
       },
       {
-        "question": "What geometric shapes are dispersed as a repeating pattern across the background?",
-        "answer": "Stars"
+        "question": "What letter is prominently displayed within the heart on the phone case?",
+        "answer": "N"
       },
       {
-        "question": "What color are most of the stars on the background of this phone case?",
+        "question": "What is the primary shape of the design element containing the letter?",
+        "answer": "Heart"
+      },
+      {
+        "question": "What color are most of the stars depicted on the phone case?",
         "answer": "Pink"
       },
       {
-        "question": "What appears to be the material of this phone case, judging by its appearance?",
+        "question": "What appears to be the background color of the phone case design?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent material or finish of the phone case shown in the image?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall style or design theme of the phone case's pattern?",
-        "answer": "Graphic"
-      },
-      {
-        "question": "What color is the letter prominently displayed within the heart shape?",
-        "answer": "Black"
-      },
-      {
-        "question": "Besides stars, what other design element is scattered across the case background?",
+        "question": "Besides stars, what other design elements are visible on the case background?",
         "answer": "Swirls"
       },
       {
-        "question": "What is the general form factor of the item in the provided image?",
-        "answer": "Case"
+        "question": "What is the overall style or aesthetic of the phone case design?",
+        "answer": "Girly"
       },
       {
-        "question": "What type of device does this case appear to be designed for?",
-        "answer": "Phone"
-      },
-      {
-        "question": "What is the general visual texture of the case's background pattern?",
-        "answer": "Printed"
-      },
-      {
-        "question": "What is the primary method of decoration on this product?",
-        "answer": "Print"
-      },
-      {
-        "question": "What is the overall color scheme used throughout the entire design?",
+        "question": "What color is the lettering inside the yellow heart?",
         "answer": "Black"
+      },
+      {
+        "question": "Describe the style of the lettering of the letter in the heart?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What shape are the smaller design elements surrounding the heart?",
+        "answer": "Star"
+      },
+      {
+        "question": "Does the case appear to be rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the pattern of the background design?",
+        "answer": "Scattered"
+      },
+      {
+        "question": "What type of phone is the case designed for?",
+        "answer": "Samsung"
+      },
+      {
+        "question": "Describe the texture shown in the image on the phone case background?",
+        "answer": "Smooth"
       }
     ]
   }

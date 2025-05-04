@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4e3c93a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cylindrical casing visible on the rechargeable batteries?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the top and bottom ring encircling each of the cylindrical batteries?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the overall form factor, what is the geometric shape of each individual power cell?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Based on the branding visible on the battery's surface, which company manufactures this product?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Considering the image, what is the apparent surface texture of the main body of the battery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the material used in the construction of the positive and negative terminals?",
+        "answer": "Metal"
+      },
+      {
+        "question": "How many individual rechargeable batteries are shown clustered together in the provided image?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the clearly visible text indicating a safety precaution regarding electrical contact?",
+        "answer": "Caution"
+      },
+      {
+        "question": "Observing the packaging, what is the implied usage purpose of this product based on the form factor?",
+        "answer": "Power"
+      },
+      {
+        "question": "Considering the markings present, what is a specific battery type indicated on the cell casing?",
+        "answer": "AA"
+      },
+      {
+        "question": "What seems to be the overall condition or state of each battery from a visual perspective?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on visual observation, what specific battery chemistry is indicated on the cell?",
+        "answer": "NiMH"
+      },
+      {
+        "question": "What is the apparent size or scale of these batteries compared to average household items?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What is the branding style used for the text displayed on the surface of the batteries?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the image, what is the arrangement of the batteries within the visual field?",
+        "answer": "Grouped"
+      }
+    ]
+  }
+]

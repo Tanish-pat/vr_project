@@ -5,11 +5,11 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the chair and ottoman?",
+        "question": "What is the dominant color of the chair and ottoman?",
         "answer": "Gray"
       },
       {
-        "question": "What appears to be the upholstery material of the seating pieces?",
+        "question": "What appears to be the primary material of the upholstery?",
         "answer": "Leather"
       },
       {
@@ -17,7 +17,7 @@
         "answer": "Wingback"
       },
       {
-        "question": "What is the general form of the chair's silhouette?",
+        "question": "What is the shape best describing the chair's form?",
         "answer": "Oval"
       },
       {
@@ -25,43 +25,43 @@
         "answer": "Star"
       },
       {
-        "question": "What is the apparent finish of the chair's base?",
-        "answer": "Metallic"
+        "question": "What is the apparent finish of the chair's metallic base?",
+        "answer": "Silver"
       },
       {
-        "question": "What is the texture of the chair's upholstery, based on the image?",
+        "question": "What is the texture of the chair's upholstery?",
         "answer": "Distressed"
       },
       {
-        "question": "Does the chair include an accompanying footrest?",
+        "question": "How many legs does the ottoman visually possess?",
+        "answer": "Four"
+      },
+      {
+        "question": "Does the chair appear to have any visible stitching details?",
         "answer": "Yes"
       },
       {
-        "question": "What is the visible stitching style on the chair's cushions?",
-        "answer": "Minimal"
+        "question": "Is the seat cushion separate from the chair's backrest?",
+        "answer": "Yes"
       },
       {
-        "question": "How many legs are visible supporting the ottoman?",
-        "answer": "Four"
+        "question": "What is the general style of the chair and ottoman?",
+        "answer": "Modern"
       },
       {
         "question": "What is the apparent material of the ottoman's base?",
         "answer": "Metal"
       },
       {
-        "question": "What is the most noticeable design feature of the chair?",
+        "question": "Describe the chair's overall silhouette?",
         "answer": "Curved"
       },
       {
-        "question": "Describe the visible cushions on the main chair piece.",
-        "answer": "Plush"
+        "question": "Does the ottoman match the chair in terms of color and material?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the overall style of this furniture set?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Is the chair design symmetrical across its vertical axis?",
+        "question": "Considering the chair's size, is it a single-seater?",
         "answer": "Yes"
       }
     ]

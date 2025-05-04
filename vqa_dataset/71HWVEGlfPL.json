@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the slipper's main body?",
+        "question": "What is the predominant color of the visible slipper?",
         "answer": "Brown"
       },
       {
-        "question": "What material appears to constitute the slipper's strap?",
-        "answer": "Synthetic"
+        "question": "What material appears to constitute the slipper's upper strap?",
+        "answer": "Leather"
       },
       {
-        "question": "What is the overall shape of each individual slipper?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Describe the texture of the slipper's sole, based on visual appearance.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color is the thin stripe along the slipper's sole edge?",
-        "answer": "White"
-      },
-      {
-        "question": "What descriptive term best fits the slipper's style?",
+        "question": "What is the overall shape of the depicted footwear?",
         "answer": "Flip-flop"
       },
       {
-        "question": "What appears to be printed on the slipper's strap?",
-        "answer": "Ortho+"
+        "question": "Describe the texture of the slipper's sole, based on visual observation?",
+        "answer": "Smooth"
       },
       {
-        "question": "What color is the branding text visible on the slipper?",
+        "question": "What color is the thin stripe along the edge of the slipper's sole?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent material of the slipper's sole?",
+        "question": "What is the color of the branding text on the slipper's strap?",
+        "answer": "White"
+      },
+      {
+        "question": "Is there a noticeable pattern or design on the slipper's sole?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible text printed on the strap, near the toe?",
+        "answer": "Ortho"
+      },
+      {
+        "question": "What kind of material seems to compose the slipper's sole?",
         "answer": "Rubber"
       },
       {
-        "question": "Is there any visible stitching on the slipper's strap?",
+        "question": "What is the primary function of the product shown in the image?",
+        "answer": "Footwear"
+      },
+      {
+        "question": "Observing the strap's construction, is it single or double layered?",
+        "answer": "Double"
+      },
+      {
+        "question": "What color is the accent stitching/line visible on the strap?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visible text on the sole of the slipper?",
+        "answer": "BR"
+      },
+      {
+        "question": "Judging by the image, what is the style of the slipper?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Considering the visible features, is the slipper designed for high impact activities?",
         "answer": "No"
-      },
-      {
-        "question": "What is the design element at the toe post?",
-        "answer": "Y-shaped"
-      },
-      {
-        "question": "Considering the sole, what is its overall thickness?",
-        "answer": "Moderate"
-      },
-      {
-        "question": "What is visible on the upper surface of the slipper's insole?",
-        "answer": "Text"
-      },
-      {
-        "question": "Does the slipper feature any noticeable patterns?",
-        "answer": "No"
-      },
-      {
-        "question": "Based solely on the image, what is the slipper's apparent overall condition?",
-        "answer": "New"
       }
     ]
   }

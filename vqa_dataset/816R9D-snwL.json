@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d7/d76742ba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material visibly composing the majority of this dumbbell's structure?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the dumbbell's overall shape, what geometric term best describes its ends?",
+        "answer": "Hexagonal"
+      },
+      {
+        "question": "What numerical value, prominently displayed, indicates the weight of this dumbbell?",
+        "answer": "25"
+      },
+      {
+        "question": "Observing the color of the dumbbell, ignoring any markings, what single word best describes it?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visible texture, what single word best captures the surface finish of the dumbbell?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent overall shape of the dumbbell, considering the handle and weights?",
+        "answer": "Dumbbell"
+      },
+      {
+        "question": "Considering the handle's visual features, what is its most prominent characteristic?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the visible color of the numerical markings on each end of the dumbbell?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding the numerical markings, what is the surface's overall visible texture?",
+        "answer": "Cast"
+      },
+      {
+        "question": "What is the apparent primary function suggested by the overall shape and construction?",
+        "answer": "Exercise"
+      },
+      {
+        "question": "Focusing solely on the handle, what would you describe its visible surface as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the material and overall shape, what is the weight category of this item?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What seems to be the primary method of grip indicated by the handle's design?",
+        "answer": "Hand"
+      },
+      {
+        "question": "What is the type of weight depicted based on its features and the presence of a handle?",
+        "answer": "Dumbbell"
+      },
+      {
+        "question": "What single word describes the design style of the dumbbell's numbers?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

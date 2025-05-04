@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/817ee13f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary purpose of this product, as visually indicated by its labeling?",
+        "answer": "Medication"
+      },
+      {
+        "question": "Based on the text displayed, what specific ailment does this product aim to alleviate?",
+        "answer": "Flu"
+      },
+      {
+        "question": "Examining the detailed instructions, what is the recommended frequency of administration for adults and children over two years of age?",
+        "answer": "Every6hours"
+      },
+      {
+        "question": "Observing the prominent text, what is the stated active ingredient in this pharmaceutical preparation?",
+        "answer": "Anasbarbariae"
+      },
+      {
+        "question": "According to the label's warnings, what age group should consult a physician before using this product?",
+        "answer": "Children"
+      },
+      {
+        "question": "As indicated on the packaging, what is one inactive ingredient listed among others?",
+        "answer": "Lactose"
+      },
+      {
+        "question": "What is the shape of the packaging of this product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what color is the dominant text on the product's packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall visual texture of the packaging based on the image provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of information is prominently provided on the product's packaging, as shown in the image?",
+        "answer": "DrugFacts"
+      },
+      {
+        "question": "Judging by the image and given the context, what is the likely format of the medicine inside?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "Based on the image, what appears to be the material of this product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the text, what is the maximum number of doses indicated for a 24 hour period?",
+        "answer": "Three"
+      },
+      {
+        "question": "From the visual information, what is the method of administration for the medication as indicated?",
+        "answer": "Dissolve"
+      },
+      {
+        "question": "Based on the included text, what category of consumers is this product explicitly not suitable for?",
+        "answer": "Vegetarians"
+      }
+    ]
+  }
+]

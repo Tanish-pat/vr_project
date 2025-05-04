@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3bfda02c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the background design on the phone case?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary material seemingly used for this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the item depicted in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What natural element is prominently featured as a design element on the case?",
+        "answer": "Leaf"
+      },
+      {
+        "question": "What color is the leaf-shaped design element on the phone case?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Describe the texture simulated by the background design of the phone case?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the apparent finish of the background's simulated wooden texture?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "How many visible cutouts are present on this phone case for functionality?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the design style of the leaf on the phone case?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "What is the apparent orientation of the leaf design on the phone case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the leaf design appear to have any noticeable veins or details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the background, what aesthetic could best describe this phone case?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Does the phone case show any visible branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall level of detail in the leaf design on the case?",
+        "answer": "High"
+      },
+      {
+        "question": "Is the case design primarily geometric or organic in nature?",
+        "answer": "Organic"
+      }
+    ]
+  }
+]
