@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the sandal's straps?",
+        "question": "What is the dominant color of the sandal's straps?",
         "answer": "Tan"
       },
       {
@@ -18,6 +18,10 @@
       },
       {
         "question": "What is the overall shape of the sandal's heel?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What style of heel does the sandal possess?",
         "answer": "Block"
       },
       {
@@ -25,44 +29,40 @@
         "answer": "Smooth"
       },
       {
-        "question": "What type of footwear is depicted in the image?",
-        "answer": "Sandals"
-      },
-      {
-        "question": "What style of heel is featured on these sandals?",
-        "answer": "Low"
-      },
-      {
-        "question": "Describe the arrangement of the straps across the foot?",
-        "answer": "Layered"
-      },
-      {
-        "question": "What is the general shape of the sandal's footbed?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Does the heel appear to have a grain pattern?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Describe the style of the sandal's straps as to their width?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Considering the image angle, what is the view presented?",
-        "answer": "Rear"
-      },
-      {
-        "question": "Describe the apparent finish of the sandal's wood heel?",
-        "answer": "Matte"
-      },
-      {
         "question": "What is the apparent material of the sandal's straps?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the sandal's closure mechanism type?",
-        "answer": "Slip-on"
+        "question": "Characterize the arrangement of the sandal's straps?",
+        "answer": "Parallel"
+      },
+      {
+        "question": "Describe the heel's grain pattern visually?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What type of sandal is depicted in the image?",
+        "answer": "Slide"
+      },
+      {
+        "question": "What is the color of the sandal's heel?",
+        "answer": "Brown"
+      },
+      {
+        "question": "How would you describe the sandal's toe shape?",
+        "answer": "Square"
+      },
+      {
+        "question": "Describe the overall design aesthetic of the sandal?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the height of the sandal's heel, relative to the sole?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the footwear's implied purpose or function?",
+        "answer": "Fashion"
       }
     ]
   }

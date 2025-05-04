@@ -5,11 +5,11 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color displayed on the primary surface of the phone case?",
+        "question": "What is the dominant color displayed prominently on the phone case's central design?",
         "answer": "Blue"
       },
       {
-        "question": "What uppercase letter is prominently featured in the center of the phone case design?",
+        "question": "What uppercase letter is centrally featured within an ornate frame on the phone case?",
         "answer": "P"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "Silicone"
       },
       {
-        "question": "Describe the style of the decorative elements flanking the central letter on the phone case.",
+        "question": "What decorative style frames the central letter on the phone case's design?",
         "answer": "Floral"
       },
       {
-        "question": "What color are the decorative flourishes embellishing the phone case's design?",
+        "question": "What color is the ornate frame surrounding the letter on the phone case?",
         "answer": "Gold"
       },
       {
-        "question": "Considering the image, what seems to be the overall shape of the protective phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Based on visual inspection, does the case appear to fully encapsulate the phone?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the apparent finish or texture of the phone case's surface, as shown in the image?",
+        "question": "What is the apparent texture of the phone case's outer surface, based on the image?",
         "answer": "Smooth"
       },
       {
-        "question": "Judging from the image, is the back of the phone case visibly printed with a design?",
-        "answer": "Yes"
+        "question": "Considering the design, what is the overall aesthetic style of this phone case?",
+        "answer": "Elegant"
       },
       {
-        "question": "Do the sides of the case appear to be transparent, allowing visibility of the phone's edges?",
-        "answer": "Yes"
+        "question": "Based on the visual details, what type of design is printed on the phone case's back?",
+        "answer": "Monogram"
       },
       {
-        "question": "Are all ports of the underlying mobile phone seemingly accessible with the case on?",
-        "answer": "Yes"
+        "question": "Judging from the image, what shape is the phone case designed to fit?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Considering the design elements and the materials, what is the likely intended purpose of this product?",
-        "answer": "Protection"
+        "question": "What does the case's visual appearance suggest regarding its ability to protect the phone?",
+        "answer": "Protective"
       },
       {
-        "question": "From the image alone, how many layers of printed design appear to be on the phone case?",
-        "answer": "Two"
+        "question": "What color is the phone case's border, visible along its edges?",
+        "answer": "White"
       },
       {
-        "question": "Does the case's image show any signs of noticeable scratches or blemishes?",
-        "answer": "No"
-      },
-      {
-        "question": "In the image, what kind of printing technique appears to have been employed for the design?",
+        "question": "What printing technique is used to apply the design, considering the image resolution?",
         "answer": "Digital"
+      },
+      {
+        "question": "Does the image show any visible signs of the case being flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What level of clarity does the phone case\u2019s back panel offer, judging from the image?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the image, is the phone case design primarily characterized by sharp lines or curves?",
+        "answer": "Curves"
       }
     ]
   }

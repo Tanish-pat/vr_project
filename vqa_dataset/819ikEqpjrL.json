@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c0c4a550.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual pattern on the phone case?",
+        "answer": "Foliage"
+      },
+      {
+        "question": "What is the overall shape of the depicted phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color scheme of the glitter effect on the case?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "What type of apparent finish does the phone case possess?",
+        "answer": "Glittery"
+      },
+      {
+        "question": "What is the most noticeable texture present on the phone case surface?",
+        "answer": "Sparkle"
+      },
+      {
+        "question": "What material is primarily suggested by the phone case's visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the graphic design, what is the style of the leaf image?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Considering the color palette, what is the most noticeable hue?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Regarding the design, what is the apparent technique used to produce the glitter effect?",
+        "answer": "Printing"
+      },
+      {
+        "question": "In terms of the visual pattern, what is depicted against the sparkly background?",
+        "answer": "Leaf"
+      },
+      {
+        "question": "What is the apparent state of the phone case's surface, smooth or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based solely on the image, what is the design's overall aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the inferred design style regarding the foliage graphic?",
+        "answer": "Botanical"
+      },
+      {
+        "question": "Considering the phone case's edges, what is their apparent visual quality?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the overall impression regarding the color saturation?",
+        "answer": "High"
+      }
+    ]
+  }
+]

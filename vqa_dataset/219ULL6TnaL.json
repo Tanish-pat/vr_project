@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d9/d9205e47.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cooler's main body?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the cooler's exterior?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the depicted cooler?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the prominent rectangular patch on the cooler's front?",
+        "answer": "Tan"
+      },
+      {
+        "question": "What appears to be the texture of the cooler's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of fastener is visible on the cooler's top edge?",
+        "answer": "Buckle"
+      },
+      {
+        "question": "How many visible buckles secure the cooler's lid?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent material of the cooler's handles or grips?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Is there any noticeable branding or lettering on the cooler's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color are the visible buckles or latches?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the general condition of the cooler's exterior in the image.",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the cooler appear to have wheels or rollers for mobility?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, does the cooler seem to be designed for carrying?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size or scale of the cooler relative to a person?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely function of the product?",
+        "answer": "Cooling"
+      }
+    ]
+  }
+]

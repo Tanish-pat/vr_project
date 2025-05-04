@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a8/a8da3fc4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the upholstery fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the geometric pattern decorating the visible upholstery?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What appears to be the texture of the upholstery fabric based on the visual details?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the image, what is the main material of the visible portion of the furniture?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the visible furniture section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based solely on visual examination, what is the color of the lines within the upholstery pattern?",
+        "answer": "White"
+      },
+      {
+        "question": "From the image, what seems to be the style of the furniture's armrest design?",
+        "answer": "Padded"
+      },
+      {
+        "question": "What type of pattern is depicted on the back cushion of this piece of furniture?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "Considering the visual details, what seems to be the visible furniture's function?",
+        "answer": "Seating"
+      },
+      {
+        "question": "Based on the image's visual characteristics, what is the furniture piece's apparent construction?",
+        "answer": "Upholstered"
+      },
+      {
+        "question": "Judging from the image alone, what is the apparent condition of the furniture's fabric?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the image display a consistent pattern across the visible furniture surfaces?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent level of detail in the design of the upholstery fabric?",
+        "answer": "High"
+      },
+      {
+        "question": "What kind of lines make up the pattern visible on the presented furniture?",
+        "answer": "Straight"
+      },
+      {
+        "question": "From the visual inspection, is the furniture's fabric patterned or plain?",
+        "answer": "Patterned"
+      }
+    ]
+  }
+]

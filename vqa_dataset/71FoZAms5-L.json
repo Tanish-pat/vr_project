@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall shape and form of the container, what geometrical term best describes it?",
+        "question": "Considering the overall shape of the product container, what geometric form best describes its general contour?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What is the predominant color of the gummy candies visible through the bottle?",
-        "answer": "Reddish"
+        "question": "What color are the gummy supplements visibly contained within the transparent bottle?",
+        "answer": "Red"
       },
       {
-        "question": "What material seems to comprise the primary body of the product container?",
+        "question": "What material appears to constitute the primary body of the product's packaging?",
         "answer": "Glass"
       },
       {
-        "question": "What specific type of closure does the bottle exhibit at the top?",
-        "answer": "Screw-top"
-      },
-      {
-        "question": "Based on the visible contents, what form does the dietary supplement take?",
-        "answer": "Gummies"
-      },
-      {
-        "question": "What color is the label encompassing the product information?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the discernible texture of the label on the product container?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What single word best describes the overall appearance of the label's typeface?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "What kind of image is used to supplement the text on the label?",
-        "answer": "Botanical"
-      },
-      {
-        "question": "Considering the label's image, what plant is depicted?",
-        "answer": "Elderberry"
-      },
-      {
-        "question": "What is explicitly stated as a flavor component on the bottle?",
-        "answer": "Raspberry"
-      },
-      {
-        "question": "What is the stated primary substance in the supplement (excluding the flavor)?",
-        "answer": "Propolis"
-      },
-      {
-        "question": "What additional element is mentioned in conjunction with the primary ingredient?",
-        "answer": "Echinacea"
-      },
-      {
-        "question": "What is the container's cap primarily constructed from?",
+        "question": "Observing the cap, what material seems most likely to have been used in its construction?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the described nature of the supplement\u2019s gummy base?",
-        "answer": "Plant-based"
+        "question": "What is the dominant color of the text displayed on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the image of the elderberry cluster on the label, what is its most apparent color?",
+        "answer": "DarkPurple"
+      },
+      {
+        "question": "Regarding the texture of the gummies, based on the visual appearance, would you describe them as smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall design of the label, is the aesthetic minimalist or maximalist?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What word, prominently featured on the product label, most directly identifies the supplement's primary ingredients?",
+        "answer": "Propolis"
+      },
+      {
+        "question": "Looking at the label, what secondary ingredient is named in conjunction with the primary ingredient?",
+        "answer": "Echinacea"
+      },
+      {
+        "question": "What term on the label categorizes the product's regulatory status?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What flavor is specified for the gummies in small text on the label?",
+        "answer": "Raspberry"
+      },
+      {
+        "question": "What is the apparent manufacturing company or brand name depicted on the label?",
+        "answer": "LUTROVITA"
+      },
+      {
+        "question": "Regarding the visible gummies, what might be inferred about their consistency based on their form?",
+        "answer": "Chewy"
+      },
+      {
+        "question": "What is the number of gummies indicated on the label?",
+        "answer": "200"
       }
     ]
   }

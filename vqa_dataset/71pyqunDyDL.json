@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2a932799.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the containers holding the product?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the exterior packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the overall shape of the individual product containers?",
+        "answer": "Jug"
+      },
+      {
+        "question": "Describe the handle type on each product container, judging from the image?",
+        "answer": "Loop"
+      },
+      {
+        "question": "What color is the prominent text label on the product container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the apparent texture of the packaging's exterior surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the packaging, how many units appear to be inside the box?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the apparent primary function, as indicated on the label?",
+        "answer": "Cleaner"
+      },
+      {
+        "question": "Considering the image, what secondary function is hinted on the label?",
+        "answer": "Maintainer"
+      },
+      {
+        "question": "What is the apparent packaging style for product delivery?",
+        "answer": "Box"
+      },
+      {
+        "question": "What is the apparent material of the individual product containers?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What seems to be the size of the containers based on the visuals?",
+        "answer": "Gallon"
+      },
+      {
+        "question": "Judging from the image, what is the visible style of the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the background against which the product is shown?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What seems to be the state of the packaging, opened or closed?",
+        "answer": "Open"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the frame's outer border?",
+        "question": "What is the predominant color of the frame's outer border, as visibly shown in the image?",
         "answer": "Gray"
       },
       {
-        "question": "What is the overall shape of the triple picture frame?",
+        "question": "Considering the image, what is the apparent shape of the entire picture frame?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the material of the picture frame?",
-        "answer": "Wood"
-      },
-      {
-        "question": "How many individual photo compartments does the frame possess?",
+        "question": "Based on visual inspection, how many individual photo compartments are within the frame?",
         "answer": "Three"
       },
       {
-        "question": "Describe the arrangement of the three photo compartments within the frame.",
-        "answer": "Horizontal"
+        "question": "Judging from the image, what appears to be the primary material of the picture frame?",
+        "answer": "Wood"
       },
       {
-        "question": "What is the visible texture of the outer frame's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the frame's design, what style best describes it?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What color is the matting inside each photo compartment?",
-        "answer": "White"
-      },
-      {
-        "question": "Does the frame appear to have any visible embellishments or ornamentation?",
-        "answer": "No"
-      },
-      {
-        "question": "Based on the image, what seems to be the overall width of the entire frame?",
-        "answer": "Narrow"
-      },
-      {
-        "question": "Judging by the image, what is the approximate thickness of the frame's border?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Does the frame include any glass or protective covering for the pictures?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Describe the visible joinery between the frame's components.",
-        "answer": "Seamless"
-      },
-      {
-        "question": "What is the apparent finish of the outer frame, matte or glossy?",
+        "question": "From the provided image, what is the apparent finish of the frame's outer border?",
         "answer": "Matte"
       },
       {
-        "question": "Considering the image provided, is the frame suitable for vertical or horizontal orientation?",
-        "answer": "Both"
+        "question": "Analyzing the image, what is the arrangement style of the three individual photo compartments?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Observing the image, what is the visible width of the frame's border relative to the photo openings?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "What is the overall visual impression of the frame's style as shown in the image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the image, what is the apparent texture of the frame's outer border?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on visual observation, what is the perceived tone of the gray color of the frame?",
+        "answer": "Taupe"
+      },
+      {
+        "question": "From the image, describe the visible joining method between the frame and compartments",
+        "answer": "Seamless"
+      },
+      {
+        "question": "What is the apparent visual thickness of the frame border, according to the image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging from the image, what is the overall style of the frame's design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "According to the image, what seems to be the dominant finish or coating on the wood?",
+        "answer": "Painted"
+      },
+      {
+        "question": "In the provided image, what kind of visual detail or ornamentation is present on the frame itself?",
+        "answer": "None"
       }
     ]
   }

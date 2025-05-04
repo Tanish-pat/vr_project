@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d35d6c66.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the speaker's exterior casing?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material appears to constitute the speaker grille?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "What shape best describes the overall form factor of this audio device?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Considering the visible ports, what audio input method is explicitly supported?",
+        "answer": "AUX"
+      },
+      {
+        "question": "What is the apparent finish of the speaker's main body?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on the visible controls, what is one clear operational state indicated?",
+        "answer": "On"
+      },
+      {
+        "question": "What type of connector is depicted for potential digital audio input?",
+        "answer": "USB"
+      },
+      {
+        "question": "Describe the pattern of the speaker's protective grille visually",
+        "answer": "Grid"
+      },
+      {
+        "question": "What is the apparent physical control for powering the device on or off?",
+        "answer": "Switch"
+      },
+      {
+        "question": "What is the texture suggested by the speaker's colored surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of connector is depicted for an analog audio input?",
+        "answer": "Jack"
+      },
+      {
+        "question": "What is the orientation of the visible labels near the ports?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the speaker's external casing show any visible seams or joints?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the design of the control switch in terms of shape.",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the overall aesthetic impression of this audio device?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

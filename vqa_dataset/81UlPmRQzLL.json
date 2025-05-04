@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall aesthetic, what is the dominant design style of this phone case?",
-        "answer": "Retro"
-      },
-      {
-        "question": "What primary color dominates the central horizontal band of the phone case?",
+        "question": "What is the dominant color visually apparent across the phone case's horizontal bands?",
         "answer": "Blue"
       },
       {
-        "question": "Observing the texture, what appears to be the simulated material of the phone case's design?",
+        "question": "Considering the texture, what material-like effect is predominantly shown on the phone case?",
         "answer": "Wood"
       },
       {
-        "question": "What color is the bottom horizontal band displayed prominently on the phone case?",
+        "question": "Describe the color of the bottom horizontal band present on the phone case's design?",
         "answer": "Red"
       },
       {
-        "question": "What is the apparent finish applied to create the visual texture on this phone case?",
-        "answer": "Grunge"
-      },
-      {
-        "question": "Focusing on the top horizontal band, what color is most prominent in the phone case's design?",
-        "answer": "Beige"
-      },
-      {
-        "question": "What is the overall shape of this mobile phone protective accessory?",
+        "question": "What is the general shape of the depicted mobile phone protective case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the presented views, how many distinct color bands are incorporated into the design?",
-        "answer": "Three"
+        "question": "What color is the topmost horizontal band on the phone case's illustrated design?",
+        "answer": "Beige"
       },
       {
-        "question": "Based on visual cues, what seems to be the material of this phone case?",
-        "answer": "Plastic"
+        "question": "Based on the image, what style does the phone case's design primarily evoke?",
+        "answer": "Vintage"
       },
       {
-        "question": "Disregarding the printed design, what is the apparent form factor of the displayed item?",
-        "answer": "Slim"
+        "question": "What seems to be the texture of the middle band, considering visual representation?",
+        "answer": "Rough"
       },
       {
-        "question": "What is the visual effect achieved through the subtle variations in shade and tone?",
-        "answer": "Distressed"
+        "question": "Judging by the image, what is the overall visual aesthetic of the phone case?",
+        "answer": "Retro"
       },
       {
-        "question": "Considering the image, what style best describes the depicted phone case?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Examining the visual elements, what is the dominant pattern across the case?",
-        "answer": "Horizontal"
-      },
-      {
-        "question": "What design element is used to separate the distinct color sections?",
+        "question": "Disregarding the camera cutouts, what is the primary design element on this phone case?",
         "answer": "Stripes"
       },
       {
-        "question": "Judging by the visual presentation, is this phone case designed for a particular brand?",
-        "answer": "Samsung"
+        "question": "What is the visual appearance of the material on the case's bottom stripe?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What best describes the visual style of the printed design on the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What is the implied finish or visual appearance of the phone case\u2019s surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the type of visual pattern used to create the phone case's design?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the visual presentation of the color transition between the bands?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Excluding cutouts, is the design pattern consistent across the phone case\u2019s surfaces?",
+        "answer": "Yes"
       }
     ]
   }

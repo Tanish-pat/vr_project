@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the cooler bag's interior lining?",
+        "question": "What is the predominant color of the interior lining visible in the image?",
         "answer": "Silver"
       },
       {
-        "question": "What material appears to be used for the thermal lining of this cooler bag?",
+        "question": "What appears to be the material of the interior thermal lining?",
         "answer": "Foil"
       },
       {
-        "question": "What is the overall shape of the cooler bag as depicted in this close-up image?",
-        "answer": "Oval"
-      },
-      {
-        "question": "Based on the visible stitching, what seems to be the construction method of the bag?",
-        "answer": "Seamed"
-      },
-      {
-        "question": "Considering the visible texture, what is the apparent surface feel of the interior lining?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color is the exterior fabric of the visible portion of the cooler bag?",
-        "answer": "Black"
-      },
-      {
-        "question": "Judging by the image, what seems to be the primary function of this product?",
-        "answer": "Cooling"
-      },
-      {
-        "question": "Describe the visible edge finishing along the top of the cooler bag's interior.",
-        "answer": "Bound"
-      },
-      {
-        "question": "What appears to be the primary material of the cooler bag's outer shell?",
+        "question": "Considering the visual texture, what is the likely material of the outer shell?",
         "answer": "Fabric"
       },
       {
-        "question": "What kind of visual design element is noticeable on the inner lining?",
-        "answer": "Metallic"
+        "question": "Judging by the image, what is the overall shape of the product?",
+        "answer": "Oval"
       },
       {
-        "question": "Considering the image, what can you say about the bag's opening mechanism?",
-        "answer": "Zippered"
+        "question": "Based on the visible stitching, what is the construction type of the product?",
+        "answer": "Stitched"
       },
       {
-        "question": "What is the apparent condition of the visible stitching on the bag?",
-        "answer": "Intact"
+        "question": "What color is the visible exterior fabric of the product?",
+        "answer": "Black"
       },
       {
-        "question": "Based solely on the image, what is the thickness of the thermal lining?",
-        "answer": "Thick"
+        "question": "What is the apparent purpose suggested by the shiny interior?",
+        "answer": "Insulation"
       },
       {
-        "question": "What is the apparent overall style of the cooler bag based on its shape?",
-        "answer": "Simple"
+        "question": "Does the image show a handle or carrying mechanism?",
+        "answer": "No"
       },
       {
-        "question": "What is the visible texture of the outer fabric of the cooler bag?",
+        "question": "What kind of closure mechanism is visible on the top of the product?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Based on the image, is the interior lining smooth or textured?",
         "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the visible seams, what is the apparent construction method?",
+        "answer": "Sewn"
+      },
+      {
+        "question": "Describe the visible edge finishing of the main compartment.",
+        "answer": "Bound"
+      },
+      {
+        "question": "What is the main visible feature of the product's interior?",
+        "answer": "Lining"
+      },
+      {
+        "question": "What design element is visible along the top edge of the product?",
+        "answer": "Binding"
+      },
+      {
+        "question": "Based on the image, what is the overall state of the product?",
+        "answer": "New"
       }
     ]
   }

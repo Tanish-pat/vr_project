@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the predominant shape of the water bottle depicted?",
+        "question": "Considering the overall form, what is the most prominent geometric shape of this bottled product?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What primary color is the plastic bottle that holds the alkaline water?",
+        "question": "What color is the predominant shade of the plastic bottle, as visually observed?",
         "answer": "Blue"
       },
       {
-        "question": "What material is visibly used for the construction of the water bottle?",
+        "question": "Based on visual appearance, what seems to be the material of this product's container?",
         "answer": "Plastic"
       },
       {
-        "question": "Based on the label's typography, what type of water is contained inside?",
-        "answer": "Alkaline"
-      },
-      {
-        "question": "What is the color of the cap situated at the top of the water bottle?",
-        "answer": "White"
-      },
-      {
-        "question": "Observing the bottle's label, what brand name is prominently displayed?",
-        "answer": "365"
-      },
-      {
-        "question": "What is the overall transparency level of the water bottle's plastic material?",
-        "answer": "Translucent"
-      },
-      {
-        "question": "Describe the texture of the water bottle's surface, based on its visual appearance?",
+        "question": "What single word best describes the visual texture of the bottle's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the dominant color scheme of the text featured on the bottle's label?",
-        "answer": "Teal"
-      },
-      {
-        "question": "Considering the design, does the label have a predominantly vertical or horizontal orientation?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What is the visual style of the word 'Alkaline' on the water bottle's label?",
+        "question": "Judging from the image, what is the style of the label's text font?",
         "answer": "Script"
       },
       {
-        "question": "What type of closure mechanism is evident at the top of the bottle?",
-        "answer": "Cap"
+        "question": "What is the primary color of the label, discounting the brand logo?",
+        "answer": "Teal"
       },
       {
-        "question": "Describe the visual appearance of the bottom of the water bottle?",
-        "answer": "Rounded"
+        "question": "What is the main text featured on the bottle's label, excluding the brand?",
+        "answer": "Alkaline"
       },
       {
-        "question": "Is the label design primarily text-based or image-based?",
-        "answer": "Text-based"
+        "question": "Describe the type of cap present on the bottle, based solely on visual characteristics.",
+        "answer": "Screw"
       },
       {
-        "question": "Does the bottle show any visible imperfections or irregularities on its surface?",
-        "answer": "None"
+        "question": "What is the color of the bottle cap, excluding any other visual elements?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most noticeable feature in the brand's logo besides the words?",
+        "answer": "Squares"
+      },
+      {
+        "question": "What word is printed directly below the word 'Alkaline' on the label?",
+        "answer": "Water"
+      },
+      {
+        "question": "What is the descriptive term used to describe the water contained within?",
+        "answer": "Alkaline"
+      },
+      {
+        "question": "Disregarding the logo, what color are the additional smaller text elements?",
+        "answer": "Gray"
+      },
+      {
+        "question": "In the context of this product, what does the brand's name identify?",
+        "answer": "Water"
+      },
+      {
+        "question": "Excluding any other details, what is the brand name printed on the bottle?",
+        "answer": "365"
       }
     ]
   }

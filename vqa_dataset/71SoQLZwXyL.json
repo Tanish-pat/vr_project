@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/eb817105.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the soup depicted on the packaging?",
+        "answer": "Red"
+      },
+      {
+        "question": "What type of soup is advertised on the box's primary label?",
+        "answer": "Bisque"
+      },
+      {
+        "question": "What is the prominent adjective describing the soup's origin?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the brand name showcased on the front of the box?",
+        "answer": "365"
+      },
+      {
+        "question": "What ingredient is specifically highlighted in the product's name?",
+        "answer": "Tomato"
+      },
+      {
+        "question": "What is the shape of the container holding the soup, as shown on the box?",
+        "answer": "Bowl"
+      },
+      {
+        "question": "What is the apparent texture of the soup shown on the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is depicted along with the soup bowl in the packaging illustration?",
+        "answer": "Crackers"
+      },
+      {
+        "question": "What design element is visible at the top of the packaging?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What is the visible material of the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the style of the text font used for the brand name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the text indicating 'Organic' on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall color scheme of the packaging design?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the small image visible beneath the main label illustration?",
+        "answer": "Seal"
+      }
+    ]
+  }
+]

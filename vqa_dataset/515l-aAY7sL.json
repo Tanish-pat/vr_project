@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the main body of the sandal?",
+        "question": "What is the predominant color of the sandal's upper?",
         "answer": "Teal"
       },
       {
-        "question": "What color are the accents and straps on the sandal?",
+        "question": "What color are the accents or trim on the sandal?",
         "answer": "Pink"
       },
       {
-        "question": "What appears to be the primary material of the sandal's upper?",
-        "answer": "Synthetic"
+        "question": "What appears to be the material of the sandal's sole?",
+        "answer": "Rubber"
       },
       {
-        "question": "Describe the overall shape of the sandal's sole unit?",
-        "answer": "Rounded"
+        "question": "What is the overall style of the sandal shown in the image?",
+        "answer": "Sporty"
       },
       {
-        "question": "What design feature is visible around the perimeter of the sole?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What type of closure mechanism does this sandal utilize?",
-        "answer": "Hook-and-Loop"
-      },
-      {
-        "question": "Considering the visible perforations, what is the likely functionality of these?",
-        "answer": "Ventilation"
-      },
-      {
-        "question": "What is the texture of the visible sandal upper surfaces?",
+        "question": "Describe the texture of the sandal's upper, based solely on the image?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent style of the sandal displayed in the image?",
-        "answer": "Sport"
+        "question": "What type of closure mechanism is visible on the sandal?",
+        "answer": "Strap"
       },
       {
-        "question": "Judging by the design, what is the likely intended use of this footwear?",
-        "answer": "Water"
+        "question": "What is the apparent shape of the sandal's toe area?",
+        "answer": "Rounded"
       },
       {
-        "question": "What is the apparent flexibility of the sandal's sole, visually?",
-        "answer": "Flexible"
-      },
-      {
-        "question": "Is there any apparent visible branding or logos on the sandal?",
+        "question": "Is the sole of the sandal visibly textured or patterned?",
         "answer": "No"
       },
       {
-        "question": "Describe the style of the straps in relation to the sandal body?",
-        "answer": "Adjustable"
+        "question": "Considering the visible design, what is the intended use of this footwear?",
+        "answer": "Water"
       },
       {
-        "question": "What is the general condition or apparent wear of the sandals shown?",
-        "answer": "New"
+        "question": "What color is the visible portion of the sandal's midsole?",
+        "answer": "Gray"
       },
       {
-        "question": "Based on the design, for what age group is this sandal likely intended?",
+        "question": "Based on visual attributes, what is the likely target age group?",
         "answer": "Toddler"
+      },
+      {
+        "question": "How many straps are visibly present on the sandal's upper?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the general shape of the sandal's overall form?",
+        "answer": "Open"
+      },
+      {
+        "question": "Does the image show any significant branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the sandal shown in the image?",
+        "answer": "New"
       }
     ]
   }

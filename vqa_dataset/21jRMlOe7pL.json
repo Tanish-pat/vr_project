@@ -1,0 +1,65 @@
+[
+  {
+    "path": "images/small/b4/b44ca145.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the text's primary function?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Disregarding any specific words, what color is the text displayed on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the label containing the text?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the case style of the lettering used in the prominent text?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "In the text on the label, what type of coffee is specifically mentioned?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the word directly preceding the word 'coffee' on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Besides the product name, what other word is capitalized within the visible label text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describe the overall font weight or thickness used for the text on the package?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the image, what appears to be the physical format of the item described?",
+        "answer": "Label"
+      },
+      {
+        "question": "Ignoring the words, describe the visual texture of the label's background?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What punctuation mark is placed at the very end of the visible text on the label?",
+        "answer": "Period"
+      },
+      {
+        "question": "Based solely on the visual appearance, describe the text alignment on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the general style of the typeface used on the product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing only on the label's visual aspect, how many lines of text are fully visible?",
+        "answer": "One"
+      }
+    ]
+  }
+]

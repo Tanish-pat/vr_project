@@ -9,60 +9,60 @@
         "answer": "Cream"
       },
       {
-        "question": "Considering the fringe, what textile element is visible at the blanket's bottom edge?",
-        "answer": "Fringe"
-      },
-      {
-        "question": "Based on the image, what is the apparent texture of the throw blanket's main body?",
-        "answer": "Fuzzy"
-      },
-      {
-        "question": "Describe the overall shape of the throw blanket when casually draped over furniture.",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What color is the fringe at the bottom edge of the throw blanket?",
+        "question": "Considering the fringe, what is the secondary color visible at the blanket's bottom edge?",
         "answer": "Yellow"
       },
       {
-        "question": "Judging by the image, what appears to be the primary material of the throw blanket?",
-        "answer": "Yarn"
-      },
-      {
-        "question": "What is the apparent weave structure of the main body of the throw?",
+        "question": "What textile structure is most apparent in the blanket's main body, judging by the image's texture?",
         "answer": "Woven"
       },
       {
-        "question": "Describe the visual pattern on the main body of the throw blanket shown in the image.",
+        "question": "Describe the texture of the fringe along the bottom hem of the throw blanket displayed in the image?",
+        "answer": "Frayed"
+      },
+      {
+        "question": "What is the overall shape of the product, as it is casually draped across the furniture?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its visual appearance, what is the apparent material composition of this throw?",
+        "answer": "Yarn"
+      },
+      {
+        "question": "Observing the image, what is the design pattern that is woven into the blanket itself?",
         "answer": "Solid"
       },
       {
-        "question": "Considering the drape, what is the general weight or thickness of the blanket?",
-        "answer": "Thick"
+        "question": "What is the style of the decorative element along the lower edge of the displayed textile?",
+        "answer": "Fringe"
       },
       {
-        "question": "What is the visible style or design of the throw, based on the image provided?",
-        "answer": "Simple"
+        "question": "Considering the way it is arranged, what is the general feel or look of this blanket in the image?",
+        "answer": "Cozy"
       },
       {
-        "question": "What is the apparent softness or coarseness of the blanket's surface texture?",
+        "question": "Does the blanket demonstrate any clearly visible pattern or print across its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Focusing on the texture shown, how would you describe the feel of the main body of the blanket?",
         "answer": "Soft"
       },
       {
-        "question": "In the given image, what is the main element being shown and described?",
-        "answer": "Blanket"
+        "question": "Judging by the image alone, what is the approximate length of the fringe on the blanket?",
+        "answer": "Short"
       },
       {
-        "question": "Considering the visual aspects, what seems to be the intended use of the item?",
-        "answer": "Throw"
+        "question": "Based on visual appearance, does the blanket seem lightweight or heavy?",
+        "answer": "Lightweight"
       },
       {
-        "question": "Based on visual observation, what is the general level of sheen or luster on the blanket?",
-        "answer": "Matte"
+        "question": "From the image, how many distinct colors compose this textile product?",
+        "answer": "Two"
       },
       {
-        "question": "Observing the bottom edge, what is the primary characteristic of the decorative element?",
-        "answer": "Tassels"
+        "question": "What is the visible overall condition of the throw blanket, free from any damage shown?",
+        "answer": "New"
       }
     ]
   }

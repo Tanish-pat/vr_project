@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/23/23ce7e8f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted balls, as shown in the provided bounce test image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the bounce test illustration, what appears to be the dominant shape of the testing objects?",
+        "answer": "Spherical"
+      },
+      {
+        "question": "Based on the visual evidence from the bounce test diagram, what seems to be the material of the balls being tested?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image's visual depiction of the bounce test, what is the apparent surface texture of the test balls?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In the bounce test graphic, what seems to be the number of balls used in the demonstration?",
+        "answer": "Three"
+      },
+      {
+        "question": "Observing the provided bounce test image, what is the apparent design feature visible on each test ball?",
+        "answer": "Stars"
+      },
+      {
+        "question": "From the visual details of the bounce test image, what is the unit of measurement used to indicate the drop height?",
+        "answer": "Millimeters"
+      },
+      {
+        "question": "According to the visual representation of the bounce test, what is the indicated initial drop height of the balls?",
+        "answer": "305"
+      },
+      {
+        "question": "What appears to be the color of the surface against which the balls are bounced, according to the bounce test illustration?",
+        "answer": "Black"
+      },
+      {
+        "question": "What does the image show as the height of the second bounce of the ball in millimeters?",
+        "answer": "260"
+      },
+      {
+        "question": "Considering the image's visual data, what measurement unit is used for the second bounce height in the bounce test diagram?",
+        "answer": "Millimeters"
+      },
+      {
+        "question": "In the provided bounce test image, what is the minimum accepted bounce height in millimeters?",
+        "answer": "240"
+      },
+      {
+        "question": "Based on visual analysis of the bounce test diagram, what is the indicated tolerance range for the acceptable bounce height in millimeters?",
+        "answer": "20"
+      },
+      {
+        "question": "What is the shape of the surface shown in the bounce test diagram where the ball initially bounces?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the surface texture of the platform against which the balls are bounced in the bounce test image?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

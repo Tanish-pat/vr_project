@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/229ecb99.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the dominant visual features, what is the overall shape of this handbag?",
+        "answer": "Crescent"
+      },
+      {
+        "question": "Based on the visual texture, what material appears to be predominantly used in constructing this bag?",
+        "answer": "Leatherette"
+      },
+      {
+        "question": "Observing the color scheme, what is the primary color of this handbag's exterior?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the color blocking, what is the secondary color accentuating the main body of the bag?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Examining the visible hardware, what is the apparent finish of the bag's metallic components?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Analyzing the bag's structure, what type of closure system does this handbag appear to utilize?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Looking at the inner lining, what is the color of the fabric that lines the interior of the handbag?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Regarding the design details, what design element separates the white and beige sections of the handbag?",
+        "answer": "Seam"
+      },
+      {
+        "question": "Considering the style and features, what type of bag is shown in the provided image?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Focusing on the strap detail, what style of strap is attached to this handbag?",
+        "answer": "Single"
+      },
+      {
+        "question": "By observing the details, what type of handle or strap is attached to this handbag?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Based on the visible features, what seems to be the main compartment in the bag?",
+        "answer": "Open"
+      },
+      {
+        "question": "Observing the inner compartment, is the interior of this handbag spacious?",
+        "answer": "Yes"
+      },
+      {
+        "question": "By looking at the overall aesthetic, is this handbag's style considered contemporary or classic?",
+        "answer": "Contemporary"
+      },
+      {
+        "question": "Based on the apparent construction, does this bag appear to be structured or unstructured?",
+        "answer": "Structured"
+      }
+    ]
+  }
+]

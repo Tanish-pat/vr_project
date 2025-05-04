@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What uppercase letter is prominently displayed on the phone case's denim-textured patch?",
+        "question": "What uppercase letter is prominently displayed on the phone case's denim-like patch?",
         "answer": "K"
       },
       {
-        "question": "What is the primary color of the simulated denim material on the phone case?",
-        "answer": "Blue"
-      },
-      {
-        "question": "What is the apparent texture of the central design element on the phone case?",
+        "question": "What is the apparent primary texture of the phone case's central design element?",
         "answer": "Denim"
       },
       {
-        "question": "What shape best describes the central design element featuring the letter K?",
+        "question": "What color best describes the simulated denim patch on the phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What shape is the central design element encompassing the letter on the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What material is mentioned in the accompanying text as the case's primary construction material?",
-        "answer": "Silicone"
+        "question": "What type of material is described in the metadata as composing this phone case?",
+        "answer": "Silicon"
       },
       {
-        "question": "Considering the case's overall appearance, what design style would you characterize it as?",
-        "answer": "Casual"
+        "question": "What seems to be the overall shape of this mobile device protective case?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Describe the apparent finish of the phone case, considering the provided image and text description.",
-        "answer": "Matte"
-      },
-      {
-        "question": "What small, regularly spaced components are visible on the denim patch's border?",
+        "question": "What small metallic-looking features are visible around the central design element?",
         "answer": "Rivets"
       },
       {
-        "question": "What color are the metallic-looking rivets situated around the central design element?",
-        "answer": "Silver"
-      },
-      {
-        "question": "What is the overall form factor of the illustrated protective mobile phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Based on visual evidence, does the case appear to fully cover the phone's edges and corners?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Judging from the image, is the phone case's back primarily transparent or opaque?",
-        "answer": "Opaque"
-      },
-      {
-        "question": "What characteristic is stated to be resistant in the provided product description?",
-        "answer": "Scratches"
-      },
-      {
-        "question": "Excluding the central design, what color are the phone case's visible side borders?",
+        "question": "Considering the image, what color are the sides of the phone case?",
         "answer": "Clear"
       },
       {
-        "question": "What is the print method utilized for the back design of this silicone phone case?",
-        "answer": "Printed"
+        "question": "Based on visual evidence, is the phone case design primarily focused on the front or back?",
+        "answer": "Back"
+      },
+      {
+        "question": "Judging by the image, what seems to be the finish of the printed design on the case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image suggest that the case has cutouts for all ports?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is suggested by the metadata regarding the case's dust-resistance?",
+        "answer": "Anti-dust"
+      },
+      {
+        "question": "What feature does the metadata highlight regarding the case\u2019s scratch resistance?",
+        "answer": "Anti-scratch"
+      },
+      {
+        "question": "According to the provided metadata, is the printing on the case's back or front?",
+        "answer": "Back"
+      },
+      {
+        "question": "Does the visual evidence confirm a snug fit for the described mobile device?",
+        "answer": "Yes"
       }
     ]
   }

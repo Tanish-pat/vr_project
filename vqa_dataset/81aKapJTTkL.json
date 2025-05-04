@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color scheme prominently displayed on the packaging?",
-        "answer": "Red"
-      },
-      {
-        "question": "What specific type of food product is contained within the bag?",
-        "answer": "Snack"
-      },
-      {
-        "question": "What flavor profile is highlighted as the key characteristic of the snack mix?",
+        "question": "What is the primary flavor profile suggested on the packaging?",
         "answer": "Barbecue"
       },
       {
-        "question": "What descriptive adjective is used in conjunction with 'Barbecue' to describe the flavor?",
-        "answer": "Tangy"
+        "question": "What type of food item does the package contain?",
+        "answer": "Snack"
       },
       {
-        "question": "What other flavor adjective is paired with 'Tangy' to describe the snack mix flavor?",
-        "answer": "Sweet"
+        "question": "What is the dominant color scheme of the packaging design?",
+        "answer": "Red"
       },
       {
-        "question": "What shape is the primary container holding the snack mix?",
-        "answer": "Pouch"
+        "question": "What is depicted on the bottom of the packaging besides text?",
+        "answer": "Cowboy"
       },
       {
-        "question": "What material appears to constitute the primary packaging of the product?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is depicted in the lower portion of the packaging, seemingly related to the flavor theme?",
+        "question": "What kind of image is prominently featured at the bottom of the package?",
         "answer": "Western"
       },
       {
-        "question": "What type of animal is featured in the illustrated scene on the packaging?",
-        "answer": "Horse"
+        "question": "What is the text describing the contents of the bag?",
+        "answer": "Mix"
       },
       {
-        "question": "What plant is illustrated in the image on the package, often associated with desert regions?",
-        "answer": "Cactus"
+        "question": "What additional descriptive word modifies 'Barbecue' on the packaging?",
+        "answer": "Tangy"
       },
       {
-        "question": "What kind of structure is shown in the background of the illustration on the packaging?",
-        "answer": "Building"
+        "question": "What word precedes 'Barbecue' on the packaging?",
+        "answer": "Sweet"
       },
       {
-        "question": "What is the apparent texture of many of the visible snack pieces within the bag?",
-        "answer": "Crispy"
-      },
-      {
-        "question": "Besides peanuts, what other type of nut seems to be visible in the snack mix?",
-        "answer": "None"
-      },
-      {
-        "question": "What is the name of the brand showcased on the package?",
+        "question": "What is the brand name shown on the package?",
         "answer": "365"
       },
       {
-        "question": "Considering the overall design and color palette, what is the general aesthetic of the packaging?",
-        "answer": "Rustic"
+        "question": "What is the shape of the main product package?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What material appears to constitute the product packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What seems to be the texture of the items inside the bag?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What appears to be the general shape of the items in the bag?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the general color of the mixed snacks in the bag?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Besides peanuts, what appears to be among the visible snack mix components?",
+        "answer": "Pretzels"
       }
     ]
   }

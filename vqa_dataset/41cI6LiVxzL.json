@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the lightbulb, considering its body and base?",
+        "question": "What is the overall shape of the lightbulb, considering its bulbous top and narrower base?",
         "answer": "A19"
       },
       {
-        "question": "What is the predominant color of the lightbulb's outer casing?",
+        "question": "What dominant color is visibly apparent across the majority of the lightbulb's surface?",
         "answer": "White"
       },
       {
-        "question": "What material appears to constitute the majority of the lightbulb's exterior?",
+        "question": "What appears to be the primary material composing the external shell of this LED lightbulb?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the apparent finish of the lightbulb's surface, considering its reflectivity?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What type of base does the lightbulb possess for its electrical connection?",
-        "answer": "Screw"
-      },
-      {
-        "question": "Considering the bulb's design, is the light emission diffused or focused?",
-        "answer": "Diffused"
-      },
-      {
-        "question": "What is the visible color of the metallic component at the lightbulb's base?",
-        "answer": "Silver"
-      },
-      {
-        "question": "Does the lightbulb's casing exhibit any noticeable texturing or patterns?",
+        "question": "Considering the image's resolution, what is the discernible surface texture of the bulb's top?",
         "answer": "Smooth"
       },
       {
-        "question": "From the image, does the bulb's glass appear frosted or clear?",
-        "answer": "Frosted"
+        "question": "What kind of light source is indicated by the product's overall structure and design?",
+        "answer": "LED"
       },
       {
-        "question": "What is the apparent size of the lightbulb compared to common household bulbs?",
-        "answer": "Large"
+        "question": "Based on the visible base, what is the type of fitting required for this particular bulb?",
+        "answer": "Screw"
       },
       {
-        "question": "Judging by the image, is the lightbulb designed for indoor or outdoor use?",
-        "answer": "Indoor"
+        "question": "Disregarding any logos or branding, what is the overall design aesthetic of this lightbulb?",
+        "answer": "Simple"
       },
       {
-        "question": "Based on the visual appearance, is the lightbulb intended for directional or ambient lighting?",
-        "answer": "Ambient"
+        "question": "Observing the bulb's base closely, what metal is seemingly used for the electrical contacts?",
+        "answer": "Brass"
       },
       {
-        "question": "Does the bulb's design incorporate any visible decorative elements or markings?",
+        "question": "What is the overall finish of the bulb's exterior, matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the transparency or opacity of the lightbulb's outer covering?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the approximate form factor of the bulb's primary lighting element?",
+        "answer": "Round"
+      },
+      {
+        "question": "Does the bulb's surface exhibit any noticeable patterns, textures or markings?",
         "answer": "None"
       },
       {
-        "question": "Observing the base, what is the construction type of the electrical contact pins?",
-        "answer": "Metal"
+        "question": "Describe the visual prominence of any visible branding or labeling on the product itself",
+        "answer": "None"
       },
       {
-        "question": "What is the apparent construction material of the lightbulb's screw base?",
-        "answer": "Metal"
+        "question": "What is the visible condition of the bulb's surface, such as scratches or imperfections?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Is the lightbulb's base a single piece or composed of multiple visible parts?",
+        "answer": "Single"
       }
     ]
   }

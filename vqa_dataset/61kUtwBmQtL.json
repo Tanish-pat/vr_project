@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's background?",
+        "question": "What is the predominant color of the phone case's background?",
         "answer": "Black"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "Plastic"
       },
       {
-        "question": "What shape best describes the overall form of the phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What color is the hair of the female figure in the illustration?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What color is the hair of the male figure in the illustration?",
-        "answer": "Black"
-      },
-      {
-        "question": "What kind of graphic style is used for the figures on the case?",
-        "answer": "Anime"
-      },
-      {
-        "question": "What celestial phenomenon is illustrated above the couple?",
+        "question": "What graphic element is located above the couple on the case?",
         "answer": "Fireworks"
       },
       {
-        "question": "What color are the fireworks depicted on the case?",
-        "answer": "Yellow"
+        "question": "What color is the girl's hair in the illustration on the case?",
+        "answer": "Brown"
       },
       {
-        "question": "What is the general texture of the case's surface appear to be?",
-        "answer": "Smooth"
+        "question": "What is the overall shape of the phone case?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the overall style of the artwork on the phone case?",
-        "answer": "Romantic"
-      },
-      {
-        "question": "What seems to be the finish of the phone case's surface?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What appears to be the phone model the case fits?",
-        "answer": "Samsung"
-      },
-      {
-        "question": "Excluding the illustration, what is the color of the case's border?",
+        "question": "What color is the boy's hair in the design on the case?",
         "answer": "Black"
       },
       {
-        "question": "Is there a noticeable pattern on the side of the phone visible?",
-        "answer": "Swirls"
+        "question": "What appears to be the finish of the phone case's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Describe the style of the illustration on the phone case.",
+        "answer": "Anime"
+      },
+      {
+        "question": "What color are the fireworks depicted on the phone case?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the apparent texture of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the phone case's side borders?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the implied relationship between the figures depicted?",
+        "answer": "Romantic"
+      },
+      {
+        "question": "What is the overall aesthetic of the phone case's design?",
+        "answer": "Romantic"
+      },
+      {
+        "question": "Does the case show any significant text or branding?",
+        "answer": "No"
       }
     ]
   }

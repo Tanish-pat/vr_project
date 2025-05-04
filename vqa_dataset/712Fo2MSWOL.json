@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible upper portion of the sneaker?",
+        "question": "What is the predominant color of the visible sneaker?",
         "answer": "White"
       },
       {
-        "question": "Describe the texture of the main material composing the sneaker's upper?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent material of the shoe's primary construction?",
+        "question": "What material appears to be used for the sneaker's upper?",
         "answer": "Leather"
       },
       {
-        "question": "What design element is repeated on the side of the sneaker?",
+        "question": "Describe the overall shape of the sneaker's sole unit.",
+        "answer": "Chunky"
+      },
+      {
+        "question": "What design element is visible on the sneaker's side panel?",
         "answer": "Stripes"
       },
       {
-        "question": "What color are the stripes present on the side panels of the shoe?",
+        "question": "What is the color of the stripes on the side panel?",
         "answer": "Grey"
       },
       {
-        "question": "What is the shape of the sneaker's sole from a top-down perspective?",
-        "answer": "Curved"
+        "question": "What type of closure system does this sneaker employ?",
+        "answer": "Lace-up"
       },
       {
-        "question": "What is the overall style of the depicted footwear?",
-        "answer": "Sneaker"
+        "question": "What is the texture of the sole's outer tread design?",
+        "answer": "Ridged"
       },
       {
-        "question": "What type of closure mechanism does this sneaker use?",
-        "answer": "Laces"
-      },
-      {
-        "question": "What is the color of the heel tab accent on the back of the shoe?",
+        "question": "What color is the heel counter's accent piece?",
         "answer": "Black"
       },
       {
-        "question": "What is the texture of the sole of the sneaker as evident from the image?",
-        "answer": "Grooved"
+        "question": "What is the apparent material of the heel counter accent?",
+        "answer": "Synthetic"
       },
       {
-        "question": "Describe the shape of the sneaker's toe box area?",
+        "question": "Is the toe box of this sneaker rounded or pointed?",
         "answer": "Rounded"
       },
       {
-        "question": "Considering the overall design, what is the style category of this sneaker?",
+        "question": "What design feature is visible on the back of the heel?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Describe the style of this sneaker, considering its features?",
         "answer": "Casual"
       },
       {
-        "question": "What is the visible branding detail on the inner side of the tongue?",
-        "answer": "Text"
+        "question": "What is the visible branding on the tongue of the shoe?",
+        "answer": "KLEEPE"
       },
       {
-        "question": "What kind of pattern is embossed on the outsole of the sneaker?",
-        "answer": "Linear"
+        "question": "Based on the image, what is the overall condition of this sneaker?",
+        "answer": "New"
       },
       {
-        "question": "What seems to be the thickness of the midsole on this sneaker?",
-        "answer": "Thick"
+        "question": "What is the apparent height of the sole, compared to average sneakers?",
+        "answer": "Elevated"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the primary material used in the construction of this rectangular money clip, what is it primarily composed of?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Focusing on the central decorative element, what natural material is prominently featured within the clip's design?",
-        "answer": "Mother-of-pearl"
-      },
-      {
-        "question": "Observing the small, central feature embedded within the mother-of-pearl inlay, what gemstone is visible?",
-        "answer": "Sapphire"
-      },
-      {
-        "question": "Describing the overall form factor of this item, what shape best characterizes its external profile?",
+        "question": "Considering the overall form, what is the predominant shape of this money clip?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the metallic components, what specific finish is applied to the visible metal surfaces of this item?",
+        "question": "Focusing on the primary material, what seems to be the main body constructed from?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What specific color is the metal frame surrounding the central inlay?",
         "answer": "Silver"
       },
       {
-        "question": "Analyzing the primary color palette of the item, what is the dominant hue of the central inlay?",
-        "answer": "White"
-      },
-      {
-        "question": "Describing the sheen or luminosity of the central inlay, what visual characteristic is evident?",
-        "answer": "Iridescent"
-      },
-      {
-        "question": "Considering the gemstone, what is the most apparent visual characteristic of the embedded sapphire?",
+        "question": "Observing the embedded element, what appears to be the color of the stone?",
         "answer": "Blue"
       },
       {
-        "question": "Regarding the clasp mechanism, what style of closure is employed in this money clip design?",
-        "answer": "Clip"
+        "question": "Describe the texture of the inlay visible within the metal casing, based on its visual appearance.",
+        "answer": "Iridescent"
       },
       {
-        "question": "In terms of its intended function, what is this item's primary purpose or use?",
-        "answer": "Moneyclip"
+        "question": "Considering the design, what type of material seems to be used for the rectangular insert?",
+        "answer": "Mother-of-pearl"
       },
       {
-        "question": "Regarding the metallic frame surrounding the inlay, what best describes its surface texture?",
-        "answer": "Smooth"
+        "question": "What is the apparent finish of the metal components of this money clip?",
+        "answer": "Polished"
       },
       {
-        "question": "Considering the color of the metallic components, what is the predominant color of the money clip?",
-        "answer": "Silver"
+        "question": "What is the visual character of the central stone\u2019s facets, taking into account its brightness and clarity?",
+        "answer": "Brilliant"
       },
       {
-        "question": "Analyzing the inlay material, what is the dominant visual texture of the mother-of-pearl?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Regarding the design's aesthetic, what is the overall style of this money clip?",
-        "answer": "Classic"
-      },
-      {
-        "question": "Considering the gemstone's setting, how is the sapphire secured to the mother-of-pearl?",
+        "question": "Describe the style of the metallic border encompassing the inlay, given its shape and relation to the inlay.",
         "answer": "Bezel"
+      },
+      {
+        "question": "Considering its function and design, what is this object primarily designed to hold?",
+        "answer": "Money"
+      },
+      {
+        "question": "What kind of visual pattern is exhibited by the inlaid material?",
+        "answer": "Swirled"
+      },
+      {
+        "question": "Based on the image, what is the overall style of this money clip?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What appears to be the setting style for the small blue stone?",
+        "answer": "Prong"
+      },
+      {
+        "question": "Considering its build, what is the clip's mechanism for holding items?",
+        "answer": "Spring"
+      },
+      {
+        "question": "What is the most obvious visual characteristic of the inlaid material?",
+        "answer": "Shine"
       }
     ]
   }

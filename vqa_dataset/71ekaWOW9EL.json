@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the predominant shape of this water shoe?",
-        "answer": "Slip-on"
-      },
-      {
-        "question": "Based on its visual texture, what material appears to be used for the main body of the water shoe?",
-        "answer": "Neoprene"
-      },
-      {
-        "question": "What is the most prominent color visible on the upper part of the water shoe?",
+        "question": "Considering the dominant color scheme, what is the primary hue of the water shoe's upper?",
         "answer": "Black"
       },
       {
-        "question": "Describe the color of the contrasting stitching or trim details visible throughout the water shoe's design?",
+        "question": "What secondary color accents the primary shade throughout the water shoe's design?",
         "answer": "Blue"
       },
       {
-        "question": "What is the apparent material of the sole of the water shoe, given its visual appearance?",
-        "answer": "Rubber"
+        "question": "Describing the overall texture of the shoe's outer material, is it smooth or rough?",
+        "answer": "Smooth"
       },
       {
-        "question": "Judging by the image, does the water shoe appear to have a noticeable heel counter structure?",
-        "answer": "No"
+        "question": "What is the predominant material appearing to constitute the main body of this footwear?",
+        "answer": "Neoprene"
       },
       {
-        "question": "What kind of closure mechanism, if any, is visibly apparent on this water shoe?",
+        "question": "What is the style of this footwear, characterized by its slip-on design and lack of laces?",
         "answer": "Slip-on"
       },
       {
-        "question": "Focusing on the sole, can you describe its pattern or texture based on what you can see?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What is the general condition or appearance of the water shoe shown, as evident in the image?",
-        "answer": "New"
-      },
-      {
-        "question": "Considering the visual design, would you classify this water shoe as having a minimalist or detailed aesthetic?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Based solely on its visual features, what is the likely intended use for this type of footwear?",
-        "answer": "Water"
-      },
-      {
-        "question": "Observing the image, is the water shoe's toe area visibly reinforced or protected in any way?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Describe the style of the water shoe's toe area, observing its shape and design carefully.",
+        "question": "Observing the sole's form, what is the shape of the water shoe's base?",
         "answer": "Rounded"
       },
       {
-        "question": "Can you describe the overall construction and assembly of the components of the water shoe?",
-        "answer": "Seamless"
+        "question": "Considering the construction, is the water shoe's toe area rounded or pointed?",
+        "answer": "Rounded"
       },
       {
-        "question": "Based on visual inspection, does the water shoe exhibit any noticeable logos or branding?",
-        "answer": "No"
+        "question": "Based on the visible structure, what is the closure mechanism of this footwear?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Judging from the image, how would you describe the overall profile of the sole unit?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Focusing on the design features, what is the pattern used for the blue accents?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Examining the heel area, is there significant elevation or cushioning?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In terms of the overall form, would you categorize the shoe as low-top or high-top?",
+        "answer": "Low-top"
+      },
+      {
+        "question": "Considering the visible stitching, is it prominent or subtle in its appearance?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "In terms of the shoe's intended use, what type of outdoor activity does it suggest?",
+        "answer": "Water"
+      },
+      {
+        "question": "What is the apparent condition of the water shoes, based solely on visual inspection?",
+        "answer": "New"
       }
     ]
   }

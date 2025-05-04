@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the depicted footwear?",
+        "question": "What is the predominant color of the flip-flops shown in the provided image?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material composing the sandals?",
+        "question": "Considering the image, what appears to be the primary material used for the sole of these flip-flops?",
         "answer": "Rubber"
       },
       {
-        "question": "Describe the surface texture of the sandal's sole, based purely on visual observation?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What is the overall shape of the individual sandal, ignoring the straps?",
+        "question": "Based on the visual details, what is the overall shape of each individual flip-flop?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the straps' design, what is the type of footwear shown?",
-        "answer": "Flip-flops"
+        "question": "Describe the texture observed on the top surface of the flip-flop's sole, as depicted in the image?",
+        "answer": "Textured"
       },
       {
-        "question": "What color is the thin outlining stripe on the sole edge?",
-        "answer": "White"
-      },
-      {
-        "question": "Describe the visible pattern on the sandal's upper surface?",
-        "answer": "Dotted"
-      },
-      {
-        "question": "What is the apparent material of the flip-flop straps?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Based on visual assessment, are the sandals simple or ornate in design?",
+        "question": "From the image, what design element is visible on the flip-flop's strap?",
         "answer": "Simple"
       },
       {
-        "question": "What is the number of straps visible per sandal in the image?",
-        "answer": "Two"
+        "question": "Judging by the image, what is the apparent style of the footwear presented?",
+        "answer": "Flip-flops"
       },
       {
-        "question": "Does the image show any logos, brands or markings on the footwear?",
+        "question": "According to the image, what color is the thin border along the sole's edge?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visible pattern on the flip-flop's sole, as shown in the provided image?",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "Based on the image, what seems to be the construction of the flip-flop's strap?",
+        "answer": "Single"
+      },
+      {
+        "question": "From the provided image, what is the apparent finish of the flip-flop's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "As shown in the image, does the flip-flop appear to have any significant embellishments or logos?",
         "answer": "No"
       },
       {
-        "question": "Judging by the image, how thick is the sole of the footwear?",
-        "answer": "Thick"
+        "question": "Considering the image, what is the overall impression of the flip-flop design?",
+        "answer": "Minimalist"
       },
       {
-        "question": "From the image, what is the apparent condition of the footwear?",
+        "question": "Based on the image, what is the apparent thickness of the flip-flop sole?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "From the image, what is the apparent flexibility of the flip-flop shown?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Describe the visible condition of the flip-flops presented in the image.",
         "answer": "New"
-      },
-      {
-        "question": "What style best describes the general appearance of the sandals?",
-        "answer": "Casual"
-      },
-      {
-        "question": "Can the straps be described as having a glossy or matte finish?",
-        "answer": "Matte"
       }
     ]
   }

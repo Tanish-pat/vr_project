@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/aed2b8ff.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the color of the decorative trim along the edge?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the texture of the primary fabric, considering its weave and appearance.",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the shape of the individual elements forming the decorative trim?",
+        "answer": "Round"
+      },
+      {
+        "question": "What material appears to constitute the majority of the product shown?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the visual evidence, what is the overall design style of the item?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the nature of the trim; is it woven, stitched, or otherwise attached?",
+        "answer": "Attached"
+      },
+      {
+        "question": "What is the apparent texture of the trim itself, describing its physical form?",
+        "answer": "Pom-pom"
+      },
+      {
+        "question": "What is the arrangement of the decorative elements along the edge?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the image, how would you describe the general visual weight of the trim?",
+        "answer": "Light"
+      },
+      {
+        "question": "How is the decorative trim positioned in relation to the main fabric?",
+        "answer": "Edge"
+      },
+      {
+        "question": "What is the visual impression created by the contrast between the fabric and trim?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the overall visual pattern of the main fabric (if any) shown?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Is there any visible variation in the shade of the main fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on what's shown, is the material of the main fabric visibly slubbed or uneven?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

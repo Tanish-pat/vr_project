@@ -13,56 +13,56 @@
         "answer": "Metal"
       },
       {
-        "question": "Considering the overall form, what is the leg's shape?",
+        "question": "Describe the overall shape of the depicted leg section.",
         "answer": "Curved"
       },
       {
-        "question": "Describe the visible texture of the leg's surface finish.",
+        "question": "What is the visible texture of the product's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the structural design of the lower leg termination?",
-        "answer": "Tapered"
-      },
-      {
-        "question": "Is there any visible evidence of a protective coating?",
+        "question": "Is there any visible protective coating or finish on the component?",
         "answer": "Yes"
       },
       {
-        "question": "Does the leg appear to be hollow or solid in cross-section?",
-        "answer": "Solid"
+        "question": "What shape is the bottom end of the depicted leg?",
+        "answer": "Rounded"
       },
       {
-        "question": "What is the most apparent overall finish of the metal?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Based on the image, what is the leg's apparent function?",
-        "answer": "Support"
-      },
-      {
-        "question": "Describe the visible profile of the leg's curvature.",
-        "answer": "Gentle"
-      },
-      {
-        "question": "Judging by the appearance, what is the leg's approximate thickness?",
-        "answer": "Thin"
-      },
-      {
-        "question": "What is the visible surface condition of the leg's finish?",
-        "answer": "Uniform"
-      },
-      {
-        "question": "Does the leg show any signs of visible damage or wear?",
+        "question": "Does the leg appear to have any noticeable welds or seams?",
         "answer": "No"
       },
       {
-        "question": "Is the visible portion of the leg consistent in its coloring?",
-        "answer": "Yes"
+        "question": "Considering the curvature, what could this leg support?",
+        "answer": "Furniture"
       },
       {
-        "question": "What is the shape of the foot or base of the leg?",
-        "answer": "Rounded"
+        "question": "How many visible segments make up the leg section shown?",
+        "answer": "One"
+      },
+      {
+        "question": "Is there any visible branding or markings on the leg?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the metal leg shown?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on its shape, what might be the leg's intended function?",
+        "answer": "Support"
+      },
+      {
+        "question": "Does the leg appear to be hollow or solid?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Is the finish of the leg matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image show any signs of damage to the leg?",
+        "answer": "No"
       }
     ]
   }

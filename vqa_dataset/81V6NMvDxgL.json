@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the central pendant?",
+        "question": "What is the primary color of the 'LOVE' pendant?",
         "answer": "Copper"
       },
       {
-        "question": "What word is inscribed on the prominent pendant charm?",
-        "answer": "LOVE"
+        "question": "What shape is the pendant featuring a peace symbol?",
+        "answer": "Circular"
       },
       {
-        "question": "What symbolic shape is featured as a pendant charm?",
-        "answer": "Peace"
+        "question": "What is the material of the chain holding the pendants?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What word is vertically displayed on one of the pendants?",
+        "answer": "LOVE"
       },
       {
         "question": "What color is the small heart-shaped charm?",
         "answer": "Teal"
       },
       {
-        "question": "What material appears to constitute the necklace chain?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the overall shape of the primary product displayed?",
+        "question": "What is the overall shape of the phone case itself?",
         "answer": "Rectangular"
       },
       {
-        "question": "What seems to be the primary material of the phone case?",
+        "question": "What symbol is depicted on one of the silver pendants?",
+        "answer": "Peace"
+      },
+      {
+        "question": "What appears to be the material of the phone case's surface?",
         "answer": "Plastic"
       },
       {
-        "question": "What color is the background on which the product rests?",
-        "answer": "Black"
+        "question": "What color is the background of the main phone case?",
+        "answer": "Dark"
       },
       {
-        "question": "What is the apparent finish of the metallic charms?",
-        "answer": "Shiny"
-      },
-      {
-        "question": "What appears to be the material of the small clear charm?",
-        "answer": "Crystal"
-      },
-      {
-        "question": "What is the color of the peace symbol charm?",
-        "answer": "Silver"
-      },
-      {
-        "question": "Describe the texture of the phone case's surface.",
+        "question": "What seems to be the texture of the phone case?",
         "answer": "Smooth"
       },
       {
-        "question": "How many distinct charms hang from the necklace?",
-        "answer": "Four"
+        "question": "What kind of stone is used as an accent piece?",
+        "answer": "Crystal"
       },
       {
-        "question": "What kind of connector secures the charms together?",
-        "answer": "Rings"
+        "question": "What is the apparent color of the peace symbol pendant?",
+        "answer": "Silver"
       },
       {
-        "question": "What is the apparent style of the product's design?",
+        "question": "What is the visible type of clasp on the chain?",
+        "answer": "Ball"
+      },
+      {
+        "question": "What is the design style of the pendants on the case?",
         "answer": "Bohemian"
+      },
+      {
+        "question": "Describe the design on the metallic 'LOVE' charm.",
+        "answer": "Vertical"
       }
     ]
   }

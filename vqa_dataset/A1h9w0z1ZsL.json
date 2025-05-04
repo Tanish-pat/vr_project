@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the upholstery fabric visually apparent?",
+        "question": "What is the predominant color of the upholstery visible in the image?",
         "answer": "Green"
       },
       {
-        "question": "What is the apparent texture of the main seating surface?",
+        "question": "What appears to be the primary texture of the fabric covering the furniture?",
         "answer": "Velvet"
       },
       {
-        "question": "Describe the shape of the included bolster pillow, based on its visible form?",
+        "question": "Considering the visible seams and tufting, what is the style of the upholstery?",
+        "answer": "Buttoned"
+      },
+      {
+        "question": "What is the shape of the included bolster pillow, based on its visible form?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What design element is prominently featured on the main seating area?",
-        "answer": "Tufted"
-      },
-      {
-        "question": "Considering the visible portion, what appears to be the overall shape of the furniture piece?",
+        "question": "Judging by the image, what seems to be the overall form or silhouette of this piece of furniture?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on visual observation, what material seems to constitute the primary body of the furniture?",
-        "answer": "Fabric"
+        "question": "Based on the image, what is the apparent material of the furniture's legs or base?",
+        "answer": "Wood"
       },
       {
-        "question": "What is the apparent texture of the bolster pillow, visually determined?",
-        "answer": "Smooth"
+        "question": "Considering the visible elements, how would you describe the overall design aesthetic of this furniture?",
+        "answer": "Mid-century"
       },
       {
-        "question": "Judging by the image, what is the visible style of the armrests?",
-        "answer": "Straight"
+        "question": "From the image, what appears to be the construction method of the furniture's frame?",
+        "answer": "Upholstered"
       },
       {
-        "question": "What seems to be the primary color of the bolster pillow, judging from the image?",
+        "question": "Based on its appearance in the image, what is the general size of the bolster pillow?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the most prominent design detail of the main seating area, as shown in the image?",
+        "answer": "Tufting"
+      },
+      {
+        "question": "Considering the image, what is the apparent level of plushness or softness of the upholstery?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by its visible features, how would you describe the furniture's overall appearance?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What kind of armrests does the furniture appear to have, according to the visible portion?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the visible color of the bolster pillow's fabric, as seen in the image?",
         "answer": "Green"
       },
       {
-        "question": "From the visible portion, what seems to be the construction of the bolster pillow?",
-        "answer": "Solid"
-      },
-      {
-        "question": "What kind of visible seams or stitching are observed on the main body?",
-        "answer": "Straight"
-      },
-      {
-        "question": "What is the apparent level of visual sheen or gloss on the fabric?",
-        "answer": "Low"
-      },
-      {
-        "question": "Judging from the visible details, what is the apparent visual density of the upholstery fabric?",
-        "answer": "Thick"
-      },
-      {
-        "question": "What seems to be the visible overall condition or wear of the piece?",
-        "answer": "New"
-      },
-      {
-        "question": "Based on visible details, what seems to be the visual quality of the upholstery fabric?",
-        "answer": "High"
+        "question": "Based on the image, what is the visible depth or thickness of the upholstery?",
+        "answer": "Deep"
       }
     ]
   }

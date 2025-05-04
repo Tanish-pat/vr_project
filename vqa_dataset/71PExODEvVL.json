@@ -9,60 +9,60 @@
         "answer": "White"
       },
       {
-        "question": "What is the overall shape of the telephone's base unit?",
+        "question": "What is the overall shape of the telephone's base?",
         "answer": "Rectangular"
       },
       {
-        "question": "What material appears to constitute the telephone's housing?",
+        "question": "What material appears to be used for the telephone's construction?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the surface texture of the telephone's keypad.",
+        "question": "Describe the texture of the telephone's surface, based on the image.",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent design style of the telephone?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What type of display is featured on the handset?",
+        "question": "What type of display is visible on the handset of the phone?",
         "answer": "Digital"
       },
       {
-        "question": "How many buttons are visibly present on the telephone's keypad?",
-        "answer": "Many"
-      },
-      {
-        "question": "What is the visible shape of the handset?",
+        "question": "What is the shape of the handset's design?",
         "answer": "Curved"
       },
       {
-        "question": "What brand name is subtly displayed on the handset?",
-        "answer": "Amazonbasics"
+        "question": "Considering the buttons, what is the type of the telephone?",
+        "answer": "Corded"
       },
       {
-        "question": "Considering the image, is the telephone cordless or corded?",
-        "answer": "Cordless"
+        "question": "What is the apparent finish of the telephone's casing?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the apparent size of the base unit relative to the handset?",
-        "answer": "Larger"
+        "question": "What brand logo is subtly visible on the handset?",
+        "answer": "AmazonBasics"
       },
       {
-        "question": "What color are the markings on the keypad?",
-        "answer": "Gray"
+        "question": "Based solely on visual details, what is the form factor of this phone?",
+        "answer": "Handset"
       },
       {
-        "question": "Is there a visible indicator light or feature on the base?",
-        "answer": "Yes"
+        "question": "Describe the appearance of the keypad buttons on the handset?",
+        "answer": "Flat"
       },
       {
-        "question": "Does the base unit have a noticeable outward curve or slope?",
-        "answer": "Yes"
+        "question": "What features are suggested by the symbols on the keypad?",
+        "answer": "Call"
       },
       {
-        "question": "Is the keypad arranged in a standard numerical layout?",
-        "answer": "Yes"
+        "question": "How many buttons are clearly visible on the base unit?",
+        "answer": "Zero"
+      },
+      {
+        "question": "Considering the base and handset, does this appear to be cordless or corded?",
+        "answer": "Corded"
+      },
+      {
+        "question": "Is there any visible text or marking other than the brand name?",
+        "answer": "No"
       }
     ]
   }

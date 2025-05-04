@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b6496a08.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the light bulbs shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of each individual light bulb depicted?",
+        "answer": "A60"
+      },
+      {
+        "question": "What appears to be the primary material composing the bulb's outer shell?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of base does each of the light bulbs appear to possess?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Considering the image, what is the apparent finish of the light bulb surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual inspection, what is the number of light bulbs shown in the provided image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the image, what seems to be the light bulb's intended application?",
+        "answer": "Lighting"
+      },
+      {
+        "question": "From the image, what is the apparent size of the light bulb relative to a standard bulb?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Looking at the image, what seems to be the visible level of detail or intricacy in the design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What does the metallic part at the bottom of each bulb appear to be made of?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the visible texture of the outer shell of the light bulbs depicted?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any noticeable markings or text on the light bulbs?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image closely, how would you describe the light bulb's overall style?",
+        "answer": "Classic"
+      },
+      {
+        "question": "What is the apparent transparency level of the light bulb's outer casing?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based solely on the provided image, what seems to be the light bulb's energy efficiency class?",
+        "answer": "Unknown"
+      }
+    ]
+  }
+]
