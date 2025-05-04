@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's background?",
+        "question": "What is the predominant color of the phone case's background?",
         "answer": "White"
       },
       {
-        "question": "What text is prominently displayed on the phone case?",
+        "question": "What words are prominently displayed on the phone case?",
         "answer": "Magic"
       },
       {
-        "question": "What material appears to make up the letters on the case?",
+        "question": "What material appears to be used for the lettering on the case?",
         "answer": "Wood"
       },
       {
-        "question": "What is the overall shape of the phone case?",
+        "question": "Describe the shape of the phone case itself?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the arrangement of the words on the phone case?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What color are the letters spelling out the phrase?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What kind of letters are used to display the words?",
-        "answer": "Tiles"
-      },
-      {
-        "question": "Considering the overall design, what is the phone case's style?",
+        "question": "What is the overall design style of this phone case?",
         "answer": "Minimalist"
       },
       {
-        "question": "What is the apparent texture of the background of the phone case?",
+        "question": "What color are the letter tiles spelling out the phrase?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the letter tiles?",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the phone case's finish, considering the image's quality?",
-        "answer": "Matte"
-      },
-      {
-        "question": "How many words are displayed on the phone case's surface?",
+        "question": "How many words are displayed in the design on the case?",
         "answer": "Three"
       },
       {
-        "question": "What is the approximate size of each letter tile on the case?",
-        "answer": "Small"
+        "question": "What is the primary printing method on the phone case design?",
+        "answer": "Typography"
       },
       {
-        "question": "What is the visible casing material of the phone case?",
-        "answer": "Plastic"
+        "question": "Considering the materials, what is the likely finish of the case?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the color of the side shown in the image?",
-        "answer": "White"
+        "question": "What is the apparent thickness of the phone case shown?",
+        "answer": "Slim"
       },
       {
-        "question": "Based on the image, what seems to be the printing technique used?",
-        "answer": "Digital"
+        "question": "Are there any noticeable camera cutouts visible on the case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What style of lettering is used in the design?",
+        "answer": "Block"
+      },
+      {
+        "question": "Is the phone case design predominantly composed of images or text?",
+        "answer": "Text"
+      },
+      {
+        "question": "What seems to be the overall aesthetic feeling evoked by the design?",
+        "answer": "Positive"
       }
     ]
   }

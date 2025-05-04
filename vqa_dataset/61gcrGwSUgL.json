@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1bff2e5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the coffee bag's outer packaging?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall shape of the coffee bean package depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the main body of the coffee bag?",
+        "answer": "Foil"
+      },
+      {
+        "question": "Considering the text and color indicators, what is the primary roast level shown prominently?",
+        "answer": "Full"
+      },
+      {
+        "question": "Describe the texture implied by the visual appearance of the bag's surface.",
+        "answer": "Metallic"
+      },
+      {
+        "question": "What type of closure mechanism is visible at the top of the coffee bag?",
+        "answer": "Resealable"
+      },
+      {
+        "question": "Based on the visual detail, what is the prominent text indicating coffee type?",
+        "answer": "Roast"
+      },
+      {
+        "question": "What seems to be the method of roast level indication, aside from text?",
+        "answer": "Circles"
+      },
+      {
+        "question": "Disregarding text, what does the color gradient of the circles suggest?",
+        "answer": "Intensity"
+      },
+      {
+        "question": "What is the apparent state of the bag depicted in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What language is predominantly used for the text on the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Describe the style of the text font used for the roast levels?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent print quality of the text and graphics on the packaging?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the bag show any significant signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the overall impression of the packaging design?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

@@ -13,56 +13,56 @@
         "answer": "Stars"
       },
       {
-        "question": "What color are the small shapes decorating the phone case?",
+        "question": "What is the overall design style of this phone case?",
+        "answer": "Twinkling"
+      },
+      {
+        "question": "What color are the stars depicted on the phone case?",
         "answer": "White"
       },
       {
-        "question": "What appears to be the primary material of the phone case?",
+        "question": "What appears to be the material of this phone cover?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall design style of the phone case?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What is the general shape of the phone case shown in the image?",
+        "question": "Considering the image, what is the phone case's form factor?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describing the visual texture, does the case appear smooth or rough?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the small shapes, what is their approximate size relative to the case?",
+        "question": "Describe the size and distribution of the stars on the case.",
         "answer": "Small"
       },
       {
-        "question": "Judging by the image, how many different colors are used on the case?",
-        "answer": "Two"
+        "question": "What is the general texture implied by the image of the case?",
+        "answer": "Smooth"
       },
       {
-        "question": "Does the phone case show any visible brand logos or markings?",
-        "answer": "No"
-      },
-      {
-        "question": "Based on the image, is the phone case design symmetrical or asymmetrical?",
-        "answer": "Asymmetrical"
-      },
-      {
-        "question": "What is the density of the small shapes across the phone case?",
+        "question": "What kind of pattern is formed by the design elements?",
         "answer": "Scattered"
       },
       {
-        "question": "What kind of finish does the phone case appear to have?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Does the image show any noticeable damage or imperfections on the case?",
+        "question": "Does the case show any visible branding or logos?",
         "answer": "No"
       },
       {
-        "question": "Excluding the shapes, what is the visual pattern on the phone case?",
-        "answer": "Solid"
+        "question": "Judging by the image, is the phone case glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What type of protective layer does the case seem to offer?",
+        "answer": "Hard"
+      },
+      {
+        "question": "What is the density of the stars across the case's surface?",
+        "answer": "High"
+      },
+      {
+        "question": "Based solely on the image, is this a rugged or slim case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Judging from its visual attributes, what's the case's style?",
+        "answer": "Cute"
       }
     ]
   }

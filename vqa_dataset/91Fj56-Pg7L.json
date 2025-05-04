@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the glove's palm?",
+        "question": "What is the predominant color of the glove's main body?",
         "answer": "Black"
       },
       {
-        "question": "What color is the visible cuff of the glove?",
+        "question": "What color is the visible portion of the glove's wrist cuff?",
         "answer": "Gray"
       },
       {
-        "question": "What is the apparent texture of the glove's palm?",
+        "question": "What is the apparent texture of the glove's palm area?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What material appears to compose the glove's outer layer?",
         "answer": "Coated"
       },
       {
-        "question": "What material appears to comprise the glove's back?",
-        "answer": "Knit"
-      },
-      {
-        "question": "What is the overall shape of the glove?",
+        "question": "What is the overall shape of the product shown in the image?",
         "answer": "Glove"
       },
       {
-        "question": "What color is the small trim at the cuff's edge?",
+        "question": "Describe the visible design pattern on the glove's palm?",
+        "answer": "Dotted"
+      },
+      {
+        "question": "What color is the trim visible at the cuff's edge?",
         "answer": "Blue"
       },
       {
-        "question": "Does the glove appear to be ambidextrous?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What kind of glove is this predominantly?",
-        "answer": "Work"
-      },
-      {
-        "question": "Is the glove's coating consistent across the whole palm?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent pattern on the back of the glove?",
+        "question": "What is the apparent material of the glove's wrist lining?",
         "answer": "Knit"
       },
       {
-        "question": "What kind of print is visible on the glove?",
+        "question": "What is the apparent material composition of the glove's coating?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Considering the image, what is the glove's primary function?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Is the glove's design primarily intended for a right or left hand?",
+        "answer": "Both"
+      },
+      {
+        "question": "Based on the visual, how many gloves are presented in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the style of the glove shown in the image?",
+        "answer": "Work"
+      },
+      {
+        "question": "What kind of markings are present on the back of the glove?",
         "answer": "Text"
       },
       {
-        "question": "How many fingers does the glove cover?",
-        "answer": "Five"
-      },
-      {
-        "question": "What is the general condition of the glove shown?",
-        "answer": "New"
-      },
-      {
-        "question": "Does the glove seem to offer good grip?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the style of the glove's wrist support?",
-        "answer": "Cuff"
+        "question": "What is the apparent fit of the glove shown in the image?",
+        "answer": "Snug"
       }
     ]
   }

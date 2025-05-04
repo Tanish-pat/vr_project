@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the jar's lid, as shown in the product image?",
+        "question": "What is the predominant color of the container's lid?",
         "answer": "Blue"
       },
       {
-        "question": "What primary color is featured prominently on the product label, besides the blue?",
-        "answer": "White"
-      },
-      {
-        "question": "Considering the image, what appears to be the overall shape of the product container?",
+        "question": "What is the overall shape of the product container?",
         "answer": "Cylindrical"
       },
       {
-        "question": "Based on the image, what seems to be the material of the product container?",
+        "question": "What appears to be the primary material of the container?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the texture of the jar's label based solely on the visual information provided.",
-        "answer": "Smooth"
+        "question": "What color is the main body of the product container?",
+        "answer": "White"
       },
       {
-        "question": "What is the apparent design style of the geometric pattern on the product label?",
-        "answer": "Abstract"
+        "question": "Describe the design pattern on the product's label?",
+        "answer": "Geometric"
       },
       {
-        "question": "What color are the geometric shapes on the product's label?",
+        "question": "What is the color of the secondary design elements on the label?",
         "answer": "Purple"
       },
       {
-        "question": "Judging from the image, does the jar have a wide or narrow opening?",
-        "answer": "Wide"
+        "question": "What is the texture of the container, based on visual observation?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the general visual impression of the product's overall aesthetic?",
-        "answer": "Clean"
+        "question": "What is the apparent consistency of the product inside, based on the container?",
+        "answer": "Creamy"
       },
       {
-        "question": "Does the image show any visible text on the container, besides the brand name?",
-        "answer": "Yes"
+        "question": "What is depicted on the label, in terms of product type?",
+        "answer": "Conditioner"
       },
       {
-        "question": "What is the relative size of the product container as judged by the hand in the image?",
+        "question": "Can you describe the style of the label's font?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the brand name visible on the container?",
+        "answer": "Bodimo"
+      },
+      {
+        "question": "What is the relative size of the container, as visually compared to a hand?",
         "answer": "Medium"
       },
       {
-        "question": "Based on the image, does the label appear matte or glossy?",
-        "answer": "Matte"
+        "question": "What is the overall visual impression of the product's packaging?",
+        "answer": "Clean"
       },
       {
-        "question": "What is the apparent condition of the product container?",
-        "answer": "New"
+        "question": "Are there any noticeable imperfections or damage visible on the container?",
+        "answer": "None"
       },
       {
-        "question": "What kind of container is used to hold the product, judging from the image?",
-        "answer": "Jar"
-      },
-      {
-        "question": "What appears to be the relative weight of the container, given its size and visual attributes?",
-        "answer": "Light"
+        "question": "Does the container appear to be sealed or unopened in this image?",
+        "answer": "Unopened"
       }
     ]
   }

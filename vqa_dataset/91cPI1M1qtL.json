@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall curvature and the arrangement of cushions, what is the dominant shape of this outdoor furniture piece?",
+        "question": "Considering the overall form, what best describes the sectional sofa's curvature?",
         "answer": "Curved"
       },
       {
-        "question": "What woven material, identifiable by its distinct texture and pattern, primarily constitutes the structure of this piece?",
+        "question": "What woven material constitutes the primary structure of this outdoor sectional?",
         "answer": "Wicker"
       },
       {
-        "question": "Describing the main body's color, what shade best represents its dominant hue?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What color are the throw pillows included with this outdoor seating piece, considering their hue and tone?",
-        "answer": "Beige"
-      },
-      {
-        "question": "Given the material and construction, what is the likely intended use environment for this furniture?",
-        "answer": "Outdoor"
-      },
-      {
-        "question": "What is the apparent texture of the primary material used in the construction of this piece of furniture?",
+        "question": "Based on the visual texture, what is the dominant feel of the sectional's surface?",
         "answer": "Woven"
       },
       {
-        "question": "Considering the design of the back and its integration with the seating area, what type of furniture is displayed?",
-        "answer": "Sofa"
-      },
-      {
-        "question": "How many throw pillows are visually attached to this outdoor sofa, based solely on the image?",
-        "answer": "Five"
-      },
-      {
-        "question": "Based on the visual appearance of the legs, what material seems to make up the feet of this piece?",
-        "answer": "Dark"
-      },
-      {
-        "question": "Considering the overall visual appearance, what is the style of this furniture piece?",
-        "answer": "Casual"
-      },
-      {
-        "question": "What is the apparent placement of the seams on the wicker portion of the sofa?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What is the visible configuration or arrangement of the seating in the presented image?",
-        "answer": "Modular"
-      },
-      {
-        "question": "Disregarding the pillows, what is the primary color of the sofa's frame?",
+        "question": "Describe the prevalent shade of brown characterizing the wicker frame.",
         "answer": "Brown"
       },
       {
-        "question": "From the image, what appears to be the primary function of the object?",
-        "answer": "Seating"
+        "question": "What is the apparent number of back cushions visibly integrated into the sectional?",
+        "answer": "Five"
       },
       {
-        "question": "Considering the style and components, where would this furniture most likely be found?",
-        "answer": "Patio"
+        "question": "What color best embodies the hue of the accompanying throw pillows?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the observable shape of each individual throw pillow provided?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to compose the filling of the throw pillows?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the back support structure, what is the overall design style?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Judging from the image, what is the apparent position of the sectional?",
+        "answer": "Rear"
+      },
+      {
+        "question": "Regarding the base, what appears to be the material of the sectional's feet?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the wicker pattern seem tightly or loosely woven together?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Observing the sectional's construction, what appears to be its intended use?",
+        "answer": "Outdoor"
+      },
+      {
+        "question": "Based on its appearance, how many distinct seating sections does this furniture include?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent overall state of the sectional sofa shown in the image?",
+        "answer": "New"
       }
     ]
   }

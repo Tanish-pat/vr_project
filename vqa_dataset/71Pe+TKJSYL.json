@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the dominant metallic finish observed across the pressure cooker's body and lid?",
+        "question": "What is the predominant metallic sheen observed across the entire pressure cooker?",
         "answer": "Stainless"
       },
       {
-        "question": "What is the primary color of the handles affixed to the pressure cooker's body and lid?",
+        "question": "Considering the main body, what is the overall geometric form of this pressure cooker?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color are the handles affixed to both the pot and the lid of the pressure cooker?",
         "answer": "Black"
       },
       {
-        "question": "Considering the overall design, what is the shape of the pressure cooker's main cooking pot?",
-        "answer": "Round"
-      },
-      {
-        "question": "What material seems to constitute the handles attached to both the pot and lid of the pressure cooker?",
+        "question": "Describing the material of the handles, what seems to be their apparent composition?",
         "answer": "Plastic"
       },
       {
-        "question": "Based on the image, what is the apparent construction material of the pressure cooker's main body?",
-        "answer": "Steel"
-      },
-      {
-        "question": "What is the apparent texture of the metallic surface of the pressure cooker pot and lid?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the shape of the pressure cooker lid, based solely on its visible outline?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What appears to be the primary function of the visible pressure regulating valve on the lid?",
-        "answer": "Pressure"
-      },
-      {
-        "question": "Describe the visible style of the handles incorporated into the pressure cooker's design?",
-        "answer": "Bakelite"
-      },
-      {
-        "question": "What type of pressure cooker is depicted, judging by the presence of a lid and body?",
-        "answer": "Cooker"
-      },
-      {
-        "question": "What seems to be the color of the metallic components of the pressure cooker?",
-        "answer": "Silver"
-      },
-      {
-        "question": "Excluding the handles, what is the material of the visible cooker parts?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the general design of the pressure cooker's structure?",
-        "answer": "Metallic"
-      },
-      {
-        "question": "What is the apparent finish of the pressure cooker's exterior surface?",
+        "question": "What is the apparent finish of the metallic surfaces of the pressure cooker components?",
         "answer": "Shiny"
       },
       {
-        "question": "Considering the image, what is the overall condition of the shown pressure cooker?",
+        "question": "Focusing on the lid, what type of pressure-release mechanism is visibly present?",
+        "answer": "Weighted"
+      },
+      {
+        "question": "Considering the main body, what is the visible curvature of the pressure cooker's sides?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Regarding the handles, what is the basic design or shape of these functional components?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Observing the base, what is the overall shape of the pressure cooker's bottom?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What seems to be the texture of the pressure cooker's stainless steel body?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent number of handles present on the entire pressure cooker?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the general appearance of the metallic surface when reflecting light?",
+        "answer": "Bright"
+      },
+      {
+        "question": "What kind of pressure regulator is clearly visible on the pressure cooker's lid?",
+        "answer": "Valve"
+      },
+      {
+        "question": "What appears to be the primary function of this kitchen appliance in the image?",
+        "answer": "Cooking"
+      },
+      {
+        "question": "What seems to be the general state or condition of this pressure cooker, considering its visual appearance?",
         "answer": "New"
       }
     ]

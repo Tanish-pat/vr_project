@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/21/2126c173.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the olives depicted on the can?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of olives are explicitly stated on the can's label?",
+        "answer": "Pitted"
+      },
+      {
+        "question": "What is the primary material composing the product's container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the shape of the container holding the olives?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What size are the olives shown on the can's label?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the overall color of the can's body?",
+        "answer": "White"
+      },
+      {
+        "question": "What is printed on the top of the can, indicating a safety feature?",
+        "answer": "BPA"
+      },
+      {
+        "question": "What is the brand name prominently displayed on the can?",
+        "answer": "365"
+      },
+      {
+        "question": "What is indicated about the lining of the can?",
+        "answer": "Non"
+      },
+      {
+        "question": "What word describes the can's lid?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What kind of graphic appears next to the olive image?",
+        "answer": "Leaf"
+      },
+      {
+        "question": "What is the shape of each individual olive shown?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the net weight of the olives, as indicated on the can?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the secondary color found on the brand logo?",
+        "answer": "Green"
+      },
+      {
+        "question": "What units are used for the net weight indicated on the can?",
+        "answer": "Ounces"
+      }
+    ]
+  }
+]

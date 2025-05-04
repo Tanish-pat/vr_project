@@ -9,60 +9,60 @@
         "answer": "White"
       },
       {
-        "question": "What primary material appears to constitute the product shown?",
+        "question": "What appears to be the primary material used in the product's construction?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering its overall form, what is the primary shape of the object?",
+        "question": "Considering its overall form, what is the most precise geometric description of the object's shape?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on visual observation, does the object appear to be opaque or transparent?",
-        "answer": "Transparent"
+        "question": "Observing the image closely, what is the apparent level of surface transparency?",
+        "answer": "Translucent"
       },
       {
-        "question": "Judging by the image, what level of thickness does this item seem to possess?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Does the product show any noticeable text or branding on its surface?",
-        "answer": "No"
-      },
-      {
-        "question": "From the visual evidence, does the item's surface appear smooth or textured?",
+        "question": "Based on visual examination, what is the most apparent finish or texture of the item's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Can you describe the visible sheen or gloss of the product's surface?",
-        "answer": "Glossy"
+        "question": "Judging from the picture, what seems to be the primary functional purpose of this object?",
+        "answer": "Storage"
       },
       {
-        "question": "Considering its apparent function, what is the most likely use of this item?",
-        "answer": "Protective"
+        "question": "Does the item exhibit any noticeable patterns, designs, or markings on its visible surfaces?",
+        "answer": "None"
       },
       {
-        "question": "Based on its dimensions relative to the hand, is it a large or small item?",
+        "question": "In examining the image, what is the apparent thickness or profile of the item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the image provided, does the object present any visible seams, folds, or creases?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visual details, what is the general size or scale of the presented object?",
         "answer": "Large"
       },
       {
-        "question": "Observing the edges, what kind of finish do the sides of the object have?",
-        "answer": "Sealed"
-      },
-      {
-        "question": "Does the product seem to have any visible seams or perforations?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent condition or state of the displayed item?",
+        "question": "Based on visual inspection, what is the overall condition of the presented product?",
         "answer": "New"
       },
       {
-        "question": "Is there any visual indication of flexibility or rigidity in this product?",
+        "question": "Judging from its appearance, does the item appear to be rigid, flexible, or something else?",
         "answer": "Flexible"
       },
       {
-        "question": "Does the image reveal any noticeable imperfections or damages on the item?",
+        "question": "Based on visual assessment, is the object's surface matte, glossy, or another finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, does the object show evidence of any added components or embellishments?",
         "answer": "No"
+      },
+      {
+        "question": "What appears to be the overall visual weight or density of the presented item?",
+        "answer": "Light"
       }
     ]
   }

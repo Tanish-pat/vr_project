@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall design, what is the primary style of this footwear?",
-        "answer": "Flat"
-      },
-      {
-        "question": "What is the dominant color of the shoe's upper material, as visibly apparent?",
+        "question": "Considering the overall visual presentation, what is the predominant color of this women's flat shoe?",
         "answer": "Gold"
       },
       {
-        "question": "Based on visual texture, what kind of material appears to be used for the shoe's exterior?",
+        "question": "Based on the image, what appears to be the primary material used in the construction of the shoe's upper?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the pattern or design present across the visible surface of the shoe.",
+        "question": "From a purely visual assessment, what kind of pattern or texture is visible on the shoe's surface?",
         "answer": "Embossed"
       },
       {
-        "question": "What shape best describes the toe box area of the displayed shoe?",
+        "question": "Observing the shoe's form, what is the most accurate description of its style?",
+        "answer": "Ballet"
+      },
+      {
+        "question": "What is the visual impression regarding the overall design aesthetic of this particular flat shoe?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging solely from the image, what is the apparent condition of this gold-colored ballet flat?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent shape of the toe box section of the displayed women's flat shoe?",
         "answer": "Rounded"
       },
       {
-        "question": "Observing the sole, what seems to be the predominant color of the shoe's base?",
-        "answer": "Beige"
+        "question": "What material appears to compose the sole of the pictured women's ballet flat?",
+        "answer": "Leather"
       },
       {
-        "question": "Judging from the image, what is the apparent texture of the visible sole?",
+        "question": "According to the visual details, how would you characterize the texture of the gold upper?",
         "answer": "Smooth"
       },
       {
-        "question": "What would you describe the overall visual appeal of the shoe\u2019s design as?",
-        "answer": "Elegant"
+        "question": "Does the footwear appear to have any noticeable embellishments or decorative elements?",
+        "answer": "No"
       },
       {
-        "question": "What material is primarily suggested by the insole's visible color and texture?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Considering the overall form, what single word best describes the shoe\u2019s silhouette?",
-        "answer": "Sleek"
-      },
-      {
-        "question": "Describe the visible stitching details on the exterior of the shoe, if any.",
-        "answer": "Minimal"
-      },
-      {
-        "question": "From the image, what is the visible construction of the shoe's upper?",
-        "answer": "Seamless"
-      },
-      {
-        "question": "Based solely on visible features, what is the apparent heel height of the shoe?",
+        "question": "What does the image suggest about the presence of any visible branding or logos on the shoe?",
         "answer": "None"
       },
       {
-        "question": "What is the most noticeable characteristic of the design on the shoe\u2019s surface?",
-        "answer": "Metallic"
+        "question": "From a visual standpoint, describe the heel type or height of this gold-colored flat.",
+        "answer": "Flat"
       },
       {
-        "question": "What is the apparent finish on the gold-toned exterior material?",
-        "answer": "Matte"
+        "question": "Considering the visual appearance, how would you characterize the overall fit of the shoe?",
+        "answer": "Close"
+      },
+      {
+        "question": "Based solely on the image, what is the apparent level of detail in the design of the shoe?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "In observing the image provided, what is the apparent state of the footwear?",
+        "answer": "Clean"
       }
     ]
   }

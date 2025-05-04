@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c007ca19.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the prominent circular design element depicted on the case?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be reflected in the water, mirroring the large circle?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent shape of the main graphical element on the phone case?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What design element, besides the circle, is subtly visible near the waterline?",
+        "answer": "Silhouette"
+      },
+      {
+        "question": "What material does the phone case appear to be constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall style, what aesthetic is evoked by the phone case's design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the texture suggested by the phone case's smooth, matte surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent shape of the phone case, given its dimensions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual effect of the design near the water's edge (smaller than the main circle)?",
+        "answer": "Reflection"
+      },
+      {
+        "question": "What type of image is illustrated on the phone case, considering the subject matter?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "Based on the visual elements, what overall tone is presented by the phone case?",
+        "answer": "Serene"
+      },
+      {
+        "question": "Ignoring the illustration, what is the dominant visual feature of the phone case?",
+        "answer": "Surface"
+      },
+      {
+        "question": "What is the most noticeable aspect of the illustrated scene (excluding color)?",
+        "answer": "Sun"
+      },
+      {
+        "question": "Describe the style of the artistic representation on the phone case.",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

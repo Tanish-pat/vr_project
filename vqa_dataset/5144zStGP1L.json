@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary visual element displayed prominently on the presented product image?",
-        "answer": "Text"
+        "question": "What is the primary text displayed prominently on the product's surface?",
+        "answer": "INGREDIENTS"
       },
       {
-        "question": "Considering the overall visual presentation, what is the dominant color scheme of the text on the product?",
-        "answer": "Black"
+        "question": "Considering the visual layout, what is the dominant text alignment?",
+        "answer": "Left"
       },
       {
-        "question": "What type of information does the text predominantly convey, in terms of its functional role on the product?",
-        "answer": "Ingredients"
-      },
-      {
-        "question": "Based on the visual layout, what is the style of the lettering used in the text?",
+        "question": "What is the apparent font style employed for the listed ingredients?",
         "answer": "Sans-serif"
       },
       {
-        "question": "What kind of background does the displayed text appear against, judging purely from the visual appearance?",
+        "question": "Judging by the image, what is the overall color scheme of the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual details, what is the background color of the label?",
         "answer": "Off-white"
       },
       {
-        "question": "Given the image, how would you describe the visual texture or appearance of the text?",
-        "answer": "Smooth"
+        "question": "Considering the visual presentation, what type of text case is used?",
+        "answer": "Title"
       },
       {
-        "question": "Considering the image only, what kind of visual organization or arrangement does the text follow?",
-        "answer": "Linear"
+        "question": "What is the visual arrangement of the ingredient list?",
+        "answer": "Columnar"
       },
       {
-        "question": "Judging only from visual characteristics, what is the general size of the text in the image?",
-        "answer": "Medium"
+        "question": "Regarding the listed ingredients, what term is repeated most frequently?",
+        "answer": "Organic"
       },
       {
-        "question": "What is the visual weight or prominence given to the word 'INGREDIENTS' in relation to the rest of the text?",
-        "answer": "Bold"
+        "question": "Judging by the visual elements, what is the primary ingredient category?",
+        "answer": "Fruits"
       },
       {
-        "question": "Considering the overall visual impression, what's the implied visual tone or feeling conveyed by the text layout?",
-        "answer": "Informative"
+        "question": "Based on the visual text analysis, are the ingredients listed in alphabetical order?",
+        "answer": "No"
       },
       {
-        "question": "Focusing on visual aspects alone, what level of visual detail or intricacy is present in the text style?",
-        "answer": "Minimal"
+        "question": "Considering the font weight, does the text appear bold or light?",
+        "answer": "Light"
       },
       {
-        "question": "If you only consider the visual, what does the font seem to express or communicate from a visual perspective?",
-        "answer": "Clarity"
+        "question": "From a visual perspective, is the text size uniformly consistent?",
+        "answer": "Yes"
       },
       {
-        "question": "Based solely on visual evidence, what's the approximate number of lines of text contained within the product image?",
+        "question": "How many distinct ingredients are visibly listed in total?",
         "answer": "Nine"
       },
       {
-        "question": "Considering only the visual data, what is the implied reading direction indicated by the text arrangement?",
-        "answer": "Left-to-right"
+        "question": "Considering the overall design, is the presentation of the text minimalist or ornate?",
+        "answer": "Minimalist"
       },
       {
-        "question": "From visual observation, is the text arrangement justified (aligned) to the left, right, or center?",
-        "answer": "Left"
+        "question": "Based on the visual presentation, would you describe the text as highly detailed or simple?",
+        "answer": "Simple"
       }
     ]
   }

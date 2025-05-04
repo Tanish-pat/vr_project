@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/96523049.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme employed in the design of this nutritional information label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall layout, what is the predominant textual orientation used in the display of nutritional facts?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the primary material used for the substrate of this nutritional facts panel?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the textual elements, what is the primary typeface style used throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual texture of the surface of the nutritional facts panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of the visual design, what is the most noticeable shape used to compartmentalize nutritional data?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the textual presentation, what is the principal method used for organizing the nutritional details?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Regarding the text's legibility, what is the overall character size employed in the display of nutritional values?",
+        "answer": "Small"
+      },
+      {
+        "question": "In terms of text weight or boldness, what is the typical typeface style of the nutritional values shown?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Concerning the general structure, how many main sections does the nutritional facts table appear to be divided into?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the overall visual presentation style of the text, considering aspects like font and spacing?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the labeling details, what is the standard unit employed for measuring the quantity of sodium?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "If considering the visual hierarchy of information, what is the prominent nutritional detail highlighted at the top of the label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Regarding the color palette, is there a secondary color employed aside from the predominant white background?",
+        "answer": "Brown"
+      },
+      {
+        "question": "In terms of the overall visual impression, what is the general aesthetic of this product's nutritional information?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

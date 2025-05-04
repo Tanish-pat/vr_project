@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6ec952a7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall silhouette, what best describes the shoe's pointed toe and slingback design?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "What is the primary color of the shoe's upper material, as visibly apparent in the image?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Based on the image, what material appears to constitute the majority of the shoe's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the texture of the visible portion of the shoe's upper, considering its smoothness or graininess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the dominant color of the shoe's block heel, as shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "How would you characterize the pattern or design on the shoe's heel?",
+        "answer": "Carved"
+      },
+      {
+        "question": "What type of heel does the shoe possess, concerning its height and shape?",
+        "answer": "Block"
+      },
+      {
+        "question": "What material seems to comprise the heel of the shoe, according to visual observation?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the strap's mechanism, what type of fastener secures the slingback design?",
+        "answer": "Buckle"
+      },
+      {
+        "question": "Judging by its appearance, what is the approximate height of the shoe's heel in centimeters?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the style of the shoe's toe, based on visual inspection of the footwear?",
+        "answer": "Pointed"
+      },
+      {
+        "question": "What material does the buckle appear to be constructed from, according to the image's visual cues?",
+        "answer": "Metal"
+      },
+      {
+        "question": "In terms of formality and occasion, what type of shoe is presented, as perceived in the image?",
+        "answer": "Dress"
+      },
+      {
+        "question": "Focusing on the insole's visibility, what color is the interior lining of the shoe?",
+        "answer": "Tan"
+      },
+      {
+        "question": "What is the overall shape of the shoe, considering the design and features shown?",
+        "answer": "Sleek"
+      }
+    ]
+  }
+]

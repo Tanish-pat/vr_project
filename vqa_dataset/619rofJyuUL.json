@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the eyelash packaging box?",
+        "question": "What is the dominant color of the eyelash packaging?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent material of the false eyelashes themselves?",
-        "answer": "Synthetic"
+        "question": "What is the primary material of the eyelash packaging?",
+        "answer": "Cardboard"
       },
       {
-        "question": "What is the overall shape of each individual set of false eyelashes?",
-        "answer": "Flared"
+        "question": "What is the shape of the individual eyelash strips?",
+        "answer": "Oval"
       },
       {
-        "question": "What is the apparent texture of the false eyelashes based on the image?",
-        "answer": "Wispy"
+        "question": "What is the apparent texture of the displayed false eyelashes?",
+        "answer": "Soft"
       },
       {
-        "question": "What color are the false eyelashes shown in the product image?",
+        "question": "What color are the false eyelashes shown in the packaging?",
         "answer": "Black"
       },
       {
-        "question": "How many individual pairs of false eyelashes are included in a single package?",
+        "question": "How many individual pairs of eyelashes are included?",
         "answer": "Four"
       },
       {
-        "question": "What is the descriptive word printed prominently on the packaging box?",
-        "answer": "Eyelashes"
-      },
-      {
-        "question": "What is the design style of the packaging for this product?",
+        "question": "What is the design style of the packaging's main image?",
         "answer": "Minimalist"
       },
       {
-        "question": "What color is the brand logo on the packaging box?",
-        "answer": "Gold"
+        "question": "What is the font style used for the brand name on the box?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "What is the apparent style of the false eyelashes (natural, dramatic, etc.)?",
-        "answer": "Natural"
-      },
-      {
-        "question": "What is the overall design of the individual eyelash strips?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What is the shape of the packaging box for these false eyelashes?",
+        "question": "What is the overall shape of the packaging box itself?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the brand name shown on the product packaging?",
-        "answer": "Eona"
+        "question": "What is the primary color of the brand logo on the packaging?",
+        "answer": "Gold"
       },
       {
-        "question": "What is depicted on the front of the packaging, besides text?",
-        "answer": "Eye"
+        "question": "What is the type of product displayed on the packaging?",
+        "answer": "Eyelashes"
       },
       {
-        "question": "Considering the visual presentation, what is the suggested usage of this product?",
-        "answer": "Cosmetic"
+        "question": "Describe the arrangement of the individual eyelash sets shown?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the apparent length of the individual lashes?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visual impression of the eyelash density?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is written prominently on the main packaging?",
+        "answer": "Eyelashes"
       }
     ]
   }

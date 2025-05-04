@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/03bd470c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant metal color of the necklace?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall shape of the pendant?",
+        "answer": "Round"
+      },
+      {
+        "question": "What appears to be the primary material of the necklace chain?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Does the pendant feature any noticeable embellishments?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the style of the pendant's embellishment?",
+        "answer": "Pave"
+      },
+      {
+        "question": "Considering the necklace's length, how would you describe it?",
+        "answer": "Delicate"
+      },
+      {
+        "question": "Judging by the image, what is the clasp type of the necklace?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "What is the apparent finish of the necklace's metal?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Based on visual inspection, is the necklace thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the necklace appear to be of simple or complex design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the setting style of the stones on the pendant?",
+        "answer": "Pave"
+      },
+      {
+        "question": "Considering the pendant, is the design minimalistic or ornate?",
+        "answer": "Minimalistic"
+      },
+      {
+        "question": "What might be the overall style of this necklace?",
+        "answer": "Dainty"
+      },
+      {
+        "question": "Excluding the chain, what is the size of the pendant?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the pendant display any visible texture?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

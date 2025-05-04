@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the primary function of this piece of furniture?",
-        "answer": "Stool"
+        "question": "Considering the overall form and function, what is the primary purpose of this furniture piece?",
+        "answer": "Chair"
       },
       {
-        "question": "What is the dominant color of the upholstered seating surface?",
+        "question": "What is the predominant color of the upholstered seat and back?",
         "answer": "Off-white"
       },
       {
-        "question": "Describing the leg structure, what is the geometric form of the supporting base?",
-        "answer": "Tapered"
-      },
-      {
-        "question": "What natural material is predominantly used in constructing the frame?",
+        "question": "What appears to be the material of the chair's legs and supporting structure?",
         "answer": "Wood"
       },
       {
-        "question": "Observing the seat cushion, what is the visible texture of the upholstery?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "In terms of form, what is the general shape of the chair back?",
+        "question": "Describe the shape of the chair's backrest, focusing on its curvature and profile.",
         "answer": "Curved"
       },
       {
-        "question": "What is the apparent color of the wooden frame?",
-        "answer": "Brown"
+        "question": "What is the visible texture of the upholstery fabric on the seat and backrest?",
+        "answer": "Smooth"
       },
       {
-        "question": "What type of material seems to be used for the seat padding?",
-        "answer": "Foam"
-      },
-      {
-        "question": "Considering the wood, what appears to be the wood finish?",
-        "answer": "Stained"
-      },
-      {
-        "question": "How many horizontal supports are visible beneath the seat?",
+        "question": "How many horizontal supports or footrests are visibly integrated into the chair's design?",
         "answer": "One"
       },
       {
-        "question": "Judging by the overall height, what is this stool best suited for?",
-        "answer": "Counter"
+        "question": "What is the general style of the chair's legs, considering their angle and profile?",
+        "answer": "Tapered"
       },
       {
-        "question": "Regarding the upholstery, what is the likely fabric type?",
-        "answer": "Velvet"
+        "question": "What color is the wooden frame of the chair, as observed from the image?",
+        "answer": "Brown"
       },
       {
-        "question": "Describe the visible joints between the wooden legs and frame",
-        "answer": "Mortise"
+        "question": "Does the chair show any visible stitching or seams in its upholstery?",
+        "answer": "Yes"
       },
       {
-        "question": "What style characteristic best describes the overall design aesthetic?",
-        "answer": "Mid-century"
+        "question": "Considering the overall design, what type of setting would this chair best fit in?",
+        "answer": "Bar"
       },
       {
-        "question": "What is the shape of the seat cushion, ignoring the backrest?",
+        "question": "What seems to be the overall aesthetic of the chair; modern or traditional?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the general shape of the chair\u2019s seat cushion?",
         "answer": "Rectangular"
+      },
+      {
+        "question": "Does the chair have any noticeable decorative elements or patterns on the upholstery?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the overall height of the chair consistent with bar stool dimensions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the style of the chair's backrest; rounded, angular or straight?",
+        "answer": "Rounded"
       }
     ]
   }

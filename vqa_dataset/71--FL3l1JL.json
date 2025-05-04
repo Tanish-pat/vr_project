@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/12cf31d6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall design style of the illustrated characters?",
+        "answer": "Cute"
+      },
+      {
+        "question": "What kind of creatures are predominantly depicted on the case?",
+        "answer": "Animals"
+      },
+      {
+        "question": "What is the apparent texture of the phone case material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the shape of the illustrated characters on the phone case?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the visual style of the artwork on the phone case?",
+        "answer": "Cartoonish"
+      },
+      {
+        "question": "What color are the majority of the illustrated animals?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Besides animals, what other design elements appear on the case?",
+        "answer": "Shapes"
+      },
+      {
+        "question": "What is the main color of the smaller illustrated animals?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Are the lines used to draw the illustrations on the case thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Is the case design primarily focused on a single large image, or multiple small ones?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the overall pattern created by the illustrated elements?",
+        "answer": "Scattered"
+      },
+      {
+        "question": "What form does the text on the case appear in?",
+        "answer": "Cursive"
+      },
+      {
+        "question": "What style of lettering is used for the small text on the case?",
+        "answer": "Script"
+      }
+    ]
+  }
+]

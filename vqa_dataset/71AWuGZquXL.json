@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/95/95ba11dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cable's exterior?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to compose the cable's outer sheath?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the cable itself, disregarding connectors?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the cable's visual texture, what is its apparent finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of connector is visible at the cable's left end?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "What connector type is shown at the cable's right end?",
+        "answer": "MicroUSB"
+      },
+      {
+        "question": "Based on the image, what is the apparent length of the cable?",
+        "answer": "Long"
+      },
+      {
+        "question": "Does the cable show any visible branding or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent flexibility or stiffness of the cable?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging by the image, what seems to be the cable's gauge or thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Is there any visible damage or fraying along the cable's length?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent overall condition of the cable?",
+        "answer": "New"
+      },
+      {
+        "question": "Describe the visible texture of the cable's connectors.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color are the metallic components of the connectors?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Judging from the image, what is the approximate diameter of the cable?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

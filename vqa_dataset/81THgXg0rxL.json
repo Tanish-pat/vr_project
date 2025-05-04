@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3cc4926d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the box's imagery?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the product packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What kind of text is prominently displayed on the box's front?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What is the primary color of the text on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "Can you describe the texture of the outer box surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is depicted in the images on the product box?",
+        "answer": "Flowers"
+      },
+      {
+        "question": "What type of print is used for the box design?",
+        "answer": "Color"
+      },
+      {
+        "question": "What seems to be the general theme of the visuals on the box?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Are there any noticeable logos or symbols on the box?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall aesthetic of the product packaging design?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Describe the size of the text used for the product name",
+        "answer": "Large"
+      },
+      {
+        "question": "Is the packaging designed to be easily opened?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the language of the text visible on the box?",
+        "answer": "English"
+      },
+      {
+        "question": "What color are the background images on the product box?",
+        "answer": "Pastel"
+      }
+    ]
+  }
+]

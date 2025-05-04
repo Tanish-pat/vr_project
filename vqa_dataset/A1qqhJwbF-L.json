@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/82057331.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible upholstery?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary texture of the fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the overall shape of the depicted furniture element.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What design element is repeatedly visible on the upholstery?",
+        "answer": "Tufted"
+      },
+      {
+        "question": "What type of material seems to constitute the furniture's covering?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the visible stitching, what is the upholstery's construction?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "Based on the image, what is the general style of this piece?",
+        "answer": "Classic"
+      },
+      {
+        "question": "What kind of visual effect do the raised sections create on the arm?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by its form, what part of the furniture is shown in this close-up?",
+        "answer": "Armrest"
+      },
+      {
+        "question": "What is the apparent weave pattern of the fabric?",
+        "answer": "Linear"
+      },
+      {
+        "question": "How would you describe the visual density of the fabric's pattern?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the fabric appear to have a matte or a shiny finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall visual impression of the upholstery's color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is suggested by the shape of the armrest's tufting?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the visual impression of the armrest's overall softness?",
+        "answer": "Plush"
+      }
+    ]
+  }
+]

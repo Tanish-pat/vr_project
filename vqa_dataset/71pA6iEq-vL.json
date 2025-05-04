@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant metallic finish apparent on the exterior of these bottles?",
-        "answer": "Copper"
-      },
-      {
-        "question": "Considering the surface texture, what kind of hammering technique is visibly employed on the bottle's body?",
+        "question": "What is the dominant visible texture across the entire surface of each bottle?",
         "answer": "Hammered"
       },
       {
-        "question": "Describe the overall shape of each individual bottle, considering its height and width proportions?",
-        "answer": "Cylindrical"
-      },
-      {
-        "question": "What specific material seems to constitute the lids or caps affixed to the top of each container?",
+        "question": "What primary metallic color characterizes the exterior of both water bottles?",
         "answer": "Copper"
       },
       {
-        "question": "Based on the visual appearance, what is the apparent color of the bottles, taking into account the lighting?",
-        "answer": "Rose"
+        "question": "Considering the overall form, what geometrical shape best describes each individual bottle?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "Considering the image, how many bottles are depicted in the presented e-commerce product shot?",
-        "answer": "Two"
+        "question": "What material appears to constitute the primary body of each of the two containers?",
+        "answer": "Metal"
       },
       {
-        "question": "What is the visible texture of the bottle's surface, considering the light reflections and shadows?",
-        "answer": "Uneven"
+        "question": "Describe the apparent finish of the copper, considering its visual shine or dullness?",
+        "answer": "Shiny"
       },
       {
-        "question": "What is the apparent design pattern or style that visually distinguishes these copper bottles?",
-        "answer": "Embossed"
+        "question": "What is the apparent material used for the lids or caps on top of each bottle?",
+        "answer": "Metal"
       },
       {
-        "question": "Judging by the image, what is the most notable visual characteristic of the bottle's lid?",
-        "answer": "Rounded"
+        "question": "Considering the visible design, is the surface pattern uniform or varied across the bottles?",
+        "answer": "Uniform"
       },
       {
-        "question": "Describe the visible type of closure mechanism present on each of the bottles displayed?",
-        "answer": "Screw"
-      },
-      {
-        "question": "What is the main functional purpose of the items illustrated in the image, based on their physical attributes?",
-        "answer": "Bottles"
-      },
-      {
-        "question": "Describe the visual appearance of the base of each individual bottle, referring to its shape and finish.",
+        "question": "What is the shape of the visible lid or cap of each copper water bottle?",
         "answer": "Circular"
       },
       {
-        "question": "What seems to be the overall visual condition of the two bottles shown in the product picture?",
-        "answer": "New"
+        "question": "Based on visual observation, what is the presumed function of these copper containers?",
+        "answer": "Bottles"
       },
       {
-        "question": "What is the apparent height of the bottles relative to their diameter, judging by visual proportions?",
-        "answer": "Tall"
+        "question": "Judging by the image, how many copper bottles are depicted in the product listing?",
+        "answer": "Two"
       },
       {
-        "question": "What is the visual impression of the bottle's surface considering the light reflecting off the hammered texture?",
-        "answer": "Shiny"
+        "question": "Considering the visible elements, what seems to be the color of the bottle caps?",
+        "answer": "Copper"
+      },
+      {
+        "question": "What is the apparent visual style of the surface texture of the water bottles?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "Does the image show any visible markings, logos, or branding on the bottles?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the neck of each bottle in terms of its relative width and shape compared to the body.",
+        "answer": "Narrower"
+      },
+      {
+        "question": "What is the approximate relative height of each bottle in comparison to its width?",
+        "answer": "Taller"
       }
     ]
   }

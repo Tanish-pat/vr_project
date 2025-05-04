@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/53/533c63dc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bag's primary surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the product packaging?",
+        "answer": "Foil"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the bag's texture, is it glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What type of seal is visible at the top of the bag?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the general orientation of the text on the bag's back?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are there any noticeable markings other than text on the bag's back?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Considering the bag's design, what is its implied purpose?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Is there a clear visual indication of weight or volume?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the visual elements, what is the product category likely to be?",
+        "answer": "Food"
+      },
+      {
+        "question": "Describe the color of any secondary design elements on the packaging.",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the visible level of detail in the printed text on the bag?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the appearance of the bag's edges or seams?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Observing the bag, does it appear flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the bag display any prominent logos or brand names?",
+        "answer": "No"
+      }
+    ]
+  }
+]

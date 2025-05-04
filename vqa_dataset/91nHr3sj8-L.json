@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b220bdb7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the backpack's main compartment?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What color is the accent trim along the backpack's zippers and edges?",
+        "answer": "Lime"
+      },
+      {
+        "question": "What appears to be the primary material used for the backpack's construction?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "What is the overall shape of the backpack when viewed from the top?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the blue sections of the backpack's exterior.",
+        "answer": "Mesh"
+      },
+      {
+        "question": "What color is the material used for the backpack's bottom and sides?",
+        "answer": "Gray"
+      },
+      {
+        "question": "How many main zippered compartments are visibly apparent on this backpack?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent style of the backpack's carrying handle?",
+        "answer": "Padded"
+      },
+      {
+        "question": "Is the interior lining of the main compartment a different color from the exterior?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any noticeable reflective elements on the backpack's exterior?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of closure system is used for the main compartment of the bag?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Judging by the image, does the backpack have any external pockets?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the approximate size of the backpack's opening when fully unzipped?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the backpack seem to have any organizational features inside?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its structure, what is the likely intended use of this backpack?",
+        "answer": "Sport"
+      }
+    ]
+  }
+]

@@ -9,59 +9,59 @@
         "answer": "White"
       },
       {
-        "question": "What is the overall shape of the milk jug's primary body?",
-        "answer": "Square"
+        "question": "What is the overall shape of the plastic milk container?",
+        "answer": "Jug"
       },
       {
-        "question": "What material appears to constitute the body of the milk jug?",
+        "question": "What is the apparent material of the primary milk packaging?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the color of the label prominently displayed on the jug?",
-        "answer": "White"
-      },
-      {
-        "question": "What type of closure is visible atop the milk jug?",
-        "answer": "Cap"
-      },
-      {
-        "question": "What is the color of the cap affixed to the jug's opening?",
-        "answer": "Black"
-      },
-      {
-        "question": "Describe the texture of the milk jug's surface, based on the image.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the primary text displayed on the label, describing the product?",
-        "answer": "Milk"
-      },
-      {
-        "question": "What term describes the fat content of the milk presented in the jug?",
+        "question": "What is the stated type of milk present inside the container?",
         "answer": "Nonfat"
       },
       {
-        "question": "What is the apparent color of the text on the label of the milk jug?",
+        "question": "What color is the primary text label on the jug's surface?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Describe the shape of the handle located on the jug.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent texture of the milk product itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the plastic cap sealing the jug's opening?",
         "answer": "Black"
       },
       {
-        "question": "What is the general shape of the handle on the jug, if any is visible?",
-        "answer": "None"
-      },
-      {
-        "question": "What kind of text or logo is visible beneath the primary text on the label?",
-        "answer": "365"
-      },
-      {
-        "question": "Based on the image, is the jug translucent or opaque?",
+        "question": "What is the overall visual appearance of the milk's consistency?",
         "answer": "Opaque"
       },
       {
-        "question": "What is the apparent size of the jug shown in this picture, in terms of volume?",
-        "answer": "Gallon"
+        "question": "What is the style of the lettering used for product labeling?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "Is there any noticeable texture to the label on the milk jug?",
+        "question": "Is the milk jug translucent or opaque in appearance?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visual impression of the milk's viscosity shown?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the brand name printed prominently on the jug?",
+        "answer": "365"
+      },
+      {
+        "question": "Considering the jug's design, what is its intended function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What kind of surface does the label on the jug possess?",
         "answer": "Smooth"
       }
     ]

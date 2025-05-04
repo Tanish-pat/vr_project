@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0ffa5341.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary shape depicted, resembling a common pharmaceutical form?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Considering the graphic's monochrome style, what single color dominates the illustration?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding any text, what is the overall two-dimensional form of the central element?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Observing the capsule's visual depiction, what is the apparent texture of its surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the visual representation, what material seems to be implied for the object?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Focusing on the capsule's design, how many distinct sections are visibly apparent?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent visual style of the capsule illustration, considering its lack of detail?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Ignoring the text, what is the implied function suggested by the object's form?",
+        "answer": "Medical"
+      },
+      {
+        "question": "Examining the graphic, is there any visible internal structure or detailing?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the graphic suggest any specific markings or branding on the capsule?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the illustration, what is the visual weight or relative size of the two sections?",
+        "answer": "Equal"
+      },
+      {
+        "question": "What is the depicted orientation of the capsule; horizontal or vertical?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Is there a discernible three-dimensional quality to the depicted capsule's shape?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is there any shading or gradients to show depth?",
+        "answer": "No"
+      },
+      {
+        "question": "In the provided illustration, what is the contrast level between the capsule and its background?",
+        "answer": "High"
+      }
+    ]
+  }
+]

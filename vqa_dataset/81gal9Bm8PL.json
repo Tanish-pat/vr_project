@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f71b27a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of this footwear item, as visibly depicted in the image?",
+        "answer": "Ovoid"
+      },
+      {
+        "question": "What is the predominant hue observed across the majority of the visible surface of this leather product?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image, what appears to be the most likely material used in the construction of this item of footwear?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Focusing on the lacing system, what style of closure is prominently featured on this shoe, as clearly shown?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Observing the texture, what is the apparent surface quality of the visible material of this footwear?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visible design element related to the shoe's vamp, as illustrated in the picture.",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the style of the toe-cap visually presented on this formal shoe, as seen in the image?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "In terms of footwear type, what category of shoe does this product clearly belong to, as shown in the photograph?",
+        "answer": "Oxford"
+      },
+      {
+        "question": "Regarding the heel structure, how would you visually characterize the heel type of this shoe, as depicted?",
+        "answer": "Low"
+      },
+      {
+        "question": "Looking at the visible sole, what appears to be the material composition of the shoe's bottom component?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the visible details, what is the apparent condition of this item, based on image evidence?",
+        "answer": "New"
+      },
+      {
+        "question": "Analyzing the stitching, what seems to be the type of visible stitching used in the upper part of this shoe, as presented?",
+        "answer": "Blind"
+      },
+      {
+        "question": "What is the apparent level of shine exhibited on the exterior surface of the shoe, based solely on visual assessment?",
+        "answer": "Low"
+      },
+      {
+        "question": "Concentrating on the interior lining, what is the apparent color of the shoe's inner visible surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Regarding the overall construction, how many visible eyelets are there for the laces on this shoe?",
+        "answer": "Five"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6d/6d35382e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the towels shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material composition of these towels?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Considering the image, what is the overall texture of the towels?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the visual appearance, what is the style of these towels?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Describe the discernible pattern or design on the towels' surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image, what is the general shape of each individual towel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many towels are visibly stacked together in the provided image?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the apparent absorbency level suggested by the towel's appearance?",
+        "answer": "High"
+      },
+      {
+        "question": "What type of decorative elements, if any, are noticeable on the towels?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Observing the towels, what is the apparent level of plushness or thickness?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the general appearance of the towel's edges or hems?",
+        "answer": "Neat"
+      },
+      {
+        "question": "In the image, what is the visible weave structure of the towel material?",
+        "answer": "Loop"
+      },
+      {
+        "question": "What is the apparent weight or density of the towels shown?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "From the image alone, what is the suggested level of softness of the towels?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What is the apparent overall condition or quality of the towels shown?",
+        "answer": "New"
+      }
+    ]
+  }
+]

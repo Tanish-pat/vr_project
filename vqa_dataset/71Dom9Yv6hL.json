@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/aef207c9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the charging cable shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the connectors at each end, what type of cable is this?",
+        "answer": "USB"
+      },
+      {
+        "question": "What material appears to constitute the majority of the cable's length?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the coiled cable?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Describe the surface texture of the cable, as visually apparent in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the connectors closely, what is the connector type at one end?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "What is the connector type at the other end of the cable, based on visual inspection?",
+        "answer": "Lightning"
+      },
+      {
+        "question": "Does the cable exhibit any visible signs of braiding or texturing on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall length, how would you describe this cable in terms of length?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the apparent thickness of the charging cable in the provided image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by its appearance, is the cable likely flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Are there any visible markings or logos imprinted on the cable itself?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the cable, judging by its visual state?",
+        "answer": "New"
+      },
+      {
+        "question": "Based solely on the image, how many distinct connectors does the cable possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the overall aesthetic of the cable; simple or complex in design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the leather upper on these shoes?",
+        "question": "What is the predominant color of the visible leather upper?",
         "answer": "Black"
       },
       {
-        "question": "What type of closure mechanism is visible on the shoes?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "Describe the stitching detail along the sole and side panel of the shoe?",
+        "question": "What kind of stitching is visible along the sole and upper?",
         "answer": "Decorative"
       },
       {
-        "question": "What appears to be the primary material of the shoe's construction?",
+        "question": "What is the primary material appearing to comprise the shoe's upper?",
         "answer": "Leather"
       },
       {
-        "question": "What color is the secondary accent leather visible on the shoes?",
+        "question": "Describe the overall shape of the shoe's toe?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the style of the visible closure system?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What color is the secondary accent leather visible near the eyelets?",
         "answer": "Olive"
       },
       {
-        "question": "Considering the overall design, what style of shoe is depicted?",
-        "answer": "Casual"
-      },
-      {
-        "question": "What is the approximate shape of the shoe's toe?",
-        "answer": "Round"
-      },
-      {
-        "question": "What kind of sole does the shoe appear to have?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Is the heel of the shoe notably high or low?",
+        "question": "What is the approximate height of the shoe's heel?",
         "answer": "Low"
       },
       {
-        "question": "Describe the texture of the leather on the upper portion of the shoe?",
+        "question": "What material seems to compose the visible sole unit?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What kind of finish is visually apparent on the leather surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What color is the stitching that accents the upper and sole?",
-        "answer": "Gold"
+        "question": "Describe the overall design aesthetic of this shoe model?",
+        "answer": "Casual"
       },
       {
-        "question": "Does the shoe have any visible branding or logos?",
+        "question": "What is the visual texture of the upper leather?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeable perforations on the upper?",
         "answer": "No"
       },
       {
-        "question": "What is the general design style of the shoe's upper?",
-        "answer": "Simple"
+        "question": "What appears to be the color of the visible interior lining?",
+        "answer": "Beige"
       },
       {
-        "question": "Based on the visual details, what is the likely intended use for this shoe?",
-        "answer": "Everyday"
+        "question": "What kind of lacing is used for the eyelets?",
+        "answer": "Standard"
       },
       {
-        "question": "What is the overall shape and profile of the shown footwear?",
-        "answer": "Low-top"
+        "question": "What color is the decorative stitching along the sole?",
+        "answer": "Gold"
       }
     ]
   }

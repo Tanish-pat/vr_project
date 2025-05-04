@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4d/4d9fef59.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of this bath towel?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the image's texture, what is the primary material used in the construction of this bath towel?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the most apparent form or shape of the item shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Analyzing the image, what design element is visually prominent across the towel's surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the visual appearance of the towel's texture, considering the image's clarity?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the suggested absorbency level of the towel in terms of visual interpretation?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the image's detail, how many distinct sections or panels are visibly present in the towel's design?",
+        "answer": "Two"
+      },
+      {
+        "question": "Observing the image, is there any visible pattern or print across the bath towel?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the towel's weight, based on the image's presentation?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "In terms of its intended usage, what kind of item does the image portray, based on its visual features?",
+        "answer": "Towel"
+      },
+      {
+        "question": "What is the implied softness level of the towel's texture, as seen in the image?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the image, what is the visible size or scale of the object shown?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the towel exhibit any discernible sheen or glossiness based on the image provided?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of visual quality, how would you describe the overall condition of the presented towel?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the image, what is the visual state of the item; is it folded or unfolded?",
+        "answer": "Folded"
+      }
+    ]
+  }
+]

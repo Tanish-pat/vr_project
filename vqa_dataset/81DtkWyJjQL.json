@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/95/95c68c9c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary food item depicted on the packaging, as indicated by the prominent text?",
+        "answer": "Chickpea"
+      },
+      {
+        "question": "Considering the text displayed, what dietary restriction is explicitly addressed regarding this product?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "What is the overall shape of the presented product package, based on its visual outline?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the dominant background of the packaging design?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What color is the primary text on the package, specifically the product name?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the style of the lettering used for the product's name, 'Chickpea'?",
+        "answer": "Script"
+      },
+      {
+        "question": "Which prominent brand's logo is displayed on this product packaging?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What additional adjective, besides 'Chickpea,' describes the type of food product in question?",
+        "answer": "Shells"
+      },
+      {
+        "question": "What word precedes 'Chickpea' in the product description, specifying a quality?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the apparent texture of the packaging's background, suggesting a specific design element?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What graphic elements surround the Whole Foods Market logo, forming a decorative border?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What is the overall tone or aesthetic of the design, considering the color palette and typography?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the texture of the written elements on the product packaging, based on their visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the decorative wheat illustrations surrounding the brand logo?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall packaging material that is visually identifiable?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

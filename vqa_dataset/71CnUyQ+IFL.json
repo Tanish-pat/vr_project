@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color covering the entire phone case surface?",
+        "question": "What is the predominant color of the phone case's background?",
         "answer": "Pink"
       },
       {
-        "question": "What shape best describes the overall form of this mobile phone case?",
+        "question": "What shape is the overall phone case design?",
         "answer": "Rectangular"
       },
       {
-        "question": "What type of design element is repeatedly shown across the case's background?",
+        "question": "What type of pattern adorns the phone case's surface?",
         "answer": "Floral"
       },
       {
-        "question": "What is the primary graphic element besides flowers, shown repeatedly on the case?",
+        "question": "What is the dominant shape within the repeating design pattern?",
         "answer": "Crown"
       },
       {
-        "question": "What is the color of the crowns and bows patterned across the phone case?",
-        "answer": "Yellow"
+        "question": "What color are the crowns depicted on the phone case?",
+        "answer": "Gold"
       },
       {
-        "question": "What text is subtly incorporated into the design repeated on the pink surface?",
+        "question": "What textual element repeats among the other design elements?",
         "answer": "Princess"
       },
       {
-        "question": "What material seems most likely to have been used for the phone case shown?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the apparent texture of the depicted phone case surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the visual style, what is the most likely target demographic?",
-        "answer": "Girls"
-      },
-      {
-        "question": "What small design element is paired with each crown in the phone case design?",
-        "answer": "Bow"
-      },
-      {
-        "question": "What color are the smaller flower-like elements interspersed across the surface?",
+        "question": "What secondary color accents the crowns and flowers?",
         "answer": "Pink"
       },
       {
-        "question": "Describe the visual style of the design printed on the mobile phone case",
+        "question": "What small design element accompanies the crowns and flowers?",
+        "answer": "Bows"
+      },
+      {
+        "question": "What appears to be the material of the phone case based on its visual properties?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall style or aesthetic of the case's design?",
         "answer": "Cute"
       },
       {
-        "question": "What is the overall visual impression created by the case's color and pattern?",
-        "answer": "Girlish"
+        "question": "Does the phone case appear to have a glossy or matte finish?",
+        "answer": "Glossy"
       },
       {
-        "question": "Considering its graphics, how would you characterize the phone case's design?",
-        "answer": "Patterned"
+        "question": "Based on the image, what kind of phone does this case appear designed for?",
+        "answer": "Smartphone"
       },
       {
-        "question": "Based on the image, what is the phone model compatibility indicated?",
-        "answer": "Oppo"
+        "question": "What is the apparent texture of the case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are the colors in the pattern vibrant or muted?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "Considering the design elements, who is the target audience for this phone case?",
+        "answer": "Girls"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b024e9e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bottle's label, excluding any text or graphics?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant shape of the supplement container depicted?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What specific vitamin does the label clearly identify as the supplement's content?",
+        "answer": "D3"
+      },
+      {
+        "question": "Based on the visible text, what is the dosage strength of the vitamin indicated on the label?",
+        "answer": "1000"
+      },
+      {
+        "question": "What is the material the supplement container appears to be primarily constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What unit of measurement is used to denote the vitamin dosage strength?",
+        "answer": "IU"
+      },
+      {
+        "question": "Considering the image, what is the overall texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent number of capsules or tablets contained within the bottle based on the label?",
+        "answer": "100"
+      },
+      {
+        "question": "What is the color of the brand logo visible on the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of supplement is explicitly stated on the product label?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What is the overall visual design style of the product label\u2014modern, vintage, etc.?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What type of seal is visually apparent on the bottle's cap?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Does the label display any images apart from the brand logo and text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the format of the dosage information on the label?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What part of the body does the label highlight as benefiting from this vitamin?",
+        "answer": "Bones"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible leather portion of this shoe, as observed from the provided image?",
+        "question": "Considering the overall visual presentation, what dominant color characterizes the majority of the visible upper shoe material?",
         "answer": "Tan"
       },
       {
-        "question": "Considering the image, what appears to be the primary material used in the construction of the shoe's upper?",
+        "question": "Based on the image's texture and visual characteristics, what appears to be the primary material composing the shoe's upper?",
         "answer": "Leather"
       },
       {
-        "question": "Based on the visual inspection of the sole, what color is the outsole of this particular shoe?",
+        "question": "Judging from the image, what color is the sole of the shoe, providing a distinct contrast to the upper?",
         "answer": "Black"
       },
       {
-        "question": "From the image provided, what is the apparent texture of the shoe's upper leather?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Judging by the visual details in the image, what is the overall shape of the shoe's sole?",
-        "answer": "Oval"
-      },
-      {
-        "question": "What design element is prominently featured along the edge of the shoe's midsole, visible in the image?",
-        "answer": "Stitching"
-      },
-      {
-        "question": "Considering only the visual evidence, what material seems to constitute the shoe's outsole, as shown in the picture?",
+        "question": "What is the apparent texture of the shoe's outsole, given its visible surface characteristics?",
         "answer": "Rubber"
       },
       {
-        "question": "From the perspective provided in the image, can you identify the type of sole construction apparent on the shoe?",
+        "question": "From the image, describe the shape of the shoe's outsole, as viewed from the bottom?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Considering the visible stitching and construction details, what style of shoe does the image depict?",
+        "answer": "Oxford"
+      },
+      {
+        "question": "Observing the image, what seems to be the visible surface finish of the shoe's upper?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on visual details, what seems to be the type of heel present on this shoe?",
+        "answer": "Low"
+      },
+      {
+        "question": "What seems to be the visible construction of the shoe's sole in terms of its attachment to the upper?",
         "answer": "Stitched"
       },
       {
-        "question": "Based on the image provided, what is the apparent condition of the shoe\u2019s leather; is it visibly worn or new?",
+        "question": "Considering the visible area of the shoe, what style of toe cap is visible?",
+        "answer": "Closed"
+      },
+      {
+        "question": "What is the overall apparent condition of the shoe based on the visual inspection of the presented image?",
         "answer": "New"
       },
       {
-        "question": "Observing the image, what appears to be the finish of the leather upper of the shoe; is it polished, matte, or other?",
-        "answer": "Polished"
+        "question": "Analyzing the image, what appears to be the most prominent design element on the sole of the shoe?",
+        "answer": "Pattern"
       },
       {
-        "question": "What is the general style of the visible portion of the shoe's sole; is it plain, patterned, or textured?",
-        "answer": "Plain"
-      },
-      {
-        "question": "Describe the thickness of the outsole on the shoe shown in the image; is it thin, medium, or thick?",
-        "answer": "Medium"
-      },
-      {
-        "question": "Based solely on the image, what is the dominant visual feature observed on the shoe's midsole?",
-        "answer": "Creases"
-      },
-      {
-        "question": "From the image provided, describe the flexibility apparent in the shoe's sole; does it appear rigid or flexible?",
-        "answer": "Flexible"
-      },
-      {
-        "question": "Based on the image, what is the overall aesthetic impression of the shoe; does it appear formal or informal?",
+        "question": "What is the general design of the visible shoe portion presented in the image?",
         "answer": "Formal"
+      },
+      {
+        "question": "What kind of visible markings are present on the sole?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by its overall form, describe the shape of the visible portion of the shoe?",
+        "answer": "Elongated"
       }
     ]
   }

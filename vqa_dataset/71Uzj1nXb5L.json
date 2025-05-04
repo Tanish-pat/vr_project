@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant visual element depicted on the phone case?",
-        "answer": "Brushes"
-      },
-      {
-        "question": "What is the overall color scheme of the brush image on the case?",
+        "question": "What is the predominant color scheme of the depicted paintbrushes on the phone case?",
         "answer": "Multicolored"
       },
       {
-        "question": "What type of artistic tools are predominantly shown on the phone case?",
-        "answer": "Paintbrushes"
-      },
-      {
-        "question": "Describe the arrangement of the brushes in the phone case design.",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What appears to be the material of the paintbrushes on the case?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What is the primary shape of the product being shown?",
+        "question": "What is the overall shape of the protective mobile device accessory?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent material of the phone case itself?",
+        "question": "What appears to be the primary material used in the construction of this phone cover?",
         "answer": "Plastic"
       },
       {
-        "question": "What color is the border around the camera cutout on the case?",
-        "answer": "Red"
+        "question": "What is the design pattern or motif featured prominently on the surface of the phone case?",
+        "answer": "Paintbrushes"
       },
       {
-        "question": "What is the general texture implied by the brush depiction on the case?",
+        "question": "Considering the image, what kind of artistic tools are illustrated on the phone case?",
+        "answer": "Brushes"
+      },
+      {
+        "question": "What is the general texture that the paintbrush design on the phone case evokes?",
         "answer": "Rough"
       },
       {
-        "question": "Are the paintbrushes depicted on the phone case uniformly sized?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the implied function of the product depicted in the image?",
+        "question": "What seems to be the intended purpose of this product, based on its design?",
         "answer": "Protection"
       },
       {
-        "question": "Does the phone case design contain any repetitive patterns?",
-        "answer": "Yes"
+        "question": "Based solely on the visual, what device does this case appear designed to fit?",
+        "answer": "Phone"
       },
       {
-        "question": "What style could the brushes depicted on the case belong to?",
-        "answer": "Artistic"
+        "question": "Describe the arrangement of the paintbrushes depicted on the phone case.",
+        "answer": "Vertical"
       },
       {
-        "question": "How many distinct brush handle colors are easily visible?",
-        "answer": "Multiple"
+        "question": "What color are the handles of some of the prominently displayed brushes?",
+        "answer": "Orange"
       },
       {
-        "question": "Does the case predominantly depict natural or synthetic brushes?",
-        "answer": "Natural"
+        "question": "What color is the thin visible border around the phone case's edges?",
+        "answer": "Reddish"
+      },
+      {
+        "question": "Are the paintbrushes depicted on the case realistic or stylized in their appearance?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "What is the apparent level of detail in the depiction of the paintbrushes on the case?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual impression regarding the number of paintbrushes in the image?",
+        "answer": "Many"
+      },
+      {
+        "question": "What is the orientation of the depicted paintbrushes on the product's surface?",
+        "answer": "Upright"
       }
     ]
   }

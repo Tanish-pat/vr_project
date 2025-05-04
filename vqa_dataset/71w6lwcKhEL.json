@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/0421f48e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the handheld multimeter's casing?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the device?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general shape of the multimeter's outer enclosure?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of display is integrated into the multimeter's front panel?",
+        "answer": "LCD"
+      },
+      {
+        "question": "What is the color of the rotary selector dial on the multimeter?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent texture of the multimeter's casing?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of measurement functionality is indicated on the device's display?",
+        "answer": "Digital"
+      },
+      {
+        "question": "What is the shape of the rotary selector knob's grip?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What marking is visible near the device's input jacks?",
+        "answer": "CE"
+      },
+      {
+        "question": "What type of input jacks are visible for probes or leads?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Is the multimeter screen backlit or non-backlit?",
+        "answer": "Non-backlit"
+      },
+      {
+        "question": "What kind of markings are present on the rotary selector dial?",
+        "answer": "Letters"
+      },
+      {
+        "question": "What is the visual design aesthetic of the multimeter?",
+        "answer": "Functional"
+      },
+      {
+        "question": "Are there any visible screws on the outer casing of the device?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the device appear to include a battery compartment?",
+        "answer": "No"
+      }
+    ]
+  }
+]

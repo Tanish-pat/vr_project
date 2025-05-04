@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae83ed39.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form of the container, what is the predominant shape of the oregano packaging?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent primary color of the label prominently displayed on the spice jar?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on visual inspection, what is the textual description of the product inside?",
+        "answer": "Oregano"
+      },
+      {
+        "question": "Observing the product's composition, what is the apparent texture of the dried herb?",
+        "answer": "Crumbly"
+      },
+      {
+        "question": "What is the apparent color of the dried oregano herb contained within the jar?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Focusing on the container's lid, what material does it seem to be constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What seems to be the material of the primary container holding the oregano?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Examining the label, what is the prominent word indicating the product's cultivation method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the color of the brand logo located on the central section of the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Looking at the container's base, is there any sign of a noticeable curve or a flat surface?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Can you describe the visual consistency of the dried oregano within its packaging?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Is there an apparent seal or band on the top part of the container to ensure the contents' freshness?",
+        "answer": "No"
+      },
+      {
+        "question": "What color is the writing stating 'Oregano' on the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Looking at the text on the label, what does it mention regarding the weight of the contents?",
+        "answer": "0.35"
+      },
+      {
+        "question": "Considering the texture and form, what is the probable state of the product\u2014powder, flake, or whole?",
+        "answer": "Flake"
+      }
+    ]
+  }
+]

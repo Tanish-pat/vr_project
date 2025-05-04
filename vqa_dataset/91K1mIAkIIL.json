@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6bab5859.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted textile, focusing on the overall visual impression?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the textile's repeating pattern, what is the most prominent design style or motif employed?",
+        "answer": "Damask"
+      },
+      {
+        "question": "Based solely on visual inspection, what textile type is predominantly suggested by the image?",
+        "answer": "Rug"
+      },
+      {
+        "question": "Describe the shape of the item shown in the provided image, focusing on its overall outline.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the main fabric component, observed in its visual appearance?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Focusing only on the image, what is the lighter color accentuating the main pattern?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the presented textile, what is the apparent pattern's level of detail or intricacy?",
+        "answer": "High"
+      },
+      {
+        "question": "In the image, what visual characteristic is suggested by the contrast between the darker and lighter shades?",
+        "answer": "Relief"
+      },
+      {
+        "question": "Describe the orientation of the primary decorative motif, examining its visual arrangement throughout the item.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual impression of the textile's overall length in relation to its width, given its visual appearance?",
+        "answer": "Long"
+      },
+      {
+        "question": "Disregarding other information, what is the apparent style or aesthetic conveyed by the image's visual elements?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Focusing on the image, what visual features suggest a hand-made or machine-made production?",
+        "answer": "Machine"
+      },
+      {
+        "question": "Considering the color contrast, what is the general visual impact of the textile's pattern?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Describe the visual clarity and precision of the pattern's design elements in the image.",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Given the image alone, how would you characterize the overall visual impression of the textile's design?",
+        "answer": "Elegant"
+      }
+    ]
+  }
+]

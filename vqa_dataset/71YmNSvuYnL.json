@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the wooden rail?",
+        "question": "What is the predominant color of the wooden rail in this wall-mounted coat rack?",
         "answer": "Brown"
       },
       {
-        "question": "What is the finish of the metal hooks?",
-        "answer": "Black"
-      },
-      {
-        "question": "What appears to be the material of the main horizontal component?",
+        "question": "What material appears to constitute the primary body of this hanging organizer?",
         "answer": "Wood"
       },
       {
-        "question": "What material are the hanging hooks seemingly constructed from?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Considering the overall shape, what is the form of the product?",
+        "question": "Considering the overall shape, what geometric form best describes the rack's base?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many individual hooks are visibly attached to the rail?",
+        "question": "What is the apparent finish of the wood used in the construction of this storage solution?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the color of the metallic hooks affixed to the wooden bar?",
+        "answer": "Black"
+      },
+      {
+        "question": "What metallic material seems to have been utilized for the individual hooks?",
+        "answer": "Iron"
+      },
+      {
+        "question": "How many hooks are visibly attached along the length of the wooden component?",
         "answer": "Ten"
       },
       {
-        "question": "What is the apparent shape of each individual hook?",
-        "answer": "Curved"
-      },
-      {
-        "question": "Describe the texture of the wooden rail, considering its visible grain?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent installation method suggested by the image?",
-        "answer": "Wall-mounted"
-      },
-      {
-        "question": "Considering the garment shown, what is the product primarily designed for?",
-        "answer": "Hanging"
-      },
-      {
-        "question": "What is the overall visual style of the product?",
+        "question": "What is the apparent design style of this wall-mounted clothes and accessories rack?",
         "answer": "Minimalist"
       },
       {
-        "question": "Based on the image, what is the purpose of the small projections?",
-        "answer": "Hooks"
-      },
-      {
-        "question": "What is the visible color of the textile item hanging?",
-        "answer": "Purple"
-      },
-      {
-        "question": "Describe the visual orientation of the entire assembly?",
+        "question": "Judging from the image, what is the orientation of this garment and item holder?",
         "answer": "Horizontal"
       },
       {
-        "question": "What is the apparent sheen or glossiness of the wood?",
-        "answer": "Matte"
+        "question": "Based on visual observation, what is the shape of the individual hooks on the rack?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What seems to be the function of the displayed item hanging from one of the hooks?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the surface of the wooden rail?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent mounting method of this multi-hooked organizational unit?",
+        "answer": "Wall"
+      },
+      {
+        "question": "What color is the item hanging from the hook as an example of use?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the overall design, is this rack best suited for heavy or lightweight items?",
+        "answer": "Lightweight"
       }
     ]
   }

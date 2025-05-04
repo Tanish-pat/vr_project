@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc1eabea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the phone case's design?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the overall geometric pattern or shape of the design elements?",
+        "answer": "Hexagonal"
+      },
+      {
+        "question": "Describe the appearance and texture suggested by the design?",
+        "answer": "Mosaic"
+      },
+      {
+        "question": "What material is implied by the glossy surface reflection?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What are the secondary colors prominently featured in the design?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What color are the smaller, irregularly-shaped elements?",
+        "answer": "Red"
+      },
+      {
+        "question": "What other colors are interspersed within the main pattern?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the primary design technique used?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Considering the design, what is the visual style or aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What type of phone model does the case seem designed for?",
+        "answer": "iPhone"
+      },
+      {
+        "question": "What is the style of the edges of the phone case?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Describe the variation in sizes of the colorful shapes?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Does the design have any noticeable repeating units?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the colors, what is the overall feel of the design?",
+        "answer": "Vibrant"
+      }
+    ]
+  }
+]

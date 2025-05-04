@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/03fbc238.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the dresser's exterior?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of this storage furniture piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the dresser's body?",
+        "answer": "Wood"
+      },
+      {
+        "question": "How many drawers are visibly present on the dresser's facade?",
+        "answer": "Six"
+      },
+      {
+        "question": "Describe the style of the drawer pulls or handles employed?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "What is the apparent finish of the dresser's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible structure, what is the dresser's construction type?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by the image, what seems to be the drawer's sliding mechanism?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the visual texture of the dresser's surface, from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the dresser seem to have any visible decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general design aesthetic conveyed by this dresser?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent height of the dresser in relation to its width?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the image, what seems to be the dresser's weight bearing capacity?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visible arrangement of the drawers on this dresser?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent number of sections or compartments this dresser has?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

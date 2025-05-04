@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the laser distance meter's casing?",
+        "question": "What is the predominant color of the device's casing?",
         "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the device, considering its form factor?",
+        "question": "What is the overall shape of the laser distance meter?",
         "answer": "Rectangular"
       },
       {
-        "question": "What type of display is integrated into the device for readings?",
-        "answer": "LCD"
-      },
-      {
-        "question": "What material appears to constitute the majority of the external body?",
+        "question": "What material appears to constitute the device's exterior?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the texturing, what is the tactile feel of the sides?",
-        "answer": "Grippable"
+        "question": "Describe the texture of the sides of the measuring device.",
+        "answer": "Textured"
       },
       {
-        "question": "What is the apparent purpose of the circular component at one end?",
-        "answer": "Sensor"
+        "question": "What type of display is incorporated into the tool's design?",
+        "answer": "LCD"
       },
       {
-        "question": "What is the primary method of user input on this device?",
+        "question": "What is the apparent function of the circular element at the end?",
+        "answer": "Emitter"
+      },
+      {
+        "question": "What kind of interface is shown on the device's surface?",
         "answer": "Buttons"
       },
       {
-        "question": "What is the general condition of the item in the image?",
-        "answer": "New"
-      },
-      {
-        "question": "Based on visual inspection, how many buttons are clearly visible on the device?",
-        "answer": "Ten"
-      },
-      {
-        "question": "What is the color of the prominent button located at the center?",
+        "question": "What color is the prominent button near the display?",
         "answer": "Red"
       },
       {
-        "question": "What is the apparent quality of the device's construction?",
-        "answer": "Durable"
+        "question": "Is there any visible branding or labeling on the device?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the overall size of the device relative to a hand?",
-        "answer": "Portable"
+        "question": "What is the orientation of the display screen on the device?",
+        "answer": "Horizontal"
       },
       {
-        "question": "What kind of markings are visible on the laser emitter end?",
-        "answer": "None"
+        "question": "Does the device show signs of any visible damage or wear?",
+        "answer": "No"
       },
       {
-        "question": "Excluding buttons, what other elements are visible on the device surface?",
-        "answer": "Screen"
+        "question": "Describe the design pattern on the device's sides.",
+        "answer": "Striped"
       },
       {
-        "question": "Describe the surface texture of the main body of the device.",
-        "answer": "Textured"
+        "question": "How many buttons are visibly present on the device's top surface?",
+        "answer": "Many"
+      },
+      {
+        "question": "What is the general size and form factor of this instrument?",
+        "answer": "Handheld"
+      },
+      {
+        "question": "Does the device feature any additional ports or openings besides the emitter?",
+        "answer": "No"
       }
     ]
   }

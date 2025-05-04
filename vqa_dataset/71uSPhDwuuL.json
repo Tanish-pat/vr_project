@@ -9,60 +9,60 @@
         "answer": "Yellow"
       },
       {
-        "question": "What building material is realistically mimicked in the phone case design?",
+        "question": "What building material is realistically represented in the phone case's design?",
         "answer": "Brick"
       },
       {
-        "question": "What is the overall shape or form factor of the depicted protective case?",
+        "question": "What is the overall shape of the protective phone covering shown?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the visual texture, what surface finish does the case appear to possess?",
+        "question": "Considering the image, what appears to be the main texture of the phone case?",
         "answer": "Rough"
       },
       {
-        "question": "Based on the image, what type of pattern is prominently displayed on the case?",
-        "answer": "Brickwork"
-      },
-      {
-        "question": "What color are the mortar lines between the simulated bricks on the case?",
-        "answer": "Grey"
-      },
-      {
-        "question": "Describe the apparent visual condition of the bricks portrayed on the phone cover.",
-        "answer": "Weathered"
-      },
-      {
-        "question": "What level of detail is observable in the representation of individual bricks?",
-        "answer": "High"
-      },
-      {
-        "question": "What seems to be the primary manufacturing material of this phone case?",
+        "question": "What is the apparent material used for this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Does the depicted phone case exhibit a glossy or matte appearance?",
-        "answer": "Matte"
+        "question": "Describe the pattern observed across the phone case's surface?",
+        "answer": "Brickwork"
       },
       {
-        "question": "Judging from the image, what is the case's apparent level of thickness?",
-        "answer": "Slim"
+        "question": "What color are the mortar lines visible between the bricks on the case?",
+        "answer": "Grey"
       },
       {
-        "question": "How many distinct shades of yellow are visually apparent within the brick pattern?",
-        "answer": "Multiple"
+        "question": "Based on the image, what kind of variation is seen in the brick shades?",
+        "answer": "Light"
       },
       {
-        "question": "What is the apparent condition of the simulated brickwork on the case?",
-        "answer": "Aged"
+        "question": "What is the apparent condition of the bricks illustrated in the design?",
+        "answer": "Weathered"
       },
       {
-        "question": "Is the brick pattern on the case consistently uniform throughout?",
+        "question": "Does the phone case design include any additional markings beyond the bricks?",
         "answer": "No"
       },
       {
-        "question": "What seems to be the primary function of the object pictured?",
-        "answer": "Protection"
+        "question": "Considering the image, what is the design style of the phone case?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What seems to be the level of detail in the brickwork representation?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging from the image, is the phone case design primarily geometric or organic?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Describe the arrangement of the bricks depicted in the phone case's design?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the overall visual impression conveyed by the phone case design?",
+        "answer": "Vintage"
       }
     ]
   }

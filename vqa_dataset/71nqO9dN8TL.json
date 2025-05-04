@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the dominant shape of this footwear item?",
-        "answer": "Curved"
+        "question": "Considering the overall visual design, what is the most prominent feature of the sole's texture?",
+        "answer": "Wavy"
       },
       {
-        "question": "What is the most prevalent color visible on the sole of the athletic shoe?",
-        "answer": "White"
-      },
-      {
-        "question": "Describing the texture of the outsole, what tactile quality does it primarily exhibit?",
-        "answer": "Ribbed"
-      },
-      {
-        "question": "What is the apparent material predominantly used in the construction of the shoe's outsole?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Based on the visible pattern, what design element characterizes the upper section of the shoe?",
-        "answer": "Striped"
-      },
-      {
-        "question": "What secondary color accents the primary dark hue in the visible upper portion of the shoe?",
+        "question": "What color predominantly characterizes the upper part of the shoe, as shown in the image?",
         "answer": "Teal"
       },
       {
-        "question": "What is the predominant color of the upper part of the pictured athletic shoe?",
-        "answer": "Dark"
+        "question": "Based on the image, what appears to be the primary material composing the shoe's sole?",
+        "answer": "Rubber"
       },
       {
-        "question": "Considering the visible texture, what word best describes the feel of the upper part of the shoe?",
+        "question": "Describing the pattern on the upper part of the shoe, what design best encapsulates it?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the visible portion of the shoe?",
+        "answer": "Curved"
+      },
+      {
+        "question": "From the visible portion of the shoe in the image, what color is the sole of the shoe?",
+        "answer": "White"
+      },
+      {
+        "question": "What seems to be the texture of the upper part of the athletic shoe, based on the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the design, what is the most descriptive term for the style of the sole's pattern?",
         "answer": "Textured"
       },
       {
-        "question": "What is the most noticeable feature of the sole's design, from a visual perspective?",
-        "answer": "Waves"
-      },
-      {
-        "question": "Judging by the image, what type of footwear is shown, suitable for which activity?",
-        "answer": "Athletic"
-      },
-      {
-        "question": "What type of material seems to constitute the majority of the shoe's upper surface?",
+        "question": "What is the apparent material of the upper part of the running shoe, judging from the picture?",
         "answer": "Fabric"
       },
       {
-        "question": "Observing the design, what can be said about the arrangement of patterns on the upper part?",
-        "answer": "Linear"
+        "question": "What seems to be the overall style of the shoe, judging only from the provided image?",
+        "answer": "Athletic"
       },
       {
-        "question": "What is the overall impression of the design style exhibited by this pair of shoes?",
-        "answer": "Sporty"
+        "question": "Considering the image, what is the visible part of the shoe's structure?",
+        "answer": "Sole"
       },
       {
-        "question": "In terms of its function, what is the main purpose of this specific item of clothing?",
+        "question": "Considering the image, what is the dominant color of the pattern on the upper shoe?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What appears to be the primary function of this footwear, based solely on its visual appearance?",
         "answer": "Running"
       },
       {
-        "question": "From this angle, what part of the shoe is not clearly visible in this single image?",
-        "answer": "Inside"
+        "question": "Based on visual cues in the image, what is the general condition of the shoe?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on its visual features, what is the type of footwear presented in the image?",
+        "answer": "Sneaker"
       }
     ]
   }

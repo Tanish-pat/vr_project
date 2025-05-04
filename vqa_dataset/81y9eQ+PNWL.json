@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b88e6b7a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme employed in this product's packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the primary shape of the container depicted, based on the visible sections of the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text blocks, what is the primary language used for the printed information?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the visual style of the text, what is the overall typeface classification (e.g., serif, sans-serif)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the textual content, what is the principal function indicated for this product, as per its labelling?",
+        "answer": "Antihistamine"
+      },
+      {
+        "question": "Examining the text blocks, what kind of information is presented in a structured, tabular format?",
+        "answer": "Directions"
+      },
+      {
+        "question": "What is the apparent material of the printed labeling, assuming standard pharmaceutical packaging practices?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Given the presentation, what category of product does this packaging suggest (e.g., food, medicine, cosmetic)?",
+        "answer": "Medicine"
+      },
+      {
+        "question": "What is the overall texture of the visible sections of the package, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the method indicated for contacting the manufacturer or distributor for inquiries?",
+        "answer": "Phone"
+      },
+      {
+        "question": "Judging from the packaging, does this product primarily address internal or external use, according to its labeling?",
+        "answer": "Internal"
+      },
+      {
+        "question": "Examining the visual layout, what is the method used to separate various sections of information on the label?",
+        "answer": "Boxes"
+      },
+      {
+        "question": "What is the overall visual density of information presented on this particular package?",
+        "answer": "High"
+      },
+      {
+        "question": "What style of information presentation is used for the warnings and precautions stated?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Based on the overall design, would you characterize the visual style as modern, classic, or something else?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

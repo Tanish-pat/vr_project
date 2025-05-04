@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the depicted cat on the phone case?",
+        "question": "What is the predominant color of the depicted cute cat on the phone case?",
         "answer": "White"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Pink"
       },
       {
-        "question": "Describe the overall shape of the phone case shown in the provided image?",
-        "answer": "Rectangular"
+        "question": "What is the overall shape of the illustrated feline on the phone cover?",
+        "answer": "Round"
       },
       {
-        "question": "What appears to be the primary material of this phone case, judging by its appearance?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the image, what is the style of the illustration featured on the case?",
-        "answer": "Cartoon"
-      },
-      {
-        "question": "What is the main subject of the design printed on the phone case?",
-        "answer": "Cat"
-      },
-      {
-        "question": "Based on the visual details, what is the apparent texture of the phone case?",
+        "question": "Describe the apparent texture of the phone case material shown in the provided image?",
         "answer": "Smooth"
       },
       {
-        "question": "What color is the background surrounding the cat illustration on the case?",
+        "question": "What is the primary design feature on the displayed mobile phone protective case?",
+        "answer": "Cat"
+      },
+      {
+        "question": "What color is the background of the phone case design, visible in the product picture?",
         "answer": "Pink"
       },
       {
-        "question": "What is the style of the cat's eyes depicted in the phone case's design?",
-        "answer": "Large"
+        "question": "Considering the image, what seems to be the material of this phone case?",
+        "answer": "Plastic"
       },
       {
-        "question": "Are there any noticeable markings or patterns on the phone case besides the cat?",
-        "answer": "None"
-      },
-      {
-        "question": "Describe the cat's pose as illustrated on the mobile phone protective case?",
-        "answer": "Sitting"
-      },
-      {
-        "question": "How many paws are visible on the cat illustrated on the phone case?",
-        "answer": "Four"
-      },
-      {
-        "question": "What seems to be the finish of the surface of this phone case?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What is the apparent design aesthetic of the overall phone case illustration?",
+        "question": "Based on the image, what is the style of the cat's illustration on the phone case?",
         "answer": "Cute"
       },
       {
-        "question": "Judging from the image, does the phone case appear to be rigid or flexible?",
-        "answer": "Rigid"
+        "question": "What color are the eyes of the illustrated cat on the phone protective case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the provided image, what is the apparent finish of the phone case?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What shape are the paws depicted on the cute cat on the phone case?",
+        "answer": "Round"
+      },
+      {
+        "question": "How would you describe the size of the cat's eyes on the phone cover?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the pattern of the bow on the cat's head in the image?",
+        "answer": "Polka-dot"
+      },
+      {
+        "question": "What is the general form of the phone case based on the image provided?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the expression of the cat illustrated on the phone case image?",
+        "answer": "Sweet"
       }
     ]
   }

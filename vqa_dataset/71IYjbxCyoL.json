@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's background?",
+        "question": "What is the predominant color of the phone case's background?",
         "answer": "Blue"
       },
       {
-        "question": "What breed of dog is repeatedly depicted on the phone case?",
+        "question": "What animal is repeatedly depicted in the design?",
         "answer": "Pug"
       },
       {
-        "question": "What is the primary design element used in the phone case's pattern?",
-        "answer": "Repeating"
-      },
-      {
-        "question": "What text phrase is prominently featured among the design elements?",
+        "question": "What phrase is repeatedly featured within speech bubbles?",
         "answer": "Awesome"
       },
       {
-        "question": "What type of hat is worn by the illustrated pugs?",
+        "question": "What type of hat is worn by the pugs in the illustration?",
         "answer": "Bowler"
       },
       {
-        "question": "What musical instrument is depicted in the phone case's pattern?",
+        "question": "What musical instrument is depicted alongside the pugs?",
         "answer": "Guitar"
       },
       {
-        "question": "What vintage mode of transportation is illustrated on the phone case?",
+        "question": "What vintage mode of transportation is featured in the design?",
         "answer": "Bicycle"
       },
       {
-        "question": "What is the main accessory worn by each pug in the design?",
-        "answer": "Bowtie"
-      },
-      {
-        "question": "What other accessory is featured alongside the pugs?",
-        "answer": "Mustache"
-      },
-      {
-        "question": "What type of keyboard is present within the design elements?",
-        "answer": "Synthesizer"
-      },
-      {
-        "question": "What is the general style of the illustrations on the phone case?",
-        "answer": "Cartoonish"
-      },
-      {
-        "question": "Describe the overall pattern arrangement of the phone case.",
-        "answer": "Regular"
-      },
-      {
-        "question": "What appears to be the material of the phone case itself?",
+        "question": "What is the apparent material of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the shape of the phone case, ignoring the printed design?",
+        "question": "What is depicted above each pug's head?",
+        "answer": "Hat"
+      },
+      {
+        "question": "What is the overall style of the design?",
+        "answer": "Cartoon"
+      },
+      {
+        "question": "What is the texture of the depicted musical keyboards?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What facial hair is seen in the case design?",
+        "answer": "Mustache"
+      },
+      {
+        "question": "What kind of pattern does the design follow?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "What is the shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the overall aesthetic or theme of this phone case design?",
-        "answer": "Whimsical"
+        "question": "What is the overall tone of the phone case's design?",
+        "answer": "Playful"
+      },
+      {
+        "question": "What is the design primarily comprised of?",
+        "answer": "Illustrations"
       }
     ]
   }

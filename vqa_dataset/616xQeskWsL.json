@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What kind of objects are depicted in the phone case's primary image?",
+        "question": "What kind of imagery is prominently featured on the phone case's back?",
         "answer": "Lanterns"
       },
       {
-        "question": "What appears to be the texture of the outer phone case layer?",
-        "answer": "Smooth"
+        "question": "What appears to be the primary material composing the phone case's frame?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape of the protective phone case shown?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What material is explicitly mentioned as part of the case's construction?",
-        "answer": "PC"
-      },
-      {
-        "question": "What is the apparent design style of the phone case's printed artwork?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "What color are most of the depicted lanterns on the phone case?",
-        "answer": "Orange"
-      },
-      {
-        "question": "What seems to be the background color behind the lanterns?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the general style of the illustrated lanterns?",
-        "answer": "Asian"
-      },
-      {
-        "question": "Considering the case's material, what is its likely feel?",
-        "answer": "Hard"
-      },
-      {
-        "question": "Describe the visual arrangement of the lanterns in the design.",
-        "answer": "Scattered"
-      },
-      {
-        "question": "What is the apparent level of detail in the case's lantern depiction?",
-        "answer": "High"
-      },
-      {
-        "question": "What kind of protection does the product description suggest?",
+        "question": "Considering the case's construction, what protective layers are visible?",
         "answer": "Hybrid"
       },
       {
-        "question": "What brand of phone is the case partially shown around?",
+        "question": "What is the overall shape of the protective phone case presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what is the texture of the phone case's printed surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the color of the depicted lanterns in the phone case's design.",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the background color against which the lanterns are depicted?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What seems to be the style of the lanterns depicted on the phone case?",
+        "answer": "Asian"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the phone case's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the camera cutouts, for which phone model is this case designed?",
         "answer": "Samsung"
       },
       {
-        "question": "What is the apparent finish of the phone case's surface?",
-        "answer": "Glossy"
+        "question": "What is the apparent level of detail in the printed lantern design?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the inferred function of this item as shown in the image?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the visible aspect ratio of the depicted phone case?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Considering the materials mentioned, what is the case's overall rigidity?",
+        "answer": "Hard"
       }
     ]
   }

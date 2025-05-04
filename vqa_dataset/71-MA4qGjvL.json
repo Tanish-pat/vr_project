@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5c9b99c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall packaging, what is the predominant color of the outer plastic wrapper?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What appears to be the primary color of the leafy greens visible within the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on visual observation, what seems to be the shape of the container holding the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the visible greens and what type of vegetable does it appear to be?",
+        "answer": "Leafy"
+      },
+      {
+        "question": "Judging by the image, what appears to be the texture of the bottom layer of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent color of the bottom layer visible within the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material is primarily used for the main packaging of this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What seems to be the overall form factor of the inner product container?",
+        "answer": "Tray"
+      },
+      {
+        "question": "Given the image, describe the general arrangement of the product inside its packaging?",
+        "answer": "Layered"
+      },
+      {
+        "question": "Observing the visual details, what is the general state of the leaves within the pack?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "From the image, what is the implied nature of the item inside the plastic packaging?",
+        "answer": "Food"
+      },
+      {
+        "question": "From a visual standpoint, what would you identify as the likely primary contents of this product?",
+        "answer": "Salad"
+      },
+      {
+        "question": "What is the apparent color of some of the other visible leaves within the packaging?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the outer packaging, is the packaging transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What kind of packaging is used to primarily contain the product components?",
+        "answer": "Film"
+      }
+    ]
+  }
+]

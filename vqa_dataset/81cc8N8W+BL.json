@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/169b0f9b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cat litter box's exterior?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the presented cat litter box?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What appears to be the primary material of the litter box?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the visible surface of the litter box?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the interior of the cat litter box?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is there a noticeable lip or raised edge around the opening?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the apparent material of the cat litter inside?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the general color of the cat litter pellets?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the design, is the box intended for a specific pet?",
+        "answer": "Cat"
+      },
+      {
+        "question": "Does the litter box have any visible handles or carrying features?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is the litter box designed to be easily cleaned?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent design of the litter box's base?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the box have visible text or branding elements on its exterior?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the apparent overall size of the box?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, what is the apparent depth of the box?",
+        "answer": "Shallow"
+      }
+    ]
+  }
+]
