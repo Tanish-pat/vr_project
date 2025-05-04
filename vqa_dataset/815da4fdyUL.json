@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the charging dock's exterior?",
+        "question": "What is the predominant color of the charging dock's base?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material used in the dock's construction?",
+        "question": "What material appears to constitute the majority of the dock?",
         "answer": "Plastic"
       },
       {
-        "question": "Describing the overall shape of the charging dock, what geometric term best applies?",
+        "question": "What is the overall shape of the charging dock's base?",
         "answer": "Triangular"
       },
       {
-        "question": "Considering the visible surface, what is the apparent texture of the dock?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the color of the indicator lights illuminating on the front of the dock?",
-        "answer": "Green"
-      },
-      {
-        "question": "How many indicator lights are visibly present on the charging dock's surface?",
+        "question": "How many indicator lights are visibly present on the device?",
         "answer": "Two"
       },
       {
-        "question": "What seems to be the function of the recessed area at the center of the dock?",
-        "answer": "Charging"
+        "question": "What color are the indicator lights currently displaying?",
+        "answer": "Green"
       },
       {
-        "question": "What is the shape of the recessed area intended for device placement?",
-        "answer": "Rectangular"
+        "question": "What is the apparent texture of the charging dock's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "Focusing on the base, what design element is prominent at the dock's edges?",
-        "answer": "Angled"
-      },
-      {
-        "question": "What seems to be printed on the front of the charging dock?",
-        "answer": "Text"
-      },
-      {
-        "question": "What is the overall size of the dock, small, medium, or large?",
-        "answer": "Medium"
-      },
-      {
-        "question": "What is the general form of the supporting structure at the ends of the dock?",
+        "question": "Describing the shape, what are the side supports like?",
         "answer": "Curved"
       },
       {
-        "question": "Is the surface of the charging dock glossy or matte in appearance?",
+        "question": "What appears to be the primary function of this device?",
+        "answer": "Charging"
+      },
+      {
+        "question": "What is the general form factor of the device?",
+        "answer": "Stationary"
+      },
+      {
+        "question": "What seems to be the style of the device's design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What text is subtly visible on the charging dock?",
+        "answer": "AmazonBasics"
+      },
+      {
+        "question": "Are there any visible vents or openings on this charging dock?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the dock exhibit a glossy or matte finish?",
         "answer": "Matte"
       },
       {
-        "question": "Considering the visible components, does the dock seem compact or bulky?",
-        "answer": "Compact"
+        "question": "What appears to be the depth of the charging slot?",
+        "answer": "Shallow"
       },
       {
-        "question": "What is the visible state of the charging dock\u2014 is it active, inactive, or damaged?",
-        "answer": "Active"
+        "question": "What seems to be the intended use of the central recess?",
+        "answer": "Charging"
       }
     ]
   }

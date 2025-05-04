@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the tabletop's marbled pattern?",
+        "question": "What is the dominant pattern on the tabletop surface?",
+        "answer": "Marble"
+      },
+      {
+        "question": "What color is the primary tabletop design?",
         "answer": "White"
       },
       {
-        "question": "What material appears to constitute the tabletop surface?",
-        "answer": "Glass"
-      },
-      {
-        "question": "Describe the visual texture of the tabletop's surface design?",
-        "answer": "Marbled"
-      },
-      {
-        "question": "What metallic finish is predominantly visible on the legs?",
+        "question": "Describe the color of the table's metal legs?",
         "answer": "Gold"
       },
       {
-        "question": "What is the general shape of the tabletop shown in the image?",
-        "answer": "Rectangular"
+        "question": "What appears to be the material of the tabletop?",
+        "answer": "Glass"
       },
       {
-        "question": "What seems to be the primary material of the table's legs?",
-        "answer": "Metal"
+        "question": "What is the overall shape of the table's top?",
+        "answer": "Square"
       },
       {
-        "question": "Considering the legs, what design style would best describe this table?",
-        "answer": "Minimalist"
+        "question": "What kind of finish do the wooden legs seem to have?",
+        "answer": "Natural"
       },
       {
-        "question": "What color best describes the metallic accents of the table?",
-        "answer": "Brass"
+        "question": "What is the apparent material of the table's legs?",
+        "answer": "Wood"
       },
       {
-        "question": "Judging by the image, how many visible legs does the table possess?",
+        "question": "How many legs does the table visually possess?",
         "answer": "Two"
       },
       {
-        "question": "What is the apparent thickness of the tabletop glass in millimeters?",
-        "answer": "Unknown"
+        "question": "Considering the legs' placement, what is the table's style?",
+        "answer": "Minimalist"
       },
       {
-        "question": "Does the glass tabletop show any significant imperfections?",
-        "answer": "No"
+        "question": "Describe the visible texture of the marble pattern?",
+        "answer": "Swirled"
       },
       {
-        "question": "What is the approximate width of the visible table legs?",
-        "answer": "Narrow"
+        "question": "What is the apparent thickness of the glass tabletop?",
+        "answer": "Thin"
       },
       {
-        "question": "Based on the visual, what is the overall style of the table?",
-        "answer": "Modern"
+        "question": "What seems to be the finish of the metal legs?",
+        "answer": "Shiny"
       },
       {
-        "question": "Describe the color scheme present in this piece of furniture?",
-        "answer": "Neutral"
+        "question": "Describe the visual relationship between the legs and top?",
+        "answer": "Simple"
       },
       {
-        "question": "What type of wood appears to be used in the visible table legs?",
-        "answer": "Unknown"
+        "question": "What is the general condition of the visible surface?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Are there any noticeable imperfections on the tabletop?",
+        "answer": "None"
       }
     ]
   }

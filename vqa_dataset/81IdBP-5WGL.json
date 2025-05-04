@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a2792a81.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the yoga strap shown in the main image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the yoga strap's body?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall shape of the rolled-up yoga strap?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What kind of metal is used for the strap's connecting rings?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describing the texture of the yoga strap's surface, is it smooth or rough?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the design or pattern present on the label affixed to the strap?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Considering the strap's construction, is it pliable or rigid?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "What is the apparent width of the yoga strap in centimeters or inches?",
+        "answer": "Wide"
+      },
+      {
+        "question": "What is the shape of the metal rings at each end of the yoga strap?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Does the yoga strap feature any visible stitching along its length?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by its appearance, how would you characterize the length of the yoga strap?",
+        "answer": "Long"
+      },
+      {
+        "question": "Considering the provided image, is the strap rolled up tightly or loosely?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the apparent thickness of the yoga strap?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the form of the label on the yoga strap?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is the brand logo on the label predominantly one color?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

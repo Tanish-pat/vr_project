@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's primary surface?",
+        "question": "What is the dominant color of the phone case's primary material?",
         "answer": "Blue"
       },
       {
-        "question": "What appears to be the primary material of the phone case?",
-        "answer": "Fabric"
+        "question": "What textile-like texture is visible on the phone case's surface?",
+        "answer": "Denim"
       },
       {
-        "question": "What is the overall shape of the protective phone case?",
+        "question": "What is the overall shape of the protective phone case shown?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the texture implied by the case's surface visual?",
-        "answer": "Woven"
-      },
-      {
-        "question": "What design elements are embroidered onto the phone case?",
-        "answer": "Cameras"
-      },
-      {
-        "question": "What color are the embroidered camera designs on the case?",
+        "question": "What metallic color are the embroidered design elements?",
         "answer": "Silver"
       },
       {
-        "question": "What style are the embroidered camera graphics?",
-        "answer": "Outlined"
+        "question": "What is the style of the embroidered images on the phone cover?",
+        "answer": "Cameras"
       },
       {
-        "question": "How many camera designs are embroidered onto the case?",
+        "question": "Describe the visual texture of the embroidered camera designs.",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the apparent material of the phone case's main body?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "How many distinct embroidered camera images are depicted?",
         "answer": "Two"
       },
       {
-        "question": "What is the apparent finish of the embroidered camera images?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Does the case appear to provide complete phone coverage?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What kind of phone does the case seem designed to fit?",
+        "question": "What type of phone model does this case seem designed for?",
         "answer": "Samsung"
       },
       {
-        "question": "Is there any visible branding or logo on the case?",
-        "answer": "No"
+        "question": "What is the primary technique used to create the case's design?",
+        "answer": "Embroidery"
       },
       {
-        "question": "Describe the stitching of the camera designs on the case?",
-        "answer": "Clean"
+        "question": "Considering the image, what is the case's implied function?",
+        "answer": "Protection"
       },
       {
-        "question": "Does the case seem to add significant bulk to the phone?",
-        "answer": "No"
+        "question": "What is the general visual style or aesthetic of the phone case?",
+        "answer": "Minimalist"
       },
       {
-        "question": "What is the apparent level of detail in the embroidered design?",
-        "answer": "Moderate"
+        "question": "What appears to be the finish of the phone case's material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the stitching style visible in the embroidered elements.",
+        "answer": "Outline"
+      },
+      {
+        "question": "What is the apparent overall condition of the phone case shown?",
+        "answer": "New"
       }
     ]
   }

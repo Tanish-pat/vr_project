@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da847f24.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary color of the design on the phone case?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the design element prominently featured on the case?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Describe the style of the design, considering its aesthetic origin?",
+        "answer": "Paisley"
+      },
+      {
+        "question": "What appears to be the material of the phone case, based on its visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the apparent finish of the phone case surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the design technique used to create the white pattern against the black background?",
+        "answer": "Cutout"
+      },
+      {
+        "question": "Does the design on the case seem to be two-dimensional or three-dimensional?",
+        "answer": "Two-dimensional"
+      },
+      {
+        "question": "Describe the texture of the design's lines, in terms of thickness and uniformity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What shape best describes the general outline of the main design element?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the phone's orientation, where is the design primarily located?",
+        "answer": "Back"
+      },
+      {
+        "question": "How would you characterize the level of detail in the design's white floral pattern?",
+        "answer": "Intricate"
+      },
+      {
+        "question": "Based solely on the visual, what type of phone does the case appear designed for?",
+        "answer": "Samsung"
+      },
+      {
+        "question": "What kind of visual effect does the contrast between black and white create?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Besides the main design, what other minor graphic element is present?",
+        "answer": "Circle"
+      }
+    ]
+  }
+]

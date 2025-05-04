@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case's background?",
+        "question": "What is the dominant color of the phone case's main surface?",
         "answer": "Black"
       },
       {
-        "question": "What is the primary material appearing to constitute the phone case?",
+        "question": "What is the primary material seemingly used in the phone case's construction?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape of the depicted protective phone case?",
+        "question": "What is the overall shape of this protective mobile phone covering?",
         "answer": "Rectangular"
       },
       {
-        "question": "What style of text is predominantly featured on the phone case's surface?",
+        "question": "What style of text is prominently displayed on the phone case's back?",
         "answer": "Sans-serif"
       },
       {
-        "question": "What color is the text printed on the phone case's surface?",
+        "question": "Considering the visible text, what is the general theme or tone of the message?",
+        "answer": "Humorous"
+      },
+      {
+        "question": "What color is the text printed on the phone case's back panel?",
         "answer": "White"
       },
       {
-        "question": "Considering the image, what is the overall finish of the phone case?",
+        "question": "Excluding the main text, what other smaller text is present on the case?",
+        "answer": "Footnote"
+      },
+      {
+        "question": "Describe the finish or texture apparent on the phone case's surface.",
         "answer": "Matte"
       },
       {
-        "question": "What is the type of device the case is designed to protect?",
-        "answer": "Phone"
-      },
-      {
-        "question": "Does the case design contain any visible graphical elements aside from text?",
-        "answer": "No"
-      },
-      {
-        "question": "Judging by the image, is the phone case design minimalist or elaborate?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Based on the visual, what is the apparent texture of the phone case?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "How many sides of the phone case are shown in the provided image?",
+        "question": "Based on the image, how many sides of the phone case are clearly visible?",
         "answer": "Three"
       },
       {
-        "question": "What is the orientation of the text on the phone case?",
-        "answer": "Vertical"
+        "question": "Does the case seem to completely cover all the sides of the phone?",
+        "answer": "Yes"
       },
       {
-        "question": "Does the provided image show any visible buttons or ports on the case itself?",
+        "question": "What is the apparent thickness of this smartphone protective shell?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What type of phone does the case seem to be designed to fit?",
+        "answer": "Smartphone"
+      },
+      {
+        "question": "Is there any visible branding or logo on this phone accessory?",
         "answer": "No"
       },
       {
-        "question": "Considering the visual evidence, is the case design primarily abstract or figurative?",
-        "answer": "Figurative"
+        "question": "What is the orientation of the main text on the phone's back cover?",
+        "answer": "Vertical"
       },
       {
-        "question": "What is the general tone or mood conveyed by the text on the case?",
-        "answer": "Humorous"
+        "question": "Judging from the image, does the case appear to have a rigid or flexible structure?",
+        "answer": "Rigid"
       }
     ]
   }

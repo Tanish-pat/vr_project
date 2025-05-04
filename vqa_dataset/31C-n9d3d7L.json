@@ -5,11 +5,11 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the bottle's main label?",
+        "question": "What is the primary color of the bottle's label?",
         "answer": "White"
       },
       {
-        "question": "What is the overall shape of the product container?",
+        "question": "What is the predominant shape of the container?",
         "answer": "Cylindrical"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "Plastic"
       },
       {
-        "question": "What type of closure does the bottle container possess?",
-        "answer": "Screw-top"
-      },
-      {
-        "question": "What is the text prominently displayed on the label?",
-        "answer": "Italian"
-      },
-      {
-        "question": "What color is the smaller text on the label?",
-        "answer": "Black"
-      },
-      {
-        "question": "Describe the texture of the bottle's surface.",
+        "question": "What is the overall texture of the bottle's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Is there any noticeable design element other than text?",
-        "answer": "Image"
-      },
-      {
-        "question": "What is the color of the cap on top of the bottle?",
+        "question": "What is the color of the bottle's cap or lid?",
         "answer": "White"
       },
       {
-        "question": "What appears to be depicted on the label\u2019s image?",
+        "question": "What type of text is prominently featured on the label?",
+        "answer": "Italian"
+      },
+      {
+        "question": "What kind of image is displayed on the product label?",
         "answer": "Coffee"
       },
       {
-        "question": "Does the product's packaging show any specific certifications?",
-        "answer": "Organic"
-      },
-      {
-        "question": "What seems to be the approximate height of the bottle?",
-        "answer": "Ten"
-      },
-      {
-        "question": "Does the bottle have any noticeable embossing or patterns?",
+        "question": "Does the product label feature any discernible patterns?",
         "answer": "No"
       },
       {
-        "question": "Is the bottle transparent or opaque?",
+        "question": "Can you describe the style of the label's typography?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the approximate height of the product container?",
+        "answer": "Ten"
+      },
+      {
+        "question": "Is the container transparent or opaque?",
         "answer": "Opaque"
       },
       {
-        "question": "What kind of product is this bottle likely to contain?",
-        "answer": "Syrup"
+        "question": "Does the label feature any secondary color accents?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent size of the product's text?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image suggest a seal or tamper-evident feature?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the overall design aesthetic of the product packaging.",
+        "answer": "Minimalist"
       }
     ]
   }

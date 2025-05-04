@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the bottle's label, excluding the brand name?",
+        "question": "What is the primary color prominently displayed on the bottle's label?",
         "answer": "Orange"
       },
       {
-        "question": "What is the shape of the container holding the gummies?",
+        "question": "What is the shape of the bottle containing the gummies?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What primary material appears to constitute the bottle?",
+        "question": "What material appears to constitute the bottle's body?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the apparent texture of the gummies visible through the bottle?",
+        "question": "What is the visible color of the gummies inside the bottle?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall texture implied by the gummy appearance?",
         "answer": "Translucent"
       },
       {
-        "question": "What color are the gummies visible within the bottle?",
-        "answer": "Orange"
+        "question": "What type of closure is visible atop the bottle?",
+        "answer": "Screw-top"
       },
       {
-        "question": "What is the overall shape of the gummies as seen through the bottle?",
-        "answer": "Irregular"
+        "question": "What specific vitamin is prominently mentioned on the label?",
+        "answer": "Vitamin"
       },
       {
-        "question": "What is the color of the bottle cap visible on top?",
+        "question": "What is the color of the bottle's cap or lid?",
         "answer": "White"
       },
       {
-        "question": "What is the material of the visible cap on the top of the bottle?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the design style of the label's main graphic element?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "Considering the image, what vitamin does the product contain?",
-        "answer": "C"
-      },
-      {
-        "question": "What is the dosage of vitamin C stated on the label?",
-        "answer": "250"
-      },
-      {
-        "question": "What is the form of the dietary supplement contained within?",
-        "answer": "Gummies"
-      },
-      {
-        "question": "What is indicated on the label regarding gluten content?",
-        "answer": "Free"
-      },
-      {
-        "question": "What is the primary flavor indicated on the product label?",
+        "question": "What is depicted on the label aside from text, visually suggesting the flavor?",
         "answer": "Orange"
       },
       {
-        "question": "What term describes this product in the lower label?",
-        "answer": "Supplement"
+        "question": "What is the shape of the graphic elements on the bottle's label?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the overall design style of the label (e.g., minimalist, ornate)?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the textual indication of dietary restrictions?",
+        "answer": "Gluten-free"
+      },
+      {
+        "question": "What is the format of the vitamin C dosage mentioned on the label?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the type of product shown in the image?",
+        "answer": "Gummies"
+      },
+      {
+        "question": "What is the brand name visible on the bottle's label?",
+        "answer": "Solino"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/47/47ca809a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual elements, what is the primary function of this depicted rectangular item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the prominent numerical value displayed in large font, what is the total caloric content per serving?",
+        "answer": "100"
+      },
+      {
+        "question": "Based on the detailed breakdown, what is the protein content per serving in grams?",
+        "answer": "17"
+      },
+      {
+        "question": "Focusing on the fat content section, what is the amount of saturated fat present in grams?",
+        "answer": "1"
+      },
+      {
+        "question": "Examining the mineral content, what is the amount of calcium expressed in milligrams?",
+        "answer": "200"
+      },
+      {
+        "question": "From the sodium section, what is the sodium content in milligrams?",
+        "answer": "260"
+      },
+      {
+        "question": "Regarding the visual composition, what is the color of the textual content primarily used on this item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Looking at the design elements, what is the general layout style of this information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Analyzing the background, what is the background color of the nutrition facts section?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text, what is the font style of the 'Nutrition Facts' header?",
+        "answer": "bold"
+      },
+      {
+        "question": "Based on visual cues, what is the overall shape of the presented informational panel?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "Considering the formatting, what is the unit of measurement used for the serving size?",
+        "answer": "grams"
+      },
+      {
+        "question": "Analyzing the provided data, what is the daily value percentage for total fat?",
+        "answer": "4"
+      },
+      {
+        "question": "From the cholesterol information, what is the cholesterol content in milligrams?",
+        "answer": "55"
+      },
+      {
+        "question": "Focusing on the vitamins, what is the vitamin D content in mcg?",
+        "answer": "15.9"
+      }
+    ]
+  }
+]

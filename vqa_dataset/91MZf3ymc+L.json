@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the pendant light fixture, as seen in the image?",
-        "answer": "Urn"
-      },
-      {
-        "question": "What natural fiber material appears to primarily constitute the pendant lampshade?",
+        "question": "What is the dominant material visibly comprising the pendant lampshade?",
         "answer": "Seagrass"
       },
       {
-        "question": "Describe the dominant color of the woven seagrass shade, based on visual observation.",
+        "question": "What is the overall shape of the woven lampshade structure?",
+        "answer": "Bulbous"
+      },
+      {
+        "question": "What color best describes the seagrass material used in construction?",
         "answer": "Beige"
       },
       {
-        "question": "Considering the image, what is the apparent weaving style or pattern of the lampshade?",
-        "answer": "Lattice"
+        "question": "Describe the texture of the woven seagrass lampshade from the image?",
+        "answer": "Woven"
       },
       {
-        "question": "What kind of light bulb is visibly housed inside the woven shade?",
+        "question": "What kind of light bulb is shown within the woven cage?",
         "answer": "Edison"
       },
       {
-        "question": "Based on the image, what is the texture of the seagrass material in the lampshade?",
-        "answer": "Woven"
+        "question": "What is the visible pattern formed by the seagrass strands?",
+        "answer": "Lattice"
       },
       {
-        "question": "Judging from the visual details, what is the apparent finish of the seagrass shade?",
-        "answer": "Natural"
+        "question": "Considering the structure, what is the main function of this item?",
+        "answer": "Lighting"
       },
       {
-        "question": "What is the general style of the pendant light, as depicted in the provided image?",
+        "question": "What type of weave is predominantly used in the lampshade?",
+        "answer": "Open"
+      },
+      {
+        "question": "What is the apparent style of the pendant lampshade design?",
         "answer": "Bohemian"
       },
       {
-        "question": "What kind of cord or wire is visible, supporting the pendant light fixture?",
-        "answer": "Black"
-      },
-      {
-        "question": "Describe the light bulb's visible filament, based solely on the image.",
-        "answer": "Coiled"
-      },
-      {
-        "question": "From the image, what is the approximate transparency of the woven lampshade?",
-        "answer": "Semi-sheer"
-      },
-      {
-        "question": "Describe the visible construction of the shade's top edge, according to the provided image.",
-        "answer": "Woven"
-      },
-      {
-        "question": "What is the overall appearance of the light emanating from the bulb, as shown?",
+        "question": "What is the visible color of the visible light source?",
         "answer": "Warm"
       },
       {
-        "question": "Based on the image, what appears to be the primary construction method of this lampshade?",
-        "answer": "Handwoven"
+        "question": "Does the lampshade feature any visible embellishments?",
+        "answer": "No"
       },
       {
-        "question": "What is the main visual characteristic of the seagrass material's appearance?",
-        "answer": "Rough"
+        "question": "What is the general visual aesthetic conveyed by this lamp?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the form of the pendant light's visible structure?",
+        "answer": "Cage"
+      },
+      {
+        "question": "Describe the visible density of the seagrass weave in the lampshade.",
+        "answer": "Loose"
+      },
+      {
+        "question": "What appears to be the primary way light passes through?",
+        "answer": "Weave"
       }
     ]
   }

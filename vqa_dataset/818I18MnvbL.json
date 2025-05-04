@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a7/a7a8f3b0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the towels shown in the stack?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the towel fabric, based on visual inspection?",
+        "answer": "Fluffy"
+      },
+      {
+        "question": "Considering the image, what is the general shape of each individual towel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image's visual clues, what material are the towels likely composed of?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Judging from the image, how many towels are stacked together in the presented image?",
+        "answer": "Four"
+      },
+      {
+        "question": "Can you describe the visible design elements or patterns on the towels?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent visual appearance of the towel's edges or hems?",
+        "answer": "Neat"
+      },
+      {
+        "question": "From the image, what is the implied level of absorbency suggested by the towel's appearance?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging from visual cues, is there visible piling or snagging on the towels' surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the picture, what is the visible weight or density of the towels?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visual aspects, what is the overall softness impression of the towels?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Do the towels display a sheen or a matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What seems to be the visual thickness of the towels?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Judging by the image, are the towels folded neatly?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Do the towels have any visible embellishments or embroidery?",
+        "answer": "No"
+      }
+    ]
+  }
+]
