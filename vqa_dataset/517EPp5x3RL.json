@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5e03e506.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread encompassing the filling?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the outer bread layer?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What type of filling is prominently visible within the sandwich?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "Describe the overall shape of the packaged sandwich product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of packaging material encloses the sandwich?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the visible leafy green component of the filling?",
+        "answer": "Green"
+      },
+      {
+        "question": "What appears to be the primary type of bread used?",
+        "answer": "Flatbread"
+      },
+      {
+        "question": "Does the bread exhibit any visible markings or browning?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the visible cheese-like component?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the visible filling, is the sandwich seemingly vegetarian?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the packaging transparent enough to view the sandwich contents?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual presentation of this prepared food item?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Based on appearance alone, how would you characterize its style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on visible attributes, what kind of cuisine does the sandwich resemble?",
+        "answer": "Mediterranean"
+      },
+      {
+        "question": "Judging only by appearance, does the sandwich seem freshly prepared?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

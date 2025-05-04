@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual design, what dominant aesthetic style does the shoe prominently display?",
-        "answer": "Sporty"
-      },
-      {
-        "question": "Observing the primary material, what textile is predominantly used in the construction of the upper?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Focusing on the color scheme, what single shade characterizes the majority of the shoe's visible surfaces?",
+        "question": "Considering the dominant shade across the shoe's upper, what single word best describes its primary color?",
         "answer": "Black"
       },
       {
-        "question": "Analyzing the structure, what is the most apparent type of closure mechanism employed for securing the shoe?",
-        "answer": "Lace"
+        "question": "What is the most prominent material used for the shoe's main body, visible in the image?",
+        "answer": "Fabric"
       },
       {
-        "question": "Considering the sole's appearance, what color primarily defines the midsole and outsole sections?",
+        "question": "Focusing on the sole's appearance, what single word best captures its color?",
         "answer": "White"
       },
       {
-        "question": "Examining the overall silhouette, what would you classify this athletic shoe's design as?",
-        "answer": "Slip-on"
-      },
-      {
-        "question": "What specific type of material seems to form the shoe's supportive midsole platform?",
-        "answer": "Foam"
-      },
-      {
-        "question": "Describing the shoe's form, what is the main anatomical region that it covers?",
-        "answer": "Foot"
-      },
-      {
-        "question": "Based on the visible features, what's the likely intended activity for which this footwear is suited?",
-        "answer": "Running"
-      },
-      {
-        "question": "Considering the textural properties of the upper, what overall tactile quality does it exhibit?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "In terms of shape, how would you describe the profile of the shoe's overall structure?",
+        "question": "Observing the shoe's overall form, what single word best describes its shape?",
         "answer": "Sleek"
       },
       {
-        "question": "Inspecting the laces, how would you characterize the visible lacing system's visual pattern?",
-        "answer": "Simple"
+        "question": "Based solely on its visible features, what is the most apparent style of the shoe?",
+        "answer": "Sneaker"
       },
       {
-        "question": "Focusing on the outsole, what texture is visible across its bottom surface?",
+        "question": "Describe the texture of the shoe's upper material as shown in the image, using only one word.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single word best represents the lacing mechanism's design displayed in the image?",
+        "answer": "Drawstring"
+      },
+      {
+        "question": "Considering the visible structural components, what is the type of sole affixed to the shoe?",
+        "answer": "Platform"
+      },
+      {
+        "question": "What is the design element featured prominently on the side of the shoe's upper?",
+        "answer": "Strap"
+      },
+      {
+        "question": "Based on the image, what single word describes the overall fit of the shoe?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What single word best describes the visible pattern or print on the shoe's surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Looking at the sole's design, what single word best captures its appearance?",
         "answer": "Flat"
       },
       {
-        "question": "Considering the toe area, what's the visible shape of the shoe's toe box design?",
+        "question": "What single word best describes the shoe's heel design, as shown in the provided image?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging from the visible features, what is the most appropriate descriptive term for the toe style?",
         "answer": "Rounded"
       },
       {
-        "question": "Looking at the heel counter area, what is its noticeable design feature from the profile?",
-        "answer": "Rounded"
+        "question": "Considering the shoe's overall design, what single word best describes its aesthetic?",
+        "answer": "Minimalist"
       }
     ]
   }

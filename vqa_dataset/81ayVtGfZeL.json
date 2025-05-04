@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the depicted phone case's design?",
+        "question": "What is the dominant color scheme of the depicted phone case's design?",
         "answer": "Pink"
       },
       {
-        "question": "What natural element does the phone case's print most closely resemble?",
-        "answer": "Wood"
-      },
-      {
-        "question": "Describe the texture visually represented on the phone case surface?",
-        "answer": "Cracked"
-      },
-      {
-        "question": "What specific material appears to be used for the phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the overall shape of the depicted mobile phone protective accessory?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What Apple device model does the case seemingly accommodate?",
-        "answer": "iPhone"
-      },
-      {
-        "question": "Considering the image, what is the primary design style of this phone cover?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "What color is secondary to the main color in the case's design?",
-        "answer": "Gray"
-      },
-      {
-        "question": "Excluding the main color, what is the secondary hue in the depicted case?",
-        "answer": "Brown"
-      },
-      {
-        "question": "Is there any visible emblem on the phone case design?",
-        "answer": "Apple"
-      },
-      {
-        "question": "What is the visual pattern present on the depicted case?",
-        "answer": "Woodgrain"
-      },
-      {
-        "question": "What does the phone case's surface pattern appear to represent?",
+        "question": "What natural texture is mimicked in the phone case's design?",
         "answer": "Bark"
       },
       {
-        "question": "What is the general aesthetic appeal of this phone case design?",
+        "question": "What material appears to be simulated by the phone case's print?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What shape does the phone case's outer profile predominantly present?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what Apple iPhone model does this case seem designed for?",
+        "answer": "X"
+      },
+      {
+        "question": "What color are the cracks depicted in the wood-like design?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent finish or style of the printed wood grain texture?",
+        "answer": "Cracked"
+      },
+      {
+        "question": "What is the overall visual impression created by the phone case's design?",
         "answer": "Rustic"
       },
       {
-        "question": "Based on the image, how many sides of the phone case are shown?",
+        "question": "Based on visual inspection, does the case appear to offer significant drop protection?",
+        "answer": "No"
+      },
+      {
+        "question": "What graphic element is subtly present within the central area of the case?",
+        "answer": "Apple"
+      },
+      {
+        "question": "Describe the visual clarity and sharpness of the phone case's print.",
+        "answer": "Clear"
+      },
+      {
+        "question": "How many distinct sides of the phone case are presented in the image?",
         "answer": "Three"
       },
       {
-        "question": "Does the image show any visible buttons or ports on the case?",
-        "answer": "No"
+        "question": "What is the apparent level of detail in the rendering of the wood grain?",
+        "answer": "High"
+      },
+      {
+        "question": "What type of protective casing is this product visually categorized as?",
+        "answer": "Cover"
+      },
+      {
+        "question": "Describe the visual tone or mood evoked by the color palette of the phone case.",
+        "answer": "Soft"
       }
     ]
   }

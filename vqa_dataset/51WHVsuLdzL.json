@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the illustrated cats on the phone case?",
+        "question": "What is the predominant color scheme of the illustrated cats on the phone case?",
         "answer": "Blue"
       },
       {
-        "question": "What type of animals are depicted in the design on the phone case?",
-        "answer": "Cats"
-      },
-      {
-        "question": "Describe the apparent texture of the phone case's surface based on the image.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What appears to be the primary material of the phone case itself?",
+        "question": "What material appears to constitute the primary body of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall shape of the product?",
-        "answer": "Rectangular"
+        "question": "What specific animals are depicted in the design adorning the phone case?",
+        "answer": "Cats"
       },
       {
-        "question": "What is the apparent color of the phone case's border or frame?",
-        "answer": "Black"
-      },
-      {
-        "question": "Judging from the image, what is the style of the cat illustration?",
-        "answer": "Cartoonish"
-      },
-      {
-        "question": "Based on the visual, what is the design pattern on the phone case?",
-        "answer": "Animal"
-      },
-      {
-        "question": "What design element is present on both cat illustrations on the case?",
-        "answer": "Ears"
-      },
-      {
-        "question": "Considering the image, what seems to be the function of this product?",
-        "answer": "Protection"
-      },
-      {
-        "question": "What color are the cat ears depicted on the phone case?",
-        "answer": "LightBlue"
-      },
-      {
-        "question": "What is the general tone of the design on the phone case?",
+        "question": "Considering the overall visual style, what is the design aesthetic of the phone case?",
         "answer": "Cute"
       },
       {
-        "question": "Based solely on the image, what seems to be the finish of the phone case?",
-        "answer": "Matte"
+        "question": "What is the general shape or form factor of the object being showcased?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the visible arrangement of the cat images on the case?",
-        "answer": "Side-by-side"
+        "question": "What is the apparent finish or texture of the phone case's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "What other detail besides the cat design can be seen on the phone case?",
-        "answer": "Camera"
+        "question": "Describe the visual style of the cat illustration on the phone case?",
+        "answer": "Cartoonish"
+      },
+      {
+        "question": "What color are the inner ears of the cats depicted on the phone case?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "What color are the eyes of the cats illustrated on the phone case?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the image, what appears to be the phone case's primary function?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the color of the phone case's edge or border?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the design, what is the apparent target demographic for this phone case?",
+        "answer": "Female"
+      },
+      {
+        "question": "Describe the background pattern visible within the phone case design.",
+        "answer": "Stars"
+      },
+      {
+        "question": "What is the general feeling or mood evoked by the design on the phone case?",
+        "answer": "Playful"
+      },
+      {
+        "question": "How many cats are illustrated on the surface of this phone case?",
+        "answer": "Two"
       }
     ]
   }

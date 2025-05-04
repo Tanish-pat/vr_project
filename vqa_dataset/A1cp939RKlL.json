@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the depicted wood pieces?",
+        "question": "What is the predominant color of the depicted wood pieces?",
         "answer": "Beige"
       },
       {
-        "question": "What natural material is primarily used in the construction of this product?",
+        "question": "What natural material primarily composes this product?",
         "answer": "Wood"
       },
       {
-        "question": "Considering the arrangement, what is the overall geometric pattern of the wood pieces?",
+        "question": "Considering the arrangement, what is the overall geometric pattern of the wooden pieces?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the visible grain pattern within the individual wood sections.",
+        "question": "Describing the visible wood grain, what is its textural appearance?",
         "answer": "Linear"
       },
       {
-        "question": "What is the general texture apparent on the surface of the assembled wood?",
-        "answer": "Rough"
+        "question": "Based on the image, what seems to be the primary manufacturing process?",
+        "answer": "Assembled"
       },
       {
-        "question": "What kind of joints are visually apparent between the wooden pieces?",
+        "question": "Judging by the color variations, how many distinct shades of wood are visible?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the shape of the individual wooden components in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the alignment, how would you characterize the arrangement of the wooden pieces?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What is the apparent finish or treatment applied to the surface of the wood?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Considering the seams between pieces, how would you describe the overall joining method?",
         "answer": "Butted"
       },
       {
-        "question": "Judging by the image, what is the apparent finish applied to the wood pieces?",
+        "question": "Examining the visible wood, what is the general tone or hue of the color palette?",
+        "answer": "Light"
+      },
+      {
+        "question": "From the visual appearance, what is the suggested level of wood polish or shine?",
         "answer": "Matte"
       },
       {
-        "question": "Are there any significant color variations observable within the wooden pieces?",
+        "question": "Does the wood show any visible knots or other natural imperfections?",
         "answer": "Yes"
       },
       {
-        "question": "Based on visual inspection, what seems to be the approximate size of the wood pieces?",
+        "question": "How would you describe the variation in color saturation across the different wood segments?",
         "answer": "Varied"
       },
       {
-        "question": "What is the general orientation of the majority of the wood pieces?",
-        "answer": "Horizontal"
-      },
-      {
-        "question": "Are there any noticeable knots or imperfections visible in the wood?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Considering the visual details, is the wood appearance consistent throughout?",
-        "answer": "No"
-      },
-      {
-        "question": "Does the image suggest the presence of any added elements besides wood?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent overall visual aesthetic of the presented wood arrangement?",
+        "question": "Based on the image alone, what is the overall visual impression of the product?",
         "answer": "Rustic"
-      },
-      {
-        "question": "Based on the colors observed, what is the wood's likely tonal range?",
-        "answer": "Light"
       }
     ]
   }

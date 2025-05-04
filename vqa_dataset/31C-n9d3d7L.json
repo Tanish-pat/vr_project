@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c14bf302.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's main label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the bottle itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of closure does the bottle container possess?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is the text prominently displayed on the label?",
+        "answer": "Italian"
+      },
+      {
+        "question": "What color is the smaller text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the texture of the bottle's surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any noticeable design element other than text?",
+        "answer": "Image"
+      },
+      {
+        "question": "What is the color of the cap on top of the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be depicted on the label\u2019s image?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "Does the product's packaging show any specific certifications?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What seems to be the approximate height of the bottle?",
+        "answer": "Ten"
+      },
+      {
+        "question": "Does the bottle have any noticeable embossing or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the bottle transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What kind of product is this bottle likely to contain?",
+        "answer": "Syrup"
+      }
+    ]
+  }
+]

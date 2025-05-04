@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/57/57295097.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material visibly composing the majority of the furniture's surface?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the visible portion, what is the overall color of the furniture?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image, what is the most apparent texture of the upholstery?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Describe the visible shape of the armrest's top surface, considering its geometry?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the seams, what appears to be the stitching style used in the visible upholstery?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Judging by the image, what is the visible style of the armrest's connection to the main seating area?",
+        "answer": "Clean"
+      },
+      {
+        "question": "From the image, what is the overall visible style of the furniture's design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What kind of visible finish is apparent on the leather upholstery surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent visible thickness of the leather material used?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the general visible appearance of the leather's surface \u2013 considering imperfections?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Observing the armrest's edge, what seems to be the visible construction method used?",
+        "answer": "Wrapped"
+      },
+      {
+        "question": "Based on the visual details, how is the visible leather's surface treated?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "What is the visible overall tone of the brown leather - referencing lightness or darkness?",
+        "answer": "Light"
+      },
+      {
+        "question": "Focusing on the visible armrest, what's the overall visible shape of its profile?",
+        "answer": "Boxy"
+      },
+      {
+        "question": "What visible details suggest the likely use of the piece of furniture?",
+        "answer": "Seating"
+      }
+    ]
+  }
+]

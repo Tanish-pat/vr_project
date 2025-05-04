@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the repeating heart pattern on the phone case?",
+        "question": "What is the predominant color of the repeating hearts depicted on the phone case?",
         "answer": "Red"
       },
       {
-        "question": "What geometric shape is repeatedly depicted across the phone case's back?",
+        "question": "What shape is repeatedly featured across the back of the protective phone case?",
         "answer": "Heart"
       },
       {
-        "question": "What appears to be the primary material used for this phone case?",
+        "question": "What appears to be the primary material used in the construction of this phone cover?",
         "answer": "Silicone"
       },
       {
-        "question": "Considering the image, what is the overall design style of the phone case?",
+        "question": "Considering the image, what is the general design style of the pattern on the case?",
         "answer": "Floral"
       },
       {
-        "question": "Judging from the appearance, is the phone case design primarily matte or glossy?",
-        "answer": "Glossy"
+        "question": "What is the overall color scheme of the background design on the phone case?",
+        "answer": "Off-white"
       },
       {
-        "question": "Based on the visual, what color is the background of the heart pattern?",
-        "answer": "Cream"
+        "question": "Judging from the image, what appears to be the printing method used for the design?",
+        "answer": "Ink"
       },
       {
-        "question": "What design element besides hearts decorates the phone case's back?",
-        "answer": "Twigs"
-      },
-      {
-        "question": "Does the case appear to provide full coverage of the phone\u2019s sides?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the apparent level of transparency of the case's sides?",
+        "question": "What seems to be the transparency level of the sides of this phone case?",
         "answer": "Transparent"
       },
       {
-        "question": "Based solely on the image, describe the texture of the case\u2019s back surface.",
+        "question": "Describe the visual texture of the hearts in the phone case's design; what's implied?",
         "answer": "Smooth"
       },
       {
-        "question": "What printing method seems to be used for the phone case\u2019s design?",
-        "answer": "Print"
+        "question": "Based on the image, what kind of finish does the phone case seem to have?",
+        "answer": "Matte"
       },
       {
-        "question": "Does the image indicate any noticeable case imperfections or damage?",
-        "answer": "No"
+        "question": "What is the apparent condition of the print on the phone case; is it worn?",
+        "answer": "Clean"
       },
       {
-        "question": "What is the visual shape of the phone case itself?",
+        "question": "Considering the visual details, what's the general shape of the phone case itself?",
         "answer": "Rectangular"
       },
       {
-        "question": "What color is the phone case\u2019s visible edge bordering the printed area?",
-        "answer": "White"
+        "question": "From visual assessment, does the phone case appear to be flexible or rigid?",
+        "answer": "Flexible"
       },
       {
-        "question": "Describe the visual clarity of the printed hearts on the case?",
-        "answer": "Clear"
+        "question": "How would you describe the visual density of the heart pattern on the case?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the image suggest that all ports of a phone are accessible while encased?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What does the background pattern surrounding the hearts appear to visually consist of?",
+        "answer": "Dots"
       }
     ]
   }

@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What primary shape describes the main body of the pendant light?",
+        "question": "What appears to be the primary material of the lampshade?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall shape of the pendant light's shade?",
         "answer": "Dome"
       },
       {
-        "question": "What material appears to constitute the visible shade or diffuser?",
-        "answer": "Metal"
+        "question": "What kind of cage or guard is visible at the bottom of the shade?",
+        "answer": "Wire"
       },
       {
-        "question": "Describe the texture of the visible metal components of the fixture?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What design element is visible beneath the main shade, partially obscuring the light source?",
-        "answer": "Cage"
-      },
-      {
-        "question": "What is the apparent finish of the metal used in the pendant light's construction?",
-        "answer": "Bronze"
-      },
-      {
-        "question": "What is the style of the hanging mechanism connecting the fixture to the ceiling?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Considering the overall aesthetic, what design category best fits this light fixture?",
+        "question": "Considering the fixture's style, what design aesthetic does it evoke?",
         "answer": "Industrial"
       },
       {
-        "question": "What is the shape of the cage-like component beneath the primary shade?",
-        "answer": "Circular"
+        "question": "What is the finish of the metal components, based on visual observation?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the visible material of the suspension rod connecting the light to the ceiling?",
-        "answer": "Metal"
+        "question": "What is the apparent length of the hanging rod or stem?",
+        "answer": "Long"
       },
       {
-        "question": "What is the overall light distribution pattern suggested by the shade's design?",
-        "answer": "Downward"
-      },
-      {
-        "question": "Considering the finish, what might the metal be coated with?",
-        "answer": "Paint"
-      },
-      {
-        "question": "What type of light source is implied by the visible interior of the shade?",
-        "answer": "Bulb"
-      },
-      {
-        "question": "Does the metal appear to have a smooth or rough surface texture?",
+        "question": "What is the visible texture of the main lampshade component?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the primary function of the metal cage around the light source?",
-        "answer": "Protection"
+        "question": "Describe the shape of the mounting piece at the ceiling connection.",
+        "answer": "Round"
+      },
+      {
+        "question": "What seems to be the material of the hanging rod?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What color is the light emitting from the fixture, judging by the image?",
+        "answer": "Warm"
+      },
+      {
+        "question": "How many visible light sources are present within the fixture?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the type of mounting mechanism at the bottom of the shade.",
+        "answer": "Hook"
+      },
+      {
+        "question": "What seems to be the visible style of the ceiling mount?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the design details, what is the overall style of the pendant light?",
+        "answer": "Classic"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/040a6f03.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of the product's packaging, as depicted in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the typeface primarily used for the ingredient list and other textual information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the structural design, what is the overall shape of the packaging container, as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, what kind of surface finish does the packaging seem to possess, judging from the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Examining the text's visual characteristics, what is the approximate font size used for the prominent ingredient list on the packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "From an observational perspective, what is the primary material or substance used for the product's packaging as visibly indicated?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Judging purely from the image, what is the predominant color used for highlighting or emphasizing specific textual information?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the graphic design, are there any noticeable images or illustrations on the product's packaging apart from the text?",
+        "answer": "None"
+      },
+      {
+        "question": "Looking at the textual layout, does the text predominantly follow a horizontal or vertical alignment on the packaging surface?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based solely on visual observation, how many distinct sections or blocks of text are there in the image shown?",
+        "answer": "Three"
+      },
+      {
+        "question": "Observing the visual elements, what is the relative proportion of blank or unprinted space on the packaging compared to the printed area?",
+        "answer": "Small"
+      },
+      {
+        "question": "In terms of visual prominence, which element \u2013 the title or the ingredient list \u2013 appears more visually prominent?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "From a design perspective, does the packaging utilize any form of visual hierarchy through varying font sizes or styles?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the product's information display, does the packaging use any visual cues such as bullets or numbering to organize the list of ingredients?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visible aspects, what is the general visual style of the product's packaging \u2013 modern, rustic, minimalist, or other?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f2f12a31.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of these earrings?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the earring?",
+        "answer": "Diamonds"
+      },
+      {
+        "question": "Based on the image, what is the most prominent shape of the earring's design?",
+        "answer": "Round"
+      },
+      {
+        "question": "Describing the arrangement of the gemstones, what design pattern is most evident?",
+        "answer": "Clustered"
+      },
+      {
+        "question": "Observing the cut of the diamonds, what type of cut do they predominantly appear to have?",
+        "answer": "Baguette"
+      },
+      {
+        "question": "What is the apparent setting style for the gemstones in the earring?",
+        "answer": "Pave"
+      },
+      {
+        "question": "Focusing on the visual texture, what textural quality is predominantly displayed by the earring?",
+        "answer": "Sparkle"
+      },
+      {
+        "question": "Based solely on visual observation, what type of earring is depicted in the image?",
+        "answer": "Studs"
+      },
+      {
+        "question": "Regarding the earring's visual appeal, how would you describe the overall aesthetic?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Examining the image closely, what is the apparent size of the main central diamond?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the visible metal component that seems to secure the earring to the ear?",
+        "answer": "Post"
+      },
+      {
+        "question": "What kind of visual finish or polish is noticeable on the diamonds in the image?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the image, what is the overall visual weight or density of the earring?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "In terms of the diamond's arrangement, what type of pattern is visually apparent around the center?",
+        "answer": "Radial"
+      },
+      {
+        "question": "From a visual standpoint, what is the degree of intricacy in the earring's design?",
+        "answer": "High"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9ad01c48.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted phone case design?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary geometric shape repeated in the case's pattern?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What visual effect is created by the arrangement of the geometric shapes?",
+        "answer": "3D"
+      },
+      {
+        "question": "Describe the overall texture implied by the design of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the phone case itself (excluding the design)?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the side views, does the design wrap around the phone's edges?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the pattern on the phone case primarily composed of solid or hollow shapes?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the phone case design incorporate any other shapes besides rectangles?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall style or aesthetic of the phone case design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging from the images, is there a variation in the shade of gray used in the design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How many distinct sides of the phone case are shown in this image?",
+        "answer": "Three"
+      },
+      {
+        "question": "Is the pattern on the phone case symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Does the pattern on the phone case suggest depth or perspective?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of print technique appears to have been used for the design?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Based on the image, is the phone case design simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

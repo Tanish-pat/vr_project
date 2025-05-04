@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8fbeda8f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the depicted mug on the phone case?",
+        "answer": "Rainbow"
+      },
+      {
+        "question": "What is the primary shape of the object featured on the phone case?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the material of the mug depicted on the phone case?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Describe the pattern adorning the mug's body as seen on the phone case?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What color is the visible interior of the mug on the phone cover?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the color of the handle on the printed mug, as shown on the phone case?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the image, what is the apparent texture of the depicted mug?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general style of the mug's design, as shown on the case?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the color of the thin band near the mug's base on the phone case?",
+        "answer": "Gold"
+      },
+      {
+        "question": "How many distinct colors compose the stripes on the depicted mug?",
+        "answer": "Six"
+      },
+      {
+        "question": "Is the mug on the phone case depicted as full or empty?",
+        "answer": "Empty"
+      },
+      {
+        "question": "What is the orientation of the mug displayed on the phone case?",
+        "answer": "Upright"
+      },
+      {
+        "question": "What kind of background is visible behind the mug in the phone case's image?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "Based on the image, what type of handle does the mug have?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Judging by the visuals, what is the overall visual feel of the mug design?",
+        "answer": "Cheerful"
+      }
+    ]
+  }
+]

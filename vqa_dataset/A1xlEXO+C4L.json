@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c4/c477eb44.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible color of the depicted rectangular item?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the surface of the displayed object?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes this product?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the most probable material of this item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Observing the edges, how would you describe the perimeter of the featured item?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the item exhibit any discernible patterns across its surface area?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible features, what is the likely intended function of this object?",
+        "answer": "Mat"
+      },
+      {
+        "question": "Given the overall look, would you say the item\u2019s design is elaborate or simple?",
+        "answer": "Simple"
+      },
+      {
+        "question": "If you were to touch it, how would the surface feel in terms of softness?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging from the image, is the item thick or thin in its construction?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent level of sheen or gloss present on the object's visible surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, are there any prominent visible seams or stitches on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visible characteristics, how would you classify the overall style of this item?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based solely on the appearance, is the color uniform or variegated across the object?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image reveal any visible logos, brands, or markings on the product?",
+        "answer": "No"
+      }
+    ]
+  }
+]

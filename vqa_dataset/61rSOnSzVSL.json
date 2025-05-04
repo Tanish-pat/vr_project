@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the container holding the supplement?",
+        "question": "What is the predominant color of the container holding the supplement?",
         "answer": "Black"
       },
       {
-        "question": "What is the primary text displayed prominently on the container's label?",
+        "question": "What is the primary text displayed prominently on the supplement container?",
         "answer": "Creatine"
       },
       {
-        "question": "Describe the overall shape of the supplement container, considering its dimensions and form?",
+        "question": "What is the shape of the container holding the creatine monohydrate powder?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What material appears to constitute the container's main body, based on its visual properties?",
+        "question": "What is the apparent material of the supplement container?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the texture evident in the image, what is the apparent surface finish of the container?",
+        "question": "What is the texture of the supplement container's surface, based on visual observation?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the textual description of the product flavor, as seen directly on the container?",
-        "answer": "Unflavoured"
-      },
-      {
-        "question": "What is the brand name, prominently shown on the container's label?",
-        "answer": "AMFIT"
-      },
-      {
-        "question": "What is the type of creatine indicated on the container's label?",
-        "answer": "Monohydrate"
-      },
-      {
-        "question": "What is the visible form of the supplement inside the container; powder or tablets?",
-        "answer": "Powder"
-      },
-      {
-        "question": "What is the visible size descriptor, possibly indicating serving quantity, on the container?",
-        "answer": "400g"
-      },
-      {
-        "question": "What is the overall design aesthetic, describing the label's visual style?",
+        "question": "What is the overall design style of the product's packaging?",
         "answer": "Minimalist"
       },
       {
-        "question": "What color is the secondary text on the label, contrasting with the main text?",
-        "answer": "Gold"
+        "question": "What type of supplement is shown in the product image, according to the visible label?",
+        "answer": "Creatine"
       },
       {
-        "question": "What is the form of the lid closing the container: screw-on, snap-on, or other?",
-        "answer": "Screw-on"
+        "question": "What is the visible form of creatine indicated on the product label?",
+        "answer": "Monohydrate"
       },
       {
-        "question": "What is the general condition of the container shown in the product image?",
-        "answer": "Sealed"
+        "question": "Based on the label, what is the flavor of the depicted creatine monohydrate?",
+        "answer": "Unflavored"
       },
       {
-        "question": "What is the word appearing after the brand name on the container label?",
-        "answer": "Nutrition"
+        "question": "What is the brand name of the creatine monohydrate supplement displayed?",
+        "answer": "Amfit"
+      },
+      {
+        "question": "What is the color of the text displayed on the supplement's container?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what is the apparent size of the supplement container relative to a human hand?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visible form of the creatine supplement inside the container?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What is the number visible on the top right of the container?",
+        "answer": "160"
+      },
+      {
+        "question": "Is there a noticeable lid on the supplement's container?",
+        "answer": "Yes"
       }
     ]
   }

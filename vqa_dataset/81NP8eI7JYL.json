@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae92960a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product inside the jar?",
+        "answer": "Pale"
+      },
+      {
+        "question": "What is the primary material composing the jar itself?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What shape does the jar containing the food product have?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the visible portion of the jar's lid?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Describe the texture of the food product visible through the jar?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of label is present on the jar, indicating its contents?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What color is the thin band around the top of the jar's lid?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall consistency suggested by the food's appearance?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "Based on visual cues, what is the product's likely state?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What type of closure is visible on the top of the jar?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is visible on the back of the jar, below the label?",
+        "answer": "Symbols"
+      },
+      {
+        "question": "Does the food show any visible large chunks or pieces?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the filling of the jar completely homogenous in appearance?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of print is visible on the visible label of the jar?",
+        "answer": "Text"
+      },
+      {
+        "question": "What seems to be the approximate level of fill in the jar?",
+        "answer": "Full"
+      }
+    ]
+  }
+]

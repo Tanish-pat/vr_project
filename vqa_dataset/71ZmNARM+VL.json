@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the repeating pattern on the shown peel and stick tiles?",
+        "question": "What is the predominant color of the repeating starburst pattern depicted on the wall covering?",
         "answer": "Teal"
       },
       {
-        "question": "What geometric shape is the primary motif in the repeating pattern of the wall covering?",
-        "answer": "Star"
-      },
-      {
-        "question": "Describe the overall color scheme of the displayed peel and stick tile pattern?",
-        "answer": "Bicolor"
-      },
-      {
-        "question": "What secondary color accents the teal starburst pattern on the shown tiles?",
+        "question": "What secondary color accents the teal starbursts in the pattern?",
         "answer": "Brown"
       },
       {
-        "question": "What is the apparent background color of the displayed peel and stick tile design?",
+        "question": "What is the overall shape of the individual repeating motifs in the displayed pattern?",
+        "answer": "Starburst"
+      },
+      {
+        "question": "What is the background color against which the starburst pattern is displayed?",
         "answer": "White"
       },
       {
-        "question": "Considering the visual texture, what is the apparent finish of the displayed tiles?",
+        "question": "Considering the visual texture, what is the apparent surface finish of the wall covering?",
         "answer": "Matte"
       },
       {
-        "question": "Based on the visual evidence, what is the most likely material of the shown product?",
-        "answer": "Vinyl"
-      },
-      {
-        "question": "Considering the image, what is the application method suggested for the displayed product?",
-        "answer": "Peel"
-      },
-      {
-        "question": "Judging from the appearance, what is the implied shape of each individual tile in the product?",
-        "answer": "Square"
-      },
-      {
-        "question": "What is the pattern repetition style used in the design of the peel and stick tiles shown?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "What type of design is visually prominent in the shown peel and stick tile sheet?",
-        "answer": "Floral"
-      },
-      {
-        "question": "Based on the visual details, what is the most accurate description of the tile's surface?",
-        "answer": "Printed"
-      },
-      {
-        "question": "What is the visual appearance of the tile pattern's arrangement?",
+        "question": "What kind of geometric pattern is prominently featured in the design of this product?",
         "answer": "Repeating"
       },
       {
-        "question": "Considering the image, what kind of finish does the tile's surface seem to have?",
-        "answer": "Smooth"
+        "question": "Based on visual cues, what is the most likely material of the shown product?",
+        "answer": "Vinyl"
       },
       {
-        "question": "What is the style of the displayed peel and stick tiles most reminiscent of?",
+        "question": "Describe the arrangement of the starburst shapes within the design of the peel and stick tiles.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent style or aesthetic of this wall covering's pattern?",
         "answer": "Moroccan"
+      },
+      {
+        "question": "Judging by the image, what is the most likely application of this patterned material?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "Considering the pattern's nature, what is the likely use case for this product?",
+        "answer": "Interior"
+      },
+      {
+        "question": "Considering its visual qualities, what would you categorize this product as?",
+        "answer": "Wallpaper"
+      },
+      {
+        "question": "What appears to be the form factor of this product in the image provided?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "Describe the level of detail visible in the graphic design of the product.",
+        "answer": "High"
+      },
+      {
+        "question": "Based on its visual appearance, what is the presumed overall feel of this product?",
+        "answer": "Smooth"
       }
     ]
   }

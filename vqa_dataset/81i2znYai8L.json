@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible belt?",
+        "question": "What is the predominant color of the displayed belt?",
         "answer": "Green"
       },
       {
-        "question": "What appears to be the primary material of the belt?",
+        "question": "What material appears to constitute the majority of the belt?",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the overall visual pattern on the belt's surface.",
+        "question": "Considering the visible stripes, what is the overall pattern of the belt?",
         "answer": "Striped"
       },
       {
-        "question": "Considering the visible portion, what is the belt's buckle type?",
-        "answer": "Hidden"
+        "question": "What is the apparent buckle type, based on visual observation?",
+        "answer": "Metal"
       },
       {
-        "question": "What color are the secondary stripes on the belt?",
-        "answer": "Red"
+        "question": "Describe the visible texture of the belt's fabric based on image details?",
+        "answer": "Woven"
       },
       {
-        "question": "What is the general shape of the belt's visible section?",
+        "question": "How many distinct colors comprise the visible stripes on the belt?",
+        "answer": "Three"
+      },
+      {
+        "question": "What color is the visible metal component of the fastening system?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall shape or form of the belt as it is displayed?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent texture of the shirt's fabric?",
-        "answer": "Smooth"
+        "question": "Focusing on the belt's stripes, what is their orientation relative to the length?",
+        "answer": "Horizontal"
       },
       {
-        "question": "What is the main color of the long-sleeved shirt?",
-        "answer": "LightGrey"
+        "question": "What is the visible width of the belt in relation to a standard belt?",
+        "answer": "Narrow"
       },
       {
-        "question": "What style is the collar of the long-sleeved shirt?",
-        "answer": "Mandarin"
+        "question": "Is the buckle visibly glossy or matte in its finish?",
+        "answer": "Matte"
       },
       {
-        "question": "What appears to be the overall fit of the shirt?",
-        "answer": "Slim"
+        "question": "What seems to be the primary finish of the belt's fabric; is it shiny or dull?",
+        "answer": "Dull"
       },
       {
-        "question": "What is the color of the pants the model is wearing?",
-        "answer": "DarkGrey"
+        "question": "Based solely on visual assessment, what is the belt's fastening mechanism?",
+        "answer": "Buckle"
       },
       {
-        "question": "What is the sleeve length of the shirt?",
-        "answer": "Long"
-      },
-      {
-        "question": "What is the apparent material of the pants?",
-        "answer": "Cotton"
-      },
-      {
-        "question": "What type of shirt is visible in the image?",
-        "answer": "Button-down"
-      },
-      {
-        "question": "What is the style of the model's pants?",
+        "question": "What is the apparent overall style or aesthetic of this belt?",
         "answer": "Casual"
+      },
+      {
+        "question": "Does the belt feature any visible embossing, logos, or branding?",
+        "answer": "No"
       }
     ]
   }

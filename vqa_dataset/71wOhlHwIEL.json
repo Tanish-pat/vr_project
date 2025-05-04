@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/95/9540357c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the mesh portion of the fabric?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the weave pattern of the visible mesh section?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What appears to be the material of the larger, lighter section?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "What color is the adjacent, solid fabric section visible?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Describe the texture of the darker, meshed material shown?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What type of stitching is visible between the mesh and solid fabric?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Considering the image, what is the overall feel of the fabric?",
+        "answer": "Durable"
+      },
+      {
+        "question": "How would you describe the visual pattern of the mesh?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the general appearance of the material's edge shown?",
+        "answer": "Finished"
+      },
+      {
+        "question": "Considering its appearance, what is the apparent function of the mesh?",
+        "answer": "Ventilation"
+      },
+      {
+        "question": "What is the overall shape of the visible fabric section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How would you describe the clarity of the mesh's weave pattern?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent state of the fabric in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the visible color of the stitching between panels?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on visual features, is the fabric naturally flexible?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

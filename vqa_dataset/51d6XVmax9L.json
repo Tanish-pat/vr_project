@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the container holding the cleaning solution?",
+        "question": "What is the dominant color of the container holding the cleaning solution?",
         "answer": "White"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Jug"
       },
       {
-        "question": "What material appears to constitute the main body of the container?",
+        "question": "What material appears to constitute the primary packaging for this product?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the prominent descriptor of the cleaning solution's function, as displayed on the label?",
+        "question": "What type of cleaner is indicated on the product label?",
+        "answer": "Peroxide"
+      },
+      {
+        "question": "Describe the functionality explicitly mentioned on the product label?",
         "answer": "Cleaner"
       },
       {
-        "question": "What type of cleaner is prominently indicated on the product label?",
-        "answer": "Peroxide"
-      },
-      {
-        "question": "What is the apparent purpose, as stated on the label, for which this product is designed?",
+        "question": "What word describes the intended usage scope of this cleaning solution?",
         "answer": "Multipurpose"
       },
       {
-        "question": "What color is the band on the label displaying the product information?",
+        "question": "What is the color of the prominent label band on the container?",
         "answer": "Yellow"
       },
       {
-        "question": "What is the material that appears to form the handle of the container?",
-        "answer": "Plastic"
+        "question": "Is there a handle present on the product's packaging for ease of use?",
+        "answer": "Yes"
       },
       {
-        "question": "Considering the handle's design, what is the likely means of carrying the product?",
-        "answer": "Handle"
-      },
-      {
-        "question": "What is the general texture of the container's surface, based on visual observation?",
+        "question": "What is the apparent texture of the container's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Does the container exhibit a glossy or matte finish?",
-        "answer": "Matte"
+        "question": "Considering the size, is this product intended for personal or commercial use?",
+        "answer": "Commercial"
       },
       {
-        "question": "What type of closure does the container appear to have on its top?",
-        "answer": "Cap"
+        "question": "What is the general shape of the handle attached to the container?",
+        "answer": "Curved"
       },
       {
-        "question": "What is the printed word next to 'Multi-Purpose' on the label?",
-        "answer": "Peroxide"
+        "question": "Does the packaging show additional text under the product description?",
+        "answer": "Yes"
       },
       {
-        "question": "Considering the size, what is the likely volume capacity of this container?",
-        "answer": "Gallon"
+        "question": "What is the style of the text font used on the main product label?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "What is the color of the background surface upon which the product is displayed?",
-        "answer": "Yellow"
+        "question": "What is the color of the cap on top of the cleaning solution jug?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the label, what is one additional attribute of this cleaner?",
+        "answer": "All-purpose"
       }
     ]
   }

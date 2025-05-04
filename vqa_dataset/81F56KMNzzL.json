@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the floor mat's background?",
+        "question": "What is the predominant color of the patterned kitchen mat?",
         "answer": "Gray"
       },
       {
-        "question": "What geometric pattern adorns the mat's surface?",
-        "answer": "Lattice"
+        "question": "What geometric pattern adorns the surface of the anti-fatigue mat?",
+        "answer": "Diamond"
       },
       {
-        "question": "What appears to be the primary material of the kitchen mat?",
-        "answer": "Rubber"
+        "question": "What appears to be the primary material used in the construction of this comfort mat?",
+        "answer": "PVC"
       },
       {
-        "question": "Describe the overall shape of the anti-fatigue mat shown?",
+        "question": "Considering the overall design, what is the shape of the kitchen floor mat?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the color of the repeating design on the mat?",
-        "answer": "Gray"
-      },
-      {
-        "question": "Judging by the image, what is the mat's apparent texture?",
+        "question": "Based on its visual texture, what is the surface feel of this standing mat likely to be?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the context, what is the mat's likely function?",
-        "answer": "Kitchen"
+        "question": "What color are the decorative elements on this anti-fatigue mat shown on the floor?",
+        "answer": "LightGray"
       },
       {
-        "question": "Based on its appearance, what is the mat's apparent thickness?",
-        "answer": "Thin"
+        "question": "Does the mat show any visible signs of raised texture or three-dimensionality?",
+        "answer": "No"
       },
       {
-        "question": "What is the style of the pattern printed on the mat?",
+        "question": "What is the general style of the pattern,  considering the image of the floor mat?",
         "answer": "Geometric"
       },
       {
-        "question": "Does the mat exhibit any visible signs of wear or damage?",
-        "answer": "No"
+        "question": "Judging by its visual thickness in the image, how would you describe the kitchen mat's profile?",
+        "answer": "Flat"
       },
       {
-        "question": "What is the apparent finish of the mat's surface?",
+        "question": "What is the apparent size of this floor mat relative to a person's feet?",
+        "answer": "Large"
+      },
+      {
+        "question": "Excluding the pattern, does the mat's color appear uniformly consistent across its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the context, where would this mat primarily be used?",
+        "answer": "Kitchen"
+      },
+      {
+        "question": "Does the mat exhibit a glossy or matte finish based on the image?",
         "answer": "Matte"
       },
       {
-        "question": "Considering the image, is the mat's edge design simple or complex?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What type of floor is the mat placed on in the image?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What is the implied purpose of the mat\u2019s design?",
-        "answer": "Decorative"
-      },
-      {
-        "question": "Considering the image and use-case, is the mat foldable?",
+        "question": "Are there any noticeable imperfections or irregularities in the mat\u2019s print or shape?",
         "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression regarding the mat's cleanliness and condition?",
+        "answer": "Clean"
       }
     ]
   }

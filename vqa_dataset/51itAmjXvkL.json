@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40cb240d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color accentuating the phone case's border?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material appears to constitute the majority of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the transparency, what is the apparent design style of this phone case?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the overall shape of the protective mobile phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the image, what brand's logo is visibly imprinted on the back?",
+        "answer": "Apple"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's exterior surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on visual characteristics, what is the phone case's level of rigidity?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Judging by the image, what is the case's apparent thickness relative to the phone?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Does the phone case exhibit any noticeable texturing on its surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What secondary color is visible through the transparent sections?",
+        "answer": "Black"
+      },
+      {
+        "question": "Excluding the brand logo, does the phone case have any other visible markings?",
+        "answer": "No"
+      },
+      {
+        "question": "How many individual pieces comprise the illustrated phone case?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent fit of the case around the depicted phone model?",
+        "answer": "Snug"
+      },
+      {
+        "question": "Considering the edge profile, would you describe the case's profile as sharp or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the phone case appear to offer any raised protection for the camera lenses?",
+        "answer": "No"
+      }
+    ]
+  }
+]

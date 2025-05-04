@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Multicolored"
       },
       {
-        "question": "What artistic style is most prominently featured in the phone case's artwork?",
+        "question": "What artistic style predominantly characterizes the phone case's print?",
         "answer": "Abstract"
       },
       {
-        "question": "Considering the overall visual texture, what is the apparent surface finish of the phone case?",
+        "question": "Considering the visual texture, what is the apparent surface finish of the phone case?",
         "answer": "Smooth"
       },
       {
-        "question": "What appears to be the primary material used in the manufacturing of this phone case?",
+        "question": "What appears to be the primary material used in manufacturing this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the general shape and form factor of the protective mobile case depicted?",
+        "question": "Based on the image, what is the overall shape of this phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Focusing on the print, what is the most striking element of the color composition?",
-        "answer": "Vibrant"
-      },
-      {
-        "question": "Based solely on the image, what seems to be the design's overall visual impact?",
-        "answer": "Bold"
-      },
-      {
-        "question": "Describe the overall aesthetic impression of the phone case's visual style.",
-        "answer": "Modern"
-      },
-      {
-        "question": "In terms of the image's color palette, what are the most frequent colors used?",
-        "answer": "Warm"
-      },
-      {
-        "question": "What specific design elements stand out due to their distinct form or color?",
-        "answer": "Brushstrokes"
-      },
-      {
-        "question": "What kind of visual impact do the colors and patterns have in terms of their expression?",
-        "answer": "Expressive"
-      },
-      {
-        "question": "What does the pattern on the case appear to be?",
+        "question": "Judging by the visual elements, what is the pattern's primary visual characteristic?",
         "answer": "Painterly"
       },
       {
-        "question": "What is the visible level of detail in the phone case artwork?",
+        "question": "Describe the level of detail and complexity in the phone case's design.",
         "answer": "High"
       },
       {
-        "question": "Does the phone case show any apparent text or logo markings?",
+        "question": "What type of image does the phone case's print primarily evoke?",
+        "answer": "Expressionist"
+      },
+      {
+        "question": "What is the predominant visual quality of the colors employed in the design?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "Considering the visual form, is the design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "Does the case design feature any discernible text or logos?",
         "answer": "No"
       },
       {
-        "question": "What is the phone case's primary function based solely on visual observation?",
-        "answer": "Protection"
+        "question": "What is the general impression of color saturation in this phone case design?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the visual pattern suggest any specific subject matter?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual prominence of the brushstrokes and color blending?",
+        "answer": "Visible"
+      },
+      {
+        "question": "What feeling or mood is mainly conveyed by the phone case's design?",
+        "answer": "Energetic"
       }
     ]
   }

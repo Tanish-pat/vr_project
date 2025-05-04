@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/59/5952fc7d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed on the background of the product image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the primary text displayed prominently in the center of the image?",
+        "answer": "FIBRE"
+      },
+      {
+        "question": "Describe the shape of the small graphic elements scattered across the background?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What color are the small, repetitive graphical elements that surround the text?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall visual impression created by the scattered elements?",
+        "answer": "Scattered"
+      },
+      {
+        "question": "What language is used for the primary product description?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the repeated graphic elements, what is their visual texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall style of the design, considering typography and graphics?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the visual clues, what is the implied nutritional characteristic?",
+        "answer": "High"
+      },
+      {
+        "question": "Given the image, what is the suggested content that the product might be high in?",
+        "answer": "Fibre"
+      },
+      {
+        "question": "What is the appearance of the font used for the main text 'HIGH FIBRE'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the visual style and tone employed in this product illustration?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the text and graphics, is the product design primarily informative or decorative?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the style of the lettering used for the foreign language translations?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Describe the overall visual layout of the product label's elements?",
+        "answer": "Symmetrical"
+      }
+    ]
+  }
+]

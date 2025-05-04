@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the computer mouse shown in the image?",
+        "question": "What is the predominant color of the computer mouse's exterior?",
         "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the main body of the computer mouse?",
-        "answer": "Oval"
-      },
-      {
-        "question": "What appears to be the primary material used in constructing the mouse?",
+        "question": "What appears to be the primary material composing the mouse body?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the visible texture, what is the feel of the mouse's upper surface?",
+        "question": "Considering the overall form, what is the shape of the computer mouse?",
+        "answer": "Ergonomic"
+      },
+      {
+        "question": "What is the visible texture of the mouse's top surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What type of sensor is visually identifiable on the underside of the mouse?",
-        "answer": "Optical"
+        "question": "Based on its features, what is the device's clear intended function?",
+        "answer": "Input"
       },
       {
-        "question": "What is the shape of the small accessory included with the mouse shown at the bottom?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What seems to be the function of the small, separate component, shown below the mouse?",
-        "answer": "Receiver"
-      },
-      {
-        "question": "What is the apparent texture of the bottom surface of the main mouse body?",
+        "question": "What is the apparent design of the bottom section of the mouse?",
         "answer": "Textured"
       },
       {
-        "question": "What seems to be the purpose of the visible compartment on the mouse's underside?",
-        "answer": "Battery"
+        "question": "Observing the provided image, what is the type of included receiver?",
+        "answer": "USB"
       },
       {
-        "question": "Considering the image, what design element is apparent on the mouse's sides?",
-        "answer": "Curved"
+        "question": "What is the color of the small additional component in the image?",
+        "answer": "Black"
       },
       {
-        "question": "Based on the visual details, is there any visible indication of a scroll wheel?",
-        "answer": "No"
+        "question": "What seems to be the purpose of the included additional part?",
+        "answer": "Extension"
       },
       {
-        "question": "What is the apparent finish of the mouse's surface, considering its shine or matte appearance?",
-        "answer": "Matte"
+        "question": "Considering the mouse's form, how many buttons are visibly present?",
+        "answer": "Three"
       },
       {
-        "question": "What type of connection method is suggested by the tiny separate component?",
+        "question": "What is the material of the small rectangular component?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What seems to be the texture of the mouse's bottom?",
+        "answer": "Rubberized"
+      },
+      {
+        "question": "Judging from its features, is the mouse wireless or wired?",
         "answer": "Wireless"
       },
       {
-        "question": "What is the apparent number of buttons visible on the top surface of the mouse?",
-        "answer": "Two"
+        "question": "What kind of sensor is visible underneath the mouse?",
+        "answer": "Optical"
       },
       {
-        "question": "What is the visible material of the tiny, separate USB receiver component?",
-        "answer": "Plastic"
+        "question": "What is the visible shape of the additional component beside the mouse?",
+        "answer": "Rectangular"
       }
     ]
   }

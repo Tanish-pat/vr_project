@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ad8b15ce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent ports and their arrangement, what is the primary function suggested by the device's visual design?",
+        "answer": "Adapter"
+      },
+      {
+        "question": "What is the most apparent color of the device's main body, as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the cable and connector, what type of connector is visibly present at the input end?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "What common video interface standard is clearly visible among the output ports?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the device's main body, excluding the cable?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the material, what appears to be the primary material used for the construction of the device?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the various ports, what type of USB port is prominently displayed among the output options?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "What is the general texture of the device's surface, as it appears in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a visual inspection, what is the approximate size of the main rectangular device relative to a typical hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Regarding the cable's characteristics, what is its apparent length relative to the device itself?",
+        "answer": "Long"
+      },
+      {
+        "question": "Observing the cable's construction, what material is the cable seemingly made from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Examining the branding, what is the most visible word or logo on the device?",
+        "answer": "UGREEN"
+      },
+      {
+        "question": "What is the general condition of the product from visual assessment, new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the visible design of the cable, straight or coiled?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Given the output ports, for what kind of device might this product be primarily used?",
+        "answer": "Laptop"
+      }
+    ]
+  }
+]

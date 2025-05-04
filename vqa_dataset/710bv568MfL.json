@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/88151cf9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form, what is the dominant geometric structure of the visible product?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary material used in the product's outer layer?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "Judging by the visual appearance, what color is the depicted product?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the product's texture, is it smooth, rough, or something else visually apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any noticeable markings or labels on the product itself?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the product relative to a typical human hand (large, small, or medium)?",
+        "answer": "Small"
+      },
+      {
+        "question": "Given the product's visual presentation, does it appear transparent, opaque, or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Observing the outer surface, are there any visible signs of texture or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is the product's surface shiny, matte, or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the product appear to have any significant mechanical components or moving parts?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the general condition or integrity of the product?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Does the image provide evidence of any visible damage, wear, or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Based purely on visual examination, is the product a singular unit or part of a larger set?",
+        "answer": "Singular"
+      },
+      {
+        "question": "Does the image reveal any visible seams, joints, or closures on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "From what can be visually determined, does the product appear to be sealed or unsealed?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

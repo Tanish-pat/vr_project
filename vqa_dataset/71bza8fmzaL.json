@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall presentation, what is the dominant color of the produce contained within the transparent packaging?",
+        "question": "Considering the overall visual presentation, what is the dominant color of the leafy greens?",
         "answer": "Green"
       },
       {
-        "question": "What appears to be the primary type of leafy green vegetable shown in the image, based on its visual characteristics?",
-        "answer": "Lettuce"
-      },
-      {
-        "question": "Focusing on the visual texture, what is the overall surface characteristic of the leaves in the package?",
-        "answer": "Crisp"
-      },
-      {
-        "question": "Based on the visual appearance, what is the apparent shape of the individual lettuce leaves within the container?",
-        "answer": "Varied"
-      },
-      {
-        "question": "Observing the image carefully, what is the material of the container holding the lettuce blend?",
+        "question": "What is the primary type of packaging material visibly encasing the product?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the apparent overall condition of the leafy greens, judging from their appearance in the provided image?",
-        "answer": "Fresh"
-      },
-      {
-        "question": "Judging from the visual evidence presented, what kind of packaging is the mixed greens contained in?",
-        "answer": "Clamshell"
-      },
-      {
-        "question": "What is the apparent color of a portion of the leaves showing a darker hue, visible among the lighter green leaves?",
-        "answer": "Reddish"
-      },
-      {
-        "question": "From a visual perspective, what appears to be the state of the leaves\u2014 are they wilted or firm?",
-        "answer": "Firm"
-      },
-      {
-        "question": "What seems to be the visual arrangement of the different types of lettuce within the packaging?",
-        "answer": "Mixed"
-      },
-      {
-        "question": "Judging by the clarity of the packaging, what is the overall visual transparency of the container?",
-        "answer": "Clear"
-      },
-      {
-        "question": "What is the apparent size and scale of the container relative to a typical hand or other household object?",
-        "answer": "Small"
-      },
-      {
-        "question": "What is the visual impression of the leaves' surface\u2014smooth, coarse, or something else?",
+        "question": "Based on the visual texture, how would you best describe the leaves' surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on visual observation, are the leaves whole, shredded, or cut?",
-        "answer": "Whole"
+        "question": "What is the most prevalent shape exhibited by the majority of the leaves?",
+        "answer": "Irregular"
       },
       {
-        "question": "Observing the image, is there any visible evidence of dirt or debris on the leaves?",
-        "answer": "No"
+        "question": "Observing the mix, what is the most noticeable secondary leaf color present?",
+        "answer": "Red"
+      },
+      {
+        "question": "Focusing on leaf structure, what appears to be the most common type of lettuce visible?",
+        "answer": "Leaf"
+      },
+      {
+        "question": "Considering the product's arrangement, what is the overall visual form of the package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the entire product, what is the visible condition of the greens?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Judging by the image, does the packaging appear to be sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent degree of moisture on the displayed leaves?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the variety, what is the overall impression of leaf types included?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Can you discern any noticeable visible damage to the leaves?",
+        "answer": "None"
+      },
+      {
+        "question": "Based solely on the image, what appears to be the general size of the package?",
+        "answer": "Small"
+      },
+      {
+        "question": "What seems to be the purpose of the plastic container holding the greens?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "From the visual assessment, what is the apparent state of the greens; wilted or not?",
+        "answer": "Not"
       }
     ]
   }

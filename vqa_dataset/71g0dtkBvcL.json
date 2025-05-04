@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's design?",
+        "question": "What is the predominant color scheme of the phone case's design?",
         "answer": "Multicolored"
       },
       {
-        "question": "What artistic style is predominantly depicted on the phone case?",
+        "question": "What artistic style is prominently featured on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "Describe the overall texture implied by the case's printed design?",
-        "answer": "Painterly"
-      },
-      {
-        "question": "What geometric shapes are most frequently used in the case's design?",
-        "answer": "Rectangles"
-      },
-      {
-        "question": "What is the apparent material of the phone case itself?",
+        "question": "What appears to be the primary material used for this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the most prominent color block on the phone case?",
-        "answer": "Red"
+        "question": "Describe the overall texture implied by the case's design?",
+        "answer": "Rough"
       },
       {
-        "question": "What secondary color is prominently featured near the bottom?",
-        "answer": "Blue"
+        "question": "What shapes are most frequently used within the case's design?",
+        "answer": "Rectangles"
       },
       {
-        "question": "What color is prominently displayed on the top left corner?",
-        "answer": "White"
-      },
-      {
-        "question": "Considering the image, is the design symmetrical or asymmetrical?",
-        "answer": "Asymmetrical"
-      },
-      {
-        "question": "What is the general shape of the protective phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the visual style of the brushstrokes on the design?",
+        "question": "Considering the brushstrokes, what painting technique is suggested?",
         "answer": "Impasto"
       },
       {
-        "question": "Are there noticeable outlines defining the color blocks?",
-        "answer": "Yes"
+        "question": "What is the general form or shape of the phone case itself?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the most likely manufacturing process suggested by the finish?",
-        "answer": "Printed"
+        "question": "What specific color is heavily present in the phone case's design?",
+        "answer": "Red"
       },
       {
-        "question": "What color is the phone case's visible border?",
+        "question": "What other prominent color is used in the artwork besides red?",
         "answer": "Blue"
       },
       {
-        "question": "Does the design feature any visible text or logos?",
-        "answer": "No"
+        "question": "What is the visible finish or appearance of the phone case surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Can you describe the arrangement of colors in the case's design?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What color is present in smaller, square-like sections?",
+        "answer": "White"
+      },
+      {
+        "question": "Besides red and blue, what other vibrant color is used?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the apparent level of detail in the case's design?",
+        "answer": "High"
+      },
+      {
+        "question": "What secondary color is noticeable within the artwork?",
+        "answer": "Orange"
       }
     ]
   }

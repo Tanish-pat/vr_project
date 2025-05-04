@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the cat litter box's outer ring?",
+        "question": "What is the predominant color of the visible cat litter box?",
         "answer": "Orange"
       },
       {
-        "question": "What is the apparent material of the cat litter box?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the overall shape of the cat litter box container?",
+        "question": "What shape best describes the overall form of the litter box?",
         "answer": "Round"
       },
       {
-        "question": "What color is the cat litter visible within the box?",
+        "question": "What appears to be the primary material of the litter box's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the litter box's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the visible portion of the cat litter within the box?",
         "answer": "White"
       },
       {
-        "question": "What is the texture of the cat litter, as visually suggested?",
-        "answer": "Granular"
+        "question": "Describe the visible texture of the cat litter itself.",
+        "answer": "Grainy"
       },
       {
-        "question": "Describe the apparent finish of the cat litter box's surface.",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the color of the bag containing the cat litter?",
+        "question": "What is the apparent color of the bag of cat litter shown?",
         "answer": "White"
       },
       {
-        "question": "What is the general shape of the litter bag's packaging?",
-        "answer": "Rectangular"
+        "question": "What is the color of the lower portion of the litter box?",
+        "answer": "White"
       },
       {
-        "question": "What is the apparent material of the cat litter bag?",
+        "question": "What is the apparent main material of the cat litter bag?",
         "answer": "Paper"
       },
       {
-        "question": "What is the predominant color of the cat sitting in the box?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What is the visible pattern of the cat's fur?",
-        "answer": "Tabby"
-      },
-      {
-        "question": "What appears to be printed prominently on the cat litter bag?",
+        "question": "Based on the visible markings, what is the brand name visible on the bag?",
         "answer": "Wag"
       },
       {
-        "question": "How many visible sides are apparent on the litter box?",
-        "answer": "One"
+        "question": "What color is the cat primarily shown in the image?",
+        "answer": "Brown"
       },
       {
-        "question": "What is the depth of the litter pan, relative to its diameter?",
-        "answer": "Shallow"
+        "question": "What kind of pet is shown using the litter box?",
+        "answer": "Cat"
       },
       {
-        "question": "What is the apparent condition of the cat litter?",
-        "answer": "Dry"
+        "question": "What is the apparent overall height of the visible litter box?",
+        "answer": "Low"
+      },
+      {
+        "question": "Describe the visible design elements around the edge of the litter box.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What appears to be the surface on which the litter box is placed?",
+        "answer": "Wood"
       }
     ]
   }

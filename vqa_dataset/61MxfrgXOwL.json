@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e89e0d32.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the gummy candies visible through the bottle?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent shape of the individual gummy candies?",
+        "answer": "Worm"
+      },
+      {
+        "question": "What material is the primary container composed of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product's main container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What color is the cap or lid on top of the container?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of label is prominently displayed on the container?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the texture implied by the appearance of the gummies?",
+        "answer": "Chewy"
+      },
+      {
+        "question": "What is the general style of the product's packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the bottle show any visible markings other than the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the product's packaging, relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the material of the label on the bottle?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Is the bottle transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What is the apparent condition of the container; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Describe the font style used on the nutrition label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall visual impression of the product?",
+        "answer": "Child-friendly"
+      }
+    ]
+  }
+]

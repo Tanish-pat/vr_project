@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da9af877.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed on the primary surface of this phone case?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What building material is visually represented on the phone case's design?",
+        "answer": "Brick"
+      },
+      {
+        "question": "What is the overall geometric pattern depicted on the phone case's exterior?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the depicted pattern, what is the implied texture of the phone case surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What color are the mortar lines between the depicted bricks on the phone case?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the variation in shades present within the brick pattern of the phone case.",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "What is the apparent material of this phone case, considering its flexibility?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, what is the form factor of the device this case is designed for?",
+        "answer": "Phone"
+      },
+      {
+        "question": "What kind of finish is suggested by the subtle highlights on the brick pattern?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the general shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what seems to be the primary function of this item?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the visual effect created by the light and dark brick variations?",
+        "answer": "Depth"
+      },
+      {
+        "question": "What is the overall visual style of the phone case's design?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "Describe the edges of the individual brick depictions on the case.",
+        "answer": "Defined"
+      },
+      {
+        "question": "Does the case design feature any additional graphics besides the brick pattern?",
+        "answer": "No"
+      }
+    ]
+  }
+]

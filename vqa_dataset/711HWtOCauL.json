@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant background color of the phone case's design?",
+        "question": "What is the predominant background color of the phone case design?",
         "answer": "Green"
       },
       {
-        "question": "What is the primary motif depicted across the phone case's surface?",
+        "question": "What is the overall pattern depicted on the phone case surface?",
         "answer": "Gifts"
       },
       {
-        "question": "What shapes predominantly constitute the illustrated gift boxes on the case?",
+        "question": "Describe the primary shapes of the illustrated gift packages on the case?",
         "answer": "Rectangles"
       },
       {
-        "question": "What color are the ribbons predominantly shown on the illustrated gifts?",
+        "question": "What color are most of the depicted gift bows on the phone case?",
         "answer": "Orange"
       },
       {
-        "question": "What general texture does the printed design appear to have, considering the illustration style?",
-        "answer": "Flat"
-      },
-      {
-        "question": "What is the apparent material of the phone case itself, ignoring the design?",
+        "question": "What is the apparent material or finish of the phone case itself?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall pattern arrangement of the illustrated gifts on the case?",
-        "answer": "Random"
+        "question": "What design element is repeatedly featured on the gift illustrations?",
+        "answer": "Ribbons"
       },
       {
-        "question": "Considering the design, what is the likely occasion associated with this phone case?",
+        "question": "Considering the color scheme, what would be a suitable occasion for this case?",
         "answer": "Holiday"
       },
       {
-        "question": "What are the colors of the illustrated gift wraps, besides the dominant colors?",
-        "answer": "Various"
+        "question": "Describe the visual texture of the phone case's surface, based solely on the image?",
+        "answer": "Smooth"
       },
       {
-        "question": "How many sides of the phone case are shown in the product image?",
+        "question": "What is the general style or aesthetic of the gift illustrations design?",
+        "answer": "Cartoonish"
+      },
+      {
+        "question": "What is the most common color of the illustrated gift boxes shown?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is shown on the sides of the phone case in the image?",
+        "answer": "Gifts"
+      },
+      {
+        "question": "Besides boxes, what other gift-related items are depicted?",
+        "answer": "Bags"
+      },
+      {
+        "question": "What is the overall visual impression made by the case's design?",
+        "answer": "Festive"
+      },
+      {
+        "question": "Are the gift illustrations rendered realistically or stylistically?",
+        "answer": "Stylistically"
+      },
+      {
+        "question": "How many sides of the phone case are visible in the provided image?",
         "answer": "Three"
-      },
-      {
-        "question": "What is the illustrated design's level of detail or complexity, in relation to gift wrapping?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Does the phone case display any visible text or branding elements in the image?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent finish of the phone case's material, given the image quality?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "Does the illustrated design fully cover the entire visible surface of the phone case?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the shape of the phone case itself, ignoring the design elements?",
-        "answer": "Rectangular"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's printed design?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Brown"
       },
       {
-        "question": "What natural material is mimicked in the phone case's design?",
+        "question": "What natural material is depicted in the phone case's printed design?",
         "answer": "Wood"
       },
       {
-        "question": "Describing the visual texture of the printed design, what word best applies?",
-        "answer": "Planked"
-      },
-      {
-        "question": "What geometric shape best describes the overall form of the phone case?",
+        "question": "What is the overall shape of the depicted mobile phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the image, what is the apparent material of the phone case itself?",
-        "answer": "Plastic"
+        "question": "Describe the visual texture implied by the case's design pattern?",
+        "answer": "Grained"
       },
       {
-        "question": "What is the apparent finish of the phone case's outer surface?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Based on the image, how many distinct vertical wood planks are depicted?",
-        "answer": "Five"
-      },
-      {
-        "question": "What is the primary orientation of the wood grain pattern on the case?",
+        "question": "What is the arrangement of the wood-grain pattern on the case?",
         "answer": "Vertical"
       },
       {
-        "question": "Does the phone case appear to have any noticeable perforations or openings?",
+        "question": "Considering the image, what kind of finish does the case appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the phone case show any visible seams or joints?",
         "answer": "No"
       },
       {
-        "question": "What is the general visual style or aesthetic of the phone case design?",
-        "answer": "Minimalist"
+        "question": "What is the apparent style of the wood grain design on the case?",
+        "answer": "Plank"
       },
       {
-        "question": "Judging by the image, how would you describe the printed design's level of detail?",
-        "answer": "Simple"
+        "question": "Based on visual appearance, what is the case primarily made of?",
+        "answer": "Plastic"
       },
       {
-        "question": "Considering its appearance, what is the likely function of this item?",
-        "answer": "Protective"
+        "question": "Judging from the image, is the case design symmetrical?",
+        "answer": "Yes"
       },
       {
-        "question": "What color is the subtle border visible around the case's edges?",
-        "answer": "White"
-      },
-      {
-        "question": "Does the case design include any visible logos, text, or other markings?",
+        "question": "Are there any noticeable logos or branding elements on the case itself?",
         "answer": "No"
       },
       {
-        "question": "Based on its appearance, does this case offer substantial visual contrast?",
-        "answer": "Low"
+        "question": "What is the general visual tone or aesthetic of the phone case?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Describe the variation in color shading within the wood grain pattern.",
+        "answer": "Subtle"
+      },
+      {
+        "question": "How many distinct vertical sections are visible in the wood grain design?",
+        "answer": "Five"
+      },
+      {
+        "question": "Considering the image, what is the overall thickness of the case?",
+        "answer": "Slim"
       }
     ]
   }

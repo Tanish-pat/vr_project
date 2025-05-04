@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What celestial body is prominently featured in the design?",
+        "question": "What celestial body is prominently featured in the central design?",
         "answer": "Moon"
       },
       {
-        "question": "What colors are the aurora-like features in the image?",
+        "question": "What color is the primary light source depicted in the design?",
         "answer": "Purple"
       },
       {
-        "question": "What type of scene is depicted in the central design?",
+        "question": "What type of natural scene is depicted in the phone case's design?",
         "answer": "Forest"
       },
       {
-        "question": "What is the apparent material of the phone case?",
+        "question": "Describe the overall color scheme of the illustration on the case?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What appears to be reflected on the water in the image?",
+        "answer": "Stars"
+      },
+      {
+        "question": "What seems to be the material of the phone case's outer shell?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape of the phone case?",
+        "question": "What is the shape of the phone case's overall form?",
         "answer": "Rectangular"
       },
       {
-        "question": "What color are the trees in the design?",
-        "answer": "Silhouette"
+        "question": "What design element is visible near the bottom of the phone case?",
+        "answer": "Stripe"
       },
       {
-        "question": "Describe the texture implied by the phone case's image.",
+        "question": "What is the general style of the artistic representation on the case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Are the trees in the image depicted in a realistic or stylized manner?",
+        "answer": "Stylized"
+      },
+      {
+        "question": "What is the texture of the background color of the phone case?",
         "answer": "Smooth"
       },
       {
-        "question": "Is there any additional feature visible at the bottom?",
-        "answer": "Bar"
-      },
-      {
-        "question": "What design element separates the image from the phone case\u2019s edge?",
-        "answer": "Border"
-      },
-      {
-        "question": "Does the image show any reflection or gloss?",
-        "answer": "None"
-      },
-      {
-        "question": "What is the general style of the artistic depiction?",
-        "answer": "Surreal"
-      },
-      {
-        "question": "What is the apparent finish of the case's surface?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the color of the small bar near the bottom?",
+        "question": "What color are the primary trees displayed within the artwork?",
         "answer": "Black"
       },
       {
-        "question": "Are there any visible logos or markings on the phone case?",
-        "answer": "None"
+        "question": "What seems to be the purpose of the small horizontal element near the bottom?",
+        "answer": "Grip"
+      },
+      {
+        "question": "Judging from the image, what could the secondary color be considered?",
+        "answer": "Pink"
       }
     ]
   }

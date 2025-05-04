@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/46/46903f96.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted phone case?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What specific pattern is prominently featured on the phone case's surface?",
+        "answer": "Mosaic"
+      },
+      {
+        "question": "Considering the visual texture, what material does the case's design mimic?",
+        "answer": "Stone"
+      },
+      {
+        "question": "What is the overall shape of the illustrated protective phone covering?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the geometric forms composing the patterned design on the phone case.",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the implied material of the depicted phone case, based on its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color are the smaller fragments within the larger mosaic pattern?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Excluding the camera cutout, what is the surface's texture quality?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging by the image, what is the phone case's primary function?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the general style or aesthetic suggested by the phone case's design?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Are the stone-like shapes in the design uniformly sized, or do they vary?",
+        "answer": "Varied"
+      },
+      {
+        "question": "What is the apparent finish or sheen of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the case design incorporate any repeating motifs beyond the mosaic?",
+        "answer": "No"
+      },
+      {
+        "question": "What design element is visible near the top-center of the phone case?",
+        "answer": "Cutout"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent thickness of the case?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

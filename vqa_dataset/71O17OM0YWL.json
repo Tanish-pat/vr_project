@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b6724353.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the clock's face?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the clock's frame or bezel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the clock?",
+        "answer": "Round"
+      },
+      {
+        "question": "What material appears to constitute the clock's frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What style of numerals are used on the clock face?",
+        "answer": "Roman"
+      },
+      {
+        "question": "What is the apparent finish of the clock face?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the style of the clock hands?",
+        "answer": "Simple"
+      },
+      {
+        "question": "How many hands are visibly present on the clock?",
+        "answer": "Three"
+      },
+      {
+        "question": "What kind of mechanism is suggested by the clock's movement?",
+        "answer": "Analog"
+      },
+      {
+        "question": "Does the clock face include any additional markings beyond numerals?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the clock design predominantly minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent size of the clock, relative to the furniture?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the visual texture of the clock's frame?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of mounting is suggested for this clock?",
+        "answer": "Wall"
+      },
+      {
+        "question": "Based on visual cues, what is the likely material of the clock face?",
+        "answer": "Plastic"
+      }
+    ]
+  }
+]

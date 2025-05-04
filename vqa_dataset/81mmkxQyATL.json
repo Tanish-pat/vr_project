@@ -9,60 +9,60 @@
         "answer": "Cross"
       },
       {
-        "question": "What specific color is the central design element of this pendant?",
+        "question": "What color is the central design element of the cross pendant?",
         "answer": "Black"
       },
       {
-        "question": "What material appears to compose the border of the pendant?",
-        "answer": "Metal"
+        "question": "What appears to be the material of the cross's textured inlay?",
+        "answer": "Carbon"
       },
       {
-        "question": "Can you describe the texture of the dark-colored inlay on the pendant?",
-        "answer": "Woven"
-      },
-      {
-        "question": "What color is the visible metal surrounding the central black element?",
+        "question": "What is the apparent finish of the metal bordering the black inlay?",
         "answer": "Silver"
       },
       {
-        "question": "What kind of chain is shown accompanying the cross pendant?",
-        "answer": "Box"
+        "question": "Describe the texture of the black central portion of the pendant?",
+        "answer": "Woven"
       },
       {
-        "question": "What is the apparent finish of the metallic parts of the pendant?",
-        "answer": "Polished"
-      },
-      {
-        "question": "Considering the image, what seems to be the overall style of the pendant?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Based on visual inspection, what is the apparent metal type used in the border?",
+        "question": "What type of metal seems to be used for the frame of the pendant?",
         "answer": "Stainless"
       },
       {
-        "question": "Describe the visual pattern that is etched into the black portion of the cross.",
-        "answer": "Diagonal"
+        "question": "What is the style of the chain accompanying the pendant?",
+        "answer": "Box"
       },
       {
-        "question": "What seems to be the clasp type used on the chain shown with the pendant?",
+        "question": "What is the overall color scheme of the pendant and chain?",
+        "answer": "Bicolor"
+      },
+      {
+        "question": "Does the pendant display any noticeable engravings or markings?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual appearance of the metal bordering the black inlay?",
+        "answer": "Polished"
+      },
+      {
+        "question": "Considering the pendant's design, what is its likely intended use?",
+        "answer": "Jewelry"
+      },
+      {
+        "question": "What is the apparent clasp type used on the provided chain?",
         "answer": "Lobster"
       },
       {
-        "question": "How would you describe the overall visual impression of the pendant's color scheme?",
-        "answer": "Monochromatic"
+        "question": "What is the general size and proportion of the cross pendant?",
+        "answer": "Large"
       },
       {
-        "question": "Is the black inlay recessed or raised relative to the metal border?",
-        "answer": "Recessed"
+        "question": "From the image, is the cross pendant showing any signs of damage?",
+        "answer": "No"
       },
       {
-        "question": "What is the apparent thickness of the metal border surrounding the black inlay?",
-        "answer": "Uniform"
-      },
-      {
-        "question": "Considering the design elements, is this pendant likely intended for a male or female?",
-        "answer": "Male"
+        "question": "Does the image reveal the exact weight of the pendant?",
+        "answer": "No"
       }
     ]
   }

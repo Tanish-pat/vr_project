@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the chair's upholstery?",
+        "question": "What is the primary color of the chair's upholstery?",
         "answer": "Green"
       },
       {
-        "question": "What material appears to constitute the chair's legs?",
+        "question": "What appears to be the material of the chair's legs?",
         "answer": "Metal"
       },
       {
-        "question": "Describe the overall shape of the chair's base?",
+        "question": "Describe the overall shape of the chair's frame?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent texture of the chair's seating surface?",
-        "answer": "Velvet"
+        "question": "What is the apparent texture of the chair's seat cushion?",
+        "answer": "Smooth"
       },
       {
-        "question": "What color is the metal framework supporting the chair?",
+        "question": "What color are the chair's legs?",
         "answer": "Black"
       },
       {
-        "question": "Judging by the image, what is the style of the chair's legs?",
-        "answer": "Slatted"
-      },
-      {
-        "question": "Considering the visual details, what is the apparent finish of the metal?",
+        "question": "Considering the image, what is the apparent finish of the metal legs?",
         "answer": "Matte"
       },
       {
-        "question": "Based on the image, what is the general shape of the chair's back?",
+        "question": "What is the style of the chair's legs?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Does the chair appear to have any visible stitching on the upholstery?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general shape of the chair's back rest?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of visual pattern is present on the chair's upholstery?",
-        "answer": "Solid"
+        "question": "What kind of material appears to be used for the chair's seat?",
+        "answer": "Velvet"
       },
       {
-        "question": "Describe the visible connection between the seat and the legs?",
-        "answer": "Direct"
-      },
-      {
-        "question": "What is the apparent thickness of the chair's metal legs?",
-        "answer": "Thin"
-      },
-      {
-        "question": "What type of joints are visually apparent in the chair's structure?",
-        "answer": "Welded"
-      },
-      {
-        "question": "From the image, what is the overall design aesthetic of the chair?",
+        "question": "Based on the image, what is the chair's overall design aesthetic?",
         "answer": "Modern"
       },
       {
-        "question": "Considering the image, what is the chair's approximate height?",
-        "answer": "Medium"
+        "question": "Describe the visible connection between the seat and the frame?",
+        "answer": "Seamless"
       },
       {
-        "question": "What is the visible profile of the chair's backrest?",
-        "answer": "Straight"
+        "question": "Judging by the image, what is the apparent thickness of the metal legs?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the visible profile of the chair's legs?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the apparent height of the chair's back rest relative to the seat?",
+        "answer": "Low"
       }
     ]
   }
