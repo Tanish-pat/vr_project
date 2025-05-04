@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's geometric pattern?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Purple"
       },
       {
-        "question": "What is the overall shape of the depicted mobile phone protective case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Describe the style of the repeating design imprinted on the phone cover's surface?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "What specific geometric form composes the repeating pattern on the case?",
+        "question": "What geometric pattern is prominently displayed across the phone case?",
         "answer": "Floral"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this phone case?",
+        "question": "What appears to be the primary material used in the construction of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the texture of the phone case's surface appear to be?",
-        "answer": "Smooth"
+        "question": "Considering the image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent finish of the geometric design printed on the phone case?",
+        "question": "Based on visual inspection, what is the apparent finish of the phone case's surface?",
         "answer": "Matte"
       },
       {
-        "question": "Is there a noticeable camera hole visible on the rear of the phone case?",
-        "answer": "Yes"
+        "question": "Describe the visual texture of the patterned design on the phone case.",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the color of the transition seen between the dark and light shades on the case?",
+        "question": "What secondary color accents the primary purple hue in the phone case's design?",
         "answer": "Pink"
       },
       {
-        "question": "Describe the visual effect created by the gradient of colors on the design.",
-        "answer": "Ombre"
+        "question": "Does the phone case's design feature any visible three-dimensional elements?",
+        "answer": "No"
       },
       {
-        "question": "How many distinct colors are visibly present within the design pattern itself?",
+        "question": "Considering the image, how would you characterize the style of the phone case's pattern?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What color is the camera lens opening visible at the back of the phone case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general gradient direction of the colors in the phone case's design?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the image, is the pattern on the case symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Does the phone case design incorporate any visible text or branding elements?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general impression conveyed by the phone case's color palette?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based solely on visual cues, how many distinct colors are present in the design?",
         "answer": "Two"
-      },
-      {
-        "question": "Does the phone case appear to completely cover the mobile phone device?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Considering the image, what seems to be the case's primary function or purpose?",
-        "answer": "Protection"
-      },
-      {
-        "question": "Judging by the image, is the design on the phone case symmetrical?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What kind of visual effect is apparent due to the way the colors blend?",
-        "answer": "Gradient"
       }
     ]
   }

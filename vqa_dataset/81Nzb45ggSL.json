@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the metal frame of the loft bed?",
-        "answer": "Black"
-      },
-      {
-        "question": "What material primarily constitutes the bed's structural components?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the overall shape or form of the bed's sleeping surface?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What type of ladder is integrated into the bed's design for accessibility?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Considering the bed's construction, what is the apparent style of the bed?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Describing the support structure beneath the mattress, what is its configuration?",
-        "answer": "Slats"
-      },
-      {
-        "question": "What is the visible finish of the metal used in the bed frame's construction?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Regarding the height, how would you categorize this type of bed design?",
+        "question": "What is the overarching structural form of the presented furniture?",
         "answer": "Loft"
       },
       {
-        "question": "Considering the design, how would you categorize the bed's style?",
-        "answer": "Simple"
+        "question": "What primary metallic material composes the bed frame?",
+        "answer": "Steel"
       },
       {
-        "question": "What is the apparent texture of the metal used in this bed's framework?",
-        "answer": "Smooth"
+        "question": "What is the predominant color of the entire bed structure?",
+        "answer": "Black"
       },
       {
-        "question": "Observing the ladder, what is the material of its construction?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the visual pattern of the metal slats supporting the mattress?",
+        "question": "Describe the pattern of the horizontal support bars within the bed frame?",
         "answer": "Linear"
       },
       {
-        "question": "Describe the visual arrangement of the metal bars forming the bed's frame.",
-        "answer": "Grid"
+        "question": "What type of ladder is integrated into the bed's design for access?",
+        "answer": "Metal"
       },
       {
-        "question": "What is the position of the integrated ladder relative to the bed?",
-        "answer": "Lateral"
+        "question": "Considering the bed's construction, what is its overall style?",
+        "answer": "Modern"
       },
       {
-        "question": "Based on the visible components, what is the apparent functionality of this furniture piece?",
+        "question": "What is the visual texture of the metal components in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How would you characterize the finish of the metal frame visually?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the design, what is the intended function of this furniture?",
         "answer": "Sleeping"
+      },
+      {
+        "question": "What is the shape of the side rails that compose the loft bed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent weight capacity of the bed based on its construction?",
+        "answer": "High"
+      },
+      {
+        "question": "In terms of assembly, how would you describe this bed's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the ladder, how many rungs does it appear to possess?",
+        "answer": "Four"
+      },
+      {
+        "question": "Describe the visual profile of the bed's overall height?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is the apparent construction method for the metal frame?",
+        "answer": "Welded"
       }
     ]
   }

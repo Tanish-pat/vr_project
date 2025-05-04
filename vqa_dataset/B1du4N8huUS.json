@@ -9,60 +9,60 @@
         "answer": "Beige"
       },
       {
-        "question": "What is the overall shape of the chair's backrest?",
+        "question": "What is the overall shape of the chair's silhouette?",
         "answer": "Rounded"
       },
       {
-        "question": "What kind of fabric appears to be used for the upholstery?",
+        "question": "What type of fabric appears to be used for the upholstery?",
         "answer": "Fabric"
       },
       {
-        "question": "What is the apparent texture of the chair's upholstery?",
-        "answer": "Smooth"
+        "question": "Describe the style of the chair's arms?",
+        "answer": "Rolled"
       },
       {
         "question": "What color is the throw pillow resting on the chair?",
         "answer": "Blue"
       },
       {
-        "question": "Describe the visible style of the chair's armrests.",
-        "answer": "Rolled"
+        "question": "What is the apparent texture of the upholstery?",
+        "answer": "Smooth"
       },
       {
-        "question": "What material are the visible chair legs made of?",
+        "question": "What material appears to be used for the chair legs?",
         "answer": "Wood"
       },
       {
-        "question": "What color are the visible chair legs?",
-        "answer": "Dark"
-      },
-      {
-        "question": "What is the general style of the chair's design?",
+        "question": "What is the overall design aesthetic of this chair?",
         "answer": "Traditional"
       },
       {
-        "question": "What type of textile is draped over the chair's arm?",
-        "answer": "Knitted"
+        "question": "Is the chair primarily designed for one or two people?",
+        "answer": "One"
       },
       {
-        "question": "What is the apparent size of this upholstered chair?",
-        "answer": "Large"
+        "question": "What color is the throw blanket draped over the arm?",
+        "answer": "Gray"
       },
       {
-        "question": "Describe the overall sitting depth of the chair?",
-        "answer": "Deep"
+        "question": "Describe the shape of the throw blanket's tassels?",
+        "answer": "Pom-pom"
       },
       {
         "question": "What is the apparent material of the throw blanket?",
         "answer": "Yarn"
       },
       {
-        "question": "Describe the pattern present on the floor rug near the chair?",
-        "answer": "Geometric"
+        "question": "What is the primary function of this piece of furniture?",
+        "answer": "Seating"
       },
       {
-        "question": "What color is the throw blanket draped over the chair's arm?",
-        "answer": "Gray"
+        "question": "Does the chair appear to have any visible stitching details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of base does the chair have?",
+        "answer": "Legs"
       }
     ]
   }

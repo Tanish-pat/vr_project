@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary visual element dominating the entire surface of this product, which provides detailed information regarding its nutritional composition?",
-        "answer": "Table"
+        "question": "What is the primary color scheme used throughout the entire supplement facts label?",
+        "answer": "Black"
       },
       {
-        "question": "What is the overall textual presentation style employed consistently throughout the nutritional data displayed on this product?",
-        "answer": "Columns"
+        "question": "Considering the overall rectangular layout, what is the dominant shape of the informational blocks within the supplement facts label?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Considering the visual layout, what is the primary method used to organize and categorize the numerous nutritional components?",
-        "answer": "Rows"
+        "question": "What is the apparent texture of the background surface of the printed supplement facts label?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the descriptive term used to visually denote the quantity of each specific nutrient present in a single serving of this product?",
-        "answer": "Amount"
+        "question": "Based on the visual presentation, what seems to be the material used for the supplement facts label itself?",
+        "answer": "Paper"
       },
       {
-        "question": "What term is visually used to quantify the relative proportion of each nutrient in a serving compared to a recommended daily intake?",
-        "answer": "Percentage"
+        "question": "Considering the various font sizes and styles present, what is the primary font style employed for the header 'Supplement Facts'?",
+        "answer": "Bold"
       },
       {
-        "question": "What is the visually presented unit of measurement consistently used to quantify the amount of each listed nutritional component?",
-        "answer": "Milligrams"
+        "question": "What is the apparent font weight of the 'Amount Per Serving' column heading?",
+        "answer": "Bold"
       },
       {
-        "question": "What term is visually employed to denote the total weight or volume of a single unit or portion of this product?",
-        "answer": "Serving"
+        "question": "Observing the data entries, what is the general font style used to list the individual nutrient components?",
+        "answer": "Regular"
       },
       {
-        "question": "Based on the visual layout, what is the descriptive term for the complete list of ingredients included in this product?",
-        "answer": "Supplement"
+        "question": "What is the alignment of the '% Daily Value' column relative to the 'Amount Per Serving' column?",
+        "answer": "Right"
       },
       {
-        "question": "What is the visual label used to specifically indicate the total amount of ingredients contained within a single serving?",
-        "answer": "Facts"
+        "question": "Considering the arrangement of the information, what seems to be the dominant orientation of the text blocks?",
+        "answer": "Vertical"
       },
       {
-        "question": "What visually apparent word indicates the reference point for daily nutrient intake percentages?",
-        "answer": "Daily"
+        "question": "What is the general visual style of the numerical data displayed in the 'Amount Per Serving' column?",
+        "answer": "Numeric"
       },
       {
-        "question": "What is the term visually used to describe the ingredients' origin or characteristics (e.g., organic)?",
-        "answer": "Organic"
+        "question": "Based on the visual appearance, what is the overall presentation style of the supplement facts label?",
+        "answer": "Tabular"
       },
       {
-        "question": "What term visually represents the overall health benefits of specific components?",
-        "answer": "Value"
+        "question": "Considering the size and spacing of the data entries, what is the visual density of the information on the label?",
+        "answer": "High"
       },
       {
-        "question": "What is the visual term used to identify each individual nutritional element listed?",
-        "answer": "Vitamin"
+        "question": "What appears to be the overall contrast ratio between the text and the background of the supplement facts label?",
+        "answer": "High"
       },
       {
-        "question": "Considering the visual appearance, what term describes the size of the product's unit?",
-        "answer": "Tablet"
+        "question": "What is the relative positioning of the 'Supplement Facts' header in relation to the rest of the label's content?",
+        "answer": "Top"
       },
       {
-        "question": "What is the visual term indicating the specific portion of the product's nutritional information?",
-        "answer": "Serving"
+        "question": "What is the dominant text color used in the label's body text?",
+        "answer": "Black"
       }
     ]
   }

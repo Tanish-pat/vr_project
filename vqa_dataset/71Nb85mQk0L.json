@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/8010320c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the table lamp's cylindrical base?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What material appears to constitute the lamp's main body?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Describe the overall shape of the lamp's central structure?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the lampshade that sits atop the base?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the apparent texture of the teal ceramic body?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What metallic finish is visible on the lamp's top and bottom rings?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the shape of the lampshade covering the light bulb?",
+        "answer": "Drum"
+      },
+      {
+        "question": "Considering the base's material, what is its likely weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the apparent material of the lampshade fabric?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What style could best describe the lamp's overall aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "How many distinct metallic parts are visible on the lamp?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the finish of the metallic accents on the lamp?",
+        "answer": "Brass"
+      },
+      {
+        "question": "What is the implied lighting function of this object?",
+        "answer": "Illumination"
+      },
+      {
+        "question": "Is the lamp design minimalist or ornate in its appearance?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the primary light source within the structure?",
+        "answer": "Bulb"
+      }
+    ]
+  }
+]

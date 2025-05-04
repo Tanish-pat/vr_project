@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f894e0e1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the wireless charging pad shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the device's charging surface, considering its curvature and angles?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What material appears to be used for the construction of the charging pad base?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible design, what is the apparent texture of the device's top surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the form factor of the charging stand's integrated base, taking note of its purpose.",
+        "answer": "Angled"
+      },
+      {
+        "question": "What is the main visible component at the bottom of the charging device, based on its location and function?",
+        "answer": "Port"
+      },
+      {
+        "question": "Based on the image, what is the most notable feature supporting the charging stand's upright position?",
+        "answer": "Base"
+      },
+      {
+        "question": "What appears to be the general build quality or finish of the wireless charging device's exterior?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Considering the design elements, does the charging pad have any visible branding or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the charging pad's surface intended for, based solely on the device's structure and visible function?",
+        "answer": "Phone"
+      },
+      {
+        "question": "Describe the position of the charging port, with respect to the stand's overall arrangement.",
+        "answer": "Rear"
+      },
+      {
+        "question": "What appears to be the main type of connector used for the wireless charger\u2019s power supply?",
+        "answer": "USB"
+      },
+      {
+        "question": "Judging by the image, what is the orientation of the charging area in relation to the device\u2019s base?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What type of wireless charging technology is implied by the device's design and the image?",
+        "answer": "Qi"
+      },
+      {
+        "question": "Is there a noticeable difference in the color or material between the charging pad's top and its base?",
+        "answer": "No"
+      }
+    ]
+  }
+]

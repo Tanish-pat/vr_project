@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's primary surface?",
+        "question": "What is the predominant color of the phone case's primary surface?",
         "answer": "Brown"
       },
       {
-        "question": "What natural material appears to be simulated on the phone case?",
+        "question": "What natural material imitates the phone case's texture and appearance?",
         "answer": "Wood"
       },
       {
-        "question": "What is the central design element depicted on the phone case?",
+        "question": "What is the central design element depicted on the phone case's back?",
         "answer": "Tree"
       },
       {
         "question": "What artistic style is employed in the tree's visual representation?",
-        "answer": "Tribal"
-      },
-      {
-        "question": "Describe the texture visually implied by the phone case's design?",
-        "answer": "Grained"
-      },
-      {
-        "question": "What shape best describes the overall form of the phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What kind of design borders the top and bottom of the central image?",
         "answer": "Floral"
       },
       {
-        "question": "What is the visual method used to create the design on the case?",
+        "question": "What is the overall shape of the product, accommodating a mobile phone?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the decorative pattern located above and below the central image.",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What technique seems to have been used to create the design on the case?",
         "answer": "Engraving"
       },
       {
-        "question": "What is the color of the engraved design on the phone case?",
-        "answer": "DarkerBrown"
+        "question": "What is the apparent texture of the surface on the phone case?",
+        "answer": "Grained"
       },
       {
-        "question": "Considering the design, what cultural influence is most prominent?",
-        "answer": "Indian"
+        "question": "What is the style of the tree depicted, considering its swirling patterns?",
+        "answer": "Swirling"
       },
       {
-        "question": "What appears to be the primary function of this product?",
-        "answer": "Protection"
+        "question": "What type of design is used to create the tree pattern on the case?",
+        "answer": "Etched"
       },
       {
-        "question": "Does the case's design incorporate repeating patterns?",
-        "answer": "Yes"
+        "question": "What color are the decorative patterns on the case, compared to the background?",
+        "answer": "Darker"
       },
       {
-        "question": "What kind of tree is depicted in the phone case's central image?",
-        "answer": "Life"
+        "question": "Describe the visual impact of the engraved patterns across the phone case.",
+        "answer": "Subtle"
       },
       {
-        "question": "What is the overall aesthetic style of this phone case's design?",
+        "question": "How many major decorative bands are visible above and below the tree motif?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the visual depth of the design elements, relative to the phone case surface?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "What overall aesthetic does the phone case's design convey?",
         "answer": "Ethnic"
-      },
-      {
-        "question": "Are there cutouts visible for phone features (buttons, ports)?",
-        "answer": "Yes"
       }
     ]
   }

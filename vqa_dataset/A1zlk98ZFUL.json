@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the book-safe's exterior?",
+        "question": "What is the predominant color of the concealed safe disguised as a book?",
         "answer": "Black"
       },
       {
-        "question": "What text is subtly embossed on the safe's spine?",
-        "answer": "Dictionary"
-      },
-      {
-        "question": "What material appears to be used for the safe's construction?",
+        "question": "What material appears to constitute the outer covering of this hidden security device?",
         "answer": "Fabric"
       },
       {
-        "question": "What is the overall shape of the concealed safe?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Describe the texture of the visible book-safe surface.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent thickness of the book-safe?",
-        "answer": "Thick"
-      },
-      {
-        "question": "Is there any visible locking mechanism on the safe?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering the context, what is the safe disguised as?",
+        "question": "Considering its design, what object does this security device convincingly mimic?",
         "answer": "Book"
       },
       {
-        "question": "What is the approximate size relative to the books nearby?",
-        "answer": "Similar"
-      },
-      {
-        "question": "What type of lettering style is used on the spine?",
+        "question": "What style of text is visibly imprinted on the spine of this disguised safe?",
         "answer": "Serif"
       },
       {
-        "question": "Is there any noticeable visible branding or logo?",
-        "answer": "No"
+        "question": "Observing the image, is the visible number on this item an embossed or a printed detail?",
+        "answer": "Embossed"
       },
       {
-        "question": "How many visible books are on the shelf with the safe?",
-        "answer": "Eight"
+        "question": "What is the apparent texture of the safe's exterior, mimicking a printed book?",
+        "answer": "Smooth"
       },
       {
-        "question": "What color is the shelf on which the safe sits?",
-        "answer": "Black"
+        "question": "What appears to be the overall shape or form of this security product?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Describe the apparent weight of the disguised safe.",
-        "answer": "Heavy"
+        "question": "Does the item's outer surface exhibit a glossy or matte finish?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the apparent condition of the book-safe?",
+        "question": "Judging from the visual details, is the safe's spine narrow or wide?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "What kind of visible mechanism or feature indicates this is a hidden storage device?",
+        "answer": "Number"
+      },
+      {
+        "question": "Based on visual examination, is the book-safe thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering its positioning among real books, how does this disguised safe blend?",
+        "answer": "Seamlessly"
+      },
+      {
+        "question": "Does the item's design incorporate any noticeable decorative elements besides text?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent size of the item relative to the surrounding books?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Describe the apparent condition of the item in the provided image.",
         "answer": "New"
       }
     ]

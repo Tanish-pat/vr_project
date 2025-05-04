@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/2245f1e3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary design element featured prominently on the phone case's back?",
+        "answer": "Heart"
+      },
+      {
+        "question": "What design element is positioned below the heart on the phone case?",
+        "answer": "Hands"
+      },
+      {
+        "question": "Describe the style of the hands design element on the phone case.",
+        "answer": "Lineart"
+      },
+      {
+        "question": "What appears to be the material of the depicted phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color are the design elements on the phone case?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the design, what is the implied theme of the phone case?",
+        "answer": "Love"
+      },
+      {
+        "question": "What shape best describes the overall form of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many sides of the phone case are visually shown in the provided image?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent finish of the phone case surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the phone case design include any text or lettering?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of product is shown in the image?",
+        "answer": "Case"
+      },
+      {
+        "question": "What is the visible state of the depicted product (new or used)?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the image, is the phone case design symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Describe the visual texture of the phone case based solely on the image.",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

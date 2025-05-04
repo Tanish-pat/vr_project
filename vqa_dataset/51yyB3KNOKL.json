@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e43ce182.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's top?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material appears to constitute the majority of the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what best describes the bottle's shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent texture of the bottle's main body?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the style of the lid, considering its visible features?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Based on visual inspection, how many bottles are depicted in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What color is the visible base of each bottle?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Is there any noticeable pattern or design on the bottle's body?",
+        "answer": "None"
+      },
+      {
+        "question": "What seems to be the intended function of these containers?",
+        "answer": "Blending"
+      },
+      {
+        "question": "What is the apparent level of transparency in the bottle's main section?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the image show any noticeable scratches or damage on the bottles?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general visual condition of the depicted bottles?",
+        "answer": "New"
+      },
+      {
+        "question": "Describe the visible markings aside from the color of the top?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, are the bottles uniform in size and appearance?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual impression of the displayed bottles?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

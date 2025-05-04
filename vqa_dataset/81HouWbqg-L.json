@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Yellow"
       },
       {
-        "question": "What is the overall style of the abstract design printed on the case?",
-        "answer": "Swirling"
-      },
-      {
-        "question": "Describe the shapes primarily used in the phone case's artistic pattern?",
-        "answer": "Organic"
-      },
-      {
-        "question": "What color are the most prominent, rounded shapes within the design?",
-        "answer": "Orange"
-      },
-      {
-        "question": "What is the primary texture implied by the design's visual appearance?",
-        "answer": "Fluid"
-      },
-      {
-        "question": "What is the material indicated by the phone case's slight glossiness?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the design's style, what is the artistic theme depicted?",
+        "question": "What is the overall style of the design on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "What color accents are present along the edges of the phone case?",
+        "question": "What shapes predominantly feature in the phone case's artwork?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What kind of texture is visually suggested by the design on the case?",
+        "answer": "Swirling"
+      },
+      {
+        "question": "What colors are used as accents besides the dominant yellow?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the primary material implied by the image of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the design, what artistic style is most closely suggested?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "Describing the color variations, are the colors muted or vibrant?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "What design element is noticeable along the phone case's edges?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the overall shape of the phone case's visible surface?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Besides yellow and orange, what other prominent color appears?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the most noticeable color transition seen in the phone case art?",
+        "answer": "Yellow-Orange"
+      },
+      {
+        "question": "How many sides of the phone case are visible in the provided image?",
+        "answer": "Four"
+      },
+      {
+        "question": "What color is shown on the side edges of the phone case?",
         "answer": "Multicolored"
-      },
-      {
-        "question": "What is the apparent form factor of the item shown in the provided image?",
-        "answer": "Case"
-      },
-      {
-        "question": "What type of device does this protective covering seem intended for?",
-        "answer": "Phone"
-      },
-      {
-        "question": "What is the implied level of protection provided by this accessory?",
-        "answer": "Minimal"
-      },
-      {
-        "question": "What is the design's general color palette and feeling?",
-        "answer": "Warm"
-      },
-      {
-        "question": "Excluding the main pattern, what colors are present in the side views?",
-        "answer": "Blue"
-      },
-      {
-        "question": "What is the general appearance of the abstract design on the case?",
-        "answer": "Chaotic"
-      },
-      {
-        "question": "What are the visible characteristics of the case's cutouts?",
-        "answer": "Precise"
       }
     ]
   }

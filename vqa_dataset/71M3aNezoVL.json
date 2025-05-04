@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the heart-shaped object depicted on the phone case?",
+        "question": "What is the predominant color of the heart-shaped textile element depicted on the phone case?",
         "answer": "Pink"
       },
       {
-        "question": "What is the primary shape of the design element positioned near the rose?",
+        "question": "What is the shape of the primary textile element featured prominently on the phone case's design?",
         "answer": "Heart"
       },
       {
-        "question": "What kind of textile appears to be used for the heart-shaped object's construction?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "What is the pattern visible on the surface of the pink heart?",
+        "question": "What is the pattern visibly present on the surface of the pink heart-shaped textile?",
         "answer": "Polka-dots"
       },
       {
-        "question": "What color is the rose depicted in the design of the phone case?",
-        "answer": "Pink"
-      },
-      {
-        "question": "What material appears to be used for the small bag-like object near the rose?",
+        "question": "What kind of textile material appears to comprise the smaller, burlap-like heart on the phone case?",
         "answer": "Burlap"
       },
       {
-        "question": "What is the overall design aesthetic of this phone case's printed image?",
-        "answer": "Romantic"
+        "question": "What floral element is shown alongside the pink heart on the phone case's print?",
+        "answer": "Rose"
       },
       {
-        "question": "What appears to be the texture of the small burlap-like object?",
-        "answer": "Rough"
+        "question": "What color is the rose depicted in the image on the phone case?",
+        "answer": "Pink"
       },
       {
-        "question": "What shape best describes the main camera lens opening on the phone?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What color is the background pattern visible beneath the printed design?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What kind of button is present on the pink heart-shaped element?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "What is the apparent texture of the printed rose on the phone case?",
+        "question": "What appears to be the texture of the larger heart displayed on the mobile phone case's graphic?",
         "answer": "Soft"
       },
       {
-        "question": "What is the shape of the overall phone case itself?",
-        "answer": "Rectangular"
+        "question": "What is the apparent material of the background depicted underneath the design elements on the phone cover?",
+        "answer": "Wood"
       },
       {
-        "question": "What appears to be the material of the phone case itself?",
+        "question": "What shape is the camera hole visible through the phone case's design?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What small object is sewn onto the pink heart element on the phone case?",
+        "answer": "Button"
+      },
+      {
+        "question": "What seems to be the overall aesthetic style of the design on the phone case?",
+        "answer": "Romantic"
+      },
+      {
+        "question": "What is the apparent color of the small piece of paper visible near the rose and heart?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall form factor of the item shown in the image?",
+        "answer": "Case"
+      },
+      {
+        "question": "Considering the image, what seems to be the intended purpose of the item shown?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What seems to be the primary material of the phone case itself (not the design)?",
         "answer": "Plastic"
-      },
-      {
-        "question": "What is the color of the stem of the rose depicted on the phone case?",
-        "answer": "Green"
       }
     ]
   }

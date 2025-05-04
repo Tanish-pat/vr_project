@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the primary item depicted?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the dominant color of the packaging or item shown?",
+        "question": "What is the primary color of the depicted item?",
         "answer": "White"
       },
       {
-        "question": "What material appears to constitute the main product packaging?",
+        "question": "What is the overall shape of the visible object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the product's surface?",
         "answer": "Paper"
       },
       {
-        "question": "What is the primary text displayed prominently on the item's surface?",
-        "answer": "AmazonBasics"
-      },
-      {
-        "question": "What prominent graphic logo is visible on the packaging, indicating brand or certification?",
+        "question": "Considering the visible text, what brand is prominently displayed?",
         "answer": "Amazon"
       },
       {
-        "question": "What descriptive term is used to characterize the product's functionality as indicated on the packaging?",
+        "question": "What specific product category does the text suggest this item belongs to?",
         "answer": "Screen"
       },
       {
-        "question": "What specific gaming console is mentioned in relation to this item's compatibility?",
+        "question": "Does the image display any certifications or seals of approval?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of text dominates the majority of the object's surface?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What is the visible texture of the product\u2019s surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any indication of a barcode present on the item?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent condition of the product displayed in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Are there any noticeable logos on the item besides the brand name?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the dominant style of the text layout on the item?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What language(s) are used in the text printed on the product?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the apparent weight of the object based on its appearance?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the visible text, for what device is the product intended?",
         "answer": "Nintendo"
-      },
-      {
-        "question": "What number model is explicitly named in relation to the product's compatibility?",
-        "answer": "3DS"
-      },
-      {
-        "question": "What type of protective covering is suggested by the product's description?",
-        "answer": "Protector"
-      },
-      {
-        "question": "What term, in a different language, is also used to describe the item's function?",
-        "answer": "Protecteur"
-      },
-      {
-        "question": "What kind of bar code or identifier appears on the presented packaging?",
-        "answer": "Barcode"
-      },
-      {
-        "question": "What is visible on the lower portion of the shown packaging besides the barcode?",
-        "answer": "Numbers"
-      },
-      {
-        "question": "What appears to be the printing style or quality of the text on the paper?",
-        "answer": "Standard"
-      },
-      {
-        "question": "What is the quality of the paper or material shown in the image?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What additional graphic element, circular in shape, indicates certification or approval?",
-        "answer": "Seal"
       }
     ]
   }

@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the depicted landscape on the phone case?",
+        "question": "What is the dominant color scheme of the depicted landscape on the phone case?",
         "answer": "Green"
       },
       {
-        "question": "What is the apparent material of this protective mobile phone covering?",
+        "question": "What is the primary material apparent from the phone case's visual texture?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the overall shape of this phone case?",
+        "question": "What is the overall shape of the item shown encompassing the phone's design?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of structures are prominently featured in the pastoral scene?",
+        "question": "Considering the photographic print, what type of environment does the imagery depict?",
+        "answer": "Rural"
+      },
+      {
+        "question": "What is the main architectural feature prominently displayed in the scenery?",
         "answer": "Houses"
       },
       {
-        "question": "Based on visual inspection, what is the primary color of the field?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "What is the visual texture of the depicted field, suggesting its composition?",
-        "answer": "Striped"
-      },
-      {
-        "question": "What type of geographical features are shown in the background?",
-        "answer": "Mountains"
-      },
-      {
-        "question": "What appears to be the main subject of the pastoral scene printed on the case?",
-        "answer": "Landscape"
-      },
-      {
-        "question": "What color are the houses depicted in the idyllic countryside scene?",
+        "question": "What color are the two smaller structures situated in the central field?",
         "answer": "Brown"
       },
       {
-        "question": "Judging from the image, what is the print style of the phone case design?",
-        "answer": "Photographic"
+        "question": "Describe the color of the expansive field stretching across the image's center.",
+        "answer": "Yellow"
       },
       {
-        "question": "What seems to be the finish of the depicted phone case's surface?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What can be seen on the sides of the phone case in relation to the main image?",
-        "answer": "Repeats"
-      },
-      {
-        "question": "Describe the appearance of the vegetation bordering the field in the picture.",
+        "question": "What type of landscape feature is visually apparent immediately behind the houses?",
         "answer": "Trees"
       },
       {
-        "question": "Does the phone case image include any noticeable artificial structures?",
-        "answer": "Pole"
+        "question": "What is the general color tone of the mountains subtly visible in the background?",
+        "answer": "Green"
       },
       {
-        "question": "What kind of image is printed on the phone case to enhance its appearance?",
+        "question": "What is the pattern visible in the bottom section of the landscape photograph?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Considering the image, what appears to be running through the landscape?",
+        "answer": "Road"
+      },
+      {
+        "question": "Based on the visuals, what type of structure is visible in the background landscape?",
+        "answer": "Poles"
+      },
+      {
+        "question": "What is the apparent surface finish of the phone case, considering its visual aspects?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the phone case's structure, how many sides are visibly printed?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the primary subject matter of the phone case's printed design?",
         "answer": "Scenery"
       }
     ]

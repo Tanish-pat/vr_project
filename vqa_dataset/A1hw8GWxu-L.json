@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4ca5fdac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rug's central pattern?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the color of the rug's border pattern?",
+        "answer": "White"
+      },
+      {
+        "question": "What geometric shape is repeated most prominently in the rug's main field?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "Describe the overall shape of the rug itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of pattern defines the rug's outer border?",
+        "answer": "Zigzag"
+      },
+      {
+        "question": "What is the apparent texture of the rug's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What additional pattern is visible within the diamond pattern?",
+        "answer": "Star"
+      },
+      {
+        "question": "What appears to be the material used in creating this rug?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What kind of design style could best describe this rug?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "How many distinct patterned bands surround the central design of the rug?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the overall visual impression of this rug's design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Is the rug's color consistent across its entire surface, or is there significant variation?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the general level of detail observed in this rug's pattern?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall tonality of the colors used in the rug?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What type of geometric design comprises the inner border of this rug?",
+        "answer": "Triangles"
+      }
+    ]
+  }
+]

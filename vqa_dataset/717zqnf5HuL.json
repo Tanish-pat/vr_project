@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/eb4126c6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the handles on the wire strippers?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material appears to constitute the cutting jaws of the tool?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall shape of the wire stripping pliers?",
+        "answer": "Pliers"
+      },
+      {
+        "question": "Considering the markings, what is one task the tool is designed for?",
+        "answer": "Cutting"
+      },
+      {
+        "question": "What is the color of the main body of the wire strippers?",
+        "answer": "Black"
+      },
+      {
+        "question": "What protective measure does a label on the tool suggest?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What secondary color is visible on the handles?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of material is indicated on the tool's markings?",
+        "answer": "Copper"
+      },
+      {
+        "question": "What is visible on the surface of the cutting jaws?",
+        "answer": "Teeth"
+      },
+      {
+        "question": "Based on the visible markings, what is one safety precaution?",
+        "answer": "Warning"
+      },
+      {
+        "question": "What is the apparent texture of the handles?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the shape of the cutting blades?",
+        "answer": "Pointed"
+      },
+      {
+        "question": "What seems to be the primary function of these pliers?",
+        "answer": "Stripping"
+      },
+      {
+        "question": "What design element is near the pivot point?",
+        "answer": "Loop"
+      },
+      {
+        "question": "What is written on the tool to caution the user?",
+        "answer": "Warning"
+      }
+    ]
+  }
+]

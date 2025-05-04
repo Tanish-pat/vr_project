@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the fitted sheet's visible portion?",
+        "question": "What is the predominant color of the fitted sheet's main body?",
         "answer": "Gray"
       },
       {
-        "question": "What material appears to be used for the fitted sheet's construction?",
+        "question": "What is the color of the fitted sheet's elastic band?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the material of the fitted sheet?",
         "answer": "Cotton"
       },
       {
-        "question": "What is the primary shape of the visible section of the product?",
+        "question": "What is the primary shape of the visible portion of the sheet?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the texture of the sheet's visible surface area.",
+        "question": "Describe the texture of the visible fitted sheet fabric.",
         "answer": "Smooth"
       },
       {
-        "question": "What type of fastener is visibly used to secure the fitted sheet?",
+        "question": "What type of fastening mechanism is used for the sheet?",
         "answer": "Ties"
       },
       {
-        "question": "What color are the corner ties of the fitted sheet?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What is the apparent depth or thickness of the fitted sheet's fabric?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Does the sheet have a visible pattern or design?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the overall style of the fitted sheet?",
-        "answer": "Plain"
-      },
-      {
-        "question": "How many visible corner ties does the sheet possess?",
+        "question": "How many visible corner ties are present on the sheet?",
         "answer": "Two"
       },
       {
-        "question": "What is the visible stitching of the fitted sheet like?",
-        "answer": "Neat"
+        "question": "What is the apparent depth of the visible elastic band?",
+        "answer": "Shallow"
       },
       {
-        "question": "Based solely on the image, what is the sheet\u2019s likely purpose?",
-        "answer": "Sleeping"
+        "question": "What design element is observed near the bottom edge of the sheet?",
+        "answer": "Stitching"
       },
       {
-        "question": "What is the overall condition of the shown portion of the sheet?",
+        "question": "What is the overall style of the fitted sheet?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent condition of the sheet?",
         "answer": "New"
       },
       {
-        "question": "What is the finish of the fitted sheet\u2019s visible fabric?",
-        "answer": "Matte"
+        "question": "What is the main function of this textile item?",
+        "answer": "Covering"
       },
       {
-        "question": "Does the image show any visible damage to the sheet?",
+        "question": "Does the sheet feature any visible patterns?",
         "answer": "No"
+      },
+      {
+        "question": "What is the visual prominence of the corner ties?",
+        "answer": "Visible"
+      },
+      {
+        "question": "What is the apparent quality level of the fitted sheet?",
+        "answer": "Good"
       }
     ]
   }

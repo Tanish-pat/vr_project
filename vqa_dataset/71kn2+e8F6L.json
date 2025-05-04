@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01639a27.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the container's shape?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the predominant color of the bottle's main body?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to be used for the bottle's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the cap's texture, what word best applies?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the plastic bottle?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the label's design, what is the bottle's purpose suggested?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "What color is the small rectangular area at the bottom-left of the label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Judging from the visible text, which brand is identified?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What is the most prominent text color on the label aside from the brand name?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding the brand name, what is the most prominent word on the label?",
+        "answer": "Cleaner"
+      },
+      {
+        "question": "What is the shape of the graphics visible on the front of the bottle?",
+        "answer": "Leaf"
+      },
+      {
+        "question": "What is the color of the graphic printed near the top of the bottle label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the label's text, what is implied as an ingredient?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "What is the general style of the label design, minimal or complex?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the type of closure on top of the bottle?",
+        "answer": "Cap"
+      }
+    ]
+  }
+]

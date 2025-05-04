@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's design?",
+        "question": "What is the predominant color scheme visually dominating the phone case's design?",
         "answer": "Blue"
       },
       {
-        "question": "What kind of abstract pattern adorns the phone case's surface?",
+        "question": "Considering the visual texture, what material effect does the print emulate?",
         "answer": "Marble"
       },
       {
-        "question": "Considering the color and pattern, what is the overall aesthetic of the phone case?",
+        "question": "Describe the overall visual pattern or style of the design printed on the case?",
         "answer": "Abstract"
       },
       {
-        "question": "Describe the texture implied by the design of the phone case?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What secondary color prominently features in the case's design, contrasting with the blue?",
-        "answer": "Orange"
-      },
-      {
-        "question": "What appears to be the material of this phone case based solely on the image?",
+        "question": "Based on the image, what seems to be the primary material of this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What shape precisely describes the phone case's overall form factor?",
+        "question": "What is the shape of the phone case, based purely on its visual appearance?",
         "answer": "Rectangular"
       },
       {
-        "question": "Does the phone case appear to have any visible buttons or ports?",
+        "question": "What secondary color is prominently featured alongside the blue in the design?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Does the case design include any clearly discernible geometric shapes?",
         "answer": "No"
       },
       {
-        "question": "What is the general style of the print on the phone case?",
-        "answer": "Streaky"
+        "question": "Considering the colors and texture, what feeling does the phone case visually evoke?",
+        "answer": "Modern"
       },
       {
-        "question": "Based on the visual appearance, how would you describe the design's level of detail?",
-        "answer": "High"
-      },
-      {
-        "question": "Judging from the image, what is the finish of the phone case's surface?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "Considering the visual cues, is the design symmetrical or asymmetrical?",
+        "question": "Is the design of this case symmetrical or asymmetrical in terms of its visual elements?",
         "answer": "Asymmetrical"
       },
       {
-        "question": "What is the apparent thickness of the phone case, relative to a typical phone?",
-        "answer": "Thin"
+        "question": "Are there any visible logos or branding elements on the phone case itself?",
+        "answer": "No"
       },
       {
-        "question": "What is the main visual element creating the design of the phone case?",
-        "answer": "Lines"
+        "question": "Describe the visual appearance of the edges of the phone case in the image provided?",
+        "answer": "Smooth"
       },
       {
-        "question": "How many distinct color areas are prominently visible in the design?",
-        "answer": "Three"
+        "question": "What is the overall visual impression regarding the case's finish, glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Focusing solely on the image, what level of detail is visible in the design print?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the general visual style of the abstract design: naturalistic or geometric?",
+        "answer": "Naturalistic"
+      },
+      {
+        "question": "Considering the color saturation, how would you describe the vibrancy of the design?",
+        "answer": "High"
       }
     ]
   }

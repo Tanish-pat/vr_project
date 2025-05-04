@@ -13,56 +13,56 @@
         "answer": "HelloKitty"
       },
       {
-        "question": "What is the overall shape of the protective phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What material appears to constitute the phone case's frame?",
+        "question": "What is the apparent material of the phone case's outer layer?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the apparent texture of the printed design on the case?",
-        "answer": "Smooth"
+        "question": "What shape best describes the overall form of the phone case?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Describe the pattern style of the images on the phone case.",
-        "answer": "Repeating"
-      },
-      {
-        "question": "What color are the bows on the cartoon cats?",
-        "answer": "Pink"
-      },
-      {
-        "question": "What other cartoon animal is present in the case's design?",
-        "answer": "Bear"
-      },
-      {
-        "question": "What is the color of the phone case's border?",
+        "question": "What color is the phone case's border or frame?",
         "answer": "Black"
       },
       {
-        "question": "Is the background of the phone case's design solid or patterned?",
-        "answer": "Patterned"
+        "question": "Describe the texture of the printed design on the case.",
+        "answer": "Smooth"
       },
       {
-        "question": "What kind of finish does the phone case's surface appear to have?",
-        "answer": "Glossy"
+        "question": "What additional cartoon character appears alongside Hello Kitty?",
+        "answer": "Bear"
       },
       {
-        "question": "Describe the visual style of the cartoon characters on the case.",
+        "question": "What is the style of the illustrated characters on the case?",
         "answer": "Cute"
       },
       {
-        "question": "How many vertically-oriented camera cutouts are visible?",
-        "answer": "One"
+        "question": "Considering the camera cutout, what phone type is this case for?",
+        "answer": "Smartphone"
       },
       {
-        "question": "What is the apparent thickness of the phone case's edge?",
-        "answer": "Thin"
+        "question": "What is the general design pattern of the phone case artwork?",
+        "answer": "Repeated"
       },
       {
-        "question": "Does the case appear to fully encase the phone's edges?",
-        "answer": "Yes"
+        "question": "What is the visual appearance of the Hello Kitty bow?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What small details are scattered across the pink background?",
+        "answer": "Dots"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's black border?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Describe the expression on the faces of the Hello Kitty figures.",
+        "answer": "Smiling"
+      },
+      {
+        "question": "What is the color of the small bears featured on the case?",
+        "answer": "Brown"
       }
     ]
   }

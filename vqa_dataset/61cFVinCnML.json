@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/76/76f2abda.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the packaging's background?",
+        "answer": "White"
+      },
+      {
+        "question": "What fruit is prominently featured on the packaging's bottom-left?",
+        "answer": "Peach"
+      },
+      {
+        "question": "What is the main beverage depicted on the packaging?",
+        "answer": "Tea"
+      },
+      {
+        "question": "What word describes the tea's flavor profile, as indicated on the box?",
+        "answer": "Peach"
+      },
+      {
+        "question": "What is the primary text on the box's central part, describing the product?",
+        "answer": "Mix"
+      },
+      {
+        "question": "What is the shape of the primary packaging for the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall color of the prepared drink pictured on the box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the brand name clearly visible on the packaging?",
+        "answer": "Happy"
+      },
+      {
+        "question": "What is the descriptor given to the tea's sugar content, according to the box?",
+        "answer": "Free"
+      },
+      {
+        "question": "What adjective describes the calorie level of this drink mix, based on the packaging?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is depicted on the packaging suggesting the beverage's preparation?",
+        "answer": "Ice"
+      },
+      {
+        "question": "What is the packaging material predominantly made of, judging by its appearance?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the form of the peach image on the lower left, in terms of its shape and presentation?",
+        "answer": "Slices"
+      },
+      {
+        "question": "What is the overall style of the packaging design, considering typography and imagery?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the text indicating the product category, printed clearly on the box?",
+        "answer": "Drink"
+      }
+    ]
+  }
+]

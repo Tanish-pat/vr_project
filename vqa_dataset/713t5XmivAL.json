@@ -9,60 +9,60 @@
         "answer": "Gray"
       },
       {
-        "question": "What primary material appears to constitute the construction of each baking pan?",
+        "question": "What appears to be the primary material used in the construction of these baking pans?",
         "answer": "Metal"
       },
       {
-        "question": "Considering the shapes, what is the overall geometric configuration of the rectangular baking pan?",
+        "question": "Considering the shapes, what is the most numerous type of pan depicted in this image?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent finish or surface texture on each of the depicted baking tins?",
+        "question": "Judging by the image, what is the overall surface texture of these baking pans?",
         "answer": "Smooth"
       },
       {
-        "question": "Regarding the muffin tin, how many individual muffin cups does it contain?",
+        "question": "Based on the image, how many individual muffin tins are there in the set?",
         "answer": "Twelve"
       },
       {
-        "question": "What is the most common shape among the presented set of baking pans?",
+        "question": "What is the apparent shape of the two larger, similarly sized pans shown?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the general shape of the larger, round baking pan shown to the left?",
+        "question": "Considering the image, what is the general shape of the round baking pan visible?",
         "answer": "Circular"
       },
       {
-        "question": "Based on visual inspection, what is the apparent depth of the loaf pan?",
-        "answer": "Deep"
+        "question": "What seems to be the apparent function of the smaller, circular pans in the image?",
+        "answer": "Baking"
       },
       {
-        "question": "Considering the handles, what kind of handle style is visible on the round baking pan?",
-        "answer": "Curved"
+        "question": "Judging only by the image, what is the apparent shape of the loaf pan shown?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the general appearance of the surface of the baking pans; are they glossy or matte?",
+        "question": "From what is visible, what is the apparent finish of these baking pans?",
         "answer": "Matte"
       },
       {
-        "question": "What seems to be the intended function of the smaller, round baking dish?",
-        "answer": "Cake"
+        "question": "What design feature, if any, is visible on at least one of the larger pans shown?",
+        "answer": "Handles"
       },
       {
-        "question": "Considering the size, how would you best describe the capacity of the rectangular pans?",
-        "answer": "Large"
+        "question": "Based on their visual appearance, what is the likely intended use for these pans?",
+        "answer": "Baking"
       },
       {
-        "question": "Based solely on the visual characteristics, what is the apparent weight of the baking pans?",
-        "answer": "Heavy"
+        "question": "What seems to be the apparent depth of the loaf pan shown compared to other pans?",
+        "answer": "Deep"
       },
       {
-        "question": "Regarding the muffin tin's design, what is the arrangement of the individual muffin cups?",
-        "answer": "Grid"
+        "question": "What is the most obvious visual difference between the muffin tin and other pans?",
+        "answer": "Cups"
       },
       {
-        "question": "What is the overall visual impression of the set of baking pans; simple or ornate?",
-        "answer": "Simple"
+        "question": "Considering the image, what is the overall visual impression given by this set of baking pans?",
+        "answer": "Uniform"
       }
     ]
   }

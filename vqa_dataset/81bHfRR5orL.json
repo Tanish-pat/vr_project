@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the depicted hard-shell suitcase?",
+        "question": "What is the predominant color of the suitcase's exterior?",
         "answer": "Black"
       },
       {
-        "question": "What is the primary material composing the exterior shell of this luggage?",
+        "question": "What appears to be the primary material composing the suitcase's shell?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the overall shape, what geometric form best describes this piece of luggage?",
+        "question": "Considering the image, what is the overall shape of this travel case?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many inline wheels are visibly present underneath this rolling suitcase?",
+        "question": "Based on the visible wheels, how many wheels does the suitcase possess?",
         "answer": "Four"
       },
       {
-        "question": "Describe the visible texture of the suitcase's outer shell, considering its reflective properties?",
+        "question": "What type of wheels are affixed to the bottom of this suitcase?",
+        "answer": "Spinner"
+      },
+      {
+        "question": "Does the suitcase's exterior show any noticeable texture; rough or smooth?",
         "answer": "Smooth"
       },
       {
-        "question": "What type of handle is present on the exterior, considering its positioning and design?",
+        "question": "Observing the handle, what is its apparent orientation relative to the case?",
         "answer": "Recessed"
       },
       {
-        "question": "What is the apparent finish of the outer shell, based on its visual reflective quality?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "Based on the image, what type of closure mechanism does the main compartment seem to utilize?",
+        "question": "What kind of locking mechanism is visibly present on this piece of luggage?",
         "answer": "Zipper"
       },
       {
-        "question": "Considering the wheel placement, what type of suitcase is this (upright/rolling)?",
-        "answer": "Rolling"
-      },
-      {
-        "question": "What is the apparent design style of this suitcase \u2013 is it minimalist or ornate?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Focusing on the wheels, what material are the visible wheel hubs constructed from?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Based on the image, does the suitcase appear to have any noticeable external branding or logos?",
+        "question": "Judging from the image, are there any external pockets or compartments?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent rigidity of the outer shell based on the visual evidence?",
-        "answer": "Rigid"
+        "question": "What design feature is noticeable along the suitcase's sides and top?",
+        "answer": "Curved"
       },
       {
-        "question": "Describing the overall size, is this suitcase a carry-on, check-in or other?",
-        "answer": "Check-in"
+        "question": "From what you observe, what is the apparent size relative to typical suitcases?",
+        "answer": "Medium"
       },
       {
-        "question": "Considering its features, what is the likely intended use for this item?",
-        "answer": "Travel"
+        "question": "Are there any visible brand logos or markings on this suitcase's body?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the appearance of the wheels; do they seem sturdy or flimsy?",
+        "answer": "Sturdy"
+      },
+      {
+        "question": "Considering the build, does it give the impression of being lightweight or heavy?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What is the apparent condition of the suitcase shown in this picture?",
+        "answer": "New"
       }
     ]
   }

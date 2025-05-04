@@ -5,64 +5,60 @@
   {
     "questions": [
       {
-        "question": "What is the primary substance explicitly mentioned as a component of the product, as indicated by the visible text?",
-        "answer": "Soywax"
-      },
-      {
-        "question": "Based on the visible text, what secondary ingredient is explicitly listed among the product's components?",
-        "answer": "Fragrance"
-      },
-      {
-        "question": "According to the visible text, what additional ingredient is explicitly named as part of this product's composition?",
-        "answer": "Essential"
-      },
-      {
-        "question": "What word precedes the enumerated list of components, providing context to the following information?",
-        "answer": "Ingredients"
-      },
-      {
-        "question": "Observing the textual elements, what is the style of font used to present the product's composition?",
+        "question": "Considering the text's font and style, what is the overall textual appearance?",
         "answer": "Sans-serif"
       },
       {
-        "question": "Considering the text's visual presentation, what is the color of the characters spelling out the ingredient list?",
+        "question": "What is the primary material explicitly stated in the provided text?",
+        "answer": "Soywax"
+      },
+      {
+        "question": "Based on the text, what secondary ingredient is visibly present in this product?",
+        "answer": "Fragrance"
+      },
+      {
+        "question": "According to the label, what is a crucial component used to enhance the aroma?",
+        "answer": "Essential"
+      },
+      {
+        "question": "What word precedes the list of components in the visible text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the formatting style used to separate each ingredient component?",
+        "answer": "Comma"
+      },
+      {
+        "question": "What is the color of the text shown on the provided image?",
         "answer": "Black"
       },
       {
-        "question": "Analyzing the visual elements, describe the background color on which the list of ingredients is displayed.",
+        "question": "What is the apparent background color of the provided image?",
         "answer": "White"
       },
       {
-        "question": "Based on the visual arrangement, what can be observed about the alignment of the text detailing the ingredients?",
-        "answer": "Left"
+        "question": "Considering the image's overall arrangement, what is the type of text shown?",
+        "answer": "Label"
       },
       {
-        "question": "Considering the size and spacing, what is the general appearance of the text regarding ingredients?",
-        "answer": "Uniform"
+        "question": "What is the general tone and feel of the text in the given image?",
+        "answer": "Informative"
       },
       {
-        "question": "In terms of its visual presentation, how would you describe the overall case of the text showing ingredients?",
-        "answer": "Uppercase"
+        "question": "Regarding the text\u2019s arrangement, what is the text\u2019s orientation on the label?",
+        "answer": "Horizontal"
       },
       {
-        "question": "Judging by visual aspects, what can be said about the text's readability with respect to clarity?",
-        "answer": "Clear"
+        "question": "What word directly follows the term 'soy' within the text?",
+        "answer": "Wax"
       },
       {
-        "question": "Looking at the visual characteristics, what is the approximate font size of the text displaying the ingredients?",
-        "answer": "Small"
+        "question": "Describe the capitalization of the text, using only one word",
+        "answer": "Title-case"
       },
       {
-        "question": "From visual observation, is there noticeable kerning in the letters of the ingredient list?",
-        "answer": "No"
-      },
-      {
-        "question": "Based solely on visual analysis, what is the apparent overall length of this ingredient label?",
-        "answer": "Long"
-      },
-      {
-        "question": "Analyzing visual elements, how would you describe the general texture of the surface displaying the text?",
-        "answer": "Smooth"
+        "question": "What font weight is used for the text displayed in this image?",
+        "answer": "Bold"
       }
     ]
   }

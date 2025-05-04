@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/de/def7c672.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and structure, what is the dominant shape of this footwear?",
+        "answer": "Oxfords"
+      },
+      {
+        "question": "What is the primary color of the leather material that makes up the majority of this shoe?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Observing the lacing pattern closely, what type of closure system is used on this shoe?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What seems to be the texture of the outer material covering the shoe, based on the visual details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the appearance of the shoe's material, what does it appear to be made of, judging by the visual clues provided?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the construction of the toe cap, what style of cap does this particular shoe exhibit?",
+        "answer": "Cap-toe"
+      },
+      {
+        "question": "Based on the visual evidence provided, what seems to be the finish of the shoe's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Examining the interior of the shoe, what seems to be the material of the insole, based on the image?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Looking at the sole of the shoe, what seems to be the material of its construction, judging from the image?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Considering the details of the stitching, what is the primary color of the stitching visible on the shoe?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What seems to be the style of the heel of this particular shoe, as shown in the provided image?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Considering the overall style, what is the design aesthetic of this shoe, based on its visual presentation?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Examining the branding inside the shoe, what word is visible inside the shoe (if any)?",
+        "answer": "Tog24"
+      },
+      {
+        "question": "What is the apparent overall condition of this product, as shown in the provided image?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the image, what is the visible design element at the top of the shoe?",
+        "answer": "Eyelets"
+      }
+    ]
+  }
+]

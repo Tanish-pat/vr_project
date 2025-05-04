@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a459f21a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the shoe's primary shape as seen from the bottom?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the dominant color of the shoe's visible outsole, as clearly shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the texture of the outer sole's visible surface, based on the image's details?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Focusing on the heel area, what design feature is prominent on the outer sole?",
+        "answer": "Ridged"
+      },
+      {
+        "question": "What is the apparent material of the larger portion of the visible shoe?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What color is the visible portion of the upper, contrasting with the sole?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Looking at the insole's visual pattern, what term best describes the design?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall impression of the shoe's visual weight and build?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Based on the image, what is the apparent design aesthetic of the shoe?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Observing the sole's edge, what is the design of the outer perimeter?",
+        "answer": "Wavy"
+      },
+      {
+        "question": "What kind of material appears to compose the darker upper portion of the shoe?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by the image, what is the apparent flexibility of the shoe's sole?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Describe the visible pattern in the midsole's region along the outer edge.",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the general condition of the shoe shown, based purely on visual observation?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent style of this footwear based on its visible design elements?",
+        "answer": "Casual"
+      }
+    ]
+  }
+]

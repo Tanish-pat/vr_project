@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form and arrangement, what is the predominant shape of the presented group of carrots?",
-        "answer": "Bunch"
+        "question": "Considering the overall form and arrangement, what is the dominant geometrical attribute of this produce package?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the most apparent color displayed by the majority of carrots within the packaging?",
+        "question": "Disregarding any labels, what is the most prominent hue observed across the entirety of the visible produce?",
         "answer": "Orange"
       },
       {
-        "question": "Based on visual inspection, what appears to be the primary material comprising the majority of the product shown?",
+        "question": "Focusing solely on the visible produce, what is the most apparent textural quality of the product's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible produce items individually, what is the general shape of each unit shown in the package?",
+        "answer": "Conical"
+      },
+      {
+        "question": "Based on visual characteristics alone, what appears to be the primary material composing the majority of this item's contents?",
         "answer": "Vegetable"
       },
       {
-        "question": "Judging by the image, what is the texture of the outer surface of a single carrot within the bundle?",
-        "answer": "Rough"
-      },
-      {
-        "question": "Considering the visible carrots, what is the general size or length of an individual carrot?",
-        "answer": "Long"
-      },
-      {
-        "question": "What type of packaging is visibly used to contain and enclose the group of carrots?",
+        "question": "What kind of packaging material is predominantly used to enclose and protect the item's contents?",
         "answer": "Plastic"
       },
       {
-        "question": "Observing the carrots' ends, what kind of shape characterizes their tapering ends?",
-        "answer": "Pointed"
+        "question": "Considering the packaging design, can you determine the most visible type of information provided on the primary label?",
+        "answer": "Text"
       },
       {
-        "question": "Regarding the visible carrots, what seems to be the overall consistency or firmness of their structure?",
-        "answer": "Firm"
+        "question": "In reference to the produce's form, describe the typical orientation of the items within their packaging.",
+        "answer": "Vertical"
       },
       {
-        "question": "From visual analysis, is there any noticeable presence of green tops or leaves accompanying the carrots?",
-        "answer": "No"
-      },
-      {
-        "question": "What seems to be the approximate number of individual carrots bundled together in the presented packaging?",
-        "answer": "Six"
-      },
-      {
-        "question": "What is the visible state or condition of the carrots in terms of freshness or ripeness?",
+        "question": "Considering the visual information available, what is the apparent condition of the produce (fresh, wilted, etc.)?",
         "answer": "Fresh"
       },
       {
-        "question": "Based solely on the image, what is the apparent level of moisture content or wetness evident on the outer surfaces of the carrots?",
-        "answer": "Dry"
+        "question": "What is the dominant color of the main label affixed to the exterior of this product's packaging?",
+        "answer": "Beige"
       },
       {
-        "question": "What type of light reflection is noticeable from the carrots' surface, indicating its surface characteristics?",
-        "answer": "Glossy"
+        "question": "Judging from the image, what appears to be the approximate quantity of produce items enclosed within the packaging?",
+        "answer": "Five"
       },
       {
-        "question": "From visual inspection, are there any visible signs of damage, blemishes, or imperfections on the carrots?",
+        "question": "Regarding the item's contents, describe the visual consistency of these similar objects within their packaging.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Describe the clarity of the plastic packaging showing the produce items contained inside.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the produce items, does their surface display any notable blemishes or imperfections?",
         "answer": "No"
       },
       {
-        "question": "By looking at the image, what could be the implied intended use for the product presented?",
-        "answer": "Eating"
+        "question": "Considering the packaging, are there any noticeable perforations or openings designed for easy access or ventilation?",
+        "answer": "No"
       }
     ]
   }

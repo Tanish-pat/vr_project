@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the spice inside the container?",
+        "question": "What is the dominant color of the spice contained within the jar?",
         "answer": "Beige"
       },
       {
-        "question": "What is the primary material composing the container itself?",
+        "question": "What is the primary material composing the spice jar itself?",
         "answer": "Plastic"
       },
       {
-        "question": "What shape best describes the overall form of the product container?",
-        "answer": "Cylinder"
+        "question": "What is the shape of the spice jar's overall structure?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "What color is the cap or lid affixed to the top of the container?",
+        "question": "What is the color of the cap or lid affixed to the spice jar?",
         "answer": "Black"
       },
       {
-        "question": "Considering the texture, how would you describe the spice's visual appearance?",
+        "question": "What is the texture of the spice visible through the jar?",
         "answer": "Granular"
       },
       {
-        "question": "What is the design or style of the label affixed to the container?",
+        "question": "What is the overall design style of the spice jar's label?",
         "answer": "Minimalist"
       },
       {
-        "question": "Is the label predominantly white with black text?",
-        "answer": "Yes"
+        "question": "What is the printing technique used for the text on the jar?",
+        "answer": "Offset"
       },
       {
-        "question": "What kind of print is used on the label (e.g., text, images)?",
-        "answer": "Text"
+        "question": "What is the primary color of the label on the spice jar?",
+        "answer": "White"
       },
       {
-        "question": "Does the container appear transparent or opaque?",
-        "answer": "Transparent"
+        "question": "What kind of packaging is used for the product presentation?",
+        "answer": "Jar"
       },
       {
-        "question": "What is the approximate overall height of the product container?",
-        "answer": "Small"
+        "question": "What type of closure mechanism does the spice jar employ?",
+        "answer": "Screw-top"
       },
       {
-        "question": "What is the shape of the container's cap?",
+        "question": "What is the shape of the jar's cap or lid?",
         "answer": "Circular"
       },
       {
-        "question": "What is the primary function of this product as depicted in the image?",
-        "answer": "Seasoning"
+        "question": "What is the general condition of the product's presentation?",
+        "answer": "Sealed"
       },
       {
-        "question": "Describe the visibility of the spice inside the container.",
+        "question": "What is the material of the jar's cap or lid?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Can you describe the visibility of the spice within the jar?",
         "answer": "Visible"
       },
       {
-        "question": "Can you describe the text font style found on the label?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "What type of barcode is shown on the container?",
-        "answer": "Barcode"
+        "question": "What appears to be the state of the contents inside the container?",
+        "answer": "Powdery"
       }
     ]
   }

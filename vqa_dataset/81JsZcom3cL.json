@@ -9,60 +9,60 @@
         "answer": "Multicolored"
       },
       {
-        "question": "What artistic style is predominantly depicted on the phone case?",
+        "question": "What artistic style is predominantly featured on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "What appears to be the primary material used for this phone case?",
-        "answer": "Plastic"
+        "question": "What kind of paint strokes characterize the case's design?",
+        "answer": "Impasto"
       },
       {
-        "question": "What is the overall shape of this protective phone covering?",
+        "question": "What is the overall shape of the protective mobile case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the texture implied by the paint strokes on the case?",
-        "answer": "Rough"
-      },
-      {
-        "question": "Considering the image, what is the design's overall feel?",
-        "answer": "Painterly"
-      },
-      {
-        "question": "What kind of image is printed on the phone case's surface?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "Based on the image, what colors are most prominent in the design?",
-        "answer": "Red,Yellow,Blue"
-      },
-      {
-        "question": "What is the apparent finish of the phone case's surface?",
+        "question": "Considering the visible texture, what is the apparent surface finish?",
         "answer": "Matte"
       },
       {
-        "question": "Does the case show any noticeable camera cutouts?",
-        "answer": "Yes"
+        "question": "What material appears to be used for this phone cover?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the design's primary visual element?",
-        "answer": "Brushstrokes"
+        "question": "Describe the visual consistency of the color application on the case.",
+        "answer": "Uneven"
       },
       {
-        "question": "Does the case appear to be hard or soft?",
-        "answer": "Hard"
+        "question": "What is the main visual theme depicted on the phone case's surface?",
+        "answer": "Paint"
       },
       {
-        "question": "How many sides of the phone case are shown in the image?",
-        "answer": "Three"
+        "question": "How many distinct color blocks are prominently visible on the phone cover?",
+        "answer": "Four"
       },
       {
-        "question": "What is the form factor of the phone case shown?",
-        "answer": "Slim"
+        "question": "What is the apparent level of detail in the printed design of the phone case?",
+        "answer": "High"
       },
       {
-        "question": "Is the image on the phone case symmetrical?",
-        "answer": "No"
+        "question": "What is the general impression created by the colors used in the design?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "What is the primary color of the bottom section of the phone case's design?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary color of the central section of the phone case?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the function of this product as visually apparent?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What kind of smartphone model does the case appear to fit?",
+        "answer": "Unknown"
       }
     ]
   }

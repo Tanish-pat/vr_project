@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the cereal pieces visible in the bowl?",
+        "question": "What is the predominant color of the cereal visible in the bowl?",
         "answer": "Brown"
       },
       {
-        "question": "What kind of nuts are prominently displayed mixed within the cereal?",
+        "question": "What kind of nuts are visibly scattered throughout the cereal?",
         "answer": "Almonds"
       },
       {
-        "question": "Considering the overall texture, what best describes the cereal's visual consistency?",
+        "question": "What is the apparent texture of the cereal flakes shown in the image?",
         "answer": "Crunchy"
       },
       {
-        "question": "What is the apparent shape of the individual cereal pieces?",
-        "answer": "Irregular"
-      },
-      {
-        "question": "What material is the bowl primarily composed of, judging by its appearance?",
-        "answer": "Ceramic"
-      },
-      {
-        "question": "What color is the bowl holding the cereal and yogurt mixture?",
-        "answer": "White"
-      },
-      {
-        "question": "Disregarding the yogurt, what is the overall color profile of the cereal itself?",
-        "answer": "Light"
-      },
-      {
-        "question": "Based on visual observation, what is the apparent texture of the cereal?",
-        "answer": "Rough"
-      },
-      {
-        "question": "Considering the visible ingredients, what ingredient appears to be least prevalent?",
-        "answer": "Raisins"
-      },
-      {
-        "question": "What food item is visible underneath the cereal in the bowl?",
-        "answer": "Yogurt"
-      },
-      {
-        "question": "What is the shape of the bowl containing the breakfast mixture?",
+        "question": "What type of bowl is the cereal served in, based on its visible shape?",
         "answer": "Round"
       },
       {
-        "question": "Describe the general visual pattern of the cereal pieces in the bowl.",
-        "answer": "Clustered"
+        "question": "What is the apparent material of the bowl holding the cereal mixture?",
+        "answer": "Ceramic"
       },
       {
-        "question": "What is the general surface finish or quality of the bowl?",
-        "answer": "Smooth"
+        "question": "What dairy product is partially visible under the cereal in the bowl?",
+        "answer": "Yogurt"
       },
       {
-        "question": "What pattern is visible on the fabric placed behind the bowl?",
+        "question": "Considering the visible ingredients, what is one descriptive characteristic of the cereal's appearance?",
+        "answer": "Oaty"
+      },
+      {
+        "question": "What is the overall shape of the individual cereal pieces presented in the bowl?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the general color of the dairy product visible beneath the cereal?",
+        "answer": "White"
+      },
+      {
+        "question": "Besides nuts, what other ingredient is visually identifiable within the cereal?",
+        "answer": "Raisins"
+      },
+      {
+        "question": "Describe the pattern of the fabric partially visible behind the bowl.",
         "answer": "Checkered"
       },
       {
-        "question": "What color is the prominent fabric element partially shown in the image?",
+        "question": "What is the visible color scheme of the fabric visible in the background?",
         "answer": "Red"
+      },
+      {
+        "question": "What is the primary color used in the product's textual marketing descriptions?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the visible components, what is the overall style of the food presented?",
+        "answer": "Granola"
+      },
+      {
+        "question": "What is the apparent color of the background surface under the bowl?",
+        "answer": "White"
       }
     ]
   }

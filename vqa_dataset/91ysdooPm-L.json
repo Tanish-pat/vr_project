@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the main body of the container?",
+        "question": "What is the primary color of the outer wooden structure of the container?",
         "answer": "White"
       },
       {
-        "question": "What material is predominantly used in the construction of the outer container?",
+        "question": "What material primarily constitutes the visible outer body of this storage container?",
         "answer": "Wood"
       },
       {
-        "question": "What is the overall geometric shape of the presented storage container?",
+        "question": "Describe the overall geometric shape of the presented storage container?",
         "answer": "Square"
       },
       {
-        "question": "Describe the texture of the visible wooden panels on the container.",
-        "answer": "Planked"
-      },
-      {
-        "question": "What type of material is used for the inner lining of the container?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the color of the metal insert visible at the top of the container?",
-        "answer": "Grey"
-      },
-      {
-        "question": "What kind of handles are attached to the sides of the container?",
+        "question": "What material is used for the visible handles attached to the sides of the container?",
         "answer": "Rope"
       },
       {
-        "question": "Describe the color of the rope handles affixed to the container.",
-        "answer": "Brown"
+        "question": "What is the apparent texture of the majority of the outer wooden surface?",
+        "answer": "Woodgrain"
       },
       {
-        "question": "What is the visible texture of the rope handles?",
-        "answer": "Woven"
+        "question": "What seems to be the material of the inner container visible at the top?",
+        "answer": "Metal"
       },
       {
-        "question": "What seems to be the overall finish of the visible wooden exterior?",
-        "answer": "Distressed"
+        "question": "What is the color of the visible metal liner at the top of the container?",
+        "answer": "Silver"
       },
       {
-        "question": "Judging by the appearance, what is the intended use of this item?",
+        "question": "Considering the visible design, what is the likely function of this object?",
         "answer": "Storage"
       },
       {
-        "question": "What is the visible pattern on some sections of the wooden exterior?",
-        "answer": "Striped"
+        "question": "How many rope handles are visibly attached to this container?",
+        "answer": "Two"
       },
       {
-        "question": "What seems to be the orientation of the wooden planks on the container's body?",
+        "question": "Describe the visible pattern on the wood composing the container's sides?",
         "answer": "Vertical"
       },
       {
-        "question": "What is the general style of this container, considering its design elements?",
+        "question": "What is the approximate overall shape of the container's inner liner?",
+        "answer": "Square"
+      },
+      {
+        "question": "Is the color of the wood uniform, or does it display variation?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Considering the visible materials, what is the overall style of the container?",
         "answer": "Rustic"
       },
       {
-        "question": "Considering the size of the handles relative to the container, how would you describe their placement?",
-        "answer": "Lateral"
+        "question": "What is the visible appearance of the wood's finish; is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the general condition of the wood's surface; is it smooth or distressed?",
+        "answer": "Distressed"
       }
     ]
   }

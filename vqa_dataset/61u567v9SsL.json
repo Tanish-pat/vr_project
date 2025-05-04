@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case shown in the image?",
+        "question": "What is the dominant color of the phone case's primary surface?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material composing the phone case?",
+        "question": "What seems to be the primary material of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall shape or form factor of the depicted phone case?",
+        "question": "Considering the phone's edges, what shape best describes it?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the visible design elements, what is the case's style?",
-        "answer": "Sleek"
-      },
-      {
-        "question": "Based on the image, what is the finish of the phone case's surface?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What secondary color accents are visible on the phone's back panel?",
-        "answer": "Gold"
-      },
-      {
-        "question": "Can you describe the texture of the phone's back panel, based on the image?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What seems to be the type of the visible buttons on the side of the phone?",
-        "answer": "Physical"
-      },
-      {
-        "question": "Does the phone case seem to offer significant protection, considering its visual appearance?",
-        "answer": "Minimal"
-      },
-      {
-        "question": "Judging by the image, how would you describe the overall aesthetic of the case?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What graphic element is centrally located on the phone's rear surface?",
-        "answer": "Logo"
-      },
-      {
-        "question": "Does the case seem to cover the entire phone's body judging from the picture?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What design style is evident in the visible logo and accents on the case?",
+        "question": "What design element is prominently featured on the phone's back?",
         "answer": "Circular"
       },
       {
-        "question": "What is the apparent thickness of the phone case, based on visual observation?",
-        "answer": "Thin"
+        "question": "Describe the apparent texture of the phone's back casing, based on visual observation?",
+        "answer": "Smooth"
       },
       {
-        "question": "Based on the image, does the case seem to provide a grip enhancement?",
-        "answer": "No"
+        "question": "What color is the circular design element on the back of the phone?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Are there any visible buttons or ports on the side of the phone case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what is the phone's overall form factor?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What appears to be the finish of the phone's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the case appear to completely enclose the phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent condition of the phone case shown?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging by the image, is the phone case matte or shiny?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What kind of visual detail is visible within the circular design element?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Observing the phone's edges, are they sharp or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent general style of the phone case?",
+        "answer": "Simple"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fb43c601.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form, what is the primary geometrical descriptor of this food container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color family of the labeling on this yogurt cup?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of material appears to be used for this food container, judging by its texture and stiffness?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the main textural characteristic of the yogurt container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the label, what is the single most prominent design element in terms of visual hierarchy and size?",
+        "answer": "Text"
+      },
+      {
+        "question": "Focusing on the label's text, which is the most apparent word or phrase, visually speaking?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Is there any noticeable visual indication of a seal or tamper-evident feature on the yogurt cup?",
+        "answer": "No"
+      },
+      {
+        "question": "Inspecting the label closely, can you identify any clear symbols indicating dietary restrictions or certifications?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "What color is the smallest text on the nutritional label, if any, distinctly different from the main text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding the main text, can you identify any other significant graphics or images besides text on the cup's label?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image alone, what seems to be the overall visual impression of the product's label design: simple, complex, busy, or minimalistic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Looking at the label, are there any visible numbers clearly indicating a serving size or other nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by visual appearance only, is there evidence of any embossing or raised lettering on the yogurt cup's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Examining the label, is there any visible text indicating the brand or manufacturer of the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the container show any visible signs of damage or wear, such as scratches, dents, or discoloration?",
+        "answer": "No"
+      }
+    ]
+  }
+]
