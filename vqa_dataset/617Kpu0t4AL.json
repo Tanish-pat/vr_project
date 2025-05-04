@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant pattern displayed across the phone case?",
+        "question": "What is the dominant design element repeated across the phone case?",
         "answer": "Hearts"
       },
       {
         "question": "What color is the background of the phone case design?",
-        "answer": "Cream"
+        "answer": "Beige"
       },
       {
-        "question": "Describe the primary color scheme used in the heart designs.",
-        "answer": "Pink"
+        "question": "Describe the overall color scheme of the hearts on the phone case?",
+        "answer": "Multicolored"
       },
       {
-        "question": "What shapes are interspersed between the heart designs?",
+        "question": "What shapes, besides hearts, are subtly present in the background design?",
         "answer": "Doves"
       },
       {
-        "question": "What connects the vertically aligned hearts?",
+        "question": "What appears to connect the vertically aligned hearts on the case?",
         "answer": "Beads"
       },
       {
-        "question": "What is the overall style or aesthetic of the phone case design?",
-        "answer": "Romantic"
-      },
-      {
-        "question": "What additional small shapes are scattered across the case?",
-        "answer": "Hearts"
-      },
-      {
-        "question": "What appears to be the material of the phone case itself?",
+        "question": "What is the primary material suggested by the phone case's appearance?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the general shape of the individual hearts in the pattern?",
+        "question": "What is the apparent texture of the hearts in the phone case design?",
+        "answer": "Patterned"
+      },
+      {
+        "question": "Considering the design, what is the likely occasion this phone case is intended for?",
+        "answer": "Valentine's"
+      },
+      {
+        "question": "What is the general shape of the individual hearts featured on the case?",
         "answer": "Rounded"
       },
       {
-        "question": "Are the heart designs uniformly sized and spaced?",
-        "answer": "No"
+        "question": "Describe the style of the hearts' internal patterns?",
+        "answer": "Floral"
       },
       {
-        "question": "How would you characterize the texture suggested by the design?",
-        "answer": "Smooth"
+        "question": "What kind of visual effect do the varying heart colors create?",
+        "answer": "Vibrant"
       },
       {
-        "question": "What other colors besides pink are prominently featured in the hearts?",
-        "answer": "Yellow"
+        "question": "What is the orientation of the main heart pattern on the phone case?",
+        "answer": "Vertical"
       },
       {
-        "question": "Describe the visual detail within each heart design.",
-        "answer": "Ornate"
+        "question": "Besides hearts and doves, what other small shapes are interspersed?",
+        "answer": "Leaves"
       },
       {
-        "question": "Does the phone case design feature any text or lettering?",
-        "answer": "No"
+        "question": "Considering the design, what feeling does this phone case likely evoke?",
+        "answer": "Romantic"
       },
       {
-        "question": "What type of design is present on the surface of the case?",
-        "answer": "Printed"
+        "question": "What appears to be the overall aesthetic of this phone case's design?",
+        "answer": "Whimsical"
       }
     ]
   }
