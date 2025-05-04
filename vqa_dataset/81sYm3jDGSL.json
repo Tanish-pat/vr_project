@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the leather boots shown in the image?",
+        "question": "What is the predominant color of the leather upper on these ankle boots?",
         "answer": "Brown"
       },
       {
-        "question": "What type of leather is predominantly used in the construction of these ankle boots?",
+        "question": "What appears to be the primary material used in constructing the main body of this footwear?",
         "answer": "Leather"
       },
       {
-        "question": "Considering the overall design, what style of footwear is depicted in this single product shot?",
-        "answer": "Boots"
-      },
-      {
-        "question": "What kind of fastening mechanism is prominently featured on the upper shaft of the boot?",
-        "answer": "Buckle"
-      },
-      {
-        "question": "Describe the visible texture of the leather used across the entire visible surface of the boots.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Based on the visible sole, what is the apparent height of the heel on these women's boots?",
-        "answer": "Flat"
-      },
-      {
-        "question": "What is the approximate height of the boot shaft, as observed from the provided image?",
+        "question": "Considering the visible design elements, what style of boots are these, based on the buckle and shaft height?",
         "answer": "Ankle"
       },
       {
-        "question": "Judging by the image, what is the shape of the toe cap on these women's leather boots?",
-        "answer": "Round"
+        "question": "What type of closure mechanism is prominently featured on the shaft of this boot design?",
+        "answer": "Buckle"
       },
       {
-        "question": "What color is the metal buckle that is clearly visible on the boot's upper shaft?",
+        "question": "What metallic finish is observed on the buckle and other hardware details of the boot?",
         "answer": "Gold"
       },
       {
-        "question": "From the image, what appears to be the material of the boot's outsole?",
-        "answer": "Rubber"
+        "question": "Based on the sole's appearance, what seems to be the construction of the boot's base?",
+        "answer": "Flat"
       },
       {
-        "question": "Considering the overall silhouette, what can be said about the fit of this ankle boot style?",
-        "answer": "Close"
+        "question": "Describe the overall shape of the toe section of the displayed boot.",
+        "answer": "Rounded"
       },
       {
-        "question": "Describe the visible stitching detail present on the visible areas of the boot's shaft.",
-        "answer": "Minimal"
+        "question": "Observing the leather, what is the apparent texture of the boot's exterior?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the style of the boot's overall design, based on the prominent buckle and shaft height?",
-        "answer": "Casual"
+        "question": "What is the visible height of the boot shaft, relative to the wearer's ankle?",
+        "answer": "Short"
       },
       {
-        "question": "In terms of the product's overall presentation, how many boots are depicted in the image provided?",
-        "answer": "One"
+        "question": "Judging by the image, what seems to be the general condition of the leather?",
+        "answer": "New"
       },
       {
-        "question": "Describe the overall visual impression of the leather's finish across the visible surfaces of the boots.",
-        "answer": "Matte"
+        "question": "What design element, besides the buckle, is noticeable along the vamp of this boot?",
+        "answer": "Stitching"
+      },
+      {
+        "question": "What color is the outsole of the boot, as seen in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visible construction of the heel on this particular style of boot?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Describe the visible seams present in the design of the boot's upper.",
+        "answer": "Straight"
+      },
+      {
+        "question": "Considering the provided image, what is the overall aesthetic of the boot design?",
+        "answer": "Classic"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/21/21b13e38.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the keyboard's keycaps?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the illumination emanating from the keyboard keys?",
+        "answer": "Green"
+      },
+      {
+        "question": "Describe the overall shape of the keyboard's frame.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the mousepad's surface?",
+        "answer": "Cloth"
+      },
+      {
+        "question": "What is the apparent color of the mouse's exterior casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the mouse's visible scroll wheel?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the general texture of the mousepad?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of cable connects the keyboard to the computer?",
+        "answer": "USB"
+      },
+      {
+        "question": "What is the apparent texture of the keyboard's keycaps?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary material of the keyboard's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the keyboard feature any visible markings or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the dominant color of the mousepad?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the mouse?",
+        "answer": "Ergonomic"
+      },
+      {
+        "question": "Is the keyboard wired or wireless?",
+        "answer": "Wired"
+      },
+      {
+        "question": "What appears to be the surface material of the desk?",
+        "answer": "Wood"
+      }
+    ]
+  }
+]

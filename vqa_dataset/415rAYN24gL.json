@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the vehicle's body?",
+        "question": "What is the dominant color of the vehicle shown in the provided image?",
         "answer": "Gray"
       },
       {
-        "question": "What is the apparent material of the front bumper?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the overall shape of the vehicle?",
+        "question": "What type of vehicle is depicted in the main product image?",
         "answer": "SUV"
       },
       {
-        "question": "What color are the accent pieces on the front bumper?",
-        "answer": "Silver"
+        "question": "What is the apparent material of the prominent front bumper addition?",
+        "answer": "Plastic"
       },
       {
-        "question": "What type of wheels does the vehicle have?",
-        "answer": "Alloy"
-      },
-      {
-        "question": "What is the apparent material of the wheel rims?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the design of the front grille?",
-        "answer": "Horizontal"
-      },
-      {
-        "question": "What is the color of the side view mirrors?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the shape of the headlights?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the apparent texture of the vehicle's body?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent finish of the vehicle's paint?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What is the visible brand logo on the front?",
-        "answer": "Suzuki"
-      },
-      {
-        "question": "What is the general style of the vehicle's body?",
+        "question": "Considering the wheel design, what is the overall style of the vehicle?",
         "answer": "Modern"
       },
       {
-        "question": "What type of vehicle is depicted in the image?",
-        "answer": "Car"
+        "question": "What color are the visible accent pieces on the front fenders?",
+        "answer": "Orange"
       },
       {
-        "question": "Describe the color of the small accent pieces near the wheel well?",
-        "answer": "Orange"
+        "question": "Based on the image, what is the apparent condition of the vehicle shown?",
+        "answer": "New"
+      },
+      {
+        "question": "What kind of surface finish is visible on the main body of the car?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the shape of the front grill?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent size of the wheels in relation to the body?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the style of the visible headlights on the vehicle?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What is the apparent texture of the visible side mirrors?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What brand logo is visible on the front grill of the vehicle?",
+        "answer": "Suzuki"
+      },
+      {
+        "question": "Describe the visible design of the alloy wheels on the car.",
+        "answer": "Spoked"
+      },
+      {
+        "question": "What kind of roofline does the vehicle in the picture have?",
+        "answer": "Sloping"
+      },
+      {
+        "question": "Describe the overall design aesthetic of the vehicle's front end.",
+        "answer": "Aggressive"
       }
     ]
   }
