@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/14c858a4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the can's primary label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of food is depicted on the can's label?",
+        "answer": "Tomatoes"
+      },
+      {
+        "question": "What material is the can predominantly constructed from?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What shape is the main body of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary color of the text on the label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall style of the can's design?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What certification mark is displayed on the can?",
+        "answer": "USDA"
+      },
+      {
+        "question": "What is the text describing the product's origin?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the primary color of the background of the main label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Is there an image of a tomato on the can's label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the can have a printed barcode?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general texture of the can's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall tone of the imagery used on the can?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Does the can contain nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of seal or closure does the can appear to have?",
+        "answer": "Lid"
+      }
+    ]
+  }
+]

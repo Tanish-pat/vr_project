@@ -9,60 +9,60 @@
         "answer": "Orange"
       },
       {
-        "question": "What is the overall shape of the phone case, ignoring the design?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Considering the image, what is the primary artistic style depicted on the phone case?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "Describe the texture implied by the painted design on the phone cover.",
+        "question": "What is the overall shape of the phone case design?",
         "answer": "Swirling"
       },
       {
-        "question": "What appears to be the material of the phone case itself?",
+        "question": "What appears to be the primary material used for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What color are the most prominent streaks within the central vortex?",
-        "answer": "Yellow"
+        "question": "What kind of artistic style does the printed design seem to emulate?",
+        "answer": "Abstract"
       },
       {
-        "question": "What is the overall tone or feeling evoked by the design's color palette?",
-        "answer": "Warm"
+        "question": "Describing the texture of the design, what visual impression does it give?",
+        "answer": "Fluid"
       },
       {
-        "question": "Are there any clearly defined geometric shapes within the main design?",
-        "answer": "No"
+        "question": "What is the general color family of the background design element?",
+        "answer": "Dark"
       },
       {
-        "question": "What is the most noticeable background color in the design?",
-        "answer": "Black"
-      },
-      {
-        "question": "How many camera cutouts are visible on the back of this phone case?",
-        "answer": "Three"
-      },
-      {
-        "question": "What is the approximate visual proportion of dark versus light tones?",
-        "answer": "Balanced"
-      },
-      {
-        "question": "Does the design exhibit a sense of movement or dynamism?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What secondary color is frequently interspersed with the orange?",
+        "question": "What secondary color is prominent within the phone case design?",
         "answer": "Purple"
       },
       {
-        "question": "Is the printed design glossy or matte in appearance?",
-        "answer": "Glossy"
+        "question": "Considering the color palette, what mood does the phone case's design evoke?",
+        "answer": "Cosmic"
       },
       {
-        "question": "What type of design elements are primarily used in the phone case's artwork?",
-        "answer": "Brushstrokes"
+        "question": "Are there any visible markings other than the primary design?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the predominant texture implied by the design on the case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the design seem to depict any recognizable objects or forms?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the style of the phone case\u2019s overall aesthetic?",
+        "answer": "Artistic"
+      },
+      {
+        "question": "Excluding the design, what color is the phone case's border?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visual effect created by the color transitions in the design?",
+        "answer": "Blending"
+      },
+      {
+        "question": "Considering the color saturation, how vibrant is the case\u2019s design?",
+        "answer": "High"
       }
     ]
   }

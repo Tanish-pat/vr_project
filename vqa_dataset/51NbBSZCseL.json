@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the drawer front?",
+        "question": "What is the predominant color of the drawer front shown?",
         "answer": "White"
       },
       {
-        "question": "What material appears to constitute the drawer knob?",
-        "answer": "Metal"
+        "question": "What is the finish of the drawer knob's metallic surface?",
+        "answer": "Gunmetal"
       },
       {
-        "question": "What is the overall shape of the drawer pull knob?",
-        "answer": "Round"
-      },
-      {
-        "question": "Describe the finish of the drawer's metallic knob?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the apparent texture of the drawer's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What design element frames the drawer front?",
-        "answer": "Molding"
-      },
-      {
-        "question": "What color is the drawer pull knob?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What is the style of the drawer knob's design?",
-        "answer": "Simple"
-      },
-      {
-        "question": "How many visible knobs are on this drawer unit?",
-        "answer": "One"
-      },
-      {
-        "question": "What is the apparent material of the drawer front?",
+        "question": "What is the apparent material of the drawer's primary structure?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the visible type of joint in the drawer front frame?",
-        "answer": "Miter"
+        "question": "What is the shape of the knob affixed to the drawer?",
+        "answer": "Round"
       },
       {
-        "question": "What is the shape of the drawer front panel itself?",
+        "question": "Describe the overall style of the drawer's visible molding?",
+        "answer": "Classical"
+      },
+      {
+        "question": "What is the texture of the drawer's painted surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of design element frames the drawer opening?",
+        "answer": "Raised"
+      },
+      {
+        "question": "What seems to be the material of the drawer knob itself?",
+        "answer": "Metal"
+      },
+      {
+        "question": "How many visible knobs are present on the drawer face?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent method of attachment for the drawer knob?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the general shape of the drawer's frontal recess?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the knob, what is its attachment style?",
-        "answer": "Through"
-      },
-      {
-        "question": "What is the visible surface treatment of the drawer front?",
-        "answer": "Painted"
-      },
-      {
-        "question": "Is the visible wood grain prominent or subtle?",
+        "question": "Describe the visual prominence of the decorative molding?",
         "answer": "Subtle"
+      },
+      {
+        "question": "What appears to be the depth of the drawer's visible recess?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "What visual characteristic defines the drawer front's edges?",
+        "answer": "Beveled"
+      },
+      {
+        "question": "Considering the metallic knob, what might its function be?",
+        "answer": "Pull"
       }
     ]
   }

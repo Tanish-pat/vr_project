@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the gemstones adorning the earring's rectangular face?",
+        "question": "What is the dominant color of the embedded gemstones in the earring's rectangular element?",
         "answer": "Blue"
       },
       {
-        "question": "What precious metal appears to constitute the earring's frame and backing?",
+        "question": "What is the apparent primary metal used in the construction of these earrings?",
         "answer": "Gold"
       },
       {
-        "question": "Describe the geometric shape of the main earring component, excluding the clasp?",
+        "question": "Describe the overall shape of the main decorative element of the earring?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many parallel rows of gemstones are visibly embedded within the rectangular section?",
+        "question": "What kind of clasp mechanism is visibly present on the earring's post?",
+        "answer": "Friction"
+      },
+      {
+        "question": "What is the most apparent texture of the embedded gemstones?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What best describes the arrangement of the gemstones on each earring?",
+        "answer": "Linear"
+      },
+      {
+        "question": "How many lines of gemstones are visibly present on the rectangular element?",
         "answer": "Two"
       },
       {
-        "question": "What is the apparent setting style for the small gemstones on the earring face?",
-        "answer": "Pave"
-      },
-      {
-        "question": "What type of earring clasp is depicted in the provided product image?",
-        "answer": "Wire"
-      },
-      {
-        "question": "Considering the overall aesthetic, what style best describes these earrings?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What is the apparent finish or luster of the visible metallic portions of the earrings?",
-        "answer": "Shiny"
-      },
-      {
-        "question": "Based on the image, what seems to be the size of the gemstones used\u2014are they large or small?",
-        "answer": "Small"
-      },
-      {
-        "question": "What is the apparent shape of the individual gemstones set into the earrings?",
-        "answer": "Round"
-      },
-      {
-        "question": "Does the image show any visible markings, engravings, or brand logos on the earrings?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering the clasp design, how would you describe its overall curvature?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What kind of material do the small gemstones appear to be made from?",
-        "answer": "Cubic"
-      },
-      {
-        "question": "Considering the overall design, what is the earring style (e.g., drop, stud, hoop)?",
+        "question": "Considering the visible post, what is the likely earring type?",
         "answer": "Stud"
       },
       {
-        "question": "What is the apparent texture of the gold metal, smooth or rough?",
-        "answer": "Smooth"
+        "question": "What is the apparent finish or polish of the metal visible on the earring?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the overall color scheme of these pair of earrings?",
+        "answer": "Bicolour"
+      },
+      {
+        "question": "What shape does the earring's back finding appear to be?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the visual design, what style are these earrings?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent size of the gemstones used in these earrings?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the gemstones, what is the likely setting style?",
+        "answer": "Pave"
+      },
+      {
+        "question": "What type of post does the earring appear to have?",
+        "answer": "Push"
       }
     ]
   }

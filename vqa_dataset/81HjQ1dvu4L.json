@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the main backpack body?",
+        "question": "What is the predominant color of the main backpack compartment?",
         "answer": "Pink"
       },
       {
-        "question": "What material appears to be used for the backpack's exterior?",
+        "question": "What material appears to constitute the majority of the backpack's exterior?",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the overall shape of the main backpack compartment.",
+        "question": "Describe the backpack's overall shape, considering its various components?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the primary color of the backpack's adjustable straps?",
-        "answer": "Black"
-      },
-      {
-        "question": "What type of handle is visible at the backpack's top?",
-        "answer": "Loop"
-      },
-      {
-        "question": "What feature allows the backpack to attach to rolling luggage?",
-        "answer": "Straps"
-      },
-      {
-        "question": "What color is the luggage the backpack is resting upon?",
-        "answer": "Navy"
-      },
-      {
-        "question": "What is the material of the luggage handle visible?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the texture of the pink backpack material?",
+        "question": "What is the apparent texture of the pink fabric section of the backpack?",
         "answer": "Woven"
       },
       {
-        "question": "How many main compartments are visually apparent on the backpack?",
-        "answer": "Two"
+        "question": "What color are the backpack's main zippers and straps?",
+        "answer": "Black"
       },
       {
-        "question": "What is the color of the accent zipper pulls?",
+        "question": "What type of handle system is visible on the back panel of the backpack?",
+        "answer": "Trolley"
+      },
+      {
+        "question": "Based on its design features, what is the likely intended use of this backpack?",
+        "answer": "Travel"
+      },
+      {
+        "question": "What is the color of the luggage the backpack is resting upon?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What appears to be the material composition of the luggage's exterior?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What kind of straps are visible along the sides of the backpack's main body?",
+        "answer": "Compression"
+      },
+      {
+        "question": "What is the color of the accents on the trolley handle attachment?",
         "answer": "Orange"
       },
       {
-        "question": "Is there a visible pattern on the pink backpack fabric?",
-        "answer": "Yes"
+        "question": "Is the visible design of the pink fabric patterned or plain?",
+        "answer": "Patterned"
       },
       {
-        "question": "What kind of closure is visible on the lower backpack compartment?",
-        "answer": "Zipper"
+        "question": "What is the apparent material of the trolley handle itself?",
+        "answer": "Metal"
       },
       {
-        "question": "What is the apparent style of the backpack's carrying straps?",
-        "answer": "Padded"
+        "question": "Considering the overall design, what size would you categorize this backpack?",
+        "answer": "Large"
       },
       {
-        "question": "What is the general design style of this backpack?",
-        "answer": "Travel"
+        "question": "What is the primary function of the straps on the backpack's sides?",
+        "answer": "Compression"
       }
     ]
   }

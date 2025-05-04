@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the extending dining table's surface?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What appears to be the main material used in constructing the table?",
+        "question": "What is the primary material visibly composing the majority of the tabletop?",
         "answer": "Wood"
       },
       {
-        "question": "Considering the visible structure, what is the overall shape of the dining table?",
+        "question": "Considering the table's structure, what is its overall shape?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the image, how many independent leaves does the extension mechanism comprise?",
-        "answer": "Two"
+        "question": "Based on the visual depiction, what appears to be the overall color of the table?",
+        "answer": "Brown"
       },
       {
-        "question": "What is the design style of the legs supporting the dining table?",
-        "answer": "Blocky"
-      },
-      {
-        "question": "Judging by the image, what is the visible finish of the tabletop's surface?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What seems to be the visible grain pattern on the table's surface?",
-        "answer": "Linear"
-      },
-      {
-        "question": "Considering the illustration, how many legs does the dining table possess?",
+        "question": "Judging by the image, how many independent legs support the table's structure?",
         "answer": "Four"
       },
       {
-        "question": "Does the tabletop display any notable surface markings or patterns beyond the grain?",
-        "answer": "No"
-      },
-      {
-        "question": "What type of joint seems to be visible where the leaves attach to the main table?",
-        "answer": "Sliding"
-      },
-      {
-        "question": "Judging by the drawing's dimensions, does the table extend significantly?",
+        "question": "Does the table's design include an extendable feature for increased surface area?",
         "answer": "Yes"
       },
       {
-        "question": "Considering the legs' design, what is the visible profile of the table legs?",
+        "question": "What is the visible texture of the table's surface, considering the drawing?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the leg structure, what is their approximate shape from the top-down perspective?",
         "answer": "Square"
       },
       {
-        "question": "What seems to be the construction method indicated by the visible joinery?",
-        "answer": "Butt"
+        "question": "In the extended configuration, how many additional sections become visible?",
+        "answer": "Two"
       },
       {
-        "question": "Does the image suggest any decorative elements on the tabletop?",
+        "question": "Does the image show any distinct or decorative elements on the tabletop itself?",
         "answer": "No"
       },
       {
-        "question": "What is the overall impression of the table's design aesthetic?",
-        "answer": "Minimalist"
+        "question": "Based solely on its appearance, what is the style of the table legs?",
+        "answer": "Block"
+      },
+      {
+        "question": "What is the visible finish or treatment of the wood, based solely on appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible joinery type used to connect the extension leaves to the main table?",
+        "answer": "Sliding"
+      },
+      {
+        "question": "From the top-down visual, what design does the table's extended part resemble?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, is the extension leaf seamlessly integrated with the main top?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent general thickness of the tabletop in relation to the legs?",
+        "answer": "Thick"
       }
     ]
   }

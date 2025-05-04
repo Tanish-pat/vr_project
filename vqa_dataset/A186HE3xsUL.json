@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9130bd5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric covering the ottoman?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary texture of the ottoman's upholstery?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering its overall form, what geometric shape best describes the ottoman?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent primary material used in the construction of the ottoman?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Excluding the legs, what is the visible height of the ottoman?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging by its visual characteristics, what is the implied function of this item?",
+        "answer": "Seating"
+      },
+      {
+        "question": "Describe the visible pattern present on the ottoman's fabric covering.",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering its overall construction, how would you classify the ottoman's style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the ottoman appear to have any noticeable visible seams or stitching?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on its design, would you describe the ottoman as ornate or understated?",
+        "answer": "Understated"
+      },
+      {
+        "question": "Is there any visible ornamentation or embellishment on the ottoman's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the ottoman show any signs of visible wear or damage in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate number of visible legs supporting the ottoman?",
+        "answer": "Four"
+      },
+      {
+        "question": "Relative to the sofa, what is the ottoman's approximate size or scale?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "Considering the fabric's visual characteristics, is it likely to be rough or smooth?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

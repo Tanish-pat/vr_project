@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8e/8e1405e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the LED light fixture's casing?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the LED under-cabinet light?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the main body of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of connector is visible at the end of the power cable?",
+        "answer": "RJ45"
+      },
+      {
+        "question": "How many visible switches are integrated into the light's design?",
+        "answer": "Three"
+      },
+      {
+        "question": "What seems to be the texture of the light fixture's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the visible plastic components?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the light fixture appear to have any visible screws or fasteners?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the design, what is the likely intended installation location?",
+        "answer": "Undercabinet"
+      },
+      {
+        "question": "What is the visible style of the power switch on the light?",
+        "answer": "Toggle"
+      },
+      {
+        "question": "What kind of markings or labels are apparent on the switches?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the visible color of the power cord connected to the fixture?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on its design, does this seem to be a high- or low-profile fixture?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the apparent length of the visible part of the power cord?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the apparent thickness or profile of the light bar itself?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case shown in the image?",
+        "question": "What is the predominant color of the depicted phone case?",
         "answer": "Pink"
       },
       {
-        "question": "What appears to be the primary material used for this phone case?",
+        "question": "What appears to be the primary material of this protective cover?",
         "answer": "Silicone"
       },
       {
-        "question": "Considering the overall form, what is the shape of the protective case?",
+        "question": "Considering the overall form, what is the shape of this phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What texture does the silicone phone case seem to possess based on visual observation?",
+        "question": "What is the apparent texture of the silicone phone case surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Observing the image, how many visible camera cutouts are present on the case?",
+        "question": "Based on the image, how many cutouts are visible for the phone's camera?",
         "answer": "Three"
       },
       {
-        "question": "Based on the image, what is the general design style of this phone case?",
+        "question": "Judging by the image, does this case seem to offer button protection?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual appearance of the button cutouts on the case?",
+        "answer": "Aligned"
+      },
+      {
+        "question": "Does the image show any noticeable branding or logos on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible design style of the phone case, minimalist or ornate?",
         "answer": "Minimalist"
       },
       {
-        "question": "Does the case show any visible patterns, textures, or markings besides the cutouts?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent thickness of the phone case judging from the image?",
+        "question": "Regarding the overall feel, does the case seem thick or thin?",
         "answer": "Thin"
       },
       {
-        "question": "Judging from the image's perspective, does the case cover the entire phone?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Are there any noticeable decorative elements or embellishments on the case?",
-        "answer": "No"
-      },
-      {
-        "question": "Is there a button or port cutout near the power button on this case?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the overall apparent flexibility of this phone case material?",
-        "answer": "Flexible"
-      },
-      {
-        "question": "Does the phone case appear to add significant bulk to the device?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the visual finish of the silicone material; is it glossy or matte?",
+        "question": "Judging from the image, is the phone case matte or glossy?",
         "answer": "Matte"
       },
       {
-        "question": "From this image, can you determine the precise brand of this phone case?",
+        "question": "Does the case appear to cover the entire back of the phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual observation, what is the overall fit of the phone case?",
+        "answer": "Snug"
+      },
+      {
+        "question": "What is the apparent level of detail in the design of the case?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image suggest any visible signs of wear or damage on the case?",
         "answer": "No"
       }
     ]

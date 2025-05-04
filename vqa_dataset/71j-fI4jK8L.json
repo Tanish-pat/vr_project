@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d873bac8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text displayed on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the container shown on the label, inferred from the information presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the background of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text, what type of supplement is contained within, based purely on the visible label?",
+        "answer": "Omega-3"
+      },
+      {
+        "question": "What is the format of the supplement form as indicated directly on the label?",
+        "answer": "Softgels"
+      },
+      {
+        "question": "What unit is used to measure the amount of Omega-3s present, as clearly shown on the label?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the total number of servings indicated for the container based on the visual information?",
+        "answer": "30"
+      },
+      {
+        "question": "What specific type of fatty acid is highlighted in a prominent position on the label?",
+        "answer": "EPA"
+      },
+      {
+        "question": "Observing the label, what is another type of fatty acid listed as a component of the supplement?",
+        "answer": "DHA"
+      },
+      {
+        "question": "What term is used to describe the source of the Omega-3s as presented on the information panel?",
+        "answer": "Purified"
+      },
+      {
+        "question": "Based only on what is visually apparent, what is the specified serving size of the supplement?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the visible label only, what other omega-3s are included besides EPA and DHA?",
+        "answer": "Other"
+      },
+      {
+        "question": "What is the visual style of the labeling, primarily in terms of its arrangement and typography?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the term used to refer to the nutritional information presented on the label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the unit of measurement for cholesterol content on the label?",
+        "answer": "mg"
+      }
+    ]
+  }
+]

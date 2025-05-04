@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2bcd2521.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the phone case's design?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall texture implied by the case's design?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what design style is prominently featured on the phone case?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What is the apparent primary material used for the construction of the phone cover?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the mobile phone case, based on its visual representation?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the image, what is the dominant visual element of the phone case design?",
+        "answer": "Flames"
+      },
+      {
+        "question": "What secondary color accents the primary red in the phone case's artistic design?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the image, what type of finish does the phone case appear to have?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the suggested level of visual detail or complexity in the printed design?",
+        "answer": "High"
+      },
+      {
+        "question": "From the displayed views, what can be observed about the phone case's form factor?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Based on the image, what is the style of the design depicted on the phone case?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the general visual aesthetic expressed in the phone case's image?",
+        "answer": "Fiery"
+      },
+      {
+        "question": "What is the apparent degree of coverage offered by the phone case design?",
+        "answer": "Full"
+      },
+      {
+        "question": "What visual characteristic is suggested by the color variations in the design?",
+        "answer": "Depth"
+      },
+      {
+        "question": "Based solely on visual observation, what is the apparent print quality of the phone case?",
+        "answer": "Crisp"
+      }
+    ]
+  }
+]

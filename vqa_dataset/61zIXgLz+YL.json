@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible shelf structure?",
+        "question": "What is the dominant color of the visible shelving unit?",
         "answer": "White"
       },
       {
-        "question": "What material appears to constitute the main body of the shelf?",
+        "question": "What appears to be the primary material of the shelf structure?",
         "answer": "Plastic"
       },
       {
-        "question": "Describing the overall form of this shelf unit, what is its shape?",
+        "question": "Describing the overall shape of this presented shelf unit, what is it?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of surface texture is visible on the shelf's primary surface?",
+        "question": "Considering the visible edge, what is the profile of the shelf?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "What kind of surface texture does the shelf's visible side display?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the placement, what is the intended orientation of this shelf?",
-        "answer": "Horizontal"
+        "question": "What type of design element is noticeable on the inner shelf?",
+        "answer": "Labels"
       },
       {
-        "question": "What is the apparent method of attachment to the wall or backing?",
-        "answer": "Hidden"
-      },
-      {
-        "question": "Considering the design, what is the primary function of this product?",
+        "question": "Based on its appearance, what is the likely function of this item?",
         "answer": "Storage"
       },
       {
-        "question": "What is the visual appearance of the interior dividing elements?",
-        "answer": "Ribbed"
+        "question": "Observing the shelf's construction, what seems to be its mounting style?",
+        "answer": "Wall-mounted"
       },
       {
-        "question": "Based on the visible markings, what is the nature of the interior dividers?",
-        "answer": "Numbered"
+        "question": "What is the apparent thickness of the visible part of the shelf?",
+        "answer": "Thin"
       },
       {
-        "question": "What type of material appears to be used for the internal labeling?",
-        "answer": "Paper"
+        "question": "What style of lettering is used on the inner labels, judging visually?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "What is the visible depth of the shelf compartment, relative to its width?",
-        "answer": "Shallow"
+        "question": "Examining the image, what kind of numbers are printed on the labels?",
+        "answer": "Numeric"
       },
       {
-        "question": "What is the visible condition of the overall shelf structure?",
-        "answer": "New"
+        "question": "How many visibly separate compartments or sections does the shelf possess?",
+        "answer": "One"
       },
       {
-        "question": "Considering the image, what is the shelf's overall style?",
+        "question": "What is the general orientation of the presented shelf unit?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering its design, does the shelf provide visible compartment dividers?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the appearance, what is the overall aesthetic of the shelf?",
         "answer": "Minimalist"
-      },
-      {
-        "question": "What seems to be the manufacturing process based on the visible edges?",
-        "answer": "Injection"
-      },
-      {
-        "question": "What is the visual effect of the color combination with the background?",
-        "answer": "Contrast"
       }
     ]
   }

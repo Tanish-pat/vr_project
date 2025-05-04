@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f5ad4979.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visually presented product, considering its overall appearance and surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the item's form and dimensions, what is its primary geometrical shape, as it presents itself visually?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual examination of its surface, what appears to be the primary material used in the construction of this object?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Judging from the image, what seems to be the general texture of the product's visible surface, considering its smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Analyzing the item's design, are there any noticeable seams, folds, or visible stitching present on its exterior?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any noticeable patterns, logos, or branding elements on the object's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What appears to be the overall height of the item in relation to its width, based on its visual presentation?",
+        "answer": "Tall"
+      },
+      {
+        "question": "From the image, what is the visible condition of the object\u2019s surface, such as signs of wear or damage?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the item's shape and structure suggest it is designed for carrying or storing something inside?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What would you visually describe as the general style of this product, considering its shape and apparent material?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What seems to be the overall visual weight or density of the item, based on its form and material?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Considering the visual features, does the item appear to have any visible functional components or closures?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, does the product appear rigid or flexible in terms of its structure?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Based on what's shown, does the visual appearance suggest any specific use or function for this item?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering its overall appearance, does the product appear to be mass-produced or handmade?",
+        "answer": "Mass-produced"
+      }
+    ]
+  }
+]

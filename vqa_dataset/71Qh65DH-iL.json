@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5a337250.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the clock's face?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color is the outer frame or bezel of the clock?",
+        "answer": "Rosegold"
+      },
+      {
+        "question": "What color are the numerals and hour markers on the clock face?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary color of the clock's face?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the clock's frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the style of the hands on the clock.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What type of numbers are used on the clock face?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "How many numerals are visibly present on the clock?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "What is the apparent finish of the clock's metallic frame?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general design aesthetic of this wall clock?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the hands and numerals, what is the clock's overall visual theme?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Is the clock face textured or smooth in appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the clock's hour and minute hands?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the clock face have any decorative elements beyond the numerals?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of mechanism does the clock appear to use (based on the visible hands)?",
+        "answer": "Analog"
+      }
+    ]
+  }
+]

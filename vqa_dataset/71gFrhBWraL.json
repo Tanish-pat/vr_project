@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/59/59a12a0c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the notebook's exterior?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to be used for the notebook cover?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the closed notebook?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual, how many distinct pockets or slots are present inside the cover?",
+        "answer": "Three"
+      },
+      {
+        "question": "What writing instrument is visibly held within one of the interior slots?",
+        "answer": "Pen"
+      },
+      {
+        "question": "Observing the image, what type of connector is visible alongside the cable?",
+        "answer": "USB"
+      },
+      {
+        "question": "Judging from the picture, what electronic device is partially visible inside the notebook?",
+        "answer": "Phone"
+      },
+      {
+        "question": "What appears to be the texture of the notebook's external cover?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the inner pockets and slots?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Examining the image, what seems to be stored in the smaller pocket next to the phone?",
+        "answer": "Cards"
+      },
+      {
+        "question": "What is the apparent fastening method for the notebook\u2019s closure?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the notebook showcase any visible branding or logos in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the overall style of the notebook?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of cable is shown neatly organized within the cover?",
+        "answer": "Charging"
+      },
+      {
+        "question": "Based on the visual, what is the intended function of the phone slot within the notebook?",
+        "answer": "Storage"
+      }
+    ]
+  }
+]

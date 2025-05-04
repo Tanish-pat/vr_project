@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b3848a5d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the shoe's sole as depicted in the provided image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the predominant color of the shoe's sole, based on visual observation of the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describing the texture apparent in the image, what tactile characteristic does the shoe's sole exhibit?",
+        "answer": "Ridged"
+      },
+      {
+        "question": "Based purely on visual assessment of the image, what seems to be the material composition of the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "From the image, is there any noticeable pattern or design imprinted on the shoe's sole surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging from the image, how would you describe the overall condition or appearance of the shoe's sole?",
+        "answer": "Clean"
+      },
+      {
+        "question": "In the image, does the shoe sole present any visible damage, such as cuts or significant wear?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the shoe sole as presented in the image?",
+        "answer": "Thick"
+      },
+      {
+        "question": "From visual inspection, is the shoe sole flexible or rigid in appearance?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Observing the image, is there any noticeable text or branding on the sole?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general level of detail evident in the texture of the shoe's sole based on image analysis?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging from the image, how would you describe the surface finish of the shoe's sole?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on visual details within the image, how smooth or rough is the sole's surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the image provided, is there evidence of any embellishments or decorative elements on the shoe's sole?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its visual characteristics within the image, what seems to be the primary function of this shoe sole?",
+        "answer": "Grip"
+      }
+    ]
+  }
+]

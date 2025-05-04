@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form and visible components, what is the primary function suggested by the product's visual attributes?",
-        "answer": "Footwear"
-      },
-      {
-        "question": "Based on the image's color profile, what dominant hue best characterizes the majority of the product's visible surface?",
-        "answer": "Burgundy"
-      },
-      {
-        "question": "Judging from the texture apparent in the image, what material appears to be the primary component of this item?",
-        "answer": "Suede"
-      },
-      {
-        "question": "What simple, yet noticeable design element, near the shoe's opening, is visible in the image, close to the vamp?",
-        "answer": "Bow"
-      },
-      {
-        "question": "Describing the product's overall shape, what basic style category does it best fit into based solely on visual examination?",
+        "question": "Considering the overall form, what is the most accurate single-word description of this footwear's silhouette?",
         "answer": "Ballet"
       },
       {
-        "question": "Considering the smooth, non-porous texture seen in the image, what is the most likely material of the shoe's outsole?",
-        "answer": "Leather"
+        "question": "What is the predominant color of the upper material, as visibly apparent in the provided image?",
+        "answer": "Burgundy"
       },
       {
-        "question": "Judging from the visual appearance of the shoe's upper, how would you best describe its fit considering the shape?",
-        "answer": "Close"
+        "question": "Based on visual texture, what material is most likely used for the construction of the shoe's main body?",
+        "answer": "Suede"
       },
       {
-        "question": "Observing the product's silhouette, what is the most appropriate descriptor for the shoe's pointed or rounded toe?",
-        "answer": "Pointed"
+        "question": "Describe the embellishment located near the vamp area of the shown shoe, focusing on its shape and function.",
+        "answer": "Bow"
       },
       {
-        "question": "Regarding the subtle tonal variations visible in the image, how would you categorize the shoe's color depth?",
-        "answer": "Deep"
+        "question": "What is the apparent construction technique of the upper material across the shoe's body, visible from its seams?",
+        "answer": "Seamless"
       },
       {
-        "question": "Analyzing the lack of visible seams or stitching on the product's upper, what manufacturing process is most likely employed?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Focusing on the product's visible surface, what textural characteristic best describes the overall feel and visual impression?",
-        "answer": "Soft"
-      },
-      {
-        "question": "Regarding the product's overall styling, how would you best categorize this style of flat footwear?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Judging from the image, how would you describe the heel height of this particular design?",
+        "question": "If we consider the heel and sole unit, what kind of heel height would you observe in this footwear style?",
         "answer": "Flat"
       },
       {
-        "question": "Based on the visual features, is the design of this footwear more suited for formal or casual settings?",
-        "answer": "Casual"
+        "question": "Focusing on the toe shape, what is the most obvious visual characteristic displayed from the image?",
+        "answer": "Pointed"
       },
       {
-        "question": "Considering the product's apparent elegance and simplicity, what is an apt single-word description of its overall aesthetic?",
+        "question": "Given the visual appearance, what material appears to constitute the outer sole of the shoe, primarily?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "If you were to describe the overall visual feel of the shoe's material based on texture and color, what would that word be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the style of the shoe's vamp visually, considering its coverage and any aesthetic elements present.",
+        "answer": "Simple"
+      },
+      {
+        "question": "Can you identify any visible stitching or seams on the shoe's main upper area (apart from the sole)?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the overall visual impression of the shoe's design, considering its simplicity and lack of ornamentation?",
         "answer": "Classic"
+      },
+      {
+        "question": "What visual characteristic does the shoe's overall shape and design mostly present based on its elegant design?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "If observing the shoe's construction, what is the most prominent aspect of its design in terms of its cut?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Looking at the color, what would be the best single word to describe the particular shade exhibited?",
+        "answer": "Maroon"
       }
     ]
   }

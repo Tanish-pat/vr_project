@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the neck gaiter shown in the product image?",
+        "question": "What is the predominant color of the neck gaiter shown in the image?",
         "answer": "Gray"
       },
       {
-        "question": "What is the overall shape of the fabric covering the neck and face?",
+        "question": "What is the overall shape of the neck gaiter when it is fully extended?",
         "answer": "Triangular"
       },
       {
-        "question": "Considering the image, what appears to be the primary material of the neck gaiter?",
+        "question": "What appears to be the primary material of this neck gaiter, based on its visual texture?",
         "answer": "Fabric"
       },
       {
-        "question": "Judging from the image, what is the texture of the neck gaiter fabric?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Based on the image, how would you describe the apparent finish of the neck gaiter's edges?",
-        "answer": "Neat"
-      },
-      {
-        "question": "Does the image show any visible seams or stitching on the neck gaiter?",
+        "question": "Considering the image, does the neck gaiter appear to have any visible patterns or designs?",
         "answer": "No"
       },
       {
-        "question": "In the product image, what is the apparent level of drape or looseness of the neck gaiter?",
-        "answer": "Loose"
+        "question": "Judging by the image, what is the apparent texture of the neck gaiter's material?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the apparent overall length of the neck gaiter, from top to bottom tip?",
-        "answer": "Long"
-      },
-      {
-        "question": "Observing the image, does the neck gaiter appear to be patterned or solid in color?",
-        "answer": "Solid"
-      },
-      {
-        "question": "Based on the image alone, how would you describe the style of the neck gaiter?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Judging from the image, what part of the body is the neck gaiter primarily designed to cover?",
-        "answer": "Neck"
-      },
-      {
-        "question": "From the image, is the neck gaiter shown being worn in a specific manner?",
-        "answer": "Loose"
-      },
-      {
-        "question": "Does the image suggest the neck gaiter provides any form of face covering?",
+        "question": "Does the neck gaiter in the image seem to have any noticeable seams or stitching?",
         "answer": "Yes"
       },
       {
-        "question": "From the provided image, is the neck gaiter thick or thin in its appearance?",
-        "answer": "Thin"
+        "question": "Based solely on visual inspection, how many ear loops are visible on the neck gaiter?",
+        "answer": "One"
       },
       {
-        "question": "Based solely on the product image, what is the apparent weight of the neck gaiter?",
+        "question": "Observing the image, does the neck gaiter appear to be breathable in nature?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the neck gaiter shown in the image primarily designed for sun protection or for warmth?",
+        "answer": "Sun"
+      },
+      {
+        "question": "From the image, what is the visible length of the neck gaiter from top to bottom point?",
+        "answer": "Long"
+      },
+      {
+        "question": "Judging from the image, does the neck gaiter appear to be lightweight or heavy?",
         "answer": "Lightweight"
+      },
+      {
+        "question": "Considering the visual, is the neck gaiter's hemline finished neatly or raw?",
+        "answer": "Neatly"
+      },
+      {
+        "question": "What is the apparent overall construction of the neck gaiter, is it loose or fitted?",
+        "answer": "Loose"
+      },
+      {
+        "question": "Does the visible color of the neck gaiter appear dark or light?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the image, is there evidence of any embellishments on the neck gaiter?",
+        "answer": "No"
       }
     ]
   }

@@ -9,59 +9,59 @@
         "answer": "Yellow"
       },
       {
-        "question": "What is the overall shape of the product's packaging as shown?",
+        "question": "What is the overall shape of the product's packaging?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the primary material of the product's outer wrapping?",
+        "question": "What appears to be the primary material of the product's outer packaging?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the packaging illustration, what is the probable form of the item inside?",
-        "answer": "Rolled"
-      },
-      {
-        "question": "Based on the packaging image, what seems to be the texture of the outer wrapping?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color is the text and illustrations on the product's packaging?",
-        "answer": "Black"
-      },
-      {
-        "question": "Judging by the packaging, what is the likely function suggested by the graphics?",
-        "answer": "Filtering"
-      },
-      {
-        "question": "Describe the style of the illustrations displayed on the product's packaging.",
-        "answer": "Diagrammatic"
-      },
-      {
-        "question": "What kind of material is implied by the product's flexible packaging?",
-        "answer": "Filter"
-      },
-      {
-        "question": "What is the apparent condition of the product's packaging in the image?",
+        "question": "Considering the packaging, what is the likely state of the product inside?",
         "answer": "Sealed"
       },
       {
-        "question": "Considering the images, how many steps seem depicted in the assembly instructions?",
-        "answer": "Four"
+        "question": "What is the apparent texture of the outer packaging material?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the general design of the packaging, considering its form and markings?",
-        "answer": "Simple"
+        "question": "Based on the visuals, what type of instructions are visible on the packaging?",
+        "answer": "Diagrammatic"
       },
       {
-        "question": "Based on the visible markings, is any specific brand name clearly visible?",
-        "answer": "No"
+        "question": "What color are the printed instructions on the packaging?",
+        "answer": "Black"
       },
       {
-        "question": "What is the orientation of the product's package in the provided image?",
+        "question": "Describe the overall transparency of the packaging material.",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What seems to be the product's form factor, judging from its packaging?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What is the general orientation of the graphics on the packaging?",
         "answer": "Horizontal"
       },
       {
-        "question": "Does the package contain any easily visible tear lines or perforations?",
+        "question": "Judging by the image, what is the primary function suggested by the product packaging?",
+        "answer": "Filtering"
+      },
+      {
+        "question": "What is the number of distinct graphical steps shown in the instructions?",
+        "answer": "Four"
+      },
+      {
+        "question": "Describe the style of the graphics displayed on the packaging.",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there any visible branding or logo on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the packaging show any visible signs of damage or wear?",
         "answer": "No"
       }
     ]

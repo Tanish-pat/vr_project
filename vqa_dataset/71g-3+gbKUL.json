@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/db08325d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frame's wood?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the triple photo frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the frame's border?",
+        "answer": "Wood"
+      },
+      {
+        "question": "How many individual photo compartments are visible in the frame?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the arrangement of the photo compartments within the frame?",
+        "answer": "Tripartite"
+      },
+      {
+        "question": "What color are the mats surrounding each individual photo?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of wood grain is visually apparent on the frame?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent finish of the wooden frame's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible wood tone, what is its overall lightness?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent texture of the visible wood grain?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the frame's design, what is its style?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the primary function of this object?",
+        "answer": "Display"
+      },
+      {
+        "question": "What is the presumed material of the internal photo mounts?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on appearance, what is the frame's construction?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the visual profile of the frame's outer edge?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the overall shape of the top portion of the depicted cabinet knob?",
+        "question": "What is the overall shape of the top portion of this furniture knob?",
         "answer": "Square"
       },
       {
-        "question": "What primary material appears to constitute the cabinet knob's body?",
+        "question": "What appears to be the primary material used in the construction of this drawer pull?",
         "answer": "Metal"
       },
       {
-        "question": "Considering the image, what is the finish of the cabinet knob's surface?",
+        "question": "Considering the image, what is the finish of the visible surface of the knob?",
         "answer": "Matte"
       },
       {
-        "question": "Based on the image, what is the style of the visible cabinet knob's design?",
-        "answer": "ArtDeco"
+        "question": "Based on visual inspection, what is the style of the depicted cabinet knob?",
+        "answer": "Modern"
       },
       {
-        "question": "What is the shape of the base section of the cabinet knob displayed?",
+        "question": "Describe the shape of the base or bottom part of this pictured product?",
         "answer": "Square"
       },
       {
-        "question": "Judging from the image, what seems to be the texture of the cabinet knob's surface?",
+        "question": "Judging from the image, what design element is visible on the knob's top and bottom?",
+        "answer": "Bevel"
+      },
+      {
+        "question": "What is the apparent texture of the surface of this object, as shown in the product image?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent number of distinct tiers or levels in the knob's design?",
+        "question": "Considering its shape, what is the most likely function of the product in the image?",
+        "answer": "Pull"
+      },
+      {
+        "question": "Does the image suggest the presence of any visible markings or branding on the object?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate number of distinct levels or sections visible on the product?",
         "answer": "Three"
       },
       {
-        "question": "What seems to be the most defining characteristic of the cabinet knob's form?",
-        "answer": "Geometric"
+        "question": "From the image, does the product show signs of any visible wear or damage?",
+        "answer": "No"
       },
       {
-        "question": "What does the image show regarding the cabinet knob's installation method?",
-        "answer": "Screw"
-      },
-      {
-        "question": "What is the overall size impression of the pictured cabinet knob?",
+        "question": "What is the apparent size of the product, relative to a human hand (estimate)?",
         "answer": "Small"
       },
       {
-        "question": "Based on visual observation, what kind of hardware is depicted in the image?",
-        "answer": "Knob"
+        "question": "What is the general aesthetic impression created by the color and design of this item?",
+        "answer": "Simple"
       },
       {
-        "question": "What is the general orientation or positioning of the cabinet knob in the image?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What is the type of visual effect created by the subtle variations in the knob's shading?",
-        "answer": "Depth"
-      },
-      {
-        "question": "What does the image suggest about the cabinet knob's functionality?",
-        "answer": "Pull"
+        "question": "What design feature is repeated at the top and bottom of this product, creating a sense of symmetry?",
+        "answer": "Frame"
       }
     ]
   }

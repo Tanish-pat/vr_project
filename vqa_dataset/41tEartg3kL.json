@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a9ed24b5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed on the phone's screen in the image?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What appears to be the primary material composing the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the edges, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color best describes the visible portion of the phone case?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Based on the image, what seems to be the finish of the phone case?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging by the image, what is the apparent texture of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What style of cutouts are visible around the phone's buttons?",
+        "answer": "Precise"
+      },
+      {
+        "question": "Considering its form, what is the phone case's design described as?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What kind of fit does the phone case appear to provide for the phone?",
+        "answer": "Snug"
+      },
+      {
+        "question": "What element is shown to be accessible through the phone case?",
+        "answer": "Buttons"
+      },
+      {
+        "question": "What is the general style of the phone case's protection?",
+        "answer": "Protective"
+      },
+      {
+        "question": "What design feature is highlighted regarding button access?",
+        "answer": "Cutouts"
+      },
+      {
+        "question": "What is the apparent level of protection offered by the phone case?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Describe the visible screen's aspect ratio from the image.",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is the apparent overall condition of the phone case?",
+        "answer": "New"
+      }
+    ]
+  }
+]

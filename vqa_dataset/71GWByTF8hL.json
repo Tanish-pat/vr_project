@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the curtain panels shown in the image?",
+        "question": "What is the predominant color of the depicted curtains?",
         "answer": "Brown"
       },
       {
-        "question": "What appears to be the primary material of the curtain fabric, based on its visual texture and drape?",
+        "question": "What appears to be the primary material of the curtains?",
         "answer": "Polyester"
       },
       {
-        "question": "Considering the pleats and the way the fabric hangs, what is the apparent style of the curtain heading?",
-        "answer": "Pinch"
+        "question": "What is the overall style or design of the curtain's pleats?",
+        "answer": "Pleated"
       },
       {
-        "question": "Based on the image, what color are the small decorative tiebacks used to hold the curtains?",
-        "answer": "Beige"
+        "question": "What kind of finial is present on the curtain rod?",
+        "answer": "Ball"
       },
       {
-        "question": "Judging by the visible portion of the rod, what appears to be the finish of the curtain rod?",
+        "question": "What color is the metal of the curtain rod?",
         "answer": "Silver"
       },
       {
-        "question": "What is the overall shape of each individual curtain panel when hung?",
-        "answer": "Rectangular"
+        "question": "What type of tieback is used to hold the curtain?",
+        "answer": "Rope"
       },
       {
-        "question": "What kind of hardware is used to attach the curtains to the rod, visible in the close-up?",
-        "answer": "Rings"
-      },
-      {
-        "question": "Describe the texture of the curtain fabric, appearing smooth or rough based on the image?",
+        "question": "What is the texture of the curtain fabric, based on visual observation?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent type of the decorative elements holding the curtain together?",
-        "answer": "Tassels"
+        "question": "Describe the shape of the individual curtain panels.",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the visible material of the decorative elements at the bottom of the curtains?",
-        "answer": "Wood"
+        "question": "What is the visible type of curtain heading?",
+        "answer": "Grommet"
       },
       {
-        "question": "What is the design style, based on simplicity and lack of patterns?",
-        "answer": "Plain"
+        "question": "What color are the decorative curtain tieback balls?",
+        "answer": "Beige"
       },
       {
-        "question": "What type of window treatment is being displayed in the primary image?",
-        "answer": "Curtains"
+        "question": "Considering the image, what is the apparent hanging method?",
+        "answer": "Rod"
       },
       {
-        "question": "How many curtain panels are depicted in the main product photograph?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the apparent sheen of the curtain fabric as suggested by its reflection of light?",
+        "question": "What appears to be the finish of the curtain rod?",
         "answer": "Matte"
       },
       {
-        "question": "What is the visible construction style of the curtains, considering the seams and pleats?",
-        "answer": "Seamed"
+        "question": "Based on the image, what is the overall light-blocking capacity?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the general condition and state of the product shown?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent number of curtain panels in the image?",
+        "answer": "Two"
       }
     ]
   }

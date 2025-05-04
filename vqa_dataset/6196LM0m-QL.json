@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/ef3dfd2b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the central gemstone in the earring?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the apparent cut style of the main gemstone visible in the earring?",
+        "answer": "Square"
+      },
+      {
+        "question": "What kind of metal appears to be used for the earring's setting?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall shape of the visible gemstone in the earring?",
+        "answer": "Cubic"
+      },
+      {
+        "question": "Considering the visible portion, what type of earring is depicted in the image?",
+        "answer": "Stud"
+      },
+      {
+        "question": "Based on the image, what seems to be the setting style of the earring?",
+        "answer": "Prong"
+      },
+      {
+        "question": "What is the apparent overall size or scale of the earring relative to the earlobe?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the perceived finish or luster of the main gemstone, based on its visual appearance?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the apparent clarity or transparency level of the main stone, visually judging it?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From the image, what appears to be the metal's surface texture of the earring setting?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the number of gemstones visible in each individual earring?",
+        "answer": "One"
+      },
+      {
+        "question": "Judging from the image, what is the visible gemstone's saturation level of color?",
+        "answer": "Bright"
+      },
+      {
+        "question": "What is the visible gemstone's apparent overall brilliance or sparkle level?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visible portion of the setting's apparent weight or thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the visible gemstone's apparent degree of symmetry from the image?",
+        "answer": "Good"
+      }
+    ]
+  }
+]

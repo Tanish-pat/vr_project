@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's border?",
+        "question": "What is the predominant color of the phone case's border?",
         "answer": "Blue"
       },
       {
-        "question": "What appears to be the primary material of the phone case?",
+        "question": "What material appears to constitute the majority of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape of the protective phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Describe the visual transparency level of the case itself?",
+        "question": "Describe the overall transparency level of the phone case material?",
         "answer": "Clear"
       },
       {
-        "question": "What best describes the finish of the phone case's edge?",
+        "question": "Considering the visible design, what is the case's form factor?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What shape best describes the phone case's overall outline?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the case's surface?",
         "answer": "Glossy"
       },
       {
-        "question": "Considering the visual details, what is the case's apparent thickness?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Based on the image, what design element is prominent on the case's edge?",
-        "answer": "Frame"
-      },
-      {
-        "question": "What is the visible texture of the phone case's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Judging from the image, how many cameras are indicated on the case?",
-        "answer": "Two"
-      },
-      {
-        "question": "What seems to be the visual style of the phone case design?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What is the apparent flexibility of the phone case shown?",
+        "question": "Judging by the visual details, what is the apparent flexibility of the case?",
         "answer": "Flexible"
       },
       {
-        "question": "Considering the camera cutouts, what is their shape?",
-        "answer": "Circular"
+        "question": "Considering the visible camera cutouts, how many lenses does the phone have?",
+        "answer": "Two"
       },
       {
-        "question": "What is the overall visual appearance of the phone case?",
-        "answer": "Sleek"
-      },
-      {
-        "question": "What type of protection does the case seem to offer?",
-        "answer": "Bump"
-      },
-      {
-        "question": "Describe the visible color of the phone partially shown through the case.",
+        "question": "What is the apparent color of the phone displayed within the case?",
         "answer": "Black"
+      },
+      {
+        "question": "Judging by the image, what is the thickness of the phone case's border?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What design element is visually prominent along the phone case's edge?",
+        "answer": "Border"
+      },
+      {
+        "question": "What is the general appearance of the case's surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the case exhibit any noticeable patterns or prints on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall visual impression of the phone case's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image, what is the visible style of the phone case?",
+        "answer": "Protective"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bde69497.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device's casing?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What appears to be the primary function of this machine, based on its visible controls?",
+        "answer": "Laminating"
+      },
+      {
+        "question": "What material seems to constitute the majority of the outer shell?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the device's exterior profile.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the control panel, what is the apparent method for feeding materials into the device?",
+        "answer": "Manual"
+      },
+      {
+        "question": "What color are the control panel labels and markings?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What type of output slot or area is noticeable on the device's front?",
+        "answer": "Slot"
+      },
+      {
+        "question": "Observing the device's base, what seems to be its construction?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What texture does the device's surface seem to exhibit based on the image provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the visual elements, does the machine appear to have an integrated power supply?",
+        "answer": "No"
+      },
+      {
+        "question": "How many distinct functional buttons are clearly visible on the device's front?",
+        "answer": "Three"
+      },
+      {
+        "question": "From the image, what seems to be the orientation of the device in use?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent style of the device's overall design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of line style is visibly evident on the device's casing?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the device show any obvious external ventilation features?",
+        "answer": "No"
+      }
+    ]
+  }
+]

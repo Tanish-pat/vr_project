@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the trousers shown in the image?",
+        "question": "What is the predominant color of the trousers shown in the image?",
         "answer": "Brown"
       },
       {
@@ -17,35 +17,31 @@
         "answer": "Straight"
       },
       {
-        "question": "Describe the visible texture of the fabric from which the pants are made.",
+        "question": "Describe the visible texture of the fabric used in the garment shown.",
         "answer": "Smooth"
       },
       {
-        "question": "What is the overall length of the trousers as visually presented?",
-        "answer": "Ankle"
-      },
-      {
-        "question": "Based on the image, what is the apparent closure mechanism of the trousers?",
+        "question": "What style of closure is evident at the waist of the pants?",
         "answer": "Button"
       },
       {
-        "question": "What design element is noticeable at the hems of the trousers?",
-        "answer": "Cuffed"
+        "question": "Based on the image, what is the overall length of the trousers shown?",
+        "answer": "Ankle"
       },
       {
-        "question": "Judging by the image, what type of pockets are visible on the pants?",
-        "answer": "Patch"
+        "question": "What type of cuffs are present at the bottom hems of the pants?",
+        "answer": "Rolled"
       },
       {
-        "question": "What is the apparent fit of the trousers shown on the model?",
+        "question": "Are there any noticeable pockets visible on the front of the trousers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general fit of the pants, in terms of tightness or looseness?",
         "answer": "Relaxed"
       },
       {
-        "question": "What is the visible style of the pants' waistline?",
-        "answer": "High"
-      },
-      {
-        "question": "What color are the suspenders being worn with the trousers?",
+        "question": "What color are the suspenders being worn with the pants?",
         "answer": "Brown"
       },
       {
@@ -53,15 +49,19 @@
         "answer": "Canvas"
       },
       {
-        "question": "Considering the image, what is the style of the pants' legs?",
-        "answer": "Tapered"
+        "question": "Describe the apparent weave or pattern in the trouser fabric shown.",
+        "answer": "Plain"
       },
       {
-        "question": "Based on what is visually apparent, what is the general condition of the pants?",
-        "answer": "New"
+        "question": "What is the style of the pants' waistline, in relation to the hips?",
+        "answer": "Mid"
       },
       {
-        "question": "Judging by the image, what is the overall aesthetic of the pants?",
+        "question": "Based on the image alone, are there any visible seams or stitching details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall aesthetic feel evoked by the pants, in terms of style?",
         "answer": "Casual"
       }
     ]

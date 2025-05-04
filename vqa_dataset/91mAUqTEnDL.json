@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the 3D printing filament spool?",
+        "question": "What is the dominant color of the filament visible on the spool?",
         "answer": "Off-white"
       },
       {
-        "question": "What material is predominantly displayed on the spool's exterior?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the overall shape of the presented object?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What brand is prominently featured on the spool's surface?",
-        "answer": "Amazonbasics"
-      },
-      {
-        "question": "What is the apparent texture of the filament itself?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color is the central hub of the spool?",
-        "answer": "Black"
-      },
-      {
-        "question": "What type of material is indicated on the spool's label?",
+        "question": "What material is predominantly shown on the spool's label?",
         "answer": "PLA"
       },
       {
-        "question": "What is the apparent weight of the spool as shown on the label?",
-        "answer": "1kg"
-      },
-      {
-        "question": "What is the general size of the spool as determined by its diameter?",
-        "answer": "Large"
-      },
-      {
-        "question": "Describe the appearance of the spool's outer edge or rim",
-        "answer": "Ribbed"
-      },
-      {
-        "question": "What is the color of the text on the spool's informational labels?",
-        "answer": "Orange"
-      },
-      {
-        "question": "What is the main visual attribute of the spool's central hole?",
+        "question": "What is the overall shape of the presented product?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What shape are the two small cutouts on the spool's sides?",
-        "answer": "Oval"
+        "question": "What brand name is prominently displayed on the spool?",
+        "answer": "Amazonbasics"
       },
       {
-        "question": "What is the texture of the spool's outer rim?",
+        "question": "What color is the outer casing of the spool?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the material of the spool's outer casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent texture of the filament?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the general condition or state of the filament spool?",
-        "answer": "New"
+        "question": "Describe the shape of the central hole in the spool.",
+        "answer": "Circular"
+      },
+      {
+        "question": "How many visible sections are there on the spool's label containing information?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the overall color scheme of the spool's label?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the apparent finish of the spool's outer surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What shape are the openings on the spool's side?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What seems to be the printing technology indicated on the spool?",
+        "answer": "FDM"
+      },
+      {
+        "question": "What type of writing is primarily used on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color are the small details on the spool's side?",
+        "answer": "Orange"
       }
     ]
   }

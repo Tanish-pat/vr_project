@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the sketchbook's cover?",
+        "question": "What is the dominant color of the sketchbook's cover?",
         "answer": "Black"
       },
       {
         "question": "What appears to be the primary material of the sketchbook's cover?",
-        "answer": "Paper"
+        "answer": "Cardboard"
       },
       {
-        "question": "What is the overall shape or form of the presented sketchbook?",
+        "question": "Considering its curvature, what is the overall shape of the sketchbook?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the visible edge, what type of binding does the sketchbook have?",
-        "answer": "Spiral"
-      },
-      {
-        "question": "What is the apparent texture of the sketchbook's cover, based on visual cues?",
+        "question": "Describing its texture, how does the sketchbook's cover appear?",
         "answer": "Smooth"
       },
       {
-        "question": "Are there any noticeable markings or patterns on the sketchbook's cover?",
-        "answer": "None"
+        "question": "What type of binding is visibly present along the sketchbook's spine?",
+        "answer": "Spiral"
       },
       {
-        "question": "Based on its appearance, how many sheets of paper does it seem to contain?",
-        "answer": "Many"
-      },
-      {
-        "question": "What is the apparent thickness of the sketchbook judging by its profile?",
-        "answer": "Thick"
-      },
-      {
-        "question": "What is the color of the visible binding mechanism on the sketchbook?",
-        "answer": "Silver"
-      },
-      {
-        "question": "Is the sketchbook laying flat or is there a noticeable curve?",
-        "answer": "Curved"
-      },
-      {
-        "question": "Considering the image, what is the general condition of the sketchbook?",
-        "answer": "New"
-      },
-      {
-        "question": "What is the visible color of the paper inside along the binding?",
+        "question": "Observing the visible edges, what color are the sketchbook's pages?",
         "answer": "White"
       },
       {
-        "question": "Does the sketchbook show any signs of wear or damage in the image?",
+        "question": "What is the apparent thickness of the sketchbook, considering its visible side profile?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Based on visual cues, what is the apparent number of pages in the sketchbook?",
+        "answer": "Many"
+      },
+      {
+        "question": "Examining the cover, are there any significant markings or patterns visible?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the image, what seems to be the intended use of this item?",
+        "answer": "Sketchbook"
+      },
+      {
+        "question": "What is the apparent finish of the sketchbook's cover, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, is the sketchbook cover completely flat, or does it curve?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the visible spine, what is the binding style?",
+        "answer": "Coil"
+      },
+      {
+        "question": "Is the spine of the sketchbook visibly showing any stitching or glue?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent orientation of the sketchbook in the provided image?",
-        "answer": "Horizontal"
-      },
-      {
-        "question": "From this view, are there any visible pockets or compartments?",
-        "answer": "No"
+        "question": "What is the overall condition of the sketchbook, is it damaged or new?",
+        "answer": "New"
       }
     ]
   }

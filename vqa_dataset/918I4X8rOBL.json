@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the wall-mounted TV bracket?",
+        "question": "What is the predominant color of the wall-mounted television bracket?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material of construction for the bracket?",
+        "question": "What appears to be the primary material of construction for the TV mount?",
         "answer": "Metal"
       },
       {
-        "question": "Considering the visible structure, what is the overall shape of the bracket?",
+        "question": "Describe the overall shape of the affixed television mounting system?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the image, how many vertical support arms does the bracket possess?",
-        "answer": "Two"
-      },
-      {
-        "question": "Judging by the visible details, what type of installation does the bracket support?",
-        "answer": "Wall"
-      },
-      {
-        "question": "From the image, what seems to be the mounting style of this TV bracket?",
+        "question": "Considering the visible structure, what is the apparent mounting style of the bracket?",
         "answer": "Full-motion"
       },
       {
-        "question": "What is the apparent finish of the metal components of the TV mount?",
+        "question": "Based on its visual appearance, how many arms does the TV bracket possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the image, what seems to be the finish of the metal components?",
         "answer": "Matte"
       },
       {
-        "question": "Judging from the image, what is the relative size of the bracket compared to a typical TV?",
-        "answer": "Small"
+        "question": "Can you describe the visible pattern or design on the bracket's surface?",
+        "answer": "None"
       },
       {
-        "question": "Does the bracket show any visible screws or fasteners in the image?",
+        "question": "What is the apparent orientation of the TV mount relative to the wall?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the bracket seem to offer any tilt or swivel adjustment capabilities?",
         "answer": "Yes"
       },
       {
-        "question": "Does the design of the bracket suggest any tilt or swivel functionality?",
-        "answer": "Yes"
+        "question": "From the visual inspection, what appears to be the overall size of the bracket?",
+        "answer": "Medium"
       },
       {
-        "question": "Based on the visible elements, is the bracket designed for a flat-screen TV?",
-        "answer": "Yes"
+        "question": "What is the apparent number of mounting holes visible on the main bracket?",
+        "answer": "Multiple"
       },
       {
-        "question": "What seems to be the overall design aesthetic of the TV bracket?",
-        "answer": "Modern"
+        "question": "Describe the visible texture of the bracket\u2019s surface, based on the provided image?",
+        "answer": "Smooth"
       },
       {
-        "question": "Are there any visible brand logos or markings on the TV mount?",
+        "question": "Considering the structure, for what type of screen is this bracket suitable?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the visible apparent attachment mechanism between the arms and the wall plate?",
+        "answer": "Screws"
+      },
+      {
+        "question": "Does the bracket show any visible branding or logo?",
         "answer": "No"
-      },
-      {
-        "question": "Does the bracket appear to have any additional features besides support arms?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Based on the visible components, does the bracket seem robust and durable?",
-        "answer": "Yes"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the filling visible between the cracker layers?",
+        "question": "What is the primary color of the filling visible between the cracker layers?",
         "answer": "Yellow"
       },
       {
-        "question": "What shape best describes the individual crackers depicted?",
+        "question": "What is the overall shape of the individual crackers depicted?",
         "answer": "Round"
       },
       {
-        "question": "What is the primary textural characteristic suggested by the cracker's appearance?",
+        "question": "Describe the texture of the cracker's visible surface, based solely on the image.",
         "answer": "Smooth"
       },
       {
-        "question": "What kind of food product is shown in the main image?",
-        "answer": "Crackers"
-      },
-      {
-        "question": "What is the overall color of the crackers shown in the main image?",
+        "question": "What is the dominant color of the cracker exterior shown in the product image?",
         "answer": "Beige"
       },
       {
-        "question": "What word describes the size of the crackers, as presented on the packaging?",
+        "question": "Considering the image, what appears to be the primary ingredient in the filling?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "What is the style of packaging shown, based solely on visual inspection?",
+        "answer": "Box"
+      },
+      {
+        "question": "Based on the visual appearance, what is the product's apparent size relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What kind of food product is displayed in the primary image?",
+        "answer": "Crackers"
+      },
+      {
+        "question": "What word prominently describes the product on the box's label?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "What adjective is used on the packaging to describe the crackers?",
         "answer": "Mini"
       },
       {
-        "question": "Considering the packaging's label, what is the main flavor indicated?",
-        "answer": "Cheese"
+        "question": "What is the general arrangement of the crackers in the product image?",
+        "answer": "Stacked"
       },
       {
-        "question": "What is the overall shape of the stack of crackers shown?",
-        "answer": "Cylindrical"
-      },
-      {
-        "question": "What word describes the food's status as indicated on the packaging?",
+        "question": "What word on the box indicates the product's agricultural status?",
         "answer": "Organic"
       },
       {
-        "question": "Based on the image, what ingredient is visibly present within the crackers?",
+        "question": "What is suggested by the presence of a USDA Organic seal on the packaging?",
+        "answer": "Certified"
+      },
+      {
+        "question": "What type of sandwich is implied by the product name and visual?",
         "answer": "Cheese"
       },
       {
-        "question": "What type of filling is shown in the image between the cracker layers?",
-        "answer": "Creamy"
-      },
-      {
-        "question": "What is the apparent texture of the cracker's exterior surface?",
-        "answer": "Crisp"
-      },
-      {
-        "question": "What is the brand name prominently displayed on the packaging?",
-        "answer": "365"
-      },
-      {
-        "question": "Judging by the packaging, where might this product typically be purchased?",
-        "answer": "Market"
-      },
-      {
-        "question": "What is the suggested serving style indicated by the product name?",
-        "answer": "Sandwich"
+        "question": "Describe the color scheme of the branding on the packaging box.",
+        "answer": "Green"
       }
     ]
   }

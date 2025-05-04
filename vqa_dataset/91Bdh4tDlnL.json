@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/51/51beddfd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rectangular speaker?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the speaker's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the speaker's overall form, what geometric term best describes its shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the front panel, what texture is apparent on the speaker's grille?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Located on the top surface, what is the apparent design of the control buttons?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Based on the image, how many control buttons are visibly present on the speaker's top?",
+        "answer": "Five"
+      },
+      {
+        "question": "What seems to be the function of this elongated device shown in the picture?",
+        "answer": "Speaker"
+      },
+      {
+        "question": "Judging from its visual attributes, what is the inferred style of the speaker?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the image, what is the surface finish of the speaker's exterior?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What design feature is noticeable along the speaker's sides and edges?",
+        "answer": "Beveled"
+      },
+      {
+        "question": "In the provided image, what is the apparent size of this rectangular speaker?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Regarding the provided image, what is the orientation of this electronic speaker?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Observing the speaker\u2019s front, what feature is visible near the bottom?",
+        "answer": "Grille"
+      },
+      {
+        "question": "Based on the image's perspective, what is the visible aspect of the speaker?",
+        "answer": "Top"
+      },
+      {
+        "question": "From the given image, what seems to be the overall condition of the speaker?",
+        "answer": "New"
+      }
+    ]
+  }
+]

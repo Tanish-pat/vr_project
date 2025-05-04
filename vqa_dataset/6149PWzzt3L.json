@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the stapler's body?",
+        "question": "What is the predominant color of the stapler's body?",
         "answer": "Black"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "Rectangular"
       },
       {
-        "question": "Considering its design, what is the stapler's functional purpose?",
-        "answer": "Stapling"
-      },
-      {
-        "question": "What is the texture of the stapler's visible surfaces?",
+        "question": "What is the apparent texture of the stapler's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Describing its form factor, is the stapler bulky or compact?",
-        "answer": "Compact"
-      },
-      {
-        "question": "What type of mechanism is visible for staple insertion?",
+        "question": "Considering the design, what is the stapler's operational mechanism?",
         "answer": "Manual"
       },
       {
-        "question": "Judging by its appearance, does the stapler seem heavy or lightweight?",
-        "answer": "Lightweight"
+        "question": "Based on its form, what is the intended function of this device?",
+        "answer": "Stapling"
       },
       {
-        "question": "Based on the image, what is the apparent finish of the stapler?",
-        "answer": "Matte"
+        "question": "Does the stapler have a visible staple-loading mechanism?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the shape of the stapler's base, where the paper rests?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible color of the staple loading area?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Is there any visible branding or logo on the stapler?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the design, what is the capacity of the stapler?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What kind of grip does the stapler's design offer to the hand?",
+        "answer": "Comfortable"
       },
       {
         "question": "What is the general size of the stapler relative to a human hand?",
-        "answer": "Small"
+        "answer": "Compact"
       },
       {
-        "question": "What kind of staples does the stapler appear designed to use?",
-        "answer": "Standard"
+        "question": "Does the stapler seem to have any notable ergonomic features?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the color of the base on which the stapler rests?",
-        "answer": "Black"
-      },
-      {
-        "question": "From the image, what seems to be the design style of the stapler?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Is the stapler's body design primarily curved or angular?",
-        "answer": "Angular"
-      },
-      {
-        "question": "Observing the image closely, what is the visible condition of the stapler?",
-        "answer": "New"
+        "question": "What is the position of the staple insertion point?",
+        "answer": "Center"
       }
     ]
   }

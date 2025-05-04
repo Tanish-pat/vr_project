@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant geometric pattern adorning the cushion?",
+        "question": "What is the predominant geometric pattern decorating the cushion surfaces?",
         "answer": "Diamond"
       },
       {
-        "question": "What are the primary colors displayed on the cushion's fabric?",
-        "answer": "Gray"
-      },
-      {
-        "question": "Describe the overall shape of the individual cushions presented in the image?",
-        "answer": "Square"
-      },
-      {
-        "question": "What appears to be the main material used for the outer covering of the cushions?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Judging by the image, what seems to be the texture of the cushion fabric?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the stack, how many cushions are visibly present in the product photo?",
-        "answer": "Three"
-      },
-      {
-        "question": "What secondary color complements the dominant gray shade in the design?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the apparent level of thickness or padding visible in each cushion?",
-        "answer": "Thick"
-      },
-      {
-        "question": "Does the pattern appear to be consistent across the entire surface of each cushion?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Based on the visual, how would you describe the overall style of the cushion design?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "Considering the visual, what's the apparent visual weight or density of the cushions?",
-        "answer": "Light"
-      },
-      {
-        "question": "Judging from the image, does the pattern have any noticeable sheen or gloss?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the apparent level of detail present in the repeating pattern?",
-        "answer": "High"
-      },
-      {
-        "question": "What additional color accents the primary gray and black?",
+        "question": "Describe the main color scheme used in the cushion's design?",
         "answer": "Beige"
       },
       {
-        "question": "Are there any visible seams or stitching details apparent on the cushions' surfaces?",
+        "question": "What secondary color accents the primary beige in the pattern?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the tertiary color forming the pattern's outline?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visible pile, what is the likely texture of the cushion fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of each individual cushion?",
+        "answer": "Square"
+      },
+      {
+        "question": "How many cushions are visibly stacked together in the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "Judging by the visible seams, does the cushion appear to be filled?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the style, what is the likely intended use of these cushions?",
+        "answer": "Outdoor"
+      },
+      {
+        "question": "What is the visible condition of the fabric; pristine, worn or other?",
+        "answer": "Pristine"
+      },
+      {
+        "question": "Based on the image, is the fabric design printed or woven?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Does the pattern appear to be consistently applied across all cushions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there evidence of any visible stitching details on the cushions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any visible signs of damage to the cushions?",
         "answer": "No"
+      },
+      {
+        "question": "What is the general level of detail in the pattern's design?",
+        "answer": "Moderate"
       }
     ]
   }

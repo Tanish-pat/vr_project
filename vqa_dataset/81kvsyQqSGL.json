@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the design on the phone case?",
+        "question": "What is the predominant color of the depicted phone case?",
         "answer": "Pink"
       },
       {
-        "question": "What shapes are repeatedly depicted across the phone case's surface?",
+        "question": "What is the primary design element covering the phone case?",
         "answer": "Stars"
       },
       {
-        "question": "What appears to be the primary material or finish of the phone case?",
-        "answer": "Sequin"
-      },
-      {
-        "question": "Describe the overall visual texture conveyed by the phone case's design?",
+        "question": "Describe the apparent texture of the star-shaped design elements on the case?",
         "answer": "Glittery"
       },
       {
-        "question": "Considering the design, what is the implied style or aesthetic of the case?",
-        "answer": "Girly"
+        "question": "What shape are the majority of the decorative elements on the phone case?",
+        "answer": "Stars"
       },
       {
-        "question": "What is the most noticeable visual characteristic of the individual stars?",
-        "answer": "Metallic"
+        "question": "What appears to be the material of the phone case's surface?",
+        "answer": "Plastic"
       },
       {
-        "question": "Based on the image, what seems to be the form factor of the phone case?",
-        "answer": "Hard"
+        "question": "What is the overall visual impression of the phone case design?",
+        "answer": "Sparkly"
       },
       {
-        "question": "Ignoring any logo, how would you characterize the pattern's arrangement?",
+        "question": "Considering the color scheme, what is the overall aesthetic of the phone case?",
+        "answer": "Feminine"
+      },
+      {
+        "question": "Based on the image, what is the form factor of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the apparent arrangement of the star shapes across the phone case's surface?",
         "answer": "Random"
       },
       {
-        "question": "What type of visual effect do the stars' varied shades create?",
-        "answer": "Shimmer"
+        "question": "Are the stars on the case consistently sized, or do they vary in scale?",
+        "answer": "Varied"
       },
       {
-        "question": "From the provided viewpoints, what can be seen on the side of the case?",
+        "question": "What color are the star shapes primarily depicted on the phone case?",
         "answer": "Pink"
       },
       {
-        "question": "Does the design feature any clear lines or borders separating the pattern?",
-        "answer": "No"
+        "question": "Does the phone case design have a glossy or matte finish?",
+        "answer": "Glossy"
       },
       {
-        "question": "Considering the print, how would you describe the star's level of detail?",
-        "answer": "Simple"
+        "question": "Are there any visible logos or branding marks displayed on the phone case?",
+        "answer": "None"
       },
       {
-        "question": "Can you visually discern the presence of any other elements besides the stars?",
-        "answer": "No"
+        "question": "Considering the design, to what style would this phone case most likely appeal?",
+        "answer": "Girly"
       },
       {
-        "question": "How would you define the visual density of the star pattern on the case?",
-        "answer": "High"
-      },
-      {
-        "question": "Is there a significant variation in the size of the stars within the design?",
-        "answer": "Slight"
+        "question": "What is the implied level of protection this phone case likely offers?",
+        "answer": "Basic"
       }
     ]
   }

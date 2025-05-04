@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall color of the cat tree, as shown in the image?",
+        "question": "What is the overall color of the cat tree, as visually apparent in the image?",
         "answer": "Beige"
       },
       {
-        "question": "What primary material appears to constitute the cat tree's covering?",
-        "answer": "Plush"
+        "question": "What primary material seems to constitute the cat tree's covering?",
+        "answer": "Fabric"
       },
       {
-        "question": "Describing the cat tree's shape, what geometric form best represents its overall structure?",
+        "question": "Considering the visible structural elements, what is the dominant shape of the cat tree?",
         "answer": "Curved"
       },
       {
-        "question": "How many distinct levels or platforms are visibly integrated into the cat tree's design?",
+        "question": "How many distinct platforms or levels for cat resting are clearly visible on the cat tree?",
         "answer": "Three"
       },
       {
-        "question": "What is the apparent texture of the material used on the cat tree's platforms and posts?",
-        "answer": "Soft"
+        "question": "What seems to be the texture of the fabric covering the cat tree's posts and platforms?",
+        "answer": "Fuzzy"
       },
       {
-        "question": "Considering the image, what is the most noticeable shape of the lower resting area?",
-        "answer": "Curved"
+        "question": "Is there a visible scratching post element integrated into the cat tree's design?",
+        "answer": "Yes"
       },
       {
-        "question": "What seems to be the most prominent feature for the cat to play with on this cat tree?",
-        "answer": "Ball"
-      },
-      {
-        "question": "Based on visual observation, what is the apparent style of the cat tree's design?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What is the visual appearance of the base, where the cat tree stands?",
+        "question": "What is the general shape of the base platform supporting the whole cat tree structure?",
         "answer": "Square"
       },
       {
-        "question": "Judging from the image, what kind of material seems to form the vertical posts?",
-        "answer": "Carpeted"
+        "question": "Does the image reveal any dangling toys or interactive elements hanging from the cat tree?",
+        "answer": "Yes"
       },
       {
-        "question": "Describe the structural composition of the supporting posts of this cat tree.",
-        "answer": "Vertical"
+        "question": "What appears to be the primary purpose or functionality of this piece of furniture?",
+        "answer": "Climbing"
       },
       {
-        "question": "Considering the visual details, what is the overall height of the cat tree?",
+        "question": "Judging from the image, what is the approximate height of the tallest part of the cat tree?",
         "answer": "Tall"
       },
       {
-        "question": "What could be the purpose of the small, raised platform at the top?",
-        "answer": "Platform"
-      },
-      {
-        "question": "How many supporting posts are visually apparent in the image of the cat tree?",
-        "answer": "Four"
-      },
-      {
-        "question": "Describe the general visual aesthetic of the cat tree in the provided image.",
+        "question": "Considering the materials and construction, what would you describe the overall style of the cat tree?",
         "answer": "Simple"
+      },
+      {
+        "question": "Based on the visual details, is the cat tree designed for a single or multiple cats?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the visible color of the cat resting on the top platform of the cat tree?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the cat tree's structure have any noticeable gaps or openings beyond those required for functionality?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent position of the small ball-like toy element?",
+        "answer": "Middle"
       }
     ]
   }

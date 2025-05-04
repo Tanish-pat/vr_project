@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/36/369233b8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the outer packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the apparent shape of the individual items inside?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color are the items contained within the box?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the contents, what is the probable function of this product?",
+        "answer": "Waste"
+      },
+      {
+        "question": "Describe the texture of the outer packaging visually.",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent packaging configuration of the inner product?",
+        "answer": "Rolls"
+      },
+      {
+        "question": "Based on the image, what appears to be the packaging's structural integrity?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What is the overall shape of the external packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the packaging style, what is the likely product category?",
+        "answer": "Disposal"
+      },
+      {
+        "question": "What type of printing or markings are visible on the box?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the contents, what is the likely material of the inner product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the visible state of the box's flaps.",
+        "answer": "Open"
+      },
+      {
+        "question": "How many visible rolls are present inside the packaging?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Describe the arrangement of the inner rolls within the box.",
+        "answer": "Stacked"
+      }
+    ]
+  }
+]

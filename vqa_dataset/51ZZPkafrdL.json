@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the packaging's primary design element?",
-        "answer": "Blue"
-      },
-      {
-        "question": "What is the overall shape of the product's packaging?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What material appears to constitute the product's outer wrapping?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the prominent text displayed on the packaging?",
-        "answer": "Protein"
-      },
-      {
-        "question": "Describe the visual texture of the depicted product inside the packaging?",
-        "answer": "Layered"
-      },
-      {
-        "question": "What color is the visible portion of the product within?",
-        "answer": "Off-white"
-      },
-      {
-        "question": "What is the general shape of the food product itself, as seen through the packaging?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Considering the packaging design, what is the brand name visible?",
-        "answer": "Amply"
-      },
-      {
-        "question": "What secondary color accentuates the primary color on the packaging?",
+        "question": "What is the predominant color of the packaging's main background?",
         "answer": "Black"
       },
       {
-        "question": "What is the overall visual impression of the product's packaging style?",
-        "answer": "Modern"
+        "question": "What color is the prominent stripe encircling the package?",
+        "answer": "Blue"
       },
       {
-        "question": "What design element is repeated along the sides of the packaging?",
-        "answer": "Triangles"
+        "question": "What is the apparent texture of the visible food product inside?",
+        "answer": "Layered"
       },
       {
-        "question": "Judging by the image, what is the apparent condition of the packaging?",
-        "answer": "Sealed"
+        "question": "What shape best describes the overall packaging of the item?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the product's primary functional purpose, based on the packaging?",
+        "question": "What material appears to constitute the primary packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall color of the visible food item?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Describe the style of the graphic design elements on the package?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What term is prominently featured on the packaging?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What is the apparent form of the food inside the package?",
+        "answer": "Bar"
+      },
+      {
+        "question": "Does the packaging feature a visible brand name or logo?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the style of the text font on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What type of seal appears at the ends of the package?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Describe the arrangement of the graphic elements on the packaging?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Is the packaging glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the implied function of the item based on its image?",
         "answer": "Nutrition"
-      },
-      {
-        "question": "Does the visible portion of the product show any significant textural variation?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Based on the packaging, would you classify this as a single-serving product?",
-        "answer": "Yes"
       }
     ]
   }

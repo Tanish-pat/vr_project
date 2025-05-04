@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d1/d180cdde.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted security safe?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall geometric shape of the presented safe?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What appears to be the primary material composing the outer shell?",
+        "answer": "Steel"
+      },
+      {
+        "question": "What type of locking mechanism is visibly integrated into the safe's door?",
+        "answer": "Digital"
+      },
+      {
+        "question": "What additional locking mechanism is present besides the digital keypad?",
+        "answer": "Dial"
+      },
+      {
+        "question": "What brand name is subtly embossed on the safe's surface?",
+        "answer": "AmazonBasics"
+      },
+      {
+        "question": "Describe the apparent texture of the safe's exterior finish.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many numerical digits are displayed on the keypad?",
+        "answer": "Ten"
+      },
+      {
+        "question": "What is the apparent orientation of the safe in the provided image?",
+        "answer": "Side"
+      },
+      {
+        "question": "What design element is positioned near the digital keypad?",
+        "answer": "Handle"
+      },
+      {
+        "question": "What is the most noticeable visual characteristic of the safe\u2019s door?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the safe show any significant visible scratches or damage?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the safe depicted with any visible external hinges?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the safe relative to common household items?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the overall design, what is the safe's likely purpose?",
+        "answer": "Security"
+      }
+    ]
+  }
+]

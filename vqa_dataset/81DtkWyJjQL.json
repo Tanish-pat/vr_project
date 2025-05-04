@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary food item depicted on the packaging, as indicated by the prominent text?",
+        "question": "What is the primary food item depicted on the package, indicated by prominent labeling?",
         "answer": "Chickpea"
       },
       {
-        "question": "Considering the text displayed, what dietary restriction is explicitly addressed regarding this product?",
-        "answer": "Gluten"
+        "question": "Considering the prominent branding, which major grocery store chain is this product associated with?",
+        "answer": "WholeFoods"
       },
       {
-        "question": "What is the overall shape of the presented product package, based on its visual outline?",
-        "answer": "Rectangular"
+        "question": "What dietary restriction is explicitly stated on the product packaging, suggesting its suitability for specific consumers?",
+        "answer": "GlutenFree"
       },
       {
-        "question": "What color is the dominant background of the packaging design?",
-        "answer": "Beige"
-      },
-      {
-        "question": "What color is the primary text on the package, specifically the product name?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What is the style of the lettering used for the product's name, 'Chickpea'?",
-        "answer": "Script"
-      },
-      {
-        "question": "Which prominent brand's logo is displayed on this product packaging?",
-        "answer": "Wholefoods"
-      },
-      {
-        "question": "What additional adjective, besides 'Chickpea,' describes the type of food product in question?",
-        "answer": "Shells"
-      },
-      {
-        "question": "What word precedes 'Chickpea' in the product description, specifying a quality?",
+        "question": "Based on the explicit claim on the packaging, what is the cultivation method of the main ingredient?",
         "answer": "Organic"
       },
       {
-        "question": "What is the apparent texture of the packaging's background, suggesting a specific design element?",
+        "question": "Describing the visual texture of the background, what tactile sensation does it visually evoke?",
         "answer": "Striped"
       },
       {
-        "question": "What graphic elements surround the Whole Foods Market logo, forming a decorative border?",
-        "answer": "Wheat"
+        "question": "What specific part of the chickpea is being sold, as clearly indicated in the product description?",
+        "answer": "Shells"
       },
       {
-        "question": "What is the overall tone or aesthetic of the design, considering the color palette and typography?",
-        "answer": "Rustic"
+        "question": "What color is the primary text used for the product name and dietary information on the package?",
+        "answer": "Brown"
       },
       {
-        "question": "What is the texture of the written elements on the product packaging, based on their visual appearance?",
-        "answer": "Smooth"
+        "question": "What is the overall shape of the product packaging shown in the image?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the color of the decorative wheat illustrations surrounding the brand logo?",
+        "question": "What color is the background of the packaging on which the text and logo are printed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the color of the wheat-like design elements framing the Whole Foods Market logo?",
         "answer": "Green"
       },
       {
-        "question": "What is the overall packaging material that is visually identifiable?",
+        "question": "What is the general style of the typography used for the product's name on the package?",
+        "answer": "Script"
+      },
+      {
+        "question": "What is the shape of the design element that encircles the Whole Foods Market logo?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the primary material that the packaging appears to be made of based on its visual characteristics?",
         "answer": "Paper"
+      },
+      {
+        "question": "What is the color of the text indicating that the product is 'organic'?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What kind of visual texture does the 'Whole Foods Market' logo appear to have?",
+        "answer": "Smooth"
       }
     ]
   }

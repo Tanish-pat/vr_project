@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the knitted upper of these shoes?",
+        "question": "What is the dominant color of the knitted upper on these women's athletic shoes?",
         "answer": "Pink"
       },
       {
-        "question": "What material appears to constitute the majority of the shoe's upper?",
+        "question": "What is the apparent material composition of the shoe's breathable upper?",
         "answer": "Knit"
       },
       {
-        "question": "Describe the overall texture of the shoe's upper material as shown in the image?",
-        "answer": "Woven"
-      },
-      {
-        "question": "What is the apparent color of the sole unit in direct contact with the ground?",
-        "answer": "White"
-      },
-      {
-        "question": "Considering the laces, what type of closure system does the shoe employ?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "Based on the image, what is the general shape of the shoe's toe box?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What is the apparent construction of the shoe's midsole, judging from the image?",
-        "answer": "Solid"
-      },
-      {
-        "question": "What design element is visible on the shoe's upper, indicating a pattern?",
+        "question": "Describe the primary design element forming the upper's surface texture?",
         "answer": "Mesh"
       },
       {
-        "question": "Describe the style of the shoe as shown, considering the design and height?",
-        "answer": "Low-top"
+        "question": "What type of closure system is utilized for adjusting the fit of these casual sneakers?",
+        "answer": "Lace"
       },
       {
-        "question": "From the visual appearance, what is the inferred overall design aesthetic of the shoe?",
-        "answer": "Casual"
+        "question": "What color is the midsole of these low-top athletic shoes, providing cushioning?",
+        "answer": "White"
       },
       {
-        "question": "Judging by its visual appearance, what is the apparent height of the shoe's sole?",
+        "question": "Considering the overall silhouette, what is the general style of these shoes?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "What is the overall shape of the shoe's toe box, considering its visible profile?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What appears to be the primary function implied by the design of these shoes?",
+        "answer": "Walking"
+      },
+      {
+        "question": "What material is used to construct the sole providing traction for these shoes?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Based on the image, what is the height of these shoes, considering the upper profile?",
         "answer": "Low"
       },
       {
-        "question": "What is the visible pattern in the knitting of the upper shoe section?",
-        "answer": "Diamond"
+        "question": "Describe the style of lacing utilized on these women's knitted shoes?",
+        "answer": "Standard"
       },
       {
-        "question": "Considering the visible structure, is there a significant heel elevation on the shoe?",
+        "question": "What is the texture of the upper of these athletic shoes, considering the knitted structure?",
+        "answer": "Breathable"
+      },
+      {
+        "question": "What kind of sole design is used for these knit athletic shoes?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent thickness of the midsole under the shoe's main section?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does this image show any prominent branding or logos on the shoes themselves?",
         "answer": "No"
-      },
-      {
-        "question": "What color are the laces that are visible on the shoe?",
-        "answer": "Pink"
-      },
-      {
-        "question": "Based on the provided image, what is the apparent material of the shoe's sole?",
-        "answer": "Rubber"
       }
     ]
   }

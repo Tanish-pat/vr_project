@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f101a238.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the tabletop and legs?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used in the table's construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the tabletop's structure, what design element is prominently featured?",
+        "answer": "Slats"
+      },
+      {
+        "question": "What is the overall shape of the table's surface area?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the wood?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the table's legs, what is their structural style?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What kind of support structure is visible beneath the tabletop?",
+        "answer": "Frame"
+      },
+      {
+        "question": "Does the table appear to be designed for indoor or outdoor use?",
+        "answer": "Outdoor"
+      },
+      {
+        "question": "What type of joint seems to be visible at the center of the tabletop?",
+        "answer": "Butt"
+      },
+      {
+        "question": "How many legs does the table visually appear to have?",
+        "answer": "Four"
+      },
+      {
+        "question": "Observing the base, what is the shape of the connecting support beams?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the overall style, what design category would this table fall under?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Focusing on the tabletop edge, what is the profile's shape?",
+        "answer": "Squared"
+      },
+      {
+        "question": "Regarding the table's legs, what is the overall visual style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What appears to be the visible grain direction in the tabletop?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

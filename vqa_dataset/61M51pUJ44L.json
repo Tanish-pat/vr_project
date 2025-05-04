@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fadfbb5a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case's design?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What animal is prominently featured in the repeated pattern?",
+        "answer": "Pug"
+      },
+      {
+        "question": "What accessory is the pug consistently depicted wearing?",
+        "answer": "Bowtie"
+      },
+      {
+        "question": "What type of headwear adorns the pug in the illustration?",
+        "answer": "Hat"
+      },
+      {
+        "question": "Besides the pug, what musical instrument is illustrated repeatedly?",
+        "answer": "Guitar"
+      },
+      {
+        "question": "What other musical instrument appears in the design pattern?",
+        "answer": "Keyboard"
+      },
+      {
+        "question": "What kind of bicycle is a recurring element of the print?",
+        "answer": "Penny-farthing"
+      },
+      {
+        "question": "What phrase is repeatedly printed on the phone case design?",
+        "answer": "Awesome"
+      },
+      {
+        "question": "What facial hair is illustrated alongside the pug and musical instruments?",
+        "answer": "Mustache"
+      },
+      {
+        "question": "Describe the overall style of the design on the phone case.",
+        "answer": "Retro"
+      },
+      {
+        "question": "What is the apparent texture of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the material of the phone case, based on appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape is the overall product in its entirety?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is the design primarily geometric or organic in character?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the design elements, would you describe the style as minimalist?",
+        "answer": "No"
+      }
+    ]
+  }
+]
