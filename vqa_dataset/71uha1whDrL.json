@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the handbag shown in the provided image?",
+        "question": "What is the dominant color of the handbag's exterior?",
         "answer": "White"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this handbag?",
+        "question": "What appears to be the primary material of the handbag?",
         "answer": "Leather"
       },
       {
-        "question": "Considering the overall form, what is the most accurate geometrical description of this bag's shape?",
+        "question": "What is the overall shape of the handbag's main body?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on its visible features, what is the apparent style of this handbag?",
-        "answer": "Shoulder"
-      },
-      {
-        "question": "Describe the texture of the outer surface of this handbag, as visible in the image.",
+        "question": "Describe the visible texture of the handbag's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What metallic color is observed on the visible hardware components of the bag?",
+        "question": "What color are the visible metallic accents on the bag?",
         "answer": "Gold"
       },
       {
-        "question": "Focusing on the bag's closure, what type of mechanism is visually apparent?",
+        "question": "What type of closure is visible on the top edge of the bag?",
         "answer": "Zipper"
       },
       {
-        "question": "Considering the image, does the bag feature any noticeable external pockets or compartments?",
+        "question": "Considering the design, what is the bag's intended style?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Is there a visible shoulder strap or handle attached?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size of the handbag, relative to typical bags?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the bag exhibit any visible logos or branding?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent finish of the bag's exterior, such as matte or glossy?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Does the provided image show any noticeable branding or logos on the bag?",
-        "answer": "No"
-      },
-      {
-        "question": "Judging from the image, what is the general size of the handbag \u2013 is it small, medium, or large?",
-        "answer": "Medium"
-      },
-      {
-        "question": "From the image, describe the visible stitching on the handbag\u2014is it prominent or subtle?",
+        "question": "Describe the stitching visible along the edges of the bag.",
         "answer": "Subtle"
       },
       {
-        "question": "Based on its appearance, is the bag structured or does it appear to be soft and unstructured?",
-        "answer": "Structured"
+        "question": "What is the apparent condition of the handbag shown in the image?",
+        "answer": "New"
       },
       {
-        "question": "Considering the image, how many visible straps or handles are present on this handbag?",
+        "question": "How many visible compartments or sections are there on the bag?",
         "answer": "One"
       },
       {
-        "question": "Judging by the image, what is the overall visual impression of the handbag?",
-        "answer": "Simple"
+        "question": "Does the handbag appear to be structured or unstructured in form?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What is the visible orientation of the bag in the provided image?",
+        "answer": "Side"
       }
     ]
   }

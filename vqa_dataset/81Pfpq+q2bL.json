@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the television mount shown?",
+        "question": "What is the primary color of the depicted television wall mount?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this mount?",
+        "question": "What appears to be the dominant material used in the construction of this wall mount?",
         "answer": "Metal"
       },
       {
-        "question": "Considering the design, what is the intended functionality of this product?",
-        "answer": "Mounting"
-      },
-      {
-        "question": "Based on the image, what type of movement does the mount offer the television?",
-        "answer": "Tilt"
-      },
-      {
-        "question": "What seems to be the overall shape of the mounting bracket itself?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Does the mount's design incorporate any visible screws or fasteners?",
+        "question": "Considering the image, does the mount allow for tilting adjustments of the attached television?",
         "answer": "Yes"
       },
       {
-        "question": "Judging by the image, what is the surface finish of the mount's visible parts?",
-        "answer": "Matte"
+        "question": "Based on the visual evidence, what is the overall shape of the mount's main supporting arm?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Considering the product's orientation in the picture, where is it intended to be placed?",
+        "question": "Judging from the image, what kind of surface does the mount appear to attach to?",
         "answer": "Wall"
       },
       {
-        "question": "Based on the appearance, how would you describe the aesthetic of the mount?",
-        "answer": "Minimalist"
+        "question": "Does the provided visual suggest any visible screws or fasteners securing the mount to the wall?",
+        "answer": "Yes"
       },
       {
-        "question": "Does the mount appear to have any noticeable decorative elements or patterns?",
+        "question": "Considering the mount's design, does it appear to have any additional features beyond basic support?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Examining the image, what is the apparent finish of the wall mount's visible surfaces?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on visual inspection, is the mount's design simplistic or highly intricate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the visual, what is the overall mounting profile of the depicted system?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the image show any indication of cable management features within the mount's design?",
         "answer": "No"
       },
       {
-        "question": "Based on the visual details, what is the apparent size of the mount relative to a television?",
-        "answer": "Small"
+        "question": "From the image, how many main support arms are visibly present in the television mount?",
+        "answer": "One"
       },
       {
-        "question": "What is the apparent texture of the mount's surface, considering the image's resolution?",
-        "answer": "Smooth"
+        "question": "What type of connection method is visually apparent for securing the TV to the mount?",
+        "answer": "Screws"
       },
       {
-        "question": "Focusing on the bracket, can you describe its relative profile (thin/thick)?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Does the image show any visible branding or logo on the television mount?",
+        "question": "Does the mount in the image showcase any visible branding or markings?",
         "answer": "No"
       },
       {
-        "question": "From a visual perspective, does this mount seem robust or flimsy in construction?",
-        "answer": "Robust"
+        "question": "Based on visual observation, does the mount seem robust enough for larger televisions?",
+        "answer": "Yes"
       }
     ]
   }

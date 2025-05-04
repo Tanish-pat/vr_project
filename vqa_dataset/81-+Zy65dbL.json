@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible upper portion of these slip-on shoes?",
+        "question": "What is the predominant color of the slip-on shoes shown in the image?",
         "answer": "Tan"
       },
       {
-        "question": "What appears to be the primary material composing the visible outer surface of the shoes?",
+        "question": "What appears to be the primary material composing the upper part of the shoes?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the overall shape or style of the footwear presented in the image?",
-        "answer": "Slip-on"
-      },
-      {
-        "question": "Considering the stitching detail, what style of construction is visible on the shoe's upper?",
+        "question": "Describe the visible stitching detail along the sole and upper seams of the footwear.",
         "answer": "Stitched"
       },
       {
-        "question": "What color is the visible sole of the footwear displayed in the provided image?",
-        "answer": "Black"
-      },
-      {
-        "question": "Based on the image, what seems to be the texture of the visible shoe upper?",
-        "answer": "Suede"
-      },
-      {
-        "question": "What is the apparent design feature along the edge of the shoe's upper?",
-        "answer": "Stitching"
-      },
-      {
-        "question": "Considering the heel design, what type of heel construction is present on this footwear?",
-        "answer": "Flat"
-      },
-      {
-        "question": "What is the visible material of the midsole which is between the sole and the upper?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Judging from the image, what is the general style of these shoes?",
-        "answer": "Casual"
-      },
-      {
-        "question": "What is the visible pattern of the stitching detail on the shoe's upper?",
-        "answer": "Decorative"
-      },
-      {
-        "question": "Describe the visible toe shape of the presented footwear in the given image?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What type of closure mechanism is clearly visible on the pair of shoes?",
+        "question": "What is the overall shape or style of the footwear depicted in the provided image?",
         "answer": "Slip-on"
       },
       {
-        "question": "Judging by the image, what is the overall condition of the footwear presented?",
-        "answer": "New"
+        "question": "Considering the design, what is the apparent closure mechanism of these shoes?",
+        "answer": "Slip-on"
       },
       {
-        "question": "Considering the image, what is the apparent level of detail in the construction of these shoes?",
-        "answer": "Detailed"
+        "question": "What color is the visible outsole of the shoes, contrasting with the upper?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the texture of the upper material of the shoes?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Focusing on the toe area, what shape best describes the shoe's toe cap?",
+        "answer": "Round"
+      },
+      {
+        "question": "What seems to be the construction method of the shoe's sole, attached or integrated?",
+        "answer": "Attached"
+      },
+      {
+        "question": "Describe the apparent visual thickness or profile of the footwear's sole.",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the overall style, what would be the casual or formal classification of this shoe?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What design element is visible near the heel of the shoe on the upper material?",
+        "answer": "Seam"
+      },
+      {
+        "question": "Looking at the sole's edge, what is the apparent color of the stitching present?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the general style or type of stitching used on the upper part of the shoes?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "What is the visible design pattern visible on the surface of the shoes?",
+        "answer": "Solid"
       }
     ]
   }

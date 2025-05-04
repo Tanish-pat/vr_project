@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca6a9742.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the pencil's body, as visually apparent?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the image, what material appears to constitute the pencil's shaft?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall shape of the writing instrument?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the visible portion of the eraser at the pencil's end?",
+        "answer": "Red"
+      },
+      {
+        "question": "Judging from the image, what appears to be the primary writing implement of this item?",
+        "answer": "Graphite"
+      },
+      {
+        "question": "From the provided image, what is the visible color of the pencil's tip?",
+        "answer": "Black"
+      },
+      {
+        "question": "What seems to be the texture of the pencil's body, as depicted in the photograph?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the pencil in the image show any noticeable branding or markings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what type of writing utensil is displayed in the image?",
+        "answer": "Pencil"
+      },
+      {
+        "question": "What color is the metallic component visible near the eraser end?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the image reveal any visible imperfections or damage on the pencil?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the pencil design simplistic or ornate?",
+        "answer": "Simplistic"
+      },
+      {
+        "question": "Considering the image only, is the pencil mechanically sharpened or blunt?",
+        "answer": "Sharpened"
+      },
+      {
+        "question": "Based on visual assessment, what is the approximate length of the pencil?",
+        "answer": "Long"
+      },
+      {
+        "question": "Does the image show the pencil in an assembled or disassembled state?",
+        "answer": "Assembled"
+      }
+    ]
+  }
+]

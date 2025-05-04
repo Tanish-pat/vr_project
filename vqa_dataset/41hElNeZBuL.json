@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the bed frame?",
+        "question": "What is the dominant color of the bed frame's primary structure?",
         "answer": "Brown"
       },
       {
-        "question": "What material appears to constitute the bed frame?",
+        "question": "What appears to be the primary material used in the bed's construction?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the overall shape of the bed's headboard design?",
+        "question": "Describe the overall shape or form of the bed frame?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many distinct headboards does the bed feature?",
-        "answer": "Two"
+        "question": "Considering the visible slats, what is the bed's support system?",
+        "answer": "Platform"
       },
       {
-        "question": "What is the apparent finish of the wooden frame?",
+        "question": "Characterize the visual texture of the bed frame's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the visible orientation of the wooden slats?",
+        "question": "How many headboards are integrated into the bed's design?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent finish or treatment of the wood?",
+        "answer": "Stained"
+      },
+      {
+        "question": "Describe the style of the headboards' vertical elements?",
+        "answer": "Slender"
+      },
+      {
+        "question": "What is the shape of the headboards' top edge?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Describe the orientation of the wooden slats within the bed frame?",
         "answer": "Horizontal"
       },
       {
-        "question": "Considering the frame's height, what is its style?",
+        "question": "What is the design aesthetic overall in relation to the frame?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of joints are visible in the frame structure?",
+        "answer": "Butt"
+      },
+      {
+        "question": "What is the visible variation in wood tones throughout the bed?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "How would you characterize the overall height of the bed frame?",
         "answer": "Low"
       },
       {
-        "question": "What is the visual texture of the wooden slats?",
-        "answer": "Linear"
-      },
-      {
-        "question": "What kind of support structure is visible beneath the mattress?",
-        "answer": "Slats"
-      },
-      {
-        "question": "Describe the general profile of the bed frame's footboard?",
-        "answer": "Squared"
-      },
-      {
-        "question": "What appears to be the overall style of the bed?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What is the shape of the individual headboard components?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Are the headboard and footboard similar in design?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Describe the connection between the headboard and frame?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What is the apparent grain direction of the wood?",
+        "question": "What is the predominant visual line direction in the headboard?",
         "answer": "Vertical"
       }
     ]

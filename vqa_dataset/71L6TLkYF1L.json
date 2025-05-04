@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the bag's primary design element?",
+        "question": "What is the dominant color displayed on the front of the package?",
         "answer": "Green"
       },
       {
-        "question": "What is the overall shape of the food packaging depicted?",
+        "question": "What is the overall shape of the product packaging?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the texture of the depicted food packaging, based on its visual appearance?",
-        "answer": "Papery"
-      },
-      {
-        "question": "What is the primary material of the product's packaging, as visually suggested?",
+        "question": "What is the primary material used for the product's packaging?",
         "answer": "Paper"
       },
       {
-        "question": "What brand name is prominently displayed on the product packaging?",
+        "question": "What is the brand name prominently featured on the packaging?",
         "answer": "365"
       },
       {
-        "question": "What is the flavor of the snack indicated on the packaging?",
+        "question": "What specific type of pickle is described on the package?",
         "answer": "Dill"
       },
       {
-        "question": "What type of food product does the packaging visually suggest?",
-        "answer": "Pickles"
-      },
-      {
-        "question": "What is the word that describes the preparation style of the snack indicated on the packaging?",
+        "question": "What preparation method is mentioned for the pickles?",
         "answer": "Naturally"
       },
       {
-        "question": "What additional word modifies the primary ingredient stated on the package?",
-        "answer": "Whole"
+        "question": "What word describes the pickles' flavor profile?",
+        "answer": "Tangy"
       },
       {
-        "question": "What is the apparent form of the pickles within the package, based on the image?",
-        "answer": "Sliced"
+        "question": "What is the texture implied by the description of the pickles?",
+        "answer": "Crispy"
       },
       {
-        "question": "Based on the visible text, what is one method suggested for consuming this snack?",
-        "answer": "Sandwich"
+        "question": "What is the primary ingredient of the snack mentioned on the package?",
+        "answer": "Pickles"
       },
       {
-        "question": "What is the nutritional information visually presented on the package's side?",
+        "question": "What nutritional information is displayed on the package?",
         "answer": "Facts"
       },
       {
-        "question": "What is indicated as the total amount of calories per serving, as visually apparent?",
-        "answer": "230"
+        "question": "What is one suggested serving method mentioned on the package?",
+        "answer": "Snack"
       },
       {
-        "question": "What type of seal or certification mark is partially visible on the bottom left?",
-        "answer": "Recycled"
+        "question": "What is the stated serving size in grams?",
+        "answer": "28"
       },
       {
-        "question": "Besides the brand name, what additional text visually identifies this product?",
-        "answer": "Pickle"
+        "question": "What type of oil is mentioned in the ingredients?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "Is there a UPC code visible on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall style of the packaging design?",
+        "answer": "Minimalist"
       }
     ]
   }

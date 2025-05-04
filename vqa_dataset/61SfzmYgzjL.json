@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the depicted lightbulb?",
+        "question": "What is the overall shape of the lightbulb, considering its bulbous top and threaded base?",
         "answer": "A60"
       },
       {
-        "question": "What dominant color characterizes the bulb's exterior?",
+        "question": "What dominant color is observed across the majority of the lightbulb's visible surface?",
         "answer": "White"
       },
       {
-        "question": "What material appears to constitute the lightbulb's outer casing?",
+        "question": "What material appears to constitute the primary body of the lightbulb, based on its diffuse reflection of light?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the apparent finish of the lightbulb's surface?",
+        "question": "What type of finish is evident on the lightbulb's surface, considering the light reflection and lack of shine?",
         "answer": "Matte"
       },
       {
-        "question": "What type of base does this LED lightbulb possess?",
-        "answer": "Edison"
+        "question": "What metallic material seems to comprise the threaded base of the lightbulb, as indicated by its sheen?",
+        "answer": "Metal"
       },
       {
-        "question": "What metal is visibly used in the lightbulb's base?",
+        "question": "What is the apparent finish of the metallic base, considering the visible reflections?",
         "answer": "Silver"
       },
       {
-        "question": "Considering the image, what is the lightbulb's light emission type?",
-        "answer": "Diffuse"
+        "question": "What is the shape of the metallic contact points within the threaded base of the bulb?",
+        "answer": "Circular"
       },
       {
-        "question": "Describe the visible texture of the lightbulb's surface.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What seems to be the primary function of the object shown?",
+        "question": "Considering the image, what is the primary function suggested by the structure and shape of the object?",
         "answer": "Lighting"
       },
       {
-        "question": "Observing the details, what technology is employed by the bulb?",
+        "question": "What kind of light source does this object appear to be based on its shape and design?",
         "answer": "LED"
       },
       {
-        "question": "What is the general visual impression of the lightbulb's design?",
-        "answer": "Simple"
+        "question": "What is the visible texture of the lightbulb's outer surface, as indicated by the absence of visible patterns?",
+        "answer": "Smooth"
       },
       {
-        "question": "Based on the image, how many visible parts comprise the bulb?",
-        "answer": "Two"
+        "question": "What design element is most prominent on the lightbulb, referring to its primary construction?",
+        "answer": "Bulbous"
       },
       {
-        "question": "What is the visible color of the lightbulb's metallic base?",
-        "answer": "Grey"
+        "question": "Judging from the visible components, what is the overall construction type of the lightbulb?",
+        "answer": "Assembled"
       },
       {
-        "question": "Describe the visible level of surface reflectivity.",
-        "answer": "Low"
+        "question": "What is the overall size of the lightbulb, specifically its shape and profile relative to standard household fixtures?",
+        "answer": "Standard"
       },
       {
-        "question": "What is the overall aesthetic of the pictured LED lightbulb?",
-        "answer": "Minimalist"
+        "question": "Based on the image, what is the visible state of the lightbulb, whether new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the visible pattern on the metal base, based on its function for electrical connectivity?",
+        "answer": "Threaded"
       }
     ]
   }

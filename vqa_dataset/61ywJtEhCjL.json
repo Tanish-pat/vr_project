@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e33148f6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the furniture piece shown?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What primary material appears to constitute the visible structure?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric descriptor?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible texture of the top surface of this item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of support mechanism is visibly integrated at the base?",
+        "answer": "Wheels"
+      },
+      {
+        "question": "How many visibly distinct storage compartments are incorporated in the design?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent finish applied to the visible wooden surfaces?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Characterize the overall style of this furniture piece as shown in the picture?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the visual appearance of the edges and corners of the item shown?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Based on its visible design features, what is the most likely purpose of this object?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the visual shape of the visible side panels of the structure?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the visible structural integrity of the showcased item?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the visual height of the object in comparison to its width?",
+        "answer": "Low"
+      },
+      {
+        "question": "Describe the visible pattern or grain of the material used in construction?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the apparent level of ornamentation or decoration incorporated in the item?",
+        "answer": "Minimal"
+      }
+    ]
+  }
+]

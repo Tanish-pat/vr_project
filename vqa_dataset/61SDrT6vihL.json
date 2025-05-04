@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/585eda6a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's label, as visibly shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the supplement container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the visual details, what material appears to compose the supplement bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the label closely, what is the primary text indicating the product's function?",
+        "answer": "Probiotic"
+      },
+      {
+        "question": "From the image, what is the visible primary color accent on the label aside from the dominant color?",
+        "answer": "Green"
+      },
+      {
+        "question": "What design element is prominently featured on the label, visually separating different sections of text?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Judging by the image, what is the apparent texture of the supplement bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent type of closure on top of the supplement container, visible in the picture?",
+        "answer": "Screw-cap"
+      },
+      {
+        "question": "What is the apparent visual format of the text on the label in terms of its arrangement?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "According to the visible text, what quantity of CFUs are mentioned on the supplement label?",
+        "answer": "10Billion"
+      },
+      {
+        "question": "Does the label prominently feature a brand name, and if so, what is it?",
+        "answer": "Solmo"
+      },
+      {
+        "question": "What type of dietary supplement is specifically stated on the packaging as shown?",
+        "answer": "Probiotic"
+      },
+      {
+        "question": "What is the apparent size of the text 'Probiotic' relative to other text elements on the label?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the image, is there any visible indication of a tamper-evident seal?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible overall orientation of the supplement bottle as presented in the image?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

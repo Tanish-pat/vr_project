@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the chair's legs?",
+        "question": "What is the predominant color of the visible chair leg?",
         "answer": "Black"
       },
       {
-        "question": "What material appears to constitute the chair's legs?",
+        "question": "What material appears to constitute the chair's leg structure?",
         "answer": "Metal"
       },
       {
-        "question": "What shape best describes the cross-section of each leg?",
-        "answer": "Round"
-      },
-      {
-        "question": "What is the apparent finish of the chair's metal components?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What protective feature is visible at the base of each leg?",
-        "answer": "Caps"
-      },
-      {
-        "question": "What material are the protective features at the leg base made from?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Describe the overall structural design of the chair's legs.",
-        "answer": "Sleek"
-      },
-      {
-        "question": "How many legs are visible within the provided image frame?",
-        "answer": "Three"
-      },
-      {
-        "question": "What is the texture of the protective leg base material?",
+        "question": "Considering the leg's finish, what is its apparent texture?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering the legs, what is the chair's overall style?",
-        "answer": "Modern"
+        "question": "What shape best describes the cross-section of the metal leg?",
+        "answer": "Round"
       },
       {
-        "question": "What is the apparent thickness of the chair's metal legs?",
-        "answer": "Thin"
+        "question": "What is the apparent material of the protective foot cap?",
+        "answer": "Rubber"
       },
       {
-        "question": "What type of connection is visibly present between the legs?",
+        "question": "Based on the image, what is the function of the bottom cap?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Describing the leg's form, what is its overall structural style?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What is the apparent method of construction for the chair leg?",
         "answer": "Welded"
       },
       {
-        "question": "Are there any visible markings or imperfections on the legs?",
-        "answer": "None"
+        "question": "Judging by the image, how many visible support bars are present?",
+        "answer": "Three"
       },
       {
-        "question": "Describe the curvature of the chair legs overall.",
-        "answer": "Curved"
+        "question": "What is the apparent finish applied to the metal chair leg?",
+        "answer": "Powder"
       },
       {
-        "question": "How would you describe the visible joints in the leg structure?",
-        "answer": "Strong"
+        "question": "Considering the visible joint, what type of weld is used?",
+        "answer": "Butt"
+      },
+      {
+        "question": "What design feature is observed at the chair leg's base?",
+        "answer": "Cap"
+      },
+      {
+        "question": "What is the apparent condition of the chair leg's surface?",
+        "answer": "Clean"
+      },
+      {
+        "question": "How many legs are implied by the provided image?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the apparent thickness of the metal chair leg?",
+        "answer": "Thin"
       }
     ]
   }

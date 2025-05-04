@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/72/72babf88.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary metallic finish of the door knob?",
+        "answer": "Brass"
+      },
+      {
+        "question": "What is the overall shape of the door knob's handle?",
+        "answer": "Spherical"
+      },
+      {
+        "question": "What type of keyhole is visible on the door knob?",
+        "answer": "Keyhole"
+      },
+      {
+        "question": "What appears to be the material composition of the door knob?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the apparent surface texture of the door knob's handle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent color family of the door knob's finish?",
+        "answer": "Bronze"
+      },
+      {
+        "question": "What style of door knob is depicted; privacy or passage?",
+        "answer": "Privacy"
+      },
+      {
+        "question": "Considering the design, what is the intended function of this knob?",
+        "answer": "Security"
+      },
+      {
+        "question": "Based on the image, is this a single or double cylinder knob?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the shape of the backplate behind the knob?",
+        "answer": "Round"
+      },
+      {
+        "question": "Describe the apparent size relative to a standard door?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What is the apparent visible fastening mechanism?",
+        "answer": "Screws"
+      },
+      {
+        "question": "Is the keyhole centrally located on the knob's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall aesthetic style of this door knob?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Does the door knob show signs of wear or damage in this image?",
+        "answer": "No"
+      }
+    ]
+  }
+]

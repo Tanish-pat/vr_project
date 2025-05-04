@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/90c2f802.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible material?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the product?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What type of closure mechanism is visible on the product?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "What color is the visible zipper pull or slider?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describing the texture, is the surface smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the inner lining visible through the opening?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the overall shape of the visible section of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, does the material seem supple or rigid?",
+        "answer": "Supple"
+      },
+      {
+        "question": "Considering the visible seams, are they straight or curved?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the apparent width of the grey accent strip?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Does the image show any visible stitching along the seams?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, does the zipper seem to be heavy-duty or lightweight?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What is the visible style of the zipper application?",
+        "answer": "Inset"
+      },
+      {
+        "question": "Is the image predominantly focused on the surface texture or the internal components?",
+        "answer": "Surface"
+      },
+      {
+        "question": "Does the product appear to be a complete item, or a section of a larger one?",
+        "answer": "Section"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b54e95e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant finish or coating applied to the visible surface of the faucet?",
+        "answer": "Chrome"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometrical description of the faucet's handle?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the construction of this product?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Examining the handle's design closely, what is the shape of the lever's end profile?",
+        "answer": "Teardrop"
+      },
+      {
+        "question": "What is the apparent number of water outlets visibly integrated into the faucet's body?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the faucet's body, what is the overall visual impression regarding its shape or style?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What is the color of the visible parts of the faucet body based solely on the image provided?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Judging from the image's resolution, what is the texture of the faucet's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style that best reflects the general design aesthetic evident in this product's visual characteristics?",
+        "answer": "Modern"
+      },
+      {
+        "question": "How many individual visible components can be clearly distinguished in this faucet's assembly?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent design of the connections where water would exit the faucet?",
+        "answer": "Circular"
+      },
+      {
+        "question": "In terms of its overall silhouette, what is the basic form of the faucet's main body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What design element is most prominent on the water control lever itself?",
+        "answer": "Curve"
+      },
+      {
+        "question": "What seems to be the type of installation for this faucet, given the mounting points visible?",
+        "answer": "Wall"
+      },
+      {
+        "question": "Based on visible features, what kind of faucet does this appear to be, considering its functionality?",
+        "answer": "Bathroom"
+      }
+    ]
+  }
+]

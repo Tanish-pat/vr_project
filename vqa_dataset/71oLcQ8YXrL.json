@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/33335635.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container shown in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the predominant color of the product's container?",
+        "answer": "White"
+      },
+      {
+        "question": "What certification label is prominently displayed on the container?",
+        "answer": "USDA"
+      },
+      {
+        "question": "What word, next to USDA, indicates an organic product?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Describe the texture implied by the appearance of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the product container, based on its visual characteristics?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the text on the certification label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What graphic element is visible below the word 'Organic' on the label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the overall style of the labeling on the container?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the product packaging show any other noticeable markings or designs besides the label?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the product's presentation, what is the likely packaging type?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Is the label attached to the container's side or on its top?",
+        "answer": "Top"
+      },
+      {
+        "question": "What is the shape of the certification label itself, relative to the container?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What type of printing seems to have been used for the label?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Based on the image alone, what can be visually inferred about the product's contents?",
+        "answer": "Liquid"
+      }
+    ]
+  }
+]

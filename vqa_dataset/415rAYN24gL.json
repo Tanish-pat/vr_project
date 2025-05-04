@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/9243e616.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the vehicle's body?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent material of the front bumper?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the vehicle?",
+        "answer": "SUV"
+      },
+      {
+        "question": "What color are the accent pieces on the front bumper?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What type of wheels does the vehicle have?",
+        "answer": "Alloy"
+      },
+      {
+        "question": "What is the apparent material of the wheel rims?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the design of the front grille?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the color of the side view mirrors?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the headlights?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the vehicle's body?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the vehicle's paint?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the visible brand logo on the front?",
+        "answer": "Suzuki"
+      },
+      {
+        "question": "What is the general style of the vehicle's body?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What type of vehicle is depicted in the image?",
+        "answer": "Car"
+      },
+      {
+        "question": "Describe the color of the small accent pieces near the wheel well?",
+        "answer": "Orange"
+      }
+    ]
+  }
+]

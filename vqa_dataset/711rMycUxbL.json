@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form and packaging, what is the predominant shape of this product?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Based on the visual appearance, what is the most apparent color of the inner content?",
+        "question": "Considering the primary visible hue of the contained substance, what single-word descriptor best captures its chromatic essence?",
         "answer": "Green"
       },
       {
-        "question": "Judging from the image, what seems to be the primary material composing the outer packaging?",
-        "answer": "Foil"
+        "question": "What is the most apparent and dominant material used in the construction of the outer packaging of the product?",
+        "answer": "Plastic"
       },
       {
-        "question": "What texture is predominantly visible on the outer, sealed portion of the package?",
-        "answer": "Striped"
+        "question": "Observing the overall form of the product, what geometric term most accurately describes its shape?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Considering the visual properties, what is the apparent texture of the inner content?",
-        "answer": "Smooth"
+        "question": "In terms of textural characteristics, what single word best defines the surface appearance of the outer packaging?",
+        "answer": "Folded"
       },
       {
-        "question": "Given the visual characteristics of the seal, what appears to be the packaging's closure method?",
-        "answer": "Sealed"
-      },
-      {
-        "question": "Judging from the appearance of the edges and corners, what is the perceived form of the inner component?",
-        "answer": "Sachet"
-      },
-      {
-        "question": "In reference to the inner visible content, what would you describe the overall visual consistency to be?",
+        "question": "Focusing on the visible inner contents, what is the most prominent visual property of its substance?",
         "answer": "Liquid"
       },
       {
-        "question": "If considering only visual attributes, what is the shade of the outer packaging's primary color?",
+        "question": "Describe the design element observed on the top portion of the product's packaging, characterized by repeating parallel lines.",
+        "answer": "Stripes"
+      },
+      {
+        "question": "What is the general color of the primary packaging material, excluding the contents?",
         "answer": "Grey"
       },
       {
-        "question": "Based on the image provided, what is the visible state of the product?",
-        "answer": "Unopened"
+        "question": "Based on the image, what seems to be the primary function of the outer packaging, relating to the content?",
+        "answer": "Containment"
       },
       {
-        "question": "From a purely visual inspection, what is the estimated size of the product?",
-        "answer": "Small"
+        "question": "Considering the visual characteristics of the contents' packaging, what is a good one-word description of its form?",
+        "answer": "Sachet"
       },
       {
-        "question": "What would you describe the general condition of the product packaging to be, from visual observation alone?",
-        "answer": "Intact"
+        "question": "Describe the visible texture of the inner contents, as observed through the outer packaging.",
+        "answer": "Smooth"
       },
       {
-        "question": "Based on visual elements alone, what type of packaging does the product appear to utilize?",
-        "answer": "Flexible"
+        "question": "What is the apparent overall condition of the product, indicating its level of usage?",
+        "answer": "Sealed"
       },
       {
-        "question": "From visual assessment of its overall construction, what is the intended use of this packaging?",
-        "answer": "Single"
+        "question": "What is the most prominent visual feature that sets off the contained substance from its packaging?",
+        "answer": "Contrast"
       },
       {
-        "question": "According to what is directly visible, what is the primary function of the outer layer?",
-        "answer": "Protection"
+        "question": "What is the apparent state of the substance inside, liquid or solid?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the primary function suggested by the product\u2019s design and packaging?",
+        "answer": "Portioning"
+      },
+      {
+        "question": "Describe the overall visual impression of the product's color scheme.",
+        "answer": "Monochromatic"
       }
     ]
   }

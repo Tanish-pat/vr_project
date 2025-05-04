@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the packaging's design?",
+        "question": "What is the predominant color scheme of the packaging design shown in the image?",
         "answer": "Green"
       },
       {
-        "question": "What geometric pattern adorns the majority of the product's bag?",
-        "answer": "Geometric"
+        "question": "What geometric pattern is prominently featured on the bag's surface?",
+        "answer": "Chevron"
       },
       {
-        "question": "What is the primary material used for the product's packaging?",
+        "question": "What material appears to be used for the primary product packaging?",
         "answer": "Paper"
       },
       {
-        "question": "What type of salt is indicated on the product's label?",
-        "answer": "Epsom"
-      },
-      {
-        "question": "What is the stated function of the product, as shown on the label?",
+        "question": "What is the stated primary function or use of the product contained within?",
         "answer": "Soaking"
       },
       {
-        "question": "What is the brand name visibly printed on the product's packaging?",
-        "answer": "Solimo"
+        "question": "What type of salt is explicitly mentioned on the product's packaging?",
+        "answer": "Epsom"
       },
       {
-        "question": "Describe the overall shape of the product's packaging container?",
+        "question": "What is the overall shape of the product's immediate packaging?",
         "answer": "Rectangular"
       },
       {
-        "question": "What additional word describes the product's function, appearing next to 'Soaking'?",
-        "answer": "Aid"
+        "question": "Based on the visible label, what is the brand name of this product?",
+        "answer": "Solimo"
       },
       {
-        "question": "What is the apparent texture of the product's packaging?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the orientation of the primary geometric shapes on the packaging?",
-        "answer": "Diagonal"
-      },
-      {
-        "question": "What is the color of the secondary background element in the packaging design?",
-        "answer": "White"
-      },
-      {
-        "question": "What scent is indicated on the product's packaging?",
+        "question": "What additional scent is suggested on the bag's label?",
         "answer": "Eucalyptus"
       },
       {
-        "question": "What is the unit of weight displayed on the bag?",
-        "answer": "Kg"
+        "question": "What is the stated purpose on the packaging for Epsom Salt?",
+        "answer": "Aid"
       },
       {
-        "question": "What kind of packaging is used for the product?",
-        "answer": "Bag"
+        "question": "What is the visual texture of the product packaging\u2019s surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "Does the packaging have any visibly clear sealing?",
-        "answer": "No"
+        "question": "Describe the visual style of the brand logo displayed on the bag.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the visible weight of the product, expressed numerically?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the indicated unit of weight shown on the package?",
+        "answer": "Pounds"
+      },
+      {
+        "question": "Describe the visual design of the text elements on the bag.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall form factor of the product container as seen in the image?",
+        "answer": "Pouch"
       }
     ]
   }

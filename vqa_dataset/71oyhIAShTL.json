@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the predominant color displayed on the majority of the phone case surface?",
         "answer": "Red"
       },
       {
-        "question": "What is the primary design element depicted across the phone case?",
-        "answer": "Waterdrops"
+        "question": "What design element is prominently featured across the phone case, mimicking water droplets?",
+        "answer": "Pattern"
       },
       {
-        "question": "What kind of pattern is created by the design's main motif?",
-        "answer": "Repeating"
-      },
-      {
-        "question": "What apparent texture is implied by the visual design of the phone case?",
+        "question": "What appears to be the texture depicted by the design on the phone case?",
         "answer": "Wet"
       },
       {
-        "question": "Describe the overall shape of the protective phone cover shown?",
+        "question": "What shape does this phone case seem to take overall, conforming to the phone it protects?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the material of the illustrated phone case?",
-        "answer": "Plastic"
+        "question": "What graphic design element bisects the phone case's image, creating two distinct zones?",
+        "answer": "Diagonal"
       },
       {
-        "question": "What is the noticeable color of the accent line diagonally across the phone case?",
+        "question": "What secondary color is visible on a portion of the phone case, contrasting with the primary color?",
         "answer": "Grey"
       },
       {
-        "question": "Considering the design, what is the overall aesthetic of this phone case?",
+        "question": "What material does the image suggest this phone case is likely composed of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visual details, what is the overall style conveyed by the phone case design?",
         "answer": "Modern"
       },
       {
-        "question": "What kind of finish does the water droplet design seem to have on the case?",
+        "question": "Describe the visual effect that the water droplet pattern imparts on the phone case design?",
         "answer": "Glossy"
       },
       {
-        "question": "What style of graphic design is predominantly used on this phone accessory?",
-        "answer": "Abstract"
+        "question": "Based on the image, what seems to be the finish of the phone case's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "How many camera cutouts are visibly present on this phone cover image?",
-        "answer": "Three"
+        "question": "What kind of camera cutout is visible on the phone case, indicating compatibility with a phone?",
+        "answer": "Triple"
       },
       {
-        "question": "Based solely on the image, what seems to be the phone case's rigidity?",
-        "answer": "Hard"
+        "question": "What feature is indicated by the cutout near the center bottom of the phone case?",
+        "answer": "Sensor"
       },
       {
-        "question": "What is the visible color of the phone case's border or edge?",
-        "answer": "Black"
+        "question": "What subtle visual elements are scattered across the case, contributing to the overall design?",
+        "answer": "Circles"
       },
       {
-        "question": "What is the style of the brand logo visible on the phone case?",
-        "answer": "Simple"
+        "question": "Judging by the image, what is the general condition of the phone case shown?",
+        "answer": "New"
       },
       {
-        "question": "What type of phone model is this case specifically designed for?",
-        "answer": "Samsung"
+        "question": "What is the general visual impression of this phone case, based solely on the image?",
+        "answer": "Stylish"
       }
     ]
   }

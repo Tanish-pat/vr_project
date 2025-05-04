@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the USB hub's casing?",
+        "question": "What is the predominant color of the main USB hub unit?",
         "answer": "Silver"
       },
       {
-        "question": "What is the overall shape of the main USB hub device?",
+        "question": "What is the overall shape of the primary USB hub component?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many USB ports are visibly present on the hub's surface?",
+        "question": "How many USB ports are visibly present on the device's surface?",
         "answer": "Seven"
       },
       {
-        "question": "What color are the indicator lights for the USB ports?",
+        "question": "What color are the indicator lights displayed on the USB hub?",
         "answer": "Blue"
       },
       {
-        "question": "What appears to be the material of the power adapter's casing?",
-        "answer": "Plastic"
+        "question": "What appears to be the material of construction for the main hub?",
+        "answer": "Metal"
       },
       {
         "question": "What is the color of the included power adapter?",
         "answer": "Black"
       },
       {
-        "question": "What type of connector does the power adapter use for the wall outlet?",
-        "answer": "USB"
-      },
-      {
-        "question": "What kind of cable is used to connect the power supply to the hub?",
-        "answer": "DC"
-      },
-      {
-        "question": "What is the apparent material of the USB hub's exterior?",
-        "answer": "Aluminum"
-      },
-      {
-        "question": "What color is the packaging box the product arrived in?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What is the connector type of the longer included cable?",
-        "answer": "USB"
-      },
-      {
-        "question": "What appears to be the material of the packaging box?",
+        "question": "What is the apparent material of the packaging box?",
         "answer": "Cardboard"
       },
       {
-        "question": "What is the shape of the smaller adapter piece?",
-        "answer": "Rectangular"
+        "question": "What type of connector is shown on the end of the power cable?",
+        "answer": "DC"
       },
       {
-        "question": "What is the primary function of the device shown in the center?",
-        "answer": "Hub"
+        "question": "What color are the USB cables provided with the hub?",
+        "answer": "Black"
       },
       {
-        "question": "What seems to be the material of the shorter included cable?",
+        "question": "What is the shape of the included power adapter?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Describe the surface texture of the USB hub casing.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the connector type on the end of one of the USB cables?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "What appears to be the material of the smaller adapter included?",
         "answer": "Plastic"
+      },
+      {
+        "question": "What type of markings are visible on the packaging box?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the overall form factor of the presented items?",
+        "answer": "Compact"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme used to display the nutritional information on this food label, considering the background and text colors?",
+        "question": "What is the primary color scheme used in the design of this nutrition facts label, considering the background and text?",
         "answer": "Black"
       },
       {
-        "question": "Considering the overall rectangular shape, what is the dominant orientation of the nutritional information panel on this food package?",
-        "answer": "Vertical"
+        "question": "What is the overall shape of the presented nutritional information panel?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the primary type of textual information presented on this food package, providing crucial details for consumers?",
-        "answer": "Nutritional"
-      },
-      {
-        "question": "In the context of the nutritional label's design, what is the typeface utilized for presenting the values for each nutrient?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "What is the texture implied by the visual representation of the nutritional panel, considering its smooth and flat surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Given the high contrast between text and background, what can be described as the level of readability of the nutritional information provided on the food label?",
-        "answer": "High"
-      },
-      {
-        "question": "Considering the structure and arrangement, what is the layout of the nutritional information on this food label\u2014simple or complex?",
-        "answer": "Tabular"
-      },
-      {
-        "question": "Based on the visual elements present, what appears to be the overall material of the food label itself?",
-        "answer": "Paper"
-      },
-      {
-        "question": "Considering the visual clarity and organization, what is the level of detail in the presentation of nutritional information on this food label?",
-        "answer": "High"
-      },
-      {
-        "question": "What is the visual appearance of the nutritional information text, is it bold or thin?",
+        "question": "What type of text is predominantly utilized for the heading 'Nutrition Facts'?",
         "answer": "Bold"
       },
       {
-        "question": "What is the visual presentation style of the percentages shown next to each nutrient, as an indication of daily value?",
-        "answer": "Aligned"
+        "question": "What is the apparent texture of the paper or material on which the nutrition facts are printed, based on the image's visual appearance?",
+        "answer": "Smooth"
       },
       {
-        "question": "Based on the image, what is the overall visual impression of the nutritional information's design, simple or cluttered?",
-        "answer": "Simple"
+        "question": "Considering the visual organization, what is the structural layout of the data presented on the label?",
+        "answer": "Tabular"
       },
       {
-        "question": "Considering the size and spacing of the text elements, what is the visual hierarchy of the information in terms of emphasis\u2014uniform or varied?",
-        "answer": "Varied"
+        "question": "What is the style of the font used for displaying the numerical values within the nutrition facts?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "Based on the distinct sections and categories, what can be said about the organizational structure of the nutritional information presented?",
-        "answer": "Organized"
+        "question": "What is the method used to separate and categorize various nutritional components on this label?",
+        "answer": "Columns"
       },
       {
-        "question": "What is the visual state of the nutritional information\u2014is it crisp and clear, or blurred and faded?",
-        "answer": "Crisp"
+        "question": "Based on the visual representation, what unit is consistently employed for measuring the quantity of nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the visual treatment of the percentages shown against each nutrient?",
+        "answer": "Inline"
+      },
+      {
+        "question": "Considering the size and style, what design element is used to highlight the 'Nutrition Facts' title?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What visual characteristic distinguishes the 'Serving Size' and 'Servings Per Container' lines from other entries?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What is the visual method used to indicate percentage values within the context of recommended daily intake?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "What is the format for presenting the caloric information, considering its placement and visual style?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What is the overall visual impression conveyed by the design of the nutrition facts label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual representation used to separate data into distinct sections or categories?",
+        "answer": "Lines"
       }
     ]
   }

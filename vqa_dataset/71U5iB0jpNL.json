@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the upper shoe material?",
+        "question": "What is the predominant color of the visible upper portion of the shoe?",
         "answer": "Red"
       },
       {
-        "question": "What is the primary material visibly used for the shoe's upper?",
+        "question": "What material appears to constitute the majority of the shoe's upper?",
         "answer": "Mesh"
       },
       {
-        "question": "Describe the visible texture of the main shoe fabric.",
-        "answer": "Knit"
-      },
-      {
-        "question": "What color is the visible portion of the shoe's insole?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the apparent shape of the shoe's toe box?",
+        "question": "Describe the overall shape of the shoe's toe-box area?",
         "answer": "Rounded"
       },
       {
-        "question": "Describe the style of the shoe's heel.",
-        "answer": "Flat"
-      },
-      {
-        "question": "What color is the visible outsole of the shoe?",
+        "question": "What color is the visible portion of the shoe's sole?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent design of the shoe's upper?",
-        "answer": "Simple"
+        "question": "What is the apparent texture of the main upper material?",
+        "answer": "Textured"
       },
       {
-        "question": "What is the overall visible construction of the shoe?",
+        "question": "What color is the interior lining visible near the shoe's opening?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent design of the upper, considering the pattern?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Considering the construction, what type of shoe is this?",
         "answer": "Slip-on"
       },
       {
-        "question": "What is the visible material of the shoe's sole?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Does the shoe exhibit any noticeable decorative elements?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the visible pattern on the upper shoe?",
+        "question": "What is the visible pattern on the shoe's upper?",
         "answer": "Grid"
       },
       {
-        "question": "What is the visible material of the shoe lining?",
-        "answer": "Fabric"
+        "question": "Describe the shape of the shoe's heel counter?",
+        "answer": "Rounded"
       },
       {
-        "question": "Describe the shoe's closure system?",
-        "answer": "None"
+        "question": "What is the style of the shoe?",
+        "answer": "Ballerina"
       },
       {
-        "question": "Is there visible branding or logo on the shoes?",
-        "answer": "Yes"
+        "question": "What is the apparent material of the sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describe the visible stitching on the shoe's upper?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the apparent thickness of the shoe's sole?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What features does the shoe have for easy on and off?",
+        "answer": "Slip-on"
       }
     ]
   }

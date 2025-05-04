@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2fed43ac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what dominant color best describes the handbag's main body?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the predominant textural pattern displayed across the bag's surface?",
+        "answer": "Quilted"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this handbag?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Observing the strap's structure, what material seems to be integrated with the leather portion?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the general shape or form of the handbag, considering its dimensions and structure?",
+        "answer": "Bucket"
+      },
+      {
+        "question": "Based on the visual details, what type of closure mechanism is evident at the top of the handbag?",
+        "answer": "Drawstring"
+      },
+      {
+        "question": "Looking at the bag's design, what embellishments or decorative elements are noticeable besides the quilting?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the shoulder strap's length and design, what carrying style does the bag best accommodate?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Analyzing the image, what type of finish or sheen does the leather seem to possess?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall visible size or scale of this handbag, relative to a standard-sized purse?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describing the quilting pattern, what geometric shape repeatedly forms the basis of this design?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "What is the apparent color of the metallic components integrated into the bag's straps?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Focusing on the visible stitching, what is the general color of the seams on the quilted sections?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the bag's bottom, what is the shape of the base or foundation of the handbag?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Given the visual characteristics, what is the apparent style or aesthetic of this handbag?",
+        "answer": "Classic"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b389f7ec.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented ceramic serving dish, considering its elongated and curved form?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Considering the visual appearance, what single word best describes the dominant color of this serving piece?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the construction of this serving dish?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Observing the surface, what is the apparent texture of the black serving dish, smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image reveal any noticeable patterns, designs, or decorations on the surface of the dish?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from the visual, what is the apparent sheen or finish of the black serving dish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the visual, what is the apparent size of the black oval serving dish, small, medium or large?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, is there any noticeable variation in color across the surface of the dish?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the visual suggest that the serving dish is intended for hot or cold food?",
+        "answer": "Cold"
+      },
+      {
+        "question": "Judging by the image, does the serving dish seem to be deep or shallow?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Based on its appearance, does the dish show any visible signs of wear, damage, or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent weight of the serving dish based on its visual appearance?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from its visual, what kind of style does the serving dish seem to present?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, can you describe the edge of the serving dish; is it straight or curved?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering its visual, what is the apparent thickness of the serving dish, thick or thin?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "path": "images/small/7f/7f8f1f38.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the background showcasing the product information?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the textual information, what is the primary advertised function of this product?",
+        "answer": "Support"
+      },
+      {
+        "question": "Based on the provided text, what is the suggested daily dosage of the product in tablet form?",
+        "answer": "Two"
+      },
+      {
+        "question": "According to the label, what is the total number of tablets contained in the product packaging?",
+        "answer": "150"
+      },
+      {
+        "question": "What descriptive term is used to characterize the tablets' outer layer or coating?",
+        "answer": "Coated"
+      },
+      {
+        "question": "What is the specified number of distinct components in the formula for this product?",
+        "answer": "Three"
+      },
+      {
+        "question": "What adjective describes the lifestyle this supplement is intended to aid?",
+        "answer": "Active"
+      },
+      {
+        "question": "What is the pharmaceutical form in which this product is presented?",
+        "answer": "Tablets"
+      },
+      {
+        "question": "What body part's well-being does this product aim to support?",
+        "answer": "Joint"
+      },
+      {
+        "question": "What is the general description of the type of medical care the product provides?",
+        "answer": "Care"
+      },
+      {
+        "question": "What is the most prominent type of style used to separate textual information?",
+        "answer": "Dots"
+      },
+      {
+        "question": "What is the text's overall orientation in relation to the edges of the image?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

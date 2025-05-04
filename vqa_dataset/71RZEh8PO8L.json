@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e6/e6fd51d9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the leather upper?",
+        "answer": "Tan"
+      },
+      {
+        "question": "What type of closure system is visible on the shoe?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Describe the overall style of the shoe's toe.",
+        "answer": "Pointed"
+      },
+      {
+        "question": "What is the apparent texture of the leather in the central section?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What material seems to constitute the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Considering the height of the heel, what is its type?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the general design of the shoe's profile?",
+        "answer": "Derby"
+      },
+      {
+        "question": "What is the apparent finish of the leather (shiny or matte)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visible stitching, what is the construction type?",
+        "answer": "Blake"
+      },
+      {
+        "question": "What is the color of the shoe's laces?",
+        "answer": "Tan"
+      },
+      {
+        "question": "Describe the shape of the shoe's heel?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What seems to be the primary material of the upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Are there any noticeable perforations on the shoe's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall look of the shoe (formal/casual)?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What color is the sole of the shoe?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

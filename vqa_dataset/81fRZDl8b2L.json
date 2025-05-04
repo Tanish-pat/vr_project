@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the predominant shape of this footwear?",
-        "answer": "Elongated"
-      },
-      {
-        "question": "What is the principal visible material composing the upper section of this shoe?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Describing the main color, what shade best represents the shoe's overall hue?",
-        "answer": "Brown"
-      },
-      {
-        "question": "Focusing on the lacing system, what type of closure does this shoe exhibit?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "Analyzing the sole's construction, what material appears to form the shoe's base?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Observing the design near the toe cap, what decorative element is visible on the shoe?",
-        "answer": "Brogueing"
-      },
-      {
-        "question": "Considering the texture of the upper, how would you describe its tactile quality?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent style of this particular shoe design?",
+        "question": "Considering the overall aesthetic, what best describes the shoe's style?",
         "answer": "Formal"
       },
       {
-        "question": "Regarding the heel's profile, what shape does the heel of the shoe possess?",
+        "question": "What material predominantly comprises the upper part of this shoe?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the visible components, what is the primary color of the shoe?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What type of closure mechanism is clearly visible on the shoe?",
+        "answer": "Lace"
+      },
+      {
+        "question": "Observing the sole, what material appears to be used for its construction?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describing the toe shape, what style does the shoe exhibit?",
+        "answer": "Cap"
+      },
+      {
+        "question": "What decorative element is noticeable along the side of the shoe?",
+        "answer": "Brogue"
+      },
+      {
+        "question": "Considering the heel's profile, what kind of height does it possess?",
         "answer": "Low"
       },
       {
-        "question": "Examining the shoe's silhouette, what is the overall impression of its profile?",
+        "question": "From visual inspection, what is the apparent texture of the shoe's upper?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the leather upper, based solely on the image?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Based on the visual appearance, what can you say about the shoe's construction?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Regarding the shoe's shape, what is the form from the side profile?",
         "answer": "Sleek"
       },
       {
-        "question": "Concerning the toe shape, what is the descriptive term for the end of this shoe?",
-        "answer": "Rounded"
+        "question": "What is the overall silhouette of the shoe?",
+        "answer": "Pointed"
       },
       {
-        "question": "Considering the color variation, is there any noticeable difference in the shade of the shoe?",
-        "answer": "Uniform"
+        "question": "Judging by the visual details, is the shoe designed for casual or formal wear?",
+        "answer": "Formal"
       },
       {
-        "question": "Looking at the stitching, how would you describe the visibility of the stitching details?",
-        "answer": "Subtle"
-      },
-      {
-        "question": "Observing the construction, how many visible pieces form the shoe's upper?",
-        "answer": "One"
-      },
-      {
-        "question": "Focusing on the laces, what color are the laces of the shoe?",
-        "answer": "Brown"
+        "question": "Observing the eyelets, what type of lacing system does the shoe feature?",
+        "answer": "Closed"
       }
     ]
   }

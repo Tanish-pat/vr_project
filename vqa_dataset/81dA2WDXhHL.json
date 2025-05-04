@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c13b79d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted animal on the phone case?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What species of animal is prominently featured on the phone case's design?",
+        "answer": "Tiger"
+      },
+      {
+        "question": "Considering the overall design, what is the primary visual style of the phone case?",
+        "answer": "Photorealistic"
+      },
+      {
+        "question": "Describe the apparent texture of the tiger's fur as shown on the phone case?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What is the shape of the phone case itself, excluding the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the material of the phone case, judging by its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the tiger's eyes as depicted on the phone case?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the general pose of the tiger shown in the phone case's design?",
+        "answer": "Standing"
+      },
+      {
+        "question": "Is the background of the image on the case primarily detailed or blurred?",
+        "answer": "Blurred"
+      },
+      {
+        "question": "What color are the stripes on the tiger's fur, based on the phone case image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the direction the tiger on the phone case is facing.",
+        "answer": "Forward"
+      },
+      {
+        "question": "What is the overall aesthetic tone conveyed by the phone case image?",
+        "answer": "Serious"
+      },
+      {
+        "question": "What are the predominant shades in the tiger's fur besides orange and black?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the background color visible beneath the tiger image on the phone case?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the image, is the phone case design primarily minimalist or detailed?",
+        "answer": "Detailed"
+      }
+    ]
+  }
+]

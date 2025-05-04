@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the planter's main body?",
+        "question": "What is the dominant color covering most of the planter's surface?",
         "answer": "White"
       },
       {
-        "question": "Describe the texture of the planter's surface?",
-        "answer": "Speckled"
-      },
-      {
-        "question": "How many horizontal bands of color are visible near the base?",
-        "answer": "Three"
-      },
-      {
-        "question": "What color is the widest horizontal band around the planter?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "What is the color of the bottom band of the planter?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What is the overall shape of the planter pot?",
+        "question": "Describing the overall shape of this ceramic planter, what is it?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What appears to be the material composition of this planter?",
-        "answer": "Ceramic"
+        "question": "What is the primary color of the horizontal band closest to the planter's rim?",
+        "answer": "Yellow"
       },
       {
-        "question": "What is the color of the thinner band between the yellow and gray bands?",
+        "question": "What color is the horizontal band situated immediately below the yellow stripe?",
         "answer": "Green"
       },
       {
-        "question": "Is the planter's surface glossy or matte in appearance?",
+        "question": "Considering the base, what color is the bottommost band of this pot?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this container?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Observing the texture, how would you describe the planter's surface?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "What is the visual effect created by the horizontal bands encircling the planter?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Considering the planter's form, what design style could this be categorized under?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the general appearance of the finish applied to the planter's exterior?",
         "answer": "Matte"
       },
       {
-        "question": "Describe the base of the planter's construction?",
-        "answer": "Rounded"
+        "question": "How many distinct horizontal bands of color encircle the planter's body?",
+        "answer": "Three"
       },
       {
-        "question": "What kind of design element is prominently displayed around the planter?",
-        "answer": "Stripes"
+        "question": "In terms of its function, what is this item primarily designed to hold?",
+        "answer": "Plants"
       },
       {
-        "question": "Does the planter appear to have any visible patterns?",
-        "answer": "Yes"
+        "question": "What is the overall visual impression of the color scheme employed?",
+        "answer": "Muted"
       },
       {
-        "question": "Is there a noticeable difference in the shade of the white body?",
-        "answer": "Yes"
+        "question": "Based on the image, what seems to be the planter's intended use or purpose?",
+        "answer": "Decorative"
       },
       {
-        "question": "Does the planter appear to be uniform in color throughout?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering the shape, is it a wide or narrow planter?",
-        "answer": "Wide"
+        "question": "Considering the image, what is the most visually prominent feature of the planter?",
+        "answer": "Bands"
       }
     ]
   }

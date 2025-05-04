@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the depicted phone case design?",
+        "question": "What is the dominant color scheme of the depicted phone case?",
         "answer": "Pink"
       },
       {
-        "question": "What type of image is prominently displayed on the phone case?",
-        "answer": "Landscape"
-      },
-      {
-        "question": "What is the overall shape of the protective phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What seems to be the primary material used in manufacturing this phone case?",
+        "question": "What is the primary material used in the construction of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the silhouette figure depicted in the phone case's design?",
-        "answer": "Human"
+        "question": "What is the overall shape of the illustrated phone case?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What natural phenomenon is depicted in the background of the case's image?",
-        "answer": "Sunset"
-      },
-      {
-        "question": "What is the apparent texture of the depicted phone case surface?",
+        "question": "Describe the visual texture of the phone case's surface finish?",
         "answer": "Smooth"
       },
       {
-        "question": "What color is the silhouette of the person within the scene on the case?",
+        "question": "What is the central design element featured on the phone case's back?",
+        "answer": "Silhouette"
+      },
+      {
+        "question": "What is the depicted background color of the main image on the phone case?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the color of the silhouette figure in the main image?",
         "answer": "Black"
       },
       {
-        "question": "Considering the image, what is the general design style of this phone case?",
-        "answer": "Photographic"
+        "question": "What kind of natural phenomenon is depicted on the phone case?",
+        "answer": "Sunset"
       },
       {
-        "question": "What appears to be the finish of the phone case's outer surface?",
-        "answer": "Matte"
+        "question": "What action is the silhouette figure performing in the main image?",
+        "answer": "Raising"
       },
       {
-        "question": "What device does the phone case seem to be designed for, based on its shape?",
-        "answer": "iPhone"
+        "question": "Describe the overall aesthetic or vibe of the phone case's design?",
+        "answer": "Motivational"
       },
       {
-        "question": "What color is the sky primarily represented in the phone case's design?",
-        "answer": "Blue"
+        "question": "What type of body of water is visible in the phone case image?",
+        "answer": "Ocean"
       },
       {
-        "question": "Considering the image's visual components, what is the overall mood conveyed?",
-        "answer": "Triumphant"
+        "question": "What is the general atmospheric condition in the phone case's image?",
+        "answer": "Cloudy"
       },
       {
-        "question": "What is the prominent feature of the depicted person in the phone case's design?",
-        "answer": "Pose"
+        "question": "What design feature can be seen on the case's sides?",
+        "answer": "Lines"
       },
       {
-        "question": "Considering the image alone, is the phone case design predominantly abstract or representational?",
-        "answer": "Representational"
+        "question": "What is the appearance of the edges of this phone case?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the general tone of the colors employed in the phone case's design?",
+        "answer": "Warm"
       }
     ]
   }

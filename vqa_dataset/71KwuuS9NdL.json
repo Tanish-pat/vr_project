@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case design?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Gray"
       },
       {
-        "question": "What is the primary geometric pattern depicted on the phone case?",
+        "question": "What geometric pattern is predominantly featured on the phone case?",
         "answer": "Rectangles"
       },
       {
-        "question": "What is the overall three-dimensional effect created by the design elements?",
-        "answer": "Brick-like"
+        "question": "Describing the visual texture, what impression does the case design give?",
+        "answer": "Blocky"
       },
       {
-        "question": "Considering the visual texture, what material does the case seem to emulate?",
+        "question": "What is the apparent material of this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the arrangement of the rectangular blocks in the design pattern.",
-        "answer": "Stacked"
+        "question": "Considering the depicted sides, what design consistency is observed?",
+        "answer": "Matching"
       },
       {
-        "question": "What is the implied depth created by the variation in shading on the rectangles?",
-        "answer": "Perspective"
+        "question": "What is the overall three-dimensional effect of the design on the back?",
+        "answer": "Layered"
       },
       {
-        "question": "What is the general shape of the phone case, excluding the design elements?",
+        "question": "What is the main style or aesthetic of the phone case's graphic?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Considering the alignment, how are the rectangular elements arranged?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the general shape of the item being shown in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the apparent surface finish of the phone case's printed design?",
-        "answer": "Matte"
+        "question": "What level of detail is present in the design's visual execution?",
+        "answer": "High"
       },
       {
-        "question": "What is visible along the sides of the depicted phone case?",
-        "answer": "Lines"
+        "question": "If the rectangles were physical, what would their relationship suggest?",
+        "answer": "Interlocking"
       },
       {
-        "question": "What design element is repeated to create a uniform texture on the side of the phone case?",
-        "answer": "Stripes"
+        "question": "What does the visual pattern suggest regarding depth or perspective?",
+        "answer": "3D"
       },
       {
-        "question": "What is the color of the stripes along the sides of the phone case?",
-        "answer": "Gray"
+        "question": "What kind of print technique is most likely used for the design?",
+        "answer": "Digital"
       },
       {
-        "question": "What is the implied spatial relationship between the rectangular blocks?",
-        "answer": "Adjacent"
+        "question": "Considering the image, is this a front or back phone cover?",
+        "answer": "Back"
       },
       {
-        "question": "What is the orientation of the rectangular blocks throughout the design?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "Does the design show any significant differences in the shades of gray used?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Is the design of the phone case primarily abstract or representational?",
-        "answer": "Abstract"
+        "question": "What is the overall visual impression created by this phone case?",
+        "answer": "Modern"
       }
     ]
   }

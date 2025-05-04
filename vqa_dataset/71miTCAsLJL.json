@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1bf5676e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form of the product, what best describes its silhouette?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the predominant color of the bottle containing the shower gel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary scent profile depicted on the bottle's label, as shown visually?",
+        "answer": "Lavender"
+      },
+      {
+        "question": "Based on the label's imagery, what type of product is contained within the bottle?",
+        "answer": "Gel"
+      },
+      {
+        "question": "What material appears to be used for the body of the container holding the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the cap, what is its overall form or style?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "What is the color of the floral depiction on the label representing the product's scent?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What specific kind of floral arrangement is showcased as a design element on the label?",
+        "answer": "Lavender"
+      },
+      {
+        "question": "Considering the label's style, what word best describes its aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the visible text on the bottle, what is the brand name clearly shown?",
+        "answer": "365"
+      },
+      {
+        "question": "What kind of graphic design element besides text is prominently displayed on the label?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Examining the label, what descriptive term indicates the intended usage of the product?",
+        "answer": "Shower"
+      },
+      {
+        "question": "What is the color of the text on the bottle\u2019s label?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is depicted on the label to suggest the product's eco-friendly nature?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What is the texture of the label, as visually apparent?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

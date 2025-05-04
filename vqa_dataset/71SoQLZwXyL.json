@@ -9,60 +9,60 @@
         "answer": "Red"
       },
       {
-        "question": "What type of soup is advertised on the box's primary label?",
+        "question": "What type of soup is shown on the product's packaging image?",
         "answer": "Bisque"
       },
       {
-        "question": "What is the prominent adjective describing the soup's origin?",
-        "answer": "Organic"
-      },
-      {
-        "question": "What is the brand name showcased on the front of the box?",
-        "answer": "365"
-      },
-      {
-        "question": "What ingredient is specifically highlighted in the product's name?",
+        "question": "What is the main ingredient explicitly mentioned on the packaging?",
         "answer": "Tomato"
       },
       {
-        "question": "What is the shape of the container holding the soup, as shown on the box?",
-        "answer": "Bowl"
+        "question": "What word indicates the farming practices used for the soup's ingredients?",
+        "answer": "Organic"
       },
       {
-        "question": "What is the apparent texture of the soup shown on the packaging?",
+        "question": "What is the shape of the bowl containing the soup in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent texture of the soup shown in the product image?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the overall shape of the product's packaging itself?",
-        "answer": "Rectangular"
+        "question": "What kind of cracker accompanies the soup in the product image?",
+        "answer": "Round"
       },
       {
-        "question": "What is depicted along with the soup bowl in the packaging illustration?",
-        "answer": "Crackers"
-      },
-      {
-        "question": "What design element is visible at the top of the packaging?",
-        "answer": "Logo"
-      },
-      {
-        "question": "What is the visible material of the product's outer packaging?",
-        "answer": "Cardboard"
-      },
-      {
-        "question": "What is the style of the text font used for the brand name?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "What color is the text indicating 'Organic' on the packaging?",
-        "answer": "Green"
-      },
-      {
-        "question": "What is the overall color scheme of the packaging design?",
+        "question": "What is the overall color scheme of the product's packaging design?",
         "answer": "Beige"
       },
       {
-        "question": "What is the small image visible beneath the main label illustration?",
-        "answer": "Seal"
+        "question": "What is the shape of the packaging box for this product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material of the product's primary container, as shown?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the visible design element above the brand name '365'?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What is the primary design feature that emphasizes 'organic' status?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the main text element communicating the soup's flavor?",
+        "answer": "Tomato"
+      },
+      {
+        "question": "What style of font is predominantly used for labeling?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the shape of the accompanying cracker in the image?",
+        "answer": "Square"
       }
     ]
   }

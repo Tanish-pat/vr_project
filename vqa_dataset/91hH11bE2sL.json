@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the sofa's upholstery?",
+        "question": "What is the predominant color of the sofa's upholstery?",
         "answer": "Gray"
       },
       {
-        "question": "Describe the overall shape of the sofa's seating area?",
+        "question": "What appears to be the primary material of the sofa cushions?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape and form of the sofa presented?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the primary material of the sofa's cushions?",
-        "answer": "Fabric"
+        "question": "How many distinct seating sections does the sofa possess?",
+        "answer": "Two"
       },
       {
         "question": "What is the apparent texture of the sofa's upholstery?",
         "answer": "Smooth"
       },
       {
-        "question": "How many distinct seating sections does the sofa visually possess?",
-        "answer": "Two"
-      },
-      {
-        "question": "What color are the visible wooden elements of the sofa's structure?",
+        "question": "What color are the visible wooden legs or frame elements?",
         "answer": "Brown"
       },
       {
-        "question": "What kind of armrests does the sofa visually present?",
-        "answer": "Squared"
+        "question": "What kind of armrests does the sofa seem to feature?",
+        "answer": "Rounded"
       },
       {
-        "question": "Is the back of the sofa straight or curved?",
-        "answer": "Straight"
+        "question": "Considering the cushions, what is their apparent fill density?",
+        "answer": "Plump"
       },
       {
-        "question": "What kind of legs does the sofa appear to have?",
-        "answer": "Wooden"
+        "question": "Does the sofa display any noticeable patterns or designs?",
+        "answer": "Solid"
       },
       {
-        "question": "Based on the image, what is the style of the sofa?",
+        "question": "What type of throw blanket or fabric is draped over a portion of the sofa?",
+        "answer": "Knitted"
+      },
+      {
+        "question": "Observing the sofa's structure, is it low or high-seated?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the sofa appear to be modular or a single unified piece?",
+        "answer": "Unified"
+      },
+      {
+        "question": "What is the visible style of the sofa's overall design?",
         "answer": "Modern"
       },
       {
-        "question": "What is the apparent material of the sofa's legs?",
-        "answer": "Wood"
+        "question": "What appears to be the apparent level of cushion firmness?",
+        "answer": "Soft"
       },
       {
-        "question": "Describe the visible seams on the sofa's cushions.",
-        "answer": "Straight"
-      },
-      {
-        "question": "What kind of feet does the sofa appear to have?",
+        "question": "Judging by the image, what is the style of the legs on the couch?",
         "answer": "Block"
-      },
-      {
-        "question": "What is the overall visual impression of the sofa's design?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Does the sofa have visible decorative elements?",
-        "answer": "No"
       }
     ]
   }

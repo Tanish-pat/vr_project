@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the shown pair of rectangular mats?",
+        "question": "What is the predominant color of the displayed items?",
         "answer": "Black"
       },
       {
-        "question": "Considering the overall appearance, what seems to be the primary material used in manufacturing these mats?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Based on the image, what is the most apparent textural characteristic of the surface of these mats?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Judging by the visual details, what is the approximate shape of each individual mat?",
+        "question": "Considering the overall form, what is the primary shape of each item?",
         "answer": "Rectangular"
       },
       {
-        "question": "In the provided image, how many mats are visibly present and stacked together?",
+        "question": "Based on visual texture, what is the apparent surface feel of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what material appears to constitute the items?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the layering in the image, how many individual items are shown?",
         "answer": "Two"
       },
       {
-        "question": "Examining the edges, what is the general form of the perimeter of each mat?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "From the image, what is the most evident design characteristic of the surface of the mats?",
-        "answer": "Plain"
-      },
-      {
-        "question": "Considering the visual attributes, what is the apparent thickness of each mat in relation to its surface area?",
-        "answer": "Thin"
-      },
-      {
-        "question": "Based purely on visual analysis, what is the likely intended function of these mats based on their features?",
+        "question": "What is the general implied function or use of this object, based on visual cues?",
         "answer": "Protective"
       },
       {
-        "question": "Observing the image carefully, is there any visible pattern or design on the surface of the mats?",
+        "question": "From the image, describe the apparent thickness of each individual item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Examining the edges, what kind of finish are the edges of each item showing?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the image's lighting, what is the overall apparent sheen of the surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the product appear to have any discernible patterns or markings?",
         "answer": "No"
       },
       {
-        "question": "Considering the image, does the material exhibit a high or low level of apparent reflectivity?",
-        "answer": "Low"
+        "question": "Based solely on the visual presentation, what is the implied weight of one item?",
+        "answer": "Light"
       },
       {
-        "question": "Judging from the picture, what is the suggested overall aesthetic quality of these mats?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Analyzing the provided image, can you determine if the mats appear to have any visible seams or stitching?",
-        "answer": "No"
-      },
-      {
-        "question": "By observing the image, what is the apparent level of flexibility or rigidity of these mats?",
+        "question": "Considering the image's presentation, what is the apparent flexibility of the items?",
         "answer": "Flexible"
       },
       {
-        "question": "Does the image provide any indication of the mats' intended use or application?",
-        "answer": "No"
+        "question": "In terms of surface uniformity, how consistent is the color across the items?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Focusing on the edges, are they sharply defined or softly rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Judging by the overall look, does the item appear to be absorbent or non-absorbent?",
+        "answer": "Non-absorbent"
       }
     ]
   }

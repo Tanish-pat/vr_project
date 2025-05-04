@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant metallic finish of the door lever?",
+        "question": "What is the predominant metallic finish of the door handle?",
         "answer": "Brass"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Curved"
       },
       {
-        "question": "What kind of door is the handle installed on, judging by the visible paneling?",
-        "answer": "Interior"
-      },
-      {
-        "question": "Considering the visible design elements, what is the style of the door lever?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "What seems to be the apparent material of the door handle's construction?",
+        "question": "What is the apparent material of the door handle's construction?",
         "answer": "Metal"
       },
       {
-        "question": "Based on the image, what is the type of door hardware shown?",
-        "answer": "Lever"
+        "question": "Describing the door handle's lever, what is its orientation relative to the door?",
+        "answer": "Horizontal"
       },
       {
-        "question": "Disregarding the background, what is the primary color of the handle?",
-        "answer": "Gold"
+        "question": "What design feature is located on the door handle's rosette?",
+        "answer": "Keyhole"
       },
       {
-        "question": "Judging by its size and features, what is this door hardware's intended purpose?",
-        "answer": "Residential"
+        "question": "Considering the door handle's rosette, what is its shape?",
+        "answer": "Round"
       },
       {
-        "question": "Does the lever handle exhibit any visible textured surfaces?",
-        "answer": "No"
+        "question": "What is the apparent texture of the door handle's surface finish?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the apparent mechanism of the lever's operation?",
-        "answer": "Rotary"
+        "question": "Considering the door handle's components, what is its style?",
+        "answer": "Contemporary"
       },
       {
-        "question": "Does the door handle show any visible brand markings or logos?",
-        "answer": "No"
-      },
-      {
-        "question": "What kind of latch mechanism is visually suggested by the handle design?",
-        "answer": "Privacy"
-      },
-      {
-        "question": "What is the apparent orientation of the handle relative to the door?",
+        "question": "What type of door does the handle appear to be installed on?",
         "answer": "Interior"
       },
       {
-        "question": "Judging by its construction, does the handle appear to be of high or low quality?",
-        "answer": "Medium"
+        "question": "What is the apparent color of the door against which the handle is mounted?",
+        "answer": "White"
       },
       {
-        "question": "Is the handle shown attached to a door or otherwise affixed to a surface?",
-        "answer": "Yes"
+        "question": "Judging by its design, what is the handle's intended function?",
+        "answer": "Passage"
+      },
+      {
+        "question": "What is the visible number of handles shown in the image?",
+        "answer": "One"
+      },
+      {
+        "question": "In terms of the handle's visual appeal, what is its aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent mechanism to engage the handle latch?",
+        "answer": "Rotary"
+      },
+      {
+        "question": "Observing the handle, is it equipped with any visible key slots?",
+        "answer": "No"
       }
     ]
   }

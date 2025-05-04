@@ -9,60 +9,60 @@
         "answer": "Gold"
       },
       {
-        "question": "What is the overall shape of the depicted phone case?",
+        "question": "What is the overall shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "What pattern is prominently featured across the phone case's surface?",
-        "answer": "Scale"
+        "question": "What is the texture implied by the repeating pattern on the case?",
+        "answer": "Scaly"
       },
       {
-        "question": "What appears to be the primary material of this phone case?",
+        "question": "What geometric pattern is predominantly featured across the case's surface?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What appears to be the primary material of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What color are the lines outlining the scales on the phone case?",
+        "question": "Describe the color of the thin band near the bottom of the phone case.",
         "answer": "Brown"
       },
       {
-        "question": "Is there a visible brand or logo on the phone case?",
-        "answer": "Yes"
+        "question": "What is the style of the text visible on the phone case's bottom band?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "What is the apparent texture of the phone case's surface?",
-        "answer": "Smooth"
+        "question": "What seems to be the main design element of this phone cover?",
+        "answer": "Pattern"
       },
       {
-        "question": "Does the phone case show any signs of camera cutouts?",
-        "answer": "Yes"
+        "question": "What is the color of the outline separating the design elements?",
+        "answer": "Brown"
       },
       {
-        "question": "What is the color of the thin band near the bottom of the case?",
-        "answer": "Gold"
-      },
-      {
-        "question": "How many sides of the phone case are shown in the image?",
+        "question": "How many visible sections does the case seem to comprise of ?",
         "answer": "Three"
       },
       {
-        "question": "What is the approximate number of scale patterns across the case?",
-        "answer": "Many"
+        "question": "What seems to be the implied function of the slim object adjacent to the phone?",
+        "answer": "Protection"
       },
       {
-        "question": "Are the scales uniformly sized in the case's design?",
+        "question": "Does the case's pattern give off a structured or chaotic visual impression?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Considering the repeating pattern, what could the case's design be inspired by?",
+        "answer": "Tiles"
+      },
+      {
+        "question": "What is the relative lightness or darkness of the main color of the case?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is there any noticeable visual texture on the case's design?",
         "answer": "Yes"
-      },
-      {
-        "question": "What is the general style of the phone case's design?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "Does the case appear to have any noticeable glossy or matte finish?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Considering the shown sides, what can you say about the case's thickness?",
-        "answer": "Thin"
       }
     ]
   }

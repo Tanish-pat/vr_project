@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf42f59a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the depicted phone case?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What primary design element is prominently featured on the case's surface?",
+        "answer": "Star"
+      },
+      {
+        "question": "What appears to be the texture or pattern mimicking the case's material?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What color is the star shape imprinted onto the phone case's surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what shape best describes the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent style or aesthetic of the case design, based on visuals?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What seems to be the main material the phone case is designed to imitate?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the visual state of the wood-like texture on the phone case.",
+        "answer": "Weathered"
+      },
+      {
+        "question": "Considering the wood grain, what visual effect is depicted on the phone case?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "Based on the visual details, what is the overall impression of the design?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "What is the apparent finish of the white star depicted on the case?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "Can you describe the edges of the star design on the case?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the star design appear to be perfectly aligned or slightly irregular?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Considering the color palette, what feeling does the case design evoke?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What level of detail is present in the wood grain imitation?",
+        "answer": "High"
+      }
+    ]
+  }
+]

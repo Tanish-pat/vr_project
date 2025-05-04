@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the hearts depicted on the phone case?",
+        "question": "What is the predominant color scheme of the hearts depicted on the phone case?",
         "answer": "Red"
       },
       {
-        "question": "What is the overall shape of the product shown in the image?",
+        "question": "What is the overall shape of the phone case, considering its form-fitting design?",
         "answer": "Rectangular"
       },
       {
-        "question": "What geometric shapes, besides hearts, are visible in the background design?",
-        "answer": "Squares"
+        "question": "What is the geometric pattern formed by the smaller shapes in the background?",
+        "answer": "Square"
       },
       {
-        "question": "What is the apparent material of the phone case, based on its visual appearance?",
-        "answer": "Plastic"
+        "question": "What is the design style which represents the pattern of the multiple colored squares?",
+        "answer": "Abstract"
       },
       {
-        "question": "What is the primary design element featured on the phone case's surface?",
-        "answer": "Hearts"
-      },
-      {
-        "question": "Describe the texture implied by the image of the phone case surface?",
+        "question": "What is the visual texture of the hearts, appearing smooth or rough?",
         "answer": "Smooth"
       },
       {
-        "question": "What colors are the smaller squares forming the background of the design?",
+        "question": "What shapes are repeatedly featured across the phone case's surface?",
+        "answer": "Hearts"
+      },
+      {
+        "question": "Considering the design, what is the overall aesthetic of the phone case?",
+        "answer": "Romantic"
+      },
+      {
+        "question": "What is the apparent material of the phone case based on its visual characteristics?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What are the colors of the smaller shapes interwoven amidst the larger hearts?",
         "answer": "Multicolored"
       },
       {
-        "question": "Considering the background design, what could be the overall theme of the case?",
-        "answer": "Love"
+        "question": "Describing the background, what is the visual nature of the smaller shapes?",
+        "answer": "Shiny"
       },
       {
-        "question": "What is the visual style of the hearts; are they realistic or stylized?",
-        "answer": "Stylized"
-      },
-      {
-        "question": "Are the hearts uniformly sized on the phone case or varied in size?",
-        "answer": "Varied"
-      },
-      {
-        "question": "What is the apparent level of gloss or sheen on the phone case's surface?",
+        "question": "What is the apparent finish of the phone case, such as glossy or matte?",
         "answer": "Glossy"
       },
       {
-        "question": "Does the image show a single or multiple views of the phone case?",
-        "answer": "Multiple"
+        "question": "What is the style that best categorizes the design of the case?",
+        "answer": "Printed"
       },
       {
-        "question": "What is the general color palette of the background besides the hearts?",
-        "answer": "Bright"
+        "question": "What is the primary design element of the case besides the background?",
+        "answer": "Hearts"
       },
       {
-        "question": "Judging from the image, is the phone case design symmetrical or asymmetrical?",
-        "answer": "Asymmetrical"
+        "question": "What is the appearance of the edges of the hearts in the design?",
+        "answer": "Soft"
       },
       {
-        "question": "Based on visual clues, what is the implied function of this product?",
-        "answer": "Protection"
+        "question": "What is the design feature that covers the entire surface of the case?",
+        "answer": "Pattern"
       }
     ]
   }

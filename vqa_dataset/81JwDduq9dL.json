@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0bdbc1dc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the chopped vegetable pieces within the bag?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent texture of the kale pieces shown in the product image?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the contents, what is the primary food type depicted on the packaging?",
+        "answer": "Kale"
+      },
+      {
+        "question": "Based on the image, what is the preparation style of the kale inside the package?",
+        "answer": "Chopped"
+      },
+      {
+        "question": "What is the overall shape of the product's flexible plastic packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent form of the food product presented in the photograph?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "What color is the predominant branding element at the top of the product packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the material that comprises the external packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the visual consistency of the kale pieces within the plastic bag?",
+        "answer": "Inconsistent"
+      },
+      {
+        "question": "What is the main text describing the food product printed on the packaging?",
+        "answer": "Kale"
+      },
+      {
+        "question": "What secondary language is used in smaller print on the packaging?",
+        "answer": "French"
+      },
+      {
+        "question": "What brand is primarily associated with the product packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Is the kale shown mostly whole leaves or pieces of varying sizes?",
+        "answer": "Pieces"
+      },
+      {
+        "question": "Does the packaging visually suggest the product is ready-to-use?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of graphic element is found near the brand name on the bag?",
+        "answer": "Branch"
+      }
+    ]
+  }
+]

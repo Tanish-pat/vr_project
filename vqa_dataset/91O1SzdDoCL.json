@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the leather portions of this backpack?",
+        "question": "What is the predominant color of the leather used in the construction of this backpack?",
         "answer": "Brown"
       },
       {
-        "question": "What material primarily comprises the backpack's main body?",
+        "question": "What natural material is visibly used for the majority of the backpack's exterior?",
         "answer": "Leather"
       },
       {
-        "question": "What is the overall shape of the backpack when viewed from the back?",
+        "question": "Describe the overall shape or form of the presented backpack?",
         "answer": "Rectangular"
-      },
-      {
-        "question": "Describe the texture of the visible leather sections of this bag.",
-        "answer": "Smooth"
       },
       {
         "question": "What color is the fabric panel visible on the back of the backpack?",
         "answer": "Black"
       },
       {
-        "question": "What material appears to compose the backpack's shoulder straps?",
-        "answer": "Leather"
+        "question": "What is the apparent texture of the leather used on the backpack's straps?",
+        "answer": "Smooth"
       },
       {
-        "question": "How many main straps are visibly attached to this leather backpack?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the apparent texture of the dark-colored fabric panel?",
-        "answer": "Canvas"
-      },
-      {
-        "question": "What appears to be the fastener type on the upper portion of the backpack?",
+        "question": "What type of fastening mechanism is visible on the upper portion of the backpack?",
         "answer": "Buckle"
       },
       {
-        "question": "What small metallic detail is present near the top center of the back panel?",
+        "question": "What is the main way this item is carried or transported?",
+        "answer": "Backpack"
+      },
+      {
+        "question": "What material appears to be used for the backpack's shoulder straps?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What design element is present near the top of the bag, appearing metallic?",
+        "answer": "Buckle"
+      },
+      {
+        "question": "What is the visible color of the metallic hardware?",
+        "answer": "Brass"
+      },
+      {
+        "question": "Considering the visible seams, what is the construction method?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "What is the style of straps on the back of the backpack?",
+        "answer": "Adjustable"
+      },
+      {
+        "question": "Observing the back panel, what fabric is the large central section made from?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "What is the noticeable feature on the top-center of the bag, seemingly decorative?",
         "answer": "Tag"
       },
       {
-        "question": "Does the backpack exhibit any visible stitching details?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the apparent overall condition of the leather backpack?",
-        "answer": "New"
-      },
-      {
-        "question": "Describe the width of the backpack's shoulder straps in appearance.",
-        "answer": "Wide"
-      },
-      {
-        "question": "What is the style of the backpack's shoulder straps based on their visual appearance?",
-        "answer": "Padded"
-      },
-      {
-        "question": "Is the back panel of the backpack visibly padded or reinforced?",
-        "answer": "Yes"
+        "question": "Based on the visible components, what is the bag's primary function?",
+        "answer": "Carrying"
       }
     ]
   }

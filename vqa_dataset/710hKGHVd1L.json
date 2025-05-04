@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/aef91d85.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what fundamental shape best describes this footwear?",
+        "answer": "Derby"
+      },
+      {
+        "question": "What is the predominant color of the leather upper visible in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the visual texture, what material is the shoe's upper predominantly made from?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the color and apparent material of the visible sole of this shoe.",
+        "answer": "Brown"
+      },
+      {
+        "question": "What style of closure mechanism is prominently displayed on the shoe?",
+        "answer": "Lace"
+      },
+      {
+        "question": "Based on the appearance, what is the suggested material of the shoe's inner lining?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What can be visually observed about the texture of the leather upper?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visible stitching pattern present along the visible seams.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the profile of the shoe's toe box?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What kind of heel does the shoe possess?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the construction style of the shoe's upper?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What appears to be the overall condition of the shoe presented in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "How would you describe the design of the shoe's eyelets?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What might be the intended use or style for this kind of footwear?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What type of sole edge is visibly present around the shoe's perimeter?",
+        "answer": "Stitched"
+      }
+    ]
+  }
+]

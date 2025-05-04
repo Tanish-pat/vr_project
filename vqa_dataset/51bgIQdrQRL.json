@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the central element of the earring?",
+        "question": "What is the dominant color of the visible gemstone in the earring?",
         "answer": "White"
       },
       {
-        "question": "What appears to be the primary material of the larger, central component?",
-        "answer": "Pearl"
-      },
-      {
-        "question": "What kind of metal seems to be used for the earring's setting?",
+        "question": "What appears to be the primary metal used in the earring's setting?",
         "answer": "Silver"
       },
       {
-        "question": "Considering the overall design, what is the earring's style?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What is the visible shape of the main pearl component?",
+        "question": "Considering the overall design, what is the shape of the earring?",
         "answer": "Round"
       },
       {
-        "question": "What type of fastening mechanism is depicted on the earring?",
+        "question": "What kind of fastening mechanism is visible on the earring?",
         "answer": "Post"
       },
       {
-        "question": "What is the overall finish of the metal setting, based on visual appearance?",
+        "question": "Based on the image, what seems to be the material of the gemstone?",
+        "answer": "Pearl"
+      },
+      {
+        "question": "Describe the apparent finish or luster of the visible gemstone?",
         "answer": "Shiny"
       },
       {
-        "question": "How many main elements are visually apparent in each earring?",
-        "answer": "Two"
-      },
-      {
-        "question": "Describe the apparent texture of the pearl component in terms of visual smoothness.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the visual size of the earrings, relative to the ear lobe shown?",
-        "answer": "Small"
-      },
-      {
-        "question": "What is the apparent setting style of the central gemstone or pearl?",
+        "question": "Judging by the image, what is the setting style of the earring?",
         "answer": "Prong"
       },
       {
-        "question": "Considering the image, what is the general design classification of this earring?",
+        "question": "What is the overall size of the earring, considering the visible portion?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the style of the earring, from the perspective of the image?",
         "answer": "Stud"
       },
       {
-        "question": "Judging from the image, what is the apparent luster of the pearl element?",
-        "answer": "High"
+        "question": "What is the apparent texture of the metal in the earring setting?",
+        "answer": "Smooth"
       },
       {
-        "question": "If considering the metal's shine, what is the apparent metal finish type?",
-        "answer": "Polished"
+        "question": "Does the earring exhibit any noticeable embellishments beyond the gemstone?",
+        "answer": "No"
       },
       {
-        "question": "Based on visual assessment, how would you classify the earrings' overall aesthetic?",
-        "answer": "Classic"
+        "question": "What is the apparent level of detail or intricacy in the earring's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the earring display any visible markings or branding elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the earring's design, what is its symmetry?",
+        "answer": "Bilateral"
+      },
+      {
+        "question": "Considering the visual evidence, what is the earring's presumed weight?",
+        "answer": "Light"
       }
     ]
   }

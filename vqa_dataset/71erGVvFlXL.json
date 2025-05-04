@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the upper part of the shoe?",
+        "question": "What is the predominant color of the shoe's upper?",
         "answer": "White"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Mesh"
       },
       {
-        "question": "What color are the laces and heel accents of this athletic shoe?",
-        "answer": "Navy"
-      },
-      {
-        "question": "Describe the overall shape of the sole of this athletic shoe?",
+        "question": "Describe the overall shape of the shoe's sole unit.",
         "answer": "Curved"
       },
       {
-        "question": "What is the texture of the primary material used in the shoe's upper?",
+        "question": "What color are the accents present on the shoe's heel and tongue?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What material seems to be used for the shoe's toe cap reinforcement?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What type of closure mechanism is used for the shoe?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the apparent texture of the main upper material?",
         "answer": "Textured"
       },
       {
-        "question": "What kind of closure mechanism does this athletic shoe employ?",
-        "answer": "Laces"
+        "question": "What color are the laces of the shoe?",
+        "answer": "Navy"
       },
       {
-        "question": "What color is the toe cap material on this sneaker?",
-        "answer": "White"
+        "question": "What is the visible branding on the side of the shoe?",
+        "answer": "StymActive"
       },
       {
-        "question": "What appears to be the material of the heel counter of this athletic shoe?",
+        "question": "Describe the sole's pattern near the heel?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Is the shoe's silhouette generally low-profile or high-top?",
+        "answer": "Low-profile"
+      },
+      {
+        "question": "What is the overall style of the shoe (e.g., athletic, formal)?",
+        "answer": "Athletic"
+      },
+      {
+        "question": "What is the apparent material of the inner lining near the heel?",
         "answer": "Fabric"
       },
       {
-        "question": "What is the design pattern on the upper part of this running shoe?",
-        "answer": "Grid"
+        "question": "Describe the visible stitching detail on the shoe's upper.",
+        "answer": "Minimal"
       },
       {
-        "question": "What is the overall style of this footwear item, considering its design features?",
-        "answer": "Sporty"
-      },
-      {
-        "question": "Describe the type of sole visible on the displayed athletic shoe.",
-        "answer": "Flat"
-      },
-      {
-        "question": "What seems to be the primary function of the given footwear item?",
-        "answer": "Running"
-      },
-      {
-        "question": "Is there any branding visible on this sneaker's side?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the visible color of the stitching details on this sneaker?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the approximate height of the shoe's midsole, from the ground?",
-        "answer": "Low"
+        "question": "What is the apparent thickness of the shoe's midsole?",
+        "answer": "Thin"
       }
     ]
   }

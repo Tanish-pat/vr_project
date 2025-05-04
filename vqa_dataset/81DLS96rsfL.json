@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the outer phone case material?",
+        "question": "What is the predominant color of the phone case's exterior?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material used for the phone case exterior?",
+        "question": "What material appears to constitute the main body of the case?",
         "answer": "Leather"
       },
       {
-        "question": "Considering the design, what is the case's primary function beyond protection?",
-        "answer": "Flip"
+        "question": "Considering the case's design, what is its primary function?",
+        "answer": "Protection"
       },
       {
-        "question": "Describe the texture visible on the outer surface of the phone case cover?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the general shape of the phone case when closed, disregarding any features?",
+        "question": "What is the overall shape or form factor of the protective casing?",
         "answer": "Rectangular"
       },
       {
-        "question": "What color is the interior lining of the phone case's flip cover?",
+        "question": "What design element is noticeable on the case's inner surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, is the phone case foldable or rigid?",
+        "answer": "Foldable"
+      },
+      {
+        "question": "What texture does the outer surface of the phone case exhibit?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Describe the color of the interior lining of the phone case.",
         "answer": "Gray"
       },
       {
-        "question": "Judging by the image, what seems to be the material of the inner lining?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Does the phone case have a visible clasp or closure mechanism?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the overall style of the phone case design, minimalist or ornate?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Observing the edges, what color is the hard plastic frame of the case?",
-        "answer": "Black"
-      },
-      {
-        "question": "What kind of finish does the hard plastic frame around the phone appear to have?",
+        "question": "What kind of apparent finish does the phone case's border possess?",
         "answer": "Matte"
       },
       {
-        "question": "Considering the image, how many sections does the case visibly comprise?",
+        "question": "Judging by the visible seams, how many sections comprise this case?",
         "answer": "Two"
       },
       {
-        "question": "From the picture, what seems to be the primary method of phone attachment?",
-        "answer": "Snap"
+        "question": "Does the case design include any noticeable cutouts or openings?",
+        "answer": "Yes"
       },
       {
-        "question": "Based on appearance alone, is the case rigid or flexible in nature?",
-        "answer": "Rigid"
+        "question": "What seems to be the primary material of the case's frame?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the apparent thickness of the case's protective layer, relative to a phone?",
-        "answer": "Thin"
+        "question": "Considering the image, how would you describe the case's style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent method of closure for the foldable case?",
+        "answer": "Magnetic"
+      },
+      {
+        "question": "Describe the overall visual impression of the phone case's build.",
+        "answer": "Durable"
       }
     ]
   }

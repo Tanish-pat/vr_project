@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the dominant color scheme of the depicted phone case design?",
         "answer": "Brown"
       },
       {
-        "question": "What is the primary design element featured on the phone case?",
+        "question": "What is the primary visual element featured prominently on the phone case?",
         "answer": "Wheel"
       },
       {
-        "question": "What material is implied by the case's textured appearance?",
+        "question": "What appears to be the material texture of the wheel depicted in the phone case design?",
         "answer": "Metal"
       },
       {
-        "question": "Describe the overall aesthetic of the phone case's design.",
-        "answer": "Rustic"
+        "question": "What kind of apparent wear or aging is visible on the wheel design of the phone case?",
+        "answer": "Rust"
       },
       {
-        "question": "What type of visual texture is most prominent on the wheel design?",
-        "answer": "Rough"
-      },
-      {
-        "question": "What shape best describes the central design element?",
-        "answer": "Circular"
-      },
-      {
-        "question": "Considering the image, what seems to be the case's material?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the apparent style of the wheel design's intricate details?",
-        "answer": "Ornate"
-      },
-      {
-        "question": "Does the image suggest any particular cultural origin for this design?",
+        "question": "Considering the style, what cultural theme does the phone case design seem to evoke?",
         "answer": "Indian"
       },
       {
-        "question": "What is the apparent condition of the wheel in the design?",
-        "answer": "Worn"
+        "question": "What is the overall shape of the main design element on the phone case?",
+        "answer": "Circular"
       },
       {
-        "question": "How would you describe the level of detail in the wheel's depiction?",
+        "question": "What appears to be the background pattern immediately surrounding the primary design?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "What is the general style of the artistic representation of the wheel on the phone case?",
+        "answer": "Antique"
+      },
+      {
+        "question": "Describe the visual details present on the spokes of the wheel depicted on the case.",
+        "answer": "Intricate"
+      },
+      {
+        "question": "Judging from the visual appearance, what seems to be the primary manufacturing material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What level of detail and complexity is apparent in the carved elements of the wheel?",
         "answer": "High"
       },
       {
-        "question": "What is the visual impression created by the color variations?",
-        "answer": "Aged"
+        "question": "What is the general color tone of the background surrounding the primary image?",
+        "answer": "Dark"
       },
       {
-        "question": "Based on visual cues, what kind of phone does this appear to fit?",
-        "answer": "Smartphone"
-      },
-      {
-        "question": "What is the orientation of the main design element on the case?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "Does the background of the design show any discernible details?",
+        "question": "Besides the wheel, what other visual elements are subtly visible in the background?",
         "answer": "Stone"
+      },
+      {
+        "question": "What is the design's apparent aesthetic quality, considering its style and detail?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "From the visual appearance, what is the general form-factor of the depicted item?",
+        "answer": "Case"
       }
     ]
   }

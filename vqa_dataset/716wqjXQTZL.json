@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color dominating the detergent powder packaging?",
+        "question": "What is the predominant color of the detergent powder packaging?",
         "answer": "Blue"
       },
       {
-        "question": "What is the overall shape of the detergent powder pouch?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What type of material is the flexible packaging of the product made from?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the prominent brand name printed on the detergent packaging?",
+        "question": "What is the primary text displayed prominently on the packaging?",
         "answer": "Presto"
       },
       {
-        "question": "What is the product type indicated on the front of the packaging?",
+        "question": "What type of cleaning product is contained within the pouch?",
         "answer": "Detergent"
       },
       {
-        "question": "What form of detergent is indicated on the packaging?",
+        "question": "What is the physical form of the detergent inside the packaging?",
         "answer": "Powder"
       },
       {
-        "question": "Describe the design style of the brand name logo on the pouch?",
-        "answer": "Script"
+        "question": "What is the overall shape of the detergent powder packaging?",
+        "answer": "Pouch"
       },
       {
-        "question": "What graphical element is present on the upper portion of the packaging?",
+        "question": "Describe the texture implied by the image of the packaging material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What graphic design element is featured behind the brand name?",
         "answer": "Floral"
       },
       {
-        "question": "What smaller pattern is visible on the bottom portion of the pouch?",
-        "answer": "Geometric"
+        "question": "What material appears to constitute the packaging of the product?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the most prominent promise written on the packaging?",
-        "answer": "Removes"
+        "question": "What is the style of the brand name lettering on the packaging?",
+        "answer": "Script"
       },
       {
-        "question": "Besides removing stains, what other benefit is highlighted on the package?",
+        "question": "What is the shape of the small icons at the bottom of the packaging?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What kind of claim is made concerning the product's stain-removing ability?",
+        "answer": "Tough"
+      },
+      {
+        "question": "What is the implied clothing care benefit aside from stain removal?",
         "answer": "Gentle"
       },
       {
-        "question": "What is the implied texture of the detergent inside, based on its description?",
-        "answer": "Powdery"
+        "question": "What is mentioned as a specific type of fabric that benefits from the detergent?",
+        "answer": "Clothes"
       },
       {
-        "question": "What is the main color of the smaller design element in the background?",
-        "answer": "White"
+        "question": "Besides clothes what is another type of fabric mentioned?",
+        "answer": "Ranges"
       },
       {
-        "question": "What is the overall state of the pouch shown in the image; sealed or open?",
-        "answer": "Sealed"
-      },
-      {
-        "question": "Considering its purpose, what is the packaging\u2019s likely function for the product?",
-        "answer": "Retail"
+        "question": "What is the apparent function of the product as depicted on the packaging?",
+        "answer": "Cleaning"
       }
     ]
   }

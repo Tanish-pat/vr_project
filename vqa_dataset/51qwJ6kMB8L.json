@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the hanging rod shown in the image?",
+        "question": "What is the predominant color of the rod and brackets?",
         "answer": "White"
       },
       {
-        "question": "What appears to be the primary material used in constructing this closet rod?",
+        "question": "What is the overall shape of the primary hanging component?",
+        "answer": "Rod"
+      },
+      {
+        "question": "What appears to be the material of the central supporting bar?",
         "answer": "Metal"
       },
       {
-        "question": "Considering the image, what is the overall shape of the main support bar?",
-        "answer": "Cylindrical"
+        "question": "What kind of connection is used between the rod and brackets?",
+        "answer": "Screw"
       },
       {
-        "question": "Based on visual inspection, what is the apparent finish of the metal components?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Describe the visible texture of the central rod based on the image provided.",
+        "question": "Describe the texture of the main horizontal bar, based solely on visual observation?",
         "answer": "Smooth"
       },
       {
-        "question": "What kind of mechanism is used for adjusting the width of the hanging rod?",
-        "answer": "Spring"
+        "question": "What is the visible design of the connecting wires or springs?",
+        "answer": "Coiled"
       },
       {
-        "question": "What is the shape of the brackets supporting the hanging rod at each end?",
-        "answer": "L-shaped"
+        "question": "Considering the brackets, what is their attachment style to the support structure?",
+        "answer": "Hook"
       },
       {
-        "question": "What is the apparent method of attachment to the shelf or closet?",
-        "answer": "Hooks"
+        "question": "What shape are the end caps on the central horizontal bar?",
+        "answer": "Round"
       },
       {
-        "question": "Judging from the image, what is the design style of the closet rod?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Describe the visible connection between the spring and the main rod.",
-        "answer": "Fixed"
-      },
-      {
-        "question": "What is the apparent function of the device pictured?",
-        "answer": "Storage"
-      },
-      {
-        "question": "What is the visual appearance of the ends of the main support rod?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What is the visible number of support brackets for the rod?",
+        "question": "How many main support brackets are clearly visible in the image?",
         "answer": "Two"
       },
       {
-        "question": "Based solely on the image, what kind of items would likely be hung on the rod?",
-        "answer": "Clothes"
+        "question": "Based on visual characteristics, what seems to be the intended use of this item?",
+        "answer": "Storage"
       },
       {
-        "question": "Describe the visible surface details on the metallic parts.",
-        "answer": "Unmarked"
+        "question": "What is the apparent finish of the metal components in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual appearance of the connection points between the rod and springs.",
+        "answer": "Threaded"
+      },
+      {
+        "question": "What does the design of the spring-like connections suggest about the rod's functionality?",
+        "answer": "Adjustable"
+      },
+      {
+        "question": "Considering the overall dimensions, what is the likely installation location of this product?",
+        "answer": "Cabinet"
+      },
+      {
+        "question": "What is the general style of this product, considering its design and functionality?",
+        "answer": "Simple"
       }
     ]
   }

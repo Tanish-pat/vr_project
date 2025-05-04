@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color displayed on the packaging's main surface?",
+        "question": "What is the predominant color of the packaging's background?",
         "answer": "Blue"
       },
       {
-        "question": "What type of plants are illustrated on the sides of the packaging?",
-        "answer": "Herbs"
-      },
-      {
-        "question": "What is the overall shape of the product's container?",
+        "question": "What shape does the coffee box predominantly exhibit?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the primary material that the product's packaging is made from?",
+        "question": "What material appears to constitute the outer packaging?",
         "answer": "Cardboard"
       },
       {
-        "question": "What is the overall texture of the product packaging, appearing smooth or rough?",
+        "question": "What is the general texture of the packaging surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What certification logo is prominently featured on the packaging?",
-        "answer": "UTZ"
+        "question": "What type of plant images adorn the box sides?",
+        "answer": "Herbs"
       },
       {
-        "question": "Describe the color of the potted plants depicted on the packaging.",
+        "question": "What color are the potted plants depicted on the box?",
         "answer": "Green"
       },
       {
-        "question": "What is the color of the pots containing the illustrated herbs?",
-        "answer": "Blue"
+        "question": "What color are the plant pots shown in the packaging illustration?",
+        "answer": "LightBlue"
       },
       {
-        "question": "What is the general style of the text font used on the product packaging?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "What kind of information is conveyed primarily on the back of the box?",
-        "answer": "Text"
-      },
-      {
-        "question": "What is the apparent finish of the packaging surface, glossy or matte?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Does the packaging feature any noticeable graphics aside from the text and plants?",
-        "answer": "No"
-      },
-      {
-        "question": "What language is predominantly used on the product packaging?",
+        "question": "Is the text on the box primarily in what language?",
         "answer": "English"
       },
       {
-        "question": "What is the illustrated position of the plants relative to the box?",
-        "answer": "Sides"
+        "question": "What kind of certification logo is visible on the box?",
+        "answer": "UTZ"
       },
       {
-        "question": "How many plants are visually represented on the box?",
-        "answer": "Two"
+        "question": "What is the overall style of the box design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the packaging prominently display any brand names?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the orientation of the text on the box primarily?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are there any noticeable graphic elements beyond text and plants?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the illustrated plants relative to the box?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the packaging show any visible damage or wear?",
+        "answer": "No"
       }
     ]
   }

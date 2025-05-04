@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f74adac2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the frame's visible surface?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What appears to be the primary material composing the frame?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "Considering the frame's profile, what is its overall shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible texture of the aluminum frame's exterior surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the metal frame?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, how wide is the frame's visible border?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "What is the general form factor of the presented object shown in the image?",
+        "answer": "Frame"
+      },
+      {
+        "question": "Observing the image, what is the visual impression of the frame's edge profile?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the frame's surface show any noticeable grain or pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, how would you describe the visual style of the frame?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What seems to be the apparent depth or thickness of the aluminum frame?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging from the image, what is the condition of the frame's visible surface?",
+        "answer": "Unblemished"
+      },
+      {
+        "question": "Does the image reveal any visible markings or embellishments on the frame?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent level of reflectivity from the frame's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the frame exhibit any visible signs of damage or wear in the given image?",
+        "answer": "No"
+      }
+    ]
+  }
+]

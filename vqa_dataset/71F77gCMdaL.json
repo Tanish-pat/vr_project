@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the apparent material of the sandal's footbed?",
+        "question": "What appears to be the primary material of the sandal's sole?",
         "answer": "Rubber"
       },
       {
-        "question": "Describe the pattern on the sandal's main strap.",
+        "question": "Describe the pattern on the rear sandal strap.",
         "answer": "Zigzag"
       },
       {
         "question": "What secondary color accents the black straps?",
-        "answer": "Red"
+        "answer": "Brown"
       },
       {
         "question": "What is the overall shape of the sandal's sole?",
-        "answer": "Curved"
+        "answer": "Flat"
       },
       {
-        "question": "What type of closure system does the sandal feature?",
+        "question": "What type of fastening mechanism is visible on the sandal?",
         "answer": "Buckle"
       },
       {
-        "question": "What is the texture of the main strap material?",
+        "question": "What is the apparent texture of the main sandal straps?",
         "answer": "Woven"
       },
       {
-        "question": "What is the approximate height of the sandal's sole?",
-        "answer": "Thick"
+        "question": "Considering the sole's design, what is its likely function?",
+        "answer": "Grip"
       },
       {
-        "question": "What is the visible material of the sandal's heel strap?",
+        "question": "What is the apparent material of the straps themselves?",
         "answer": "Fabric"
       },
       {
-        "question": "How many straps are visibly present on this sandal?",
-        "answer": "Three"
+        "question": "Describe the style of the sandal; is it open or closed toe?",
+        "answer": "Open"
       },
       {
-        "question": "What color is the outsole of the sandal?",
-        "answer": "Gray"
+        "question": "What is the visible color of the stitching detail on the sandal?",
+        "answer": "Brown"
       },
       {
-        "question": "Is the sole of the sandal textured or smooth?",
-        "answer": "Textured"
+        "question": "Is there a noticeable heel cup on the sandal's back?",
+        "answer": "Yes"
       },
       {
-        "question": "Does the sandal have any visible branding or logos?",
-        "answer": "No"
+        "question": "What is the general style of the sandal's design?",
+        "answer": "Sporty"
       },
       {
-        "question": "What is the style of sandal shown in the image?",
-        "answer": "Sport"
+        "question": "Based on its appearance, what is the sandal's likely use?",
+        "answer": "Casual"
       },
       {
-        "question": "What is the apparent condition of the sandals?",
-        "answer": "New"
+        "question": "What is the overall color scheme of the presented sandal?",
+        "answer": "Dark"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the rectangular textile item displayed, as perceived from its surface?",
-        "answer": "Gray"
-      },
-      {
-        "question": "Considering the visual texture, what is the most apparent tactile characteristic of the fabric depicted?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Based on the visible folds and drape, what is the most likely material composition of the sheet?",
-        "answer": "Cotton"
-      },
-      {
-        "question": "Judging by the overall form and dimensions, what type of bedding is this item most likely to be?",
-        "answer": "Sheet"
-      },
-      {
-        "question": "From the image, what is the observed shape of the presented textile product?",
+        "question": "Considering the overall form, what is the predominant shape of this textile product, as presented in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "Does the presented textile product show any visible patterns or designs on its surface?",
-        "answer": "No"
+        "question": "Based on the visual texture, how would you describe the surface feel of the fabric?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the visible edges and seams, what is the apparent finish of the sheet's hem?",
-        "answer": "Clean"
+        "question": "What is the dominant color observed throughout the entire item shown in the photograph?",
+        "answer": "Gray"
       },
       {
-        "question": "Given the visual appearance, how would you describe the overall visual weight or density of the fabric?",
-        "answer": "Light"
+        "question": "Judging from the image, what seems to be the primary material used in the construction of this item?",
+        "answer": "Cotton"
       },
       {
-        "question": "What is the apparent level of sheen or glossiness exhibited by the fabric's surface in the image?",
+        "question": "Observing the edges, how would you characterize the finishing of the item\u2019s perimeter?",
+        "answer": "Hemmed"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the implied use of this product?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the fabric, as shown in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Examining the image, what is the apparent level of sheen or glossiness of the fabric?",
         "answer": "Matte"
       },
       {
-        "question": "Judging from the lack of visual imperfections, what is the observed condition of the displayed product?",
-        "answer": "New"
-      },
-      {
-        "question": "Based on its visual characteristics, what would you say about the thickness of this sheet?",
-        "answer": "Thin"
-      },
-      {
-        "question": "From the visible folds, what is the inferred level of drape or flexibility of the fabric?",
+        "question": "Judging by visual appearance, how would you describe the drape or fold of the fabric?",
         "answer": "Soft"
       },
       {
-        "question": "What is the apparent state of the sheet - is it creased, crumpled, or otherwise not smooth?",
-        "answer": "Folded"
+        "question": "Is there any noticeable pattern or print visible on the surface of the product displayed?",
+        "answer": "Solid"
       },
       {
-        "question": "Observing the image, are there visible stitching details or manufacturing marks?",
+        "question": "Considering its folded state, how many layers of fabric are clearly visible in the main presentation?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the visual evidence, does the product appear to have any visible seams or stitching?",
         "answer": "No"
       },
       {
-        "question": "Does the displayed sheet show any signs of discoloration or fading from its original color?",
-        "answer": "No"
+        "question": "In observing the image, what is the perceived overall condition of the displayed item?",
+        "answer": "New"
+      },
+      {
+        "question": "From the image alone, what seems to be the manufacturing process used for this item?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What seems to be the level of visual detailing present on this article of bedding?",
+        "answer": "Minimal"
       }
     ]
   }
