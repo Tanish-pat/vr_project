@@ -9,60 +9,60 @@
         "answer": "Beige"
       },
       {
-        "question": "What type of wood is visibly used in the chair's frame?",
-        "answer": "Walnut"
+        "question": "What appears to be the primary material of the chair's frame?",
+        "answer": "Wood"
       },
       {
-        "question": "Describe the overall shape of the recliner's backrest?",
-        "answer": "Curved"
+        "question": "What is the overall shape or style of this seating piece?",
+        "answer": "Recliner"
       },
       {
-        "question": "What is the texture of the chair's fabric covering?",
+        "question": "Describe the visible texture of the chair's fabric covering?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the general style of the chair's armrests?",
-        "answer": "Tapered"
-      },
-      {
-        "question": "What is the main function of this piece of furniture?",
-        "answer": "Reclining"
-      },
-      {
-        "question": "What is the visible material of the chair's base?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What is the color of the wooden frame elements?",
+        "question": "What color is the visible wood component of the chair's frame?",
         "answer": "Brown"
       },
       {
-        "question": "What design characteristic is prominent on the chair's backrest?",
-        "answer": "Seams"
+        "question": "Considering its design, what is the chair's apparent function?",
+        "answer": "Relaxation"
       },
       {
-        "question": "How would you describe the visual aesthetic of this chair?",
+        "question": "How many armrests are visibly present on the chair?",
+        "answer": "Two"
+      },
+      {
+        "question": "What kind of legs does the chair seem to possess?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "What is the general style or era that the chair evokes?",
         "answer": "Mid-century"
       },
       {
-        "question": "What is the apparent material of the chair's upholstery?",
-        "answer": "Fabric"
+        "question": "What is the visible pattern on the chair's upholstery?",
+        "answer": "Solid"
       },
       {
-        "question": "Does the chair appear to have any visible mechanisms?",
-        "answer": "Yes"
+        "question": "Is the back of the chair noticeably high or low?",
+        "answer": "High"
       },
       {
-        "question": "Describe the shape of the chair's seat cushion?",
-        "answer": "Rectangular"
+        "question": "What is the apparent level of cushioning in the seat?",
+        "answer": "Plush"
       },
       {
-        "question": "What is the style of the legs on the chair?",
+        "question": "Describe the visible shape of the chair's backrest?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What seems to be the general condition of the chair?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the armrests, what is their visible shape?",
         "answer": "Tapered"
-      },
-      {
-        "question": "Considering the visible construction, what material makes up most of the chair?",
-        "answer": "Wood"
       }
     ]
   }
