@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the product's label?",
+        "question": "What is the predominant color of the container's main label?",
         "answer": "Green"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Cylindrical"
       },
       {
-        "question": "What material appears to be used for the product's container?",
+        "question": "What material appears to compose the product's container?",
         "answer": "Plastic"
       },
       {
-        "question": "What brand is prominently displayed on the product's label?",
+        "question": "What brand is prominently displayed on the container?",
         "answer": "Wholefoods"
       },
       {
-        "question": "What is the primary texture of the container's surface?",
+        "question": "What is the general texture of the container's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What type of closure does the container seem to have?",
+        "question": "What type of lid does the container possess?",
         "answer": "Screw-top"
       },
       {
-        "question": "Is there a recycling symbol visible on the container?",
-        "answer": "Yes"
+        "question": "What is the visible color of the text on the main label?",
+        "answer": "White"
       },
       {
-        "question": "What color is the text on the product label?",
-        "answer": "Black"
+        "question": "What is written on the primary label besides brand name?",
+        "answer": "Organic"
       },
       {
-        "question": "Does the label indicate the product is organic?",
-        "answer": "Yes"
+        "question": "What type of seal or marking is visible on the container?",
+        "answer": "GMP"
       },
       {
-        "question": "What is the general size of the product container, large or small?",
-        "answer": "Large"
+        "question": "What recycling symbol is displayed on the label?",
+        "answer": "100%"
       },
       {
-        "question": "What kind of information is visible on the label's back panel?",
+        "question": "What additional information is printed on the label's side?",
         "answer": "Nutritional"
       },
       {
-        "question": "Does the label show any certifications or symbols besides recycling?",
+        "question": "Is there any indication of product weight on the label?",
         "answer": "Yes"
       },
       {
-        "question": "What is the apparent color of the product itself?",
-        "answer": "Brown"
+        "question": "Does the label mention any certifications?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the overall style of the label design?",
-        "answer": "Minimalist"
+        "question": "What kind of printing style is used for the text on the label?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "Is the container transparent or opaque?",
-        "answer": "Opaque"
+        "question": "What is the apparent size of the container relative to a hand?",
+        "answer": "Large"
       }
     ]
   }

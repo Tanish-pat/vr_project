@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the sawhorse supports?",
+        "question": "What is the predominant color of the supporting trestles?",
         "answer": "Gray"
       },
       {
-        "question": "What is the overall shape of the work surface?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What appears to be the primary material of the work surface?",
+        "question": "What is the apparent material of the tabletop surface?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the texture of the work surface, as visually apparent?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What color are the plastic clips connecting the supports and the top?",
-        "answer": "Orange"
-      },
-      {
-        "question": "Considering the supports' structure, what is their design type?",
+        "question": "What is the overall shape of the supporting structure?",
         "answer": "A-frame"
       },
       {
-        "question": "What is the apparent material of the sawhorse supports?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the general color of the work surface?",
-        "answer": "Off-white"
-      },
-      {
-        "question": "How many individual sawhorse supports are visible?",
-        "answer": "Two"
-      },
-      {
-        "question": "Considering the image, what is the work surface's apparent thickness?",
-        "answer": "Thin"
-      },
-      {
-        "question": "What is the visible design feature securing the top to the supports?",
-        "answer": "Clips"
-      },
-      {
-        "question": "Considering the supports, are the feet pointed or flat?",
-        "answer": "Flat"
-      },
-      {
-        "question": "Based on visual observation, what is the overall height?",
-        "answer": "Medium"
-      },
-      {
-        "question": "What is the visible texture of the sawhorse supports?",
+        "question": "Describe the texture of the tabletop, based solely on visual observation?",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the shape of the individual sawhorse supports.",
-        "answer": "Triangular"
+        "question": "What color are the small plastic connecting elements on the trestles?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the general shape of the work surface area?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the supporting trestles?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "How many individual trestles support the tabletop?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the visual design, what is the main function of this product?",
+        "answer": "Support"
+      },
+      {
+        "question": "What is the overall color of the tabletop?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Are there any noticeable markings or patterns on the trestles?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the visual connection between the tabletop and trestles?",
+        "answer": "Direct"
+      },
+      {
+        "question": "Does the tabletop appear to have a noticeable grain pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the tabletop?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on its visual appearance, what is the product's primary use?",
+        "answer": "Work"
       }
     ]
   }

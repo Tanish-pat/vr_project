@@ -9,60 +9,60 @@
         "answer": "White"
       },
       {
-        "question": "What is the apparent material of the drawer face?",
+        "question": "What is the material that appears to constitute the drawer front?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the shape of the drawer pull knobs?",
+        "question": "Describe the shape of the knobs affixed to the drawer?",
         "answer": "Round"
       },
       {
-        "question": "What color are the knobs on the drawer?",
+        "question": "What color are the knobs attached to the drawer face?",
         "answer": "Black"
       },
       {
-        "question": "What seems to be the finish of the drawer front?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the overall style of the drawer design?",
-        "answer": "Classic"
-      },
-      {
-        "question": "How many knobs are visibly attached to the drawer?",
-        "answer": "Two"
-      },
-      {
-        "question": "What decorative molding is present on the drawer front?",
-        "answer": "Raised"
-      },
-      {
-        "question": "What type of material appears to be used for the knobs?",
+        "question": "What seems to be the material of the drawer knobs?",
         "answer": "Metal"
       },
       {
-        "question": "Describe the texture of the drawer front's surface?",
+        "question": "What is the overall design style of the drawer detailing?",
+        "answer": "Classic"
+      },
+      {
+        "question": "How many knobs are visibly attached to this drawer?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent finish of the drawer's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the texture implied by the image of the drawer front?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the arrangement of the drawer knobs?",
+        "question": "What kind of molding or paneling is present on the drawer?",
+        "answer": "Raised"
+      },
+      {
+        "question": "What is the apparent arrangement of the drawer knobs?",
         "answer": "Vertical"
       },
       {
-        "question": "Does the drawer show evidence of any grain patterns?",
+        "question": "Considering the style, what era might this design evoke?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "Does the drawer's surface show any visible grain pattern?",
         "answer": "No"
       },
       {
-        "question": "Considering the knobs, what is their apparent mounting style?",
-        "answer": "Inset"
+        "question": "What is the relative size of the knobs in relation to the drawer?",
+        "answer": "Small"
       },
       {
-        "question": "Is there a visible gap between the drawer and the frame?",
-        "answer": "No"
-      },
-      {
-        "question": "What type of joint is visible at the drawer's edges?",
-        "answer": "Miter"
+        "question": "Describe the visible joinery style of the drawer front frame",
+        "answer": "Mitered"
       }
     ]
   }

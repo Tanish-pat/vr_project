@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/409155c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary design element featured on the phone case?",
+        "answer": "Butterflies"
+      },
+      {
+        "question": "What color are the majority of the butterflies depicted on the case?",
+        "answer": "Red"
+      },
+      {
+        "question": "What other color butterfly is prominently displayed?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the material visibly indicated on the phone case's edge?",
+        "answer": "TPU"
+      },
+      {
+        "question": "What other material is referenced for the phone case's construction?",
+        "answer": "PC"
+      },
+      {
+        "question": "What body part is shown gently holding a butterfly?",
+        "answer": "Hand"
+      },
+      {
+        "question": "What is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the case seem to offer full or partial phone coverage?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the apparent texture of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what appears to be the phone case's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the style of the art depicted on the phone case?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "Is the image on the phone case high or low resolution?",
+        "answer": "High"
+      },
+      {
+        "question": "Are there any visible cutouts or openings on the phone case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall aesthetic of this phone case design?",
+        "answer": "Elegant"
+      }
+    ]
+  }
+]

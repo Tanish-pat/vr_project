@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the box's primary design?",
+        "question": "What is the dominant color scheme of the packaging, based on its most prominent visual elements?",
         "answer": "Green"
       },
       {
-        "question": "What type of coffee is prominently displayed on the packaging?",
+        "question": "What type of coffee is showcased, as explicitly stated on the box's primary label?",
         "answer": "Colombian"
       },
       {
-        "question": "What is the roast level of the coffee indicated on the box?",
+        "question": "Considering the text on the box, what is the roast level of the coffee beans used?",
         "answer": "Vienna"
       },
       {
-        "question": "What certification logo is visible near the bottom-left corner?",
-        "answer": "Fairtrade"
+        "question": "What is the certification displayed on the box, indicating adherence to organic farming practices?",
+        "answer": "USDA"
       },
       {
-        "question": "What is the shape of the primary packaging container?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the indicated number of coffee pods contained within?",
-        "answer": "12"
-      },
-      {
-        "question": "What is the material of the primary packaging container?",
-        "answer": "Cardboard"
-      },
-      {
-        "question": "What is the overall text orientation on the box's primary panel?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What is the brand name clearly presented on the packaging?",
+        "question": "Based on the image, what is the brand name of the coffee product?",
         "answer": "365"
       },
       {
-        "question": "What word describes the coffee's farming method as shown?",
-        "answer": "Organic"
+        "question": "What is the primary shape of the coffee pod container depicted on the packaging?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the shape of the individual coffee pods, as depicted?",
-        "answer": "Round"
+        "question": "What is the total number of coffee pods contained within the box, as clearly indicated on the packaging?",
+        "answer": "12"
       },
       {
-        "question": "What is the primary color of the text on the packaging?",
-        "answer": "Brown"
+        "question": "Judging by the visual elements, what is the overall style of the box's design, in relation to its visual components?",
+        "answer": "Minimalist"
       },
       {
-        "question": "What is the style of the graphic illustration on the box?",
+        "question": "What is the depicted size of each individual coffee pod, according to the text on the package?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the material that appears to comprise the packaging container, based on its visible properties?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the prominent image displayed on the box besides the text and logo, hinting at the coffee's origin?",
         "answer": "Landscape"
       },
       {
-        "question": "What is visible on the right side near the number 12?",
-        "answer": "Pods"
+        "question": "What type of coffee preparation is implied, judging by the image and text on the container?",
+        "answer": "Cup"
       },
       {
-        "question": "What is the background color of the main illustration?",
-        "answer": "Blue"
+        "question": "Considering the text, what is the description of the coffee beans' origin on the product label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Observing the labeling, what is the word used to describe the coffee beans' preparation method?",
+        "answer": "Roast"
+      },
+      {
+        "question": "What is the general visual presentation of the text and graphics on the box, in terms of layout and balance?",
+        "answer": "Clean"
       }
     ]
   }

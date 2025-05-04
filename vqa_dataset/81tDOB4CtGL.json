@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the bowl's exterior?",
+        "question": "What is the predominant color of the salt bowl, as shown in the image?",
         "answer": "Orange"
       },
       {
-        "question": "What material appears to constitute the majority of the bowl?",
+        "question": "What material appears to constitute the primary bowl structure, based on visual inspection?",
         "answer": "Salt"
       },
       {
-        "question": "What is the overall shape of the main salt container?",
+        "question": "Considering the image, what is the overall shape of the primary container holding the salt balls?",
         "answer": "Bowl"
       },
       {
-        "question": "Describe the texture of the salt bowl's surface?",
+        "question": "Based on the visual details, what is the apparent texture of the salt bowl's exterior surface?",
         "answer": "Rough"
       },
       {
-        "question": "What is the apparent material of the base supporting the bowl?",
+        "question": "What is the visible material composing the circular base supporting the salt bowl?",
         "answer": "Wood"
       },
       {
-        "question": "What is the shape of the individual salt stones within the bowl?",
-        "answer": "Spherical"
+        "question": "Observing the image, what is the shape of the individual salt stones contained within the bowl?",
+        "answer": "Sphere"
       },
       {
-        "question": "How many salt spheres are visibly contained within the bowl?",
+        "question": "Judging from the image, what seems to be the approximate number of salt balls present within the bowl?",
         "answer": "Five"
       },
       {
-        "question": "What is the color variation within the salt bowl visible on the image?",
-        "answer": "Orange"
+        "question": "What color variations or patterns are visibly present within the salt bowl itself?",
+        "answer": "Marbled"
       },
       {
-        "question": "Is there any visible pattern on the exterior of the salt bowl?",
-        "answer": "Yes"
+        "question": "Considering the image, what is the apparent level of translucency or opacity of the salt bowl?",
+        "answer": "Opaque"
       },
       {
-        "question": "Does the bowl exhibit any signs of artificial coloring or treatment?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the approximate size of the individual salt spheres relative to the bowl?",
+        "question": "From the image, what seems to be the general size of the whole product, relative to common household items?",
         "answer": "Small"
       },
       {
-        "question": "Describe the color of the base under the salt bowl?",
-        "answer": "Brown"
+        "question": "Judging by the image, what is the apparent style or aesthetic of the overall product design?",
+        "answer": "Natural"
       },
       {
-        "question": "What is the dominant shade of orange displayed on the bowl's surface?",
-        "answer": "Reddish"
+        "question": "What is the visible finish of the wooden base beneath the salt bowl, based on image observation?",
+        "answer": "Smooth"
       },
       {
-        "question": "Does the salt bowl display any noticeable imperfections or irregularities?",
+        "question": "Considering the visual evidence, does the bowl's exterior surface display any noticeable markings?",
         "answer": "Yes"
       },
       {
-        "question": "Is the base of the bowl a single, continuous piece of material?",
-        "answer": "Yes"
+        "question": "What is the general tone or hue of the wooden base supporting the salt bowl?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the image, is the overall design of the product primarily simple or complex in its structure?",
+        "answer": "Simple"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the plastic storage baskets shown in the image?",
+        "question": "What is the predominant color of the storage baskets shown in the image?",
         "answer": "Brown"
       },
       {
-        "question": "What is the primary material visibly used in constructing these storage baskets?",
+        "question": "What material appears to constitute the structure of these containers?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall shape of each individual storage basket presented in the provided image?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Considering the surface texture, what design pattern is prominent on the baskets?",
+        "question": "Considering the visual texture, what design element is apparent on the surface?",
         "answer": "Woven"
       },
       {
-        "question": "Focusing on the handle, what is its relative positioning on the baskets?",
-        "answer": "Top"
+        "question": "What is the general shape of each individual storage basket presented?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Based on the image, what is the apparent number of storage baskets included in the set?",
+        "question": "Observing the handles, what is their primary function or purpose?",
+        "answer": "Carrying"
+      },
+      {
+        "question": "Based on the image, what is the approximate number of baskets included in the set?",
         "answer": "Four"
       },
       {
-        "question": "What is the visual appearance of the weave pattern on the exterior of the baskets?",
-        "answer": "Intertwined"
+        "question": "Describe the overall visual style or aesthetic of these storage units?",
+        "answer": "Rustic"
       },
       {
-        "question": "What is the general impression of the texture, rough or smooth, of the visible plastic?",
-        "answer": "Rough"
-      },
-      {
-        "question": "Judging solely from the image, what is the approximate size of the baskets relative to the contents?",
+        "question": "What seems to be the apparent size of the baskets, relative to typical desk items?",
         "answer": "Small"
       },
       {
-        "question": "Considering the image, what appears to be the intended function of these baskets?",
+        "question": "Judging by their design, what is the intended use of these containers?",
         "answer": "Storage"
       },
       {
-        "question": "What is the general style conveyed by the design of the baskets, simple or ornate?",
-        "answer": "Simple"
+        "question": "What is the apparent visual condition of the baskets, considering wear and tear?",
+        "answer": "New"
       },
       {
-        "question": "Based on what is visible, what color are the weaving strands of the baskets?",
-        "answer": "Dark"
-      },
-      {
-        "question": "Do the visible baskets have a glossy or matte finish?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the apparent depth of the woven pattern on each basket?",
+        "question": "What is the visual depth of each storage basket, compared to its width?",
         "answer": "Shallow"
       },
       {
-        "question": "Focusing on the image, are the baskets visibly sturdy or flimsy in appearance?",
-        "answer": "Sturdy"
+        "question": "Are there any noticeable patterns or designs besides the weave on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What specific type of carrying handle is shown on each of the baskets?",
+        "answer": "Loop"
+      },
+      {
+        "question": "Based on the appearance, are the baskets rigid or flexible in their structure?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Are there any visible cracks or damages on the baskets?",
+        "answer": "No"
       }
     ]
   }

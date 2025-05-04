@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the laundry hamper, as visibly depicted?",
+        "question": "What is the predominant color of the laundry hamper's exterior?",
         "answer": "Gray"
       },
       {
-        "question": "What primary material appears to constitute the hamper's exterior?",
+        "question": "What appears to be the primary material used in constructing the hamper?",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the overall three-dimensional form of the laundry hamper shown?",
+        "question": "Considering its overall form, what geometric shape best describes the hamper?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the image, what is the apparent texture of the hamper's surface?",
+        "question": "Observing the top, is the hamper equipped with a covering or lid?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any visible carrying mechanisms affixed to the hamper's sides?",
+        "answer": "Handles"
+      },
+      {
+        "question": "Based on the image, what is the apparent texture of the hamper's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on visual inspection, what type of closure mechanism is present on top?",
-        "answer": "Lid"
+        "question": "Does the hamper's surface exhibit a pattern or is it uniformly colored?",
+        "answer": "Uniform"
       },
       {
-        "question": "How many carrying handles are visibly attached to the laundry hamper sides?",
+        "question": "Focusing on the sides, how many distinct panels comprise the hamper's body?",
         "answer": "Two"
       },
       {
-        "question": "What is the apparent visual finish or coating of the fabric material?",
+        "question": "Examining the base, does the hamper sit directly on the floor or have feet?",
+        "answer": "Floor"
+      },
+      {
+        "question": "Considering the lid's construction, is it hinged or removable?",
+        "answer": "Removable"
+      },
+      {
+        "question": "What is the apparent visual finish or style of the hamper's material?",
         "answer": "Matte"
       },
       {
-        "question": "Judging from the image, what seems to be the construction style of the hamper?",
-        "answer": "Foldable"
+        "question": "Observing the handles' design, are they simple straps or more ornate?",
+        "answer": "Straps"
       },
       {
-        "question": "Does the hamper seem to have any noticeable patterns or prints?",
-        "answer": "No"
+        "question": "How would you characterize the overall style of the laundry hamper?",
+        "answer": "Simple"
       },
       {
-        "question": "In the image, what is the apparent rigidity or flexibility of the hamper structure?",
-        "answer": "Flexible"
+        "question": "From the image, does the hamper seem rigid or collapsible?",
+        "answer": "Rigid"
       },
       {
-        "question": "What is the visible shape of the handles attached to the hamper's sides?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "From the image, what is the perceived thickness of the hamper's fabric?",
-        "answer": "Moderate"
-      },
-      {
-        "question": "Based on the image's view, what is the apparent height relative to width?",
-        "answer": "Tall"
-      },
-      {
-        "question": "What does the visible seam structure of the hamper suggest about its construction?",
-        "answer": "Seamed"
-      },
-      {
-        "question": "Judging by the image, is the hamper designed to stand upright independently?",
-        "answer": "Yes"
+        "question": "Judging by the image, what is the overall condition of the hamper?",
+        "answer": "New"
       }
     ]
   }

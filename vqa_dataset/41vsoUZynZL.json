@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the pet garment shown in the image?",
+        "question": "What is the dominant color of the pet garment shown in the image?",
         "answer": "Gray"
       },
       {
-        "question": "What specific animal's features are represented in the garment's design?",
-        "answer": "Cat"
+        "question": "What fabric texture is predominantly apparent on the pet clothing item?",
+        "answer": "Fuzzy"
       },
       {
-        "question": "What material appears to compose the primary body of the pet garment?",
-        "answer": "Fleece"
+        "question": "What animal-like features are visible on the back of the garment?",
+        "answer": "Ears"
       },
       {
-        "question": "What is the overall shape or silhouette of the complete pet garment?",
+        "question": "What is the general shape of the garment's main body, ignoring appendages?",
         "answer": "Oval"
       },
       {
-        "question": "Judging by the image, what texture does the garment's material seem to possess?",
-        "answer": "Soft"
+        "question": "What textile material seems to have been used for the garment's construction?",
+        "answer": "Fleece"
       },
       {
-        "question": "What color are the small features appended to the garment's back?",
-        "answer": "White"
+        "question": "What is the apparent purpose or function of the garment's tail-like extension?",
+        "answer": "Decorative"
       },
       {
-        "question": "What is the approximate length of the garment, from top to bottom?",
-        "answer": "60cm"
-      },
-      {
-        "question": "What is the approximate width of the garment at its widest point?",
-        "answer": "58cm"
-      },
-      {
-        "question": "What additional appendage is visible at the garment's lower edge?",
-        "answer": "Tail"
-      },
-      {
-        "question": "Does the garment appear to have any explicit patterns or markings?",
-        "answer": "No"
-      },
-      {
-        "question": "Based on the image, what is the garment's likely function or purpose?",
+        "question": "Considering the overall style, what is the likely intended use of this garment?",
         "answer": "Clothing"
       },
       {
-        "question": "Is there any visible fastening mechanism on the garment?",
-        "answer": "No"
+        "question": "What is the overall visual design aesthetic exhibited by this product?",
+        "answer": "Cute"
       },
       {
-        "question": "Judging from the image, what is the garment's apparent condition?",
-        "answer": "New"
+        "question": "What material appears to comprise the small, ear-like attachments?",
+        "answer": "Fleece"
       },
       {
-        "question": "What type of pet is this garment seemingly designed for?",
-        "answer": "Small"
+        "question": "Considering the image, what is the garment primarily designed for?",
+        "answer": "Pets"
       },
       {
-        "question": "What is the apparent overall style of the garment, based purely on visuals?",
-        "answer": "Simple"
+        "question": "What additional features, apart from the main body, are clearly visible?",
+        "answer": "Tail"
+      },
+      {
+        "question": "Describing the color precisely, what shade of gray is the clothing item?",
+        "answer": "Heathered"
+      },
+      {
+        "question": "Judging from the image, how would you describe the garment's overall fit?",
+        "answer": "Loose"
+      },
+      {
+        "question": "What is the apparent length of the garment as shown in the image?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the texture of the small, ear-like elements on the garment?",
+        "answer": "Soft"
       }
     ]
   }

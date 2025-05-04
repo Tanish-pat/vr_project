@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the fabric covering the sofa?",
+        "question": "What is the dominant color of the sofa's upholstery?",
         "answer": "Gray"
       },
       {
-        "question": "What appears to be the primary material of the sofa's upholstery?",
+        "question": "What appears to be the primary material of the sofa's cushions?",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the overall shape and design of the sofa?",
+        "question": "Describe the overall shape of the sofa's backrest?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many distinct seat cushions are visibly present on the sofa?",
-        "answer": "Three"
+        "question": "What is the apparent texture of the sofa's upholstery?",
+        "answer": "Textured"
       },
       {
-        "question": "What is the apparent finish or material of the sofa's legs?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What kind of armrests does the sofa possess, considering their style?",
-        "answer": "Rolled"
-      },
-      {
-        "question": "Based on the visible texture, what is the likely feel of the upholstery?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the sofa's visual construction, what is its seating capacity?",
-        "answer": "Three"
-      },
-      {
-        "question": "Describe the visible stitching details on the sofa's cushions.",
-        "answer": "Straight"
-      },
-      {
-        "question": "What is the general style of the sofa's design?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "What color are the visible legs of the sofa?",
+        "question": "What color are the sofa's legs?",
         "answer": "Brown"
       },
       {
-        "question": "Does the sofa show any noticeable patterns in its upholstery?",
-        "answer": "No"
+        "question": "How many distinct cushions comprise the sofa's backrest?",
+        "answer": "Three"
       },
       {
-        "question": "What is the general height of the sofa's back rest?",
+        "question": "What is the apparent style of the sofa's armrests?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What is the visible material of the sofa's legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What kind of visible pattern is present on the sofa's fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describe the apparent height of the sofa's seat cushions?",
         "answer": "Medium"
       },
       {
-        "question": "What seems to be the overall condition of the sofa displayed?",
-        "answer": "New"
+        "question": "What seems to be the overall style of the sofa?",
+        "answer": "Traditional"
       },
       {
-        "question": "Considering the image, is the sofa design simplistic or ornate?",
-        "answer": "Simple"
+        "question": "Does the sofa have any visible tufting or button details?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the shape of the sofa's legs?",
+        "answer": "Tapered"
+      },
+      {
+        "question": "What is the visible construction of the sofa's armrests?",
+        "answer": "Attached"
+      },
+      {
+        "question": "What is the type of throw blanket on the arm of the sofa?",
+        "answer": "Knit"
       }
     ]
   }

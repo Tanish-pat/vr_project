@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall appearance, what single word best describes the product's dominant hue as visually perceived?",
+        "question": "What is the predominant color of the product contained within the jar, as visibly apparent through the glass?",
         "answer": "Amber"
       },
       {
-        "question": "Based on its visual texture and consistency, what single word describes the product inside the jar?",
-        "answer": "Thick"
+        "question": "Considering the overall shape and structure, what type of container is the product presented in?",
+        "answer": "Jar"
       },
       {
-        "question": "Examining the jar's form, what is its most prominent geometrical shape?",
-        "answer": "Cylindrical"
-      },
-      {
-        "question": "What material is predominantly used for the main body of the product's container, as clearly seen in the image?",
-        "answer": "Glass"
-      },
-      {
-        "question": "Observing the product's label, what type of food product does it appear to be based on the visual cues?",
-        "answer": "Preserves"
-      },
-      {
-        "question": "Considering the shape of the container's top, what is the single word to describe its type?",
-        "answer": "Screw-top"
-      },
-      {
-        "question": "What is the visual texture of the food product's surface inside the jar?",
+        "question": "Based on the visual texture, is the product inside smooth or chunky in appearance?",
         "answer": "Smooth"
       },
       {
-        "question": "What material seems to comprise the lid of the jar, as observed in the image?",
-        "answer": "Plastic"
+        "question": "Judging by the visible labeling, what is the main ingredient, or at least, one primary constituent, of the contents?",
+        "answer": "Peaches"
       },
       {
-        "question": "In terms of its packaging style, what word best captures the jar's overall aesthetic?",
-        "answer": "Simple"
+        "question": "What material is the primary container seemingly made of, based on its visual characteristics?",
+        "answer": "Glass"
       },
       {
-        "question": "Focusing on the side label graphics, what type of illustration style can be observed (referring only to the label's style)?",
-        "answer": "Botanical"
+        "question": "What is the visible shape of the label on the side of the jar?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the most apparent color of the text and design elements on the label, contrasting against the background?",
+        "question": "Describing the lid's visual appearance, what is its general color?",
         "answer": "Black"
       },
       {
-        "question": "Inspecting the jar closely, does it include a barcode and if so, what word best describes its placement?",
-        "answer": "Vertical"
+        "question": "Considering the overall visual presentation, would you describe the product as rustic or modern?",
+        "answer": "Rustic"
       },
       {
-        "question": "What kind of design is present on the label of the food product, visually speaking?",
+        "question": "What is the apparent design style on the label which incorporates imagery?",
         "answer": "Floral"
       },
       {
-        "question": "Based solely on visual observation of the label, is there a seal of approval or certification present?",
+        "question": "Considering the visual clarity, is the jar's content completely opaque or translucent?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Observing the label, can you identify the presence of any certifications or symbols?",
         "answer": "Yes"
       },
       {
-        "question": "Given the image, what is the apparent condition of the product?",
-        "answer": "Sealed"
+        "question": "What is the shape of the individual fruits depicted on the label?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the visual style of the labeling, would you classify it as minimalist or detailed?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the approximate consistency of the contents?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the jar show any significant wear or damage in its visual presentation?",
+        "answer": "No"
       }
     ]
   }

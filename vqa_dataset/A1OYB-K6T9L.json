@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/149bd59a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted tablet case?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of the case's exterior?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the texture, how would you describe the case's surface?",
+        "answer": "Grained"
+      },
+      {
+        "question": "What shape best defines the overall form of the protective cover?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the case appear to have any noticeable seams or stitching?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any visible fasteners or closures on the tablet case?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the case designed for a specific orientation?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "What kind of visual effect does the surface texture of the case create?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "Based on the image, does the case seem rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Does the product image showcase any additional features on the sides?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the overall aesthetic of the presented tablet protective case.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent thickness of the protective tablet casing?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Observing the side profile, is the case's thickness uniform?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of protection does the case offer to the device's corners?",
+        "answer": "Partial"
+      },
+      {
+        "question": "Can you discern any branding or logos on the tablet case's surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]
