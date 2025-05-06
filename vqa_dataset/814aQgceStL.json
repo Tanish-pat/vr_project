@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the style of the design featured on the phone case?",
+        "question": "What is the primary style of the design on the phone case?",
         "answer": "Doodle"
       },
       {
-        "question": "What is the primary material that appears to constitute the phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What color are the intricate line drawings on the phone case?",
-        "answer": "White"
-      },
-      {
-        "question": "Considering the image, what objects are depicted in the design?",
+        "question": "What is the main subject depicted in the phone case's design?",
         "answer": "Teacups"
       },
       {
-        "question": "What shape best describes the overall form of the depicted phone case?",
+        "question": "What color are the line drawings of the teacups and teapot?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape is the overall phone case design?",
         "answer": "Rectangular"
       },
       {
-        "question": "What seems to be the texture of the phone case's surface?",
+        "question": "Considering the design, what is the overall aesthetic of the phone case?",
+        "answer": "Cute"
+      },
+      {
+        "question": "Does the phone case design include any floral elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any noticeable geometric patterns within the design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the texture of the phone case, based on its appearance?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the image, what is the apparent finish of the phone case?",
+        "question": "How many teacups are visibly stacked in the phone case design?",
+        "answer": "Four"
+      },
+      {
+        "question": "Is there a teapot depicted along with the teacups?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
         "answer": "Matte"
       },
       {
-        "question": "Does the design on the case appear to be raised or flat?",
-        "answer": "Flat"
+        "question": "Does the phone case design appear to be raised or embossed?",
+        "answer": "No"
       },
       {
-        "question": "Judging by the image, what is the design's level of detail?",
-        "answer": "High"
-      },
-      {
-        "question": "What appears to be the design's primary visual characteristic?",
-        "answer": "Ornate"
-      },
-      {
-        "question": "Excluding the design, what other color is visible on the phone case?",
-        "answer": "Beige"
-      },
-      {
-        "question": "Considering the case's sides, how many are clearly visible in the image?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the most prominent artistic element in the phone case design?",
-        "answer": "Pattern"
-      },
-      {
-        "question": "What is the general aesthetic of the depicted phone case?",
-        "answer": "Minimalist"
+        "question": "Aside from the main design, are there any other visible markings on the case?",
+        "answer": "No"
       }
     ]
   }

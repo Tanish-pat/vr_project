@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/23/235f89af.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall arrangement and the presence of various ingredients, what is the primary subject depicted in the image?",
+        "answer": "Recipe"
+      },
+      {
+        "question": "Focusing on the central fish fillets, what is their predominant color?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the leafy greens, what is their apparent type, based on visual characteristics?",
+        "answer": "Spinach"
+      },
+      {
+        "question": "Examining the small bowl in the bottom-left corner, what seems to be the consistency and likely purpose of its contents?",
+        "answer": "Sauce"
+      },
+      {
+        "question": "Based on its color and shape, what might be the likely ingredient found in the small dark-colored bowl?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Considering the texture and form, what does the material in the upper-right, smaller bowl appear to be?",
+        "answer": "Oil"
+      },
+      {
+        "question": "Analyzing the bowl's contents, what is the likely nature of the granular substance in the central large bowl?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Judging by its shape and color, what is the likely culinary purpose of the reddish ingredient in the small bowl?",
+        "answer": "Spice"
+      },
+      {
+        "question": "Based on the cut and arrangement, what ingredient is depicted at the upper-left corner of the image?",
+        "answer": "Fish"
+      },
+      {
+        "question": "Observing the smaller bowl below the spinach bundle, what seems to be the consistency of its contents?",
+        "answer": "Paste"
+      },
+      {
+        "question": "Looking at the ingredients as a whole, what is the general culinary theme conveyed by the arrangement?",
+        "answer": "Asian"
+      },
+      {
+        "question": "Observing the visual presentation of the ingredients, what could be the likely format or purpose of the visual presentation?",
+        "answer": "Recipe"
+      },
+      {
+        "question": "Examining the light-colored, long and slender pieces, what are these vegetables?",
+        "answer": "Scallions"
+      },
+      {
+        "question": "Based on its size and placement, what is the role of the small bowl with dark-colored contents?",
+        "answer": "Condiment"
+      },
+      {
+        "question": "Judging by visual characteristics, what cooking method is suggested by the overall arrangement?",
+        "answer": "Steaming"
+      }
+    ]
+  }
+]

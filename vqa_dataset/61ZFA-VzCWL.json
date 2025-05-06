@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/85/85e6b518.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color scheme employed throughout the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent text formatting style predominantly used to display the product information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the most commonly observed element's orientation in terms of alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual characteristics of the text, what type of font is seemingly used for the majority of information?",
+        "answer": "Monospace"
+      },
+      {
+        "question": "Judging from the image, what is the background's predominant color?",
+        "answer": "White"
+      },
+      {
+        "question": "What seems to be the material the text is printed on based solely on the visible attributes?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by the appearance, what seems to be the textual arrangement's layout or structure?",
+        "answer": "Paragraphs"
+      },
+      {
+        "question": "If you were to describe the text's appearance based on how it is displayed, what adjective best encapsulates it?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What does the visual presentation suggest about the information's intended context?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What type of writing system or script is employed to convey product information in the image?",
+        "answer": "Latin"
+      },
+      {
+        "question": "Considering the textual density and visual arrangement, what could be inferred about the intended audience?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Given the visual style, what type of information is being conveyed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging from the arrangement and style, what would be the text's likely mode of dissemination?",
+        "answer": "Print"
+      },
+      {
+        "question": "Considering the length of the text, what could one reasonably infer regarding the product's complexity?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall visual impression the image projects in terms of clarity and legibility?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the striped fabric on the lounge chairs?",
+        "question": "What is the predominant color scheme of the fabric on the lounge chairs?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What is the primary fabric color used in the striped pattern of the chairs?",
         "answer": "Beige"
       },
       {
-        "question": "What is the primary material composing the chair's frame?",
-        "answer": "Metal"
+        "question": "What secondary color is prominently featured in the striped fabric?",
+        "answer": "Blue"
       },
       {
         "question": "Describe the overall shape of each individual reclining chair?",
         "answer": "Reclined"
       },
       {
-        "question": "What color are the headrests attached to the backs of the chairs?",
-        "answer": "Navy"
+        "question": "What material appears to constitute the frame of the chairs?",
+        "answer": "Metal"
       },
       {
-        "question": "What design element is prominent on the fabric of the chairs?",
-        "answer": "Stripes"
+        "question": "What is the apparent texture of the fabric used in the chair?",
+        "answer": "Woven"
       },
       {
-        "question": "What is the texture of the fabric covering the seating and back areas?",
-        "answer": "Textured"
+        "question": "What is the color of the headrest pillows attached to each chair?",
+        "answer": "Blue"
       },
       {
-        "question": "How many armrests are visibly present on each lounge chair?",
+        "question": "What is the material of the headrest pillows on the chairs?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "How many armrests are present on each individual reclining chair?",
         "answer": "Two"
       },
       {
-        "question": "What is the apparent type of fabric used for the chair's upholstery?",
-        "answer": "Polyester"
+        "question": "What is the apparent design of the fabric on the chair\u2019s seating area?",
+        "answer": "Striped"
       },
       {
-        "question": "What is the general appearance of the chairs' metal support structure?",
-        "answer": "Sleek"
+        "question": "What is the apparent metal finish or color on the chair's frame?",
+        "answer": "Dark"
       },
       {
-        "question": "What is the visible condition of the lounge chairs?",
-        "answer": "New"
+        "question": "What is the general style of the depicted seating?",
+        "answer": "Lounge"
       },
       {
-        "question": "What is the functionality of the chairs, as indicated by their design?",
-        "answer": "Relaxing"
+        "question": "Is there any visible pattern in the fabric other than stripes?",
+        "answer": "No"
       },
       {
-        "question": "Besides stripes, what other pattern is subtly present in the chair's fabric?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What appears to be the folding mechanism of each chair?",
-        "answer": "Adjustable"
-      },
-      {
-        "question": "What number of lounge chairs is depicted in the provided image?",
+        "question": "How many chairs are displayed in the provided image?",
         "answer": "Two"
       },
       {
-        "question": "What is the overall style of the lounge chairs, considering their design and features?",
-        "answer": "Casual"
+        "question": "Describe the visible folding mechanism of the lounge chair\u2019s frame?",
+        "answer": "Steel"
       }
     ]
   }

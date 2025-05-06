@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/090dece4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the headboard's fabric?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What material appears to be used for the headboard's upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the texture of the headboard's fabric, based on visual observation?",
+        "answer": "Linen"
+      },
+      {
+        "question": "What type of embellishments are vertically aligned along the headboard's edge?",
+        "answer": "Studs"
+      },
+      {
+        "question": "What appears to be the metal finish of the decorative studs on the headboard?",
+        "answer": "Brass"
+      },
+      {
+        "question": "What is the overall shape of the headboard, as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible stitching, what is the apparent construction method of the headboard?",
+        "answer": "Upholstered"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the headboard's style best described as?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What is the visible pattern on the headboard's fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "How would you characterize the visible texture of the fabric - smooth or coarse?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What seems to be the primary method of attachment for the decorative studs?",
+        "answer": "Nail"
+      },
+      {
+        "question": "Judging by the image, are the studs uniformly spaced on the headboard edge?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual impression of the headboard's height relative to its width?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Describe the visible arrangement of the decorative studs along the edge?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general appearance of the fabric's weave and density?",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

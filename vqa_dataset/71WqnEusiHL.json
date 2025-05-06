@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the wooden blocks shown in the image?",
-        "answer": "Beige"
-      },
-      {
-        "question": "What primary material constitutes these geometric building blocks?",
+        "question": "What is the predominant material visibly used in the construction of all the blocks?",
         "answer": "Wood"
       },
       {
-        "question": "Considering the overall shape and dimensions, what is the general form of the blocks?",
+        "question": "Considering the overall shape and arrangement, what is the most apparent product characteristic?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describing the surface texture, what tactile quality do the blocks exhibit?",
+        "question": "Describing the surface texture, what visual tactile impression do the blocks convey?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the visible grain patterns, what type of wood appears to be used?",
-        "answer": "Pine"
+        "question": "What natural color best describes the visual appearance of the wooden blocks?",
+        "answer": "Beige"
       },
       {
-        "question": "Considering the arrangement, how many individual blocks are present in total?",
-        "answer": "Eight"
+        "question": "Based on the image, what appears to be the apparent grain direction of the wood?",
+        "answer": "Vertical"
       },
       {
-        "question": "Focusing on the sizes, what is the dominant feature regarding the block dimensions?",
-        "answer": "Varied"
+        "question": "What is the most apparent variation in the dimensions among the presented blocks?",
+        "answer": "Length"
       },
       {
-        "question": "What is the apparent finish applied to the surface of the wooden blocks?",
-        "answer": "Natural"
+        "question": "Considering the visible joints and construction, how are the blocks seemingly joined?",
+        "answer": "Butted"
       },
       {
-        "question": "Observing the edges, what is the profile of the blocks' sides?",
-        "answer": "Squared"
-      },
-      {
-        "question": "Judging by the construction, what is the apparent manufacturing method used for these blocks?",
-        "answer": "Planed"
-      },
-      {
-        "question": "Based on their appearance, what is the implied usage for these blocks?",
-        "answer": "Building"
-      },
-      {
-        "question": "From the visual elements present, what is the overall style of these blocks?",
+        "question": "Regarding the overall presentation, what is the apparent design style of these blocks?",
         "answer": "Simple"
       },
       {
-        "question": "Examining the blocks, are there any visible joints or assembly points?",
-        "answer": "None"
+        "question": "Observing the edges of the components, what is their shape?",
+        "answer": "Square"
       },
       {
-        "question": "What is the noticeable absence on the block's surface?",
-        "answer": "Markings"
+        "question": "Considering the uniformity, what is the apparent manufacturing process of the blocks?",
+        "answer": "Machine-made"
       },
       {
-        "question": "Regarding the block's visual appeal, what general aesthetic is presented?",
-        "answer": "Minimalist"
+        "question": "What is the primary function suggested by the image's arrangement and shapes?",
+        "answer": "Stacking"
+      },
+      {
+        "question": "Considering the visible components, what is the overall number of individual blocks present?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Based solely on visual attributes, what kind of finish appears on the wood surface?",
+        "answer": "Unvarnished"
+      },
+      {
+        "question": "What is the visible number of distinct sizes in the blocks?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the arrangement of the blocks suggesting as an educational tool?",
+        "answer": "Building"
       }
     ]
   }

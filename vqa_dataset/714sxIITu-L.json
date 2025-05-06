@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the upholstered surface?",
+        "question": "What is the dominant color of the fabric covering the entire ottoman?",
         "answer": "Gray"
       },
       {
-        "question": "What appears to be the primary material used for the outer covering?",
+        "question": "What textile type seems to be used for the ottoman's upholstery?",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the overall three-dimensional shape of this item?",
+        "question": "Describe the overall three-dimensional form of the presented piece of furniture.",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of texture is visible on the product's exterior?",
-        "answer": "Woven"
+        "question": "Considering the visible texture, what is the apparent feel of the ottoman's surface?",
+        "answer": "Textured"
       },
       {
-        "question": "Considering the base, what design feature is noticeable at the bottom?",
+        "question": "What is the general shape of the ottoman's visible side profiles?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What subtle design element is visible at the very bottom of the ottoman's front?",
+        "answer": "Seam"
+      },
+      {
+        "question": "What type of material seems to be forming the dark elements visible near the base?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What descriptive adjective best captures the ottoman's visual weight and density?",
         "answer": "Solid"
       },
       {
-        "question": "What is the apparent level of padding or cushioning visible?",
-        "answer": "Moderate"
-      },
-      {
-        "question": "Based on the image, what is the item's apparent primary function?",
+        "question": "Based solely on visual observation, what is the ottoman primarily designed for?",
         "answer": "Seating"
       },
       {
-        "question": "Does the item exhibit any prominent seams or stitching?",
-        "answer": "No"
+        "question": "What is the most prominent visual characteristic of the outer covering's fabric?",
+        "answer": "Woven"
       },
       {
-        "question": "Can you describe the overall style of this product?",
+        "question": "Considering the visible texture, how would you describe the fabric's surface pattern?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "What is the overall style of the ottoman based on its visible form and texture?",
         "answer": "Minimalist"
       },
       {
-        "question": "What seems to be the thickness of the upholstery?",
-        "answer": "Thick"
+        "question": "How many distinct horizontal elements appear in the visible part of the ottoman's structure?",
+        "answer": "One"
       },
       {
-        "question": "Considering the corners, what is their shape?",
-        "answer": "Rounded"
+        "question": "What seems to be the visible texture of the fabric material?",
+        "answer": "Rough"
       },
       {
-        "question": "What is the apparent finish of the visible fabric?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the approximate height-to-width ratio of the visible item?",
-        "answer": "Low"
-      },
-      {
-        "question": "Are there any visible labels, logos, or branding elements present?",
-        "answer": "No"
-      },
-      {
-        "question": "From the image, what could be the most likely use of this product?",
-        "answer": "Footrest"
+        "question": "What is the visible condition of the ottoman, based on the image?",
+        "answer": "New"
       }
     ]
   }

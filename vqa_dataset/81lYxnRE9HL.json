@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/52/52dd9832.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the upper shoe material?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the main shoe fabric?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Describe the overall shape of the shoe's toe-box area?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What type of closure mechanism is visibly present on the shoes?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What color is the primary material of the shoe's midsole?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the heel counter of the shoe?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the sole's structure, what is its intended purpose?",
+        "answer": "Cushioning"
+      },
+      {
+        "question": "What is the visible design element at the heel of the shoe?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Describe the pattern or design on the main upper shoe fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Is there a noticeable feature for ventilation on the shoe?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the accent element near the shoe's opening?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall style of these shoes, casual or formal?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the apparent material of the shoe's outsole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Based on visual cues, are these shoes designed for sports or general wear?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Considering the design, how would you describe the shoe's profile?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

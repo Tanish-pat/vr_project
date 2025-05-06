@@ -1,0 +1,57 @@
+[
+  {
+    "path": "images/small/22/22bb9bf6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the image's text, what is the primary ingredient indicated as being organically sourced?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the visible text, what type of milk is listed as a component?",
+        "answer": "Organic"
+      },
+      {
+        "question": "According to the label, what thickening agent is used in the product?",
+        "answer": "Gum"
+      },
+      {
+        "question": "What additional ingredient is specified for maintaining freshness, as per the image's text?",
+        "answer": "Dioxide"
+      },
+      {
+        "question": "What other nut is mentioned in the cautionary statement regarding the manufacturing facility?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "From the text on the image, what type of bean is indicated as an ingredient?",
+        "answer": "Locust"
+      },
+      {
+        "question": "The label mentions a processing facility; what other grain is listed in its processing?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What kind of nut is also noted in the processing facility statement shown in the image?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What additional ingredient, besides milk, is mentioned in the initial line of the visible text?",
+        "answer": "Honey"
+      },
+      {
+        "question": "In the second line of the label, what substance is mentioned alongside locust bean gum?",
+        "answer": "Agar"
+      },
+      {
+        "question": "What grade of milk is prominently identified at the beginning of the label?",
+        "answer": "Grade"
+      },
+      {
+        "question": "What is the state of the mentioned milk, according to the image's text?",
+        "answer": "Pasteurized"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the predominant color of the depicted phone case design?",
         "answer": "Black"
       },
       {
-        "question": "What type of controller is depicted on the phone case's surface?",
+        "question": "What specific type of controller is shown on the phone case?",
         "answer": "Gamepad"
       },
       {
-        "question": "Considering the overall design, what is the apparent theme of the phone case?",
-        "answer": "Gaming"
-      },
-      {
-        "question": "What appears to be the primary material of the depicted phone case?",
+        "question": "Considering the image, what appears to be the phone case's material?",
         "answer": "Plastic"
       },
       {
-        "question": "Judging by the image, what is the general shape of the phone case itself?",
+        "question": "Judging by the visual, what is the overall shape of the phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Based on the visual details, what finish does the case seem to have?",
+        "question": "Based on the image, what kind of finish does the case seem to possess?",
         "answer": "Glossy"
       },
       {
-        "question": "Describe the visual texture of the gamepad depicted on the phone case.",
+        "question": "From the image, what is the primary design element on the case's back?",
+        "answer": "Gamepad"
+      },
+      {
+        "question": "What is the apparent texture of the gamepad graphic on the case?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent style of the buttons on the controller in the image?",
-        "answer": "Circular"
+        "question": "Analyzing the image, what seems to be the style of the gamepad depicted?",
+        "answer": "Realistic"
       },
       {
-        "question": "What is the apparent level of detail in the gamepad's depiction?",
-        "answer": "High"
-      },
-      {
-        "question": "What is the color of the accents on the gamepad shown in the design?",
+        "question": "In the provided picture, what color are the buttons on the gamepad design?",
         "answer": "Dark"
       },
       {
-        "question": "What design element is shown on the side of the phone case?",
-        "answer": "Lines"
+        "question": "Based solely on the visual, how many buttons are visibly present on the gamepad?",
+        "answer": "Eight"
       },
       {
-        "question": "Based on the image, what kind of camera lens shape does it suggest?",
-        "answer": "Circular"
+        "question": "Judging from the image, what is the general level of detail in the design?",
+        "answer": "High"
       },
       {
-        "question": "How many buttons are visibly shown on the phone case's controller?",
-        "answer": "Four"
+        "question": "What is the apparent color of the phone case's side edges?",
+        "answer": "Dark"
       },
       {
-        "question": "What is the overall appearance of the phone case's finish?",
-        "answer": "Sleek"
+        "question": "What seems to be the position of the gamepad image on the phone case?",
+        "answer": "Central"
       },
       {
-        "question": "What is the apparent visual style of the phone case's print?",
-        "answer": "Realistic"
+        "question": "Based on what is visible, does the case appear to have any noticeable markings?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is the gamepad image detailed or simplified?",
+        "answer": "Detailed"
       }
     ]
   }

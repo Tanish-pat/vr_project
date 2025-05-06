@@ -9,60 +9,60 @@
         "answer": "Khaki"
       },
       {
-        "question": "What is the apparent material of the long-sleeved shirt worn by the model?",
+        "question": "What is the apparent material of the long-sleeved shirt?",
         "answer": "Knit"
       },
       {
-        "question": "Describe the overall fit of the trousers on the model, considering the legs?",
+        "question": "Describe the overall fit of the trousers visible in the provided image.",
         "answer": "Straight"
       },
       {
-        "question": "What is the primary color of the long-sleeved shirt that the model is wearing?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What kind of cuff style is visible at the bottom of the trousers?",
-        "answer": "Rolled"
-      },
-      {
-        "question": "What type of footwear is the model wearing in the provided image?",
-        "answer": "Shoes"
-      },
-      {
-        "question": "Considering the shirt's collar and fastening, what style is it?",
-        "answer": "Collared"
-      },
-      {
-        "question": "What is the apparent texture of the material used for the trousers?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the visible color of the shoes worn by the model in the picture?",
+        "question": "What color are the shoes worn by the model in the product display?",
         "answer": "Dark"
       },
       {
-        "question": "Based on the image, describe the sleeve length of the shirt worn by the model?",
+        "question": "What is the primary color of the long-sleeved shirt being modeled?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible cuffs, what is the style of the trousers shown?",
+        "answer": "Chinos"
+      },
+      {
+        "question": "What seems to be the sleeve length of the shirt displayed in the photograph?",
         "answer": "Long"
       },
       {
-        "question": "What is the general cut of the shirt being modeled in the image?",
-        "answer": "Relaxed"
+        "question": "Based on the image, what appears to be the collar style of the shirt?",
+        "answer": "Pointed"
       },
       {
-        "question": "What seems to be the visible design on the shirt's cuffs?",
+        "question": "What is the visible texture of the trousers' fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure does the long-sleeved shirt appear to have?",
+        "answer": "Button"
+      },
+      {
+        "question": "Judging by the image, what is the apparent style of the shoes?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What seems to be the overall shape of the shirt's hemline?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the apparent type of shoe worn by the model in this image?",
+        "answer": "Loafers"
+      },
+      {
+        "question": "What design element is noticeable on the shirt's cuffs?",
         "answer": "Stripes"
       },
       {
-        "question": "What is the apparent material of the footwear being showcased?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Judging by the image, what appears to be the shirt's pocket style?",
-        "answer": "Patch"
-      },
-      {
-        "question": "What is the main color of the under-shirt visible beneath the outer shirt?",
-        "answer": "White"
+        "question": "Considering the fabric, what might be the feel of the shirt shown?",
+        "answer": "Soft"
       }
     ]
   }

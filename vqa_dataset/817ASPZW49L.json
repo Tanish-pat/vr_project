@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's background?",
+        "question": "What is the dominant color of the background pattern on the phone case?",
         "answer": "Gray"
       },
       {
-        "question": "What is the primary text displayed on the phone case?",
-        "answer": "Supergirl"
-      },
-      {
-        "question": "What color is the lettering on the phone case?",
+        "question": "What is the color of the text prominently displayed on the phone case?",
         "answer": "Yellow"
       },
       {
-        "question": "What appears to be the texture of the case's background design?",
-        "answer": "Crystalline"
-      },
-      {
-        "question": "What shape does the phone case seem to possess?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What type of material does the phone case appear to be made of?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Describing the style, what kind of design is on the phone case background?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "What is the overall aesthetic of the phone case design?",
-        "answer": "Girly"
-      },
-      {
-        "question": "Considering the background, what kind of pattern is used?",
-        "answer": "Repeating"
-      },
-      {
-        "question": "What seems to be the finish of the phone case surface?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What kind of font is used for the text on the case?",
+        "question": "What is the style of the lettering for the text on the phone case?",
         "answer": "Cursive"
       },
       {
-        "question": "What is the apparent thickness of the phone case?",
-        "answer": "Slim"
+        "question": "What two words are written on the phone case?",
+        "answer": "Supergirl"
       },
       {
-        "question": "Considering the design, is the case's pattern symmetrical?",
+        "question": "What is the general shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture or pattern of the background on the phone case?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the overall design aesthetic of the phone case?",
+        "answer": "Girly"
+      },
+      {
+        "question": "Considering the design, who is the intended user of this phone case?",
+        "answer": "Female"
+      },
+      {
+        "question": "Are there any noticeable elements besides text and background pattern?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the phone case show any visible seams or joins?",
         "answer": "No"
       },
       {
-        "question": "How many words are written on the phone case?",
-        "answer": "Two"
+        "question": "Is the pattern on the case consistently distributed?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the apparent condition of the phone case shown?",
-        "answer": "New"
+        "question": "What is the visual impression of the background?",
+        "answer": "Crystalline"
+      },
+      {
+        "question": "Can you describe the tone of the yellow text?",
+        "answer": "Neon"
       }
     ]
   }

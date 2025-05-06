@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the bookshelf's structural elements?",
+        "question": "What is the overall color of the displayed bookshelf?",
         "answer": "Black"
       },
       {
-        "question": "What primary material appears to constitute the bookshelf's frame?",
+        "question": "What primary material appears to constitute the bookshelf structure?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the overall geometric arrangement of the shelving units?",
+        "question": "Describe the geometric arrangement of the shelving units on the bookshelf?",
         "answer": "Asymmetrical"
       },
       {
-        "question": "Considering the shelves' spatial configuration, what is their overall design?",
-        "answer": "Open"
-      },
-      {
-        "question": "What is the apparent finish of the visible surfaces of the bookshelf?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Based on visual inspection, what is the general shape of the bookshelf?",
+        "question": "Considering the visible shelves, what is the dominant shape they form?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many visibly distinct horizontal shelves are integrated into the design?",
-        "answer": "Five"
+        "question": "What is the apparent finish of the wood used in the bookshelf's construction?",
+        "answer": "Matte"
       },
       {
-        "question": "Observing the structural support, what is the bookshelf's primary orientation?",
-        "answer": "Vertical"
+        "question": "How would you characterize the style of this particular bookshelf?",
+        "answer": "Modern"
       },
       {
-        "question": "Does the design showcase any intricately carved or decorative elements?",
+        "question": "Based on the image, what is the general height of the bookshelf relative to its width?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the bookshelf exhibit any visible wood grain patterns?",
         "answer": "No"
       },
       {
-        "question": "Judging by the image, what is the apparent thickness of the shelf supports?",
+        "question": "Judging from the picture, what is the apparent thickness of the shelf supports?",
         "answer": "Thin"
       },
       {
-        "question": "Does the image indicate the presence of any visible drawers or doors?",
+        "question": "Considering the overall design, how many distinct shelving levels are visible?",
+        "answer": "Five"
+      },
+      {
+        "question": "Does the image reveal any visible hardware or visible assembly joinery?",
         "answer": "No"
       },
       {
-        "question": "What is the apparent texture of the bookshelf's visible surfaces?",
+        "question": "What is the apparent visual texture of the bookshelf's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Considering its structural integrity, what is the bookshelf's implied function?",
-        "answer": "Storage"
+        "question": "Describe the general profile or silhouette of the bookshelf from the side?",
+        "answer": "Linear"
       },
       {
-        "question": "What is the visible style of the vertical divider element?",
-        "answer": "Solid"
+        "question": "Is there evidence of any decorative elements or embellishments on the shelves?",
+        "answer": "No"
       },
       {
-        "question": "Based on its appearance, what is the likely weight-bearing capacity of each shelf?",
-        "answer": "Moderate"
+        "question": "What is the apparent orientation of the shelves within the overall structure?",
+        "answer": "Vertical"
       }
     ]
   }

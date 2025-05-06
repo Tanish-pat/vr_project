@@ -6,63 +6,63 @@
     "questions": [
       {
         "question": "Considering the overall shape, what geometric form best describes the product's packaging?",
-        "answer": "Rectangle"
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the dominant color observed in the background of the product image?",
+        "question": "What is the predominant color of the background on which the product information is displayed?",
         "answer": "Teal"
       },
       {
-        "question": "What single word describes the texture implied by the product's visual presentation?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Based on the visual cues, what is the primary material suggested for the product itself?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Focusing on the branding, what is the prominent single word name appearing on the packaging?",
-        "answer": "BELEI"
-      },
-      {
-        "question": "What is the primary function indicated visually for this product?",
-        "answer": "Mask"
-      },
-      {
-        "question": "What adjective best describes the aesthetic of the design as shown?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Disregarding the text, what single word describes the product's intended use?",
-        "answer": "Eyes"
-      },
-      {
-        "question": "Judging solely from the image, what is the claimed effect of the product?",
-        "answer": "Anti-ageing"
-      },
-      {
-        "question": "What is the predominant color of the text on the packaging?",
+        "question": "What is the color of the prominent text indicating the brand name?",
         "answer": "White"
       },
       {
-        "question": "What is the type of the product identified by the topmost text?",
-        "answer": "Mask"
+        "question": "Examining the textual content, what is the primary advertised benefit of this product?",
+        "answer": "Anti-ageing"
       },
       {
-        "question": "What visual element suggests the inclusion of a particular ingredient?",
+        "question": "What type of cosmetic product is shown in this image, as evident by the labeling?",
+        "answer": "Eye mask"
+      },
+      {
+        "question": "Focusing on the brand logo, what is the primary visual element included within the design?",
+        "answer": "Letter"
+      },
+      {
+        "question": "What is the descriptive term for the primary ingredient besides hyaluronic acid and vitamin E?",
         "answer": "Pearls"
       },
       {
-        "question": "Describe the stylistic approach to the text elements on the packaging?",
-        "answer": "Simple"
+        "question": "What language is used in the main title describing the product's function?",
+        "answer": "English"
       },
       {
-        "question": "What is the overall visual impression of the brand presentation?",
-        "answer": "Elegant"
+        "question": "Judging from the font style, what kind of aesthetic does the text evoke?",
+        "answer": "Minimalist"
       },
       {
-        "question": "What single word best describes the visual tone of the product packaging?",
-        "answer": "Sophisticated"
+        "question": "Based on the text's layout, what design principle is applied to the text presentation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the finish of the background color, based on its visual appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What appears to be the texture of the product packaging, from the image alone?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the brand logo, what geometric shape best represents its outer form?",
+        "answer": "Square"
+      },
+      {
+        "question": "What visual element is used to separate different language translations of the product description?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Considering the brand's name, how many letters are present in the overall representation?",
+        "answer": "Six"
       }
     ]
   }

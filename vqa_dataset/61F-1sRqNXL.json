@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant visual characteristic of the depicted smartphone screen?",
+        "question": "What is the dominant visual characteristic of the displayed screen?",
         "answer": "Shattered"
       },
       {
-        "question": "What appears to be the primary material composing the smartphone's frame?",
+        "question": "What appears to be the primary material of the phone's frame?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall geometric form of the object displayed in the image.",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What color is the visible bezel surrounding the smartphone's screen?",
+        "question": "What color is the visible border surrounding the screen?",
         "answer": "Black"
       },
       {
-        "question": "Considering the extensive cracks, what is the apparent state of the smartphone's screen?",
+        "question": "Considering the overall condition, what is the phone's state?",
         "answer": "Broken"
       },
       {
-        "question": "What is the apparent texture of the shattered screen, given the visible cracks?",
-        "answer": "Rough"
+        "question": "What is the shape of the device as a whole?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Considering the image, what seems to be the functionality of the depicted item?",
-        "answer": "Protective"
+        "question": "Describe the texture of the fractured glass surface.",
+        "answer": "Cracked"
       },
       {
-        "question": "Based on the visual evidence, what is the main issue depicted with the smartphone?",
+        "question": "What kind of damage is prominently displayed on the screen?",
+        "answer": "Fractured"
+      },
+      {
+        "question": "What is the overall color of the phone's screen, disregarding the cracks?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the device's apparent function?",
+        "answer": "Display"
+      },
+      {
+        "question": "What is the general pattern of the cracks across the screen?",
+        "answer": "Radial"
+      },
+      {
+        "question": "Describe the visual appearance of the edges of the phone?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the phone's frame?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the most striking feature of the image?",
         "answer": "Damage"
       },
       {
-        "question": "What kind of damage is predominantly visible on the smartphone's screen?",
-        "answer": "Cracks"
+        "question": "What is the screen's visual condition after the shattering?",
+        "answer": "Broken"
       },
       {
-        "question": "Describe the visual pattern formed by the cracks on the smartphone screen.",
-        "answer": "Spiderweb"
-      },
-      {
-        "question": "What color are the majority of the fragments within the shattered screen?",
-        "answer": "Clear"
-      },
-      {
-        "question": "What is the implied purpose of the accompanying text, \u201cANTI SHATTER\u201d?",
-        "answer": "Marketing"
-      },
-      {
-        "question": "Given the condition of the screen, what is the likely state of the screen's functionality?",
-        "answer": "Nonfunctional"
-      },
-      {
-        "question": "What is the general shape of the individual fragments in the shattered screen?",
-        "answer": "Irregular"
-      },
-      {
-        "question": "What is the overall condition of the presented smartphone?",
-        "answer": "Damaged"
+        "question": "What type of image is the device displaying?",
+        "answer": "None"
       }
     ]
   }

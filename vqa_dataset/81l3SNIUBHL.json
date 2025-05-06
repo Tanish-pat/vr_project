@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's artistic design?",
+        "question": "What is the dominant color scheme of the phone case's abstract design?",
         "answer": "Multicolored"
       },
       {
-        "question": "What artistic style is primarily expressed in the phone case design?",
+        "question": "What artistic style is predominantly expressed on the phone case's surface?",
         "answer": "Abstract"
       },
       {
-        "question": "What is the general shape of the phone case, considering its form factor?",
+        "question": "What is the overall shape of the illustrated mobile phone case?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the visual texture, what impression does the case's surface give?",
-        "answer": "Painted"
-      },
-      {
-        "question": "What is the most prominent color used in the thick brushstrokes near the right edge?",
-        "answer": "Blue"
-      },
-      {
-        "question": "What color is the prominent horizontal brushstroke near the top?",
-        "answer": "Red"
-      },
-      {
-        "question": "What color dominates the lower-central rectangular section of the design?",
-        "answer": "Orange"
-      },
-      {
-        "question": "What appears to be the primary material used for the phone case?",
+        "question": "What appears to be the primary material used for the phone case's construction?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the overall visual impression of the brushstrokes in the design.",
-        "answer": "Bold"
+        "question": "Considering the image, what is the texture of the depicted phone case design?",
+        "answer": "Painted"
       },
       {
-        "question": "What type of finish does the case's surface appear to have based on its sheen?",
-        "answer": "Matte"
+        "question": "What color is the prominent brushstroke across the phone case's center?",
+        "answer": "Red"
       },
       {
-        "question": "What is the apparent form of the depicted artistic expression on the phone case?",
+        "question": "Describe the visual appearance of the lines and forms on the phone case's design?",
+        "answer": "Brushstrokes"
+      },
+      {
+        "question": "What kind of design elements are visible on the phone case?",
         "answer": "Geometric"
       },
       {
-        "question": "What color is the background region slightly off-center to the top-left?",
-        "answer": "Beige"
+        "question": "What is the general tone or feel evoked by the colors of the phone case design?",
+        "answer": "Vibrant"
       },
       {
-        "question": "Based on the visual details, how would you describe the overall design?",
+        "question": "What is the style of the painting on the back of the phone case?",
         "answer": "Modern"
       },
       {
-        "question": "Are there any clearly visible logos or branding on the phone case itself?",
+        "question": "What color is the largest rectangular section of the design?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the rectangular shape at the bottom of the phone case design?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What color is visible along the sides of the phone case?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Does the case's design include any clearly discernible text or logos?",
         "answer": "No"
       },
       {
-        "question": "Considering the image, what is the apparent level of detail in the artwork?",
-        "answer": "High"
+        "question": "Based on the image, is the phone case design glossy or matte?",
+        "answer": "Glossy"
       }
     ]
   }

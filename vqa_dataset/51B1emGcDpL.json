@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the cosmetic product's visible surface?",
-        "answer": "Pink"
-      },
-      {
-        "question": "What is the overall shape of the cosmetic product container?",
+        "question": "What is the overall shape of the cosmetic product displayed?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What appears to be the texture of the cosmetic product itself?",
+        "question": "What dominant color is visibly present on the product's tip?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What seems to be the primary finish or sheen of the cosmetic product?",
         "answer": "Shiny"
       },
       {
-        "question": "What material seems to constitute the body of the cosmetic applicator?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the apparent finish of the cosmetic product's color?",
-        "answer": "Brilliant"
-      },
-      {
-        "question": "What is the visible design element near the bottom of the product?",
-        "answer": "Text"
-      },
-      {
-        "question": "What seems to be the consistency suggested by the product's description?",
+        "question": "What is the apparent texture of the cosmetic product's substance?",
         "answer": "Jelly"
       },
       {
-        "question": "What form does the cosmetic product take for application?",
-        "answer": "Stick"
+        "question": "What material seems to constitute the product's outer casing?",
+        "answer": "Metal"
       },
       {
-        "question": "Does the product's image show any noticeable markings on its packaging?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What color is the metallic portion of the product's packaging?",
+        "question": "What color is the majority of the product's outer packaging?",
         "answer": "Silver"
       },
       {
-        "question": "What is the shape of the cosmetic product's application tip?",
-        "answer": "Rounded"
+        "question": "Describe the visual appearance of the product's packaging design?",
+        "answer": "Sleek"
       },
       {
-        "question": "Does the product packaging display any brand naming?",
-        "answer": "Yes"
+        "question": "What is the form factor of the cosmetic product as shown?",
+        "answer": "Stick"
       },
       {
-        "question": "Considering the image, is the product opaque or translucent?",
-        "answer": "Translucent"
+        "question": "What type of cosmetic product is suggested by the image?",
+        "answer": "Lip"
       },
       {
-        "question": "Based on visual cues, does the product appear creamy or waxy?",
-        "answer": "Creamy"
+        "question": "Based on the image, what is the general condition of the product?",
+        "answer": "New"
       },
       {
-        "question": "What kind of finish does the product seem to provide, based on its appearance?",
-        "answer": "Glossy"
+        "question": "Does the product's packaging show any visible markings or text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the predominant visual pattern on the product's casing?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visible size of the product in relation to a hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "How many noticeable sections does the product's body have?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent orientation of the product in the image?",
+        "answer": "Vertical"
       }
     ]
   }

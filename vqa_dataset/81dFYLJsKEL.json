@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the recliner's upholstery?",
+        "question": "What is the predominant color of the chair's upholstery?",
         "answer": "Beige"
       },
       {
-        "question": "What type of wood appears to be used for the chair's frame?",
-        "answer": "Walnut"
+        "question": "What appears to be the primary material of the chair's frame?",
+        "answer": "Wood"
       },
       {
-        "question": "Describe the overall shape of the chair's backrest?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What is the apparent texture of the fabric covering the chair?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What is the style of the armrests' design on this recliner?",
-        "answer": "Mid-century"
-      },
-      {
-        "question": "How would you characterize the overall design of the chair?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What type of mechanism seems to be used for reclining?",
-        "answer": "Recliner"
-      },
-      {
-        "question": "What kind of legs support this recliner?",
-        "answer": "Tapered"
-      },
-      {
-        "question": "What is the primary color of the wood frame?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What is the apparent finish on the wooden frame?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Describe the stitching pattern visible on the upholstery?",
-        "answer": "Subtle"
-      },
-      {
-        "question": "What is the general shape of the chair's seat?",
+        "question": "Describe the overall shape and style of the recliner chair?",
         "answer": "Rectangular"
       },
       {
-        "question": "Does the chair seem to have any visible padding?",
-        "answer": "Yes"
+        "question": "What kind of reclining mechanism does the chair seem to have?",
+        "answer": "Pushback"
       },
       {
-        "question": "How many armrests are on this recliner?",
+        "question": "What is the visible texture of the chair's upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What color is the visible wood of the chair's armrests and base?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the chair's design, what era's style does it evoke?",
+        "answer": "Mid-Century"
+      },
+      {
+        "question": "What is the apparent style of the chair's legs?",
+        "answer": "Tapered"
+      },
+      {
+        "question": "Based on the image, what seems to be the upholstery's type of fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the angle and height of the armrests, what is the chair's seating style?",
+        "answer": "Relaxed"
+      },
+      {
+        "question": "Judging by the visible seams, what construction technique is used on the upholstery?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Considering the whole chair design, what is its general aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent finish of the wood used in the chair's construction?",
+        "answer": "Satin"
+      },
+      {
+        "question": "How many visible cushions constitute the chair's backrest?",
         "answer": "Two"
       },
       {
-        "question": "What appears to be the base material of the recliner?",
-        "answer": "Fabric"
+        "question": "What is the overall visual impression of the chair's comfort level?",
+        "answer": "Cozy"
       }
     ]
   }

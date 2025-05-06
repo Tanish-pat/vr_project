@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b0ccccc3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall structure, what is the dominant visual element presented in the image, encompassing nearly the entirety of the provided rectangular space?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the principal subject of the detailed information displayed across multiple rows and columns?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Regarding the visual presentation, what is the predominant color utilized for the headings and key numerical data in the presented nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text's organization, what is the type of formatting used to structure the nutritional components, their values, and percentages?",
+        "answer": "tabular"
+      },
+      {
+        "question": "In terms of the textual composition, what specific term is prominently featured to capture the essence of this nutritional breakdown?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Analyzing the numerical figures, what is the specific calorie count indicated per serving within the context of the provided nutritional information?",
+        "answer": "130"
+      },
+      {
+        "question": "Considering the visual appearance, what is the color of the background against which all of the information is presented?",
+        "answer": "White"
+      },
+      {
+        "question": "From the textual content, what is the unit of measurement used for the 'Serving Size' specification within the displayed nutritional information?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Based on the visual presentation of the data, what unit is used to express the quantity of various nutrients?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the font style used throughout the entire information presented in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the measurement unit for the amount of cholesterol listed in the nutrition facts?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the unit of measurement for the serving size in milliliters, as explicitly indicated in the provided information?",
+        "answer": "mL"
+      },
+      {
+        "question": "What is the numerical value corresponding to the 'Total Fat' in grams, as clearly presented in the visual display?",
+        "answer": "5"
+      },
+      {
+        "question": "In examining the visual details, what is the term used to denote the absence of a specific nutritional component, such as 'Trans Fat'?",
+        "answer": "Og"
+      },
+      {
+        "question": "What is the overall shape of this visual piece, given the visible rectangular boundary of the displayed information?",
+        "answer": "Rectangle"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the upholstered seating surface?",
+        "question": "What is the predominant color of the upholstered seat?",
         "answer": "Gray"
       },
       {
-        "question": "What appears to be the primary material of the chair's legs?",
-        "answer": "Wood"
+        "question": "What material appears to constitute the chair's seat and back?",
+        "answer": "Fabric"
       },
       {
-        "question": "Describe the overall shape of the chair's backrest, viewed from the side?",
+        "question": "Describe the overall shape of the chair's backrest.",
         "answer": "Curved"
       },
       {
-        "question": "What metallic accent is visible on the bottom of the chair legs?",
-        "answer": "Gold"
-      },
-      {
-        "question": "What is the apparent texture of the fabric covering the seat and back?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the style, what type of chair is depicted in the image?",
-        "answer": "Barstool"
-      },
-      {
-        "question": "How many visible support bars are present beneath the seat?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the general color of the chair's legs and frame?",
+        "question": "What is the apparent finish of the chair's legs?",
         "answer": "Dark"
       },
       {
-        "question": "Does the chair's design appear to be modern or traditional?",
+        "question": "What color are the small metallic accents at the base of the legs?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the general style of this chair, based on its visual design?",
         "answer": "Modern"
       },
       {
-        "question": "What is the apparent shape of the seating area from the side?",
-        "answer": "Rectangular"
+        "question": "Considering its height and design, what type of seating is this?",
+        "answer": "Barstool"
       },
       {
-        "question": "Describe the style of the backrest's curve, is it gentle or dramatic?",
-        "answer": "Gentle"
+        "question": "How many legs does this chair have?",
+        "answer": "Four"
       },
       {
-        "question": "What appears to be the finish of the wood on the legs?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What type of upholstery fabric is visually suggested by the appearance?",
-        "answer": "Velvet"
-      },
-      {
-        "question": "Are there any visible seams on the upholstery?",
+        "question": "Does the chair have a footrest or support?",
         "answer": "Yes"
       },
       {
-        "question": "What is the overall height of the chair relative to an average human?",
-        "answer": "Tall"
+        "question": "What is the apparent texture of the upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the profile of the chair's legs from side to side.",
+        "answer": "Tapered"
+      },
+      {
+        "question": "What appears to be the primary construction material of the chair's legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the general design of the chair's backrest, with respect to the seat?",
+        "answer": "High"
+      },
+      {
+        "question": "Are there any visible seams or stitching on the upholstery?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the chair design symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
       }
     ]
   }

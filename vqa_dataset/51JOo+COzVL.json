@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the text displayed on the supplement facts label?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the shape of the individual supplement unit as mentioned in the label's serving size description?",
-        "answer": "Softgel"
-      },
-      {
-        "question": "What is the format of the presented nutritional information on the label?",
-        "answer": "Table"
-      },
-      {
-        "question": "What specific vitamin is prominently featured in the listed nutrients?",
-        "answer": "D3"
-      },
-      {
-        "question": "What is the unit of measurement for the Vitamin D3 quantity shown on the label?",
-        "answer": "IU"
-      },
-      {
-        "question": "What is the background color of the supplement facts label?",
-        "answer": "White"
-      },
-      {
-        "question": "Considering the text's presentation, what is the overall style of the label's typography?",
-        "answer": "Bold"
-      },
-      {
-        "question": "What term precedes the detailed breakdown of each nutrient's quantity?",
-        "answer": "Serving"
-      },
-      {
-        "question": "What percentage of the daily value does the provided Vitamin D3 amount represent?",
-        "answer": "100%"
-      },
-      {
-        "question": "What is the form of presentation for the displayed daily value percentages?",
-        "answer": "Percentage"
-      },
-      {
-        "question": "What is the chemical name for Vitamin D3 as shown in parentheses on the label?",
-        "answer": "Cholecalciferol"
-      },
-      {
-        "question": "What is the term at the top of the supplement information panel?",
+        "question": "What is the primary textual element displayed prominently on the label?",
         "answer": "Supplement"
       },
       {
-        "question": "Besides the vitamin content, what else is listed alongside the quantity?",
-        "answer": "Value"
-      },
-      {
-        "question": "What descriptive term is used to define the serving unit size?",
+        "question": "What dosage form is specified for a single serving, as indicated on the label?",
         "answer": "Softgel"
       },
       {
-        "question": "What word indicates the amount of nutrients per serving?",
+        "question": "What specific vitamin is listed as the primary component of the supplement?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the indicated unit of measurement for the Vitamin D3 dosage?",
+        "answer": "IU"
+      },
+      {
+        "question": "What is the numerical value representing the daily percentage of Vitamin D3 in one serving?",
+        "answer": "100"
+      },
+      {
+        "question": "What is the numerical quantity of Vitamin D3 in one serving, as stated on the label?",
+        "answer": "400"
+      },
+      {
+        "question": "What is the form in which Vitamin D3 is presented within the supplement?",
+        "answer": "Cholecalciferol"
+      },
+      {
+        "question": "What is the word that indicates the daily recommended intake percentage?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the term used to describe the presented nutritional information?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the phrase that specifies the amount of supplement per serving?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What is the descriptive term for the provided information about the product's contents?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the term used to describe the quantity of a nutrient relative to the recommended intake?",
+        "answer": "Value"
+      },
+      {
+        "question": "Besides the numerical data, what is the main information category presented in the image?",
         "answer": "Amount"
+      },
+      {
+        "question": "What is the term indicating the size of one unit for consumption?",
+        "answer": "Size"
+      },
+      {
+        "question": "What is the phrase that describes the specified quantity of components in one unit?",
+        "answer": "Per"
       }
     ]
   }

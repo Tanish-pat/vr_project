@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the chocolate coating on the clusters?",
+        "question": "What is the dominant color of the chocolate coating on the trail mix clusters shown in the lower portion of the packaging?",
         "answer": "Dark"
       },
       {
-        "question": "What type of nuts are visibly embedded within the chocolate?",
+        "question": "What kind of nuts are visibly present among the ingredients depicted on the package?",
         "answer": "Almonds"
       },
       {
-        "question": "Besides almonds, what other dried fruit is clearly shown in the product image?",
+        "question": "Based on the image, what dried fruit is included in these Cape Cod Trail Mix Clusters?",
         "answer": "Cranberries"
       },
       {
-        "question": "What other nut, besides almonds, is depicted as an ingredient?",
+        "question": "What other nut, besides almonds, is pictured as an ingredient of the trail mix clusters?",
         "answer": "Cashews"
       },
       {
-        "question": "What is the overall shape of the individual chocolate clusters?",
+        "question": "What is the overall shape of the individual trail mix clusters shown in the product image?",
         "answer": "Irregular"
       },
       {
-        "question": "What is the primary color of the packaging's background?",
-        "answer": "Blue"
+        "question": "Considering the packaging design, what is the primary color used for the text 'Cape Cod'?",
+        "answer": "Black"
       },
       {
-        "question": "What graphic element is prominently featured on the upper left of the packaging?",
-        "answer": "Lighthouse"
-      },
-      {
-        "question": "What is the texture of the visible dried cranberries?",
-        "answer": "Wrinkled"
-      },
-      {
-        "question": "What is the overall shape of the packaging?",
+        "question": "What is the overall shape of the packaging for this trail mix product?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the material of the packaging, as visually apparent?",
-        "answer": "Flexible"
+        "question": "What is the color of the lighthouse graphic on the top-left corner of the packaging?",
+        "answer": "Red"
       },
       {
-        "question": "What brand name is displayed most prominently on the package?",
+        "question": "What is the color of the background behind the lighthouse graphic on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the main color of the brand logo and packaging background of the product?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the texture implied by the appearance of the chocolate coating on the clusters?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent texture of the almonds and cashews visible in the image?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the material of the main packaging shown in the image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What type of product is shown in the image based on its packaging and contents?",
+        "answer": "Snack"
+      },
+      {
+        "question": "What is the brand name printed prominently on the packaging?",
         "answer": "365"
-      },
-      {
-        "question": "What is the descriptive term used for this snack product?",
-        "answer": "Clusters"
-      },
-      {
-        "question": "What flavor of chocolate is specified on the packaging?",
-        "answer": "Dark"
-      },
-      {
-        "question": "What type of snack is this product described as?",
-        "answer": "Trail"
-      },
-      {
-        "question": "What geographical location is referenced in the product's name?",
-        "answer": "Cape"
       }
     ]
   }

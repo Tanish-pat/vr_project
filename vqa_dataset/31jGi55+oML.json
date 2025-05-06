@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9c/9ceddd9c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food steamer as shown in the image?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the food steamer, considering its main body?",
+        "answer": "Spherical"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material of the steamer?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the steamer's design incorporate any visible handles or carrying features?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, is the steamer transparent or opaque in appearance?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the visible texture, would you describe the steamer's surface as smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any visible markings, patterns, or designs on the steamer's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the steamer seem to have a lid or separate covering component?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, can you identify any ventilation holes or perforations in the steamer?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the approximate size of the steamer in comparison to the human silhouette?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the product seem to be designed for single or multi-tiered steaming?",
+        "answer": "Single"
+      },
+      {
+        "question": "Judging by the image, how many components does the steamer appear to be made of?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the image, does the steamer appear to have a flat base or a curved one?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Considering the visual details, does the steamer have any visible support structure or stand?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image provide any indication of the steamer's overall weight or sturdiness?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the shoe's upper?",
+        "question": "What is the predominant color of the upper part of this athletic shoe?",
         "answer": "Blue"
       },
       {
-        "question": "What color are the prominent diagonal stripes on the shoe?",
+        "question": "What color are the prominent diagonal stripes on the shoe's side?",
         "answer": "Cyan"
       },
       {
-        "question": "What material appears to constitute the majority of the shoe's upper?",
+        "question": "Describe the apparent material of the shoe's main body, based solely on its visual texture?",
         "answer": "Mesh"
       },
       {
-        "question": "What color is the shoe's sole?",
+        "question": "What color is the sole of this particular athletic shoe model?",
         "answer": "White"
       },
       {
-        "question": "What is the overall shape of the shoe's sole?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What color is the heel counter of the shoe?",
+        "question": "What is the color of the heel counter of this sports shoe?",
         "answer": "Black"
       },
       {
-        "question": "What type of closure system does the shoe utilize?",
-        "answer": "Lace"
+        "question": "What is the overall shape of the shoe's toe box?",
+        "answer": "Rounded"
       },
       {
-        "question": "What color are the laces of the shoe?",
-        "answer": "Blue"
+        "question": "Considering the visible stitching, what seems to be the construction method of this sneaker?",
+        "answer": "Stitched"
       },
       {
-        "question": "Describe the texture of the shoe's upper material.",
-        "answer": "Breathable"
+        "question": "What material appears to form the base layer of the sole unit?",
+        "answer": "Rubber"
       },
       {
-        "question": "What design element is prominently featured on the sides of the shoe?",
+        "question": "What is the style of the lacing system incorporated in this athletic footwear?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the primary design element repeating across the shoe's upper section?",
         "answer": "Stripes"
       },
       {
-        "question": "What is the apparent material of the shoe's insole?",
-        "answer": "Fabric"
+        "question": "Judging by appearance, what is the likely intended use for this type of footwear?",
+        "answer": "Running"
       },
       {
-        "question": "What is visible on the tongue of the shoe?",
-        "answer": "Branding"
+        "question": "What color is the visible branding on the shoe's tongue?",
+        "answer": "Blue"
       },
       {
-        "question": "What is the overall style of the shoe?",
-        "answer": "Sporty"
+        "question": "Based on the image, what design characteristic is evident near the heel area?",
+        "answer": "Overlay"
       },
       {
-        "question": "What part of the shoe is primarily black?",
-        "answer": "Heel"
+        "question": "Describe the visible texture of the area near the shoe's vamp.",
+        "answer": "Textured"
       },
       {
-        "question": "Is the shoe's sole noticeably thick or thin?",
-        "answer": "Thick"
+        "question": "What color is the section of the midsole visible from the side profile?",
+        "answer": "White"
       }
     ]
   }

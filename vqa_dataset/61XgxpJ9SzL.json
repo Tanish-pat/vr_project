@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the predominant pattern adorning the shoe bags?",
+        "question": "What is the predominant geometric pattern adorning the shoe bags?",
         "answer": "Triangles"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Blue"
       },
       {
-        "question": "What material appears to constitute the main body of the shoe bags?",
+        "question": "What appears to be the material of the main body of the shoe bags?",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the texture of the main fabric of the shoe bags?",
-        "answer": "Smooth"
+        "question": "What color is the contrasting band near the bottom of each bag?",
+        "answer": "DarkerBlue"
       },
       {
-        "question": "What is the color of the solid-colored bottom portion of the shoe bags?",
-        "answer": "Blue"
-      },
-      {
-        "question": "What type of closure mechanism is visibly present on the shoe bags?",
-        "answer": "Drawstring"
-      },
-      {
-        "question": "What shape best describes the overall form of each shoe bag?",
+        "question": "What shape best describes the overall form of the shoe bags?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the visible style of the high-heeled shoes shown?",
-        "answer": "Pointed"
+        "question": "Describe the closure mechanism visible on the top of the shoe bag.",
+        "answer": "Drawstring"
       },
       {
-        "question": "What is the overall color of the high-heeled shoes displayed?",
-        "answer": "Gold"
+        "question": "What is the visible type of footwear contained within one shoe bag?",
+        "answer": "Heels"
       },
       {
-        "question": "What type of footwear is shown besides the high heels?",
+        "question": "What type of footwear is shown inside the second shoe bag?",
         "answer": "Oxfords"
       },
       {
-        "question": "Describe the visible color of the oxford-style shoes shown?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What is the apparent material of the oxford-style shoes?",
-        "answer": "Leather"
-      },
-      {
-        "question": "What is the visible finish of the oxford shoes?",
-        "answer": "Shiny"
-      },
-      {
-        "question": "What is the apparent texture of the bottom of the shoe bags?",
+        "question": "What is the apparent texture of the main fabric of the shoe bags?",
         "answer": "Smooth"
       },
       {
-        "question": "Judging by the image, are the bags designed for single or multiple shoes?",
-        "answer": "Single"
+        "question": "What color is the pair of high-heeled shoes shown?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What color are the men's dress shoes in the second image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the pattern, what would you say is the overall style of these bags?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the visible texture of the shoes in the left image?",
+        "answer": "Glittery"
+      },
+      {
+        "question": "What appears to be the finish of the men's shoes?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Considering the bags' apparent use, what is their function?",
+        "answer": "Storage"
       }
     ]
   }

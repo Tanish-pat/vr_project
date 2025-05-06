@@ -9,60 +9,60 @@
         "answer": "Pastel"
       },
       {
-        "question": "What artistic style is predominantly used in the phone case's graphic?",
+        "question": "What artistic style is primarily employed in the phone case's imagery?",
         "answer": "Graffiti"
       },
       {
-        "question": "What specific visual elements are prominently featured in the case's design, suggesting a scientific theme?",
-        "answer": "Molecules"
-      },
-      {
-        "question": "What type of background texture is visually represented on the phone case?",
+        "question": "Considering the visual texture, what material appears to be depicted on the phone case?",
         "answer": "Brick"
       },
       {
-        "question": "What shape best describes the overall form of the presented product?",
+        "question": "What is the overall shape of the depicted mobile phone protective accessory?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this phone case?",
-        "answer": "Plastic"
+        "question": "What type of design elements, besides the brick wall, are prominently displayed on the case?",
+        "answer": "Molecules"
       },
       {
-        "question": "Considering the image, what color is the thin horizontal stripe near the bottom of the phone case?",
+        "question": "What color is the thin horizontal element near the bottom of the phone case design?",
         "answer": "Gold"
       },
       {
-        "question": "What is the general aesthetic or vibe conveyed by the depicted phone case design?",
-        "answer": "Artistic"
+        "question": "What is the texture of the brick-like pattern predominantly shown on the phone case?",
+        "answer": "Rough"
       },
       {
-        "question": "What is the overall texture of the depicted phone case design, considering its visual representation?",
-        "answer": "Smooth"
+        "question": "What appears to be the main subject of the phone case's artistic representation?",
+        "answer": "Wall"
       },
       {
-        "question": "Excluding the main design, what additional color appears in small accents on the phone case?",
-        "answer": "Teal"
+        "question": "Describe the clouds depicted in the phone case's upper section, in terms of their appearance?",
+        "answer": "Yellowish"
       },
       {
-        "question": "What style of clouds are depicted in the upper portion of the phone case design?",
-        "answer": "Cartoonish"
+        "question": "What seems to be the primary artistic medium suggested by the phone case's design?",
+        "answer": "Spray-paint"
       },
       {
-        "question": "Considering the image, how many distinct color variations are visible in the brick wall design?",
-        "answer": "Four"
+        "question": "Is the depicted phone case design characterized by a high level of visual detail?",
+        "answer": "Yes"
       },
       {
-        "question": "Does the phone case's design include any visible three-dimensional elements beyond the printed image?",
-        "answer": "No"
+        "question": "What overall aesthetic does the phone case design seem to convey?",
+        "answer": "Street"
       },
       {
-        "question": "What is the apparent condition of the phone case depicted, in terms of newness or wear?",
-        "answer": "New"
+        "question": "What is the general color of the background behind the depicted molecule structure?",
+        "answer": "Blue"
       },
       {
-        "question": "What style of graphic design elements are used to represent the molecules on the phone case?",
+        "question": "What is the apparent form and composition of the design elements on the phone case?",
         "answer": "Abstract"
+      },
+      {
+        "question": "Does the case design include elements that imply depth or perspective?",
+        "answer": "Yes"
       }
     ]
   }
