@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/db9f0de0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented product container, considering its contours and proportions?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the predominant color of the product's primary packaging, judging from the visible surfaces?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the surface finish of the bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure or dispensing mechanism is visibly present at the top of the container?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Based on the label's design, what might be the intended function or purpose of this product?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "Judging by the label's color scheme, what color accents are included in the design besides white?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Describe the apparent size and orientation of the product's label in relation to the packaging",
+        "answer": "Large"
+      },
+      {
+        "question": "From the visible text, what type of information seems to be prominently featured on the label?",
+        "answer": "Instructions"
+      },
+      {
+        "question": "What type of graphic elements or symbols are present besides text on the product packaging?",
+        "answer": "Droplet"
+      },
+      {
+        "question": "What is the apparent overall condition of the product's packaging based on visible markings?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the visual characteristics, what kind of design style does the label appear to have?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Are there any visible imperfections or damage apparent on the product's packaging?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the visible text size and clarity, what is the readability of the product's label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent volume or capacity of the container, considering its size and shape?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

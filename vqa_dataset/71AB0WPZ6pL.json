@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme depicted on the phone case's primary surface?",
+        "question": "What is the predominant color scheme of the depicted phone case's design?",
         "answer": "Orange"
       },
       {
-        "question": "What natural phenomenon is prominently featured in the phone case's design?",
+        "question": "What natural phenomenon is prominently featured in the phone case's image?",
         "answer": "Sunset"
       },
       {
         "question": "What type of tree is silhouetted against the sunset on the phone case?",
-        "answer": "Dead"
+        "answer": "Bare"
       },
       {
-        "question": "What is the overall shape of the depicted product based on its visible geometry?",
+        "question": "What is the overall shape of the protective phone case shown?",
         "answer": "Rectangular"
       },
       {
-        "question": "What appears to be the primary material used in the construction of this phone case?",
+        "question": "What appears to be the primary material used for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the general texture of the phone case's surface?",
+        "question": "Describe the texture of the phone case, based on the image provided.",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the visual appearance, what is the printing technique used for the design?",
-        "answer": "Digital"
+        "question": "What is the general style of the design showcased on the phone case?",
+        "answer": "Nature"
       },
       {
-        "question": "What celestial body is partially visible in the phone case's design?",
-        "answer": "Sun"
+        "question": "What is the main subject apart from the sky, dominating the phone case's print?",
+        "answer": "Tree"
       },
       {
-        "question": "What kind of birds appear in the illustration on the phone cover?",
-        "answer": "Silhouetted"
+        "question": "What is visible in the sky, besides the dominant color and the sun?",
+        "answer": "Birds"
       },
       {
-        "question": "Describe the visual style of the design printed on the case\u2014is it realistic or stylized?",
-        "answer": "Realistic"
+        "question": "What element suggests a setting sun in the phone case's artwork?",
+        "answer": "Orange"
       },
       {
-        "question": "What is the approximate number of birds visible in the sunset scene?",
-        "answer": "Three"
-      },
-      {
-        "question": "What is the apparent quality of the image printed on the phone case?",
+        "question": "What is the apparent print quality and resolution of the displayed image?",
         "answer": "High"
       },
       {
-        "question": "What is the visible edge design on the side of the phone case?",
-        "answer": "Straight"
+        "question": "What kind of overall aesthetic does this phone case's design evoke?",
+        "answer": "Serene"
       },
       {
-        "question": "Is the design on the phone case primarily a photograph, or is it a painting?",
-        "answer": "Photograph"
+        "question": "Besides the tree, what other details are visible in the artwork's foreground?",
+        "answer": "Ground"
       },
       {
-        "question": "Describe the color of the tree's silhouette in the main phone case illustration.",
-        "answer": "Black"
+        "question": "What is the position of the sun depicted within the phone case's image?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the relative size of the tree compared to the overall design?",
+        "answer": "Medium"
       }
     ]
   }

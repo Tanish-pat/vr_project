@@ -9,60 +9,60 @@
         "answer": "Beige"
       },
       {
+        "question": "What is the overall visual texture depicted on the phone case?",
+        "answer": "Cracked"
+      },
+      {
         "question": "What natural material does the phone case's design mimic?",
         "answer": "Stone"
       },
       {
-        "question": "Describe the prominent visual pattern across the phone case surface?",
+        "question": "Describe the pattern of the lines across the phone case's surface.",
         "answer": "Cracked"
       },
       {
-        "question": "What is the general shape of the protective phone covering?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What seems to be the primary material used in the phone case construction?",
+        "question": "What appears to be the primary material of the phone case itself?",
         "answer": "Plastic"
       },
       {
-        "question": "What color are the thin lines present along the phone case sides?",
-        "answer": "Brown"
+        "question": "What is the shape of the product shown in the image?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the texture implied by the case's surface design?",
-        "answer": "Rough"
-      },
-      {
-        "question": "How many sides of the phone case are clearly shown in the provided image?",
-        "answer": "Three"
-      },
-      {
-        "question": "What secondary colors are visible within the cracks of the design?",
+        "question": "What colors are the secondary details within the cracked pattern?",
         "answer": "Blue"
       },
       {
-        "question": "Besides cracks, what other minor markings are scattered across the design?",
-        "answer": "Dots"
+        "question": "What is the apparent finish of the phone case's surface?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the overall visual impression created by the case's design?",
-        "answer": "Abstract"
+        "question": "Considering the side views, what color are the edges of the case?",
+        "answer": "Brown"
       },
       {
-        "question": "What type of device does this protective cover appear designed for?",
-        "answer": "Phone"
+        "question": "What kind of pattern does the crackle effect suggest?",
+        "answer": "Veined"
       },
       {
-        "question": "Does the image show the phone case with any visible logos or branding?",
+        "question": "Does the design feature any repeating elements?",
         "answer": "No"
       },
       {
-        "question": "Based solely on the image, can you specify the exact phone model compatibility?",
-        "answer": "Unknown"
+        "question": "Besides beige and blue, what other color is subtly present?",
+        "answer": "Grey"
       },
       {
-        "question": "Considering the design, what style can this phone case best be described as?",
-        "answer": "Modern"
+        "question": "Are there any noticeable embellishments or logos on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall aesthetic style of the phone case's design?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Does the case design feature a high level of detail?",
+        "answer": "Yes"
       }
     ]
   }

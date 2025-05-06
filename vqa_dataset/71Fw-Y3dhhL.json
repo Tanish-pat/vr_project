@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/146be809.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary design element featured on the phone case?",
+        "answer": "Cartoon"
+      },
+      {
+        "question": "What is the apparent gender of the illustrated character on the case?",
+        "answer": "Female"
+      },
+      {
+        "question": "What color is the illustrated character's hair?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the style of the illustrated character's hair?",
+        "answer": "Ponytail"
+      },
+      {
+        "question": "What appears to be the character's expression in the illustration?",
+        "answer": "Playful"
+      },
+      {
+        "question": "What is the apparent material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color are the character's eyes in the illustration?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What type of clothing is the character shown wearing?",
+        "answer": "Swimsuit"
+      },
+      {
+        "question": "What is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the small detail near the character's eye?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is written beneath the illustrated character?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the phone case appear to have any noticeable texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the thin line surrounding the character?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is there any other discernible detail on the phone case besides the main design?",
+        "answer": "None"
+      }
+    ]
+  }
+]

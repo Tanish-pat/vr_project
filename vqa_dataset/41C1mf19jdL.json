@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary ingredient explicitly mentioned on this product label?",
-        "answer": "Eucalyptus"
-      },
-      {
-        "question": "What part of the eucalyptus plant is the oil derived from, as indicated on the label?",
+        "question": "Considering the textual content displayed, what specific plant part is the oil derived from?",
         "answer": "Leaf"
       },
       {
-        "question": "Considering the label's textual presentation, what is the overall color scheme of the label?",
-        "answer": "White"
+        "question": "Based on the label, what is the primary ingredient listed in this product?",
+        "answer": "Eucalyptus"
       },
       {
-        "question": "What is the typeface style predominantly used for the text on this product's label?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "Based on the label's appearance, what is the general texture of the label surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the overall shape of the visible area that contains the product information?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Regarding the label's typography, is the text primarily presented in uppercase or lowercase?",
-        "answer": "Uppercase"
-      },
-      {
-        "question": "Describing the label's visual properties, how would you characterize the text's weight or boldness?",
-        "answer": "Bold"
-      },
-      {
-        "question": "What specific species of eucalyptus is identified as the source of the oil?",
+        "question": "What is the precise species of eucalyptus mentioned in the ingredient list?",
         "answer": "Globulus"
       },
       {
-        "question": "Judging by the image, what is the apparent orientation of the text on the label?",
-        "answer": "Horizontal"
+        "question": "What is the overall color of the background of the label shown in the image?",
+        "answer": "White"
       },
       {
-        "question": "What word precedes the list of ingredients on the presented label?",
-        "answer": "Ingredients"
-      },
-      {
-        "question": "Based on visual assessment, what is the approximate size of the text on the label?",
-        "answer": "Medium"
-      },
-      {
-        "question": "Looking at the label's design, is there any noticeable background pattern or image?",
-        "answer": "None"
-      },
-      {
-        "question": "Considering the label's design elements, how would you describe the overall visual style?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What is the color of the text on the label?",
+        "question": "What is the color of the text on the label in the presented image?",
         "answer": "Black"
+      },
+      {
+        "question": "Judging by the image, what is the general typeface used for the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the text alignment employed on the provided label of the product.",
+        "answer": "Left"
+      },
+      {
+        "question": "Focusing on the label's visual features, what is the shape of the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, is the text on the label printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Considering the image, what seems to be the material of the label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "From the visual details, does the label appear to have a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What word precedes the specific eucalyptus species name on the label?",
+        "answer": "Eucalyptus"
+      },
+      {
+        "question": "What word follows the species name in the ingredient description on the label?",
+        "answer": "Leaf"
+      },
+      {
+        "question": "What word precedes the word 'Leaf' in the ingredient description?",
+        "answer": "Oil"
+      },
+      {
+        "question": "Based solely on the image, what word introduces the list of ingredients?",
+        "answer": "Ingredients"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary material composing the lamp's cylindrical body?",
+        "question": "What is the primary material composing the lamp's cylindrical base?",
         "answer": "Acrylic"
       },
       {
-        "question": "Describe the overall shape of the lamp's base structure?",
+        "question": "Describe the overall shape of the lamp's central structure?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What color is the lampshade material primarily exhibiting?",
+        "question": "What color is the lampshade encompassing the light source?",
         "answer": "White"
       },
       {
-        "question": "What is the apparent texture of the acrylic cylinder sections?",
+        "question": "What is the texture of the acrylic components in the lamp's base?",
         "answer": "Smooth"
       },
       {
-        "question": "What metallic finish is visible on the connecting rods?",
+        "question": "What metal finish is visible on the connecting rods of the lamp base?",
         "answer": "Nickel"
       },
       {
-        "question": "How many distinct acrylic cylindrical segments form the base?",
+        "question": "How many distinct acrylic rings comprise the lamp's base?",
         "answer": "Five"
       },
       {
-        "question": "What is the general shape of the lampshade affixed to the top?",
-        "answer": "Round"
-      },
-      {
-        "question": "What is the color of the acrylic used in the lamp's construction?",
-        "answer": "Clear"
-      },
-      {
-        "question": "What is the apparent material of the lampshade?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Describe the arrangement of the acrylic cylinders in the lamp's base?",
-        "answer": "Stacked"
-      },
-      {
-        "question": "What kind of light source does the lamp appear designed to accommodate?",
-        "answer": "Bulb"
-      },
-      {
-        "question": "What is the overall style of the lamp, considering its components and form?",
+        "question": "What is the general style or aesthetic of this table lamp?",
         "answer": "Modern"
       },
       {
-        "question": "Considering the lamp's base, what is its level of transparency?",
-        "answer": "High"
+        "question": "What is the shape of the lampshade sitting atop the lamp?",
+        "answer": "Round"
       },
       {
-        "question": "What is the apparent finish of the metallic connector pieces in the lamp?",
-        "answer": "Polished"
+        "question": "What is the apparent transparency level of the acrylic used?",
+        "answer": "Clear"
       },
       {
-        "question": "What is the primary function of the cylindrical structure?",
-        "answer": "Support"
+        "question": "What is the color of the metal accents on the lamp base?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe the surface finish of the lampshade fabric.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is the base of the lamp a single solid piece or multiple components?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the overall form factor of the lamp described?",
+        "answer": "Table"
+      },
+      {
+        "question": "What kind of light source is suggested by the lamp's design?",
+        "answer": "Incandescent"
+      },
+      {
+        "question": "Considering the material, what is the likely weight of the lamp?",
+        "answer": "Light"
       }
     ]
   }

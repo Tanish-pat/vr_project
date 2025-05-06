@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af48f5fa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant design pattern across the phone case?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What shape are the individual design elements?",
+        "answer": "Rhombus"
+      },
+      {
+        "question": "What is the predominant color palette of the design?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "What overall visual texture is suggested by the design?",
+        "answer": "Scaly"
+      },
+      {
+        "question": "Describe the apparent material of the phone case.",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the color scheme, what feeling does the design evoke?",
+        "answer": "Soft"
+      },
+      {
+        "question": "How would you describe the arrangement of the colors?",
+        "answer": "Varied"
+      },
+      {
+        "question": "What is the shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its appearance, what is the phone case's likely function?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the most prevalent shade among the pastel colors?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Are there any visible camera cutouts on the case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the design completely symmetrical?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the rhombus shape, what pattern type is similar?",
+        "answer": "Mosaic"
+      },
+      {
+        "question": "Does the case appear to be rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the finish of the case; glossy, matte, or other?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

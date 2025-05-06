@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the headphones shown in the image?",
+        "question": "What is the predominant color of the shown headphones?",
         "answer": "White"
       },
       {
-        "question": "What appears to be the primary material used in the construction of the earcups?",
+        "question": "What appears to be the primary material of the earcups?",
         "answer": "Plastic"
       },
       {
-        "question": "Describe the texture of the outer surface of the earcups, based solely on visual inspection?",
+        "question": "Describe the texture visible on the outer earcup surface?",
         "answer": "Textured"
       },
       {
-        "question": "What metallic color accent is visible on the earcups' outer rims?",
+        "question": "What metallic accent color is present on the earcups?",
         "answer": "Rosegold"
       },
       {
-        "question": "What is the overall shape of each individual earcup on these headphones?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What type of connector is visible extending from the bottom of one of the earcups?",
+        "question": "What type of connection is visible on the headphones?",
         "answer": "Wired"
       },
       {
-        "question": "What is the apparent design style of these headphones, considering their form and color?",
-        "answer": "Minimalist"
+        "question": "What is the overall shape of each individual earcup?",
+        "answer": "Circular"
       },
       {
-        "question": "Are the earcups of the headphones over-ear, on-ear, or in-ear in design?",
+        "question": "Considering the headband, what is the apparent design style?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What seems to be the type of the visible control buttons?",
+        "answer": "Physical"
+      },
+      {
+        "question": "Based on the image, what is the headphone's form factor?",
         "answer": "Over-ear"
       },
       {
-        "question": "Based on the image, what is the apparent headband design of these headphones?",
-        "answer": "Arched"
-      },
-      {
-        "question": "What type of buttons or controls are visible on the headphones' housing?",
-        "answer": "Buttons"
-      },
-      {
-        "question": "Considering the visual details, how would you describe the headband's material?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the apparent thickness of the earcup padding visible on the headphones?",
-        "answer": "Thick"
-      },
-      {
-        "question": "Can you describe the visible physical connection between the earcups and headband?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Based on visible details, what is the apparent finish of the headphone's plastic surfaces?",
+        "question": "What is the apparent finish of the visible plastic parts?",
         "answer": "Matte"
       },
       {
-        "question": "Considering the image, what could be inferred as the purpose of the small buttons on the side?",
-        "answer": "Controls"
+        "question": "What is the visible shape of the headphone's headband?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What seems to be the material of the connecting cable?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Are the earcups completely smooth or do they show any design?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Observing the earcups, what is the style of the visible seams?",
+        "answer": "Hidden"
+      },
+      {
+        "question": "Considering the controls, do the headphones appear simple or complex?",
+        "answer": "Simple"
       }
     ]
   }

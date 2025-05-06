@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the dominant color scheme of the phone case's design?",
         "answer": "Blue"
       },
       {
-        "question": "What is the overall texture depicted in the phone case's print?",
-        "answer": "Frosty"
-      },
-      {
-        "question": "What natural phenomenon does the design primarily represent?",
+        "question": "What is the primary visual motif depicted on the phone case surface?",
         "answer": "Frost"
       },
       {
-        "question": "Describe the visual pattern found across the phone case's surface?",
-        "answer": "Crystalline"
+        "question": "What appears to be the overall texture suggested by the case's design?",
+        "answer": "Frosted"
       },
       {
-        "question": "What material appears to be used for the construction of the phone case?",
+        "question": "Considering the image, what material seems most likely for this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the basic geometric shape of the phone case's form factor?",
+        "question": "Based on the visual, what is the general shape of the product shown?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the image, what seems to be the finish of the case's surface?",
+        "question": "Does the design show any noticeable repeating patterns or elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of visual effect is created by the design's light and dark areas?",
+        "answer": "Depth"
+      },
+      {
+        "question": "Judging by the appearance, is the phone case matte or glossy?",
         "answer": "Matte"
       },
       {
-        "question": "What is the apparent level of detail in the design's frost pattern?",
+        "question": "Describe the level of detail shown in the frost design on the case.",
         "answer": "High"
       },
       {
-        "question": "What color are the majority of the individual frost patterns?",
-        "answer": "Light-blue"
+        "question": "How would you characterize the overall style of the phone case design?",
+        "answer": "Abstract"
       },
       {
-        "question": "Describe the style of the visual pattern's layout or composition?",
-        "answer": "Organic"
-      },
-      {
-        "question": "Does the case design include any text, logos or other markings?",
+        "question": "Are there any noticeable text or logos on the phone case itself?",
         "answer": "No"
       },
       {
-        "question": "Based on its appearance, would you say the case is rigid or flexible?",
-        "answer": "Rigid"
+        "question": "Considering the visual, does the design feature sharp or soft edges?",
+        "answer": "Soft"
       },
       {
-        "question": "What is the general visual impression created by the design's palette?",
-        "answer": "Cool"
+        "question": "What is the primary method used to convey the frosty effect on the case?",
+        "answer": "Shading"
       },
       {
-        "question": "Based solely on visuals, how thick does the phone case appear?",
+        "question": "Judging only by the visual, how many camera cutouts are visible on the case?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the implied thickness of the phone case, judging by appearance?",
         "answer": "Thin"
-      },
-      {
-        "question": "Does the image show camera cutouts or other functional openings?",
-        "answer": "Yes"
       }
     ]
   }

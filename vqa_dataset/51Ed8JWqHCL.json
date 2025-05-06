@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color displayed across the entire surface of the object?",
+        "question": "What is the predominant color displayed across the entire surface?",
         "answer": "Gold"
       },
       {
-        "question": "Considering the light reflection patterns, what is the apparent surface texture of the item?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the most evident shape of the object that is shown in the provided image?",
-        "answer": "Circular"
-      },
-      {
-        "question": "Based on the visual sheen and reflective properties, what material could potentially compose this product?",
+        "question": "What apparent material constitutes the majority of the visible product?",
         "answer": "Metal"
       },
       {
-        "question": "Observing the concentric patterns, does the surface exhibit a high degree of polish or a matte finish?",
+        "question": "Describing the surface texture, what visual effect is prominently observed?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "What is the overall geometric shape of the item presented in the image?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the light reflection, how would you describe the surface sheen?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "Based on the visible concentric patterns, what manufacturing process is suggested?",
         "answer": "Polished"
       },
       {
-        "question": "From the image's perspective, what is the overall visual aesthetic impression of the circular object?",
-        "answer": "Sleek"
+        "question": "From the image alone, what seems to be the primary function of the displayed object?",
+        "answer": "Decorative"
       },
       {
-        "question": "Judging by its reflectivity, is the object's surface glossy, or does it possess a dull appearance?",
-        "answer": "Glossy"
+        "question": "What type of finish is evident on the product's visible surface area?",
+        "answer": "Satin"
       },
       {
-        "question": "Does the image suggest the presence of any discernible patterns or markings on the item's surface?",
-        "answer": "Radial"
+        "question": "Considering the image, what is the approximate thickness of the displayed item?",
+        "answer": "Thin"
       },
       {
-        "question": "Given its reflective properties, does the item appear to be made of a hard or soft material?",
-        "answer": "Hard"
+        "question": "What is the primary color variation observed across the circular surface area?",
+        "answer": "Gradient"
       },
       {
-        "question": "Based on the image, is the item\u2019s form two-dimensional or three-dimensional?",
-        "answer": "Three-dimensional"
+        "question": "How would you characterize the visual impact of the circular design element?",
+        "answer": "Subtle"
       },
       {
-        "question": "Judging by the visual clues, does the object seem to have any discernible thickness?",
-        "answer": "Yes"
+        "question": "What overall impression does the visual texture of the item convey?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the image quality, is the surface of the object textured or is it visually uniform?",
-        "answer": "Uniform"
+        "question": "Can any visible marks or imperfections be observed on the item's surface?",
+        "answer": "None"
       },
       {
-        "question": "Does the item show any visual evidence of significant scratches or blemishes across its entirety?",
-        "answer": "No"
+        "question": "Judging from the image, what is the apparent level of reflectivity of the product?",
+        "answer": "High"
       },
       {
-        "question": "Can you describe the overall visual tone of the object in the image using a single word?",
-        "answer": "Warm"
-      },
-      {
-        "question": "Does the central area of the object appear brighter or darker than its outer edge?",
-        "answer": "Brighter"
+        "question": "Based on visual assessment, is the presented object relatively flat or three-dimensional?",
+        "answer": "Flat"
       }
     ]
   }

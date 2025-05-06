@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f72d09b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of the depicted product?",
+        "answer": "Jug"
+      },
+      {
+        "question": "What is the apparent primary color of the liquid contained within the plastic container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely material used to manufacture the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the cap, what color is the topmost section of the closure mechanism?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the handle's design, what is its functional purpose relative to the container?",
+        "answer": "Carrying"
+      },
+      {
+        "question": "Examining the texture of the liquid inside, what would be an appropriate adjective describing its visual state?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging by the overall clarity, what is the likely consistency of the product held within?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What type of label is affixed to the packaging, providing essential product information?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "From a visual standpoint, what is the general condition of the product's packaging?",
+        "answer": "Full"
+      },
+      {
+        "question": "What design characteristic is evident at the bottle's base, likely for stability?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "What is the shape of the handle attached to the top of the container?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the type of closure mechanism used to seal the top of the container?",
+        "answer": "Cap"
+      },
+      {
+        "question": "What is the overall transparency of the container, allowing the product to be visible?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Considering its size and shape, what is the likely volume capacity of the bottle?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the most visually apparent feature allowing for easy opening and closing of the bottle?",
+        "answer": "Handle"
+      }
+    ]
+  }
+]

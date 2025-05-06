@@ -6,13 +6,15 @@ from tqdm import tqdm
 from pathlib import Path
 
 # Load model and processor
+BlipForQuestionAnswering.from_pretrained("Salesforce/blip-vqa-base").save_pretrained("./Model/blip-saved-model")
+
 processor = BlipProcessor.from_pretrained("Salesforce/blip-vqa-base")
-# model = BlipForQuestionAnswering.from_pretrained("Model/blip-saved-model").to("cuda")
-# model = BlipForQuestionAnswering.from_pretrained("Salesforce/blip-vqa-base").to("cuda")
-# model = BlipForQuestionAnswering.from_pretrained("./Model/blip-saved-model").to("cuda")
-model = BlipForQuestionAnswering.from_pretrained(
-    "./Model/blip-saved-model", local_files_only=True
-).to("cuda")
+model_path = Path("./Model/blip-saved-model").resolve()
+if not model_path.exists():
+    raise FileNotFoundError(f"Model path does not exist: {model_path}")
+model = BlipForQuestionAnswering.from_pretrained("Salesforce/blip-vqa-base").to("cuda")
+# model = BlipForQuestionAnswering.from_pretrained(str(model_path), local_files_only=True).to("cuda")
+
 
 # Test data directory
 test_data_dir = "vqa_dataset"

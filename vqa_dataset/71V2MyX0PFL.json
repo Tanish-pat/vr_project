@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible upper part of these sandals?",
+        "question": "What is the predominant color of the upper part of the footwear?",
         "answer": "Black"
       },
       {
-        "question": "What appears to be the primary material used for the sandal's construction?",
+        "question": "What material appears to be used for the sandals' construction?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the overall shape of the sandal's sole, viewed from the side?",
-        "answer": "Flat"
+        "question": "Describe the overall shape or style of these sandals?",
+        "answer": "Flip-flop"
       },
       {
-        "question": "What is the design of the strap that sits across the top of the foot?",
-        "answer": "T-strap"
-      },
-      {
-        "question": "What color is the visible trim along the edge of the sole?",
+        "question": "What color is the visible stitching or trim detail along the sole?",
         "answer": "Brown"
       },
       {
-        "question": "Considering the visible stitching, what seems to be the texture of the leather?",
+        "question": "What is the apparent texture of the sandal's upper surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What kind of fastening mechanism, if any, is apparent on the straps?",
-        "answer": "None"
+        "question": "What is the design element seen near the toe strap?",
+        "answer": "Stitching"
       },
       {
-        "question": "What is the style of these footwear items, as visibly presented?",
-        "answer": "Sandals"
+        "question": "What is the color of the visible portion of the outsole?",
+        "answer": "Brown"
       },
       {
-        "question": "Considering the visible design elements, what style are these sandals?",
+        "question": "Considering the footwear's structure, what is its primary function?",
+        "answer": "Footwear"
+      },
+      {
+        "question": "Describe the pattern visible on the insole near the heel area?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What kind of closure mechanism is apparent on the sandals?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What seems to be the general style of the sandals?",
         "answer": "Casual"
       },
       {
-        "question": "Based on the image, what seems to be the sole's material?",
-        "answer": "Rubber"
+        "question": "What is the apparent design feature at the connection point between the straps and the sole?",
+        "answer": "Strap"
       },
       {
-        "question": "Describe the visible pattern or texture of the brown trim on the sole",
-        "answer": "Stitched"
+        "question": "Describe the form of the heel area of the sandals?",
+        "answer": "Flat"
       },
       {
-        "question": "Is there any noticeable branding or marking on the sole of the sandal?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the visible appearance of the leather's finish?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the general design of the sandal's toe area?",
-        "answer": "Open"
-      },
-      {
-        "question": "Describe the apparent condition of the sandals shown in the image?",
+        "question": "Based on visual appearance, what is the overall condition of the sandals?",
         "answer": "New"
+      },
+      {
+        "question": "What is the visible material of the insole, partially seen at the heel?",
+        "answer": "Leather"
       }
     ]
   }

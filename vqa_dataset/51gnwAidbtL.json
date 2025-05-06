@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the door's surface?",
+        "question": "What is the predominant color of the door shown in the image?",
         "answer": "White"
       },
       {
-        "question": "What is the primary material visibly composing the door?",
+        "question": "What appears to be the primary material used in constructing this door?",
         "answer": "Wood"
       },
       {
-        "question": "How many distinct horizontal panels are present on the door?",
+        "question": "Considering the visible design, what style best describes the door's paneling?",
+        "answer": "Raised"
+      },
+      {
+        "question": "How many distinct vertical panels are clearly visible on the door's face?",
         "answer": "Three"
       },
       {
-        "question": "What is the overall shape of the door's main panel section?",
+        "question": "Based on the image, what is the overall shape of the door itself?",
         "answer": "Rectangular"
       },
       {
-        "question": "What kind of visible surface texture does the door exhibit?",
+        "question": "Judging by its visual appearance, what is the door's surface texture?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the apparent style of the door's design?",
-        "answer": "Shaker"
+        "question": "Does the door in the image seem to feature any prominent decorative molding?",
+        "answer": "Yes"
       },
       {
-        "question": "What is the color of the visible door handle or knob?",
-        "answer": "Black"
+        "question": "Considering the visible hinge placement, which way does the door swing open?",
+        "answer": "Inward"
       },
       {
-        "question": "What is the type of visible molding around the door frame?",
+        "question": "What kind of door handle or knob is visibly attached to the door?",
+        "answer": "Round"
+      },
+      {
+        "question": "Examining the image, what color is the door handle or knob?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Judging from the image, is the door frame visible and of a similar color?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of visible trim surrounds the door?",
         "answer": "Simple"
       },
       {
-        "question": "What material appears to constitute the door's frame?",
-        "answer": "Wood"
+        "question": "What is the apparent finish of the door's surface; glossy or matte?",
+        "answer": "Matte"
       },
       {
-        "question": "Is there any noticeable grain pattern on the door's surface?",
+        "question": "Based on the visual evidence, is the door shown fully closed or ajar?",
+        "answer": "Ajar"
+      },
+      {
+        "question": "Does the image clearly showcase any visible damage or imperfections on the door?",
         "answer": "No"
-      },
-      {
-        "question": "Does the door seem to be made from solid wood or a composite?",
-        "answer": "Solid"
-      },
-      {
-        "question": "Does the door display any visible decorative elements besides panels?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the general condition of the door's visible surface?",
-        "answer": "New"
-      },
-      {
-        "question": "What type of door is shown, based on its visual features?",
-        "answer": "Interior"
-      },
-      {
-        "question": "Judging from the image, what is the door's swinging direction?",
-        "answer": "Inward"
       }
     ]
   }

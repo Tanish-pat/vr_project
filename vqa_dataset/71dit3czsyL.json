@@ -13,56 +13,56 @@
         "answer": "Beige"
       },
       {
-        "question": "What material appears to constitute the coffee table's legs?",
+        "question": "What material appears to be used for the table's legs?",
         "answer": "Metal"
       },
       {
-        "question": "What is the overall shape of the coffee table?",
+        "question": "What is the overall shape of the coffee table's top surface?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the style of the lettering on the drawer front?",
-        "answer": "Vintage"
-      },
-      {
-        "question": "What is the visible text printed on the drawer front?",
+        "question": "What text is printed on the visible drawer front?",
         "answer": "Factory"
       },
       {
-        "question": "What type of storage feature does the coffee table have?",
-        "answer": "Drawer"
+        "question": "What type of handle is on the visible drawer?",
+        "answer": "Round"
       },
       {
-        "question": "What is the apparent finish of the main body's surface?",
+        "question": "What is the apparent finish of the table's main body?",
         "answer": "Matte"
       },
       {
-        "question": "What kind of handle does the drawer feature?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What is the overall design style of the coffee table?",
-        "answer": "Industrial"
-      },
-      {
-        "question": "Describe the texture of the drawer front, considering its color and markings?",
-        "answer": "Woodgrain"
-      },
-      {
-        "question": "What material is predominantly used for the drawer front?",
+        "question": "What is the primary material of the drawer front?",
         "answer": "Wood"
       },
       {
-        "question": "What is the apparent number of legs supporting the table?",
+        "question": "Describe the style of the lettering on the drawer front.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "How many visible legs does the coffee table have?",
         "answer": "Four"
       },
       {
-        "question": "Does the coffee table have any open shelving or compartments?",
+        "question": "What is the general style of the coffee table's design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What kind of storage space is visible on the coffee table?",
+        "answer": "Drawer"
+      },
+      {
+        "question": "Does the coffee table appear to have any visible open shelving?",
         "answer": "Yes"
       },
       {
-        "question": "Considering the drawer and the open shelf, what is the table's storage type?",
-        "answer": "Hybrid"
+        "question": "What is the overall size category of this coffee table?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent texture of the drawer front?",
+        "answer": "Smooth"
       }
     ]
   }

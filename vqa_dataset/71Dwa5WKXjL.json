@@ -13,56 +13,56 @@
         "answer": "Rectangular"
       },
       {
-        "question": "What material appears to be used for the power strip's casing?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "How many AC outlets are visibly present on the power strip?",
+        "question": "Considering the visible outlets, how many AC receptacles are present?",
         "answer": "Eight"
       },
       {
-        "question": "What color is the power cord connected to the power strip?",
-        "answer": "White"
+        "question": "What material appears to constitute the exterior casing of the device?",
+        "answer": "Plastic"
       },
       {
-        "question": "Does the power strip have any visible surge protection indicators?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Is there a visible on/off switch integrated into the power strip's design?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the apparent length of the power cord, relative to the strip?",
-        "answer": "Long"
-      },
-      {
-        "question": "What is the texture of the power strip's outer surface?",
+        "question": "Describe the texture of the power strip's visible surface.",
         "answer": "Smooth"
       },
       {
-        "question": "Are there any visible labels or markings on the power strip's end?",
+        "question": "What color are the markings present on the power strip's surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is there an indicator light visible on the power strip's casing?",
         "answer": "Yes"
       },
       {
-        "question": "What type of plug is attached to the power strip's cord?",
+        "question": "What is the apparent length of the attached power cord?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the color of the power cord connected to the strip?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the power cord's plug end?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the power strip seem to incorporate any surge protection features?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of plug does the power cord seem to have?",
         "answer": "NEMA"
       },
       {
-        "question": "Does the power strip appear to have any integrated cable management?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the orientation of the AC outlets on the power strip?",
-        "answer": "Horizontal"
-      },
-      {
-        "question": "Is there a noticeable difference in the color of the top and bottom of the unit?",
+        "question": "Are the receptacles arranged in a singular, linear row?",
         "answer": "Yes"
       },
       {
-        "question": "Considering the image's details, what is the overall style of this power strip?",
-        "answer": "Simple"
+        "question": "Based on the image, what is the overall condition of the product?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the product appear to have any visible damage or defects?",
+        "answer": "No"
       }
     ]
   }

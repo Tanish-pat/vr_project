@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0aec31c7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the slip-on shoes shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of these shoes?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the design, what type of shoe is depicted in the provided image?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Based on the visible sole, what can be inferred about the shoe's intended use?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Describe the overall shape of the shoe's toe cap from a visual perspective.",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent texture of the visible leather surface of the shoe?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, how many visible seams are present on the shoe's upper?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the visual appearance of the shoe's heel counter, in terms of its height?",
+        "answer": "Low"
+      },
+      {
+        "question": "Describe the design of the shoe's sole, taking into consideration its visible thickness and style.",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent color of the sole of the shoe as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what kind of closure mechanism does the shoe seem to utilize?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Can you describe the visible stitching on the upper part of the shoe?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What design feature is noticeable at the back of the shoe?",
+        "answer": "Elastic"
+      },
+      {
+        "question": "Considering the overall look, how would you describe the style of these shoes?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the image provided, what is the apparent condition of the shoes shown?",
+        "answer": "New"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the packaging prominently displayed on the product's exterior?",
+        "question": "What is the dominant color of the outer packaging?",
         "answer": "White"
       },
       {
-        "question": "What kind of nut is depicted on the product's packaging, as indicated by the image?",
+        "question": "What food item is contained within the packaging?",
         "answer": "Cashews"
       },
       {
-        "question": "Considering the visible contents, what is the apparent texture of the food item contained within?",
-        "answer": "Crispy"
+        "question": "What is the primary texture of the visible cashew pieces?",
+        "answer": "Rough"
       },
       {
-        "question": "Based on the image, what appears to be the primary cooking method applied to the nuts?",
-        "answer": "Roasted"
+        "question": "What is the overall shape of the outer packaging when opened?",
+        "answer": "Pyramid"
       },
       {
-        "question": "Describe the overall shape of the primary packaging of the product as shown in the picture.",
-        "answer": "Rectangular"
+        "question": "What type of packaging is used for the individual cashew pouches?",
+        "answer": "Foil"
       },
       {
-        "question": "What material seems to primarily constitute the resealable outer packaging shown?",
+        "question": "What is the apparent style of the brand's logo design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Describe the overall color of the cashews inside the packaging.",
+        "answer": "Tan"
+      },
+      {
+        "question": "What is the material of the main packaging bag?",
         "answer": "Plastic"
       },
       {
-        "question": "Judging from the visual, what is the packaging style of the individual inner pouches?",
-        "answer": "Sachet"
+        "question": "What is the apparent size of the individual cashew pouches?",
+        "answer": "Small"
       },
       {
-        "question": "What is the apparent number of individual pouches contained inside the main packaging?",
-        "answer": "Six"
-      },
-      {
-        "question": "What word describes the condition of the cashews shown on the product's packaging?",
+        "question": "What is the main descriptive term used on the primary packaging?",
         "answer": "Toasted"
       },
       {
-        "question": "What is the main brand name depicted on the product's primary packaging, as shown in the image?",
+        "question": "How many individual cashew pouches are visible in the packaging?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the primary method of sealing the main packaging?",
+        "answer": "Ziplock"
+      },
+      {
+        "question": "What is the general shape of the individual cashew pieces?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What word besides 'cashews' is prominently displayed on the packaging?",
         "answer": "Wickedly"
       },
       {
-        "question": "What adjective best describes the appearance of the outer packaging's seal?",
-        "answer": "Resealable"
-      },
-      {
-        "question": "What color is the text prominently visible on the product's packaging, aside from white?",
-        "answer": "Yellow"
-      },
-      {
-        "question": "Observing the visible portions, what is the general color of the nuts themselves?",
-        "answer": "Brown"
-      },
-      {
-        "question": "What type of graphic design element is used to display the product's name on the packaging?",
-        "answer": "Text"
-      },
-      {
-        "question": "Based on the image, what is the general shape of the individual nut pieces?",
-        "answer": "Irregular"
+        "question": "What is the overall style of the packaging's typography?",
+        "answer": "Sans-serif"
       }
     ]
   }

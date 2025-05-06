@@ -13,39 +13,35 @@
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape of the water pump's housing?",
+        "question": "What is the general shape of the water pump's main housing?",
         "answer": "Cylindrical"
-      },
-      {
-        "question": "What word is prominently displayed on the pump's label?",
-        "answer": "WaterAce"
       },
       {
         "question": "What type of connection is visible at each end of the pump?",
         "answer": "Threaded"
       },
       {
-        "question": "What directional indicators are shown on the pump's faceplate?",
-        "answer": "Arrows"
+        "question": "What text is prominently displayed on the pump's label?",
+        "answer": "WaterAce"
       },
       {
-        "question": "What word indicates fluid input on the pump's label?",
+        "question": "What word indicates the direction of fluid input?",
         "answer": "IN"
       },
       {
-        "question": "What word indicates fluid output on the pump's label?",
+        "question": "What word indicates the direction of fluid output?",
         "answer": "OUT"
       },
       {
-        "question": "What series is indicated on the pump's label?",
+        "question": "What series designation is printed on the pump's label?",
         "answer": "PUP"
       },
       {
-        "question": "What appears to be the primary function of this device?",
-        "answer": "Pumping"
+        "question": "What small graphic is displayed next to the 'WaterAce' text?",
+        "answer": "Droplet"
       },
       {
-        "question": "What type of fasteners secure the pump's faceplate?",
+        "question": "What type of fasteners secure the pump's label to the casing?",
         "answer": "Screws"
       },
       {
@@ -53,16 +49,20 @@
         "answer": "Smooth"
       },
       {
-        "question": "What graphic element is displayed alongside the 'WaterAce' logo?",
-        "answer": "Droplet"
-      },
-      {
-        "question": "What is the general size and scale of the pump in relation to a human hand?",
+        "question": "What is the apparent overall size of the pump relative to a common object?",
         "answer": "Small"
       },
       {
-        "question": "Considering the label and overall design, what might be the pump's application?",
-        "answer": "Water"
+        "question": "How many threaded connection points are visible on the pump?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the color of the text on the pump's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent finish of the pump's exterior surface?",
+        "answer": "Matte"
       }
     ]
   }

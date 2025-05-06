@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the phone case's background?",
+        "question": "What is the predominant color of the phone case's background?",
         "answer": "Black"
       },
       {
-        "question": "What is the primary material of the phone case?",
+        "question": "What type of case is shown, based on its visible structure?",
         "answer": "Hard"
       },
       {
-        "question": "What style of design is prominently featured on the phone case?",
-        "answer": "Space"
-      },
-      {
-        "question": "What type of spacecraft is depicted in the phone case's design?",
+        "question": "What is the primary design element featured on the phone case?",
         "answer": "Rocket"
       },
       {
-        "question": "What is the main text message conveyed by the design on the phone case?",
+        "question": "What material appears to compose the phone case's exterior?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the dominant textual phrase displayed on the case?",
         "answer": "Space"
       },
       {
-        "question": "What is the overall shape of the depicted product?",
+        "question": "Considering the style, what is the overall design aesthetic?",
+        "answer": "Retro"
+      },
+      {
+        "question": "What shape best describes the phone case's overall form?",
         "answer": "Rectangular"
       },
       {
-        "question": "What color is the text on the phone case predominantly?",
-        "answer": "Cream"
+        "question": "What color are the secondary design elements on the case?",
+        "answer": "Off-white"
       },
       {
-        "question": "What is the style of the lettering used in the design?",
-        "answer": "Vintage"
+        "question": "What type of graphic style is used for the rocket illustration?",
+        "answer": "Line-art"
       },
       {
-        "question": "Considering the materials, what would you describe the phone case's texture as?",
+        "question": "Describe the apparent texture of the phone case's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What small celestial bodies are illustrated alongside the rocket?",
+        "question": "What small celestial bodies are depicted near the rocket?",
         "answer": "Planets"
       },
       {
-        "question": "What kind of case is described by the product title?",
-        "answer": "Hard"
+        "question": "What additional design element frames the main text?",
+        "answer": "Banner"
       },
       {
-        "question": "What is the number that is visually significant within the design?",
-        "answer": "Six"
-      },
-      {
-        "question": "What is the visible finish of the phone case's back surface?",
+        "question": "What is the implied finish of the phone case's surface?",
         "answer": "Matte"
       },
       {
-        "question": "What is the shape of the banner in the text design?",
-        "answer": "Ribbon"
+        "question": "How many camera lens cutouts are visible on the case?",
+        "answer": "Two"
       },
       {
-        "question": "What additional markings decorate the phone case's design?",
-        "answer": "Stars"
+        "question": "What is the apparent style of the lettering on the case?",
+        "answer": "Handwritten"
       }
     ]
   }

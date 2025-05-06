@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary metal apparent in the earring's construction?",
+        "question": "What is the primary metal apparent in the hoop earring's construction?",
         "answer": "Silver"
       },
       {
-        "question": "What is the dominant shape of the earring's main decorative element?",
+        "question": "Describe the overall shape of the earring's decorative element?",
         "answer": "Floral"
       },
       {
-        "question": "What type of closure mechanism is visibly present on the earring?",
-        "answer": "Hoop"
+        "question": "What type of closure mechanism is visible on the hoop earring?",
+        "answer": "Hinge"
       },
       {
-        "question": "Considering the overall design, what style best describes these earrings?",
-        "answer": "Delicate"
-      },
-      {
-        "question": "What is the most apparent finish on the earring's metal surface?",
-        "answer": "Shiny"
-      },
-      {
-        "question": "What is the general color of the earring's decorative component?",
+        "question": "What is the dominant color observed in the earring's design?",
         "answer": "White"
       },
       {
-        "question": "Considering the size relative to the ear, are the earrings large or small?",
-        "answer": "Small"
+        "question": "Considering the floral design, what specific type of flower is depicted?",
+        "answer": "Rose"
       },
       {
-        "question": "What is the apparent texture of the earring's floral component?",
+        "question": "What appears to be the overall finish of the metal in the earring?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Considering the visual texture, how would you characterize the metal's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Based on the image, does the earring appear to have any significant embellishments beyond the floral design?",
-        "answer": "No"
+        "question": "In what style is the floral design of the earring presented?",
+        "answer": "Detailed"
       },
       {
-        "question": "What is the apparent material of the earring's primary structure?",
-        "answer": "Metal"
+        "question": "Based on the image, what is the apparent size of the earrings?",
+        "answer": "Small"
       },
       {
-        "question": "Describe the overall visual design style, considering the shape and embellishments.",
-        "answer": "Minimalist"
+        "question": "What seems to be the setting of the embellishments within the floral design?",
+        "answer": "Pave"
       },
       {
-        "question": "Judging by the image, what is the style of the earring's hoop?",
-        "answer": "Simple"
+        "question": "What is the apparent thickness of the hoop of the earring?",
+        "answer": "Thin"
       },
       {
-        "question": "How many decorative elements are predominantly visible on each earring?",
-        "answer": "One"
+        "question": "Does the earring appear to be made from a single piece of metal, or multiple components?",
+        "answer": "Multiple"
       },
       {
-        "question": "Describe the type of setting of the central decorative element within the hoop.",
-        "answer": "Hugger"
+        "question": "What is the apparent style of the earring overall?",
+        "answer": "Elegant"
       },
       {
-        "question": "Considering the image, how would you describe the overall visual weight of the earring?",
-        "answer": "Lightweight"
+        "question": "Considering the details, how would you characterize the design's level of ornamentation?",
+        "answer": "High"
+      },
+      {
+        "question": "What type of earring is shown in the image, based on its form?",
+        "answer": "Hoop"
       }
     ]
   }

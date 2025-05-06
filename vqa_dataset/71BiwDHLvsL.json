@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color depicted on the phone case's design?",
+        "question": "What is the dominant color scheme depicted on the phone case?",
         "answer": "Yellow"
       },
       {
-        "question": "What type of beverage is illustrated on the phone case?",
+        "question": "What type of beverage is illustrated on the phone case's design?",
         "answer": "Lemonade"
       },
       {
-        "question": "What is the shape of the container holding the beverage?",
+        "question": "What kind of container holds the illustrated beverage?",
         "answer": "Mason"
       },
       {
-        "question": "What is the apparent material of the container in the image?",
-        "answer": "Glass"
-      },
-      {
-        "question": "What fresh herb is visible alongside the lemon slice?",
+        "question": "What is the visible garnish in the illustrated drink?",
         "answer": "Mint"
       },
       {
-        "question": "What citrus fruit is prominently displayed in the design?",
+        "question": "What citrus fruit is prominently featured in the drink's image?",
         "answer": "Lemon"
       },
       {
-        "question": "What is visible within the beverage, indicating coldness?",
-        "answer": "Ice"
+        "question": "What material is implied by the phone case's visual texture?",
+        "answer": "Plastic"
       },
       {
-        "question": "What is the apparent texture of the beverage in the image?",
-        "answer": "Bubbly"
+        "question": "What shape best describes the illustrated beverage container?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "What utensil is shown inserted into the beverage?",
+        "question": "What is the visible item used for drinking the beverage?",
         "answer": "Straw"
       },
       {
-        "question": "What is the overall style of the phone case's design?",
+        "question": "What is the implied state of the depicted beverage?",
+        "answer": "Iced"
+      },
+      {
+        "question": "Is the phone case image design primarily photographic or illustrative?",
+        "answer": "Photographic"
+      },
+      {
+        "question": "What is the general style of the phone case's design?",
         "answer": "Realistic"
       },
       {
-        "question": "What is the background color behind the drink illustration?",
-        "answer": "Blue"
+        "question": "Describe the overall visual tone of the phone case's aesthetic?",
+        "answer": "Refreshing"
       },
       {
-        "question": "What is the shape of the phone case itself?",
-        "answer": "Rectangular"
+        "question": "What is the appearance of the ice cubes in the drink?",
+        "answer": "Translucent"
       },
       {
-        "question": "Does the phone case's design appear to be glossy or matte?",
-        "answer": "Glossy"
+        "question": "What is the color of the straw depicted in the phone case design?",
+        "answer": "Yellow"
       },
       {
-        "question": "What is the phone model this case is designed for?",
-        "answer": "Samsung"
-      },
-      {
-        "question": "What is the main subject of the phone case's design?",
-        "answer": "Drink"
+        "question": "What is the shape of the lemon slice in the beverage image?",
+        "answer": "Wedge"
       }
     ]
   }

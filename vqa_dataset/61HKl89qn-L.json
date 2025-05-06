@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c9/c923bcf6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the USB-C to Ethernet adapter's casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of connector is visible on the adapter's smaller end?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "What kind of network port is present on the adapter's larger end?",
+        "answer": "Ethernet"
+      },
+      {
+        "question": "What is the overall shape of the adapter's main body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the material, what is the apparent texture of the adapter's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many ventilation slots are visibly present on the adapter's casing?",
+        "answer": "Four"
+      },
+      {
+        "question": "Describe the material of the cable connecting to the USB-C port",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the cable connecting to the adapter?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the main function of this device?",
+        "answer": "Adapter"
+      },
+      {
+        "question": "What is the apparent construction material of the adapter housing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the arrangement of the ventilation slots on the adapter",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall visual aesthetic of the adapter?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is the cable attached to the adapter flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Describe the cable's length relative to the adapter's size",
+        "answer": "Long"
+      },
+      {
+        "question": "What design element is visible on the USB-C connector?",
+        "answer": "Markings"
+      }
+    ]
+  }
+]

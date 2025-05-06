@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dc/dc58a5c3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary color of the larger flower depicted on the case?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the apparent material of the depicted phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the phone case in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the smaller flower on the phone case?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the texture implied by the appearance of the flowers?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the design style of the phone case's image?",
+        "answer": "Floral"
+      },
+      {
+        "question": "How many flowers are depicted on the phone case?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the overall finish or sheen of the phone case?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of plant is depicted on the phone case?",
+        "answer": "Flowers"
+      },
+      {
+        "question": "What is the apparent level of detail in the flower image?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the orientation of the flowers on the case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the background's visual texture or pattern?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the implied style of the phone case's photographic rendering?",
+        "answer": "Close-up"
+      },
+      {
+        "question": "What is the color of the phone case's border/edges?",
+        "answer": "Dark"
+      }
+    ]
+  }
+]

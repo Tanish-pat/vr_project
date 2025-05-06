@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1cae6713.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant shape of this footwear?",
+        "answer": "Slide"
+      },
+      {
+        "question": "What dominant color is visibly apparent across the entire surface of the slipper?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Based on its visual appearance, what material seems to constitute the slipper's body?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Observing the texture, what tactile characteristic does the footbed of the slipper predominantly exhibit?",
+        "answer": "Ridged"
+      },
+      {
+        "question": "What brand name is embossed or imprinted onto the upper strap of the slide?",
+        "answer": "Harier"
+      },
+      {
+        "question": "Focusing on the sole, what textural pattern is noticeable on its underside?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describing the strap's design, what is its fundamental form and style?",
+        "answer": "Single"
+      },
+      {
+        "question": "Judging by its appearance, what is the overall style of this footwear, casual or formal?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Examining the structure, is the slipper's sole visibly separated from the upper part?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the slipper's surface, matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the color of the branding displayed on the upper part of the slide?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering its construction, is this footwear designed for open or closed toes?",
+        "answer": "Open"
+      },
+      {
+        "question": "Observing the side profile, what is the slipper's apparent construction method?",
+        "answer": "Moulded"
+      },
+      {
+        "question": "What is the general condition of the slipper, new or worn?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the visual aspects, is there any visible pattern besides the texture on the slipper?",
+        "answer": "No"
+      }
+    ]
+  }
+]

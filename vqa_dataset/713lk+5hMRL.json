@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0cbddd7f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the hand grip's main body?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material appears to compose the hand grip's main body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of metal is visibly used in the tension mechanism?",
+        "answer": "Steel"
+      },
+      {
+        "question": "What is the shape of the metal component providing tension?",
+        "answer": "Coil"
+      },
+      {
+        "question": "What is the overall shape of each individual hand grip?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What secondary color accents the primary green of the grip?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the hand grip's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible design feature on the end cap?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Considering the image, what is the product's function?",
+        "answer": "Exercise"
+      },
+      {
+        "question": "What type of mechanism provides resistance in this device?",
+        "answer": "Spring"
+      },
+      {
+        "question": "How many visible end caps are present on this device?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the visible connection type between the grips and the spring?",
+        "answer": "Hook"
+      },
+      {
+        "question": "Describe the visible fastening style of the end caps to the grip",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the visible texture of the metal tension spring?",
+        "answer": "Helical"
+      },
+      {
+        "question": "What is the apparent construction of the end cap?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]

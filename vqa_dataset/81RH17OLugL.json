@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the packaging of the trail mix?",
+        "question": "What is the dominant color of the packaging shown on the trail mix?",
         "answer": "White"
+      },
+      {
+        "question": "What type of food product is depicted in the image's packaging?",
+        "answer": "Trailmix"
       },
       {
         "question": "What is the primary shape of the individual trail mix packets?",
         "answer": "Rectangular"
       },
       {
-        "question": "What type of food item is depicted on the packaging?",
-        "answer": "Trail"
-      },
-      {
-        "question": "What is the apparent texture of the chocolate pieces in the mix?",
+        "question": "Describe the texture of the packaging material shown in the main image.",
         "answer": "Smooth"
       },
       {
-        "question": "What kind of nuts are visibly present in the trail mix image?",
-        "answer": "Peanuts"
-      },
-      {
-        "question": "What color are the cherries shown in the trail mix depiction?",
-        "answer": "Red"
-      },
-      {
-        "question": "What kind of chocolate is shown amongst the mix components?",
-        "answer": "Dark"
-      },
-      {
-        "question": "What is the apparent material of the individual packets?",
+        "question": "What is the apparent material of the individual trail mix packages?",
         "answer": "Foil"
       },
       {
-        "question": "What is the overall color scheme of the product branding?",
-        "answer": "Monochromatic"
-      },
-      {
-        "question": "What word describes the illustrated mix on the packaging?",
-        "answer": "Festive"
-      },
-      {
-        "question": "What is the brand name prominently displayed?",
+        "question": "What is the brand name prominently displayed on the packaging?",
         "answer": "Wickedly"
       },
       {
-        "question": "Besides nuts and chocolate, what other dried fruit is shown?",
-        "answer": "Cherries"
-      },
-      {
-        "question": "What is the descriptive word for the mix on the packaging?",
+        "question": "What is the featured flavor or name of this specific trail mix blend?",
         "answer": "Cherry"
       },
       {
-        "question": "What is the text that denotes the kind of food presented?",
-        "answer": "Mix"
+        "question": "What seems to be the main color of the chocolate pieces in the mix?",
+        "answer": "Dark"
       },
       {
-        "question": "What is the packaging style of the product shown?",
-        "answer": "Sachet"
+        "question": "Besides chocolate, what is another noticeably visible ingredient?",
+        "answer": "Cherries"
+      },
+      {
+        "question": "What kind of nuts appear to be included in the trail mix?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "What is a secondary color present in the visible chocolate pieces?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the approximate number of individual trail mix packets shown?",
+        "answer": "Ten"
+      },
+      {
+        "question": "Judging from the image, is the packaging glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What additional ingredient is visible among the trail mix components?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "What word, other than 'Cherry', is printed in large font on the package?",
+        "answer": "Fest"
       }
     ]
   }

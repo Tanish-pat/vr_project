@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/96100437.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible leather material composing the majority of the sneaker's upper?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the color of the prominent stripe running diagonally across the sneaker's side panel, which appears to be constructed from a different material than the rest of the upper?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What color are the laces, which are visible throughout the image and appear to be made from a woven or synthetic material?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the visible portion of the heel counter, which seems to be a separate piece from the main upper, what color is this component?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the material at the rear of the sneaker, which appears slightly different from the rest of the upper, what type of material is used?",
+        "answer": "Suede"
+      },
+      {
+        "question": "What is the apparent texture of the predominant material used on the sneaker's upper, which appears smooth and consistent in the image?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What is the overall shape of the sneaker, considering the design and visible contours?",
+        "answer": "Low-top"
+      },
+      {
+        "question": "Based on the image, what style of closure system does this sneaker appear to utilize, indicating how the shoe is fastened?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the color of the outsole, that is the bottom sole of this sneaker, and appears to be made from rubber?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what is the overall design style of this sneaker, and considering the color blocking and stripe detail?",
+        "answer": "Sporty"
+      },
+      {
+        "question": "Based solely on visual evidence, is the sneaker designed for men, women, or both?",
+        "answer": "Unisex"
+      },
+      {
+        "question": "What seems to be the main material used for the sole, visible under the shoe?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describing the visible logo on the sneaker, what is its color?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What type of toe does this sneaker have, as visible in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the image, what is the style of the tongue on the sneaker?",
+        "answer": "Padded"
+      }
+    ]
+  }
+]

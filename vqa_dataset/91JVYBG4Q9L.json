@@ -9,60 +9,60 @@
         "answer": "Brown"
       },
       {
-        "question": "What material appears to be used for the furniture legs?",
+        "question": "What material appears to be used for the chair's legs?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the apparent texture of the furniture's covering?",
-        "answer": "Leather"
-      },
-      {
-        "question": "What kind of metallic accents are visible along the furniture's edges?",
-        "answer": "Studs"
-      },
-      {
-        "question": "What is the general shape of the visible furniture legs?",
-        "answer": "Square"
-      },
-      {
-        "question": "What seems to be the finish of the wooden legs?",
+        "question": "Describe the finish of the visible wooden chair legs?",
         "answer": "Dark"
       },
       {
-        "question": "What is the apparent color of the metallic studs?",
+        "question": "What type of fasteners are visible along the chair's edge?",
+        "answer": "Nails"
+      },
+      {
+        "question": "What is the apparent texture of the chair's upholstery?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What shape are the chair's legs in cross-section?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the overall color of the visible metal accents?",
         "answer": "Silver"
       },
       {
-        "question": "What is the overall style of the visible furniture detail?",
+        "question": "What is the apparent material of the decorative metal accents?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the visible fasteners, what style could the chair be categorized as?",
         "answer": "Traditional"
       },
       {
-        "question": "Considering the visible portion, what is the upholstery's apparent sheen?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "How many visible studs are present along one visible edge?",
-        "answer": "Five"
-      },
-      {
-        "question": "What is the visible shape of the individual studs?",
-        "answer": "Round"
-      },
-      {
-        "question": "What seems to be the approximate size of the visible studs?",
-        "answer": "Small"
-      },
-      {
-        "question": "What is the apparent surface treatment on the wooden legs?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Judging by the image, what is the furniture's overall construction?",
+        "question": "What is the visible pattern of the upholstery around the chair's edge?",
         "answer": "Solid"
       },
       {
-        "question": "Based on the image, how many legs are fully shown in the picture?",
-        "answer": "Four"
+        "question": "Is the visible upholstery smooth or textured to the eye?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general shape of the visible chair component?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the seating surface?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the spacing of the metal accents along the edge?",
+        "answer": "Even"
+      },
+      {
+        "question": "Considering the visible wood and metal, what is the overall style?",
+        "answer": "Rustic"
       }
     ]
   }

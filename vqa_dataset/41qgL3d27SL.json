@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the device's casing?",
+        "question": "What is the predominant color of the visible exterior casing?",
         "answer": "Off-white"
       },
       {
-        "question": "What appears to be the primary function of this machine, based on its visible controls?",
+        "question": "What appears to be the primary function of this device, based solely on its visible components?",
         "answer": "Laminating"
       },
       {
-        "question": "What material seems to constitute the majority of the outer shell?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Describe the overall shape of the device's exterior profile.",
+        "question": "Describe the overall shape or form factor of the device as viewed from the top?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the control panel, what is the apparent method for feeding materials into the device?",
-        "answer": "Manual"
+        "question": "What material seems to constitute the majority of the visible exterior?",
+        "answer": "Plastic"
       },
       {
-        "question": "What color are the control panel labels and markings?",
-        "answer": "Dark"
+        "question": "What color are the visible control buttons or indicators located on the top surface?",
+        "answer": "Black"
       },
       {
-        "question": "What type of output slot or area is noticeable on the device's front?",
-        "answer": "Slot"
+        "question": "Considering the visible text, what is one apparent operating mode indicated?",
+        "answer": "Punch"
       },
       {
-        "question": "Observing the device's base, what seems to be its construction?",
-        "answer": "Solid"
-      },
-      {
-        "question": "What texture does the device's surface seem to exhibit based on the image provided?",
+        "question": "Based on its appearance, what seems to be the texture of the device's top surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Judging by the visual elements, does the machine appear to have an integrated power supply?",
+        "question": "What is the visible color of the narrow band at the bottom edge of the device?",
+        "answer": "Black"
+      },
+      {
+        "question": "Can you identify any noticeable text or markings on the front panel besides the buttons?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the image, does the device appear to have any external ventilation openings?",
         "answer": "No"
       },
       {
-        "question": "How many distinct functional buttons are clearly visible on the device's front?",
-        "answer": "Three"
+        "question": "Is there any visible evidence of a power switch or power indicator on the front?",
+        "answer": "No"
       },
       {
-        "question": "From the image, what seems to be the orientation of the device in use?",
+        "question": "Based purely on the visual inspection, what is the apparent finish or shine level of the casing?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the machine have any visibly prominent curves or rounded edges?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the visible construction style of the device's body?",
+        "answer": "Slab"
+      },
+      {
+        "question": "What is the visible orientation of the input and output slots?",
         "answer": "Horizontal"
-      },
-      {
-        "question": "What is the apparent style of the device's overall design?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What type of line style is visibly evident on the device's casing?",
-        "answer": "Clean"
-      },
-      {
-        "question": "Does the device show any obvious external ventilation features?",
-        "answer": "No"
       }
     ]
   }

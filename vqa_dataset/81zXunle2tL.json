@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the bag containing the potatoes, as shown in the product image?",
-        "answer": "Green"
-      },
-      {
-        "question": "Based on the image, what variety of potato is predominantly depicted on the product packaging?",
+        "question": "What is the predominant color of the potatoes depicted on the bag?",
         "answer": "Red"
       },
       {
-        "question": "Considering the image, what is the apparent material of the bag holding the potatoes?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Judging from the visual, what word is prominently displayed to describe the potatoes?",
-        "answer": "Organic"
-      },
-      {
-        "question": "What is the primary shape of the bag shown in the image containing the potatoes?",
+        "question": "What is the overall shape of the packaging visible in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "Observing the image, what is the overall tone or color scheme of the product label?",
-        "answer": "Earthy"
+        "question": "What is the primary color of the packaging's background?",
+        "answer": "Green"
       },
       {
-        "question": "Based solely on the image, what is the texture of the bag which holds the product?",
+        "question": "What type of material is primarily used for the packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What word is prominently displayed, indicating the product's nature?",
+        "answer": "Potatoes"
+      },
+      {
+        "question": "What descriptor is used to specify the type of potatoes in the package?",
+        "answer": "Red"
+      },
+      {
+        "question": "What adjective describes the farming practices used for these potatoes?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the name of the brand featured on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Based on visual cues, what is the texture of the potatoes depicted?",
         "answer": "Smooth"
       },
       {
-        "question": "What word, referring to the origin, can be seen on the packaging in the provided product image?",
-        "answer": "Canada"
-      },
-      {
-        "question": "What is the visible design style of the label shown on the packaging of the potatoes?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "From the image, what type of print is used for the text on the potato bag?",
-        "answer": "Text"
-      },
-      {
-        "question": "What is the general condition of the depicted bag of potatoes?",
-        "answer": "Sealed"
-      },
-      {
-        "question": "What is the apparent size of the potatoes visible on the package?",
-        "answer": "Medium"
-      },
-      {
-        "question": "Judging by the image, what appears to be the finish of the bag?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What is the shape of the individual potatoes pictured on the bag?",
+        "question": "What is the shape of the individual potatoes shown on the package?",
         "answer": "Oval"
       },
       {
-        "question": "What kind of image is used for the potatoes on the packaging, according to the product image?",
-        "answer": "Drawing"
+        "question": "What is the general color of the smaller graphic elements on the bag?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall visual style of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the visible design element near the top of the bag.",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the image, how would you describe the potatoes' appearance?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the state of the packaging's seal, considering its appearance?",
+        "answer": "Sealed"
       }
     ]
   }

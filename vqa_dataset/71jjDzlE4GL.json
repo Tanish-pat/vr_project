@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the primary color of the design elements on the case?",
+        "question": "What is the primary color of the design elements on the phone case?",
         "answer": "White"
       },
       {
-        "question": "What is the overall shape of the depicted phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What celestial body is repeatedly depicted in the design?",
-        "answer": "Moon"
-      },
-      {
-        "question": "What type of extraterrestrial beings are illustrated on the case?",
-        "answer": "Aliens"
-      },
-      {
-        "question": "What space-related objects are shown besides moons and aliens?",
-        "answer": "Planets"
-      },
-      {
-        "question": "What stylistic approach is used for the space-themed illustrations?",
-        "answer": "Sketchy"
-      },
-      {
-        "question": "What shape are most of the planets illustrated in the design?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What kind of celestial event is depicted among the other designs?",
-        "answer": "Comet"
-      },
-      {
-        "question": "What simple geometric shapes are interspersed among the celestial objects?",
-        "answer": "Stars"
-      },
-      {
-        "question": "Besides celestial bodies, what other shapes are included in the design?",
-        "answer": "Clouds"
-      },
-      {
-        "question": "What is the apparent texture of the phone case's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Considering the design and color, what is the overall aesthetic of the case?",
+        "question": "What is the overall design style of the phone case's imagery?",
         "answer": "Minimalist"
       },
       {
-        "question": "What material does the case appear to be made from (inferred from image)?",
+        "question": "What celestial bodies are depicted in the phone case's design?",
+        "answer": "Planets"
+      },
+      {
+        "question": "What extraterrestrial beings are illustrated on the phone case?",
+        "answer": "Aliens"
+      },
+      {
+        "question": "What shape is the main form factor of the depicted product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of design elements are predominantly used to illustrate celestial bodies?",
+        "answer": "Line"
+      },
+      {
+        "question": "What other space-related elements are included in the design beyond planets and aliens?",
+        "answer": "Stars"
+      },
+      {
+        "question": "What is the general appearance or texture of the phone case's material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what seems to be the material of the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the apparent finish of the phone case's surface?",
-        "answer": "Matte"
+        "question": "What shape is used to depict at least one of the planets in the design?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What additional space-themed object appears in the illustration?",
+        "answer": "Comet"
+      },
+      {
+        "question": "What is the visual style of the illustrations on the phone case?",
+        "answer": "Sketchy"
+      },
+      {
+        "question": "What is the shape of the moon depicted in the phone case's design?",
+        "answer": "Crescent"
+      },
+      {
+        "question": "Is there a noticeable camera cut-out visible on the phone case?",
+        "answer": "Yes"
       }
     ]
   }

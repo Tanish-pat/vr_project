@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/151294d8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric covering the depicted furniture piece?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the upholstery material shown in the close-up?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary material of the visible furniture part?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the shape of the visible portion of the furniture's base in the image.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible color of the feet or base supports of this furniture piece?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the image, what appears to be the material of the furniture's feet?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible texture, how would you characterize the weave of the fabric?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the visible pattern in the fabric covering this section of the furniture?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "What is the overall visual appearance of the fabric's surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent construction method seen in the corner of the upholstered furniture?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "What can you visually observe about the visible edge of the upholstery?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Considering the close-up, describe the density of the fabric weave.",
+        "answer": "Dense"
+      },
+      {
+        "question": "How many legs are visually apparent within the confines of this image?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the visible form of the legs supporting the furniture piece shown?",
+        "answer": "Round"
+      },
+      {
+        "question": "Observing the image, how would you describe the overall tone of the gray fabric?",
+        "answer": "Dark"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme visually apparent on the packaging?",
+        "question": "Considering the overall presentation, what is the dominant color scheme of the product packaging?",
         "answer": "Purple"
       },
       {
-        "question": "Considering the checkmarks, what is prominently highlighted regarding the product's composition?",
-        "answer": "Vegan"
+        "question": "What shape best describes the visual outline of each individual checkmark symbol?",
+        "answer": "Square"
       },
       {
-        "question": "Based on the visual cues, is the product explicitly labeled as 'Gluten Free'?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the primary form or shape of the text elements displayed on the packaging?",
+        "question": "Disregarding the text, what is the primary graphic element used to represent product features?",
         "answer": "Checkmarks"
       },
       {
-        "question": "What kind of visual elements are used to communicate key product features?",
-        "answer": "Checkmarks"
-      },
-      {
-        "question": "Regarding artificial additives, what message is clearly conveyed?",
-        "answer": "None"
-      },
-      {
-        "question": "Observing the typography, what is the dominant font weight for the text?",
-        "answer": "Bold"
-      },
-      {
-        "question": "What is the overall visual style or aesthetic of the product packaging?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "What color is the background of the text and checkmarks on the packaging?",
-        "answer": "White"
-      },
-      {
-        "question": "What is visually implied about the product's preservation?",
-        "answer": "Natural"
-      },
-      {
-        "question": "What visual element indicates a claim of product purity or naturalness?",
-        "answer": "Checkmarks"
-      },
-      {
-        "question": "Describe the visual hierarchy of the features shown on the packaging?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What's the overall visual impression regarding the product's ingredients?",
+        "question": "Judging by the font style and weight, what is the overall tone conveyed by the product description?",
         "answer": "Clean"
       },
       {
-        "question": "What is the texture implied by the packaging visual design?",
+        "question": "What is the apparent color of the text used to list the product features?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing only on the textual content, what is the nature of the information conveyed through the checkmarks?",
+        "answer": "Claims"
+      },
+      {
+        "question": "What is the style of the text font, such as serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the background color of the overall packaging design.",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the orientation of the text, horizontal or vertical?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visual hierarchy, where is the product's brand name prominently positioned?",
+        "answer": "Absent"
+      },
+      {
+        "question": "What is the apparent texture of the background on which the text appears?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the visual appearance of the text regarding its clarity?",
-        "answer": "Clear"
+        "question": "What is the implied visual style of the overall packaging graphic design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the spacing between the individual lines of text.",
+        "answer": "Even"
+      },
+      {
+        "question": "What type of graphic design does the checkmark symbol represent?",
+        "answer": "Icon"
+      },
+      {
+        "question": "What is the size and weight of the text used in the primary features list?",
+        "answer": "Large"
       }
     ]
   }

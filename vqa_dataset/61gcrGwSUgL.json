@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the coffee bag's outer packaging?",
+        "question": "What is the dominant color of the coffee bag's primary surface?",
         "answer": "Silver"
       },
       {
-        "question": "What is the overall shape of the coffee bean package depicted?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What material appears to constitute the main body of the coffee bag?",
-        "answer": "Foil"
-      },
-      {
-        "question": "Considering the text and color indicators, what is the primary roast level shown prominently?",
+        "question": "What type of roast is prominently displayed in the center of the bag?",
         "answer": "Full"
       },
       {
-        "question": "Describe the texture implied by the visual appearance of the bag's surface.",
+        "question": "What material appears to constitute the main body of the coffee packaging?",
+        "answer": "Foil"
+      },
+      {
+        "question": "Describing the overall shape of the coffee bag, what geometric term best fits?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary method of sealing the bag, visible at the top?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Considering the text on the bag, what is the coffee's roast level?",
+        "answer": "City"
+      },
+      {
+        "question": "What is the apparent texture of the bag's surface, considering its reflective quality?",
         "answer": "Metallic"
       },
       {
-        "question": "What type of closure mechanism is visible at the top of the coffee bag?",
-        "answer": "Resealable"
+        "question": "What is the most prevalent color of the roast level indicators depicted?",
+        "answer": "Brown"
       },
       {
-        "question": "Based on the visual detail, what is the prominent text indicating coffee type?",
-        "answer": "Roast"
+        "question": "Based on the text, what is the brand or producer of the coffee?",
+        "answer": "Dunkin"
       },
       {
-        "question": "What seems to be the method of roast level indication, aside from text?",
-        "answer": "Circles"
-      },
-      {
-        "question": "Disregarding text, what does the color gradient of the circles suggest?",
-        "answer": "Intensity"
-      },
-      {
-        "question": "What is the apparent state of the bag depicted in the image?",
-        "answer": "Sealed"
-      },
-      {
-        "question": "What language is predominantly used for the text on the packaging?",
-        "answer": "English"
-      },
-      {
-        "question": "Describe the style of the text font used for the roast levels?",
+        "question": "What is the style of the text labeling the various roast levels?",
         "answer": "Sans-serif"
       },
       {
-        "question": "What is the apparent print quality of the text and graphics on the packaging?",
-        "answer": "High"
+        "question": "What word, repeatedly used, designates each coffee roast level?",
+        "answer": "Roast"
       },
       {
-        "question": "Does the bag show any significant signs of damage or wear?",
-        "answer": "No"
+        "question": "What additional visual element is seen along the side, next to roast names?",
+        "answer": "Circles"
       },
       {
-        "question": "Considering the image, what is the overall impression of the packaging design?",
-        "answer": "Clean"
+        "question": "Judging by the image, what seems to be the bag's overall condition?",
+        "answer": "New"
+      },
+      {
+        "question": "Observing the bag's seams, what can be deduced regarding its construction?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent orientation of the text on the coffee bag?",
+        "answer": "Vertical"
       }
     ]
   }

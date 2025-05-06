@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b1490176.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the coffee bag's packaging?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall shape of the coffee bag container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for the main bag structure?",
+        "answer": "Foil"
+      },
+      {
+        "question": "What is the primary text describing the coffee blend?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What specific region is mentioned in relation to the coffee's origin?",
+        "answer": "Pacific"
+      },
+      {
+        "question": "What style of roast is indicated on the packaging?",
+        "answer": "Vienna"
+      },
+      {
+        "question": "What descriptor is used to characterize the coffee's body?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What type of flavor note is prominently mentioned?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What other flavor note is subtly indicated?",
+        "answer": "Caramel"
+      },
+      {
+        "question": "What is the name of the brand displayed on the bag?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the overall texture of the coffee bag's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What additional text is visible beneath the main product description?",
+        "answer": "Everyday"
+      },
+      {
+        "question": "What is the overall visual style of the bag design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What aspect of sustainability is highlighted?",
+        "answer": "Growing"
+      },
+      {
+        "question": "What type of coffee bean is implied?",
+        "answer": "Arabica"
+      }
+    ]
+  }
+]

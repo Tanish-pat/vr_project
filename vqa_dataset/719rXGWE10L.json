@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6f1f4533.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the stacked cloths, as shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image's texture, what is the apparent surface feel of each individual cloth?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the image's visual representation, what is the overall shape of each individual cloth shown?",
+        "answer": "Square"
+      },
+      {
+        "question": "Judging from the image, what textile material are these cloths primarily composed of?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "From the visual details provided, what is the apparent construction of the cloths?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based solely on the visual information, are there any visible patterns or designs on the cloths?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visible arrangement of the cloths as depicted in the provided image?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Based on the visual characteristics of the image, what is the implied use of these cloths?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "Given the appearance in the image, what is the level of visible absorbency implied?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the image, what is the implied weight or thickness of each individual cloth?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the image show any visible fraying or damage to the cloths?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness visible on these cloths?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual appearance, are the cloths uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Given the image, what is the approximate size of each individual cloth shown?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image's visual aspects, what is the overall pile or loop height of the cloth?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

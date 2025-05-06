@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the displayed item, based solely on visual observation?",
+        "question": "What is the dominant color of the displayed item?",
         "answer": "White"
       },
       {
-        "question": "Considering only what's visible, what appears to be the primary material of the product?",
-        "answer": "Paper"
-      },
-      {
-        "question": "Judging from the image alone, what is the overall shape or form of the object?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "Based on visual inspection, does the item exhibit any noticeable texture; if so, what is it?",
+        "question": "Considering the overall smoothness, what is the apparent surface texture?",
         "answer": "Smooth"
       },
       {
-        "question": "From the picture alone, can you determine if there are any visible markings or patterns on the surface?",
+        "question": "Based on its visual attributes, what is the likely material of the object?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by its form, what is the most accurate geometric description?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, can you discern any visible patterns or designs on the surface?",
         "answer": "None"
       },
       {
-        "question": "Is there any evidence of folds, creases, or bends apparent in the item's visual presentation?",
+        "question": "Does the object exhibit any visible folds, creases, or wrinkles?",
         "answer": "None"
       },
       {
-        "question": "Does the image show any noticeable thickness or depth to the object's physical structure?",
+        "question": "Considering its dimensions, how would you classify the item's size?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent thickness of the sheet, relative to typical paper stock?",
         "answer": "Thin"
       },
       {
-        "question": "Based purely on visual analysis, what is the apparent overall condition of the object's surface?",
-        "answer": "Clean"
-      },
-      {
-        "question": "Ignoring any text, does the image show any visual damage, scuffs, or imperfections?",
-        "answer": "No"
-      },
-      {
-        "question": "Judging solely from what is visually perceptible, is the object matte or glossy?",
+        "question": "Is there any noticeable sheen or gloss to the object's surface?",
         "answer": "Matte"
       },
       {
-        "question": "Considering only visual cues, what is the apparent level of transparency or opacity?",
-        "answer": "Opaque"
-      },
-      {
-        "question": "From the image, is there any indication of a specific finish applied to the product's surface?",
+        "question": "Are there any visible perforations, markings, or print on the object?",
         "answer": "None"
       },
       {
-        "question": "Does the visual presentation reveal any signs of embellishment, ornamentation, or special treatment?",
-        "answer": "No"
+        "question": "Does the object appear to be flexible or rigid in nature?",
+        "answer": "Flexible"
       },
       {
-        "question": "Based on the image, does the object appear to be rigid, flexible, or have other characteristics concerning its consistency?",
-        "answer": "Rigid"
+        "question": "Observing the edges, are they perfectly straight or slightly irregular?",
+        "answer": "Straight"
       },
       {
-        "question": "Based solely on visual aspects, what seems to be the general size of the object; big, small, or medium?",
-        "answer": "Medium"
+        "question": "What is the perceived weight of the item based solely on its visual characteristics?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the visible characteristics, what is its apparent condition?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering its visual characteristics, what is its most likely intended use?",
+        "answer": "Writing"
       }
     ]
   }

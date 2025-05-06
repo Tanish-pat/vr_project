@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/96779082.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the brush bristles?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the brush handle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the brush head.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What secondary color is present on the brush handle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture of the brush bristles, based on visual observation?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "How many brushes are depicted in the provided image?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the apparent primary color of the brush head?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the handle's design, what is its general form?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the image, what seems to be the brush's intended function?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "Describe the bristle arrangement on each brush head.",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent material of the brush head base?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, what is the handle's connection to the brush head?",
+        "answer": "Fixed"
+      },
+      {
+        "question": "Considering the image, what kind of surface might this brush be suited for?",
+        "answer": "Hard"
+      },
+      {
+        "question": "What is the general style of the brush handle design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image suggest the bristles are naturally soft or stiff?",
+        "answer": "Stiff"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the dominant color scheme depicted on the phone case?",
         "answer": "Blue"
       },
       {
-        "question": "What celestial body is prominently featured in the phone case's artwork?",
+        "question": "What celestial body is prominently featured in the phone case's design?",
         "answer": "Moon"
       },
       {
-        "question": "What natural phenomenon is depicted, mirroring the moon in the artwork?",
-        "answer": "Reflection"
+        "question": "What natural phenomenon is reflected in the water shown on the phone case?",
+        "answer": "Moon"
       },
       {
         "question": "What appears to be the material of the phone case's outer shell?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape of the phone case, conforming to the phone itself?",
+        "question": "Describe the overall shape of the phone case in relation to the phone itself?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the visual texture, how would you describe the phone case's surface?",
-        "answer": "Smooth"
+        "question": "What kind of landscape is subtly depicted at the horizon of the phone case?",
+        "answer": "Mountains"
       },
       {
-        "question": "Describe the apparent finish of the phone case's external layer, based on its shine?",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What is the style of the landscape depicted within the phone case's artwork?",
-        "answer": "Nocturnal"
-      },
-      {
-        "question": "What is the general impression of the color saturation within the phone case's design?",
-        "answer": "Deep"
-      },
-      {
-        "question": "How many moons or moon-like objects are distinctly visible in the artwork?",
-        "answer": "Two"
-      },
-      {
-        "question": "Considering the visual elements, what is the overall theme of the phone case's design?",
-        "answer": "Nature"
-      },
-      {
-        "question": "What is the visual texture of the water shown in the phone case's artwork?",
-        "answer": "Calm"
-      },
-      {
-        "question": "What type of environment is suggested in the phone case's background scenery?",
+        "question": "What body of water is shown reflecting the moon in the phone case's image?",
         "answer": "Lake"
       },
       {
-        "question": "Based on the visual clarity, is the print on the case high-resolution or not?",
+        "question": "Considering the design, what is the primary artistic style of the phone case?",
+        "answer": "Nature"
+      },
+      {
+        "question": "What is the apparent finish or texture of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many moons are visibly depicted in the phone case's design?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent level of detail in the image of the moon on the case?",
         "answer": "High"
       },
       {
-        "question": "Describe the apparent level of detail in the phone case's landscape illustration?",
-        "answer": "Detailed"
+        "question": "Describe the color of the water reflecting the moon in the image?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the overall impression of the phone case's visual aesthetic?",
+        "answer": "Calm"
+      },
+      {
+        "question": "Based on the image, what seems to be the case's protective function?",
+        "answer": "Cover"
+      },
+      {
+        "question": "What is the general lighting condition depicted in the phone case image?",
+        "answer": "Night"
       }
     ]
   }

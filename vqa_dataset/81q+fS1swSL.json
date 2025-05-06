@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual texture, what is the dominant tactile quality suggested by the woven pattern of this necktie?",
-        "answer": "Woven"
+        "question": "Considering the overall visual appearance, what single word best describes the predominant color of this necktie?",
+        "answer": "Olive"
       },
       {
-        "question": "Describe the prevailing color scheme exhibited across the entirety of the necktie's surface, considering the interplay of the main and secondary hues.",
-        "answer": "Green"
-      },
-      {
-        "question": "What geometric pattern is most prominent, defining the visual structure of the necktie's design?",
+        "question": "Examining the textile closely, what is the most accurate single-word description of the pattern covering the necktie's surface?",
         "answer": "Grid"
       },
       {
-        "question": "What shape is prominently displayed in the repeating pattern of the necktie's design?",
-        "answer": "Square"
-      },
-      {
-        "question": "Based on the visual appearance, what seems to be the primary material composition of this necktie?",
-        "answer": "Silk"
-      },
-      {
-        "question": "What is the most noticeable visual feature of the necktie's design that makes it stand out?",
-        "answer": "Pattern"
-      },
-      {
-        "question": "What is the overall shape of the garment shown in its entirety, ignoring the pattern?",
+        "question": "Based on the image, what is the shape of this necktie, described with a single word?",
         "answer": "Triangular"
       },
       {
-        "question": "What is the secondary color present in the intricate pattern of the necktie?",
-        "answer": "Beige"
+        "question": "From a purely visual assessment, what material seems most likely to compose this necktie based on its appearance?",
+        "answer": "Silk"
       },
       {
-        "question": "Considering the image, what is the implied or suggested use of the item shown?",
-        "answer": "Formal"
-      },
-      {
-        "question": "Based on the appearance, what is the general style implied by the design and color of the necktie?",
-        "answer": "Classic"
-      },
-      {
-        "question": "What is the color of the smaller squares within the repeating pattern of the necktie?",
-        "answer": "Off-white"
-      },
-      {
-        "question": "What is the visual appearance of the tie's knot, in terms of its texture and fold?",
+        "question": "Considering the fabric's texture as depicted in the image, what single word best characterizes its feel?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the visual form of the tip of the necktie, describing its shape?",
-        "answer": "Pointed"
+        "question": "What is the primary design element visually apparent on this necktie?",
+        "answer": "Geometric"
       },
       {
-        "question": "Judging from the image, what would you say is the approximate length of the item?",
-        "answer": "Long"
+        "question": "Looking at the image, what is the visual impression of the tie\u2019s weave; use only one word?",
+        "answer": "Fine"
       },
       {
-        "question": "What is the visual characteristic describing the style of the repeated small squares within the design of the tie?",
+        "question": "Describe the tone of the secondary color in the necktie's pattern, using only one word.",
+        "answer": "Beige"
+      },
+      {
+        "question": "Focusing on the tie's form, describe its overall shape using one word only.",
+        "answer": "Tapered"
+      },
+      {
+        "question": "Describe the necktie's finish, considering its sheen, using only one word.",
+        "answer": "Lustrous"
+      },
+      {
+        "question": "Visually, what is the apparent style of the necktie, in a single word?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Describe the size of the repeating elements in the necktie's pattern, using a single word.",
         "answer": "Small"
+      },
+      {
+        "question": "Analyzing the image, what is the single-word description of the necktie's pattern density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Observing the image, how would you describe the overall visual weight of the necktie's pattern in a single word?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Judging from the image, what is the single word to describe the overall impression of the necktie\u2019s color combination?",
+        "answer": "Muted"
       }
     ]
   }
