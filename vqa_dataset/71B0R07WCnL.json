@@ -6,63 +6,63 @@
     "questions": [
       {
         "question": "What is the predominant design pattern depicted on the phone case?",
-        "answer": "Chevron"
-      },
-      {
-        "question": "What are the two main colors used in the phone case's design?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the secondary color prominently featured on the phone case?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the apparent texture or visual effect of the background?",
-        "answer": "Wood"
-      },
-      {
-        "question": "What appears to be the primary material of the phone case?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Describe the overall shape of the protective phone cover shown?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the style of the graphic on the phone case?",
         "answer": "Geometric"
       },
       {
-        "question": "How many distinct color sections are visible in the design?",
-        "answer": "Two"
+        "question": "What two colors are prominently featured in the case's design?",
+        "answer": "Black"
       },
       {
-        "question": "Based on the visible cutouts, what phone model is this case designed for?",
-        "answer": "LG"
+        "question": "What color is the majority of the background on the phone case?",
+        "answer": "White"
       },
       {
-        "question": "What is the direction of the angled black stripes on the phone case?",
+        "question": "What is the apparent texture or style that the design emulates?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "What shape is the overall design of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the primary design element's orientation, is it vertical or horizontal?",
         "answer": "Diagonal"
       },
       {
-        "question": "Does the case have a matte or glossy finish visible?",
-        "answer": "Matte"
+        "question": "Considering the material, what might the surface feel like to the touch?",
+        "answer": "Smooth"
       },
       {
-        "question": "Are there any other elements besides the stripes present on the case?",
-        "answer": "None"
+        "question": "What is the general visual effect created by the color contrast?",
+        "answer": "Striking"
       },
       {
-        "question": "What is the thickness of the phone case based on visual observation?",
-        "answer": "Slim"
-      },
-      {
-        "question": "What kind of image printing technique might have been used?",
-        "answer": "Digital"
-      },
-      {
-        "question": "Judging by the image, what is the general aesthetic of this phone case?",
+        "question": "If you were to describe the design's aesthetic, would it be modern or vintage?",
         "answer": "Modern"
+      },
+      {
+        "question": "What type of phone model does this case appear designed to fit?",
+        "answer": "LG"
+      },
+      {
+        "question": "In terms of the design's lines, what is their dominant characteristic?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Besides black and white, are there any other noticeable colors present?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Does the case show any visible branding or logos besides the phone's?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression created by the phone case?",
+        "answer": "Stylish"
+      },
+      {
+        "question": "What is the apparent form factor of the case, hard or soft?",
+        "answer": "Hard"
       }
     ]
   }

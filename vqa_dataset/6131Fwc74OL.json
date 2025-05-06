@@ -13,56 +13,56 @@
         "answer": "Velvet"
       },
       {
-        "question": "What is the overall shape of the hanger's main body?",
+        "question": "What is the overall shape of the garment hanger itself?",
         "answer": "Curved"
       },
       {
-        "question": "Describe the texture implied by the hanger's surface finish.",
-        "answer": "Flocked"
+        "question": "Describe the texture implied by the hanger's visual appearance.",
+        "answer": "Soft"
       },
       {
-        "question": "What material composes the rotating hook mechanism?",
-        "answer": "Metal"
-      },
-      {
-        "question": "How many hooks are visibly present on the hanger's top?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the apparent finish of the metal hook component?",
+        "question": "What metallic finish is visible on the rotating hook section?",
         "answer": "Silver"
       },
       {
-        "question": "Describe the shape of each individual hook on the hanger.",
-        "answer": "Curved"
+        "question": "How many hooks are integrated into the top swivel design?",
+        "answer": "Two"
       },
       {
-        "question": "What design element prevents garment slippage on the hanger?",
-        "answer": "Velvet"
+        "question": "What is the apparent functionality of the upper hook component?",
+        "answer": "Rotating"
       },
       {
-        "question": "What is the apparent function of the rotating hook mechanism?",
-        "answer": "Swivel"
+        "question": "What is the shape of the hanger's main supporting bar?",
+        "answer": "Rounded"
       },
       {
-        "question": "What is the number of notches visible on the hanger's shoulder area?",
-        "answer": "Zero"
-      },
-      {
-        "question": "Is there evidence of any visible text or branding on the hanger?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering the hanger's design, what is its primary use?",
+        "question": "Considering the image, what is the hanger's apparent purpose?",
         "answer": "Clothing"
       },
       {
-        "question": "What kind of rotation is indicated for the top hook assembly?",
-        "answer": "360"
+        "question": "What design element is present at the hanger's bottom edge?",
+        "answer": "Notch"
       },
       {
-        "question": "Describe the apparent thickness of the hanger's main body.",
-        "answer": "Thin"
+        "question": "What is the visual texture of the metallic hook section?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the material of the rotating hook assembly?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Does the hanger's design include any visible branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual impression of the hanger's overall weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from the image, how many sections comprise the main bar?",
+        "answer": "One"
       }
     ]
   }

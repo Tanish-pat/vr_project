@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b60fb0d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the broom bristles?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary color of the broom handle?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the material of the broom bristles?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "What is the overall shape of the broom head?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the broom bristles as shown in the image.",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What is the apparent material of the broom head connector?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, how many bristle sections does the broom possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent construction of the broom's handle?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the image, what seems to be the overall length of the broom?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the visible condition of the broom in the provided image?",
+        "answer": "New"
+      },
+      {
+        "question": "Describe the visual appearance of the broom's bristle tips.",
+        "answer": "Straight"
+      },
+      {
+        "question": "What type of handle connector seems to attach the broom head?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the implied usage of this broom based on its visual features?",
+        "answer": "Sweeping"
+      },
+      {
+        "question": "Judging from the image, how does the broom's handle connect to the head?",
+        "answer": "Direct"
+      },
+      {
+        "question": "What is the visible design characteristic of the broom handle's surface?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b6fbcfeb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the packaging's background?",
+        "answer": "Red"
+      },
+      {
+        "question": "What type of plant-based burger is depicted on the box?",
+        "answer": "Pinto"
+      },
+      {
+        "question": "What additional flavor is mentioned alongside Pinto in the product name?",
+        "answer": "Habanero"
+      },
+      {
+        "question": "What is the shape of the plant-based burger shown on the packaging?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the approximate number of plant-based burgers in the box?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is indicated on the packaging regarding the presence of cholesterol?",
+        "answer": "None"
+      },
+      {
+        "question": "What is stated about the presence of gluten in this product?",
+        "answer": "Free"
+      },
+      {
+        "question": "What is stated about the presence of saturated fat in this product?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the text indicating the cooking method displayed on the box?",
+        "answer": "Hot"
+      },
+      {
+        "question": "What is the brand name prominently featured on the package?",
+        "answer": "Engine"
+      },
+      {
+        "question": "What additional ingredient is shown on the burger in the image?",
+        "answer": "Onion"
+      },
+      {
+        "question": "What is the suggested storage condition printed on the packaging?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "What certification is shown to indicate the absence of GMOs?",
+        "answer": "Verified"
+      },
+      {
+        "question": "What is the plant-based burger's apparent texture based on the image?",
+        "answer": "Crumbly"
+      },
+      {
+        "question": "What is the overall color scheme of the product, excluding the background?",
+        "answer": "Brown"
+      }
+    ]
+  }
+]

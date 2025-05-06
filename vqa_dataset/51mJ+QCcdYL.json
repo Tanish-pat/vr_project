@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall finish or plating of the visible metal components?",
+        "question": "What is the predominant finish or coating visually apparent on the entire product?",
         "answer": "Chrome"
       },
       {
-        "question": "What is the predominant shape of the main body of the hook?",
+        "question": "Considering the overall form, what is the most accurate geometrical description of the base?",
         "answer": "Circular"
       },
       {
-        "question": "How many individual hooks or hanging points are visibly present on the product?",
+        "question": "Focusing solely on the visible structure, how many distinct hanging hooks are integrated into the design?",
         "answer": "Three"
       },
       {
-        "question": "Describe the basic shape of each individual hook or hanging point.",
-        "answer": "Teardrop"
-      },
-      {
-        "question": "What appears to be the primary material used in the construction of this item?",
+        "question": "Judging by the image, what appears to be the primary material used in the construction?",
         "answer": "Metal"
       },
       {
-        "question": "Considering the appearance, what is the likely intended use of this product?",
-        "answer": "Robes"
-      },
-      {
-        "question": "Considering the reflective surfaces, what is the apparent surface texture of the item?",
+        "question": "Based on the reflection in the image, what is the apparent surface texture of the product?",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the visible design style or aesthetic of this item.",
+        "question": "What is the shape of each individual hook extending from the central structure?",
+        "answer": "Teardrop"
+      },
+      {
+        "question": "Considering the visual details, what is the style of the hook's design?",
         "answer": "Classic"
       },
       {
-        "question": "What is the apparent mounting method of this product, based on visual cues?",
-        "answer": "Wall"
+        "question": "In the provided image, what is the overall visual impression of the product's design?",
+        "answer": "Simple"
       },
       {
-        "question": "Describe the overall color of the product, based on visual appearance.",
+        "question": "From the visual perspective, what is the main function of this product, considering its shape and hooks?",
+        "answer": "Hanging"
+      },
+      {
+        "question": "If one were to describe the visible color, what single word would aptly describe it?",
         "answer": "Silver"
       },
       {
-        "question": "What is the general shape of the base or mounting plate of the hook?",
-        "answer": "Round"
+        "question": "What is the most noticeable feature in the central part of the product's design?",
+        "answer": "Stem"
       },
       {
-        "question": "How would you describe the visible connection between the hooks and the base?",
-        "answer": "Curved"
+        "question": "Describe the visual appearance of the attachment point to the wall or surface?",
+        "answer": "Circular"
       },
       {
-        "question": "What design features are visible on each individual hook?",
-        "answer": "Rounded"
+        "question": "Considering the visible dimensions, how would you describe its size?",
+        "answer": "Small"
       },
       {
-        "question": "How would you characterize the overall visual weight or presence of this item?",
+        "question": "Describe the visual weight of the product based on its design and material",
         "answer": "Light"
       },
       {
-        "question": "Is the visible design of the hook symmetrical or asymmetrical?",
-        "answer": "Symmetrical"
+        "question": "What single word best describes the overall visual impression of the product's finish?",
+        "answer": "Shiny"
       }
     ]
   }

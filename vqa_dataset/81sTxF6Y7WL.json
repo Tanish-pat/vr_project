@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What is the primary color of the design on the phone case?",
+        "question": "What is the primary color of the design printed on the case?",
         "answer": "White"
       },
       {
-        "question": "What is the style of the illustration depicted on the phone case?",
-        "answer": "Line-art"
+        "question": "What is the overall style of the design depicted on the phone case?",
+        "answer": "Lineart"
       },
       {
-        "question": "What objects are illustrated in the stacked arrangement on the case?",
-        "answer": "Cups"
+        "question": "What kind of objects are illustrated in the phone case design?",
+        "answer": "Teacups"
       },
       {
-        "question": "What kind of container is prominently featured among the cups?",
-        "answer": "Pot"
-      },
-      {
-        "question": "Describe the overall pattern of the design on the phone case?",
-        "answer": "Floral"
-      },
-      {
-        "question": "What seems to be the primary material of the phone case itself?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the apparent texture of the phone case's surface?",
+        "question": "What is the apparent texture of the phone case surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What design element is repeatedly used to decorate the cups?",
-        "answer": "Patterns"
+        "question": "What appears to be the material of the phone case?",
+        "answer": "Plastic"
       },
       {
-        "question": "How many distinct cups are visibly stacked on the phone case?",
-        "answer": "Four"
+        "question": "Describe the arrangement of the teacups in the design.",
+        "answer": "Stacked"
       },
       {
-        "question": "What is the general shape of the illustrated pot?",
-        "answer": "Round"
-      },
-      {
-        "question": "What kind of visual effect do the lines used in the design create?",
-        "answer": "Etching"
-      },
-      {
-        "question": "Does the design include any small floral elements around the cups?",
+        "question": "Is there a teapot depicted amongst the teacups?",
         "answer": "Yes"
       },
       {
-        "question": "What is the overall aesthetic of the phone case design?",
-        "answer": "Minimalist"
+        "question": "What geometric patterns are visible on the teacups?",
+        "answer": "Various"
       },
       {
-        "question": "Is there a noticeable sheen or gloss to the phone case?",
-        "answer": "No"
+        "question": "Are there any floral elements incorporated into the design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many sides of the phone case are shown in the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the design seem to be printed or embossed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the level of detail in the line art design?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the design cover the entire back of the phone case?",
+        "answer": "Yes"
       }
     ]
   }

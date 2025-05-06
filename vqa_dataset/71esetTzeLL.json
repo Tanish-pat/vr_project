@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the geometric design on the phone case?",
+        "question": "What is the dominant color scheme of the phone case's artistic design?",
         "answer": "Multicolored"
       },
       {
-        "question": "What is the overall shape of the protective mobile phone cover?",
-        "answer": "Rectangular"
+        "question": "What is the overall geometric style of the depicted abstract art?",
+        "answer": "Cubist"
       },
       {
-        "question": "What artistic style best describes the printed pattern on the back?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "What appears to be the primary material used for this phone case?",
+        "question": "What appears to be the primary material used in manufacturing this phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the texture of the printed design?",
+        "question": "Considering the image, what shape best describes the phone case's overall form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent texture of the phone case's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Describe the shapes that constitute the main design elements on the case.",
-        "answer": "Geometric"
+        "question": "What is the most noticeable characteristic of the artistic print on the phone case?",
+        "answer": "Abstract"
       },
       {
-        "question": "What color is the camera cutout visible on the back of the case?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the general feeling evoked by the design\u2019s color palette?",
+        "question": "Describe the color saturation levels of the colors utilized in the design?",
         "answer": "Vibrant"
       },
       {
-        "question": "What kind of finish does the phone case appear to have?",
+        "question": "Can you describe the visual complexity of the artistic representation on the case?",
+        "answer": "High"
+      },
+      {
+        "question": "What kind of visual elements are prominently featured in the phone case design?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Considering the image, what is the finish of the phone case's outer layer?",
         "answer": "Matte"
       },
       {
-        "question": "Are there any repetitive elements within the main design of the phone case?",
-        "answer": "Yes"
+        "question": "What is the apparent level of detail in the artistic representation of the phone case?",
+        "answer": "High"
       },
       {
-        "question": "What are the most prevalent shapes used in the case's design?",
-        "answer": "Triangles"
+        "question": "What feeling does the color palette of the design primarily evoke?",
+        "answer": "Energetic"
       },
       {
-        "question": "What seems to be the thickness of the phone case based on the image?",
-        "answer": "Thin"
+        "question": "What shape is most frequently repeated in the artistic print on the case?",
+        "answer": "Triangular"
       },
       {
-        "question": "Excluding the camera hole, are there any other cutouts on this phone case?",
-        "answer": "No"
+        "question": "What appears to be the primary technique used in creating the case's design?",
+        "answer": "Painting"
       },
       {
-        "question": "Does the case appear to have a glossy or non-glossy finish?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What is the style of the art depicted on the phone case?",
-        "answer": "Cubist"
+        "question": "Judging from the image, what is the general style of the phone case?",
+        "answer": "Modern"
       }
     ]
   }

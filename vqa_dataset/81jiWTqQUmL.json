@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/98500beb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and handle placement, what is the most accurate description of this container's shape?",
+        "answer": "Jug"
+      },
+      {
+        "question": "Based on the color of the liquid visible through the container, what is the dominant hue of the contained beverage?",
+        "answer": "Red"
+      },
+      {
+        "question": "Observing the label, what two primary fruits are explicitly highlighted as ingredients?",
+        "answer": "Mango"
+      },
+      {
+        "question": "Examining the material of the container, what common plastic type is seemingly utilized for this product?",
+        "answer": "PET"
+      },
+      {
+        "question": "What is the prominent word on the label indicating the product's organic status?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the single word that immediately follows the word 'Cranberry' on the label, specifying the secondary fruit?",
+        "answer": "Mango"
+      },
+      {
+        "question": "Considering the overall presentation, what is the most likely category for this packaged product among the various types of beverages?",
+        "answer": "Juice"
+      },
+      {
+        "question": "Judging by the label's visual design, what is the style or aesthetic used for this particular product branding?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the predominant color family of the label design, considering the background and text combinations?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the illustration on the label, what is the secondary fruit's color depicted in the product representation?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the texture of the label, considering its design characteristics and paper-like feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Looking at the cap, what is the overall shape of the closure on the container?",
+        "answer": "Dome"
+      },
+      {
+        "question": "Observing the label's textual information, what is the percentage of juice content as specified by the manufacturer?",
+        "answer": "100%"
+      },
+      {
+        "question": "What is the overall appearance of the liquid inside the container, considering the clarity and consistency?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging by the label art, what is the texture of the mango depicted, considering its visual details?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

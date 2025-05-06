@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the packaging's primary surface?",
+        "question": "What is the primary color of the packaging visible in the image?",
         "answer": "Beige"
       },
       {
-        "question": "What is the overall shape of the product packaging?",
+        "question": "What is the overall shape of the product's packaging?",
         "answer": "Rectangular"
       },
       {
-        "question": "What material appears to be used for the product's packaging?",
-        "answer": "Paper"
+        "question": "What material appears to constitute the main packaging?",
+        "answer": "Foil"
       },
       {
-        "question": "What type of text is prominently displayed on the front of the bag?",
-        "answer": "Organic"
+        "question": "What type of text is predominantly featured on the packaging?",
+        "answer": "Descriptive"
       },
       {
-        "question": "Describe the overall texture of the packaging visible in the image.",
+        "question": "What is the apparent texture of the packaging's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What kind of seal is visible at the top of the product's packaging?",
-        "answer": "Heat-sealed"
+        "question": "Based on the visible text, what is the product's main ingredient?",
+        "answer": "Durum"
       },
       {
-        "question": "What language is used for the prominent text on the bag?",
-        "answer": "English"
+        "question": "Is there any indication of organic certification on the package?",
+        "answer": "Yes"
       },
       {
-        "question": "What type of graphic is located near the bottom of the packaging?",
-        "answer": "Barcode"
+        "question": "What is the overall style of the package design (e.g., minimalist, ornate)?",
+        "answer": "Minimalist"
       },
       {
-        "question": "What color is the logo displayed on the front of the bag?",
+        "question": "Does the packaging display nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the predominant visual aspect of the label's design?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is a barcode visible on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the logo visible on the packaging?",
         "answer": "Green"
       },
       {
-        "question": "Does the packaging include nutritional information?",
-        "answer": "Yes"
+        "question": "What is the general condition of the packaging depicted?",
+        "answer": "Sealed"
       },
       {
-        "question": "What is the main product shown on the packaging?",
-        "answer": "Durum"
+        "question": "What kind of seal or closure is apparent on the package?",
+        "answer": "Heat"
       },
       {
-        "question": "Is there a certification logo visible on the packaging?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the primary ingredient stated on the packaging?",
-        "answer": "Wheat"
-      },
-      {
-        "question": "What is the descriptive word next to 'Organic' on the packaging?",
-        "answer": "Durum"
-      },
-      {
-        "question": "Is there visible text about the weight or quantity of the product?",
+        "question": "Can one discern any particular brand name on the packaging?",
         "answer": "Yes"
       }
     ]

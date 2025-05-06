@@ -1,0 +1,17 @@
+[
+  {
+    "path": "images/small/55/55e8264a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed item, based solely on the image provided?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the object in the image?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c5fb21aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the most prominent visual feature of this shoe's sole?",
+        "answer": "Hexagonal"
+      },
+      {
+        "question": "What color is the primary material composing the majority of the visible shoe sole?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the insole pattern, what geometric shape is repeatedly used in its design?",
+        "answer": "Hexagon"
+      },
+      {
+        "question": "Describe the color of the textured inner sole, contrasting with the outer sole?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the visible texture, what is the most likely material of the insole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Considering the shape and form, what type of footwear is shown in the image?",
+        "answer": "Shoe"
+      },
+      {
+        "question": "Judging by the sole's design, what is the likely function or purpose of the shoe?",
+        "answer": "Walking"
+      },
+      {
+        "question": "What is the apparent texture of the outer sole of the shoe shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the overall shape of the shoe depicted from this sole perspective?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the apparent material used to make the outer sole of this footwear?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Focusing on the insole, what is the most obvious pattern present?",
+        "answer": "Honeycomb"
+      },
+      {
+        "question": "What is the texture of the inner, red portion of the shoe sole?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the color palette, which color is less prominent in the shoe's sole?",
+        "answer": "Black"
+      },
+      {
+        "question": "From this perspective, is there evidence of a distinct heel on this shoe?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the visible portion of the shoe's sole made from a single material, or is there a combination?",
+        "answer": "Both"
+      }
+    ]
+  }
+]

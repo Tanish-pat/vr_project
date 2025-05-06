@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the suede boots shown in the image?",
+        "question": "What is the predominant color of the suede boots displayed in the image?",
         "answer": "Brown"
       },
       {
-        "question": "What material appears to constitute the main body of the boots?",
+        "question": "What is the primary material visibly composing the upper part of these boots?",
         "answer": "Suede"
       },
       {
-        "question": "What is the overall shape or style of the footwear depicted?",
-        "answer": "Boots"
-      },
-      {
-        "question": "Describe the visible closure mechanism on the boots' uppers.",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "What kind of heel design is showcased on the pair of boots?",
+        "question": "Describe the overall shape of the heel on these ankle boots shown?",
         "answer": "Block"
       },
       {
-        "question": "What is the embellishment pattern on the boots' exterior?",
+        "question": "What is the design pattern intricately studded across the boots' surface?",
         "answer": "Stars"
       },
       {
-        "question": "What metallic material seems to be used for the star accents?",
+        "question": "What metallic material constitutes the embellishments on the star pattern?",
         "answer": "Gold"
       },
       {
-        "question": "What is the apparent height of the boot shaft, relative to the ankle?",
-        "answer": "Ankle"
+        "question": "What type of closure system is apparent on the boots' shafts?",
+        "answer": "Lace-up"
       },
       {
-        "question": "What type of tip is present at the end of the laces?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the overall texture of the boots\u2019 visible suede surface?",
+        "question": "What is the visible texture of the material used to construct the boots?",
         "answer": "Napped"
       },
       {
-        "question": "What is the visible shape of the toe on each boot?",
+        "question": "What is the approximate height of the heel in relation to the boot\u2019s sole?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the overall silhouette, what style of boot are these?",
+        "answer": "Ankle"
+      },
+      {
+        "question": "What is the shape of the individual decorative elements on the boots?",
+        "answer": "Star"
+      },
+      {
+        "question": "Describe the style of the toe visible on each of the boots shown.",
         "answer": "Rounded"
       },
       {
-        "question": "Is there a zipper visible on the side of any of the boots?",
-        "answer": "Yes"
+        "question": "What appears to be the finish of the golden embellishments on the boots?",
+        "answer": "Studded"
       },
       {
-        "question": "What kind of sole construction is seemingly used on the boots?",
-        "answer": "Smooth"
+        "question": "What is the overall height of the boots from the sole to the top of the shaft?",
+        "answer": "Mid"
       },
       {
-        "question": "Considering the star pattern, what design aesthetic is evoked?",
-        "answer": "Western"
+        "question": "What kind of zipper is visible on the inner side of the boots?",
+        "answer": "Side"
       },
       {
-        "question": "What is the approximate height of the heel in relation to the sole?",
-        "answer": "High"
+        "question": "What color are the laces present on the boots' frontal area?",
+        "answer": "Brown"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the phone case's exterior?",
+        "question": "What is the dominant color of the phone case's exterior?",
         "answer": "Brown"
       },
       {
-        "question": "What appears to be the primary material used in the case's construction?",
+        "question": "What appears to be the primary material of the phone case?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the overall texture visible on the case's surface.",
-        "answer": "Woven"
+        "question": "Describing the texture, is the phone case's surface smooth or rough?",
+        "answer": "Textured"
       },
       {
-        "question": "What is the primary shape of the phone case when closed?",
-        "answer": "Rectangular"
+        "question": "Does the phone case feature any noticeable patterns on its surface?",
+        "answer": "Linear"
       },
       {
         "question": "How many card slots are visibly present on the case's exterior?",
         "answer": "Three"
       },
       {
-        "question": "Is there an apparent wrist strap attached to the phone case?",
+        "question": "What is the overall shape of the closed phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the phone case include a wrist strap or hand strap?",
         "answer": "Yes"
       },
       {
-        "question": "Does the case appear to offer any protection for the phone's screen?",
-        "answer": "Yes"
+        "question": "Considering its design, is it a folio-style case or other style?",
+        "answer": "Folio"
       },
       {
-        "question": "What type of closure mechanism is seemingly employed by the case?",
-        "answer": "Magnetic"
+        "question": "What appears to be the type of phone the case is designed for?",
+        "answer": "Smartphone"
       },
       {
-        "question": "What is the apparent style of the phone case design?",
-        "answer": "Wallet"
+        "question": "Is there an apparent phone model logo visible on the case?",
+        "answer": "OnePlus"
       },
       {
-        "question": "Is a phone visible inside the case, offering a glimpse of its branding?",
-        "answer": "Yes"
+        "question": "What seems to be the material of the wrist strap?",
+        "answer": "Fabric"
       },
       {
-        "question": "Describe the visible pattern on the phone's rear displayed within the case.",
-        "answer": "Textured"
-      },
-      {
-        "question": "What is the apparent orientation of the phone within the case when closed?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What is the apparent finish of the phone's case\u2019s material?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Does the case appear to have any noticeable embellishments or logos on its exterior?",
+        "question": "Does the case utilize any magnetic closures or clasps?",
         "answer": "No"
       },
       {
-        "question": "Considering the images provided, how many distinct views of the case are shown?",
-        "answer": "Three"
+        "question": "Observing the images, is the case designed to fully cover the phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the case seem to offer any significant protection to the phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent placement of the camera cutout in the case?",
+        "answer": "Rear"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme used throughout the nutrition facts label?",
-        "answer": "Black"
+        "question": "Considering the overall layout and textual organization, what is the dominant visual theme depicted on the product's surface?",
+        "answer": "Nutrition"
       },
       {
-        "question": "Considering the overall layout, what is the primary orientation of the text on the label?",
-        "answer": "Vertical"
+        "question": "Based on the visual prominence and font size, what key nutritional information is prominently displayed?",
+        "answer": "Calories"
       },
       {
-        "question": "Based on the visual representation, what is the numerical value indicated for the total calories per serving?",
+        "question": "What is the numerical value, prominently displayed in large font, representing the caloric content per serving?",
         "answer": "80"
       },
       {
-        "question": "What is the font style employed for the heading 'Nutrition Facts' at the top of the label?",
-        "answer": "Bold"
+        "question": "Focusing on the textual content, what is the measurement unit used to quantify the total fat content?",
+        "answer": "Grams"
       },
       {
-        "question": "What unit of measurement is consistently used to quantify the amounts of various nutrients?",
-        "answer": "g"
-      },
-      {
-        "question": "Focusing on the numerical data, what percentage of the daily value is represented for saturated fat?",
-        "answer": "18"
-      },
-      {
-        "question": "What is the font weight used for the values representing the percentage of daily value?",
-        "answer": "Regular"
-      },
-      {
-        "question": "Examining the nutritional details, what is the quantitative value given for cholesterol in milligrams?",
-        "answer": "20"
-      },
-      {
-        "question": "What is the stated amount of protein per serving, as presented in the image?",
+        "question": "In terms of macronutrients, what is the numerical value indicating the protein content per serving, as visually depicted?",
         "answer": "5"
       },
       {
-        "question": "What is the format used to display the numerical data for nutrients in relation to daily values?",
-        "answer": "Percentage"
+        "question": "What is the unit of measurement for the quantity of cholesterol, clearly presented within the nutritional data?",
+        "answer": "Milligrams"
       },
       {
-        "question": "What is the background color of the nutrition facts label?",
-        "answer": "White"
+        "question": "What is the numerical value representing the amount of sodium, according to the visual depiction of the data?",
+        "answer": "130"
       },
       {
-        "question": "What is the text style of the serving size description?",
-        "answer": "Regular"
+        "question": "What is the unit of measurement used to express the quantity of calcium, visually prominent in the nutritional details?",
+        "answer": "Milligrams"
       },
       {
-        "question": "Observing the label closely, what measurement is provided for the serving size in grams?",
-        "answer": "23"
+        "question": "What is the numerical value specifying the quantity of carbohydrates, presented in the image\u2019s nutritional facts?",
+        "answer": "0"
       },
       {
-        "question": "In the context of the provided information, how many servings are contained within this product?",
+        "question": "What is the unit of measurement for the amount of Vitamin D, presented in the nutritional information on the product?",
+        "answer": "Micrograms"
+      },
+      {
+        "question": "Observing the visual presentation, what is the numerical value shown for the amount of iron, per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the unit of measurement used for the amount of potassium, as displayed in the nutritional fact section?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "According to the image, what is the percentage of the daily value for saturated fat, per serving?",
+        "answer": "18"
+      },
+      {
+        "question": "What is the numerical value visually presented, representing the number of servings per container?",
         "answer": "10"
       },
       {
-        "question": "What is the unit of measurement used for the calcium content?",
-        "answer": "mg"
+        "question": "What is the descriptive term used to refer to the serving size as shown on the image?",
+        "answer": "Slice"
       }
     ]
   }

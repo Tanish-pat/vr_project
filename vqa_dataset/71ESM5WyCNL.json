@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the adapter casing?",
+        "question": "What is the predominant color of the depicted adapter?",
         "answer": "White"
       },
       {
-        "question": "What type of connector is present on the adapter's output end?",
+        "question": "What type of connector is visible on the adapter's output end?",
         "answer": "VGA"
       },
       {
-        "question": "What type of connector is visible on the adapter's input end?",
-        "answer": "Mini-HDMI"
-      },
-      {
-        "question": "What appears to be the material of the adapter's outer shell?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "What is the overall shape of the adapter's main body?",
+        "question": "What is the shape of the main adapter body?",
         "answer": "Rectangular"
       },
       {
-        "question": "Describe the visible texture of the adapter's surface.",
+        "question": "What material appears to constitute the adapter's casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What connector type is plugged into the laptop's port?",
+        "answer": "Mini-HDMI"
+      },
+      {
+        "question": "Describe the overall texture of the adapter's surface.",
         "answer": "Smooth"
       },
       {
-        "question": "How would you characterize the cable's color?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the apparent length of the connecting cable?",
+        "question": "What is the approximate length of the connecting cable?",
         "answer": "Short"
       },
       {
-        "question": "Is the cable seemingly flexible or rigid?",
+        "question": "How many distinct connectors are present on the adapter?",
+        "answer": "Two"
+      },
+      {
+        "question": "Is the cable connecting the adapter to the laptop braided or solid?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the cable and adapter, what is their apparent overall flexibility?",
         "answer": "Flexible"
       },
       {
-        "question": "Does the adapter have any visible markings or labels?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the approximate size of the adapter relative to the laptop?",
+        "question": "What is the general size of the adapter in relation to the laptop?",
         "answer": "Small"
       },
       {
-        "question": "Considering the connectors, what is the adapter's primary function?",
+        "question": "Does the adapter appear to exhibit any visible markings beyond connectors?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its appearance, what is the adapter's likely function?",
         "answer": "Conversion"
       },
       {
-        "question": "Considering the materials, does the adapter feel potentially fragile?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the visible condition of the adapter and cable?",
+        "question": "Describe the visual condition of the adapter and cable.",
         "answer": "New"
       },
       {
-        "question": "Based on the image, is the adapter a single-piece unit or multiple components?",
-        "answer": "Single"
+        "question": "What is the apparent color of the cable connecting the adapter?",
+        "answer": "White"
       }
     ]
   }

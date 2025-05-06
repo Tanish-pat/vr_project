@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant visual characteristic of the phone case's design?",
+        "question": "What is the dominant design style depicted on the phone case?",
         "answer": "Abstract"
       },
       {
-        "question": "What color scheme predominantly features on the phone case?",
+        "question": "What is the overall color scheme of the phone case design?",
         "answer": "Rainbow"
       },
       {
-        "question": "What is the general shape of the depicted design elements?",
+        "question": "What shapes are primarily featured in the case's artwork?",
+        "answer": "Circles"
+      },
+      {
+        "question": "What appears to be the primary artistic medium used for the design?",
+        "answer": "Crayon"
+      },
+      {
+        "question": "Describing the lines, are they straight or curved predominantly?",
         "answer": "Curved"
       },
       {
-        "question": "What artistic style is most reminiscent of the phone case's pattern?",
-        "answer": "Psychedelic"
+        "question": "What kind of effect is created by the overlapping concentric circles?",
+        "answer": "3D"
       },
       {
-        "question": "What type of lines are mainly used to create the phone case's design?",
-        "answer": "Striped"
+        "question": "Considering the color saturation, is it vivid or muted?",
+        "answer": "Vivid"
       },
       {
-        "question": "What shapes are interspersed among the main design elements?",
-        "answer": "Circular"
-      },
-      {
-        "question": "What is the apparent texture of the illustrated design on the phone case?",
+        "question": "What is the apparent texture of the phone case's printed surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What appears to be the main visual medium used in the phone case art?",
-        "answer": "Markers"
+        "question": "What is the form factor of the phone case?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What is the primary color appearing in the largest area of the case?",
-        "answer": "Orange"
-      },
-      {
-        "question": "Describe the overall visual effect of the case's color combination?",
-        "answer": "Vibrant"
-      },
-      {
-        "question": "What kind of background is apparent in the design of the phone case?",
-        "answer": "Dark"
-      },
-      {
-        "question": "What level of detail is observable in the rendering of the phone case art?",
-        "answer": "High"
-      },
-      {
-        "question": "What is the apparent style of the artistic lines in the design?",
-        "answer": "Bold"
-      },
-      {
-        "question": "What material does the phone case appear to be made of, based on its image?",
+        "question": "What is the material that appears to be used for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "Considering the image, what is the primary form of the product shown?",
-        "answer": "Rectangular"
+        "question": "Are there any noticeable patterns in the case's illustration?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the illustration, is it geometric or freeform?",
+        "answer": "Freeform"
+      },
+      {
+        "question": "Regarding the colors, are they pastel or highly saturated?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Describe the apparent finish of the phone case\u2019s surface",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the orientation of the main design element?",
+        "answer": "Vertical"
       }
     ]
   }

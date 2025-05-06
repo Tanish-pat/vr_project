@@ -5,7 +5,7 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the framed image?",
+        "question": "What is the predominant color scheme of the framed image?",
         "answer": "Monochrome"
       },
       {
@@ -13,56 +13,56 @@
         "answer": "Patent"
       },
       {
-        "question": "What specific machine is illustrated in the patent drawing?",
+        "question": "What is the primary subject matter of the displayed patent?",
         "answer": "Typewriter"
       },
       {
-        "question": "What is the overall shape of the framed artwork?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What material appears to constitute the frame's border?",
+        "question": "What material appears to constitute the outer frame?",
         "answer": "Wood"
       },
       {
-        "question": "What color is the frame surrounding the print?",
+        "question": "Describe the color of the frame surrounding the print.",
         "answer": "Black"
       },
       {
-        "question": "What is the apparent texture of the outer frame?",
+        "question": "What is the overall shape of the presented artwork?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the image within the frame?",
         "answer": "Smooth"
+      },
+      {
+        "question": "Does the image include any textual details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there a noticeable border between the print and the frame?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the frame's surface?",
+        "answer": "Matte"
       },
       {
         "question": "What is the style of the typeface used in the patent drawing?",
         "answer": "Serif"
       },
       {
-        "question": "What color is the background of the patent drawing itself?",
+        "question": "Describe the paper or background of the patent image.",
         "answer": "Off-white"
       },
       {
-        "question": "What is the general visual style of the patent illustration?",
+        "question": "What mechanical components are clearly shown on the typewriter?",
+        "answer": "Rollers"
+      },
+      {
+        "question": "Are there any visible signatures or markings on the patent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the overall visual style of the patent drawing.",
         "answer": "Technical"
-      },
-      {
-        "question": "Describe the apparent texture of the paper depicted in the print.",
-        "answer": "Matte"
-      },
-      {
-        "question": "What kind of lines are predominantly used in the technical drawing?",
-        "answer": "Straight"
-      },
-      {
-        "question": "What is the visible condition of the paper depicted in the print?",
-        "answer": "Clean"
-      },
-      {
-        "question": "Does the image appear to have any noticeable watermarks?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the overall presentation of the framed image?",
-        "answer": "Formal"
       }
     ]
   }

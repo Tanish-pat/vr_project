@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a7/a74f38bd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visibly present on the majority of the blanket's surface?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Describe the overall shape of the displayed textile product.",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the apparent texture of the outer visible fabric layer of the blanket?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "What secondary color is noticeably present on a portion of the blanket, revealed by the fold?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What specific type of stitch is visible along the outermost perimeter of the blanket?",
+        "answer": "Stitch"
+      },
+      {
+        "question": "Considering the image, what is the apparent material of this product based on visual inspection?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "Based on its visual appearance, does this item appear thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the blanket show any patterns or prints beyond its solid colors?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the edges, what can you infer about the blanket's construction?",
+        "answer": "Hemmed"
+      },
+      {
+        "question": "From the image, what is the apparent softness of this item's texture?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the overall style of this blanket, based on its visible design elements?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging from the visual attributes, is the product plush or coarse to the touch?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Considering the visible materials, does this blanket appear warm or light?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Is there any visible embellishment or embroidery present on the blanket?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual finish along the edge of the folded section of the blanket.",
+        "answer": "Neat"
+      }
+    ]
+  }
+]

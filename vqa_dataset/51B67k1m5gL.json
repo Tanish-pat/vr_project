@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3d7981a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted battery?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What dominant color characterizes the battery's exterior?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the prominent branding visible on the battery's side?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What type of battery is shown in the provided image?",
+        "answer": "AA"
+      },
+      {
+        "question": "What material appears to constitute the battery's casing?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the visible marking indicating the battery's positive terminal?",
+        "answer": "Plus"
+      },
+      {
+        "question": "What is the visible marking indicating the battery's negative terminal?",
+        "answer": "Minus"
+      },
+      {
+        "question": "What is the texture of the battery's outer surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is written below the 'Amazonbasics' branding on the battery?",
+        "answer": "Industrial"
+      },
+      {
+        "question": "What is the second word after 'Industrial' on the battery?",
+        "answer": "Alkaline"
+      },
+      {
+        "question": "What kind of text is used on the battery's labeling?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall style of the product's labeling?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the image, how many batteries are depicted?",
+        "answer": "One"
+      },
+      {
+        "question": "Is there any noticeable damage or significant wear visible on the battery?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what appears to be the size of the battery?",
+        "answer": "Standard"
+      }
+    ]
+  }
+]

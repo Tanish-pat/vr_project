@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the sunscreen bottle?",
+        "question": "What is the predominant color of the sunscreen bottle shown in the image?",
         "answer": "Blue"
       },
       {
-        "question": "What is the overall shape of the sunscreen container?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What material appears to constitute the sunscreen bottle?",
+        "question": "What is the primary material that appears to constitute the sunscreen bottle?",
         "answer": "Plastic"
       },
       {
-        "question": "What kind of grip or texture is present on the bottle's side?",
-        "answer": "Ribbed"
+        "question": "Considering the bottle's form, what is its most descriptive shape?",
+        "answer": "Curved"
       },
       {
-        "question": "Describing the cap's design, what is its form factor?",
-        "answer": "Flip-top"
+        "question": "What design feature is visible on the back of the sunscreen bottle to aid grip?",
+        "answer": "Indents"
       },
       {
-        "question": "What kind of information is printed on the rear of the bottle?",
+        "question": "What type of packaging is used for the sunscreen product shown?",
+        "answer": "Squeeze"
+      },
+      {
+        "question": "Based on the image, what is the general texture of the sunscreen bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the plastic utilized for the bottle shown?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Excluding the label, what other prominent marking is on the bottle's base?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Describe the overall visual style of the product's packaging in one word.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What type of cap does the sunscreen bottle in the image seem to possess?",
+        "answer": "Flip"
+      },
+      {
+        "question": "What is visible at the bottom of the bottle's packaging?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What kind of information is predominantly displayed on the bottle's back?",
         "answer": "Text"
       },
       {
-        "question": "What is the apparent finish of the sunscreen bottle's surface?",
-        "answer": "Glossy"
+        "question": "Considering the image, what is the likely format of the sunscreen inside?",
+        "answer": "Cream"
       },
       {
-        "question": "Considering the bottle's structure, is it squeezable?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the visible shape of the bottle's base?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What kind of label is present on the product container?",
-        "answer": "Instructional"
-      },
-      {
-        "question": "What is the type of packaging for the sunscreen product?",
-        "answer": "Bottle"
-      },
-      {
-        "question": "What is the general condition of the bottle as shown?",
-        "answer": "New"
-      },
-      {
-        "question": "What is the implied purpose of the product displayed?",
+        "question": "What kind of product is depicted within the image provided?",
         "answer": "Sunscreen"
       },
       {
-        "question": "Observing the bottle's design, is it ergonomically shaped?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Considering the printing on the back, is it easily readable?",
-        "answer": "Yes"
+        "question": "What is the visible condition of the sunscreen container in the image?",
+        "answer": "New"
       }
     ]
   }

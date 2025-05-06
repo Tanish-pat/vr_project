@@ -9,60 +9,60 @@
         "answer": "Bronze"
       },
       {
-        "question": "What is the overall shape of the ceiling light fixture?",
-        "answer": "Rectangular"
+        "question": "What geometric shape best describes the overall form of the fixture?",
+        "answer": "Square"
       },
       {
-        "question": "What material appears to compose the visible outer frame?",
-        "answer": "Metal"
+        "question": "What material appears to constitute the panes within the fixture's frame?",
+        "answer": "Glass"
       },
       {
-        "question": "What kind of glass is used for the visible panes in the fixture?",
-        "answer": "Clear"
-      },
-      {
-        "question": "Describe the visible style of the incandescent light bulbs used?",
-        "answer": "Edison"
-      },
-      {
-        "question": "What is the apparent finish of the metal framework?",
-        "answer": "Matte"
-      },
-      {
-        "question": "How many visible light bulb sockets are present in the fixture?",
-        "answer": "Two"
-      },
-      {
-        "question": "What is the apparent style of the fixture's geometric design?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What is the texture of the visible metal framing?",
+        "question": "Describe the apparent texture of the outer metal frame of the light?",
         "answer": "Smooth"
       },
       {
-        "question": "What best describes the visual transparency of the glass panels?",
-        "answer": "Translucent"
+        "question": "What is the style of the visible lightbulb inside the fixture?",
+        "answer": "Edison"
       },
       {
-        "question": "Considering the design, what is the fixture's likely installation location?",
+        "question": "How many visible lightbulbs are accommodated within the fixture?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the most apparent finish of the metal components?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the frame design, what architectural style is evoked?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What kind of visible layering or depth is present in the fixture's design?",
+        "answer": "Double"
+      },
+      {
+        "question": "Describe the visual transparency of the inner glass panes?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the general shape of the glass panes within the metal frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of the visible lightbulb?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the mounting, what type of light is this primarily?",
+        "answer": "Flush"
+      },
+      {
+        "question": "What is the dominant color of the light emanating from the bulb?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What appears to be the mounting method for this light fixture?",
         "answer": "Ceiling"
-      },
-      {
-        "question": "Describe the internal structure supporting the light bulbs?",
-        "answer": "Metal"
-      },
-      {
-        "question": "Considering the number of lights, what is the fixture's likely light output?",
-        "answer": "Bright"
-      },
-      {
-        "question": "What appears to be the general lighting style of this fixture?",
-        "answer": "Ambient"
-      },
-      {
-        "question": "What is the shape of the individual light bulb glass coverings?",
-        "answer": "Round"
       }
     ]
   }

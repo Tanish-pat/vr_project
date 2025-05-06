@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ed/ed40d3f0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case's background?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the main design element repeated across the phone case?",
+        "answer": "Ballerinas"
+      },
+      {
+        "question": "What color are the ballerina figures depicted on the case?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What appears to be the material of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall pattern style of the ballerina design?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "What is the shape of the phone case itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the phone case surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the design, what is the case's likely target audience?",
+        "answer": "Girls"
+      },
+      {
+        "question": "What is the style of the ballerina illustration on the case?",
+        "answer": "Cartoonish"
+      },
+      {
+        "question": "Does the phone case show any noticeable camera cutouts?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, is the case flexible or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What color are the accents on the ballerina's attire?",
+        "answer": "White"
+      },
+      {
+        "question": "How many sides of the phone case are shown in the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the design pattern's density, sparse or dense?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Are there any visible logos or brand markings on the case?",
+        "answer": "No"
+      }
+    ]
+  }
+]
