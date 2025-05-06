@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the upholstery fabric on the armchair and ottoman?",
+        "question": "What is the dominant color of the chair and ottoman?",
         "answer": "Beige"
       },
       {
-        "question": "What is the overall shape of the armchair, considering its back and arms?",
+        "question": "What appears to be the primary fabric type used in the upholstery?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describe the overall shape of the chair's back and arms?",
         "answer": "Rounded"
       },
       {
-        "question": "What appears to be the primary material of the armchair and ottoman?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Describe the visible texture of the upholstery fabric, apparent from the image?",
-        "answer": "Textured"
-      },
-      {
-        "question": "Considering the armrests and backrest, what is the style of the armchair?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "What is the shape of the included ottoman, as shown adjacent to the chair?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What decorative element is visible on the chair's back?",
-        "answer": "Buttons"
-      },
-      {
-        "question": "What is the apparent placement of the decorative buttons on the chair's back?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "What is the general visual impression of the chair's cushioning?",
-        "answer": "Plump"
-      },
-      {
-        "question": "What single-word adjective would describe the overall style of this furniture?",
-        "answer": "Relaxed"
-      },
-      {
-        "question": "Disregarding the ottoman, what is the general silhouette of the armchair?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What is the style of the legs supporting the armchair?",
+        "question": "What style of legs does the chair possess?",
         "answer": "Tapered"
       },
       {
-        "question": "Based on the image, what is the visible color of the throw pillow on the armchair?",
-        "answer": "Off-white"
+        "question": "How would you characterize the texture of the upholstery fabric?",
+        "answer": "Textured"
       },
       {
-        "question": "What is the apparent number of legs supporting the ottoman?",
-        "answer": "Four"
+        "question": "What design element is visible on the chair's back?",
+        "answer": "Tufted"
       },
       {
-        "question": "Judging by the image, what could describe the overall aesthetic of the set?",
+        "question": "What is the shape of the included ottoman?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the ottoman share the same upholstery as the chair?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general style of the chair?",
         "answer": "Casual"
+      },
+      {
+        "question": "Considering the construction, what is the apparent seating capacity?",
+        "answer": "One"
+      },
+      {
+        "question": "What type of visible seams are evident on the chair and ottoman?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What element is placed on top of the chair for decor?",
+        "answer": "Pillow"
+      },
+      {
+        "question": "Considering the color palette, how would you classify the overall aesthetic?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based on the visible features, for what purpose is this furniture intended?",
+        "answer": "Seating"
+      },
+      {
+        "question": "What is the most noticeable feature of the armrest design?",
+        "answer": "Rolled"
       }
     ]
   }

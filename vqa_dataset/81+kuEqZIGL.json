@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case's design?",
+        "question": "What is the predominant color scheme of the depicted phone case?",
         "answer": "Gray"
       },
       {
-        "question": "What geometric shape is repeatedly featured in the case's pattern?",
+        "question": "What geometric shapes primarily constitute the case's design?",
         "answer": "Triangles"
       },
       {
-        "question": "What material is visually suggested by the phone case's print?",
+        "question": "What material is visually suggested by the case's printed pattern?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the overall visual texture implied by the case's design?",
+        "question": "Describe the overall texture implied by the case's design pattern.",
         "answer": "Rough"
       },
       {
-        "question": "What is the primary color of the phone case's border?",
-        "answer": "White"
-      },
-      {
-        "question": "What brand's logo is visible through the case's cutout?",
-        "answer": "Apple"
-      },
-      {
-        "question": "Considering the design, what style best describes the case's aesthetic?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "What is the apparent finish of the depicted phone case?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Does the image suggest a glossy or non-glossy surface texture?",
-        "answer": "Matte"
-      },
-      {
-        "question": "Based on the visual appearance, what is the case's form factor?",
+        "question": "What is the general shape of the object shown in the image?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the general tone or feeling conveyed by the design?",
-        "answer": "Neutral"
+        "question": "What appears to be the primary function of the item shown?",
+        "answer": "Protection"
       },
       {
-        "question": "Describe the arrangement of the geometric shapes in the design.",
-        "answer": "Random"
+        "question": "What brand's logo is subtly visible on the phone case?",
+        "answer": "Apple"
       },
       {
-        "question": "Considering the pattern, what design principle is prominent?",
-        "answer": "Repetition"
+        "question": "Considering the print, how would you describe the case's visual style?",
+        "answer": "Abstract"
       },
       {
-        "question": "What type of image is prominently used in the phone case design?",
-        "answer": "Geometric"
+        "question": "What kind of surface finish does the case seem to possess, based on its appearance?",
+        "answer": "Matte"
       },
       {
-        "question": "What is the visible color of the Apple logo seen through the case?",
-        "answer": "Black"
+        "question": "Considering the image, what seems to be the material of the phone case itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Is the design pattern on the case regularly or irregularly arranged?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the apparent level of detail in the case's printed design?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the phone case exhibit a glossy or non-glossy appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How many main colors are used in the design of the phone case?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the visual tone of the case's design pattern?",
+        "answer": "Monochromatic"
       }
     ]
   }

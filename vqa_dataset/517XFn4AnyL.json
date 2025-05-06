@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the text detailing the ingredients?",
+        "question": "What is the dominant color of the text describing the product's ingredients?",
         "answer": "Black"
       },
       {
-        "question": "What is the background color of the ingredient list?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the overall shape of the ingredient list section?",
+        "question": "What is the overall shape of the text block?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the font style used for the 'INGREDIENTS' heading?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "What is the type of text formatting used for listing the ingredients?",
-        "answer": "List"
-      },
-      {
-        "question": "Considering the font size variation, what is the visual hierarchy of text elements?",
-        "answer": "Hierarchical"
-      },
-      {
-        "question": "What is the case of the letters in the word 'INGREDIENTS'?",
-        "answer": "Uppercase"
-      },
-      {
-        "question": "What is the overall texture of the ingredient list's background?",
+        "question": "What is the apparent texture of the background where the text is printed?",
         "answer": "Smooth"
       },
       {
-        "question": "Excluding the heading, what is the approximate number of lines in the ingredient list?",
-        "answer": "Fifteen"
+        "question": "What is the style of the text font?",
+        "answer": "Sans-serif"
       },
       {
-        "question": "What is the visual appearance of the ingredient separators (if present)?",
-        "answer": "None"
+        "question": "Considering the size and arrangement, what is the apparent purpose of the text?",
+        "answer": "Informative"
       },
       {
-        "question": "Is there any visible branding or logo on the ingredient label?",
+        "question": "What is the case of the lettering used for 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the type of list used to present ingredient components?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Based on the visual appearance, what is the likely printing method?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Does the text block contain any graphical elements besides text?",
         "answer": "No"
       },
       {
-        "question": "Considering the text density, would you describe the reading experience as compact or spacious?",
-        "answer": "Compact"
+        "question": "What is the most noticeable characteristic of the text's visual presentation?",
+        "answer": "Clarity"
       },
       {
-        "question": "What is the alignment of the text in the ingredient list?",
-        "answer": "Left"
+        "question": "Considering the typeface, does the text appear bold or thin?",
+        "answer": "Normal"
       },
       {
-        "question": "Are there any special characters or symbols used besides commas and parentheses?",
+        "question": "Is the information contained within the box organized in columns?",
         "answer": "No"
       },
       {
-        "question": "Based on the visual density, would you characterize the text as easy or difficult to read?",
-        "answer": "Easy"
+        "question": "Describe the spacing between individual lines of text.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the text show any obvious variations in font size or style?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the color of the text denoting 'CONTAINS'?",
+        "answer": "Black"
       }
     ]
   }

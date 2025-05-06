@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the visible upper portion of the footwear?",
+        "question": "What is the predominant color of the visible upper portion of the boots?",
         "answer": "Brown"
       },
       {
-        "question": "What material appears to constitute the majority of the boot's upper?",
+        "question": "What material appears to compose the main body of the boots?",
         "answer": "Leather"
       },
       {
-        "question": "Describe the overall shape or silhouette of each individual boot.",
+        "question": "Describe the overall shape or silhouette of the footwear shown.",
         "answer": "High-top"
       },
       {
-        "question": "What color is the visible outsole or sole of the footwear?",
+        "question": "What color is the visible sole or platform of the boots?",
         "answer": "White"
       },
       {
-        "question": "What type of closure mechanism is utilized on the boots?",
+        "question": "What type of closure system is used on these boots?",
         "answer": "Lace-up"
       },
       {
-        "question": "What is the apparent texture of the upper material?",
+        "question": "What color is the visible portion of the laces?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the texture of the upper material of the boots, as apparent in the image.",
         "answer": "Smooth"
       },
       {
-        "question": "What color is the secondary material visible at the boot's collar?",
+        "question": "What color is the contrasting fabric panel near the ankle of the boot?",
         "answer": "Black"
       },
       {
-        "question": "What is the approximate height of the boot from sole to top?",
-        "answer": "Mid-calf"
-      },
-      {
-        "question": "Describe the style of the toe on each boot.",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What seems to be the material of the midsole?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "Is the lacing system primarily composed of leather or synthetic material?",
-        "answer": "Synthetic"
-      },
-      {
-        "question": "What is the overall design aesthetic of the footwear?",
+        "question": "Considering the style, what is the most likely intended use of these boots?",
         "answer": "Casual"
       },
       {
-        "question": "Judging from the image, are the boots designed for formal or informal wear?",
-        "answer": "Informal"
+        "question": "What is the apparent material of the visible portion of the tongue?",
+        "answer": "Fabric"
       },
       {
-        "question": "Does the boot's sole appear to have a defined tread pattern?",
-        "answer": "No"
+        "question": "Describe the apparent height of the boot's sole, relative to the upper.",
+        "answer": "Flat"
       },
       {
-        "question": "Considering the visual details, are these boots suitable for hiking or urban settings?",
-        "answer": "Urban"
+        "question": "Are there any visible decorative elements or branding details on the boots?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Describe the toe shape of the boots presented in the image.",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the visible style of the ankle collar?",
+        "answer": "Padded"
+      },
+      {
+        "question": "What is the overall construction of the boots based on the image?",
+        "answer": "Stitched"
       }
     ]
   }

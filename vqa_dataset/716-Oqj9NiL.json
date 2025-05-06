@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/151a1274.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent image, what citrus fruit is featured on the packaging?",
+        "answer": "Grapefruit"
+      },
+      {
+        "question": "What is the main descriptive word for this beverage, as showcased in large font?",
+        "answer": "Sparkling"
+      },
+      {
+        "question": "Based on the visual elements, what type of beverage is this product?",
+        "answer": "Water"
+      },
+      {
+        "question": "What color is the prominent logo circle on the packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What word describes the overall sensation or experience this drink provides?",
+        "answer": "Refreshing"
+      },
+      {
+        "question": "Observing the text, what is the brand name of this beverage?",
+        "answer": "Happy"
+      },
+      {
+        "question": "In the image, what secondary color is used in the text highlighting?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Referring to the packaging, what is the numerical value on the grapefruit image?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "What is the word appearing next to \"Belly\" in the brand logo?",
+        "answer": "Happy"
+      },
+      {
+        "question": "Examining the image, what is the dominant color of the featured fruit?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Looking at the text on the packaging, what word describes the absence of sugar?",
+        "answer": "Sweetener"
+      },
+      {
+        "question": "What is the additional description of the water, shown in smaller text?",
+        "answer": "Free"
+      },
+      {
+        "question": "Based on the image alone, what is the shape of the highlighted grapefruit slice?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the general shape of the brand logo on the package?",
+        "answer": "Circular"
+      },
+      {
+        "question": "From the image, what is the term used to describe the absence of calories?",
+        "answer": "Free"
+      }
+    ]
+  }
+]

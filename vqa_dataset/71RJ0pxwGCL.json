@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the phone case design?",
+        "question": "What is the predominant color scheme of the depicted phone case?",
         "answer": "Black"
       },
       {
-        "question": "What animal is depicted in the stylized design on the phone case?",
+        "question": "What animal's stylized face is centrally featured on the phone case?",
         "answer": "Tiger"
       },
       {
-        "question": "What is the overall style of the tiger design on the phone case?",
-        "answer": "Ornate"
+        "question": "Describe the artistic style used to portray the animal on the phone case?",
+        "answer": "Floral"
       },
       {
-        "question": "What colors compose the artistic representation of the tiger?",
+        "question": "What color is the primary design element of the tiger's face on the case?",
         "answer": "White"
       },
       {
-        "question": "Describe the texture implied by the design on the phone case?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What design element surrounds the tiger's features?",
-        "answer": "Floral"
-      },
-      {
-        "question": "What is the primary shape of the case itself?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What material appears to be used for the phone case?",
+        "question": "What appears to be the material composition of the phone case itself?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the dominant visual feature on the phone case's surface?",
-        "answer": "Tiger"
+        "question": "Considering the visual texture, how would you describe the phone case's surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "Does the case design show a realistic depiction of the animal?",
-        "answer": "No"
+        "question": "What is the overall shape of the phone case design, ignoring the graphic?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What kind of patterns are used in the tiger's artistic rendering?",
-        "answer": "Floral"
-      },
-      {
-        "question": "How would you characterize the complexity of the artwork on the case?",
+        "question": "What is the apparent level of detail in the design of the tiger's face?",
         "answer": "Intricate"
       },
       {
-        "question": "Is the phone case design symmetrical around a central axis?",
-        "answer": "Yes"
+        "question": "What type of image is used to enhance the visual appeal of the phone case?",
+        "answer": "Graphic"
       },
       {
-        "question": "What is the overall tone or feeling evoked by the phone case design?",
-        "answer": "Elegant"
+        "question": "Describe the visual pattern incorporated into the tiger's facial features?",
+        "answer": "Ornamental"
       },
       {
-        "question": "What is the apparent finish of the phone case surface?",
+        "question": "What is the primary form of the graphic design that dominates the phone case?",
+        "answer": "Animal"
+      },
+      {
+        "question": "Judging by its visual appearance, what is the likely finish of the phone case?",
         "answer": "Matte"
+      },
+      {
+        "question": "Does the phone case depict a realistic or stylized representation of the animal?",
+        "answer": "Stylized"
+      },
+      {
+        "question": "What is the most noticeable aspect of the design of the phone case?",
+        "answer": "Tiger"
+      },
+      {
+        "question": "Based solely on visual evidence, what seems to be the phone case's primary function?",
+        "answer": "Protection"
       }
     ]
   }

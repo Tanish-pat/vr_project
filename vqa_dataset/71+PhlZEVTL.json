@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1ce683e1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the blanket displayed in the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material of the blanket?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "Based on the visual details, what is the overall shape of the folded blanket?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, what type of stitching pattern is visibly present on the blanket?",
+        "answer": "Quilted"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the blanket's outer fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the visible fill of the blanket's quilted sections?",
+        "answer": "Down"
+      },
+      {
+        "question": "According to the image, how many distinct layers are visibly apparent in the blanket?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based solely on the image's visual characteristics, what is the approximate size of the blanket?",
+        "answer": "Large"
+      },
+      {
+        "question": "Describe the apparent level of sheen or glossiness of the blanket's fabric according to what is displayed in the image.",
+        "answer": "Slight"
+      },
+      {
+        "question": "Does the blanket in the picture appear to be machine washable based on its visual appearance alone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, what seems to be the blanket's primary intended use?",
+        "answer": "Warmth"
+      },
+      {
+        "question": "What is the apparent thickness or loft of the blanket as shown in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image show any noticeable wrinkles or creases in the folded blanket?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the image, is the blanket's color uniform or does it have variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by the image, are there any visible patterns or logos on the blanket?",
+        "answer": "No"
+      }
+    ]
+  }
+]

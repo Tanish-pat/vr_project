@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the upholstered armchair?",
+        "question": "What is the predominant color of the armchair's upholstery?",
         "answer": "Gray"
       },
       {
-        "question": "What appears to be the primary material of the chair's upholstery?",
+        "question": "What appears to be the primary material of the armchair's construction?",
         "answer": "Fabric"
       },
       {
-        "question": "Describe the overall shape of the armchair's frame?",
-        "answer": "Rectangular"
+        "question": "Describe the overall shape of the end table adjacent to the chair.",
+        "answer": "Cubic"
       },
       {
-        "question": "What kind of legs does the armchair possess?",
-        "answer": "Square"
+        "question": "What design element is prominently featured on the end table's sides?",
+        "answer": "X-frame"
+      },
+      {
+        "question": "What color is the wood used in the construction of the end table?",
+        "answer": "Beige"
       },
       {
         "question": "What is the apparent texture of the armchair's upholstery?",
         "answer": "Smooth"
       },
       {
-        "question": "What design element is noticeable on the side of the end table?",
-        "answer": "X-frame"
+        "question": "Considering the armchair's armrests, what is their style?",
+        "answer": "Straight"
       },
       {
-        "question": "What color is the end table?",
-        "answer": "Beige"
+        "question": "What type of legs support the armchair?",
+        "answer": "Square"
       },
       {
-        "question": "What material seems to constitute the end table?",
-        "answer": "Wood"
+        "question": "Describe the visible legs of the end table, are they thick or thin?",
+        "answer": "Thick"
       },
       {
-        "question": "Considering the end table, what geometric pattern is prominent?",
-        "answer": "Cross"
-      },
-      {
-        "question": "What is the general shape of the end table?",
-        "answer": "Cubical"
-      },
-      {
-        "question": "Describe the apparent texture of the end table's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What single item is placed on the end table?",
-        "answer": "Vase"
-      },
-      {
-        "question": "What color is the decorative pillow on the chair?",
+        "question": "What is the visible color of the pillow resting on the armchair?",
         "answer": "Off-white"
       },
       {
-        "question": "What kind of fabric seems to be used for the pillow?",
-        "answer": "Linen"
+        "question": "What seems to be the material of the pillow on the chair?",
+        "answer": "Fabric"
       },
       {
-        "question": "What is the general color of the rug underneath the chair?",
+        "question": "Considering the rug, what is its general color scheme?",
         "answer": "Green"
+      },
+      {
+        "question": "What design pattern is noticeable on the rug under the chair?",
+        "answer": "Wave"
+      },
+      {
+        "question": "What is the style of the back cushions on the armchair?",
+        "answer": "Square"
+      },
+      {
+        "question": "Judging by the image, what is the apparent style of the armchair?",
+        "answer": "Modern"
       }
     ]
   }

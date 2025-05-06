@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual design, what is the dominant style of this shoe?",
-        "answer": "Formal"
-      },
-      {
-        "question": "What is the primary color of the leather upper, as visually observed?",
-        "answer": "Tan"
-      },
-      {
-        "question": "Based on its appearance, what material is the shoe's outer construction primarily made of?",
-        "answer": "Leather"
-      },
-      {
-        "question": "What is the most prominent type of closure mechanism evident on the shoe?",
+        "question": "Considering the overall design, what is the predominant style of this leather shoe?",
         "answer": "Slip-on"
       },
       {
-        "question": "Observing the sole, what color is the shoe's outsole predominantly?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the apparent texture of the leather upper, judging by its visual appearance?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Describe the general shape of the shoe's toe box, observing the image carefully.",
-        "answer": "Rounded"
-      },
-      {
-        "question": "Analyzing the shoe's structure, how many visible seams or stitching lines are present on the upper?",
-        "answer": "Multiple"
-      },
-      {
-        "question": "What specific design element is clearly visible on the side of the shoe's vamp?",
-        "answer": "Stitching"
-      },
-      {
-        "question": "Judging from the image, what is the approximate height of the shoe's heel?",
-        "answer": "Low"
-      },
-      {
-        "question": "What seemingly is the material of the shoe's insole, observed near the heel?",
+        "question": "Examining the material closely, what is the shoe primarily constructed from?",
         "answer": "Leather"
       },
       {
-        "question": "What brand marking, if any, is visible on the shoe's exterior?",
-        "answer": "Logo"
+        "question": "Focusing on the color, what shade best describes the shoe's appearance?",
+        "answer": "Tan"
       },
       {
-        "question": "Does the shoe seem to have any noticeable perforations, vents, or decorative cutouts?",
-        "answer": "No"
+        "question": "Based on the visible stitching and seams, what is the quality of the craftsmanship?",
+        "answer": "Fine"
       },
       {
-        "question": "What is the overall visual impression regarding the shoe's apparent comfort?",
-        "answer": "Comfortable"
+        "question": "Observing the sole, what material appears to be used for its construction?",
+        "answer": "Rubber"
       },
       {
-        "question": "Does the shoe display any noticeable embellishments beyond the stitching and branding?",
-        "answer": "No"
+        "question": "Analyzing the shape of the toe, what style best fits its profile?",
+        "answer": "Pointed"
+      },
+      {
+        "question": "Considering the heel's height, would it be considered high or low?",
+        "answer": "Low"
+      },
+      {
+        "question": "What subtle design feature, visible along the top of the shoe, adds an element of visual interest?",
+        "answer": "Seam"
+      },
+      {
+        "question": "What is the apparent texture of the leather across the upper of the shoe?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Noticing the sole's interaction with the ground, is there any visible tread pattern?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the overall aesthetic, would this shoe be considered formal or informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Focusing on the brand marking, can you identify a visible logo or branding element?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Assessing the shoe's appearance, is the shine matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What element on the inner side, usually near the heel, shows the size or some information?",
+        "answer": "Label"
+      },
+      {
+        "question": "Examining the shoe's construction, how many distinct pieces of leather appear visible?",
+        "answer": "Two"
       }
     ]
   }

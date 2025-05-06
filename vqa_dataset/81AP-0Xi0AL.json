@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the primary color scheme, what is the dominant hue of the shoe's upper?",
+        "question": "Considering the prominent visual elements, what is the dominant color of this athletic footwear, as clearly shown in the image?",
         "answer": "Black"
       },
       {
-        "question": "Describe the texture of the primary material used for the shoe's upper section?",
+        "question": "Based on the image, what secondary color is prominently featured on the shoe's interior lining and laces?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "From a purely visual inspection, what appears to be the primary material used in the construction of the shoe's upper?",
         "answer": "Mesh"
       },
       {
-        "question": "What color are the laces that secure the shoe's closure system?",
-        "answer": "Yellow"
+        "question": "Judging solely from the image provided, what is the overall shape of the sole of this particular athletic shoe?",
+        "answer": "Curved"
       },
       {
-        "question": "What is the predominant color of the shoe's midsole, providing cushioning and support?",
+        "question": "By visually analyzing the image, what type of closure mechanism is used to secure the shoe onto the foot?",
+        "answer": "Lace"
+      },
+      {
+        "question": "What is the apparent texture of the primary material covering the shoe's upper, based on visual analysis of the image?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Observing the image closely, what color is the midsole of the shoe, which sits between the outsole and upper?",
         "answer": "White"
       },
       {
-        "question": "What is the overall shape or silhouette of the athletic footwear?",
+        "question": "In terms of style, what category of footwear does the image most accurately represent, based purely on its appearance?",
         "answer": "Sneaker"
       },
       {
-        "question": "What type of sole is evident on the bottom of the sports shoe, providing traction?",
+        "question": "Focusing solely on the image, what is the visible design pattern on the upper part of the athletic shoe?",
+        "answer": "Grid"
+      },
+      {
+        "question": "According to the image, what seems to be the construction of the shoe's outsole, in terms of material?",
         "answer": "Rubber"
       },
       {
-        "question": "What is the apparent material of the insole offering comfort and support to the foot?",
-        "answer": "Fabric"
+        "question": "Based on the image, what is the approximate height of the shoe's sole, from the ground to the upper?",
+        "answer": "High"
       },
       {
-        "question": "Considering the back of the shoe, what color is the heel panel?",
-        "answer": "Yellow"
+        "question": "From the image, how would you describe the overall design aesthetic of the shoe, in one word?",
+        "answer": "Sporty"
       },
       {
-        "question": "What is the design pattern visible on the main body of the shoe, near the laces?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What is the style of the shoe's lacing system, for adjusting the fit?",
-        "answer": "Lace-up"
-      },
-      {
-        "question": "Describe the construction of the shoe's toe cap, considering its shape and material?",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What is the style of the shoe's collar at the ankle for comfort and support?",
-        "answer": "Low-top"
-      },
-      {
-        "question": "Observing the midsole, what can you describe about its height or profile?",
-        "answer": "Thick"
-      },
-      {
-        "question": "What appears to be the overall condition of the shoe, based on the image?",
+        "question": "What is the apparent condition of the shoe depicted in the image (assuming no post-processing)?",
         "answer": "New"
       },
       {
-        "question": "Observing the outsole, what is the pattern or design visible providing grip?",
-        "answer": "Textured"
+        "question": "By observing the image only, what is the style of the laces used in this particular shoe?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on the image's depiction, what is the overall silhouette of the footwear in question?",
+        "answer": "Low-top"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the primary shape of the product container depicted in the image?",
-        "answer": "Bottle"
-      },
-      {
-        "question": "What is the predominant color of the label affixed to the glass product container?",
+        "question": "What is the dominant color of the label encompassing the majority of the product's visible surface area?",
         "answer": "Beige"
       },
       {
-        "question": "Based on the visual details, what material seems to be the main component of the container itself?",
+        "question": "Considering the product's overall form, what geometric shape best describes its container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Observing the top of the bottle, what material is predominantly used for the closure?",
         "answer": "Glass"
       },
       {
-        "question": "What seems to be the type of closure or lid atop the container, judging from the image?",
-        "answer": "Cap"
+        "question": "What is the apparent primary material composing the body of the product's container?",
+        "answer": "Glass"
       },
       {
-        "question": "Considering the text on the label, what is the apparent brand or retailer associated with the product?",
-        "answer": "Wholefoods"
-      },
-      {
-        "question": "Observing the label, what kind of information is predominantly displayed there?",
-        "answer": "Nutrition"
-      },
-      {
-        "question": "Describing the label's visual design, what kind of layout does it primarily use?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "Looking at the container's overall form, what would you describe its general profile as?",
-        "answer": "Curved"
-      },
-      {
-        "question": "What kind of print or font style appears predominantly on the label of the item?",
-        "answer": "Sans-serif"
-      },
-      {
-        "question": "What appears to be the color of the cap or lid on top of the bottle?",
-        "answer": "White"
-      },
-      {
-        "question": "Judging solely by the image, what is the text size of the nutrition facts information?",
-        "answer": "Small"
-      },
-      {
-        "question": "What is the apparent texture of the label based on visual examination?",
+        "question": "Based on the visual texture, what is the descriptive characteristic of the bottle's surface?",
         "answer": "Smooth"
       },
       {
-        "question": "What seems to be the overall style of the label's graphic design, taking into account the colors and font?",
+        "question": "Focusing on the label's text, what is the predominant style of the typeface utilized?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text predominantly present on the label's surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the label prominently feature any visual graphic elements, and if so, what is their color?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the label, is there any prominent text indicating a specific brand name or retailer?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Is there any specific information indicated visually about the product's contents, such as a nutritional fact label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual impression of the label's design \u2013 minimalist, elaborate, etc.?",
         "answer": "Minimalist"
       },
       {
-        "question": "What is the relative opacity or transparency of the product container, as seen through the image?",
+        "question": "Does the product bottle exhibit any significant variations in its overall transparency or opacity?",
         "answer": "Transparent"
       },
       {
-        "question": "Does the product container display any particular patterns, lines, or markings on its surface?",
-        "answer": "None"
+        "question": "Based on the image's visual evidence, does the bottle include any unique or distinctive marking?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you discern whether the product\u2019s label indicates any certifications, symbols or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual style of the product packaging \u2013 modern, rustic, etc.?",
+        "answer": "Modern"
       }
     ]
   }

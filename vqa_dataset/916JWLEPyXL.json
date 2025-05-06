@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the visible luggage surface?",
+        "question": "What is the dominant color of the depicted luggage?",
         "answer": "Green"
       },
       {
-        "question": "What type of closure mechanism is prominently displayed on the luggage?",
+        "question": "What type of closure system is prominently displayed on the suitcase?",
         "answer": "Zipper"
       },
       {
-        "question": "What kind of lock is integrated into the luggage's design?",
+        "question": "What material appears to constitute the outer shell of this suitcase?",
+        "answer": "Polycarbonate"
+      },
+      {
+        "question": "What kind of lock mechanism is visible on the suitcase's exterior?",
         "answer": "Combination"
       },
       {
-        "question": "Describe the apparent texture of the luggage's outer shell.",
+        "question": "Describe the texture of the suitcase's exterior surface as shown in the image?",
         "answer": "Brushed"
       },
       {
-        "question": "What material appears to constitute the luggage's zipper pulls?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the color of the luggage's zipper and lock components?",
+        "question": "What color are the zipper pulls attached to the main zipper?",
         "answer": "Black"
       },
       {
-        "question": "What shape are the zipper pulls attached to the luggage's zipper?",
+        "question": "What is the shape of the suitcase as viewed in this close-up?",
         "answer": "Rectangular"
       },
       {
-        "question": "What seems to be the material of the luggage's main body?",
-        "answer": "Plastic"
+        "question": "What is the apparent material of the luggage's zipper?",
+        "answer": "Metal"
       },
       {
-        "question": "What is the apparent number of digits on the luggage's combination lock?",
-        "answer": "Three"
+        "question": "What appears to be the color of the TSA-approved lock?",
+        "answer": "Black"
       },
       {
-        "question": "What kind of branding is visible on the zipper pull tags?",
-        "answer": "Text"
+        "question": "What is the apparent material of the brand tag?",
+        "answer": "Metal"
       },
       {
-        "question": "What color are the small metal accents near the lock?",
+        "question": "What is the number shown on the combination lock?",
+        "answer": "000"
+      },
+      {
+        "question": "What is the shape of the combination lock?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish of the metal components?",
         "answer": "Silver"
       },
       {
-        "question": "What shape is the luggage's main body?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What appears to be the function of the small, rectangular components attached to the zipper?",
-        "answer": "Tags"
-      },
-      {
-        "question": "Describe the overall finish of the visible luggage surface.",
-        "answer": "Matte"
-      },
-      {
-        "question": "What design element is present on the lock mechanism?",
+        "question": "What design element is featured on the lock itself?",
         "answer": "Diamond"
+      },
+      {
+        "question": "What is the overall style of the suitcase?",
+        "answer": "Modern"
       }
     ]
   }

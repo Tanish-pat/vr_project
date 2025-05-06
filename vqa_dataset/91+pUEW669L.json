@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color pattern visually apparent on the basketball's surface?",
+        "question": "What is the predominant color scheme of the basketball's design?",
         "answer": "Blue"
       },
       {
-        "question": "What is the overall geometric form of the presented sports equipment?",
-        "answer": "Sphere"
-      },
-      {
-        "question": "What specific camouflage-like design is predominantly featured across the ball?",
-        "answer": "Abstract"
-      },
-      {
-        "question": "What color is the secondary, contrasting color on the basketball?",
-        "answer": "Black"
-      },
-      {
-        "question": "What appears to be the primary material used in the basketball's construction?",
-        "answer": "Rubber"
-      },
-      {
-        "question": "What number is prominently displayed within a circular emblem on the ball?",
-        "answer": "Seven"
-      },
-      {
-        "question": "What word is partially visible, seemingly branded, along the ball's lower edge?",
-        "answer": "SOLOS"
-      },
-      {
-        "question": "Describe the texture implied by the image's visual representation of the ball's surface.",
-        "answer": "Pebbled"
-      },
-      {
-        "question": "What is the apparent design style of the basketball's color scheme and patterning?",
+        "question": "What pattern is prominently featured across the basketball's surface?",
         "answer": "Camouflage"
       },
       {
-        "question": "What seems to be the overall condition of the presented basketball, based on its visuals?",
+        "question": "What is the primary material seemingly used for this basketball's construction?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the overall shape of the product depicted in the image?",
+        "answer": "Sphere"
+      },
+      {
+        "question": "What color is the visible text on the basketball's surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "What number is prominently displayed within a circle on the basketball?",
+        "answer": "Seven"
+      },
+      {
+        "question": "Describe the texture of the basketball's visible surface areas.",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "What is the apparent size of the basketball relative to other basketballs?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What is the visual appearance of the seams that separate the panels?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the basketball display any additional branding or logos aside from the number?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general style or aesthetic of this basketball design?",
+        "answer": "Sporty"
+      },
+      {
+        "question": "What secondary color is used in the basketball's pattern alongside the main color?",
+        "answer": "Black"
+      },
+      {
+        "question": "Are the seams of this basketball raised or recessed from the panels?",
+        "answer": "Raised"
+      },
+      {
+        "question": "Considering the image, does the basketball seem to be new or used?",
         "answer": "New"
       },
       {
-        "question": "Considering its visual features, for what sport is this equipment seemingly designed?",
-        "answer": "Basketball"
-      },
-      {
-        "question": "What is the general visual impression of the ball's surface finish?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What type of seams or lines are visually evident across the ball's surface?",
-        "answer": "Panels"
-      },
-      {
-        "question": "What is the implied size of the basketball in comparison to a human hand?",
-        "answer": "Large"
-      },
-      {
-        "question": "Based on the imagery, what kind of markings are minimally present on the ball's surface?",
-        "answer": "Text"
+        "question": "Based on appearance, what is the basketball's intended use?",
+        "answer": "Sport"
       }
     ]
   }

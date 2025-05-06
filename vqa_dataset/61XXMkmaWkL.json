@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e6/e6e49456.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the dominant visual characteristic of this nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color used for the text and numerical values on the label, providing high contrast for readability?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text layout, what is the predominant organizational structure employed to present the nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the background color of the nutrition facts label, providing a neutral backdrop to emphasize the data presented?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the texture of the label's surface, considering the visual appearance and the way light reflects off it.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the font style used for the heading 'Supplement Facts,' indicating the main purpose of the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on its appearance, what is the material that the nutrition facts label is printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating the different nutritional components within the table?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the style of the typeface used for the numerical values indicating daily percentages, relative to other typefaces?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the overall color scheme of the label, taking into account the various elements and how they interact visually?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Considering the visual prominence of the 'Serving Size' and 'Servings Per Container' lines, what is their relative importance to the nutritional data?",
+        "answer": "Secondary"
+      },
+      {
+        "question": "What is the visual style used to represent the percentage values corresponding to the daily recommended intake for each nutrient?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What kind of textual elements are used to clarify the sources of certain minerals (e.g., calcium, phosphorus)?",
+        "answer": "Parenthetical"
+      },
+      {
+        "question": "What is the visual format of the supplementary information provided at the bottom of the label concerning daily values?",
+        "answer": "Asterisked"
+      },
+      {
+        "question": "What is the visual style of the headings used to categorize various nutritional components, such as 'Total Fat' or 'Protein'?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the dinner plates' central area?",
+        "question": "What is the predominant color of the dinnerware set's base?",
         "answer": "White"
       },
       {
-        "question": "What geometric shapes adorn the plates' outer rims?",
+        "question": "What geometric pattern adorns the dinner plates and bowl?",
         "answer": "Triangles"
       },
       {
-        "question": "Describe the primary color of the triangles decorating the plates.",
+        "question": "Describe the primary color of the geometric pattern on the set?",
         "answer": "Gray"
       },
       {
-        "question": "What secondary color accents the gray triangles on the plates?",
+        "question": "What secondary color is used in the triangular design?",
         "answer": "Black"
       },
       {
-        "question": "What is the apparent material of the dinnerware set?",
+        "question": "What appears to be the material of the dinnerware set?",
         "answer": "Ceramic"
       },
       {
-        "question": "How many distinct sizes of plates are visible in this image?",
-        "answer": "Two"
+        "question": "How many distinct pieces comprise this dinnerware set shown?",
+        "answer": "Three"
       },
       {
-        "question": "What is the overall style of the dinnerware's design?",
-        "answer": "Geometric"
-      },
-      {
-        "question": "What additional serving item, besides plates, is included in the set?",
-        "answer": "Bowl"
-      },
-      {
-        "question": "Does the bowl share the same design as the plates?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the general shape of each of the plates and bowl?",
+        "question": "What is the overall shape of each individual piece in the set?",
         "answer": "Round"
       },
       {
-        "question": "Describe the arrangement of the triangles on the plates' edges.",
-        "answer": "Circular"
+        "question": "What size plate is shown on the far left side of the image?",
+        "answer": "Dinner"
       },
       {
-        "question": "What kind of finish does the surface of the dinnerware appear to have?",
+        "question": "What size plate is shown to the right of the dinner plate?",
+        "answer": "Salad"
+      },
+      {
+        "question": "What is the style of the bowl included in this dinnerware set?",
+        "answer": "Round"
+      },
+      {
+        "question": "Does the pattern appear raised or flat against the surface?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Is the pattern consistently spaced around each piece?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, is the dinnerware glossy or matte?",
         "answer": "Glossy"
       },
       {
-        "question": "Considering the design, what is the likely intended use of this dinnerware?",
-        "answer": "Dining"
+        "question": "Describe the arrangement of the triangles in the pattern?",
+        "answer": "Repeating"
       },
       {
-        "question": "What is the size relationship between the two plate sizes?",
-        "answer": "Nested"
-      },
-      {
-        "question": "Describe the visual texture of the decorative pattern on the items.",
-        "answer": "Smooth"
+        "question": "What kind of visual effect is created by the concentric circles?",
+        "answer": "Layered"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the knee sleeve shown in the image?",
+        "question": "What is the primary color of the knee sleeve shown being stretched?",
         "answer": "Black"
       },
       {
-        "question": "What material appears to be used in the construction of the knee support?",
+        "question": "What material appears to comprise the majority of the knee sleeve?",
         "answer": "Fabric"
       },
       {
-        "question": "What is the overall shape of the garment when worn, as shown on the model's leg?",
-        "answer": "Cylindrical"
-      },
-      {
-        "question": "What is the apparent texture of the knee sleeve fabric, based on the visible image?",
+        "question": "Considering its stretchable nature, what is the implied texture of the sleeve?",
         "answer": "Smooth"
       },
       {
-        "question": "What is the primary function suggested by the visual presentation of the item?",
-        "answer": "Support"
+        "question": "What is the general shape or form of the garment depicted?",
+        "answer": "Cylindrical"
       },
       {
-        "question": "What appears to be the style of the branding logo on the knee sleeve?",
-        "answer": "Minimalist"
-      },
-      {
-        "question": "Judging by the image, what is the approximate length of the knee sleeve?",
-        "answer": "Short"
-      },
-      {
-        "question": "Based on the visual presentation, what is the level of compression implied by the knee sleeve?",
-        "answer": "Moderate"
-      },
-      {
-        "question": "What color is the small text logo visible near the sleeve's bottom edge?",
-        "answer": "Gold"
-      },
-      {
-        "question": "What is the apparent fit of the knee sleeve as depicted on the model's leg?",
-        "answer": "Snug"
-      },
-      {
-        "question": "What seems to be the main body area covered by the knee support shown?",
+        "question": "What specific body part does this garment appear designed to cover?",
         "answer": "Knee"
       },
       {
-        "question": "What kind of design element is visible on the knee sleeve, aside from the text?",
+        "question": "What brand name is subtly visible on the lower edge of the sleeve?",
+        "answer": "Powersport"
+      },
+      {
+        "question": "What design element is prominently featured on the sleeve's surface?",
         "answer": "Logo"
       },
       {
-        "question": "Describe the apparent flexibility of the knee sleeve, as demonstrated in the image.",
+        "question": "Considering the image, what is the implied functionality of this product?",
+        "answer": "Support"
+      },
+      {
+        "question": "What color is the small logo printed on the knee sleeve?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Based on the stretch shown, what is a key characteristic of this sleeve's material?",
         "answer": "Elastic"
       },
       {
-        "question": "Based on the visual context, what type of activity might this sleeve be used for?",
-        "answer": "Sport"
+        "question": "Describe the visual appearance of the logo's design elements?",
+        "answer": "Abstract"
       },
       {
-        "question": "What is the apparent thickness of the knee sleeve fabric shown?",
-        "answer": "Thin"
+        "question": "What kind of activity does the logo seem to imply or suggest?",
+        "answer": "Running"
+      },
+      {
+        "question": "Does the sleeve appear to have seams visible in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall fit of the sleeve shown on the model's leg?",
+        "answer": "Snug"
+      },
+      {
+        "question": "What is the apparent level of thickness or compression of this sleeve?",
+        "answer": "Moderate"
       }
     ]
   }

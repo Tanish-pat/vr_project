@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the knitted upper of this slip-on shoe?",
+        "question": "What is the predominant color of the knitted upper?",
         "answer": "Olive"
       },
       {
-        "question": "What is the primary material used in the construction of the shoe's upper?",
+        "question": "What material constitutes the majority of the shoe's upper?",
         "answer": "Knit"
       },
       {
-        "question": "Describe the overall design style of the displayed footwear item.",
-        "answer": "Casual"
-      },
-      {
-        "question": "What is the texture of the knitted fabric on the shoe's upper?",
-        "answer": "Woven"
-      },
-      {
-        "question": "What is the color of the midsole section of the athletic shoe?",
-        "answer": "White"
-      },
-      {
-        "question": "What is the type of closure mechanism featured on these shoes?",
+        "question": "Describe the style of the shoe's closure mechanism?",
         "answer": "Slip-on"
       },
       {
-        "question": "What is the shape of the shoe's toe area, from a frontal perspective?",
-        "answer": "Rounded"
+        "question": "What is the overall shape of the shoe's sole unit?",
+        "answer": "Curved"
       },
       {
-        "question": "What is the apparent design pattern in the olive-colored knitted sections?",
-        "answer": "Striped"
+        "question": "What color is the midsole's primary visible portion?",
+        "answer": "White"
       },
       {
-        "question": "What color are the subtle secondary knitted patterns within the olive upper?",
+        "question": "What is the texture of the knitted upper fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Characterize the pattern of the knitted upper section?",
+        "answer": "Swirled"
+      },
+      {
+        "question": "What is the approximate height of the shoe's upper?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the sole's design, what is its intended use?",
+        "answer": "Walking"
+      },
+      {
+        "question": "What is the most apparent design feature of the upper?",
+        "answer": "Knitting"
+      },
+      {
+        "question": "What is the color of the secondary knit pattern on the upper?",
         "answer": "Grey"
       },
       {
-        "question": "Describe the outsole's visual appearance and apparent function?",
-        "answer": "Solid"
+        "question": "What is the material of the shoe's visible sole?",
+        "answer": "Rubber"
       },
       {
-        "question": "What is the general condition of the shoe shown in the product image?",
-        "answer": "New"
+        "question": "Describe the heel's construction visually, considering its shape and integration",
+        "answer": "Rounded"
       },
       {
-        "question": "What is the visible form factor of the shoe's sole?",
-        "answer": "Chunky"
+        "question": "Considering the overall look, how would you categorize this shoe's style?",
+        "answer": "Casual"
       },
       {
-        "question": "What is the construction style of the footwear's sole?",
-        "answer": "Cushioned"
-      },
-      {
-        "question": "Based on the appearance, what is the intended use of this footwear?",
-        "answer": "Athletic"
-      },
-      {
-        "question": "What is the apparent level of detail in the knitted upper's pattern?",
-        "answer": "High"
+        "question": "What is the visible pattern of the knit design on the upper part?",
+        "answer": "Striped"
       }
     ]
   }

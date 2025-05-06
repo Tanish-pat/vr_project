@@ -6,63 +6,63 @@
     "questions": [
       {
         "question": "What is the predominant color of the tablecloth shown in the image?",
-        "answer": "Mustard"
+        "answer": "Gold"
       },
       {
-        "question": "What is the overall shape of the tablecloth displayed on the table?",
+        "question": "What is the overall shape of the displayed tablecloth?",
         "answer": "Rectangular"
       },
       {
-        "question": "Considering the drape and fall, what is the apparent texture of the tablecloth?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "Based on its appearance, what is the likely material of this tablecloth?",
+        "question": "What appears to be the primary material of this tablecloth, judging by its visual texture?",
         "answer": "Linen"
       },
       {
-        "question": "Judging by the image, what is the visible finish or sheen of the tablecloth?",
+        "question": "Considering the drape and fall of the fabric, what is the likely texture of the tablecloth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what kind of finish does the tablecloth appear to have?",
         "answer": "Matte"
       },
       {
-        "question": "Does the tablecloth in the provided image appear to have any noticeable pattern?",
+        "question": "Does the tablecloth show any noticeable pattern or design elements?",
         "answer": "Subtle"
       },
       {
-        "question": "What is the general style or design aesthetic of the tablecloth shown?",
-        "answer": "Minimalist"
+        "question": "Judging from the image, how would you describe the overall sheen of the tablecloth?",
+        "answer": "Slight"
       },
       {
-        "question": "What is the apparent length of the tablecloth's drop on each side?",
-        "answer": "Moderate"
-      },
-      {
-        "question": "Does the image show any visible seams or stitching on the tablecloth?",
-        "answer": "No"
-      },
-      {
-        "question": "Considering its drape and corners, what is the apparent weight of the fabric?",
+        "question": "What is the apparent weight or thickness of the tablecloth fabric, based on visual observation?",
         "answer": "Medium"
       },
       {
-        "question": "Looking closely, does the tablecloth exhibit any visible embellishments?",
-        "answer": "None"
+        "question": "Describe the visible drop or overhang of the tablecloth over the table's edge.",
+        "answer": "Even"
       },
       {
-        "question": "In the provided image, what color are the legs of the table?",
-        "answer": "Natural"
+        "question": "What kind of table legs are visible beneath the tablecloth in the provided image?",
+        "answer": "Wooden"
       },
       {
-        "question": "Judging from its appearance, does the tablecloth seem easy to clean?",
-        "answer": "Yes"
+        "question": "Does the image show any visible stitching or seams on the tablecloth?",
+        "answer": "No"
       },
       {
-        "question": "What is the style of the legs of the table under the tablecloth?",
-        "answer": "Tapered"
+        "question": "What is the apparent condition of the tablecloth shown in the image?",
+        "answer": "New"
       },
       {
-        "question": "Considering the image, does the tablecloth seem suitable for formal dining?",
-        "answer": "Yes"
+        "question": "Considering its visual features, is the tablecloth's weave visibly loose or tight?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the visual impression of the tablecloth's overall quality?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the image, what is the style of the tablecloth?",
+        "answer": "Simple"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall form, what is the predominant shape of this footwear?",
-        "answer": "Slide"
+        "question": "Considering the overall form and construction, what is the primary style of this footwear?",
+        "answer": "Slides"
       },
       {
-        "question": "What dominant color is visibly apparent across the entire surface of the slipper?",
+        "question": "Examining the dominant hue across the sandal's surface, what single word best describes its color?",
         "answer": "Navy"
       },
       {
-        "question": "Based on its visual appearance, what material seems to constitute the slipper's body?",
+        "question": "Focusing on the sandal's exterior, what material appears to be predominantly used in its manufacture?",
         "answer": "Rubber"
       },
       {
-        "question": "Observing the texture, what tactile characteristic does the footbed of the slipper predominantly exhibit?",
-        "answer": "Ridged"
+        "question": "Observing the texture of the sandal's footbed and strap, what tactile quality is most apparent?",
+        "answer": "Smooth"
       },
       {
-        "question": "What brand name is embossed or imprinted onto the upper strap of the slide?",
-        "answer": "Harier"
+        "question": "Based on the visible branding element, what is the name of the manufacturer or brand?",
+        "answer": "Ariler"
       },
       {
-        "question": "Focusing on the sole, what textural pattern is noticeable on its underside?",
+        "question": "Considering the shape of the sole unit, what geometric term best describes its overall profile?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Analyzing the design of the strap, what shape best describes the area where the foot would rest?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the sole's surface, what textural feature is noticeable across its underside?",
         "answer": "Textured"
       },
       {
-        "question": "Describing the strap's design, what is its fundamental form and style?",
-        "answer": "Single"
-      },
-      {
-        "question": "Judging by its appearance, what is the overall style of this footwear, casual or formal?",
+        "question": "Given the style and material, what is the most likely intended use for these sandals?",
         "answer": "Casual"
       },
       {
-        "question": "Examining the structure, is the slipper's sole visibly separated from the upper part?",
-        "answer": "Yes"
+        "question": "What single word best describes the apparent level of embellishment on this sandal?",
+        "answer": "Minimal"
       },
       {
-        "question": "What is the apparent finish of the slipper's surface, matte or glossy?",
-        "answer": "Matte"
+        "question": "Looking at the overall structure, what would you describe as the primary function of this item?",
+        "answer": "Footwear"
       },
       {
-        "question": "What is the color of the branding displayed on the upper part of the slide?",
-        "answer": "White"
+        "question": "Focusing on the branding placement, where is the manufacturer's name predominantly situated?",
+        "answer": "Strap"
       },
       {
-        "question": "Considering its construction, is this footwear designed for open or closed toes?",
-        "answer": "Open"
+        "question": "Regarding the overall feel, what would be the most likely wearability for this item?",
+        "answer": "Comfortable"
       },
       {
-        "question": "Observing the side profile, what is the slipper's apparent construction method?",
-        "answer": "Moulded"
+        "question": "Based on the sole's construction, what is the most likely terrain for this footwear?",
+        "answer": "Flat"
       },
       {
-        "question": "What is the general condition of the slipper, new or worn?",
+        "question": "Considering the visible features, what is the apparent overall condition of this item?",
         "answer": "New"
-      },
-      {
-        "question": "Considering the visual aspects, is there any visible pattern besides the texture on the slipper?",
-        "answer": "No"
       }
     ]
   }

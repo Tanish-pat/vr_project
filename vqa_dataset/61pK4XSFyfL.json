@@ -9,60 +9,60 @@
         "answer": "Blue"
       },
       {
-        "question": "What material appears to constitute the heating element coil?",
-        "answer": "Metal"
+        "question": "What metallic material appears to compose the heating element?",
+        "answer": "Silver"
       },
       {
-        "question": "Describe the overall shape of the immersion heater's main housing?",
+        "question": "What is the overall shape of the immersion heater's main housing?",
         "answer": "Rectangular"
       },
       {
-        "question": "What is the color of the top section of the immersion heater casing?",
-        "answer": "White"
-      },
-      {
-        "question": "What type of plug is attached to the power cord of this device?",
+        "question": "What type of plug is attached to the immersion heater's power cord?",
         "answer": "Three-pin"
       },
       {
-        "question": "What appears to be printed on the main body of the immersion heater?",
-        "answer": "Soumo"
+        "question": "What is the color of the top section of the immersion heater's casing?",
+        "answer": "White"
       },
       {
-        "question": "What is the apparent texture of the heating element coil?",
+        "question": "What word is prominently displayed on the immersion heater's body?",
+        "answer": "Soulmo"
+      },
+      {
+        "question": "What is the apparent texture of the heating coil?",
         "answer": "Coiled"
       },
       {
-        "question": "What seems to be the color of the electrical wire?",
+        "question": "What seems to be the material of the immersion heater's power cord?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the immersion heater display any safety markings or symbols?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general shape of the immersion heater's heating element?",
+        "answer": "Helical"
+      },
+      {
+        "question": "What is the apparent material of the main body of the heating unit?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the primary power cord of the device?",
         "answer": "Black"
       },
       {
-        "question": "What is the apparent material of the immersion heater's plug?",
-        "answer": "Plastic"
+        "question": "How many pins are present in the electric plug connector?",
+        "answer": "Three"
       },
       {
-        "question": "Considering its design, what is this product's intended function?",
-        "answer": "Heating"
+        "question": "Is there any visible text aside from the brand name on the device?",
+        "answer": "Yes"
       },
       {
-        "question": "What kind of markings are visible on the heater's body, besides the brand name?",
-        "answer": "Symbols"
-      },
-      {
-        "question": "What is the general shape of the electrical plug?",
-        "answer": "Triangular"
-      },
-      {
-        "question": "Describe the overall finish of the immersion heater's casing.",
-        "answer": "Glossy"
-      },
-      {
-        "question": "What seems to be the material of the main body of the device?",
-        "answer": "Plastic"
-      },
-      {
-        "question": "Considering the product's form, what is its likely usage?",
-        "answer": "Water"
+        "question": "What appears to be the design of the heating element's wire?",
+        "answer": "Spiral"
       }
     ]
   }

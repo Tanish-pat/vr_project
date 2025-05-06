@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "Considering the overall visual design, what is the predominant style of this footwear?",
-        "answer": "Casual"
+        "question": "Considering the overall form, what is the predominant shape of this men's shoe?",
+        "answer": "Oval"
       },
       {
-        "question": "Based on the visible texture, what material appears to be the primary upper component?",
+        "question": "What type of leather is visibly apparent in the construction of the shoe's upper?",
         "answer": "Suede"
       },
       {
-        "question": "What is the most noticeable color of the shoe's upper?",
+        "question": "Describe the main color exhibited across the majority of the shoe's visible surface?",
         "answer": "Tan"
       },
       {
-        "question": "Examining the lacing system, what type of closure is employed?",
-        "answer": "Lace-up"
+        "question": "What is the primary fastening mechanism used for securing the shoe to the foot?",
+        "answer": "Laces"
       },
       {
-        "question": "Describe the shape of the shoe's toe box, considering its overall form.",
-        "answer": "Rounded"
-      },
-      {
-        "question": "What is the apparent color of the outsole, considering the visible portion?",
-        "answer": "Brown"
-      },
-      {
-        "question": "Observing the sole's construction, what seems to be its material makeup?",
+        "question": "Focusing on the sole, what seems to be the primary material used in its construction?",
         "answer": "Rubber"
       },
       {
-        "question": "From a visual standpoint, how would you characterize the shoe's heel height?",
-        "answer": "Low"
+        "question": "Considering the overall design, what style of shoe is prominently displayed?",
+        "answer": "Oxford"
       },
       {
-        "question": "Regarding the overall construction, is the shoe's design simple or intricate?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Describe the visible texture of the shoe's upper, noting any surface details.",
+        "question": "What is the texture of the outer surface of the shoe, as perceived visually?",
         "answer": "Napped"
       },
       {
-        "question": "Considering the color consistency, is there significant color variation across the shoe?",
-        "answer": "No"
+        "question": "Examining the heel, what color is visible on the outsole of this shoe?",
+        "answer": "Red"
       },
       {
-        "question": "From your visual assessment, what seems to be the primary function of this shoe?",
-        "answer": "Walking"
+        "question": "What is the style of the toe cap on this particular type of shoe?",
+        "answer": "Rounded"
       },
       {
-        "question": "Based on the material's appearance, is the shoe likely to be waterproof?",
-        "answer": "No"
+        "question": "Looking at the upper's stitching, what seems to be its visible color?",
+        "answer": "Tan"
       },
       {
-        "question": "Considering the visible stitching, how prominent are the visible seams?",
-        "answer": "Minimal"
+        "question": "Considering the overall look, how would you categorize the shoe's style?",
+        "answer": "Casual"
       },
       {
-        "question": "What is the general shape of the shoe's sole, considering the bottom profile?",
-        "answer": "Flat"
+        "question": "Focusing on the shoe's structure, is the upper's fit described as low or high?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on visual inspection, how would you classify this shoe's overall design?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What seems to be the material of the insole, visually judging by the interior?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What kind of stitching is used to attach the sole to the upper of the shoe?",
+        "answer": "Blind"
       }
     ]
   }

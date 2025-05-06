@@ -5,63 +5,63 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the fabric depicted in the provided image?",
-        "answer": "Beige"
-      },
-      {
-        "question": "Considering the visual texture, what is the overall weave pattern of this textile?",
-        "answer": "Herringbone"
-      },
-      {
-        "question": "Based on visual assessment, what appears to be the primary material composition of this item?",
-        "answer": "Fabric"
-      },
-      {
-        "question": "Judging from the image, what is the apparent surface texture or finish of the material?",
+        "question": "What is the dominant visual texture displayed across the entire fabric sample?",
         "answer": "Woven"
       },
       {
-        "question": "Considering the image detail, how would you describe the visual density of the weave pattern?",
-        "answer": "Dense"
+        "question": "Considering the overall visual appearance, what is the most apparent pattern present?",
+        "answer": "Chevron"
       },
       {
-        "question": "From the image, does the textile have a noticeable sheen or a matte finish?",
-        "answer": "Matte"
+        "question": "Based on the image, what is the primary color of the textile sample shown?",
+        "answer": "Beige"
       },
       {
-        "question": "What is the general visual impression of the fabric's weight or thickness?",
-        "answer": "Medium"
+        "question": "Judging by the image, what seems to be the main material composition of this fabric?",
+        "answer": "Linen"
       },
       {
-        "question": "Considering the image, how would you describe the visual uniformity of the fabric's color and pattern?",
-        "answer": "Consistent"
+        "question": "From the image, what kind of visual effect is created by the interwoven threads?",
+        "answer": "Textured"
       },
       {
-        "question": "Based on visual analysis, what type of design is predominantly featured in the fabric?",
-        "answer": "Geometric"
+        "question": "What visual characteristic best describes the subtle variations in the fabric's tone?",
+        "answer": "Heathered"
       },
       {
-        "question": "Analyzing the image, is the visual appearance of the fabric smooth or coarse?",
-        "answer": "Smooth"
+        "question": "If you were to describe the lightness or darkness of the fabric's color, what would it be?",
+        "answer": "Light"
       },
       {
-        "question": "Based on the image, how would you characterize the overall visual style of the fabric?",
+        "question": "What impression of depth or three-dimensionality does the fabric's pattern create?",
         "answer": "Subtle"
       },
       {
-        "question": "Judging by the picture, does the fabric exhibit any visible flaws or imperfections?",
-        "answer": "None"
+        "question": "Considering the scale of the pattern, what would you say about the design's repetition?",
+        "answer": "Regular"
       },
       {
-        "question": "What is the visual impression regarding the fabric's level of formality or informality?",
-        "answer": "Neutral"
+        "question": "Based solely on the visual appearance, how would you characterize the fabric's feel?",
+        "answer": "Smooth"
       },
       {
-        "question": "Considering the image, what overall visual impression does the fabric's color evoke?",
-        "answer": "Calming"
+        "question": "Analyzing the image, does the fabric appear to have a glossy or matte finish?",
+        "answer": "Matte"
       },
       {
-        "question": "Based purely on visual inspection, what is the apparent directional orientation of the fabric's pattern?",
+        "question": "Considering the fabric's structure, what would you classify its overall design style as?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Judging from the image, how would you classify the intensity of the fabric's color?",
+        "answer": "Muted"
+      },
+      {
+        "question": "What is the most accurate single word to describe the overall visual weight of the fabric?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What single word best describes the direction of the repeating pattern in the fabric?",
         "answer": "Diagonal"
       }
     ]

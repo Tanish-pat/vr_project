@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/35/35ddffa1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the packaging, primarily observable on the main box?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the overall shape of the primary packaging, what geometric term best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the primary packaging, judging from the visual details and subtle lighting?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material appears to constitute the main packaging, based solely on visual assessment?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Observing the smaller image displayed on the packaging, what is the apparent shape of the included item?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "What is the prevalent color of the capsules shown in the image on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the text prominently displayed, indicating the primary function of the product?",
+        "answer": "Probiotic"
+      },
+      {
+        "question": "Based on the visible textual information, what is one health benefit suggested by the product?",
+        "answer": "Digestive"
+      },
+      {
+        "question": "What is the visible number indicating the quantity of capsules contained in the package?",
+        "answer": "Sixty"
+      },
+      {
+        "question": "What word describes the type of dietary supplement these are, as indicated in the textual details?",
+        "answer": "Vegetarian"
+      },
+      {
+        "question": "What kind of health supplement is this, as clearly indicated on the box?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What is the color of the logo prominently featured at the top of the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What term best describes the format of the product as shown, referring to the individual units?",
+        "answer": "Capsules"
+      },
+      {
+        "question": "In the prominent text on the package, what word indicates the frequency of consumption?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the brand name visible on the packaging's primary label?",
+        "answer": "365"
+      }
+    ]
+  }
+]

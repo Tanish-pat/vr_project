@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the phone case's visible frame?",
+        "question": "What is the primary color of the phone case's frame, as visibly depicted in the product image?",
         "answer": "Black"
       },
       {
-        "question": "What material appears to constitute the phone case's bumper?",
+        "question": "What material is predominantly used for the visible protective bumper surrounding the phone?",
         "answer": "Metal"
       },
       {
-        "question": "What is the apparent visual characteristic of the screen protection?",
-        "answer": "Glass"
-      },
-      {
-        "question": "Considering the design, what seems to be the phone case's overall protection style?",
-        "answer": "Magnetic"
-      },
-      {
-        "question": "Based on the image, what appears to be the method of case attachment?",
-        "answer": "Adsorption"
-      },
-      {
-        "question": "Describe the visual appearance of the screen protector's apparent texture?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the design feature visible on the case's edge?",
-        "answer": "Frame"
-      },
-      {
-        "question": "From the image, what appears to be a key component of the back?",
-        "answer": "Bumper"
-      },
-      {
-        "question": "What component is indicated to be detachable on the displayed phone case?",
-        "answer": "Metallic"
-      },
-      {
-        "question": "What feature is described as built-in with the front casing?",
-        "answer": "Protector"
-      },
-      {
-        "question": "What is the suggested visual level of phone protection provided by this case?",
-        "answer": "360"
-      },
-      {
-        "question": "Judging by its shape, what is the overall form factor of the phone case?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the observable state of assembly of the case parts in the image?",
-        "answer": "Assembled"
-      },
-      {
-        "question": "What kind of glass is specified for the front and back protection?",
+        "question": "Considering the image, what type of glass is explicitly mentioned as being incorporated into the phone case's design?",
         "answer": "Tempered"
       },
       {
-        "question": "What is the apparent overall look of this phone case?",
+        "question": "Based on the visual representation, what is the apparent attachment mechanism of the phone case's metallic components?",
+        "answer": "Magnetic"
+      },
+      {
+        "question": "Judging from the picture, is the metallic component of the phone case integrated or removable?",
+        "answer": "Removable"
+      },
+      {
+        "question": "What is the visible shape of the phone case's protective frame, as displayed in the main product image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the phone case's image show a built-in screen protector as part of the frontal casing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the image, does the provided case offer protection for the front and back of a phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall level of protection provided by the product, as indicated by the image and its descriptive text?",
+        "answer": "360"
+      },
+      {
+        "question": "From the appearance of the phone case, what seems to be the primary function of its metallic bumper?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the apparent texture of the glass used for the front and back protection, shown in the product image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, is the design of the phone case predominantly sleek and minimalistic, or ornate and detailed?",
         "answer": "Sleek"
+      },
+      {
+        "question": "What is the visible adherence mechanism used to hold the case's components together, apparent in the product picture?",
+        "answer": "Adsorption"
+      },
+      {
+        "question": "Referring to the visible components, is the phone case's design seemingly robust and protective, or flimsy and delicate?",
+        "answer": "Robust"
+      },
+      {
+        "question": "Based solely on the visual elements, how many separate pieces constitute this phone case as pictured?",
+        "answer": "Three"
       }
     ]
   }

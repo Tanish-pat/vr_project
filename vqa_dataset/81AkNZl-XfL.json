@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/24b5f3c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of the supplement facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary format of information display used to present the various probiotic strains and their quantities?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the text, what is the specified serving size of the supplement as indicated on the panel?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "What is the primary unit of measurement employed to quantify the amount of probiotic blend?",
+        "answer": "mg"
+      },
+      {
+        "question": "Focusing on the numerical data, what is the unit used to represent the count of each probiotic strain?",
+        "answer": "CFU"
+      },
+      {
+        "question": "What is the term that describes the prebiotic fiber used as a supplement ingredient as shown on the panel?",
+        "answer": "FOS"
+      },
+      {
+        "question": "In terms of text formatting, how is the footnote regarding Daily Value indicated?",
+        "answer": "Asterisk"
+      },
+      {
+        "question": "What is the descriptive term used to define the mixture of various probiotic bacteria?",
+        "answer": "Blend"
+      },
+      {
+        "question": "What is the font style predominantly used for the header labels and descriptions in the panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the textual content, what is the overarching topic of information conveyed in this panel?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the overall layout and orientation of this informational panel?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What type of information is represented by the percentages shown next to the probiotic counts?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the font weight used for the 'Supplement Facts' heading at the top?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating different rows of the data table?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the graphic design elements, how are the different components of the information organized?",
+        "answer": "Columns"
+      }
+    ]
+  }
+]

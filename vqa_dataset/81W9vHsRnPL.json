@@ -9,60 +9,60 @@
         "answer": "Blue"
       },
       {
-        "question": "What artistic style is predominantly featured on the phone case?",
+        "question": "What artistic style is predominantly featured in the phone case's print?",
         "answer": "Abstract"
       },
       {
-        "question": "What type of paint strokes are visible in the case's design?",
-        "answer": "Impasto"
+        "question": "Describe the overall texture implied by the phone case's design?",
+        "answer": "Painterly"
       },
       {
-        "question": "Describe the overall texture implied by the phone case's design.",
-        "answer": "Rough"
-      },
-      {
-        "question": "What is the apparent material of the phone case itself?",
+        "question": "What is the primary material seemingly used for the phone case?",
         "answer": "Plastic"
       },
       {
-        "question": "What shape precisely describes the phone case's form factor?",
+        "question": "What shape does the depicted phone case primarily exhibit?",
         "answer": "Rectangular"
       },
       {
-        "question": "What secondary color is prominently used alongside the blue?",
+        "question": "Considering the image, what is a secondary prominent color in the artwork?",
         "answer": "Orange"
       },
       {
-        "question": "Are there any noticeable white elements within the design?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Is the print on the phone case glossy or matte?",
+        "question": "What kind of finish does the phone case appear to have based on the image?",
         "answer": "Matte"
       },
       {
-        "question": "Does the image indicate any visible buttons or cutouts?",
-        "answer": "Yes"
+        "question": "Based on the visual, what additional color is noticeably used in the design?",
+        "answer": "Red"
       },
       {
-        "question": "How many sides of the phone case are shown in the image?",
-        "answer": "Three"
-      },
-      {
-        "question": "Is the artwork on the case symmetrical or asymmetrical?",
-        "answer": "Asymmetrical"
-      },
-      {
-        "question": "What is the general visual feel of the phone case?",
-        "answer": "Modern"
-      },
-      {
-        "question": "What is the implied level of detail in the painted design?",
+        "question": "What is the apparent level of detail in the phone case's artwork?",
         "answer": "High"
       },
       {
-        "question": "What is the main style of the colors displayed?",
-        "answer": "Vibrant"
+        "question": "Does the phone case design appear to be symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the implied thickness of the phone case based on the image?",
+        "answer": "Slim"
+      },
+      {
+        "question": "What kind of brushstrokes are visible in the case's painted design?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Are there any visible logos or brand markings on the case itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the style of the artwork displayed?",
+        "answer": "Impasto"
+      },
+      {
+        "question": "What seems to be the overall aesthetic of the phone case's design?",
+        "answer": "Modern"
       }
     ]
   }

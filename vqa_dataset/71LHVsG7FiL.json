@@ -9,60 +9,60 @@
         "answer": "Black"
       },
       {
-        "question": "What secondary color accents the earmuffs?",
+        "question": "What is the secondary color accent on the earmuffs?",
         "answer": "Blue"
       },
       {
-        "question": "What material appears to constitute the earmuff cups?",
+        "question": "What material appears to comprise the earmuff cups?",
         "answer": "Plastic"
       },
       {
-        "question": "What is the overall shape of the earmuffs?",
+        "question": "Describe the overall shape of the earmuffs?",
         "answer": "Oval"
       },
       {
-        "question": "Describe the headband's apparent flexibility on the earmuffs?",
-        "answer": "Flexible"
-      },
-      {
-        "question": "What is the primary color of the safety glasses?",
-        "answer": "Black"
-      },
-      {
-        "question": "What is the apparent lens color of the safety glasses?",
-        "answer": "Gray"
-      },
-      {
-        "question": "What is the general shape of the safety glasses?",
-        "answer": "Wraparound"
-      },
-      {
-        "question": "What material seems to make up the safety glasses frame?",
+        "question": "What is the apparent material of the eyewear frame?",
         "answer": "Plastic"
       },
       {
-        "question": "Do the safety glasses appear to have any noticeable markings?",
-        "answer": "No"
+        "question": "What color are the eyewear frames?",
+        "answer": "Black"
       },
       {
-        "question": "What is the texture of the earmuff headband?",
+        "question": "What is the dominant lens color in the eyewear?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the style of the safety eyewear?",
+        "answer": "Sport"
+      },
+      {
+        "question": "What is the apparent texture of the earmuff headband?",
         "answer": "Smooth"
       },
       {
-        "question": "Do the earmuffs appear to have any visible adjustments?",
-        "answer": "No"
-      },
-      {
-        "question": "Describe the apparent texture of the safety glasses lenses.",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What design feature is evident on the earmuff cups?",
+        "question": "Describe the design of the earmuff cups?",
         "answer": "Curved"
       },
       {
-        "question": "Describe the temples' apparent flexibility on the safety glasses.",
+        "question": "What type of adjustment does the headband appear to offer?",
         "answer": "Flexible"
+      },
+      {
+        "question": "How would you characterize the eyewear lens shape?",
+        "answer": "Wraparound"
+      },
+      {
+        "question": "What appears to be the function of the earmuffs?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the apparent function of the eyewear?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the overall style of the safety kit?",
+        "answer": "Practical"
       }
     ]
   }

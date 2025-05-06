@@ -1,0 +1,57 @@
+[
+  {
+    "path": "images/small/a3/a3af0dfe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly mentioned on the product label, as visually confirmed?",
+        "answer": "Beans"
+      },
+      {
+        "question": "Considering the visible text, what specific type of bean is listed as an ingredient?",
+        "answer": "Cannellini"
+      },
+      {
+        "question": "Based on the visible text, are there any potential allergens mentioned in relation to the product's manufacturing?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "Does the visible label indicate anything about where the product was manufactured?",
+        "answer": "Facility"
+      },
+      {
+        "question": "According to the visible text, what other food types are handled in the manufacturing facility?",
+        "answer": "Cereals"
+      },
+      {
+        "question": "What additional ingredient, besides beans, is mentioned in regards to the production facility?",
+        "answer": "Soya"
+      },
+      {
+        "question": "What is the overall visible texture of the label's surface?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the general color of the text on the visible label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall visible shape of the item shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible style of the lettering on the label regarding the 'Ingredients' section.",
+        "answer": "Italic"
+      },
+      {
+        "question": "What is the apparent method of communication being utilized on this visible item?",
+        "answer": "Text"
+      },
+      {
+        "question": "Describe the apparent overall condition of the visible label, assuming it is attached to packaging.",
+        "answer": "Intact"
+      }
+    ]
+  }
+]

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the jacket's outer shell?",
+        "question": "What is the dominant color of the outerwear's main body?",
         "answer": "Camel"
       },
       {
-        "question": "What material appears to be used for the jacket's collar?",
+        "question": "What material appears to comprise the outerwear's collar?",
         "answer": "Shearling"
       },
       {
-        "question": "Describe the visible texture of the jacket's main fabric?",
+        "question": "Describe the overall visual texture of the outerwear's main fabric?",
         "answer": "Suede"
       },
       {
-        "question": "What is the overall shape or silhouette of the jacket?",
-        "answer": "Cropped"
-      },
-      {
-        "question": "What color are the cuffs of the jacket's sleeves?",
-        "answer": "Cream"
-      },
-      {
-        "question": "What kind of closure is visible on the front of the jacket?",
-        "answer": "Zipper"
-      },
-      {
-        "question": "What is the apparent material of the cuffs' trim?",
-        "answer": "Shearling"
-      },
-      {
-        "question": "Is there any noticeable detailing or stitching on the jacket?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the style of the jacket's lapels?",
-        "answer": "Notched"
-      },
-      {
-        "question": "What is the length of the jacket relative to the model?",
-        "answer": "Cropped"
-      },
-      {
-        "question": "What type of pockets are visible on the jacket?",
-        "answer": "None"
-      },
-      {
-        "question": "What is the approximate sleeve length of the jacket?",
+        "question": "What is the apparent style of the outerwear's sleeves?",
         "answer": "Long"
       },
       {
-        "question": "What style of neckline does the jacket have?",
-        "answer": "Round"
+        "question": "What is the length of the outerwear as depicted in the image?",
+        "answer": "Cropped"
       },
       {
-        "question": "Judging by the image, what's the overall feel of the jacket?",
-        "answer": "Casual"
+        "question": "What is the shape of the outerwear's visible front closure?",
+        "answer": "Asymmetrical"
       },
       {
-        "question": "Considering the materials used, how would you categorize the jacket?",
-        "answer": "Warm"
+        "question": "What color are the visible sleeve cuffs of the outerwear?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent style of the outerwear's collar?",
+        "answer": "Shawl"
+      },
+      {
+        "question": "What is the overall fit of the outerwear, relative to the model?",
+        "answer": "Relaxed"
+      },
+      {
+        "question": "What type of visible pockets are present on the outerwear?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent design feature visible at the hem of the outerwear?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What kind of apparent fastener is used to close the outerwear?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "What is the general silhouette shape of this outerwear piece?",
+        "answer": "Boxy"
+      },
+      {
+        "question": "What is the main apparent material of the outerwear's sleeves' trim?",
+        "answer": "Faux"
+      },
+      {
+        "question": "Considering the image, what is the general style of this outerwear?",
+        "answer": "Aviator"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the cookies depicted in the image?",
+        "question": "What is the predominant color of the cookies shown in the image?",
         "answer": "Beige"
       },
       {
-        "question": "What is the overall shape of each individual cookie shown?",
-        "answer": "Floral"
-      },
-      {
-        "question": "What appears to be the primary visible ingredient embedded within the cookies?",
-        "answer": "Cashews"
-      },
-      {
-        "question": "Considering the texture, what is the apparent surface consistency of the cookies?",
-        "answer": "Rough"
-      },
-      {
-        "question": "Based on visual assessment, what kind of baked good is presented in the image?",
-        "answer": "Cookies"
-      },
-      {
-        "question": "What is the general style of the design imprinted on each cookie's surface?",
+        "question": "What is the overall shape of the individual cookies depicted?",
         "answer": "Flower"
       },
       {
-        "question": "Considering the arrangement, how many cookies are visibly stacked on the larger plate?",
-        "answer": "Twelve"
+        "question": "What appears to be the texture of the cookies' surface?",
+        "answer": "Smooth"
       },
       {
-        "question": "What is the approximate color of the smaller plate holding the cookies?",
-        "answer": "White"
+        "question": "What ingredient is visibly embedded within the cookies?",
+        "answer": "Cashews"
       },
       {
-        "question": "Judging by their appearance, what is the likely texture of the cookies?",
-        "answer": "Crispy"
+        "question": "Describe the design element centrally located on each cookie.",
+        "answer": "Floral"
       },
       {
-        "question": "What is the apparent material composition of the cookies, based solely on visual inspection?",
-        "answer": "Dough"
+        "question": "What is the apparent material of the plates holding the cookies?",
+        "answer": "Ceramic"
       },
       {
-        "question": "What is the pattern created by the visible indentations in the cookies?",
-        "answer": "Petal"
+        "question": "What is the shape of the smaller plate holding fewer cookies?",
+        "answer": "Scalloped"
       },
       {
-        "question": "Describe the visual characteristic of the surface texture of the cookies.",
-        "answer": "Uneven"
+        "question": "Considering the image, what is the overall tone of the cookies' coloring?",
+        "answer": "Light"
       },
       {
-        "question": "What seems to be the size of the cookies relative to a standard mug?",
-        "answer": "Small"
+        "question": "What is the apparent texture of the background surface where the cookies rest?",
+        "answer": "Wood"
       },
       {
-        "question": "What is the placement of the visible cashew pieces within the cookie design?",
-        "answer": "Center"
+        "question": "What color is the mug present in the image's background?",
+        "answer": "LightBlue"
       },
       {
-        "question": "What appears to be the overall thickness of the cookies shown?",
-        "answer": "Thin"
+        "question": "What is the shape of the mug visible to the left of the cookies?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent material of the small creamer in the background?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Describe the visible pattern on the larger plate below the stack of cookies.",
+        "answer": "Floral"
+      },
+      {
+        "question": "What color is the fabric partially visible under the larger plate?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the visible pattern on the fabric underneath the main plate?",
+        "answer": "Plain"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the desk's main surface?",
+        "question": "What is the predominant color of the desktop surface?",
         "answer": "Brown"
       },
       {
-        "question": "What material appears to constitute the desk's legs?",
+        "question": "What appears to be the primary material of the desk legs?",
         "answer": "Metal"
       },
       {
         "question": "Describe the overall shape of the desk's frame?",
-        "answer": "Rectangular"
-      },
-      {
-        "question": "What is the apparent finish of the desktop's surface?",
-        "answer": "Matte"
+        "answer": "Angular"
       },
       {
         "question": "How many visible shelves or tiers does the desk possess?",
         "answer": "Two"
       },
       {
+        "question": "What is the apparent finish of the desktop's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Characterize the style of the desk's legs' design?",
+        "answer": "Slanted"
+      },
+      {
+        "question": "What seems to be the texture of the desk's top surface?",
+        "answer": "Smooth"
+      },
+      {
         "question": "What color are the desk's supporting legs?",
         "answer": "Black"
       },
       {
-        "question": "Characterize the style of the desk's leg design?",
-        "answer": "A-frame"
+        "question": "What is the general form factor of this piece of furniture?",
+        "answer": "Rectangular"
       },
       {
-        "question": "What seems to be the primary material of the desktop?",
+        "question": "Judging by the image, what is the desk's overall aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What kind of material seems to constitute the desktop?",
         "answer": "Wood"
       },
       {
-        "question": "Judging by the image, what is the desk's overall size?",
-        "answer": "Small"
+        "question": "Describe the visible connection between the desk top and legs?",
+        "answer": "Fixed"
       },
       {
-        "question": "Does the desk appear to have any visible drawers or cabinets?",
-        "answer": "No"
-      },
-      {
-        "question": "Describe the texture of the desktop's surface?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What is the apparent assembly style of the desk's legs?",
+        "question": "What seems to be the construction method of the upper shelf?",
         "answer": "Attached"
       },
       {
-        "question": "Is there any visible grain pattern on the desktop?",
-        "answer": "Yes"
+        "question": "Based solely on appearance, how would you rate its assembly complexity?",
+        "answer": "Simple"
       },
       {
-        "question": "What type of support structure is visible under the top shelf?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What could be inferred about the intended use of this desk?",
-        "answer": "Study"
+        "question": "What is the visible position of the desk's support structure?",
+        "answer": "Underneath"
       }
     ]
   }

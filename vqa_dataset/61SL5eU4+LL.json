@@ -5,11 +5,11 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the raised sides of the pet bed?",
+        "question": "What is the predominant color of the pet bed's outer material?",
         "answer": "Gray"
       },
       {
-        "question": "What is the texture of the upper surface material of the pet bed?",
+        "question": "What is the texture of the upper portion of the pet bed?",
         "answer": "Fuzzy"
       },
       {
@@ -17,52 +17,52 @@
         "answer": "Rectangular"
       },
       {
-        "question": "What is the primary material apparent from the texture of the outer layer?",
+        "question": "What is the texture of the lower portion of the pet bed?",
         "answer": "Corduroy"
       },
       {
-        "question": "What color is the inner sleeping surface of the pet bed?",
+        "question": "What is the color of the inner lining of the pet bed?",
         "answer": "Beige"
       },
       {
-        "question": "What is the visible construction method of the pet bed's sides?",
-        "answer": "Seamed"
+        "question": "Describe the raised border's visual characteristic around the perimeter?",
+        "answer": "Surrounding"
       },
       {
-        "question": "Describe the visible pattern on the lower portion of the pet bed sides.",
-        "answer": "Ribbed"
+        "question": "What is the apparent material of the bed's inner padding?",
+        "answer": "Plush"
       },
       {
-        "question": "What is the approximate height of the raised sides of this pet bed?",
-        "answer": "Moderate"
+        "question": "Considering the entire pet bed, what is its primary function?",
+        "answer": "Sleeping"
       },
       {
-        "question": "Does the pet bed appear to offer supportive side walls?",
+        "question": "What design element separates the top and bottom fabrics?",
+        "answer": "Band"
+      },
+      {
+        "question": "What is the inferred usage for this product?",
+        "answer": "Pet"
+      },
+      {
+        "question": "What is the apparent orientation of the visible fabric's ribbed pattern?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Is the height of the bed's side walls uniform around its whole periphery?",
         "answer": "Yes"
       },
       {
-        "question": "What is the general softness implied by the pet bed's appearance?",
-        "answer": "Soft"
+        "question": "What visual impression does the bed\u2019s color combination give?",
+        "answer": "Neutral"
       },
       {
-        "question": "What type of pet is this bed designed for (based on size)?",
-        "answer": "Small"
+        "question": "What seems to be the primary purpose of the raised edge?",
+        "answer": "Support"
       },
       {
-        "question": "Considering its construction, how portable is this pet bed?",
-        "answer": "Portable"
-      },
-      {
-        "question": "Based on the image, what is the general condition of the pet bed?",
-        "answer": "New"
-      },
-      {
-        "question": "How many distinct color sections are visible on the bed?",
-        "answer": "Two"
-      },
-      {
-        "question": "Does the bed appear to have a non-slip bottom (visually)?",
-        "answer": "No"
+        "question": "What style of design is reflected in the outer fabric?",
+        "answer": "Two-tone"
       }
     ]
   }

@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color scheme of the floral pattern adorning the sandal?",
-        "answer": "Multicolored"
+        "question": "What is the dominant color pattern on the sandal's main body?",
+        "answer": "Floral"
       },
       {
-        "question": "What material constitutes the majority of the sandal's upper?",
-        "answer": "Leather"
-      },
-      {
-        "question": "Describe the heel type featured on this particular sandal design?",
-        "answer": "Block"
-      },
-      {
-        "question": "What is the primary material used for the sandal's heel?",
+        "question": "What material appears to comprise the sandal's heel?",
         "answer": "Wood"
       },
       {
-        "question": "Characterize the overall shape of the sandal's toe box area?",
-        "answer": "Open"
+        "question": "Describe the overall shape of the sandal's heel?",
+        "answer": "Block"
       },
       {
-        "question": "What design element is prominently featured near the sandal's vamp?",
-        "answer": "Cutout"
-      },
-      {
-        "question": "Describe the texture evident on the sandal's footbed?",
-        "answer": "Smooth"
-      },
-      {
-        "question": "What type of closure mechanism is integrated into the sandal's design?",
+        "question": "What type of closure system does this sandal utilize?",
         "answer": "Slip-on"
       },
       {
-        "question": "Considering the back of the sandal, what strap style is apparent?",
-        "answer": "slingback"
-      },
-      {
-        "question": "What is the apparent material of the slingback strap?",
-        "answer": "Elastic"
-      },
-      {
-        "question": "What is the color of the elastic slingback strap?",
+        "question": "What is the primary color of the elastic slingback strap?",
         "answer": "White"
       },
       {
-        "question": "What color is the sandal's insole visible near the toe?",
+        "question": "What is the apparent texture of the sandal's insole?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of the toe on this type of sandal?",
+        "answer": "Open"
+      },
+      {
+        "question": "What seems to be the material of the sandal's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the design element present just behind the toe?",
+        "answer": "Cutout"
+      },
+      {
+        "question": "What color is the visible portion of the sandal's outsole?",
         "answer": "Tan"
       },
       {
-        "question": "What is the overall style of the sandal?",
-        "answer": "Casual"
-      },
-      {
-        "question": "What is the approximate height of the heel, in inches?",
+        "question": "Considering the heel height, what is the overall style?",
         "answer": "Low"
       },
       {
-        "question": "Considering the design elements, what season might this sandal best suit?",
-        "answer": "Summer"
+        "question": "What is the noticeable pattern/print visible on the sandal\u2019s body?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the material that appears on the outer sole?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Describe the visible pattern on the sandal's insole?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What design feature is present on the heel's upper portion?",
+        "answer": "None"
       }
     ]
   }

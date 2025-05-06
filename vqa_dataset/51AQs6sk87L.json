@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the upholstered seating surface?",
+        "question": "What is the dominant color of the upholstery covering the entire seating area?",
         "answer": "Teal"
       },
       {
-        "question": "What material appears to constitute the primary upholstery?",
+        "question": "What seems to be the primary material used for the chair's covering?",
         "answer": "Velvet"
       },
       {
-        "question": "What is the overall shape of the presented seating unit?",
+        "question": "Considering the chair's form, what geometric shape best describes its overall structure?",
         "answer": "Cuboid"
       },
       {
-        "question": "Describe the apparent texture of the fabric covering the unit?",
+        "question": "What metallic finish is noticeable on the chair's visible supporting legs?",
+        "answer": "Chrome"
+      },
+      {
+        "question": "What is the apparent texture of the fabric covering the chair's cushions?",
         "answer": "Soft"
       },
       {
-        "question": "What is the visual finish of the legs supporting the piece?",
-        "answer": "Metallic"
+        "question": "Judging by the image, what is the style of the chair's legs \u2013 are they straight or curved?",
+        "answer": "Straight"
       },
       {
-        "question": "What is the apparent material composition of the supporting legs?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the general color of the visible metal components?",
-        "answer": "Silver"
-      },
-      {
-        "question": "Considering the design, what is the main function of this item?",
-        "answer": "Seating"
-      },
-      {
-        "question": "What is the style of the legs in terms of shape and structure?",
-        "answer": "Sleek"
-      },
-      {
-        "question": "Regarding the backrest, what is its primary orientation?",
-        "answer": "Vertical"
-      },
-      {
-        "question": "Does the piece show any noticeable seams or stitching?",
-        "answer": "Yes"
-      },
-      {
-        "question": "What is the apparent level of cushioning based on the visual form?",
-        "answer": "Plush"
-      },
-      {
-        "question": "Describe the shape of the seating area's visible edge?",
-        "answer": "Squared"
-      },
-      {
-        "question": "What is the overall design aesthetic conveyed by this piece?",
+        "question": "What is the overall aesthetic impression given by the chair's color and material?",
         "answer": "Modern"
       },
       {
-        "question": "Considering the image angle, what part of the unit is mostly visible?",
-        "answer": "Back"
+        "question": "What is the apparent height of the chair's back, relative to its seat?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on its construction, what is the primary function of this piece of furniture?",
+        "answer": "Seating"
+      },
+      {
+        "question": "Does the chair exhibit any visible seams or stitching in its upholstery?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the shape of the chair's back rest, viewed from this angle?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the chair have any visible decorative elements or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent material of the chair's legs, based on their visual characteristics?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Judging by the image, how many legs does the chair visibly possess?",
+        "answer": "Four"
+      },
+      {
+        "question": "Does the chair appear to have a storage compartment or additional functionality?",
+        "answer": "Yes"
       }
     ]
   }

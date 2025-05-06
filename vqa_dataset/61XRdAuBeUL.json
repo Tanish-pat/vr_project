@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant metal color of the ring shown?",
+        "question": "What is the dominant color of the ring's metallic band?",
         "answer": "Yellow"
       },
       {
         "question": "What appears to be the primary material of the ring band?",
-        "answer": "Metal"
+        "answer": "Gold"
       },
       {
-        "question": "Considering the ring's design, what is its style?",
-        "answer": "Simple"
+        "question": "What is the overall shape of the ring when viewed from above?",
+        "answer": "Oval"
       },
       {
-        "question": "What is the overall shape of the ring band itself?",
-        "answer": "Curved"
+        "question": "Describe the visible texture of the ring's metallic surface.",
+        "answer": "Smooth"
       },
       {
-        "question": "Based on the image, what is the apparent width of the ring band?",
-        "answer": "Thin"
+        "question": "What is the most noticeable design element on the ring?",
+        "answer": "Band"
       },
       {
-        "question": "Does the ring have any visible embellishments or stones?",
-        "answer": "Yes"
+        "question": "How would you describe the ring's setting style?",
+        "answer": "Bezel"
       },
       {
-        "question": "What is the approximate number of small stones on the ring?",
-        "answer": "Several"
+        "question": "Considering the image, what is the apparent width of the ring band?",
+        "answer": "Narrow"
       },
       {
-        "question": "Judging from the image, how would you describe the ring's setting?",
-        "answer": "Pave"
+        "question": "What kind of embellishments or gemstones are visible on the ring?",
+        "answer": "None"
       },
       {
-        "question": "Considering the stones, what seems to be their arrangement on the ring?",
-        "answer": "Linear"
+        "question": "Based on its visual characteristics, what is the likely style of this ring?",
+        "answer": "Classic"
       },
       {
-        "question": "What is the general appearance of the stones' facets?",
-        "answer": "Small"
+        "question": "Does the ring exhibit any visible engravings or markings?",
+        "answer": "No"
       },
       {
-        "question": "From the image, what is the apparent finish of the metal band?",
+        "question": "What is the apparent condition of the ring's surface?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the ring's appearance, is it intricately detailed?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general appearance of the metal of the ring?",
         "answer": "Shiny"
       },
       {
-        "question": "Based on the visual, how would you classify the ring\u2019s design?",
+        "question": "What is the overall visual style and feel of the ring?",
+        "answer": "Simple"
+      },
+      {
+        "question": "In terms of its design, is the ring minimalist or ornate?",
         "answer": "Minimalist"
-      },
-      {
-        "question": "What is the overall visual impression given by this ring?",
-        "answer": "Delicate"
-      },
-      {
-        "question": "What is the setting style for the small stones on the ring?",
-        "answer": "Channel"
-      },
-      {
-        "question": "In terms of its overall fit, how would you describe the ring?",
-        "answer": "Snug"
       }
     ]
   }

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c0bcec6d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible wooden structure?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary material visibly used in the construction of this item?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the overall form, what geometrical shape best describes this piece of furniture?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many visibly distinct shelves are present within the main framework?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the visual pattern formed by the structural cross-bracing elements?",
+        "answer": "Lattice"
+      },
+      {
+        "question": "What is the apparent finish of the visible wooden surfaces of the unit?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the descriptive term for the structural supports extending from the top to the base?",
+        "answer": "Posts"
+      },
+      {
+        "question": "What best describes the overall design style as visually apparent in the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Focusing on the shelves, what is the general shape of their surfaces?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of joinery is primarily evident in the visible structural connections?",
+        "answer": "Butt"
+      },
+      {
+        "question": "Considering the verticality of the object, what is the position of the shelves?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the apparent visual texture of the visible wooden components?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What kind of visible support elements are used between shelves for added stability?",
+        "answer": "Cross-braces"
+      },
+      {
+        "question": "What best describes the thickness of the visible structural elements?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "From the image, how would you characterize the visible height of the shelf unit?",
+        "answer": "Tall"
+      }
+    ]
+  }
+]

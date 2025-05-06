@@ -5,15 +5,15 @@
   {
     "questions": [
       {
-        "question": "What is the predominant color of the whiteboard's writing surface?",
-        "answer": "White"
-      },
-      {
-        "question": "What metallic tone describes the frame encompassing the whiteboard?",
+        "question": "What is the primary color of the whiteboard's frame?",
         "answer": "Silver"
       },
       {
-        "question": "What is the geometric shape of the main whiteboard panel itself?",
+        "question": "What appears to be the writing surface material of the board?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering its overall form, what is the shape of the whiteboard?",
         "answer": "Rectangular"
       },
       {
@@ -21,48 +21,48 @@
         "answer": "Metal"
       },
       {
-        "question": "Considering the frame's profile, is it thick or thin in visual appearance?",
-        "answer": "Thin"
-      },
-      {
-        "question": "What is the apparent finish of the whiteboard's writing surface?",
-        "answer": "Matte"
-      },
-      {
-        "question": "What features are visible at the base of the whiteboard's frame?",
-        "answer": "Supports"
-      },
-      {
-        "question": "What appears to be the overall construction style of the whiteboard?",
-        "answer": "Simple"
-      },
-      {
-        "question": "Does the frame appear to have any visible texture or pattern?",
+        "question": "Based on its visual appearance, what is the surface texture of the board?",
         "answer": "Smooth"
       },
       {
-        "question": "What seems to be the primary intended use of this item?",
+        "question": "Observing the base, what type of stand does the whiteboard have?",
+        "answer": "Wall-mounted"
+      },
+      {
+        "question": "Does the whiteboard's frame appear to be glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its size, is the whiteboard better suited for individual or group use?",
+        "answer": "Group"
+      },
+      {
+        "question": "What is the visible design of the whiteboard's frame?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the image, how thick is the frame surrounding the board?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the overall visual impression given by the whiteboard?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What seems to be the main functionality of this object?",
         "answer": "Writing"
       },
       {
-        "question": "How many visible supports are shown at the bottom of the board?",
-        "answer": "Two"
+        "question": "What is the apparent condition of the whiteboard shown in the image?",
+        "answer": "New"
       },
       {
-        "question": "Based on visual cues, is the frame joined seamlessly or visibly?",
-        "answer": "Seamless"
-      },
-      {
-        "question": "What is the visible profile of the frame relative to the board?",
-        "answer": "Recessed"
-      },
-      {
-        "question": "Is there any noticeable branding or labeling on the whiteboard itself?",
+        "question": "Are there any visible markings or patterns on the board itself?",
         "answer": "None"
       },
       {
-        "question": "What is the orientation depicted in the provided product image?",
-        "answer": "Vertical"
+        "question": "Does the image show any accessories included with the whiteboard?",
+        "answer": "No"
       }
     ]
   }

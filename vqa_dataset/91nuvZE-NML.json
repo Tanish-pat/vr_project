@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the overall shape of the headboard, considering its curves and height?",
-        "answer": "Sleigh"
-      },
-      {
-        "question": "What is the predominant color of the upholstery fabric?",
+        "question": "What is the dominant color of the upholstered headboard and footboard?",
         "answer": "Beige"
       },
       {
-        "question": "Describe the pattern formed by the tufting on the headboard and footboard?",
-        "answer": "Diamond"
+        "question": "What is the primary texture of the fabric covering the bed frame?",
+        "answer": "Tufted"
       },
       {
-        "question": "What kind of fabric appears to be used for the upholstery?",
-        "answer": "Linen"
+        "question": "What shape best describes the overall form of the bed frame?",
+        "answer": "Sleigh"
       },
       {
-        "question": "What material are the small, decorative studs along the edges?",
-        "answer": "Metal"
-      },
-      {
-        "question": "What is the general style or aesthetic of the bed frame?",
-        "answer": "Traditional"
-      },
-      {
-        "question": "Considering the visual texture, how would you describe the upholstery?",
-        "answer": "Textured"
-      },
-      {
-        "question": "What color are the visible legs or feet of the bed?",
-        "answer": "Dark"
-      },
-      {
-        "question": "What is the overall visual impression of the bed\u2019s construction?",
-        "answer": "Sturdy"
-      },
-      {
-        "question": "Based on the image, what size bed is shown (Queen, King, etc.)?",
-        "answer": "Queen"
-      },
-      {
-        "question": "What is the style of the tufting\u2014channel, button, etc.?",
-        "answer": "Button"
-      },
-      {
-        "question": "Describe the curvature of the footboard's design.",
-        "answer": "Curved"
-      },
-      {
-        "question": "What is the visible design feature along the edges of the frame?",
+        "question": "What type of decorative elements are visible along the edges of the headboard and footboard?",
         "answer": "Nails"
       },
       {
-        "question": "How would you describe the visual texture of the fabric?",
-        "answer": "Woven"
+        "question": "What seems to be the material of the visible upholstery?",
+        "answer": "Fabric"
       },
       {
-        "question": "What kind of bed is it (e.g., platform, sleigh, canopy)?",
+        "question": "Considering the shape, what style of bed is depicted?",
         "answer": "Sleigh"
+      },
+      {
+        "question": "What is the apparent material of the small decorative nail heads?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the pattern created by the tufting on the headboard?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "What is the apparent overall condition of the bed frame's upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible color of the bed's frame beneath the upholstery?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What kind of visible support does the mattress seem to have?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the footboard have a similar design to the headboard?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the shape of the headboard's curve.",
+        "answer": "Curved"
+      },
+      {
+        "question": "How many visible legs support the bed frame?",
+        "answer": "Four"
+      },
+      {
+        "question": "Considering the overall look, what style is suggested?",
+        "answer": "Traditional"
       }
     ]
   }

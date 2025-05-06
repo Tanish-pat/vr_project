@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bdf4d0d1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the table's top surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the table's legs?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall shape of the side profile of this piece of furniture?",
+        "answer": "A-frame"
+      },
+      {
+        "question": "What is the apparent texture of the wooden components?",
+        "answer": "Wood-grain"
+      },
+      {
+        "question": "How many distinct shelves does this side table visibly possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent finish of the wood used in the construction?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the leg structure, what style best describes this table?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the general shape of the table's top surface?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible color of the metal supports?",
+        "answer": "Black"
+      },
+      {
+        "question": "What seems to be the overall height of the furniture relative to its width?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Considering the design elements, what is the aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the visible connection between the table top and legs?",
+        "answer": "Flush"
+      },
+      {
+        "question": "Describe the visible type of wood grain pattern on the surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What seems to be the primary function of the lower shelf?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What single word describes the overall design of the legs?",
+        "answer": "Angular"
+      }
+    ]
+  }
+]

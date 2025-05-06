@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary material visibly composing the majority of the coffee table's structure?",
+        "question": "What is the predominant color of the visible wooden surface of the coffee table?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What natural material appears to constitute the entirety of the coffee table's construction?",
         "answer": "Wood"
       },
       {
-        "question": "Considering the visible grain and tone, what type of wood appears to be used?",
-        "answer": "Oak"
-      },
-      {
-        "question": "Describe the overall shape of the coffee table's top surface, ignoring any minor details.",
+        "question": "Considering the overall form, what geometrical shape best describes the coffee table's top surface?",
         "answer": "Rectangular"
       },
       {
-        "question": "How many distinct visible shelves or levels does this coffee table possess?",
+        "question": "How many distinct horizontal levels or shelves are visibly integrated into the coffee table's design?",
         "answer": "Two"
       },
       {
-        "question": "What is the general color or shade of the wood used in the coffee table's construction?",
-        "answer": "Light"
-      },
-      {
-        "question": "Based on visual observation, what is the apparent finish of the wood surface?",
-        "answer": "Natural"
-      },
-      {
-        "question": "Considering the visible design, what is the style of the coffee table's legs?",
-        "answer": "Block"
-      },
-      {
-        "question": "Judging by the image, how would you describe the visible texture of the wood's surface?",
+        "question": "Describe the visual texture of the wood grain apparent on the table's top surface?",
         "answer": "Smooth"
       },
       {
-        "question": "Does the coffee table exhibit any noticeable decorative elements or carvings?",
-        "answer": "No"
+        "question": "What is the general shape of the coffee table's legs, viewed from the front?",
+        "answer": "Rectangular"
       },
       {
-        "question": "Describe the structural support beneath the top surface, based purely on visual evidence.",
-        "answer": "Shelf"
-      },
-      {
-        "question": "Considering the visible joinery, how would you describe the visible construction?",
-        "answer": "Simple"
-      },
-      {
-        "question": "What is the apparent height of the lower shelf relative to the ground?",
-        "answer": "Low"
-      },
-      {
-        "question": "Based solely on visual inspection, does the table appear to have any visible distressing or wear?",
-        "answer": "No"
-      },
-      {
-        "question": "From the image alone, what is the style of the coffee table's overall design?",
-        "answer": "Modern"
-      },
-      {
-        "question": "Considering the image, what is the overall visual impression of the piece?",
+        "question": "Judging by the image, how would you characterize the overall style of this coffee table?",
         "answer": "Minimalist"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the finish applied to the wooden surfaces?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the coffee table show any noticeable signs of distressing or intentional wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible structure, what is the primary function of the lower shelf?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the apparent thickness of the top surface of the coffee table relative to its legs?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What kind of visible joinery seems to connect the legs to the tabletop?",
+        "answer": "Butt"
+      },
+      {
+        "question": "Observing the grain patterns, does the wood appear to be of a consistent type throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any evidence of decorative elements, carvings or inlay in the coffee table?",
+        "answer": "No"
+      },
+      {
+        "question": "From this angle, are there any visible metal components or hardware on the coffee table?",
+        "answer": "No"
       }
     ]
   }

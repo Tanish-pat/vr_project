@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/35/359faaae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the top surface of this piece of furniture?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the drawer fronts?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of this furniture?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the grain pattern visible on the drawer fronts?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What color is the wood-like finish on the drawer fronts?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What seems to be the material of the visible frame of the furniture?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the finish of the top surface, glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible portion, what is the style of the furniture?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the texture of the top surface, smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visible joints between the top and the drawer fronts?",
+        "answer": "Clean"
+      },
+      {
+        "question": "How many drawers are partially visible in this image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What type of drawer pull is evident on the drawers?",
+        "answer": "None"
+      },
+      {
+        "question": "Is there any noticeable distressing or antiquing on the visible surfaces?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the design, what is the likely use of this piece?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the general condition of the visible surfaces; damaged or pristine?",
+        "answer": "Pristine"
+      }
+    ]
+  }
+]

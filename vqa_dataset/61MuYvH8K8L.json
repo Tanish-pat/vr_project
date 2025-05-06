@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the primary color of the visible grip sections on the adjustable bar?",
+        "question": "What is the primary color visually dominant on the extendable bar?",
         "answer": "Blue"
       },
       {
-        "question": "What metallic material appears to constitute the majority of the bar's structure?",
-        "answer": "Silver"
+        "question": "What material appears to constitute the main body of the bar?",
+        "answer": "Metal"
       },
       {
-        "question": "Considering the overall form, what is the dominant shape of the product?",
+        "question": "Considering the end-caps, what seems to be their apparent material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the extendable fitness bar?",
         "answer": "Cylindrical"
       },
       {
-        "question": "What appears to be the mechanism for adjusting the bar's length?",
-        "answer": "Rotation"
-      },
-      {
-        "question": "What is the visible text branding repeated across the bar's grips?",
-        "answer": "Umi"
-      },
-      {
-        "question": "What seems to be the textured characteristic of the grip sections, enhancing user hold?",
+        "question": "Describe the texture visually apparent on the bar's grip areas?",
         "answer": "Rubberized"
       },
       {
-        "question": "Based on the image, what is the apparent function of this product?",
-        "answer": "Exercise"
+        "question": "What is the design feature that allows length adjustment?",
+        "answer": "Rotating"
       },
       {
-        "question": "What design element is visible at both ends of the adjustable bar?",
+        "question": "What is the type of mechanism visually employed for length adjustment?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What word is prominently displayed on the bar's gripping areas?",
+        "answer": "UMI"
+      },
+      {
+        "question": "What seems to be the functionality of this piece of fitness equipment?",
+        "answer": "Pull-up"
+      },
+      {
+        "question": "What seems to be the apparent purpose of the blue central component?",
+        "answer": "Locking"
+      },
+      {
+        "question": "What appears to be the shape of the end caps at each bar end?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the grip areas, what seems to be their general design pattern?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What design element is present at the very end of each extending bar?",
         "answer": "Knobs"
       },
       {
-        "question": "What type of structure is clearly illustrated in the central diagram?",
-        "answer": "Threaded"
+        "question": "Based on the image, what seems to be the overall construction of the bar?",
+        "answer": "Telescopic"
       },
       {
-        "question": "Judging by the image, what is the longest measured length of the bar?",
-        "answer": "92cm"
-      },
-      {
-        "question": "What is the shortest measured length of the bar, as shown in the image?",
-        "answer": "72cm"
-      },
-      {
-        "question": "What is the overall visual impression of the bar's construction, in terms of quality?",
-        "answer": "Sturdy"
-      },
-      {
-        "question": "Considering the design elements, what is the intended use of this product?",
-        "answer": "Workout"
-      },
-      {
-        "question": "What is the apparent design feature that allows for length adjustment?",
-        "answer": "Threads"
-      },
-      {
-        "question": "Based on the visuals, what is the intended user interaction with the product?",
-        "answer": "Grip"
+        "question": "What is the apparent design feature at the center of the bar section?",
+        "answer": "Grooved"
       }
     ]
   }

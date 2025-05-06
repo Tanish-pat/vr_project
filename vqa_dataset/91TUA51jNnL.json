@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d3863d03.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme visually dominant on the packaging, as shown in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the overall shape of the product's packaging, as depicted, what geometrical term best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what seems to be the texture of the packaging's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What specific type of floral design element is prominently featured on the packaging, according to the image?",
+        "answer": "Rose"
+      },
+      {
+        "question": "Judging by the image, what appears to be the material of the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Does the image show any clear indication of the product's fragrance, directly on the packaging?",
+        "answer": "Rose"
+      },
+      {
+        "question": "According to the visual elements shown, what is the product's intended use or function?",
+        "answer": "Air freshener"
+      },
+      {
+        "question": "What is the most prominent text visible on the packaging, clearly shown in the image?",
+        "answer": "Presto"
+      },
+      {
+        "question": "What style of font is used for the main brand name as shown in the visual?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the image reveal any noticeable logo or branding symbol beyond the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What language is used in the prominent text visible on the packaging in the provided image?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the image, what kind of weight is specified for the product?",
+        "answer": "300g"
+      },
+      {
+        "question": "What manufacturing country is stated, based on the image?",
+        "answer": "India"
+      },
+      {
+        "question": "Describe the pattern observed on the packaging's background, as shown in the image.",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the orientation of the main text on the packaging shown in the image?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f0c2e82a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the fabric, based on the visible pattern and shading?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the image's close-up view, what is the apparent texture of the fabric?",
+        "answer": "Knit"
+      },
+      {
+        "question": "What is the most prominent design element visible on the fabric's surface?",
+        "answer": "Pattern"
+      },
+      {
+        "question": "Based on the visible weave and drape, what is the likely type of fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's color depth and variation?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Does the fabric appear to have a noticeable sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the shape of the visible area of the textile piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the edges, what appears to be the treatment of the fabric's raw ends?",
+        "answer": "Finished"
+      },
+      {
+        "question": "Judging by the image detail, how would you describe the density of the fabric's weave?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visual pattern, is it clearly geometric, organic or abstract?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What secondary color is present, forming a subtle contrast to the main color?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Does the fabric display any obvious irregularities or imperfections in its weave?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image, what is the visual weight or thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "How would you characterize the overall visual style of the fabric's design?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the fabric appear to have any raised or embossed elements?",
+        "answer": "No"
+      }
+    ]
+  }
+]

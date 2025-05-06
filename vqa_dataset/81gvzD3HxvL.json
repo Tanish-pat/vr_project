@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color scheme of the phone case's design?",
+        "question": "What is the dominant color scheme of the depicted phone case?",
         "answer": "Brown"
       },
       {
-        "question": "What primary shape is prominently featured on the phone case?",
+        "question": "What prominent design element is featured on the phone case's surface?",
         "answer": "Star"
       },
       {
-        "question": "What material is visually simulated on the phone case's surface?",
+        "question": "What specific material is visually suggested by the phone case's design?",
         "answer": "Wood"
       },
       {
-        "question": "Describe the overall texture implied by the phone case's design.",
+        "question": "What is the overall shape of the item pictured in this image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visual texture implied by the phone case's printed design?",
         "answer": "Rough"
       },
       {
-        "question": "What color is the star-shaped graphic printed on the phone case?",
+        "question": "What color is the star shape printed onto the phone case?",
         "answer": "White"
       },
       {
-        "question": "What style does the wood grain pattern on the case suggest?",
-        "answer": "Rustic"
+        "question": "What is the style of the star printed on the phone case?",
+        "answer": "Five-pointed"
       },
       {
-        "question": "How would you characterize the appearance of the wooden planks depicted?",
-        "answer": "Weathered"
-      },
-      {
-        "question": "Does the star graphic appear fully intact or distressed?",
+        "question": "What appearance does the wood grain design convey on the case?",
         "answer": "Distressed"
       },
       {
-        "question": "What is the apparent form factor of the device this case fits?",
-        "answer": "Phone"
+        "question": "Considering the overall look, what aesthetic is conveyed by the phone case?",
+        "answer": "Rustic"
       },
       {
-        "question": "Considering the design, what is the case's style aesthetic?",
-        "answer": "Western"
+        "question": "What appears to be the main function of the item in the image?",
+        "answer": "Protection"
       },
       {
-        "question": "Is the color of the wood pattern uniform or varied?",
-        "answer": "Varied"
+        "question": "What is the visible condition of the wooden planks in the design?",
+        "answer": "Weathered"
       },
       {
-        "question": "What kind of print technique appears to have been used on the case?",
+        "question": "What kind of image does the printed design on the phone case represent?",
         "answer": "Graphic"
       },
       {
-        "question": "Does the case show any significant markings beyond the star?",
-        "answer": "No"
+        "question": "What kind of background does the white star have on the case?",
+        "answer": "Wooden"
       },
       {
-        "question": "Based on appearance, what is the primary material of the case itself?",
-        "answer": "Plastic"
+        "question": "How many noticeable buttons or ports are visibly present on the back?",
+        "answer": "Two"
       },
       {
-        "question": "Describe the visual sharpness or clarity of the wooden grain detail.",
-        "answer": "Clear"
+        "question": "Considering its appearance, what is the likely intended use of this item?",
+        "answer": "Mobile"
       }
     ]
   }

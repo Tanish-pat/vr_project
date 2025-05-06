@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b4/b4cffd1d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted diaper bag?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What primary material appears to constitute the diaper bag's exterior?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "What is the overall shape of the presented diaper bag?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the bag's structure, what is its most prominent style?",
+        "answer": "Backpack"
+      },
+      {
+        "question": "Describe the texture of the bag's outer fabric, based on visual cues?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure is shown on the main compartment of the bag?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "How many major external pockets are visibly present on this backpack?",
+        "answer": "Three"
+      },
+      {
+        "question": "What design element is noticeable near the top handle of the bag?",
+        "answer": "Stitching"
+      },
+      {
+        "question": "What is the apparent color of the small, circular emblem on the bag?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on its design, what is one likely use for this bag?",
+        "answer": "Diapering"
+      },
+      {
+        "question": "Are there any visible reinforced elements on the base of the bag?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible color of the interior lining of the milk bottle pockets?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What seems to be the material of the straps on this backpack?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the shape of the side tissue pocket shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the main compartment appear to have multiple zipper pulls?",
+        "answer": "No"
+      }
+    ]
+  }
+]

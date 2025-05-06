@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/dabe4be2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the chair's upholstery?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the dominant pattern on the chair's fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the overall shape of the chair's backrest?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What type of chair is depicted, based on its base?",
+        "answer": "Swivel"
+      },
+      {
+        "question": "What material appears to be used for the chair's upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "How would you describe the texture of the chair's fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "What is the shape of the chair's armrests?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What design element is visible on the chair's backrest?",
+        "answer": "Buttons"
+      },
+      {
+        "question": "What color is the visible portion of the chair's base?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general style of the chair's design?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What is the apparent material of the chair's base?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall size of the chair depicted?",
+        "answer": "Single"
+      },
+      {
+        "question": "How many visible buttons are present on the backrest?",
+        "answer": "Five"
+      },
+      {
+        "question": "What type of legs does the chair appear to have?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general condition of the displayed chair?",
+        "answer": "New"
+      }
+    ]
+  }
+]

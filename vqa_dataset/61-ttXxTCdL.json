@@ -5,64 +5,64 @@
   {
     "questions": [
       {
-        "question": "What is the dominant color of the picture frame's visible exterior?",
+        "question": "What is the dominant color of the photo frame's visible surface?",
         "answer": "Gray"
       },
       {
-        "question": "What specific texture is prominently displayed on the frame's surface?",
-        "answer": "Woodgrain"
+        "question": "What appears to be the primary material used in constructing the frame?",
+        "answer": "Wood"
       },
       {
-        "question": "What is the overall geometric shape of the presented picture frame?",
+        "question": "Describe the overall shape of the displayed photo frame?",
         "answer": "Rectangular"
       },
       {
-        "question": "What material appears to constitute the frame's visible construction?",
-        "answer": "Wood"
+        "question": "What kind of texture is predominantly visible on the frame's exterior?",
+        "answer": "Woodgrain"
       },
       {
-        "question": "Is the frame design simplistic or ornate, based on visible features?",
+        "question": "Considering the frame's visible design, what style best describes it?",
         "answer": "Simple"
       },
       {
-        "question": "Describe the visible finish of the photo frame's outer surface?",
-        "answer": "Matte"
+        "question": "Is there any noticeable pattern or design on the frame's surface?",
+        "answer": "Striated"
       },
       {
-        "question": "What is the apparent orientation of the displayed photo frame?",
-        "answer": "Vertical"
+        "question": "What functional feature allows the frame to stand upright?",
+        "answer": "Stand"
       },
       {
-        "question": "How many visible sides of the picture frame have a visible border?",
-        "answer": "Four"
+        "question": "What seems to be the approximate width of the frame's border?",
+        "answer": "Wide"
       },
       {
-        "question": "What is the color of the visible stand supporting the frame?",
-        "answer": "Brown"
-      },
-      {
-        "question": "Does the frame feature any noticeable engravings or carvings?",
-        "answer": "No"
-      },
-      {
-        "question": "What is the material that appears to compose the photo frame's stand?",
-        "answer": "Wood"
-      },
-      {
-        "question": "Considering the visual details, what is the frame's apparent style?",
+        "question": "Based on its visual appearance, what is the general aesthetic of this frame?",
         "answer": "Rustic"
       },
       {
-        "question": "What is the apparent overall condition of the presented picture frame?",
-        "answer": "New"
-      },
-      {
-        "question": "Is the frame's color consistent across all visible parts?",
-        "answer": "Yes"
-      },
-      {
-        "question": "Does the frame show any signs of visible damage or wear?",
+        "question": "Does the frame feature any visible embellishments or decorative elements?",
         "answer": "No"
+      },
+      {
+        "question": "What is the visible color of the frame's supporting stand?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by its appearance, what material is the supporting stand seemingly made of?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Does the frame appear to have any significant surface imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the frame\u2019s visible surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the overall condition of the photo frame as visually presented",
+        "answer": "New"
       }
     ]
   }

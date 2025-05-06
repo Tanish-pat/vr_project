@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/de/de494d8c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the laptop case's exterior?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing the briefcase?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the overall form, what is the dominant shape of this carrying case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of handle is prominently featured at the top of the laptop bag?",
+        "answer": "Padded"
+      },
+      {
+        "question": "Judging by the image, what seems to be the texture of the briefcase's outer layer?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual observation, does the case include an additional carrying strap?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the closure mechanism, what type of zipper is present on the top?",
+        "answer": "Hidden"
+      },
+      {
+        "question": "What is the apparent condition of the laptop case, showing any visible damage or wear?",
+        "answer": "New"
+      },
+      {
+        "question": "Excluding the handle, what other design element enhances portability?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Considering its overall structure, what is the suggested function of this item?",
+        "answer": "Laptop"
+      },
+      {
+        "question": "Does the image reveal any visible branding, logos, or markings on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of the visible seams, how would you describe their overall neatness?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the apparent stiffness or flexibility of the case's overall structure?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the product's style, is it primarily designed for formal or informal use?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Based on the picture, is the laptop case primarily intended for single or multiple devices?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

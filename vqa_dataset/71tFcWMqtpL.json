@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1ee995f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall metallic finish or color of the door closer?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the primary material visibly composing the main body of the device?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the dominant shape of the device's main housing unit?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the arm's extension, what is the apparent operational mechanism?",
+        "answer": "Hydraulic"
+      },
+      {
+        "question": "What kind of surface texture does the main body of the closer appear to have?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many visible mounting holes are present on the base plate?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent shape of the connecting rod between the main body and arm?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describing the arm's movement, what is its primary action on the door?",
+        "answer": "Closing"
+      },
+      {
+        "question": "What is the most noticeable feature at the base of the main housing unit?",
+        "answer": "Holes"
+      },
+      {
+        "question": "What is the apparent finish of the metallic components of the door closer?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall design style of the door closer, considered as a functional component?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the device's structure, what is its intended purpose for a door?",
+        "answer": "Control"
+      },
+      {
+        "question": "Focusing on the arm's position in the image, is it in an open or closed state?",
+        "answer": "Open"
+      },
+      {
+        "question": "What is the approximate orientation of the main body relative to the floor?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the visual components, what is the overall weight bearing capacity inferred?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]
