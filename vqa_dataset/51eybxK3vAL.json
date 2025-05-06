@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bc/bc80170c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the outer covering of this long, rectangular binder?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the primary material used for the exterior of this document-holding device?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering its shape and construction, what is the most likely function of this item?",
+        "answer": "Binder"
+      },
+      {
+        "question": "What is the visible design element located on the spine of the reddish-brown rectangular binder?",
+        "answer": "Labels"
+      },
+      {
+        "question": "What seems to be the material of the internal mechanism visible within this folder?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describing the texture of the exterior of this long, slim item, what word best captures its visual feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its visual appearance, what type of mechanism does this red binder appear to utilize?",
+        "answer": "Clamp"
+      },
+      {
+        "question": "What is the overall shape of this object based solely on visual examination of the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, what seems to be the color of the internal mechanism of this long red binder?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the apparent condition of this item, judging solely by the clarity of its visible features?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the visible pattern on the visible inner part of the item?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Describe the image shown faintly through the mostly-closed binder.",
+        "answer": "Pictures"
+      },
+      {
+        "question": "What style of binding does this rectangular red document holder seemingly have?",
+        "answer": "Side"
+      },
+      {
+        "question": "Ignoring metadata, what is the inferred use of this object, judging purely from its visual characteristics?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Based on its shape and size, what is the probable orientation of this item when used for its intended purpose?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]
