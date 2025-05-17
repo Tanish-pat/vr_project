@@ -32,8 +32,8 @@ class Config:
     VAL_JSON_DIR = "./validation-dataset/validation"
     IMAGE_PREFIX = "./berkley-dataset"
     PRETRAINED_DIR = "./pretrained-NAHICHALTA"
-    CHECKPOINT_DIR = "./working_2/checkpoints"
-    LOGS_DIR = "./working_2/logs"
+    CHECKPOINT_DIR = "./working/checkpoints"
+    LOGS_DIR = "./working/logs"
 
     # Training parameters
     BATCH_SIZE = 8
