@@ -1,3 +1,13 @@
+# Evaluation Of Model after Finetuning
+
+This script computes and prints summary statistics of the model after finetuning using pre-computed metrics stored in a `.npz` file.
+
+## Contents
+
+- `vqa_metrics.npz`: A NumPy archive containing evaluation metrics for each VQA prediction.
+- `evaluate_metrics.py`: Python script to load and summarize the evaluation metrics.
+
+
 ## How to Run
 
 1. Ensure you have Python and NumPy installed:
