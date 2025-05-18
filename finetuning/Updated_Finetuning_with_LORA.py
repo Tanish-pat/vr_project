@@ -59,11 +59,11 @@ class Config:
     LOG_EVERY = 100
     MIXED_PRECISION = None
 
-    # Flash attention (if available)
-    USE_FLASH_ATTENTION = False
+    # Flash attention 
+    USE_FLASH_ATTENTION = True
 
     # 8-bit quantization for base model
-    USE_8BIT_QUANT = False
+    USE_8BIT_QUANT = True
 
     # Reproducibility
     SEED = 42
